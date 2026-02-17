@@ -1,0 +1,71 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "O dia seguinte após assistir à corrida com<n>\nTazuna..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Olá novamente, Treinador! Bem-vindo à<n>\nAcademia Centro de Treinamento de Umamusume<n>\ndo Japão!",
+            "color_text_info_list": [
+                "Academia Centro de Treinamento de Umamusume"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Este é o melhor estabelecimento de treinamento de\nUmamusume<n> no Japão, lar de inúmeras<n>\nalunas que sonham com o mundo das<n>\ncorridas!"
+        },
+        {
+            "name": "???",
+            "text": "SEJA BEM-VINDO!",
+            "choice_data_list": "['?!']"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Valha-me Deus, Diretora Akikawa! Você nos<n>\nassustou!",
+            "color_text_info_list": "['Akikawa']"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Peço desculpas! Ver um novo treinador tão<n>\npromissor simplesmente me deixa muito animada!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Apresentações! Eu sou Akikawa, a diretora<n>\ndesta academia! Anseio pelos seus<n>\nesforços, novato!",
+            "color_text_info_list": [
+                "Akikawa"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Mas primeiro... Por favor! Conte-nos sobre você!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Bem-vindo!<n>\nTreinador<n><username>,<n>\na partir de agora, você faz parte da\nAcademia<n>Tracen!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Grandes esperanças! Espero que você dê tudo de si<n>\njunto com suas aprendizes para tornar os<n>\nsonhos delas realidade!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "O objetivo das alunas da nossa academia é<n>\nparticipar da renomada<n>\nTwinkle Series.",
+            "color_text_info_list": [
+                "Twinkle Series"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Por isso quero que você, Treinador, ensine, guie<n>\ne apoie suas aprendizes do início ao<n>\nfim!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Isso é tudo! Espero que você trabalhe<n>\ndiligentemente para honrar o distintivo de treinador<n>\nque carrega no peito!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Bem, então vamos para o curso de<n>introdução,<n>\nTreinador <username>!"
+        }
+    ]
+}

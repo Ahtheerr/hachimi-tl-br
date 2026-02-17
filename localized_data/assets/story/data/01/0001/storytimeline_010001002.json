@@ -1,0 +1,26 @@
+{
+    "text_block_list": [
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Finalmente estamos prontos para tentar correr!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Atenção! Antes de participar de uma corrida,<n>\ncertifique-se de sempre verificar suas habilidades!",
+            "color_text_info_list": [
+                "habilidades"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Pegue isto! Permita-me conceder-lhe alguns<n>\npontos de habilidade para esta ocasião especial!",
+            "color_text_info_list": [
+                "pontos de habilidade"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Pontos de habilidade podem ser adquiridos em<n>\nvários momentos durante sua Carreira!"
+        }
+    ]
+}

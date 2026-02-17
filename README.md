@@ -1,10 +1,5 @@
 # 🏇 Uma Musume: Pretty Derby - Tradução PT-BR (Hachimi)
 
-<p align="center">
-<img src="[https://img.shields.io/badge/Status-Work%20In%20Progress-orange?style=for-the-badge]()" alt="WIP">
-<img src="[https://img.shields.io/badge/Version-BETA-blueviolet?style=for-the-badge]()" alt="Beta">
-</p>
-
 Este projeto tem como objetivo traduzir o jogo **Uma Musume: Pretty Derby (PC)** para o português brasileiro utilizando a ferramenta **Hachimi**.
 
 ---
@@ -63,6 +58,6 @@ A tradução está sendo feita aos poucos. Você encontrará muitos textos ainda
 
 ---
 
-<p align="center">Feito com 🥕 por fãs de cavalos de corrida.</p>
+<p align="center">Feito com 🥕 por fãs de garotas-cavalo.</p>
 
 ---

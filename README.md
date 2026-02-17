@@ -47,7 +47,10 @@ Se o seu jogo fechar sozinho ao iniciar, pode ser um conflito da interface (GUI)
 
 Este projeto é um **Work In Progress (WIP)**.
 
-A tradução está sendo feita aos poucos. Você encontrará muitos textos ainda em japonês ou inglês. Agradecemos a paciência!
+A tradução está sendo feita aos poucos. Você encontrará muitos textos ainda em inglês. Agradecemos a paciência!
+
+Quer ajudar a traduzir? Me chame no discord: Ahtheerr
+
 
 ---
 

@@ -1,0 +1,80 @@
+[
+    {
+        "name": "English (UmaTL)",
+        "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json",
+        "short_desc": "Translates all parts, with a focus on lore & accuracy. Terms might change and not match community. Source: Original. Contributors: noccu (+ maintainer), LotoDS, CatNipHoarder + Holo, Chiwawa, Kasey, … (tinyurl.com/UmaTLCredits)",
+        "language": "en"
+    },
+    {
+        "name": "English with Skill Data (UmaTL SD-EN)",
+        "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en-sd/release/index.json",
+        "short_desc": "Standard UmaTL, but replaces skill descriptions with numerical effects and conditions. Source: UmaTL. Contributors: noccu",
+        "language": "en"
+    },
+    {
+        "name": "Skill Data Only (UmaTL SD)",
+        "index": "https://raw.githubusercontent.com/UmaTL/hachimi-sd/release/index.json",
+        "short_desc": "Replaces skill descriptions with numerical effects and condition. No translations. Contributors: noccu",
+        "language": "en"
+    },
+    {
+        "name": "繁體中文",
+        "index": "https://files.leadrdrk.com/hachimi/tl-zh-tw.json",
+        "short_desc": "來源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 貢獻者：yotv2000tw (+維護者), seanpai96, asps76482, _akito@ytb, project90418512@twt, …",
+        "language": "zh-tw"
+    },
+    {
+        "name": "繁體中文（大陸加速鏡像）",
+        "index": "https://fuwadl.yingqwq.cn/zh-tw/index/index.json",
+        "short_desc": "來源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 貢獻者：yotv2000tw (+維護者), seanpai96, asps76482, _akito@ytb, project90418512@twt, …",
+        "language": "zh-tw"
+    },
+    {
+        "name": "简体中文",
+        "index": "https://files.leadrdrk.com/hachimi/tl-zh-cn.json",
+        "short_desc": "官方源，部分译文内容继承自 Trainers' Legend G 译文仓库(tinyurl.com/TLGCredits)。 贡献者：yingyingyingqwq (+维护者), 1oschi, lanshan114514, hyperlotus, Virlurable, yushenzc, … ",
+        "language": "zh-cn"
+    },
+    {
+        "name": "简体中文（大陆加速镜像）",
+        "index": "https://fuwadl.yingqwq.cn/zh-cn/index/index.json",
+        "short_desc": "官方源，仅对部分地区有加速效果。部分译文内容继承自 Trainers' Legend G 译文仓库(tinyurl.com/TLGCredits)。 贡献者：yingyingyingqwq (+维护者), 1oschi, lanshan114514, hyperlotus, Virlurable, yushenzc, … ",
+        "language": "zh-cn"
+    },
+    {
+        "name": "Bahasa Indonesia",
+        "index": "https://raw.githubusercontent.com/Xmatography/umachimi-id/release/index.json",
+        "short_desc": "Translasi oleh Umachimi-ID. Kontributor: Xmatography, FahriAdison, MisuMatsu, gagakitem, Ikazuu, FreyDerika, dkk., lihat progres TL di (tinyurl.com/status-tlid)",
+        "language": "id"
+    },
+    {
+        "name": "Français (Patch FR)",
+        "index": "https://raw.githubusercontent.com/umamusumeFR/hachimi-tl-fr/release/index.json",
+        "short_desc": "Patch de traduction française pour Umamusume. Toujours à jour.  contributors: Yellow, Iz_Shiroi, DeChalon",
+        "region": "Global"
+    },
+    {
+        "name": "English (UmaTL, Mirror)",
+        "index": "https://files.leadrdrk.com/hachimi/umatl.json",
+        "short_desc": "Use if you get ZIP errors, see matching desc above. Might be temporary, so keep up to date with developments!",
+        "language": "en"
+    },
+    {
+        "name": "English with Skill Data (UmaTL SD-EN, Mirror)",
+        "index": "https://files.leadrdrk.com/hachimi/umatl-sd.json",
+        "short_desc": "Use if you get ZIP errors, see matching desc above. Might be temporary, so keep up to date with developments!",
+        "language": "en"
+    },
+    {
+        "name": "Skill Data Only (UmaTL SD, Mirror)",
+        "index": "https://files.leadrdrk.com/hachimi/umatl-sd-only.json",
+        "short_desc": "Use if you get ZIP errors, see matching desc above. Might be temporary, so keep up to date with developments!",
+        "language": "en"
+    },
+	{
+        "name": "Português (Patch PT-BR)",
+        "index": "https://raw.githubusercontent.com/UmamusumeFR/hachimi-tl-fr/refs/heads/main/index.json",
+        "short_desc": "Patch de tradução em Português.",
+        "region": "Global"
+    },
+]

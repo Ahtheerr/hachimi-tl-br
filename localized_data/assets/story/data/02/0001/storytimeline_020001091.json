@@ -2,109 +2,109 @@
     "text_block_list": [
         {
             "name": "Mejiro McQueen",
-            "text": "You want me to do an interview?"
+            "text": "Você quer que eu dê uma entrevista?"
         },
         {
             "name": "<username>",
-            "text": "Yes. According to Tazuna, the<n>reporters are practically\nclimbing over<n>the gates for a chance to talk to you."
+            "text": "Sim. De acordo com a Tazuna, os<n>repórteres estão\npraticamente pulando<n>os portões por uma chance de falar<n>\ncom você."
         },
         {
             "name": "<username>",
-            "text": "Yes. According to Tazuna, the<n>reporters are practically\nclimbing over<n>the gates for a chance to talk to you."
+            "text": "Sim. De acordo com a Tazuna, os<n>repórteres estão\npraticamente pulando<n>os portões por uma chance de falar<n>\ncom você."
         },
         {
             "name": "<username>",
-            "text": "They must be extra interested now<n>that you're the favorite\nto win the<n>autumn Tenno Sho."
+            "text": "Eles devem estar ainda mais<n>interessados agora que você\né a<n>favorita para vencer o Tenno Sho de<n>Outono."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "So it would seem..."
+            "text": "Parece que sim..."
         },
         {
             "name": "Gold Ship",
-            "text": "What's wrong? Don't wanna do it?<n>Then send me instead!"
+            "text": "Qual o problema? Não quer fazer?<n>Então mande a mim no\nlugar!"
         },
         {
             "name": "Gold Ship",
-            "text": "A simple \"I'm currently abstaining<n>from my beloved cakes\nfor my diet.\"<n>will convince them."
+            "text": "Um simples \"estou atualmente me<n>abstendo dos meus\namados bolos por<n>causa da minha dieta\" vai<n>\nconvencê-los."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Wait, did you see me pacing in front<n>of that cake shop\nearlier?!"
+            "text": "Espere, você me viu andando de um<n>lado para o outro na\nfrente daquela<n>confeitaria mais cedo?!"
         },
         {
             "name": "Monólogo",
-            "text": "I don't remember mandating a diet... It<n>must be\nself-imposed.",
+            "text": "Não me lembro de ter mandado ela<n>fazer dieta... Deve ser\npor conta<n>própria.",
             "choice_data_list": [
-                "A slice or two couldn't hurt, you know?"
+                "Uma fatia ou duas não faria mal, sabe?"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "No, it's quite all right. If I give in to<n>temptation once, who\nknows what<n>other excuses I'll make?"
+            "text": "Não, está tudo bem. Se eu ceder à<n>tentação uma vez, quem\nsabe quais<n>outras desculpas eu inventarei?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Anyway, I will go and speak to the<n>reporters."
+            "text": "De qualquer forma, irei falar com os<n>repórteres."
         },
         {
-            "name": "Reporter A",
-            "text": "You're currently the favorite for the<n>autumn Tenno Sho.\nHow confident are<n>you in your ability to take home the<n>\nwin?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "Very much so. However, one never<n>knows what may\nhappen during a<n>race. I wish to approach the contest<n>free\nfrom arrogance."
-        },
-        {
-            "name": "Reporter B",
-            "text": "There are some very notable<n>competitors slated to run that\nday.<n>What kind of strategy are you<n>thinking of employing?"
+            "name": "Repórter A",
+            "text": "Você é atualmente a favorita para o<n>Tenno Sho de Outono.\nQuão confiante<n>você está em sua habilidade de levar<n>a\nvitória para casa?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Well, ah..."
+            "text": "Muito confiante. No entanto, nunca se<n>sabe o que pode\nacontecer durante<n>uma corrida. Desejo encarar a<n>disputa\nlivre de arrogância."
+        },
+        {
+            "name": "Repórter B",
+            "text": "Há algumas competidoras muito<n>notáveis escaladas para\ncorrer<n>naquele dia. Que tipo de estratégia<n>você está\npensando em usar?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Bem, ah..."
         },
         {
             "name": "Monólogo",
-            "text": "Mejiro McQueen glances my way,<n>her expression\nseemingly asking if<n>that is a topic she should broach."
+            "text": "Mejiro McQueen olha para mim, sua<n>expressão parecendo\nperguntar se<n>esse é um tópico que ela deve<n>abordar."
         },
         {
             "name": "<username>",
-            "text": "I'm afraid that we can't share those<n>details."
+            "text": "Receio que não possamos<n>compartilhar esses detalhes."
         },
         {
             "name": "<username>",
-            "text": "Let's just say that it would be great<n>if we could get a\nstarting position on<n>the inside."
+            "text": "Digamos apenas que seria ótimo se<n>pudéssemos conseguir\numa posição<n>de largada pelo lado de dentro."
         },
         {
-            "name": "Reporter C",
-            "text": "I've heard that at one point, your<n>team consisted only of\nyourself."
+            "name": "Repórter C",
+            "text": "Ouvi dizer que, em certo momento,<n>sua equipe consistia\napenas de você<n>mesma."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "That's right, though we have<n>managed to turn things around\nas of<n>late."
+            "text": "É verdade, embora tenhamos<n>conseguido mudar a situação<n>\nultimamente."
         },
         {
-            "name": "Reporter C",
-            "text": "Would it be accurate to chalk that up<n>to your performance at\nthe spring<n>Tenno Sho?"
+            "name": "Repórter C",
+            "text": "Seria correto atribuir isso à sua<n>performance no Tenno Sho\nde<n>Primavera?"
         },
         {
             "name": "Monólogo",
-            "text": "McQueen looks my way again. I<n>sense that she's\nstruggling to come<n>up with a good answer to that<n>question.",
+            "text": "McQueen olha para mim novamente.<n>Sinto que ela está\nlutando para<n>encontrar uma boa resposta para<n>essa\npergunta.",
             "choice_data_list": [
-                "Yes, that is why we're here today."
+                "Sim, é por isso que estamos aqui hoje."
             ]
         },
         {
             "name": "<username>",
-            "text": "Even when the team was on the<n>verge of disbandment, she\npulled<n>through and attracted new talent with<n>her\nachievement."
+            "text": "Mesmo quando a equipe estava<n>prestes a ser dissolvida,\nela seguiu<n>em frente e atraiu novos talentos com<n>sua\nconquista."
         },
         {
             "name": "<username>",
-            "text": "McQueen's efforts have been a big<n>inspiration for the\nothers."
+            "text": "Os esforços da McQueen têm sido<n>uma grande inspiração\npara as outras."
         },
         {
-            "name": "Reporter C",
-            "text": "I see. We're expecting big things<n>from you here on out!"
+            "name": "Repórter C",
+            "text": "Entendo. Estamos esperando<n>grandes coisas de você\ndaqui para<n>frente!"
         },
         {
             "name": "Mejiro McQueen",
@@ -115,147 +115,147 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Huh? Oh! Yes! Thank you."
+            "text": "Hã? Ah! Sim! Obrigada."
         },
         {
-            "name": "Reporter B",
-            "text": "Lastly, do you have anything you'd<n>like to say to your\nfans?"
-        },
-        {
-            "name": "Mejiro McQueen",
-            "text": "I'm honored that you would support<n>me to the point where I\nam the favorite<n>to win."
+            "name": "Repórter B",
+            "text": "Por último, você tem algo que gostaria<n>de dizer aos seus\nfãs?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I'll be devoting my all to my training in<n>preparation for the\nrace. I do not plan<n>on letting you down."
+            "text": "Sinto-me honrada por vocês me<n>apoiarem a ponto de eu ser\na favorita<n>para vencer."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Vou dedicar todo o meu esforço ao<n>meu treino em\npreparação para a<n>corrida. Não pretendo decepcioná-los."
         },
         {
             "name": "Gold Ship",
-            "text": "Sheesh, so serious! Couldn't shake<n>up the typical interview\na bit?"
+            "text": "Nossa, que séria! Não podia dar uma<n>variada nessa\nentrevista típica?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Again, that's because I <i>am</i><n>serious."
+            "text": "Reputo, é porque eu <i>sou</i> séria."
         },
         {
-            "name": "Upbeat Umamusume",
-            "text": "Yeah, but all of your answers were<n>sooo cool!"
+            "name": "Umamusume Otimista",
+            "text": "É, mas todas as suas respostas<n>foram muuuito legais!"
         },
         {
-            "name": "Caring Umamusume",
-            "text": "I really can't wait for the race!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "It's not just the fans who are<n>expecting great things of\nMejiro<n>McQueen."
+            "name": "Umamusume Cuidadosa",
+            "text": "Eu realmente mal posso esperar pela<n>corrida!"
         },
         {
             "name": "Monólogo",
-            "text": "I can't think of anyone more<n>deserving to stand at the\ncenter of a<n>team."
+            "text": "Não são apenas os fãs que estão<n>esperando grandes\ncoisas da Mejiro<n>McQueen."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não consigo pensar em ninguém que<n>mereça mais estar no\ncentro de uma<n>equipe."
         },
         {
             "name": "<username>",
-            "text": "All right, why don't we go get<n>something tasty to charge us\nback<n>up?"
+            "text": "Tudo bem, por que não vamos comer<n>algo gostoso para\nrecarregar as<n>energias?"
         },
         {
             "name": "Gold Ship",
-            "text": "Wooo, hella! I'm about to go to town<n>on some\nall-you-can-eat lobster!"
+            "text": "Uhuuu, demais! Vou me acabar em<n>um rodízio de lagosta!"
         },
         {
-            "name": "Upbeat Umamusume",
-            "text": "I've been wanting to try that place<n>with the famous carrot\nsweets lately!"
+            "name": "Umamusume Otimista",
+            "text": "Ultimamente, eu ando querendo<n>experimentar aquele lugar\ncom os<n>famosos doces de cenoura!"
         },
         {
             "name": "Sincere Umamusume",
-            "text": "Geez, this is a celebration for<n>McQueen, so let's let her pick,\nall<n>right?"
+            "text": "Poxa, esta é uma celebração para a<n>McQueen, então vamos\ndeixar ela<n>escolher, certo?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Um... I'm afraid I will have to refrain."
+            "text": "Hum... Receio que terei de me abster."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I should really move on to my training<n>for today. That\ninterview took up a lot<n>of precious time."
+            "text": "Eu realmente deveria seguir para o<n>meu treino de hoje.\nAquela entrevista<n>tomou muito do meu tempo precioso."
         },
         {
             "name": "Gold Ship",
-            "text": "Seriously, you're gonna go out for<n>training now? You really\ngood on<n>keeping up this pace?"
+            "text": "Sério, você vai treinar agora?<n>Consegue mesmo manter\nesse ritmo?"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Don't worry, I won't push myself too<n>hard. The last thing I\nneed is a repeat<n>of the time I fell ill."
+            "text": "Não se preocupe, não vou me forçar<n>demais. A última coisa\nde que preciso<n>é que se repita aquela vez em que<n>fiquei\ndoente."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "But I'm finally hitting my stride with<n>my routine. I can't let\nthis chance go<n>to waste."
+            "text": "Mas finalmente estou pegando o<n>jeito com a minha rotina.\nNão posso<n>deixar essa chance ser desperdiçada."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Is it fine with you, Trainer?",
+            "text": "Está tudo bem para você, Treinador?",
             "choice_data_list": [
-                "I'll leave it up to you.",
-                "I'll leave it up to you."
+                "Vou deixar por sua conta.",
+                "Vou deixar por sua conta."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Thank you. Well then, I shall be off."
+            "text": "Obrigada. Bem, então eu já vou indo."
         },
         {
             "name": "Gold Ship",
-            "text": "Super serious, that one."
+            "text": "Super séria, essa aí."
         },
         {
             "name": "Monólogo",
-            "text": "At last, the day of the autumn Tenno<n>Sho arrives."
+            "text": "Finalmente, o dia do Tenno Sho de<n>Outono chega."
         },
         {
             "name": "<username>",
-            "text": "Wow, those stands are absolutely<n>packed."
+            "text": "Uau, as arquibancadas estão<n>absolutamente lotadas."
         },
         {
             "name": "<username>",
-            "text": "Wow, those stands are absolutely<n>packed."
+            "text": "Uau, as arquibancadas estão<n>absolutamente lotadas."
         },
         {
             "name": "Gold Ship",
-            "text": "Meaning that Golshi Yakisoba's on<n>track for some record\nprofits! I've got<n>noods to fry!"
+            "text": "O que significa que o Yakisoba da<n>Golshi está rumo a lucros\nrecordes!<n>Tenho macarrão para fritar!"
         },
         {
             "name": "<username>",
-            "text": "What, and miss cheering for<n>McQueen? Speaking of, where\nis she?"
+            "text": "O quê, e vai perder a torcida pela<n>McQueen? Falando nisso,\nonde ela<n>está?"
         },
         {
             "name": "<username>",
-            "text": "What, and miss cheering for<n>McQueen? Speaking of, where\nis she?"
+            "text": "O quê, e vai perder a torcida pela<n>McQueen? Falando nisso,\nonde ela<n>está?"
         },
         {
             "name": "Gold Ship",
-            "text": "She's already on her way out there,<n>yo."
+            "text": "Ela já está a caminho lá de fora."
         },
         {
             "name": "<username>",
-            "text": "Really? But there's still so much time<n>left before the race\nstarts..."
+            "text": "Sério? Mas ainda falta muito tempo<n>antes da corrida\ncomeçar..."
         },
         {
             "name": "<username>",
-            "text": "Really? But there's still so much time<n>left before the race\nstarts..."
+            "text": "Sério? Mas ainda falta muito tempo<n>antes da corrida\ncomeçar..."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Phew..."
+            "text": "Ufa..."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I have the dignity of the Mejiro name<n>to bear... the hopes of\ncountless fans<n>on my shoulders..."
+            "text": "Tenho a dignidade do nome Mejiro a<n>carregar... as\nesperanças de inúmeros<n>fãs em meus ombros..."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "My dear team members'<n>expectations, and those of my<n>\ntrainer..."
+            "text": "As expectativas das minhas queridas<n>colegas de equipe e\nas do meu<n>treinador..."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "For all of their sakes, I will achieve<n>victory today."
+            "text": "Pelo bem de todos eles, alcançarei a<n>vitória hoje."
         }
     ]
 }

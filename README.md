@@ -12,19 +12,6 @@ Este projeto tem como objetivo traduzir o jogo **Uma Musume: Pretty Derby (PC)**
 
 ---
 
-## 🚀 Como Instalar
-
-Siga os passos abaixo cuidadosamente para aplicar a tradução:
-
-1. **Download do Hachimi:** Baixe o arquivo `hachimi.dll` na página de [Releases do Hachimi-Edge]().
-2. **Preparação da Pasta:** Mova o arquivo `hachimi.dll` para a pasta raiz do jogo (onde está localizado o executável `.exe`).
-3. **Renomeação:** Renomeie o arquivo `hachimi.dll` para `cri_mana_vpx.dll`.
-4. **Pasta de Dados:** Crie uma nova pasta chamada `hachimi` dentro do diretório do jogo.
-5. **Arquivos de Tradução:** Baixe os [arquivos de tradução aqui]().
-6. **Finalização:** Coloque a pasta `localized_data` (que você baixou) dentro da pasta `hachimi` que você criou no passo 4.
-
----
-
 ## 🛠️ Solução de Problemas (Bugs Conhecidos)
 
 ### O jogo crasha ao abrir (Conflito de GUI + Tela Cheia)

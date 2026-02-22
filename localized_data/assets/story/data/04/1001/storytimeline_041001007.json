@@ -1,0 +1,262 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "I arrive at the summer training site<n>together with Special\nWeek. Once we<n>get there, however..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Blegh... I-it's so hot..."
+        },
+        {
+            "name": "Special Week",
+            "text": "I know I need to do this... in order to<n>win... But it's just way\ntoo hot..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "The heat is getting to her head. I need<n>to figure out how to\ncheer her up...",
+            "choice_data_list": [
+                "How about we eat something delicious at the\nfestival later tonight?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Delicious... festival food?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "They... they have baked potatoes with<n>butter, right?! It's a\nfestival staple!",
+            "choice_data_list": [
+                "I think they do.",
+                "I think they do."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Yaaay! I think I'm ready to start<n>training! Let's do this!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "With Special Week all fired up and<n>ready to go, she blasts\nthrough her<n>entire training regimen. Afterwards..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Wooow! There are so many different<n>stalls... So many\npeople too. I don't<n>think I've ever been to such a<n>packed\nfestival."
+        },
+        {
+            "name": "Special Week",
+            "text": "Where do we even begin?! Oh, I see a<n>baked potato stall!\nLet's start with<n>that!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Phew... That was delicious! Baked<n>potatoes with butter\nnever disappoint,<n>no matter the festival!"
+        },
+        {
+            "name": "Special Week",
+            "text": "So where do we go next? That<n>Umamusume sponge cake\nover there<n>looks—oh!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Grass and the others are here too!<n>Do you mind if I say hi to\nthem really<n>quickly?",
+            "choice_data_list": [
+                "Not at all. Take your time."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Thank you! I'll be right back!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "(Thud!)"
+        },
+        {
+            "name": "Special Week",
+            "text": "Oops! I'm sorry! I didn't mean to<n>bump—oof! So many\npeople!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Special Week gets caught in the<n>crowd, unable to move due\nto the<n>sheer density of people on the<n>streets.",
+            "choice_data_list": [
+                "This way, Spe!",
+                "This way, Spe!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh? Oh, Trainer!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I lead Special Week down a path that<n>isn't so packed."
+        },
+        {
+            "name": "Special Week",
+            "text": "Phew! W-we made it! Thanks for<n>saving me back there,\nTrainer.",
+            "choice_data_list": [
+                "Be careful, okay?",
+                "Be careful, okay?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "I will! Hey, Grass! Over heeere!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "While I wait for Special Week to finish<n>her business, I decide\nto buy some<n>Umamusume sponge cake to try out."
+        },
+        {
+            "name": "Special Week",
+            "text": "See ya! ...Sorry to keep you waiting."
+        },
+        {
+            "name": "Special Week",
+            "text": "Wait a second... <i>Sniff... sniff...</i> I<n>smell something sweet.\nThat bag... Is it<n>what I think it is?",
+            "choice_data_list": [
+                "It's what you wanted, right?",
+                "It's what you wanted, right?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Yaaay! It's the Umamusume sponge<n>cake!"
+        },
+        {
+            "name": "Special Week",
+            "text": "You got it for me, didn't you?! Oh, you<n>really shouldn't have!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I wanna get you something too! What<n>to get, what to get...\nHm? That stall<n>over there..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe! I know just what to give you!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Special Week hands me her gift, and<n>we head to the beach\nto enjoy each<n>other's treats."
+        },
+        {
+            "name": "Special Week",
+            "text": "Mmmm... That sponge cake was so<n>good! It took only three\nseconds to<n>make it disappear!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Heheh... Adding \"Umamusume\" to<n>things makes them taste\ndifferent<n>somehow! They didn't do stuff like<n>this back\nhome, that's for sure."
+        },
+        {
+            "name": "Special Week",
+            "text": "How about yours? Your shaved ice<n>was made using milk\nfrom Hokkaido!",
+            "choice_data_list": [
+                "It was delicious!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "That's good! Oh, take your time<n>though. If you eat too much\nat once,<n>you'll get brain freeze."
+        },
+        {
+            "name": "Special Week",
+            "text": "Besides, I want you savor the taste<n>of my hometown!",
+            "choice_data_list": [
+                "Thank you."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe! Come to think of it, why is<n>festival food so good?"
+        },
+        {
+            "name": "Special Week",
+            "text": "I mean... Take yakisoba or baked<n>potatoes, for example.\nThey're super<n>simple everyday foods! Yet they still<n>\nsomehow taste absolutely amazing!"
+        },
+        {
+            "name": "Special Week",
+            "text": "My mom always wondered why too.<n>But... I think I've\nfigured out the<n>reason why it tastes the way it does."
+        },
+        {
+            "name": "Special Week",
+            "text": "Festivals are a place of fun and<n>happiness! The food is\namazing<n>because you get to share it with the<n>people you\ncare about most!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Heh-heh... I hope my mom's doing<n>okay...",
+            "choice_data_list": [
+                "You sure do miss her a lot, don't you?",
+                "You sure do miss her a lot, don't you?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Well, yeah... It's hard not to during<n>times like these."
+        },
+        {
+            "name": "Special Week",
+            "text": "But those feelings of loneliness and<n>sadness no longer get\nto me<n>because..."
+        },
+        {
+            "name": "Special Week",
+            "text": "I love it here! I love spending every<n>day here at Tracen\nAcademy!"
+        },
+        {
+            "name": "Special Week",
+            "text": "I'm a regular at a ramen shop, I've<n>found new places I love\nvisiting, and<n>I've made so many close friends!"
+        },
+        {
+            "name": "Special Week",
+            "text": "That's probably why the sponge<n>cake tasted so good too."
+        },
+        {
+            "name": "Special Week",
+            "text": "It took a lot of courage for me to step<n>out of my comfort\nzone and come to<n>the academy, but I'm really glad I<n>did—I\nwas able to find an amazing<n>trainer!",
+            "choice_data_list": [
+                "That's good to hear."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Ehehe... I'll do my part and try my<n>best to train hard\ntomorrow too! Now<n>that I've filled my stomach, all I need<n>\nto do is get a good night's rest, and—"
+        },
+        {
+            "name": "Special Week",
+            "text": "Wait, what time is it now?! We have<n>to get back before they\nlock us out!"
+        },
+        {
+            "name": "Special Week",
+            "text": "B-but you aren't done with your<n>shaved ice yet! I want you\nto take<n>your time eating such a delicacy..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Maybe if I help you finish the<n>dessert—no, what am I even\nsaying?!<n>That just makes it look like I want<n>some of your\nfood!",
+            "choice_data_list": [
+                "Go ahead!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Huh? R-really? Are you sure?<n>...Yaaaay! Leave it to me!"
+        },
+        {
+            "name": "Special Week",
+            "text": "All right, then... I'm digging in! ♪"
+        },
+        {
+            "name": "Special Week",
+            "text": "Mmmmm! The ice is so crunchy... and<n>delicious!"
+        },
+        {
+            "name": "Special Week",
+            "text": "The milk... tastes just like the milk... I<n>had back in\nHokkaido—Hawaaaa?!"
+        },
+        {
+            "name": "Special Week",
+            "text": "O-owww... My head... It hurts... Brain...<n>is freezing..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Self-inflicted though the pain may<n>have been, I lend my\nshoulder to the<n>ailing Special Week and we somehow<n>\nmanage to make it back in time."
+        }
+    ]
+}

@@ -21,19 +21,19 @@
         },
         {
             "name": "Monólogo",
-            "text": "Agnes Tachyon, uma estudante<n>talentosa que até um\ntreinador novado<n>como eu já ouvi falar, está aqui<n>parada\ndiante de mim."
+            "text": "Agnes Tachyon, uma estudante<n>talentosa que até um\ntreinador novato<n>como eu já ouvi falar, está aqui<n>parada\ndiante de mim."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Parece que você está em estado de<n>choque Você acabou de\nacordar, então<n>aconselho não exagerar."
+            "text": "Parece que você está em estado de<n>choque. Você acabou\nde acordar,<n>então aconselho não exagerar."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Agora, sente-se nessa cadeira para<n>mim, está <i>relaxar.</i>"
+            "text": "Agora, sente-se nessa cadeira para<n>mim, é hora de\n<i>relaxar.</i>"
         },
         {
             "name": "Monólogo",
-            "text": "Eu faço como ela diz e me sento na<n>cadeira da enfermaria"
+            "text": "Eu faço como ela diz e me sento na<n>cadeira da enfermaria."
         },
         {
             "name": "Agnes Tachyon",
@@ -41,7 +41,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Falando nisso, eu quem te carreguei<n>até aqui enquanto você\nestava<n>inconsciênte. Então a pergunta é<n><i>como<i> e <i>por\nque<i> você perdeu a<n>consciência?",
+            "text": "Falando nisso, eu quem te carreguei<n>até aqui enquanto você\nestava<n>inconsciênte. Então a pergunta é<n><i>como</i> e <i>por\nque</i> você perdeu<n>a consciência?",
             "choice_data_list": [
                 "Um..."
             ]
@@ -68,7 +68,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Sua representante de classe<n>comanda que você pare! Não\ntem<n>nada de </i>bem</i> nisso!"
+            "text": "Sua representante de classe<n>comanda que você pare! Não\ntem<n>nada de <i>bem</i> nisso!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Um cantinho da sala ficou com um<n></i>pouquinho</i> de\nfumaça, não é?<n>Isso é realmente algo que a nossa<n>\nrepresentante de classe deveria se<n>preocupar?"
+            "text": "Um cantinho da sala ficou com um<n><i>pouquinho</i> de\nfumaça, não é?<n>Isso é realmente algo que a nossa<n>\nrepresentante de classe deveria se<n>preocupar?"
         },
         {
             "name": "Sakura Bakushin O",
@@ -84,7 +84,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Você só encheu a sala toda com<n>fumaça, então aqui que\n</i>talvez</i><n>eu deveria deixar você se safar<n>dessa vez?"
+            "text": "Você só encheu a sala toda com<n>fumaça, então acho que\n<i>talvez</i> eu<n>deveria deixar você se safar dessa<n>vez?"
         },
         {
             "name": "Agnes Tachyon",
@@ -92,7 +92,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "... Ah, espera! A professora até me<n>falou oito vezes para\nignorar suas<n>desculpas e te capturar!"
+            "text": "...Ah, espera! A professora até me<n>falou oito vezes para\nignorar suas<n>desculpas e te capturar!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -108,7 +108,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oh! Ei, você aí- sim, você! Não deixe a<n>Tachyon\npassaaaaaar!",
+            "text": "Oh! Ei, você aí— sim, você! Não deixe<n>a Tachyon\npassaaaaaar!",
             "choice_data_list": [
                 "(E-espera, eu?!)",
                 "(E-pera, eu?!)"
@@ -124,7 +124,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hm, parece que você se lembrou dos<n>eventos que\ntranspiraram"
+            "text": "Hm, parece que você se lembrou dos<n>eventos que\nocorreram."
         },
         {
             "name": "Monólogo",
@@ -150,7 +150,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "<i>Creak...</i>",
+            "text": "<i>Rangido...</i>",
             "choice_data_list": [
                 "Huh?! Eu não consigo me mover?!"
             ]
@@ -169,14 +169,14 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Afinal, nunca se sabe quando você<n>pode encontrar uma\npesquisadora<n>procurando um ser humano adulto<n>saudável\ne ágil para servir como<n>cobaia, certo?",
+            "text": "Afinal, nunca se sabe quando você<n>pode encontrar uma\npesquisadora<n>procurando um ser humano adulto,<n>\nsaudável e ágil para servir como<n>cobaia, certo?",
             "choice_data_list": [
                 "C-Cobaia?!"
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Afinal, nunca se sabe quando você<n>pode encontrar uma\npesquisadora<n>procurando um ser humano adulto<n>saudável\ne ágil para servir como<n>cobaia, certo?",
+            "text": "Afinal, nunca se sabe quando você<n>pode encontrar uma\npesquisadora<n>procurando um ser humano adulto,<n>\nsaudável e ágil para servir como<n>cobaia, certo?",
             "choice_data_list": [
                 "C-Cobaia?!"
             ]
@@ -195,9 +195,9 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Então, meu porquinho da índia... ah,<n>desculpe, quero dizer,\ntreinador<n>novato.",
+            "text": "Então, meu ratinho de laboratório... ah,<n>desculpe, quero\ndizer, treinador<n>novato.",
             "choice_data_list": [
-                "Você acabou de me chamar de porquinho da índia?!"
+                "Você acabou de me chamar de rato de laboratório?!"
             ]
         },
         {
@@ -225,7 +225,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "É sabido que as estruturas corporais<n>dos seres humanos e\ndas<n>Umamusume são quase idênticas,<n>mas ao comparar\nos dados de ambos,<n>talvez uma nova-"
+            "text": "É sabido que as estruturas corporais<n>dos seres humanos e\ndas<n>Umamusume são quase idênticas,<n>mas ao comparar\nos dados de ambos,<n>talvez uma nova—"
         },
         {
             "name": "Manhattan Cafe",
@@ -233,7 +233,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ora, mas se não é a Café! Qual o<n>problema? Talvez tenha\nfinalmente<n>vindo para se juntar à minha<n>experiência..."
+            "text": "Ora, mas se não é a Cafe! Qual o<n>problema? Talvez tenha\nfinalmente<n>vindo para se juntar à minha<n>experiência..."
         },
         {
             "name": "Manhattan Cafe",

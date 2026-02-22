@@ -1,0 +1,170 @@
+{
+    "text_block_list": [
+        {
+            "name": "Mihono Bourbon",
+            "text": "Current time—five p.m. Quota has<n>been successfully met.\nNow engaging<n>in a brief moment of respite before<n>initiating\nthe next phase of training."
+        },
+        {
+            "name": "Honest Umamusume",
+            "text": "U-um, excuse me, are you Mihono<n>Bourbon?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "An Umamusume jogs over to where<n>Bourbon is resting."
+        },
+        {
+            "name": "Honest Umamusume",
+            "text": "Hey, I hope I'm not interrupting<n>anything! I just think it's\nreally<n>awesome how hard you're working<n>every day!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "No need to be concerned. It appears<n>that you wish to have a\ndiscussion.<n>How can I help you?"
+        },
+        {
+            "name": "Honest Umamusume",
+            "text": "Uh, well... I heard you used to only run<n>sprints, right? It's so\ncool that you're<n>able to run medium-distance now!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mihono Bourbon stares curiously at<n>the excited student."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "If I may ask, what is the purpose of<n>this conversation?"
+        },
+        {
+            "name": "Honest Umamusume",
+            "text": "Huh?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "You engaged me in conversation<n>during my break.\nStatistically, this<n>action suggests an underlying motive."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Common motivations include queries,<n>transmission of\ninformation, and<n>fact-checking. Which of the above<n>best\nsuits your purpose?"
+        },
+        {
+            "name": "Honest Umamusume",
+            "text": "P-purpose?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "As the Umamusume struggles to find<n>an answer, her face\nbegins to turn<n>pink."
+        },
+        {
+            "name": "Honest Umamusume",
+            "text": "I just wanted to talk to you... I'm<n>sorry for taking up your\ntime! I'll get<n>going now!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Wait, there's been a<n>misunderstanding..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perplexed, Mihono Bourbon watches<n>the embarrassed\ntrainee speed away.",
+            "choice_data_list": [
+                "...Hey, what's wrong?",
+                "...Hey, what's wrong?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "My conversation ended unexpectedly<n>due to insufficiently\ndefined \"motive\"<n>parameter. Analyzing crash log for<n>\nsource of error.",
+            "choice_data_list": [
+                "Wait, what's a motive parameter?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I have been updating my database<n>with facial expressions\nand vocal<n>inflection samples, but I am<n>experiencing\ndifficulty implementing<n>them in conversations."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Feeling bemused, I take a moment to<n>think. Is this her\nunique way of trying<n>to get better at talking to people?",
+            "choice_data_list": [
+                "Can I ask you why you're doing this?"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Certainly. I was prompted by my<n>parents to improve my\n\"sociability\"<n>functions."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "The majority of my formative years<n>were spent training\nfrom sunrise to<n>sunset with my father. Consequently,<n>I\nseldom had opportunities to interact<n>with my peers."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Once my acceptance to Tracen<n>Academy was confirmed, my\nparents<n>began to demonstrate great concern<n>over my\nlimited interpersonal<n>experiences."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "On multiple occasions, they told me to,<n>and I quote, \"prioritize\nengaging with<n>my friends and classmates.\""
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "It is true that communicative abilities<n>are essential for\ninterviews and fan<n>engagement. As an Umamusume,<n>\nenhancing my \"sociability\" is simply<n>unavoidable.",
+            "choice_data_list": [
+                "(...Hmm?)"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "I defined a set of parameters related<n>to \"sociability,\" and\nhave endeavored<n>to refine them by engaging in<n>\nconversation."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "However, the statistics have shown<n>limited improvement\nrelative to that of<n>my physical parameters."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "A study showed that questions are<n>effective starters, but\nthey only<n>caused my conversational partner to<n>flee. At this\nrate, failure is certain.",
+            "choice_data_list": [
+                "(Oh boy, where do I start...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I can tell her intentions are good, but<n>her methods leave\nmuch to be<n>desired."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Are her parents this robotic too? I get<n>the feeling Bourbon is\ninterpreting their<n>instructions in an over-rational way.",
+            "choice_data_list": [
+                "I think what your parents wanted to say was..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I explain that her parents probably<n>just want her to enjoy\nspending time<n>with friends. In response, her<n>expression\nbecomes more puzzled."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "My apologies, but I am having trouble<n>comprehending. I\nhave no data<n>pertaining to \"spending time with<n>friends.\"",
+            "choice_data_list": [
+                "Ummm..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Reframing my explanation, I begin<n>talking about the benefits\nof having<n>friends, but am cut short."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "My resting period concluded twenty<n>seconds ago. I must\nnow return to my<n>training."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Without a second to spare, she takes<n>off down the track."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mihono Bourbon's racing abilities are<n>no doubt impressive,\nbut her lack of<n>connection with the world beyond the<n>race\ntrack concerns me."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As I watch her figure dart across the<n>field, I pray that one\nday she'll<n>understand the meaning behind her<n>parents'\nwords."
+        }
+    ]
+}

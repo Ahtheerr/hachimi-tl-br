@@ -1,0 +1,170 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Weeks pass without inicident, and<n>Fine Motion's been\nhappily training<n>away with her friends."
+        },
+        {
+            "name": "Fine's Friend",
+            "text": "Later, Fine! Today was a real<n>workout!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Go get some rest! See you tomorrow!",
+            "choice_data_list": [
+                "You all worked really hard today.",
+                "You all worked really hard today."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. It was so much fun, I didn't<n>notice how tired I am.\nEvery day is so<n>lovely, it feels like I'm dreaming."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "That aside, though—I think it's time<n>we called it a day. Let's\nhead back to<n>your office and have our meeting!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I run over my notes in my head, ready<n>to wrap up the day,\nand then... I unlock<n>the office door to chaos."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Wait... What happened?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A cabinet in the corner lies fallen, face<n>down, its files\nscattered about the<n>crime scene.",
+            "choice_data_list": [
+                "Who could've..."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hmmm... That's the thing—the room<n>was locked with no one\ninside. But<n>surely the cabinet didn't knock itself<n>over, with\nhow far the papers are<n>scattered."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It's like we're in a book! Oh, Trainer!<n>I think we've\nstumbled upon a bona<n>fide mystery!",
+            "choice_data_list": [
+                "Uhhh... Yeah, sure, let's go with that.",
+                "Uhhh... Yeah, sure, let's go with that."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehehe, don't you worry now...<n>Detective Fine is on the\ncase!",
+            "choice_data_list": [
+                "I didn't take you for such a mystery buff..."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah, ahem... Now, we've got a crime<n>scene to investigate!\nI've read that<n>observation is a detective's greatest<n>asset."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...And would you look at that?! My<n>dear assistant, I do\nbelieve our<n>perpetrator has left us footprints!",
+            "choice_data_list": [
+                "...<i>Paw</i> prints.",
+                "...<i>Paw</i> prints."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehehe, I told you I've got more than<n>ramen up in my\nnoggin! I bet these<n>tracks will lead us straight to the truth."
+        },
+        {
+            "name": "Cat",
+            "text": "Meow!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...\"Meow\"?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "We follow the prints to my desk,<n>where a cat looks up at us,<n>\nwide-eyed with apprehension."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "I see... The pieces are all coming<n>together!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "The culprit... is you!",
+            "choice_data_list": [
+                "Oh, what powers of deduction!",
+                "Oh, what powers of deduction!"
+            ]
+        },
+        {
+            "name": "Cat",
+            "text": "MREOOOW!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It's okay, we aren't mad at you.<n>Come on out."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh? It looks like you've got a collar.",
+            "choice_data_list": [
+                "Must be someone's pet.",
+                "Must be someone's pet."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "The question is, whose? I guess our<n>poor little friend must\nhave got<n>themself lost and wandered here."
+        },
+        {
+            "name": "Cat",
+            "text": "Mew... Mreow!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Shhh, don't worry. We'll help you get<n>home.",
+            "choice_data_list": [
+                "Think we can sleuth out who they belong to?",
+                "Think we can sleuth out who they belong to?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Of course! We'll have this case<n>cracked in no time! First\norder of<n>business—asking around for clues. ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "We check if the students near my<n>office saw anything and\nfollow hints<n>through a grapevine of ramen joints<n>around\ntown until finally..."
+        },
+        {
+            "name": "Pet Owner",
+            "text": "I can't thank you two enough! I was<n>terrified we'd never\nfind our little<n>baby!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "It was our pleasure. We'll take our<n>leave now, so have a\nwonderful<n>evening."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ahem! I would say that's case<n>closed! And I couldn't have\ndone it<n>without my trusty sidekick."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, that was fun. I wasn't<n>expecting such an adventure.",
+            "choice_data_list": [
+                "It's nice having a change of pace, huh?",
+                "It's nice having a change of pace, huh?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, it really is. Hehe, a little surprise to<n>liven up the routine...\nSomething<n>special..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe, I think I can arrange that."
+        }
+    ]
+}

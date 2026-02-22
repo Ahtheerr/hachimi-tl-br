@@ -1,0 +1,221 @@
+{
+    "text_block_list": [
+        {
+            "name": "Young Hayahide",
+            "text": "I'm sorry, Brian. The doctor says I<n>can't run with you for a\nwhile."
+        },
+        {
+            "name": "Young Brian",
+            "text": "...Yeah."
+        },
+        {
+            "name": "Young Hayahide",
+            "text": "But there are lots of other people you<n>can race with. So\ndon't worry about<n>me—go have fun."
+        },
+        {
+            "name": "Young Brian",
+            "text": "...'Kay."
+        },
+        {
+            "name": "Young Umamusume A",
+            "text": "<i>Huff, puff...</i> Brian... You're too<n>fast!"
+        },
+        {
+            "name": "Young Brian",
+            "text": "I'm gonna run even faster next time.<n>So let's do another\nlap."
+        },
+        {
+            "name": "Young Umamusume B",
+            "text": "G-gimme a break! You might be<n>having fun 'cause you're\nwinning, but<n>I'm not!"
+        },
+        {
+            "name": "Young Brian",
+            "text": "...Huh?"
+        },
+        {
+            "name": "Young Umamusume B",
+            "text": "<i>Sniffle...</i> You're too fast... I... I<n>hate you!"
+        },
+        {
+            "name": "Young Umamusume A",
+            "text": "U-um... Brian, do you wanna try racing<n>lessons? I bet there\nare lots of fast<n>runners there."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Several years later, in racing class..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "<i>Huff... huff...</i>"
+        },
+        {
+            "name": "Racing Instructor A",
+            "text": "That Narita Brian runs very well. I<n>heard she hasn't been\nable to settle<n>anywhere, though."
+        },
+        {
+            "name": "Racing Instructor B",
+            "text": "Huh, I can't imagine why. One look at<n>her talent and anyone\nwould be sorry<n>to miss out on having her."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I... quit... This <i>sucks.</i> Why's such<n>a fast kid here,\nanyway?!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "(Not again! Why don't you try harder?<n>This is a race! But\nyou just...)"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "I caaan't... Ugh, this is hopeless, no<n>matter how hard I try."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I'm leaving after today."
+        },
+        {
+            "name": "Racing Instructor A",
+            "text": "B-but why?! I'm sure our class was<n>much better than your\nlast! Our track is<n>near professional level—you can't<n>find a\nhigher quality experience<n>elsewhere!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Forget it. This place isn't a challenge<n>anymore... It's\npointless when<n>everyone else has lost their drive to<n>win."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "There you are, Brian."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...Sis."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Come to Tracen Academy. That's<n>where you'll find real\nracing. It may<n>just satisfy that hunger of yours."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "..."
+        },
+        {
+            "name": "Caster",
+            "text": "And they're off! First out of the gate<n>is number six!"
+        },
+        {
+            "name": "Caster",
+            "text": "Number eight, Narita Brian, is waiting<n>for the perfect\nopportunity to break<n>ahead! But number six's lead keeps<n>\ngrowing!"
+        },
+        {
+            "name": "Number Six Umamusume",
+            "text": "Haaagh!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "...!"
+        },
+        {
+            "name": "Number Six Umamusume",
+            "text": "Wha..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "..."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "(Is it really happening here too?)"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "No matter where I go, no matter who I<n>challenge, it's always\nthe same. I'm<n>left feeling hungrier than before."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "I guess there's no point in staying<n>here..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "There's no better way to collect your<n>thoughts than a stroll,\nso I go to the<n>riverside for some contemplation."
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "You're really going to do this?"
+        },
+        {
+            "name": "Senior Umamusume",
+            "text": "Yeah... I never want to fail like that<n>again. That's why..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "It's the senior student who raced<n>against Narita Brian. I\nsuppose this is<n>one of her training spots."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Excuse me. May I have a word?",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe, I didn't mean to take you by<n>surprise. I'm Biwa\nHayahide, Narita<n>Brian's sister."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I've heard stories about your many<n>stubborn attempts to\nspeak with her.<n>So when I saw you here, I had to<n>come\ntalk to you.",
+            "choice_data_list": [
+                "Y-you want to talk?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "There's no need to be nervous. I'd<n>just like a few minutes\nof your time."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "<i>Phew.</i> Time for a cooldown.<n>Would you write down my\nlatest time<n>with the blue pen?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Before I know it, I'm helping Biwa<n>Hayahide with her\ntraining."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Thank you. This will make excellent<n>data. That wind sprint\nyou suggested<n>was effective as well. I'm always<n>looking\nfor ways to improve."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "More importantly, you kept me<n>company until this late hour,\nmeaning<n>you put your trainees first... Yes, I<n>think you'll do\nwell."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Shall we move on to the main topic of<n>discussion?",
+            "choice_data_list": [
+                "The main topic?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Forgive me. I wanted to test you.<n>According to my\nhypothesis, one's<n>attitude toward training also<n>expresses\nwho they are as a person."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm well aware of my discourtesy,<n>but I simply had to know\nfor<n>sure—whether or not I can place my<n>hopes in you."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I would like to ask that you<n>accompany Narita Brian to my\ndebut<n>race."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You see, I heard a concerning rumor<n>making the rounds. If\nit's true, I want<n>her to see a real race..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Before she leaves the academy for<n>good."
+        }
+    ]
+}

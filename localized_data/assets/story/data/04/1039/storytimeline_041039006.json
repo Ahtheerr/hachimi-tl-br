@@ -1,0 +1,284 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "I go to the city on my day off to get a<n>look at something that\nI think might<n>cheer Kawakami Princess up."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Haaaaah..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Suddenly an exasperated sigh grabs<n>my attention—it's her."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Wh-whoa! Trainer?! What are you<n>doing here?",
+            "choice_data_list": [
+                "You seem pretty down today.",
+                "You seem pretty down today."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Well, yeah... of course I am! It's<n>horrible! The way that bully\nbehaved<n>was the worst!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "She was just like this character in<n>Princess Fighter... the\nleader of the<n>Dark Umamusume, Dark Princess!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I can't believe I lost to her... This isn't<n>just a bad ending,\nit's downright<n>depressing! I've been demoted from<n>\nprincess to frog!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Kawakami Princess is more upset<n>about her loss than I\nthought. The<n>place I came to check out should be<n>of help\nthough.",
+            "choice_data_list": [
+                "Hey, there's somewhere I think we should go."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Hm? And where is that?",
+            "choice_data_list": [
+                "Oh, I don't want to spoil it. You'll see.",
+                "Oh, I don't want to spoil it. You'll see."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "...?"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "WHOOOA!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Trainer, this poster... It's for the very<n>first Princess Fighter\nmovie!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But why... It came out years ago!",
+            "choice_data_list": [
+                "I found a theater that does showings of older\nmovies.",
+                "I found a theater that does showings of older\nmovies."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "So you mean... we can actually watch<n>Princess Fighter right\nnow? On the big<n>screen?",
+            "choice_data_list": [
+                "We sure can!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Woohoooo! This is great!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "It's really the best, Trainer! What're<n>we waiting for? Let's\nget our tickets!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I think it's working!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Aaah... That was so moving!",
+            "choice_data_list": [
+                "I'm glad you liked it."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I <i>loved</i> it! The first movie will<n>always be the best one! It\nwas so<n>exciting I thought I was going to break<n>my\narmrests off!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ah, like that scene where the<n>princess is surrounded by a\nbillion<n>Dark Umamusume troops but<n>escapes orbit by\nfollowing the<n>prince's light signal!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Or the scene at the moon racetrack<n>where she and the\nprince purify the<n>Dark Nebula Emperor after he fused<n>with\nthe black hole! I could watch it a<n>million times!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Wow, that was such fun... Really..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "...",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "A real princess and her prince have to<n>make incredible\nthings like that<n>happen, huh..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But when it came to it, I got wrecked<n>by Dark\nPrincess—well—someone just<n>like Dark Princess."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I'm not fit to be a princess. The<n>furthest I'll ever get is\nbackground<n>extra...",
+            "choice_data_list": [
+                "But what about that other scene?",
+                "But what about that other scene?"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Huh? What other scene?",
+            "choice_data_list": [
+                "The one right before the big climax."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Right before... Where the princess and<n>trainer are about to\nenter the race<n>that'll decide the fate of the planet?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Exactly. Before the final battle, when<n>things are at their\ndarkest, the<n>princess and trainer have one last<n>talk..."
+        },
+        {
+            "name": "Princess Fighter",
+            "text": "Could this truly be the end for us? Is<n>there no way to save\nthe planet?!"
+        },
+        {
+            "name": "Legendary Trainer",
+            "text": "Wait, there's still a way... There's<n>one last race for us to\nfinish!"
+        },
+        {
+            "name": "Legendary Trainer",
+            "text": "Wait, there's still a way... There's<n>one last race for us to\nfinish!"
+        },
+        {
+            "name": "Legendary Trainer",
+            "text": "Listen to me, Princess. We already<n>know that no matter how\nmuch we<n>struggle, we can't pull off a miracle<n>on our\nown... unless!"
+        },
+        {
+            "name": "Legendary Trainer",
+            "text": "Listen to me, Princess. We already<n>know that no matter how\nmuch we<n>struggle, we can't pull off a miracle<n>on our\nown... unless!"
+        },
+        {
+            "name": "Princess Fighter",
+            "text": "We embrace our strengths and<n>weaknesses... And we\ncombine our<n>differences..."
+        },
+        {
+            "name": "Legendary Trainer",
+            "text": "Then our power will far exceed our<n>normal capabilities.\nThat... that is what<n>makes a real miracle!"
+        },
+        {
+            "name": "Legendary Trainer",
+            "text": "Then our power will far exceed our<n>normal capabilities.\nThat... that is what<n>makes a real miracle!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(\"So let's go... to the race of our<n>destiny!\" Oooh, the most\nfamous<n>scene in the movie!)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(\"So let's go... to the race of our<n>destiny!\" Oooh, the most\nfamous<n>scene in the movie!)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "(Whoa, wait one moment! What was<n>it I said before?)"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Aw, come on. You worry way too<n>much! I don't need any\ntactics or<n>anything! Because..."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "We've got the invincible power of our<n>bond! Just trust it and\nwait for my<n>return!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Aaaaagh!",
+            "choice_data_list": [
+                "Are you okay?!",
+                "Are you okay?!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I... I was totally taking it easy before! I<n>took things for\ngranted, like a miracle<n>would just happen on its own!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I've seen the Princess Fighter movie<n><i>dozens</i> of times!\nBut I forgot such<n>an important thing!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Argh! I'm so ashamed I could just<n>smash a hole in the\nground and hide in<n>it right this instant!",
+            "choice_data_list": [
+                "Don't worry! Our fight is only beginning!",
+                "Don't worry! Our fight is only beginning!"
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Huh?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "It hasn't been long since we first met.<n>In Princess Fighter\nterms... we're on<n>around episode six. We've barely<n>\ngotten started."
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ah! You're right! That's exactly it! In<n>the beginning, Princess\nFighter<n>doesn't start out as a perfect<n>princess!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "She hates how training is going and<n>swims off to a desert\nisland... And<n>even crushes the dumbbells given to<n>her by\nthe crafter!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "But that's when she and the prince<n>talk it out and\nunderstand each other...<n>They grow stronger over the\ncourse of<n>forty-nine episodes!",
+            "choice_data_list": [
+                "And that's exactly what we're going to do!",
+                "And that's exactly what we're going to do!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I'm just starting out too, so I'm far<n>from being Legendary\nTrainer, but I'm<n>going to get there someday with<n>\nKawakami Princess!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Yeah, let's do it! We'll follow the way<n>of the princess\ntogether!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "And I... I want to know more about<n>you—about my prince!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I mean, there's so much I have no<n>idea about! Like, what\nkind of clothes<n>you like, or your favorite ramen<n>toppings\nand training equipment!",
+            "choice_data_list": [
+                "You have to tell me all about yourself too.",
+                "You have to tell me all about yourself too."
+            ]
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "I definitely will! We'll talk about it<n>all—everything from our\nchildhoods to<n>what our parents are like!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Right... The power of a bond between<n>a princess and her\nprince... That's<n>what'll truly power up my racing!"
+        },
+        {
+            "name": "Kawakami Princess",
+            "text": "Ahhh, I feel like I'm about to explode<n>with energy!\nKawakami Princess... is...<n>baaack!"
+        }
+    ]
+}

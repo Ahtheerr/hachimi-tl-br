@@ -1,0 +1,175 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "It's been a while since I've had a<n>day off, so I decide to go\nshopping for<n>some essentials. I bump into a<n>familiar face\nat the mall."
+        },
+        {
+            "name": "Girl A",
+            "text": "<i>Sob, sob...</i>"
+        },
+        {
+            "name": "Super Creek",
+            "text": "There, there. I'm sure it was scary,<n>right? But everything's\ngonna be<n>okay now."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Just wait here for a second, okay?<n>I'll... umm...",
+            "choice_data_list": [
+                "What's wrong?",
+                "What's wrong?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Trainer! Perfect timing—it seems like<n>this little girl here got\nlost."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I found her crying in the corner by<n>herself and tried to ask\nher what's<n>wrong..."
+        },
+        {
+            "name": "Girl A",
+            "text": "<i>Sob, sob...</i>"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Aw, was it scary being alone? There,<n>there. It's okay now.",
+            "choice_data_list": [
+                "Where are your parents?",
+                "Where are your parents?"
+            ]
+        },
+        {
+            "name": "Girl A",
+            "text": "...",
+            "choice_data_list": [
+                "Did you get separated?"
+            ]
+        },
+        {
+            "name": "Girl A",
+            "text": "Umm... I... don't know... waaaah!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Crap, I shouldn't have asked that<n>question! She's bawling\nnow.",
+            "choice_data_list": [
+                "I-I'm sorry!",
+                "I-I'm sorry!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I quickly take out my handkerchief<n>from my pocket and\nwipe the girl's<n>face."
+        },
+        {
+            "name": "Girl A",
+            "text": "<i>Sob, sob...</i>"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Aww, Trainer! Thank you so much."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Your face is all cleaned up now. Isn't<n>that nice? So tell me...\nwere you out<n>here shopping?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The little girl gives a small nod."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I see! What did you want to buy?"
+        },
+        {
+            "name": "Girl A",
+            "text": "I wanted... an Umagical Wand...<n>because Papa and Mama\nsaid...<n>they'd buy it for me..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Well, isn't that nice? You must've<n>been excited! Does that\nmean you<n>came here together with your Papa<n>and Mama?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The little girl nods again. There's no<n>doubt that she's lost. I\npause, thinking<n>about the best thing to do in this<n>situation...",
+            "choice_data_list": [
+                "I'll go to the information desk and let the staff\nknow!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Yes, please do. I'll stay here with her."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As I approach the desk, I see a<n>husband and wife standing\nthere,<n>faces stricken with worry. They must<n>be the girl's\nparents!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Trainer, thank you so much for your<n>help today. I'm so glad\nthat little girl<n>was able to reunite with her parents.",
+            "choice_data_list": [
+                "I didn't really do anything though...",
+                "I didn't really do anything though..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "No, really. Be proud of yourself—you<n>were such a big help."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Until you showed up, I wasn't sure<n>what I was going to do. I\ncouldn't just<n>walk away with the girl, so I thought<n>about\ncalling for help..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "But there weren't any staff nearby<n>either. Honestly, I felt\nstuck."
+        },
+        {
+            "name": "Super Creek",
+            "text": "So when you came, it was a huge<n>relief. I was really happy\nto see you.",
+            "choice_data_list": [
+                "But I made the poor girl cry..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, maybe it wouldn't hurt to learn<n>a bit more about how\nto handle little<n>kids."
+        },
+        {
+            "name": "Super Creek",
+            "text": "But really though... I felt safe with you<n>being there."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I appreciated having you with me, so<n>please don't put\nyourself down.",
+            "choice_data_list": [
+                "I suppose I've become a little more reliable\nthen."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Of course!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "And you didn't forget your<n>handkerchief this time. Good\njob! ♪",
+            "choice_data_list": [
+                "...You're doing it again."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, I can't help myself though. ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Even though our dynamics haven't<n>changed much, I feel\nthat I was able to<n>gain more of Super Creek's trust<n>today."
+        },
+        {
+            "name": "Super Creek",
+            "text": "(I'm glad I can depend on you,<n>Trainer.)"
+        }
+    ]
+}

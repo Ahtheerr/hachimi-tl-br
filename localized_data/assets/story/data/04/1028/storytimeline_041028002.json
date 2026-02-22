@@ -1,0 +1,229 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "It's been a while since Hishi<n>Akebono scouted <i>me</i> as\nher<n>trainer. Today, we're spending a little<n>time together."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yup, yup, these look juuust right! I bet<n>they're super—Ah,\nbut I shouldn't pick<n>too many from the same spot!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Let's run over to the next mountain to<n>forage some more!\nCome on, Trainer!<n>Hurry, hurry! ♪",
+            "choice_data_list": [
+                "I-I'm right behind you..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "A few days earlier..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hey Trainer, are you free this<n>weekend? I want to make a\nhot pot<n>sumo wrestlers eat called<n><i>chanko,</i> and I need\ningredients."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "I've always wanted to gather<n>ingredients together with my\ntrainer."
+        },
+        {
+            "name": "Monólogo",
+            "text": "At most, I figured we would go to her<n>favorite fish and\nvegetable stalls, but<n>that notion was quickly dashed when<n>\nwe headed into the mountains to<n>collect mushrooms."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Okay, that should do it. Next stop is<n>the sea!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Our basket is overflowing with<n>mushrooms after traversing\nfive<n>whole mountains. I try to lift it up, but...",
+            "choice_data_list": [
+                "(It won't budge!)"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ahaha! With all those mushrooms,<n>it's gonna be real heavy!\nJust leave<n>that basket to me."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Up we go! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "She lifts the basket as if it were<n>nothing and slips her arms\ninto the<n>backpack straps. With the basket<n>securely resting\nagainst her back, she<n>walks off with a smile."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "DRAAAUGH!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Look at the size of this sea bass!<n>Trainer, can you keep\nwatch over the<n>cooler? There's a lot of hungry kitty<n>cats\nin the area."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Ah, I spy an even <i>bigger</i> fish!<n>Come here!"
+        },
+        {
+            "name": "Local A",
+            "text": "Uh... Sorry, did that girl just catch a<n>fish <i>with her bare\nhands?</i>"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yahoo! Look at this <i>huge</i> fish!"
+        },
+        {
+            "name": "Local B",
+            "text": "Oh come on, you must be seeing<n>thi—huh? Wait, you're\nright... But, like,<n>literally how?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Catching people's attention<n>everywhere we go, we\ncontinue to<n>gather ingredients. Seeing our haul<n>and feeling\nmy body aching, I start to<n>suggest we head back, when..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "All right, next stop is the butcher!",
+            "choice_data_list": [
+                "There's still more?!",
+                "There's still more?!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Yup! There's this butcher I like that<n>sells the most\nscrumptious ground<n>chicken. We can't have our hot pot<n>\nwithout that!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It's a <i>tad</i> far from here, but the<n>view on the way is\ntotally worth it!<n>Come on, let's gooo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I watch her run off, her imposing<n>silhouette getting smaller\nand smaller.<n>We've probably walked several<n>dozen\nkilometers today, yet she<n>shows no signs of fatigue.",
+            "choice_data_list": [
+                "(She's one tough Umamusume!)",
+                "(She's one tough Umamusume!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "After over an hour on the train, we<n>finally arrive in a\ndeceptively peaceful<n>small rural town. If only I knew of the<n>\ndisaster to come!"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Mmm! That country air smells so<n>good! W-wait, is that a\nboar?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Oink! Oink!</i>"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Awww, it is! What a cute little piggy."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "...Wait, why is it getting closer?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Stomp, stomp, stomp, stomp!</i>"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Eep! Wh-wh-whoa! Trainer, run<n>away!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Terrified, it takes me a few too many<n>seconds to react. As I\nturn to run, I<n>lose my balance...",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "And fall into the nearby river, along<n>with our hard-earned hot\npot<n>ingredients."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Are you okay, Trainer?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Thankfully, I'm not hurt, but all the<n>mushrooms and fish\nHishi Akebono<n>worked so hard to get are floating<n>away...",
+            "choice_data_list": [
+                "I'm so sorry!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "No, I'm more worried about you than<n>some silly food.\nBesides, we can just<n>buy extra meat instead! No worries! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "However, when we get to the<n>butcher..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Huh?! They're closed?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "And then, as if to rub salt in our<n>wounds..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "We missed the last bus?!",
+            "choice_data_list": [
+                "What?!"
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "It's so early! Did they change the<n>timetable? I swear there\nwas a<n>different one when we got off... I'm<n>sorry, Trainer."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Let's see... the first bus arrives at six<n>o'clock in the\nmorning, so that<n>meeeans... we have twelve hours?!<n>For\nreal?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Hoping to avoid camping out, I contact<n>the academy and try\nto find us<n>accommodations, but to no avail..."
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "So we're camping, huh?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "After all that work collecting<n>ingredients, we end up stuck in\nthe<n>countryside for the night... Hishi<n>Akebono may be\ntough, but she must<n>be pretty shake—"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Oh well, these things happen! Ah, look<n>here! I've got some\ncanned food and<n>rice, so why don't I make us some<n>\nmixed rice? ☆"
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Hehe, it's not every day that we can<n>go camping. Might as\nwell enjoy<n>ourselves. ♪",
+            "choice_data_list": [
+                "Hishi Akebono..."
+            ]
+        },
+        {
+            "name": "Hishi Akebono",
+            "text": "Wow! Look at the sky, Trainer! The<n>stars are so pretty!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Her smile doesn't betray a hint of<n>fatigue or\ndisappointment. There's<n>even a bit of a skip in her step as\nshe<n>trots off.",
+            "choice_data_list": [
+                "(What an interesting girl...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "When I turn my eyes up, though, I<n>realize she was right—the\nstars are<n>especially beautiful out here."
+        }
+    ]
+}

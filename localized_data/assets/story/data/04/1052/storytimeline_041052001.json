@@ -1,0 +1,181 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "The Tracen Meet is fast approaching.<n>It's one of the\nAcademy's regular<n>events, and it features every category<n>\nof race."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As such, the training grounds are<n>filled with students\npracticing, eager to<n>show off their skills on the day of the<n>\nevent."
+        },
+        {
+            "name": "???",
+            "text": "<i>Huff, puff...</i> A-almost... there..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Among them, I see an exhausted<n>Umamusume straggling\nfar behind the<n>others."
+        },
+        {
+            "name": "???",
+            "text": "Fiiinish... <i>Wheeze.</i> Urgh... So<n>dizzy..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "When her body finally gives out and<n>she falls to the ground,\nI rush to her<n>side.",
+            "choice_data_list": [
+                "Are you okay?!",
+                "Are you okay?!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Y-yup, all good..."
+        },
+        {
+            "name": "???",
+            "text": "Phew... Can't let a little dizziness get<n>in my way, especially\nif I want to win!"
+        },
+        {
+            "name": "???",
+            "text": "But thanks for checking on me! Um...<n>Are you..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "In answer to her inquisitive look, I<n>quickly introduce myself\nas a trainer."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Whoa, a trainer, huh?! Nice to meet<n>you! I'm Haru Urara!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Wait, that means you're coming to<n>the Tracen Meet, right?",
+            "choice_data_list": [
+                "That's the plan...",
+                "That's the plan..."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Then make sure you watch my race<n>too! I'm going to take\nfirst place!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Running feels really good! And look at<n>all this energy! Not to\nmention how<n>tasty carrots are! I bet I've got this in<n>the\nbag!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "As Haru Urara beams with<n>confidence, I think back to how\nshe<n>pushed herself to the point of<n>collapse during training."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perhaps she's more talented than my<n>first impression?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Anyway, I better get back to training!<n>See you at the race!\nBye-bye!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "<i>Huff... puff...</i> Why are my legs so<n>heeeavy!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "With a strained cry, Haru Urara<n>dashes off."
+        },
+        {
+            "name": "Monólogo",
+            "text": "On the day of the event, curious to<n>see Haru Urara's\nperformance, I<n>make my way to her assigned<n>racecourse."
+        },
+        {
+            "name": "Caster",
+            "text": "We've entered the final stretch! Haru<n>Urara continues to lag\nfarther and<n>farther behind the pack!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hnnngh! I'm not giving up yet!"
+        },
+        {
+            "name": "Caster",
+            "text": "And across the line! What a close<n>race! We've got a photo\nfinish on our<n>hands!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Even as every other runner passes<n>the finish line, Haru\nUrara continues to<n>run with all her might, eyes fixed on<n>the\ngoal."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "That's it! I'm almost there! And...<n>Yah!"
+        },
+        {
+            "name": "Caster",
+            "text": "Now Haru Urara... has finally passed<n>the finish line! A round\nof applause for<n>her, folks!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Dead last... Judging from her form, I<n>know she's not\ninjured or sick. This<n>really is the best she can do..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "While disappointed, I can't seem to<n>get the image of Haru\nUrara running<n>with all her might out of my mind."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "<i>Huff... Wheeze...</i> S-so tired...",
+            "choice_data_list": [
+                "You did your best."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah, you're that trainer from before!<n>You really came to\nwatch me run!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ehehe... This is embarrassing. I<n>thought I was gonna win for\nsure this<n>time..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "But guess what?! I ran the whooole<n>race! All that training\nreally paid off!",
+            "choice_data_list": [
+                "I could tell you ran with everything you've got."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Really?! Ehehe, I sure did!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Running really is the best! I can't wait<n>for my next race!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah, now that I think about it, I'll be<n>running in the next tryout\nrace too!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hey, you should come watch me race<n>there too! I'll make\nsure to take first<n>place then!",
+            "choice_data_list": [
+                "All right. I'll see you there."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Great! Then it's a promise!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Anyway, looks like I've got more<n>practice ahead of me! Go,\nme, go!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Despite tasting bitter defeat, Haru<n>Urara's eyes are filled\nnot with<n>sorrow, but overwhelming<n>determination."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Facing her relentless optimism, I too<n>am filled with a strong\ndesire to see<n>her race again."
+        }
+    ]
+}

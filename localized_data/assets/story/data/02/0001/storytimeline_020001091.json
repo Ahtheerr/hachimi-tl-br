@@ -1,0 +1,261 @@
+{
+    "text_block_list": [
+        {
+            "name": "Mejiro McQueen",
+            "text": "You want me to do an interview?"
+        },
+        {
+            "name": "<username>",
+            "text": "Yes. According to Tazuna, the<n>reporters are practically\nclimbing over<n>the gates for a chance to talk to you."
+        },
+        {
+            "name": "<username>",
+            "text": "Yes. According to Tazuna, the<n>reporters are practically\nclimbing over<n>the gates for a chance to talk to you."
+        },
+        {
+            "name": "<username>",
+            "text": "They must be extra interested now<n>that you're the favorite\nto win the<n>autumn Tenno Sho."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "So it would seem..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "What's wrong? Don't wanna do it?<n>Then send me instead!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "A simple \"I'm currently abstaining<n>from my beloved cakes\nfor my diet.\"<n>will convince them."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Wait, did you see me pacing in front<n>of that cake shop\nearlier?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I don't remember mandating a diet... It<n>must be\nself-imposed.",
+            "choice_data_list": [
+                "A slice or two couldn't hurt, you know?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "No, it's quite all right. If I give in to<n>temptation once, who\nknows what<n>other excuses I'll make?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Anyway, I will go and speak to the<n>reporters."
+        },
+        {
+            "name": "Reporter A",
+            "text": "You're currently the favorite for the<n>autumn Tenno Sho.\nHow confident are<n>you in your ability to take home the<n>\nwin?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Very much so. However, one never<n>knows what may\nhappen during a<n>race. I wish to approach the contest<n>free\nfrom arrogance."
+        },
+        {
+            "name": "Reporter B",
+            "text": "There are some very notable<n>competitors slated to run that\nday.<n>What kind of strategy are you<n>thinking of employing?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Well, ah..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro McQueen glances my way,<n>her expression\nseemingly asking if<n>that is a topic she should broach."
+        },
+        {
+            "name": "<username>",
+            "text": "I'm afraid that we can't share those<n>details."
+        },
+        {
+            "name": "<username>",
+            "text": "Let's just say that it would be great<n>if we could get a\nstarting position on<n>the inside."
+        },
+        {
+            "name": "Reporter C",
+            "text": "I've heard that at one point, your<n>team consisted only of\nyourself."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "That's right, though we have<n>managed to turn things around\nas of<n>late."
+        },
+        {
+            "name": "Reporter C",
+            "text": "Would it be accurate to chalk that up<n>to your performance at\nthe spring<n>Tenno Sho?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "McQueen looks my way again. I<n>sense that she's\nstruggling to come<n>up with a good answer to that<n>question.",
+            "choice_data_list": [
+                "Yes, that is why we're here today."
+            ]
+        },
+        {
+            "name": "<username>",
+            "text": "Even when the team was on the<n>verge of disbandment, she\npulled<n>through and attracted new talent with<n>her\nachievement."
+        },
+        {
+            "name": "<username>",
+            "text": "McQueen's efforts have been a big<n>inspiration for the\nothers."
+        },
+        {
+            "name": "Reporter C",
+            "text": "I see. We're expecting big things<n>from you here on out!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...",
+            "choice_data_list": [
+                "McQueen?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huh? Oh! Yes! Thank you."
+        },
+        {
+            "name": "Reporter B",
+            "text": "Lastly, do you have anything you'd<n>like to say to your\nfans?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'm honored that you would support<n>me to the point where I\nam the favorite<n>to win."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I'll be devoting my all to my training in<n>preparation for the\nrace. I do not plan<n>on letting you down."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Sheesh, so serious! Couldn't shake<n>up the typical interview\na bit?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Again, that's because I <i>am</i><n>serious."
+        },
+        {
+            "name": "Upbeat Umamusume",
+            "text": "Yeah, but all of your answers were<n>sooo cool!"
+        },
+        {
+            "name": "Caring Umamusume",
+            "text": "I really can't wait for the race!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "It's not just the fans who are<n>expecting great things of\nMejiro<n>McQueen."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I can't think of anyone more<n>deserving to stand at the\ncenter of a<n>team."
+        },
+        {
+            "name": "<username>",
+            "text": "All right, why don't we go get<n>something tasty to charge us\nback<n>up?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Wooo, hella! I'm about to go to town<n>on some\nall-you-can-eat lobster!"
+        },
+        {
+            "name": "Upbeat Umamusume",
+            "text": "I've been wanting to try that place<n>with the famous carrot\nsweets lately!"
+        },
+        {
+            "name": "Sincere Umamusume",
+            "text": "Geez, this is a celebration for<n>McQueen, so let's let her pick,\nall<n>right?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Um... I'm afraid I will have to refrain."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I should really move on to my training<n>for today. That\ninterview took up a lot<n>of precious time."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Seriously, you're gonna go out for<n>training now? You really\ngood on<n>keeping up this pace?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Don't worry, I won't push myself too<n>hard. The last thing I\nneed is a repeat<n>of the time I fell ill."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "But I'm finally hitting my stride with<n>my routine. I can't let\nthis chance go<n>to waste."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Is it fine with you, Trainer?",
+            "choice_data_list": [
+                "I'll leave it up to you.",
+                "I'll leave it up to you."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Thank you. Well then, I shall be off."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Super serious, that one."
+        },
+        {
+            "name": "Monólogo",
+            "text": "At last, the day of the autumn Tenno<n>Sho arrives."
+        },
+        {
+            "name": "<username>",
+            "text": "Wow, those stands are absolutely<n>packed."
+        },
+        {
+            "name": "<username>",
+            "text": "Wow, those stands are absolutely<n>packed."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Meaning that Golshi Yakisoba's on<n>track for some record\nprofits! I've got<n>noods to fry!"
+        },
+        {
+            "name": "<username>",
+            "text": "What, and miss cheering for<n>McQueen? Speaking of, where\nis she?"
+        },
+        {
+            "name": "<username>",
+            "text": "What, and miss cheering for<n>McQueen? Speaking of, where\nis she?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "She's already on her way out there,<n>yo."
+        },
+        {
+            "name": "<username>",
+            "text": "Really? But there's still so much time<n>left before the race\nstarts..."
+        },
+        {
+            "name": "<username>",
+            "text": "Really? But there's still so much time<n>left before the race\nstarts..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Phew..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "I have the dignity of the Mejiro name<n>to bear... the hopes of\ncountless fans<n>on my shoulders..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "My dear team members'<n>expectations, and those of my<n>\ntrainer..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "For all of their sakes, I will achieve<n>victory today."
+        }
+    ]
+}

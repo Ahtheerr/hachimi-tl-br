@@ -1,6 +1,7 @@
 {
     "text_block_list": [
         {
+            "name": "",
             "text": "Um dia no Hipódromo de Tóquio..."
         },
         {
@@ -9,15 +10,15 @@
         },
         {
             "name": "???",
-            "text": "O Hipódromo de Tóquio está animado como sempre!<n>\nTome cuidado para não se separar<n>da gente\npor acidente."
+            "text": "O Hipódromo de Tóquio está animado<n>como sempre! Tome\ncuidado para não<n>se separar da gente por acidente."
         },
         {
             "name": "???",
-            "text": "Bem, agora permita-me me apresentar."
+            "text": "Bem, agora permita-me me<n>apresentar."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Eu sou Tazuna Hayakawa, secretária da<n>\ndiretora, e serei sua guia turística<n>hoje!",
+            "text": "Eu sou Tazuna Hayakawa, secretária<n>da diretora, e serei\nsua guia turística<n>hoje!",
             "choice_data_list": [
                 "Obrigado por me trazer a bordo."
             ],
@@ -29,30 +30,31 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Com certeza. ♪ É uma honra poder<n>\nconhecer um novo treinador com um futuro<n>tão brilhante\nquanto o seu!"
+            "text": "Com certeza. ♪ É uma honra poder<n>conhecer um novo\ntreinador com um<n>futuro tão brilhante quanto o seu!"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "De qualquer forma, devemos prosseguir com o<n>\ntour pela academia. Mas, antes disso..."
+            "text": "De qualquer forma, devemos<n>prosseguir com o tour pela\nacademia.<n>Mas, antes disso..."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Uma corrida está prestes a começar. Vamos dar uma<n>olhada!"
+            "text": "Uma corrida está prestes a começar.<n>Vamos dar uma\nolhada!"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Consegue ouvir os gritos estrondosos<n>da\nmultidão?"
+            "text": "Consegue ouvir os gritos<n>estrondosos da multidão?"
         },
         {
+            "name": "",
             "text": "Wooooo!"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Pessoas de todo o mundo adoram as<n>\ncorridas de Umamusume!"
+            "text": "Pessoas de todo o mundo adoram as<n>corridas de\nUmamusume!"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "E com a fanfarra, as cortinas se<n>\nabrem neste palco onde você e sua<n>\naprendiz buscarão realizar seus sonhos!"
+            "text": "E com a fanfarra, as cortinas se<n>abrem neste palco onde\nvocê e sua<n>aprendiz buscarão realizar seus<n>sonhos!"
         }
     ]
 }

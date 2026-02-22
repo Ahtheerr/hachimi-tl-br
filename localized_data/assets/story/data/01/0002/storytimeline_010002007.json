@@ -2,12 +2,40 @@
     "text_block_list": [
         {
             "name": "Tazuna Hayakawa",
-            "text": "Agora estamos avançando em nossos preparativos<n>\nde Carreira."
+            "text": "Agora estamos avançando em<n>nossos preparativos de\nCarreira."
         },
         {
-            "color_text_info_list": "['estátua das Três<n>\nDeusas']",
             "name": "Tazuna Hayakawa",
-            "text": "Vamos até a estátua das Três<n>\nDeusas por um momento."
+            "text": "Vamos até a estátua das Três<n>Deusas por um momento.",
+            "color_text_info_list": [
+                "[",
+                "'",
+                "e",
+                "s",
+                "t",
+                "á",
+                "t",
+                "u",
+                "a",
+                "d",
+                "a",
+                "s",
+                "T",
+                "r",
+                "ê",
+                "s",
+                "<",
+                "n",
+                ">",
+                "D",
+                "e",
+                "u",
+                "s",
+                "a",
+                "s",
+                "'",
+                "]"
+            ]
         }
     ]
 }

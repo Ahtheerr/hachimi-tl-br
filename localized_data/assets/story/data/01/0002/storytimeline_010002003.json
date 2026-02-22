@@ -2,16 +2,36 @@
     "text_block_list": [
         {
             "name": "Tazuna Hayakawa",
-            "text": "Uau, você conheceu algumas Umamusume<n>incríveis!\nMas antes de partirmos para<n>começar o treinamento..."
-        },
-        {
-            "color_text_info_list": "['Cartas de Suporte']",
-            "name": "Tazuna Hayakawa",
-            "text": "Permita-me explicar o recrutamento de<n>\nCartas de Suporte."
+            "text": "Uau, você conheceu algumas<n>Umamusume incríveis! Mas\nantes de<n>partirmos para começar o<n>treinamento..."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Vamos mudar para o Recrutamento relevante!"
+            "text": "Permita-me explicar o recrutamento<n>de Cartas de Suporte.",
+            "color_text_info_list": [
+                "[",
+                "'",
+                "C",
+                "a",
+                "r",
+                "t",
+                "a",
+                "s",
+                "d",
+                "e",
+                "S",
+                "u",
+                "p",
+                "o",
+                "r",
+                "t",
+                "e",
+                "'",
+                "]"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Vamos mudar para o Recrutamento<n>relevante!"
         }
     ]
 }

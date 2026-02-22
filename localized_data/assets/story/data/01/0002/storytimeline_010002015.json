@@ -1,17 +1,29 @@
 {
     "text_block_list": [
         {
-            "color_text_info_list": "['paddock']",
             "name": "Tazuna Hayakawa",
-            "text": "Este lugar é chamado de paddock.<n>As corredoras\naparecem aqui antes da corrida para<n>animar\nseus fãs adoradores!"
+            "text": "Este lugar é chamado de paddock. As<n>corredoras aparecem\naqui antes da<n>corrida para animar seus fãs<n>adoradores!",
+            "color_text_info_list": [
+                "[",
+                "'",
+                "p",
+                "a",
+                "d",
+                "d",
+                "o",
+                "c",
+                "k",
+                "'",
+                "]"
+            ]
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Atenção! Existem várias coisas que você<n>\npode confirmar aqui no paddock antes<n>\nda corrida!"
+            "text": "Atenção! Existem várias coisas que<n>você pode confirmar\naqui no paddock<n>antes da corrida!"
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Vou deixar as explicações detalhadas com<n>\nvocê, Tazuna!"
+            "text": "Vou deixar as explicações detalhadas<n>com você, Tazuna!"
         },
         {
             "name": "Tazuna Hayakawa",

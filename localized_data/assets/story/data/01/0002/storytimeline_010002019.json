@@ -2,23 +2,81 @@
     "text_block_list": [
         {
             "name": "Tazuna Hayakawa",
-            "text": "Cada Umamusume se destaca em certas<n>\ndistâncias e pistas.",
+            "text": "Cada Umamusume se destaca em<n>certas distâncias e\npistas.",
             "color_text_info_list": [
                 "distâncias"
             ]
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "O truque é formar equipes baseadas nas<n>\naptidões das suas corredoras!",
-            "color_text_info_list": "['formar equipes baseadas nas', 'aptidões das suas corredoras!']"
+            "text": "O truque é formar equipes baseadas<n>nas aptidões das suas\ncorredoras!",
+            "color_text_info_list": [
+                "[",
+                "'",
+                "f",
+                "o",
+                "r",
+                "m",
+                "a",
+                "r",
+                "e",
+                "q",
+                "u",
+                "i",
+                "p",
+                "e",
+                "s",
+                "b",
+                "a",
+                "s",
+                "e",
+                "a",
+                "d",
+                "a",
+                "s",
+                "n",
+                "a",
+                "s",
+                "'",
+                ",",
+                "'",
+                "a",
+                "p",
+                "t",
+                "i",
+                "d",
+                "õ",
+                "e",
+                "s",
+                "d",
+                "a",
+                "s",
+                "s",
+                "u",
+                "a",
+                "s",
+                "c",
+                "o",
+                "r",
+                "r",
+                "e",
+                "d",
+                "o",
+                "r",
+                "a",
+                "s",
+                "!",
+                "'",
+                "]"
+            ]
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Note também que, com o tempo, adicionar mais<n>\nUmamusume Veteranas habilidosas à<n>\nsua equipe aumentará seu Rank de Equipe."
+            "text": "Note também que, com o tempo,<n>adicionar mais\nUmamusume<n>Veteranas habilidosas à sua equipe<n>\naumentará seu Rank de Equipe."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Vamos continuar treinando corredoras fortes para<n>\nelevar seu Rank de Equipe cada vez mais!<n>\nÉ uma ótima maneira de mostrar sua habilidade. ♪"
+            "text": "Vamos continuar treinando corredoras<n>fortes para elevar\nseu Rank de Equipe<n>cada vez mais! É uma ótima maneira<n>\nde mostrar sua habilidade. ♪"
         }
     ]
 }

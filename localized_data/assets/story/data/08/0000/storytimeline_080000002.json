@@ -1,36 +1,53 @@
 {
-    "title": "プロローグ",
     "text_block_list": [
         {
             "name": "Narradora",
-            "text": "Finalmente chegou, pessoal! A tão esperada<n>\nUnity Cup!",
+            "text": "Finalmente chegou, pessoal! A tão<n>esperada Unity Cup!",
             "color_text_info_list": [
                 "Unity Cup"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "A Unity Cup é uma competição que ocorre<n>\nsimultaneamente com a Twinkle Series.",
+            "text": "A Unity Cup é uma competição que<n>ocorre simultaneamente\ncom a<n>Twinkle Series.",
             "color_text_info_list": [
                 "Twinkle Series"
             ]
         },
         {
             "name": "Narradora",
-            "text": "Este confronto de equipes organizado pela Academia<n>\nTracen testará não apenas as habilidades<n>\nindividuais, mas também a sua<n>\nforça como uma equipe!",
-            "color_text_info_list": "['Tracen Academy']"
+            "text": "Este confronto de equipes organizado<n>pela Academia\nTracen testará não<n>apenas as habilidades individuais,<n>\nmas também a sua força como uma<n>equipe!",
+            "color_text_info_list": [
+                "[",
+                "'",
+                "T",
+                "r",
+                "a",
+                "c",
+                "e",
+                "n",
+                "A",
+                "c",
+                "a",
+                "d",
+                "e",
+                "m",
+                "y",
+                "'",
+                "]"
+            ]
         },
         {
             "name": "Monólogo",
-            "text": "No entanto, esta não é apenas uma<n>\ncompetição normal!"
+            "text": "No entanto, esta não é apenas uma<n>competição normal!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Precisamos salvar a academia da<n>\ndestruição certa!"
+            "text": "Precisamos salvar a academia da<n>destruição certa!"
         },
         {
             "name": "Haru Urara",
-            "text": "Meu Deus, isso significa que somos<n>\nheroínas?!"
+            "text": "Meu Deus, isso significa que somos<n>heroínas?!"
         },
         {
             "name": "Rice Shower",
@@ -38,7 +55,7 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Você terá a gente ao seu lado, então é claro que<n>\nconsegue! Só temos que unir nossas forças<n>\ne sair por cima!"
+            "text": "Você terá a gente ao seu lado, então<n>é claro que consegue!\nSó temos que<n>unir nossas forças e sair por cima!"
         },
         {
             "name": "Membros da Equipe",
@@ -46,7 +63,7 @@
         },
         {
             "name": "Little Cocon",
-            "text": "Ha. Seria muito bom se bastasse<n>\nisso para vencer."
+            "text": "Ha. Seria muito bom se bastasse isso<n>para vencer."
         },
         {
             "name": "Bitter Glasse",
@@ -54,15 +71,15 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Você realmente acha que pode derrubar a minha<n>\nequipe?"
+            "text": "Você realmente acha que pode<n>derrubar a minha equipe?"
         },
         {
             "name": "Monólogo",
-            "text": "Um confronto épico de equipes está prestes a<n>começar!"
+            "text": "Um confronto épico de equipes está<n>prestes a começar!"
         },
         {
             "name": "Monólogo",
-            "text": "Um confronto épico de equipes está prestes a<n>começar!"
+            "text": "Um confronto épico de equipes está<n>prestes a começar!"
         }
     ]
 }

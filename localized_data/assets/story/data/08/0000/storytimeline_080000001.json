@@ -1,23 +1,26 @@
 {
-    "title": "P1",
     "text_block_list": [
         {
+            "name": "",
             "text": "Esta... é a Academia Tracen.",
             "color_text_info_list": [
                 "Academia Tracen"
             ]
         },
         {
-            "text": "Aqui, jovens Umamusume promissoras se<n>\nreúnem para treinar como corredoras, seus corações<n>cheios\nde sonhos de glória encontrados na<n>Twinkle\nSeries...",
+            "name": "",
+            "text": "Aqui, jovens Umamusume<n>promissoras se reúnem para\ntreinar<n>como corredoras, seus corações<n>cheios de sonhos\nde glória<n>encontrados na Twinkle Series...",
             "color_text_info_list": [
                 "Twinkle Series"
             ]
         },
         {
-            "text": "Junto com suas colegas de escola, elas<n>\npassam seus dias treinando tanto o corpo quanto a<n>\nmente..."
+            "name": "",
+            "text": "Junto com suas colegas de escola,<n>elas passam seus dias\ntreinando<n>tanto o corpo quanto a mente..."
         },
         {
-            "text": "No entanto... nem todas estão satisfeitas com o<n>\nestado atual da academia."
+            "name": "",
+            "text": "No entanto... nem todas estão<n>satisfeitas com o estado atual\nda<n>academia."
         },
         {
             "name": "Diretora Akikawa",
@@ -33,14 +36,14 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Tazuna! Eu, a diretora da Academia Tracen,<n>\namo minhas alunas mais do que tudo...",
+            "text": "Tazuna! Eu, a diretora da Academia<n>Tracen, amo minhas\nalunas mais do<n>que tudo...",
             "color_text_info_list": [
                 "Tazuna"
             ]
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Portanto, não suporto ver o potencial de nem<n>\nsequer uma única corredora sendo desperdiçado! E<n>\nainda assim, é exaaatamente isso que está acontecendo!"
+            "text": "Portanto, não suporto ver o potencial<n>de nem sequer uma\núnica corredora<n>sendo desperdiçado! E ainda assim,<n>é\nexaaatamente isso que está<n>acontecendo!"
         },
         {
             "name": "Diretora Akikawa",
@@ -48,7 +51,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Proposta! Criarei um evento de<n>\ncorrida completamente novo!",
+            "text": "Proposta! Criarei um evento de<n>corrida completamente\nnovo!",
             "color_text_info_list": [
                 "evento de corrida completamente novo"
             ]
@@ -59,11 +62,11 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Afirmativo! Nossas alunas agora terão<n>\noutro conjunto de corridas pelas quais ansiar<n>\nalém da Twinkle Series!"
+            "text": "Afirmativo! Nossas alunas agora<n>terão outro conjunto de\ncorridas pelas<n>quais ansiar além da Twinkle Series!"
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Um que inclua todas as distâncias! Todos os<n>\npercursos! Um evento de corrida diferente de tudo o que<n>\nveio antes!",
+            "text": "Um que inclua todas as distâncias!<n>Todos os percursos! Um\nevento de<n>corrida diferente de tudo o que veio<n>antes!",
             "color_text_info_list": [
                 "todas as distâncias",
                 "Todos os percursos"
@@ -90,7 +93,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Rápido! Devemos agendar uma coletiva<n>\nde imprensa. O mundo precisa saber desta<n>\nnotícia!"
+            "text": "Rápido! Devemos agendar uma<n>coletiva de imprensa. O\nmundo precisa<n>saber desta notícia!"
         },
         {
             "name": "Tazuna Hayakawa",
@@ -101,15 +104,19 @@
             "text": "Entendido. Deixe comigo!"
         },
         {
-            "text": "E assim começa a história de um novo<n>evento de corrida, o URA Finale."
+            "name": "",
+            "text": "E assim começa a história de um<n>novo evento de corrida, o\nURA Finale."
         },
         {
-            "text": "Criada para ajudar todas as Umamusume a brilharem,<n>\nesta corrida..."
+            "name": "",
+            "text": "Criada para ajudar todas as<n>Umamusume a brilharem, esta<n>\ncorrida..."
         },
         {
-            "text": "Será o palco sobre o qual a história sua e da<n>\nsua aprendiz se desenrolará!"
+            "name": "",
+            "text": "Será o palco sobre o qual a história<n>sua e da sua aprendiz\nse desenrolará!"
         },
         {
+            "name": "",
             "text": "O Começo! URA Finale!"
         }
     ]

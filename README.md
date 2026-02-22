@@ -28,7 +28,7 @@ Siga os passos abaixo para aplicar a tradução no seu jogo:
 2. **Instale a Ferramenta:** Você pode instalar o Hachimi utilizando o instalador automático fornecido ou realizar a instalação manualmente.
 3. **Configure o Link de Meta:** Ao abrir o jogo pela primeira vez com o mod instalado, uma janela de setup aparecerá contendo uma caixa de texto com um link. Apague o link original e cole o link da nossa tradução:
    ```text
-   [https://gitlab.com/ahtheerr/HachimiTesteMeta/-/raw/main/meta.json?ref_type=heads](https://gitlab.com/ahtheerr/HachimiTesteMeta/-/raw/main/meta.json?ref_type=heads)
+   https://gitlab.com/ahtheerr/HachimiTesteMeta/-/raw/main/meta.json?ref_type=heads](https://gitlab.com/ahtheerr/HachimiTesteMeta/-/raw/main/meta.json?ref_type=heads
 
 ```
 

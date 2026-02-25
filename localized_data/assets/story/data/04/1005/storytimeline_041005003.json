@@ -2,234 +2,234 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "The day before tryouts..."
+            "text": "O dia antes das seletivas..."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Trainer!"
+            "text": "Treinador!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "<i>Sigh...</i> I'm so sorry for stopping<n>you, but I'm in search\nof someone."
+            "text": "<i>Suspiro...</i> Desculpe te parar<n>assim, mas estou à\nprocura de<n>alguém."
         },
         {
             "name": "Monólogo",
-            "text": "Fuji Kiseki informs me that she can't<n>find one of the\nstudents under her<n>care. Unfortunately, I have no idea<n>\nwhere to look...",
+            "text": "Fuji Kiseki me informa que não<n>consegue encontrar uma\ndas<n>estudantes sob seus cuidados.<n>Infelizmente, não faço\nideia de onde<n>procurar...",
             "choice_data_list": [
-                "I'm sorry. I haven't seen her."
+                "Desculpe. Não a vi."
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I see... Well, thank you anyway. If you<n>do happen to find her,\nwould you tell<n>her to contact me right away?"
+            "text": "Entendo... Bem, obrigada de qualquer<n>forma. Se você por\nacaso a encontrar,<n>poderia dizer para ela entrar em<n>\ncontato comigo imediatamente?"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "No need to say how—every member<n>of Ritto dorm knows my\ndetails. Thank<n>you again! Now, I must be off."
+            "text": "Não precisa dizer como—todo membro<n>do dormitório Ritto\nconhece meus<n>contatos. Obrigada novamente! Agora,<n>\npreciso ir."
         },
         {
             "name": "Umamusume Junior A",
-            "text": "Hey, wasn't that Fuji? I wonder why<n>she was in such a\nhurry."
+            "text": "Ei, não era a Fuji? Me pergunto por<n>que ela estava com\ntanta pressa."
         },
         {
             "name": "Umamusume Junior B",
-            "text": "Apparently, a student from Ritto<n>hasn't been seen all day. I\nheard she<n>might've snuck off and run away<n>from school."
+            "text": "Aparentemente, uma estudante do<n>Ritto não foi vista o dia\ntodo. Ouvi dizer<n>que ela pode ter fugido escondida da<n>\nescola."
         },
         {
             "name": "Junior Estudante A",
-            "text": "Ah, well, that's not super rare, huh...<n>Wait, so Fuji's been\nlooking since<n>morning?! The tryouts are tomorrow!"
+            "text": "Ah, bem, isso não é tão raro assim,<n>né... Espera, então a\nFuji tá<n>procurando desde de manhã?! As<n>seletivas são\namanhã!"
         },
         {
             "name": "Junior Estudante B",
-            "text": "I know, right? I wonder if she'll be<n>able to train at all... But\nit's her we're<n>talking about. I'm sure she'll be fine.",
+            "text": "Pois é, né? Será que ela vai conseguir<n>treinar...? Mas é dela\nque estamos<n>falando. Tenho certeza que vai ficar<n>tudo\nbem.",
             "choice_data_list": [
-                "(I've gotta help look!)",
-                "(I've gotta help look!)"
+                "(Eu tenho que ajudar a procurar!)",
+                "(Eu tenho que ajudar a procurar!)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Try as I might to find a student fitting<n>the description Fuji\ngave me, my<n>search ends in failure."
+            "text": "Por mais que eu tente encontrar uma<n>estudante que\ncombine com a<n>descrição que a Fuji me deu, minha<n>busca\ntermina em fracasso."
         },
         {
             "name": "Monólogo",
-            "text": "Meanwhile, it's already grown dark<n>outside."
+            "text": "Enquanto isso, já ficou escuro lá<n>fora."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Trainer?! What on earth are you doing<n>here? And you're\ndrenched in sweat...",
+            "text": "Treinador?! O que diabos você está<n>fazendo aqui? E você\nestá<n>encharcado de suor...",
             "choice_data_list": [
-                "I wanted to help with the search."
+                "Eu queria ajudar na busca."
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Is that so? You're very kind... Thank<n>you for helping out."
+            "text": "É mesmo? Você é muito gentil...<n>Obrigada por ajudar."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I'm afraid to say, this park is the only<n>place left unchecked—"
+            "text": "Temo dizer que este parque é o único<n>lugar que ainda não\nfoi verificado—"
         },
         {
             "name": "Umamusume Junior C",
-            "text": "<i>Sniffle...</i>"
+            "text": "<i>Snif...</i>"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Wait! Did you hear that? Let's go!"
+            "text": "Espera! Você ouviu isso? Vamos!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Good evening, my darling pony. And<n>what might you be\ndoing in such a<n>lonely place?"
+            "text": "Boa noite, minha querida potranca. O<n>que você poderia estar\nfazendo em<n>um lugar tão solitário?"
         },
         {
             "name": "Umamusume Junior C",
-            "text": "Huh? F-Fuji?! But, why are you<n>here?! You should be\npreparing for<n>your race tomorrow, not worrying<n>about me!"
+            "text": "Hã? F-Fuji?! Mas, por que você está<n>aqui?! Você deveria\nestar se<n>preparando para sua corrida amanhã,<n>não se\npreocupando comigo!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I needn't worry about you? Why<n>would you say such a\nthing? I mean,<n>you're one of my dearest friends at<n>the\nacademy."
+            "text": "Não preciso me preocupar com você?<n>Por que você diria\numa coisa dessas?<n>Quer dizer, você é uma das minhas<n>\namigas mais queridas na Academia<n>Tracen."
         },
         {
             "name": "Junior Estudante C",
-            "text": "No way! I... I'm no good to anyone<n>here. I'm not fit to be at\nthis school<n>anymore."
+            "text": "Não pode ser! Eu... Eu não sirvo para<n>ninguém aqui. Não sou\nmais adequada<n>para esta escola."
         },
         {
             "name": "Junior Estudante C",
-            "text": "The training's way too hard for me. I<n>just wanna see my\nfamily... All my<n>motivation to race disappeared like a<n>puff\nof smoke!"
+            "text": "O treino é difícil demais pra mim. Eu<n>só quero ver minha\nfamília... Toda<n>minha motivação para correr<n>desapareceu\ncomo uma baforada de<n>fumaça!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Your motivation to race... I see."
+            "text": "Sua motivação para correr... Entendo."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Don't you want to try reclaiming that<n>feeling? Or would you\nrather throw this<n>all away and go home?"
+            "text": "Você não quer tentar recuperar essa<n>sensação? Ou prefere\njogar tudo isso<n>fora e ir para casa?"
         },
         {
             "name": "Junior Estudante C",
-            "text": "I-I dunno..."
+            "text": "Eu... não sei..."
         },
         {
             "name": "Umamusume Junior C",
-            "text": "I mean, I'd like to get the feeling<n>back, <i>if I can</i>... Running\nin real<n>races has always been my dream,<n>but—"
+            "text": "Quer dizer, eu gostaria de recuperar a<n>sensação, <i>se eu\nconseguir</i>...<n>Correr em corridas de verdade<n>sempre foi\nmeu sonho, mas—"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Then it's decided! If that is your wish,<n>then I shall make it\ncome true."
+            "text": "Então está decidido! Se esse é o seu<n>desejo, então eu o\nrealizarei."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Watch me—I'll have you remember<n>your motivation. All of it.\nIn the tryouts<n>tomorrow, I'll show you a real<n>miracle!"
+            "text": "Observe-me—vou fazer você se<n>lembrar da sua motivação.\nToda ela.<n>Nas seletivas amanhã, vou te mostrar<n>um\nverdadeiro milagre!"
         },
         {
             "name": "Junior Estudante C",
-            "text": "A miracle?"
+            "text": "Um milagre?"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I mean it. So come on... let's get back<n>to the dorm."
+            "text": "Estou falando sério. Então vamos...<n>voltar para o dormitório."
         },
         {
             "name": "Monólogo",
-            "text": "Through an inspiring promise of a<n>miracle, Fuji Kiseki\nmanages to bring<n>the student safely home."
+            "text": "Através de uma promessa<n>inspiradora de um milagre, Fuji\nKiseki<n>consegue trazer a estudante em<n>segurança para\ncasa."
         },
         {
             "name": "Hishi Amazon",
-            "text": "Geez... My nerves are shot, Fuji. I<n>thought we lost you too."
+            "text": "Nossa... Tô com os nervos à flor da<n>pele, Fuji. Achei que\ntínhamos te<n>perdido também."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Hahaha! Forgive me! But I thank you,<n>Hishiama, for\nwatching over things<n>while I was gone."
+            "text": "Hahaha! Me perdoe! Mas te<n>agradeço, Hishiama, por ter\nficado de<n>olho em tudo enquanto eu estava<n>fora."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "And Trainer, your efforts were<n>heartening to see!",
+            "text": "E Treinador, seus esforços foram<n>encorajadores de se ver!",
             "choice_data_list": [
-                "I'm just glad we found your friend."
+                "Só fico feliz que encontramos sua amiga."
             ]
         },
         {
             "name": "Hishi Amazon",
-            "text": "Come on, it's almost lights-out. Get to<n>bed already. You've\ngot that race<n>tomorrow."
+            "text": "Vamos, já tá quase na hora de<n>apagar as luzes. Vão pra\ncama logo.<n>Você tem aquela corrida amanhã."
         },
         {
             "name": "Hishi Amazon",
-            "text": "You missed a whole day of training,<n>but I wouldn't sweat it.\nIt'd take more<n>than a day to throw you out of shape.<n>Just\nconcentrate on restin' up."
+            "text": "Você perdeu um dia inteiro de treino,<n>mas eu não suaria\nisso. Levaria mais<n>que um dia pra te deixar fora de<n>forma.\nSó concentre-se em descansar."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "...Will do."
+            "text": "...Pode deixar."
         },
         {
             "name": "Hishi Amazon",
-            "text": "Don't get any funny ideas or<n>anything, 'kay? Good night."
+            "text": "Não vá ter nenhuma ideia engraçada<n>ou algo assim, tá? Boa\nnoite."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Yes, good night."
+            "text": "Sim, boa noite."
         },
         {
             "name": "Monólogo",
-            "text": "I part ways with the two and return to<n>my room, but I can't\nhelp worrying<n>about how Fuji was acting..."
+            "text": "Eu me despeço das duas e volto para<n>meu quarto, mas não\nconsigo parar de<n>me preocupar com o jeito que a Fuji<n>\nestava agindo..."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "For I am Fuji Kiseki—the entertainer<n>who brings joy to all!\nAt least, that is<n>the ideal I wish to become."
+            "text": "Pois eu sou Fuji Kiseki—a entertainer<n>que traz alegria para\ntodos! Pelo<n>menos, esse é o ideal que desejo me<n>tornar."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I'll put on a miracle of a performance<n>that will make\neveryone smile!"
+            "text": "Vou fazer uma performance<n>milagrosa que fará todo mundo\nsorrir!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "For I... am the miracle of the turf, Fuji<n>Kiseki!"
+            "text": "Pois eu... sou o milagre da grama,<n>Fuji Kiseki!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Watch me—I'll have you remember<n>your motivation. All of it.\nIn the tryouts<n>tomorrow, I'll show you a real<n>miracle!"
+            "text": "Observe-me—vou fazer você se<n>lembrar da sua motivação.\nToda ela.<n>Nas seletivas amanhã, vou te mostrar<n>um\nverdadeiro milagre!"
         },
         {
             "name": "Monólogo",
-            "text": "She wants so badly to entertain and<n>thrill people. I hope\nshe's staying calm<n>about this...",
+            "text": "Ela quer tanto entreter e empolgar as<n>pessoas. Espero que\nela esteja<n>calma em relação a isso...",
             "choice_data_list": [
-                "(But I've got a bad feeling.)"
+                "(Mas tenho um mau pressentimento.)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Unable to shake my strange hunch, I<n>go to make sure\nFuji's resting."
+            "text": "Incapaz de me livrar da minha<n>estranha intuição, eu vou me\ncertificar<n>de que a Fuji está descansando."
         },
         {
             "name": "Hishi Amazon",
-            "text": "What a jerk! She looked too calm—I<n>knew she'd do\nsomethin' dumb like<n>this!"
+            "text": "Que idiota! Ela parecia calma<n>demais—eu sabia que ela faria\nalguma<n>besteira dessas!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Oh, it's you. You're that trainer who<n>was with Fuji, aren't\nya?",
+            "text": "Ah, é você. Você é aquele treinador<n>que estava com a Fuji,\nnão é?",
             "choice_data_list": [
-                "Did something happen?"
+                "Aconteceu alguma coisa?"
             ]
         },
         {
             "name": "Hishi Amazon",
-            "text": "Oh, only her drivin' me into a rage!<n>She vanished without a\ntrace. It's one<n>thing for the others to break curfew,<n>but a\ndorm leader? Unforgivable!"
+            "text": "Ah, só ela me deixando com raiva!<n>Ela sumiu sem deixar\nrastros. Uma<n>coisa é as outras quebrarem o toque<n>de\nrecolher, mas a líder do dormitório?<n>Imperdoável!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "It's good that you're here,<n>though—we're after the same\nthing.<n>Let's split up."
+            "text": "Que bom que você tá aqui, no<n>entanto—estamos atrás da\nmesma<n>coisa. Vamos nos separar."
         },
         {
             "name": "Hishi Amazon",
-            "text": "Lemme think where she loves to<n>train... There's down by\nthe river, the<n>shrine..."
+            "text": "Deixa eu pensar onde ela ama<n>treinar... Tem lá perto do rio,\no<n>santuário..."
         },
         {
             "name": "Monólogo",
-            "text": "After thinking of all the places she<n>could be, Hishi Amazon\nand I split up<n>to look for Fuji Kiseki."
+            "text": "Depois de pensar em todos os<n>lugares onde ela poderia\nestar, Hishi<n>Amazon e eu nos separamos para<n>procurar\nFuji Kiseki."
         },
         {
             "name": "Monólogo",
-            "text": "Finally..."
+            "text": "Finalmente..."
         },
         {
             "name": "Fuji Kiseki",
@@ -240,7 +240,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Huh... T-Trainer?!"
+            "text": "Hã... T-Treinador?!"
         }
     ]
 }

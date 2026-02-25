@@ -2,225 +2,226 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "One afternoon following a long day of<n>work, I return to my\nroom, only to<n>realize something was amiss.",
+            "text": "Uma tarde, após um longo dia de<n>trabalho, volto para o meu\nquarto,<n>apenas para perceber que algo<n>estava errado.",
             "choice_data_list": [
-                "(My trainer badge is gone!)"
+                "(Meu distintivo de treinador sumiu!)",
+                "(Meu distintivo de treinadora sumiu!)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "It was right on my collar, as per<n>regulations... Did I drop it<n>\nsomewhere? I'd better find it, quickly!"
+            "text": "Estava bem no meu colarinho,<n>conforme o regulamento...\nSerá que<n>deixei cair em algum lugar? É melhor<n>encontrá-lo,\nrápido!"
         },
         {
             "name": "Monólogo",
-            "text": "I search frantically for my badge up<n>and down the entire\ncampus, but no<n>luck...",
+            "text": "Procuro freneticamente pelo distintivo<n>por todo o campus,\nmas sem sorte...",
             "choice_data_list": [
-                "(I just can't find it.)"
+                "(Eu simplesmente não consigo encontrar.)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Maybe it fell through a crack or<n>something, I wonder, as my\neyes<n>strain to scan the ground."
+            "text": "Talvez tenha caído em alguma fresta<n>ou algo assim, eu me\npergunto,<n>enquanto meus olhos se esforçam<n>para\nvasculhar o chão."
         },
         {
             "name": "???",
-            "text": "Oof!"
+            "text": "Opa!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Forgive me! Are you all right? I hope<n>you've suffered no\ninjury.",
+            "text": "Perdoe-me! Você está bem? Espero<n>que não tenha sofrido\nnenhum<n>ferimento.",
             "choice_data_list": [
-                "I should be the one to apologize. I wasn't\nlooking...",
-                "I should be the one to apologize. I wasn't\nlooking..."
+                "Eu é que deveria me desculpar. Eu não estava olhando...",
+                "Eu é que deveria me desculpar. Eu não estava olhando..."
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Please, we are both unharmed, and<n>that is all that matters!\nBut say...<n>you've the look of someone in a<n>terrible\npredicament."
+            "text": "Por favor, estamos ambos ilesos, e<n>isso é tudo o que\nimporta! Mas diga...<n>você tem o semblante de alguém em<n>\num terrível dilema."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I watched as you stared so bleakly at<n>your feet. Might you\nbe in search of<n>some precious family heirloom?"
+            "text": "Observei enquanto você olhava tão<n>desoladamente para os\nseus pés.<n>Estaria em busca de alguma preciosa<n>relíquia\nde família?"
         },
         {
             "name": "Monólogo",
-            "text": "I tell the kind student how I lost my<n>trainer badge and can't\nfind it<n>anywhere."
+            "text": "Conto para a gentil estudante como<n>perdi meu distintivo de\ntreinador e não<n>consigo encontrá-lo em lugar nenhum."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Your trainer badge! This is more dire<n>than I feared."
+            "text": "Seu distintivo de treinador! Isso é<n>mais grave do que eu\ntemia."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "No outsider is permitted to set foot on<n>the grounds of Tracen\nAcademy.<n>Without your insignia, the guards may<n>mistake\nyou for a trespasser..."
+            "text": "Nenhum estranho tem permissão<n>para pisar nos terrenos da\nAcademia<n>Tracen. Sem a sua insígnia, os<n>guardas podem\nconfundi-lo com um<n>invasor..."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Have you not heard the tales? There<n>once was a scoundrel\nprowling the<n>school under the cover of night."
+            "text": "Você não ouviu as histórias? Dizem<n>que uma vez houve um\ncanalha<n>rondando a escola sob o manto da<n>noite."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "With not a soul to trouble them in the<n>dark, quiet halls, the\nvillain chuckled in<n>victory."
+            "text": "Sem uma alma para incomodá-lo nos<n>corredores escuros e\nsilenciosos, o<n>vilão riu vitorioso."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "But just then, they heard it. The<n>clip-clop of approaching\nfootsteps...<n>They turned around to suddenly see<n>the\n<i>wicked</i> grin of... Tazuna!",
+            "text": "Mas, naquele momento, ele ouviu. O<n>pocotó de passos se\naproximando...<n>Ele se virou para de repente ver o<n>sorriso\n<i>maligno</i> da... Tazuna!",
             "choice_data_list": [
-                "<i>Gulp!</i>"
+                "<i>Glup!</i>"
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Hehe... I only kid!"
+            "text": "Hehe... Eu só estava brincando!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Wise trainer, why not try checking<n>your pockets?"
+            "text": "Sábio treinador, por que não tenta<n>verificar seus bolsos?"
         },
         {
             "name": "Monólogo",
-            "text": "The strange suggestion takes me by<n>surprise, but I reach\ninto my pockets<n>all the same...",
+            "text": "A sugestão estranha me pega de<n>surpresa, mas alcanço\nmeus bolsos<n>mesmo assim...",
             "choice_data_list": [
-                "My badge!"
+                "Meu distintivo!"
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I'd only just picked it up off the floor,<n>but to think I would\nmeet its owner so<n>soon. What luck!"
+            "text": "Eu tinha acabado de pegá-lo do chão,<n>mas pensar que\nencontraria seu dono<n>tão cedo. Que sorte!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Judging by your frightened panic and<n>lack of badge, I\nsurmised it to be<n>yours... How right I was!",
+            "text": "Julgando pelo seu pânico assustado<n>e pela falta do\ndistintivo, supus que<n>fosse seu... Como eu estava certa!",
             "choice_data_list": [
-                "But when did you put it in my pocket?"
+                "Mas quando você o colocou no meu bolso?"
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "When I bumped into you. Sleight of<n>hand is a useful skill of\nmine! Heh<n>heh, were you shocked?"
+            "text": "Quando esbarrei em você. Truques de<n>mãos são uma\nhabilidade útil minha!<n>Heh heh, ficou chocado?"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Perhaps I should have simply handed<n>it over, rather than\nscare you. I<n>couldn't help but take the chance for<n>a fun\nsurprise... Forgive me."
+            "text": "Talvez eu devesse ter simplesmente<n>o entregue, em vez de\nte assustar. Eu<n>não pude evitar a chance de fazer<n>uma\nsurpresa divertida... Perdoe-me."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Ah, that's it! To make up for my<n>devilish trick, let me treat\nyou to a<n>meal. You're sure to be delighted!",
+            "text": "Ah, já sei! Para compensar meu<n>truque diabólico, deixe-me\npagar uma<n>refeição para você. Com certeza<n>ficará\nencantado!",
             "choice_data_list": [
-                "I really should be thanking you though...",
-                "I really should be thanking you though..."
+                "Eu é que deveria estar te agradecendo...",
+                "Eu é que deveria estar te agradecendo..."
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "All the thanks I need is for you to<n>accompany me for a meal!\nNow, to the<n>cafeteria, my dear trainer!"
+            "text": "Todo o agradecimento de que preciso<n>é que me acompanhe\nem uma<n>refeição! Agora, para o refeitório, meu<n>caro\ntreinador!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Pray tell. Have you heard the news?<n>There are special items\non the menu<n>today—bread of all sorts!"
+            "text": "Diga-me. Você ouviu as novidades?<n>Há itens especiais no\ncardápio hoje —<n>pães de todos os tipos!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "You won't be wanting for buns with<n>the plethora here. And\ngreatest of all, a<n>delight to surpass even carrot bread...<n>\nDouble carrot bread!"
+            "text": "Você não sentirá falta de pãezinhos<n>com a pletora que há\naqui. E o melhor<n>de tudo, uma delícia que supera até o<n>pão\nde cenoura... Pão de cenoura<n>duplo!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I wonder which one you'd prefer... I<n>shall bring whatever\nyou like, so feel<n>free to tell me!"
+            "text": "Eu me pergunto qual você preferiria...<n>Eu trarei o que você\nquiser, então<n>sinta-se à vontade para me dizer!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "You must be famished after roving<n>the grounds in your long\nsearch. I'm<n>certain a hearty meal will put you<n>back in\ngood spirits!"
+            "text": "Você deve estar faminto após vagar<n>pelos terrenos em sua\nlonga busca.<n>Tenho certeza de que uma refeição<n>farta o\ndeixará de bom humor<n>novamente!"
         },
         {
             "name": "Monólogo",
-            "text": "Fuji Kiseki helps take my mind off<n>everything until the\nexhaustion from<n>searching for my badge melts away."
+            "text": "Fuji Kiseki ajuda a tirar minha mente<n>de tudo até que a\nexaustão de<n>procurar pelo distintivo desapareça."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Tell me, Trainer, is it to your liking?"
+            "text": "Diga-me, Treinador, é do seu agrado?"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I took all your interests and likes into<n>account when I chose\nthat dessert,<n>you know?",
+            "text": "Levei todos os seus interesses e<n>gostos em consideração\nquando<n>escolhi essa sobremesa, sabia?",
             "choice_data_list": [
-                "It's fantastic!"
+                "Está fantástico!"
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Really?! YES! I did it!"
+            "text": "Sério?! SIM! Eu consegui!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Ahem... Pardon me, I was overly<n>excited. Your satisfied face,\nthough—it<n>fills my heart with joy!",
+            "text": "Ahem... Perdoe-me, eu estava<n>excessivamente animada.\nMas seu<n>rosto satisfeito — ele enche meu<n>coração de\nalegria!",
             "choice_data_list": [
-                "You're really kind.",
-                "You're really kind."
+                "Você é muito gentil.",
+                "Você é muito gentil."
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Hahaha, I'd say <i>you're</i> the kind<n>one for thinking so."
+            "text": "Hahaha, eu diria que <i>você</i> é<n>quem é gentil por pensar\nassim."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "I didn't merely want to spend time<n>together—rather, I wanted\nto provide<n>you with a splendidly pleasurable<n>experience."
+            "text": "Eu não queria apenas passar um<n>tempo juntos — na\nverdade, eu queria<n>proporcionar a você uma experiência<n>\nesplendidamente prazerosa."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "For I am Fuji Kiseki—the entertainer<n>who brings joy to all!\nAt least, that is<n>the ideal I wish to become."
+            "text": "Pois eu sou Fuji Kiseki — a artista que<n>traz alegria a todos!\nPelo menos, esse<n>é o ideal que desejo me tornar."
         },
         {
             "name": "Biko Pegasus",
-            "text": "FUJIII! We've got an emergency! It's<n>horrible!"
+            "text": "FUJIII! Temos uma emergência! É<n>horrível!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Oh, Biko! What distresses you so?"
+            "text": "Oh, Biko! O que a aflige tanto?"
         },
         {
             "name": "Biko Pegasus",
-            "text": "It's the dorm TV. It's not working!<n>We all wanna watch the\nevening<n>race... What do we do?!"
+            "text": "É a TV do dormitório. Não está<n>funcionando! Todas\nqueremos assistir<n>à corrida da noite... O que fazemos?!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Well, that certainly sounds horrible!<n>Fear not, I'm on my\nway. You were<n>right to come find me, Biko!"
+            "text": "Bem, isso certamente soa horrível!<n>Não tema, estou a\ncaminho. Você fez<n>bem em vir me procurar, Biko!"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "Ah! Fuji, there you are!"
+            "text": "Ah! Fuji, aí está você!"
         },
         {
             "name": "Mayano Top Gun",
-            "text": "Come on, the day's so boooring<n>when you're not around!\nShow us<n>some cool magic tricks again!"
+            "text": "Qual é, o dia fica tão chaaaato quando<n>você não está por\nperto! Mostre-nos<n>alguns truques de mágica legais de<n>\nnovo!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Ahaha! Darling pony, it must be<n>unbearable. Go wait at the\ndorm. I<n>shall hurry there in all haste!"
+            "text": "Ahaha! Pônei querida, deve ser<n>insuportável. Vá esperar no<n>\ndormitório. Eu irei para lá com toda a<n>pressa!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Trainer, I must be off, back to our<n>dormitory. Thank you for a\nsplendid<n>time!"
+            "text": "Treinador, preciso ir, de volta ao<n>nosso dormitório. Obrigada\npor esse<n>tempo esplêndido!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Now then, until we meet again!"
+            "text": "Agora, até nos encontrarmos<n>novamente!"
         },
         {
             "name": "Monólogo",
-            "text": "Fuji Kiseki flashes a charming smile<n>at me as she heads\noff."
+            "text": "Fuji Kiseki lança um sorriso<n>charmoso para mim enquanto\nse<n>afasta."
         },
         {
             "name": "Monólogo",
-            "text": "If I remember right, she's the leader<n>of Ritto dorm. They\nmust all depend on<n>her, judging from what I just saw."
+            "text": "Se bem me lembro, ela é a líder do<n>dormitório Ritto. Todas\ndevem<n>depender dela, a julgar pelo que<n>acabei de ver."
         },
         {
             "name": "Monólogo",
-            "text": "Fuji Kiseki, loved by all, wishes to<n>bring joy to everyone...\nBut I wonder<n>how she races."
+            "text": "Fuji Kiseki, amada por todos, deseja<n>trazer alegria a\ntodos... Mas eu me<n>pergunto como ela corre."
         },
         {
             "name": "Monólogo",
-            "text": "Before my imagination begins to go<n>wild, I double-check my\nbadge and<n>head home."
+            "text": "Antes que minha imaginação comece<n>a voar, verifico\nnovamente meu<n>distintivo e vou para casa."
         }
     ]
 }

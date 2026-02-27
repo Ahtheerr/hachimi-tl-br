@@ -79,8 +79,8 @@
             "name": "Rice Shower",
             "text": "Huh?",
             "choice_data_list": [
-                "You're scared, but you don't want to give up,\ndo you?",
-                "You're scared, but you don't want to give up,\ndo you?"
+                "You're scared, but you don't want to give up, do\nyou?",
+                "You're scared, but you don't want to give up, do\nyou?"
             ]
         },
         {
@@ -99,8 +99,7 @@
             "name": "Rice Shower",
             "text": "You'll stay by my side no matter<n>what? You believe... that I\ncan still<n>change?",
             "choice_data_list": [
-                "I'll be waiting for you at the racecourse, Rice!",
-                "I'll be waiting for you at the racecourse, Rice!"
+                "I'll be waiting for you at the racecourse, Rice! |\nI'll be waiting for you at the racecourse, Rice!"
             ]
         },
         {

@@ -115,8 +115,8 @@
             "name": "Tokai Teio",
             "text": "Ah, então foi por isso... Eu esqueci<n>totalmente que você não\né uma<n>Umamusume. Obrigada por aguentar<n>firme...",
             "choice_data_list": [
-                "Sem problemas. Vamos lá, temos treino para fazer...",
-                "Sem problemas. Vamos lá, temos treino para fazer..."
+                "Sem problemas. Vamos lá, temos treino para\nfazer...",
+                "Sem problemas. Vamos lá, temos treino para\nfazer..."
             ]
         },
         {
@@ -203,8 +203,7 @@
             "name": "Tokai Teio",
             "text": "Vamos com calma hoje, sim? Cof.<n>Talvez você devesse ir\ncom calma um<n>pouquinho, Treinador.",
             "choice_data_list": [
-                "Minhas próprias palavras usadas contra mim...",
-                "Minhas próprias palavras usadas contra mim..."
+                "Minhas próprias palavras usadas contra mim... |\nMinhas próprias palavras usadas contra mim..."
             ]
         },
         {

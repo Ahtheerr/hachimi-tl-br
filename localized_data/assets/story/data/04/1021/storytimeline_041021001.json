@@ -10,47 +10,47 @@
         },
         {
             "name": "Monólogo",
-            "text": "While there's still time between now<n>and then, my\nnerves—and<n>excitement—are getting the better of<n>me. I\ndecide to take a stroll to calm<n>down."
+            "text": "Embora ainda falte um tempo até lá,<n>meus nervos — e a\nempolgação —<n>estão me vencendo. Decido dar uma<n>volta\npara me acalmar."
         },
         {
             "name": "Monólogo",
-            "text": "As I walk through a park near the<n>academy, I hear the\nsound of children<n>playing. I turn towards the source of<n>the\nnoise, only to see an Umamusume."
+            "text": "Enquanto ando por um parque perto<n>da academia, ouço o\nsom de crianças<n>brincando. Viro-me em direção à fonte<n>do\nbarulho e vejo uma Umamusume."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Aw yeah! Time's up! Looks like I win<n>again!"
+            "text": "Aí sim! Acabou o tempo! Parece que<n>ganhei de novo, hein!"
         },
         {
-            "name": "Boy A",
-            "text": "Y-you're too fast, Tama!"
+            "name": "Garoto A",
+            "text": "V-você é rápida demais, Tama!"
         },
         {
-            "name": "Girl A",
-            "text": "How're we s'posed to tag you when<n>you're the fastest\nrunner?! You're not<n>playing faaair!"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "Nyahaha! Life isn't fair, squirts!<n>'Sides, ya wouldn't want\nme goin'<n>easy on ya just 'cause you're<n>smaller than\nme, yeah?"
-        },
-        {
-            "name": "Girl A",
-            "text": "Oh, I know! Show us how fast you<n>can run again, and we'll\nforgive you!"
-        },
-        {
-            "name": "Boy A",
-            "text": "Yeah, yeah! I wanna see you go<n>ZOOM! Do it! Do it!"
+            "name": "Garota A",
+            "text": "Como a gente vai te pegar se você é<n>a mais rápida de\ntodas?! Não tá<n>valendooo!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "What, again? Well, if it'll make you<n>happy, I don't see why\nnot. Back it up,<n>everybody! Don't want any of ya<n>gettin'\nhurt!"
+            "text": "Nyahaha! A vida não é justa não,<n>seus pirralhos! Além\ndisso, cês não<n>iam querer que eu pegasse leve só<n>porque\ncês são menor que eu, né?"
         },
         {
-            "name": "Children",
-            "text": "Okaaay!"
+            "name": "Garota A",
+            "text": "Ah, já sei! Mostra pra gente o quão<n>rápido você corre de\nnovo e a gente te<n>desculpa!"
+        },
+        {
+            "name": "Garoto A",
+            "text": "É, isso! Quero ver você fazendo<n>VRUMMM! Faz! Faz!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "All right, ready, kiddos? I'm only<n>doin' this once, so keep\nthose<n>peepers peeled!"
+            "text": "O quê, de novo? Bom, se for pra<n>deixar cês feliz, por que\nnão? Chega<n>pra trás, galera! Não quero ninguém<n>se\nmachucando aqui!"
+        },
+        {
+            "name": "Crianças",
+            "text": "Tá bom!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Beleza, prontos, crianças? Só vou<n>fazer isso uma vez, então\nfiquem de<n>olho bem aberto!"
         },
         {
             "name": "Tamamo Cross",
@@ -58,101 +58,101 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "Uraaagh! Whaddaya think of dis?!",
+            "text": "Uraaagh! Que que cês acharam<n>disso?!",
             "choice_data_list": [
                 "...!"
             ]
         },
         {
-            "name": "Boy A",
-            "text": "Whoooaaa! That's so fast!"
+            "name": "Garoto A",
+            "text": "Uauuu! Que rápido!"
         },
         {
-            "name": "Girl A",
-            "text": "Yeah, the speediest speedster ever!"
+            "name": "Garota A",
+            "text": "É, a corredora mais veloz de todas!"
         },
         {
             "name": "Monólogo",
-            "text": "Those kids aren't kidding. She's a<n>powerful runner, but\nthere's also this<n>playfulness to it. And her acceleration!<n>\nIt's near instantaneous—almost like...<n>like...",
+            "text": "Aquelas crianças não estão<n>brincando. Ela corre com força,\nmas<n>também tem uma leveza. E a<n>aceleração dela! É\nquase instantânea<n>— tipo... tipo...",
             "choice_data_list": [
-                "Lightning!",
-                "Lightning!"
+                "Um relâmpago!",
+                "Um relâmpago!"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Did you just say—wait, who're you?"
+            "text": "Cê acabou de dizer... pera, quem é<n>você?"
         },
         {
             "name": "Monólogo",
-            "text": "I suddenly feel everyone's eyes on<n>me. The\nembarrassment sets in as I<n>realize I just said that out loud.",
+            "text": "De repente, sinto os olhos de todos<n>em cima de mim. A\nvergonha bate<n>quando percebo que disse aquilo em<n>voz\nalta.",
             "choice_data_list": [
-                "S-sorry, I didn't mean to—"
+                "D-desculpa, eu não queria—"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Sorry for what? You wouldn't be<n>apologizin' if you didn't\ndo anythin'<n>wrong. And what're ya starin' at<n>anyway?\nGet behind me, kids!"
+            "text": "Desculpa pelo quê? Cê não taria<n>pedindo desculpa se não\ntivesse feito<n>nada de errado. E tá encarando o<n>quê, afinal?\nFiquem atrás de mim,<n>crianças!"
         },
         {
             "name": "Monólogo",
-            "text": "Before this misunderstanding gets<n>out of hand, I quickly\nstammer out an<n>explanation."
+            "text": "Antes que esse mal-entendido saia<n>do controle, gaguejo\nrapidamente<n>uma explicação."
         },
         {
             "name": "Tamamo Cross",
-            "text": "So you can't even take a walk<n>without daydreamin' about\nracin'?<n>Geez, you must love your job a<n>helluva lot."
+            "text": "Então cê não consegue nem dar um<n>rolê sem ficar\nsonhando com corrida?<n>Nossa, cê deve amar seu trampo\npra<n>caramba, hein."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Talk about coincidences though.<n>You're a rookie trainer,\nright? Well,<n>I'm workin' towards my racin' debut<n>myself."
+            "text": "Mas que coincidência, né? Cê é um<n>treinador aprendiz,\ncerto? Bom, eu<n>também tô me preparando pra minha<n>\nestreia nas pistas."
         },
         {
-            "name": "Boy A",
-            "text": "Tamaaa! Hurry up! We wanna play<n>hide and seek next!"
-        },
-        {
-            "name": "Tamamo Cross",
-            "text": "Yeah, yeah, I'll be right with ya!<n>Phew... Where do kids get\nall that<n>energy from?"
+            "name": "Garoto A",
+            "text": "Tamaaa! Rápido! A gente quer brincar<n>de esconde-esconde\nagora!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Anyway, the name's Tamamo Cross.<n>Since we're both\nrookies, I get the<n>feelin' we'll be seein' a lotta each<n>\nother. See ya 'round!"
+            "text": "Já vou, já vou, peraí! Ufa... De onde<n>essas crianças tiram\ntanta energia?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Enfim, meu nome é Tamamo Cross.<n>Como nóis dois somo\nnovato, sinto<n>que a gente ainda vai se ver<n>bastante. Até\nmais!"
         },
         {
             "name": "Monólogo",
-            "text": "Tamamo Cross... Once she makes her<n>debut, how will her\nrunning evolve? I<n>leave the park with something new to<n>\nlook forward to."
+            "text": "Tamamo Cross... Quando ela estrear,<n>como será que a\ncorrida dela vai<n>evoluir? Saio do parque com algo<n>novo\npara aguardar."
         },
         {
             "name": "Monólogo",
-            "text": "One week later..."
+            "text": "Uma semana depois..."
         },
         {
             "name": "Monólogo",
-            "text": "The day of the tryouts is here. I scan<n>the crowd of runners\npreparing to<n>race, when I catch sight of one I<n>recognize..."
+            "text": "O dia das seletivas chegou. Observo a<n>multidão de\ncorredoras se preparando,<n>quando avisto uma que\nreconheço..."
         },
         {
             "name": "Tamamo Cross",
-            "text": "It's fine... You've got this in the bag...<n>Just run as fast as\nyou can... get<n>ahead of everybody... and win!",
+            "text": "Tá tudo bem... Tá no papo... Só corre o<n>mais rápido que\npuder... passa todo<n>mundo... e ganha!",
             "choice_data_list": [
-                "(She looks nervous.)",
-                "(She looks nervous.)"
+                "(Ela parece nervosa.)",
+                "(Ela parece nervosa.)"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Losin' here isn't an option. Not now...<n>not ever!"
+            "text": "Perder aqui não é opção. Nem agora...<n>nem nunca!"
         },
         {
             "name": "Monólogo",
-            "text": "Her demeanor seems completely<n>different from the day we\nmet in the<n>park. I watch as she takes her<n>position..."
+            "text": "O comportamento dela parece<n>totalmente diferente de\nquando nos<n>conhecemos no parque. Observo<n>enquanto\nela toma sua posição..."
         },
         {
             "name": "Tamamo Cross",
-            "text": "<i>Huff! Huff! Huff!</i> I gotta win dis! I<n>gotta! <i>I gotta win no\nmatter what!</i>"
+            "text": "<i>Arf! Arf! Arf!</i> Eu tenho que<n>ganhar! Eu tenho! <i>Eu\ntenho que<n>ganhar, não importa o quê!</i>"
         },
         {
             "name": "Narradora",
-            "text": "Tamamo Cross is losing steam!<n>She's falling behind the\nleading<n>racers!"
+            "text": "Tamamo Cross está perdendo o<n>fôlego! Ela está ficando\npara trás das<n>líderes!"
         },
         {
             "name": "Tamamo Cross",
@@ -160,39 +160,39 @@
         },
         {
             "name": "Monólogo",
-            "text": "As she slips back, so too does her<n>chance to place high in\nthe race...<n>Confusion furrows my brow. What<n>happened to\nthe runner I saw at the<n>park?"
+            "text": "Enquanto ela fica para trás, sua<n>chance de conseguir uma\nboa posição<n>também some... Fico confuso. O que<n>\naconteceu com a corredora que vi no<n>parque?"
         },
         {
             "name": "Treinador(a) Habilidoso(a) A",
-            "text": "Tamamo Cross, huh? She showed a<n>lot of promise in the\nbeginning of the<n>race, but she was way too hasty. She<n>\nfailed to maintain the very pace she<n>set."
+            "text": "Tamamo Cross, hein? Ela prometia<n>muito no início da\ncorrida, mas foi<n>apressada demais. Não conseguiu<n>manter\no próprio ritmo que impôs."
         },
         {
             "name": "Treinador Veterano A",
-            "text": "Yeah, she's clearly got the drive, but<n>with that teenie body,\nthere's no way<n>she can keep up with the competition<n>in\nthe final stretch."
+            "text": "É, ela claramente tem garra, mas com<n>esse corpinho, não\ntem como ela<n>aguentar a competição na reta final."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Dammit... Dammit, dammit,<n><i>dammit!</i> The hell's wrong\nwith<n>me..."
+            "text": "Droga... Droga, droga, <i>droga!</i> Que<n>que tem de errado\ncomigo..."
         },
         {
             "name": "Treinador(a) Habilidoso(a) B",
-            "text": "Excuse me, Tamamo Cross? You<n>must be exhausted after\nthat run, but<n>do you have a moment?"
+            "text": "Com licença, Tamamo Cross? Você<n>deve estar exausta\ndepois dessa<n>corrida, mas teria um minuto?"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Huh? Y-yeah, sure..."
+            "text": "Hã? É-é, claro..."
         },
         {
             "name": "Treinador(a) Habilidoso(a) B",
-            "text": "I'll cut straight to the point—I want to<n>scout you. You might\nbe rough around<n>the edges at the moment, but a bit of<n>\nrefining will surely have you shining<n>in no time."
+            "text": "Serei direto — quero te recrutar. Você<n>pode estar meio bruta\nagora, mas com<n>um pouco de treino, com certeza<n>brilhará\nnum instante."
         },
         {
             "name": "Tamamo Cross",
-            "text": "R-really?!"
+            "text": "S-sério?!"
         },
         {
             "name": "Treinador(a) Habilidoso(a) B",
-            "text": "Really. With me as your trainer, you<n>might make it to the\ngraded races. In<n>fact, you might even place in the top<n>five.\nWhat do you say?"
+            "text": "Sério. Comigo como seu treinador,<n>você pode chegar às\ncorridas<n>graduadas. Na verdade, pode até ficar<n>no top\ncinco. O que me diz?"
         },
         {
             "name": "Tamamo Cross",
@@ -200,38 +200,38 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "Whaddaya mean, \"top five\"? Give it<n>to me straight—you\nthink I can ace a<n>G1 race or not?"
+            "text": "Como assim \"top cinco\"? Me manda<n>a real — cê acha que\neu consigo<n>vencer uma G1 ou não?"
         },
         {
             "name": "Treinador(a) Habilidoso(a) B",
-            "text": "Well... I can't promise anything. If you<n>work hard, you might\nhave a chance,<n>but—"
+            "text": "Bom... Não posso prometer nada. Se<n>você se esforçar, pode\nter uma<n>chance, mas—"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Then get outta my face!"
+            "text": "Então sai da minha frente!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "I'm lookin' to WIN! No ifs, ands, or<n>buts about it! Top five's\nnowhere<n><i>near</i> good 'nuff!"
+            "text": "Eu quero é GANHAR! Sem mas nem<n>meio mas! Top cinco\nnão chega <i>nem<n>perto</i> de ser bom o bastante!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "But your punk ass thinks that's all I<n>got? Well, screw your\nstupid offer!<n>Take your wishy-washy ways and<n>find some\nother chump!"
+            "text": "E esse teu papinho acha que é só<n>isso que eu aguento?\nPois enfia essa<n>proposta no... enfim! Pega esse seu<n>\njeitinho em cima do muro e vai atrás<n>de outro otário!"
         },
         {
             "name": "Treinador(a) Habilidoso(a) B",
-            "text": "...Hmph. What an unruly racer."
+            "text": "...Hmph. Que corredora indisciplinada."
         },
         {
             "name": "Monólogo",
-            "text": "The other trainers stand by as<n>Tamamo Cross storms off,<n>\nunimpressed by her temper. But that<n>same temper shows\nhow badly she<n>wants to win...",
+            "text": "Os outros treinadores observam<n>enquanto Tamamo Cross\nsai brava,<n>sem se impressionarem com o<n>temperamento\ndela. Mas esse mesmo<n>temperamento mostra o quanto ela<n>\nquer vencer...",
             "choice_data_list": [
-                "(I better follow her!)"
+                "(É melhor eu ir atrás dela!)"
             ]
         },
         {
             "name": "Tamamo Cross",
-            "text": "Dammit... dammit! What a low-down<n>jerk! Treatin' me like a\nloser... but<n>why wouldn't he? That's how I ran<n>today...",
+            "text": "Droga... droga! Que cara babaca! Me<n>tratando como\nperdedora... mas por<n>que não traria? Foi assim que eu corri<n>\nhoje...",
             "choice_data_list": [
                 "Tamamo Cross!"
             ]
@@ -242,10 +242,10 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "You're... that trainer from the park...",
+            "text": "Você é... aquele treinador do parque...",
             "choice_data_list": [
-                "I want to scout you.",
-                "I want to scout you."
+                "Eu quero recrutar você.",
+                "Eu quero recrutar você."
             ]
         },
         {
@@ -254,26 +254,26 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "You're a rookie trainer, aren't ya?<n>What makes ya think a\nno-name<n>trainer like you has what it takes?"
+            "text": "Cê é um treinador aprendiz, não é? O<n>que te faz pensar que\num Zé Mané<n>que nem você tem o que precisa?"
         },
         {
             "name": "Tamamo Cross",
-            "text": "Ya really think ya can take me on,<n>train me up, and turn me\ninto a<n>champ?! I'm not just talkin' G1<n>here—I mean all of\nJapan!",
+            "text": "Cê acha mesmo que consegue me<n>aguentar, me treinar e\nme transformar<n>numa campeã?! E não tô falando só<n>de\nG1 não — digo o Japão inteiro!",
             "choice_data_list": [
                 "...!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "The rage Tamamo Cross feels boils<n>to the surface, and she\nlashes out. I<n>desperately search for words to quell<n>the fire,\nbut to no avail."
+            "text": "A raiva que Tamamo Cross sente<n>vem à tona e ela explode.\nProcuro<n>desesperadamente palavras para<n>apagar o fogo,\nmas sem sucesso."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Drop the act. You're nothing special,<n>and neither am I..."
+            "text": "Para com o teatro. Cê não tem nada<n>de especial, e eu\ntambém não..."
         },
         {
             "name": "Monólogo",
-            "text": "Tamamo Cross takes off, leaving me<n>with only my regret as\ncompany..."
+            "text": "Tamamo Cross vai embora, me<n>deixando apenas com meu<n>\narrependimento como companhia..."
         }
     ]
 }

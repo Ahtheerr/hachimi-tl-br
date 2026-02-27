@@ -130,8 +130,7 @@
             "name": "King Halo",
             "text": "Hm, it looks like you've got<n>something to say. Well, don't\nmake<n>me wait—just get it out already.",
             "choice_data_list": [
-                "I didn't know your mother was part of this show.",
-                "I didn't know your mother was part of this show."
+                "I didn't know your mother was part of this show.\n| I didn't know your mother was part of this\nshow."
             ]
         },
         {

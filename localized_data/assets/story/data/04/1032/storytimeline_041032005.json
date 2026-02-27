@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Huh? My body feels sluggish—like a<n>fish out of water."
+            "text": "Hã? Meu corpo está pesado, como<n>um peixe fora d'água."
         },
         {
             "name": "Monólogo",
@@ -27,8 +27,7 @@
             "name": "Agnes Tachyon",
             "text": "This reminds me of when we first<n>met. But things are a\n<i>little</i><n>different. This is my personal<n>laboratory. Here,\nno one will get in my<n>way!",
             "choice_data_list": [
-                "Laboratory... Isn't this just a normal classroom?!",
-                "Laboratory... Isn't this just a normal classroom?!"
+                "Laboratory... Isn't this just a normal classroom?!\n| Laboratory... Isn't this just a normal\nclassroom?!"
             ]
         },
         {

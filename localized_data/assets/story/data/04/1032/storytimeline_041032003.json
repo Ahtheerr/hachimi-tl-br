@@ -84,8 +84,7 @@
             "name": "Agnes Tachyon",
             "text": "Ah! Cafe, espere! Tenho uma última<n>experiência... Mas acho\nque ela já se<n>foi.",
             "choice_data_list": [
-                "Você está abandonando a Academia Tracen?",
-                "Você está abandonando a Academia Tracen?"
+                "Você está abandonando a Academia Tracen? |\nVocê está abandonando a Academia Tracen?"
             ]
         },
         {
@@ -160,7 +159,7 @@
             "name": "Agnes Tachyon",
             "text": "Ah, e aí está você nas arquibancadas.<n>Treinador novato,\nvocê é bastante<n>persistente, não é mesmo?",
             "choice_data_list": [
-                "Well..."
+                "Bom..."
             ]
         },
         {

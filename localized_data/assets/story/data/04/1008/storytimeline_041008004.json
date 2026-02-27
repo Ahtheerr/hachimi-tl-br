@@ -40,8 +40,7 @@
             "name": "Vodka",
             "text": "Aff, eu já sei disso. Vou gazear hoje<n>— e ponto final!",
             "choice_data_list": [
-                "Você não disse que gazear o treino era patético?",
-                "Você não disse que gazear o treino era patético?"
+                "Você não disse que gazear o treino era patético?\n| Você não disse que gazear o treino era\npatético?"
             ]
         },
         {
@@ -95,7 +94,7 @@
             "name": "Monólogo",
             "text": "Pensando bem, por que a Daiwa<n>Scarlet me disse aquilo?\nTalvez ela<n>quisesse dizer algo para a Vodka...",
             "choice_data_list": [
-                "Vamos voltar para a pista por enquanto,\nVodka."
+                "Vamos voltar para a pista por enquanto, Vodka."
             ]
         },
         {

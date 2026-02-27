@@ -1,0 +1,197 @@
+{
+    "text_block_list": [
+        {
+            "name": "Mejiro Ardan",
+            "text": "One, two, three... One... One, two, three,<n>four..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Phew... <i>Huff, huff...</i> Three sets<n>complete... I think that\namount of<n>weight should do it..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I watch from the sidelines as Mejiro<n>Ardan goes through\nher workout. It's<n>on the lighter side in terms of<n>intensity,\nand it's clear she's taking<n>things slowly."
+        },
+        {
+            "name": "Monólogo",
+            "text": "In between each exercise, I see her<n>pull out a tablet and\nswipe the screen.<n>I wonder what she's doing..."
+        },
+        {
+            "name": "Student A",
+            "text": "All right, time to pump some<n>iron—whoa! It's packed in here!\nUh...<n>are there any open spaces?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Excuse me. You can use this space if<n>you'd like. I've just\nfinished my<n>workout."
+        },
+        {
+            "name": "Student A",
+            "text": "Really?! Man, this is my lucky day!<n>Thanks a lot!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "You're very welcome. Now then, I'll<n>be on my way."
+        },
+        {
+            "name": "Student C",
+            "text": "Wait, she's done already? But she<n>just got here!"
+        },
+        {
+            "name": "Student B",
+            "text": "Well... She's not the healthiest, right?<n>Maybe that's the best\nshe can do."
+        },
+        {
+            "name": "Rookie Trainer A",
+            "text": "She may be a Mejiro, but her poor<n>health overshadows her\nfamily line..."
+        },
+        {
+            "name": "Veteran Trainer A",
+            "text": "Agreed. Forcing her to push herself<n>would be dangerous\ntoo... She's just<n>not built for the racecourse."
+        },
+        {
+            "name": "Monólogo",
+            "text": "It seems Tazuna was right. The<n>trainers obviously don't\nbelieve Ardan<n>has what it takes to be a racer.",
+            "choice_data_list": [
+                "(But what does Ardan think?)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "With that thought, I decide to follow<n>Mejiro Ardan out of the\ngym, hoping<n>to chat with her."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...!",
+            "choice_data_list": [
+                "Are you okay?!",
+                "Are you okay?!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "As Mejiro Ardan falls to the ground, I<n>rush to her side,\nsteadying her."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh dear, my apologies for worrying<n>you. I just felt a little\nlightheaded, but<n>I'm fine now.",
+            "choice_data_list": [
+                "Thank goodness!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, I suppose I worked a little too<n>hard. I was only\ndischarged<n>yesterda—oh? Where's my tablet?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I scan the area around me, and my<n>eyes fall on a square\nobject right by<n>my feet—the very tablet I saw Ardan<n>\nlooking at in the gym.",
+            "choice_data_list": [
+                "Here it is!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "As I take the tablet into my hands, the<n>screen lights up, and\nI'm taken aback<n>by what I see."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Displaying on the screen is a<n>spreadsheet. Under each\nexercise are<n>notes on the method, reps, sets,<n>weight used,\nas well as her tempo..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Even at a glance, it's abundantly<n>clear... She's dead set on\nseeing just<n>how far she can go."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you for picking that up for me...<n>May I have it back\nnow?",
+            "choice_data_list": [
+                "Ah, of course! Sorry about that.",
+                "Ah, of course! Sorry about that."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro Ardan takes back her tablet<n>before walking off. In\nmy stupor, I<n>completely forgot that I wanted to talk<n>to her.\nInstead, I just stare as she<n>takes her leave.",
+            "choice_data_list": [
+                "She's... maximizing her results."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Even the standard exercises push<n>her body to the limit, but\nthat doesn't<n>stop her from trying. That<n>spreadsheet must\nbe only the<n>beginning of her resolve.",
+            "choice_data_list": [
+                "Mejiro Ardan... Wow."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Now hold on... Are you sure, Ardan?!",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Several days pass until I see Mejiro<n>Ardan again, where I\nfind her standing<n>before a very concerned Tazuna."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "There should be an open slot, no? If<n>so, I would like to take\nit."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Please let the staff know that I will be<n>racing in the\n1,200-meter on the dirt<n>course.",
+            "choice_data_list": [
+                "(The dirt course?! And why a sprint?!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I can't believe my ears. I've looked<n>into Mejiro Ardan's\naptitudes, and<n>what I'm hearing doesn't—"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "But you're more suited to<n>medium-distance races on a turf<n>\ncourse! I'm not saying it's<n>impossible for you to win, but\nyour<n>true potential won't shine through!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ardan... Perhaps you could wait for<n>the next tryouts in a few\nmonths? That<n>way, you can enter a race better<n>suited to\nyour talents and—"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "But those \"few months\" make a<n>world of difference... I\nbelieve you and<n>I are both aware of what I mean."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "...!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "We Umamusume can only shine for<n>so long. Once we're\nrace-ready, our<n>talents can only decline from there."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "My repeated hospitalizations have<n>prevented me from\nrunning in the<n>tryouts... As such, the time I have<n>after I am\nrace-ready has been<n>decreased significantly."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "If I delay my debut any longer, my<n>prime will be over before\nI can even<n>dream of the Twinkle Series."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I... don't want that to happen."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "But!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": ""
+        }
+    ]
+}

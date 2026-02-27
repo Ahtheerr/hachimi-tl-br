@@ -2,38 +2,38 @@
     "text_block_list": [
         {
             "name": "Biwa Hayahide",
-            "text": "Phew... I've completed the workout<n>sets. Doing high knees\non the sand is<n>quite exhausting.",
+            "text": "Ufa... Completei as séries de<n>exercícios. Fazer elevação de<n>\njoelhos na areia é bem exaustivo.",
             "choice_data_list": [
-                "All right. Let's take a ten-minute breather."
+                "Tudo bem. Vamos fazer uma pausa de dez\nminutos."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Understood."
+            "text": "Entendido."
         },
         {
             "name": "",
-            "text": "Biwa Hayahide needs to work on the<n>basics, so we're at\nsummer camp<n>doing core training on the beach."
+            "text": "Biwa Hayahide precisa trabalhar na<n>base, então estamos\nem um<n>acampamento de verão fazendo<n>treino de\nfortalecimento na praia."
         },
         {
             "name": "",
-            "text": "We use our perfectly designed<n>training plan to get\nconsistent results.<n>Everything goes smoothly—that is,<n>until\nnear the end of the day..."
+            "text": "Usamos nosso plano de treino<n>perfeitamente elaborado\npara obter<n>resultados consistentes. Tudo corre<n>bem — isto\né, até perto do final do dia..."
         },
         {
             "name": "Umamusume A",
-            "text": "<i>Pant... Pant...</i> How did I do?"
+            "text": "<i>Arf... Arf...</i> Como eu me saí?"
         },
         {
             "name": "Umamusume A's Trainer",
-            "text": "Your time's really improved! And<n>you've steadily been\ngetting faster<n>since camp started. Let's keep up<n>this pace!"
+            "text": "Seu tempo melhorou muito! E você<n>tem ficado cada vez\nmais rápida<n>desde que o acampamento começou.<n>Vamos\nmanter esse ritmo!"
         },
         {
             "name": "Umamusume A",
-            "text": "Oh! Got it! Thank you!"
+            "text": "Ah! Entendi! Obrigada!"
         },
         {
             "name": "",
-            "text": "A bright-eyed Umamusume is<n>producing good results\nnearby.<n>Hayahide probably can't help but<n>notice her."
+            "text": "Uma Umamusume de olhos brilhantes<n>está produvendo\nbons resultados ali<n>perto. Hayahide provavelmente não<n>\nconsegue deixar de notá-la."
         },
         {
             "name": "Biwa Hayahide",
@@ -41,67 +41,67 @@
         },
         {
             "name": "",
-            "text": "While we're doing basic drills, she<n>might get impatient\nseeing others<n>making dramatic gains. That's not<n>unusual\nwhen first starting to run<n>races.",
+            "text": "Enquanto fazemos exercícios<n>básicos, ela pode ficar\nimpaciente ao<n>ver outras obtendo ganhos<n>dramáticos.\nIsso não é incomum<n>quando se começa a disputar<n>\ncorridas.",
             "choice_data_list": [
-                "You okay?"
+                "Tudo bem?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hm? Why wouldn't I be? Of course<n>I'm fine. All right, ten\nminutes are<n>up—let's get back to training."
+            "text": "Hm? Por que não estaria? É claro que<n>estou bem. Certo, dez\nminutos se<n>passaram — vamos voltar ao treino."
         },
         {
             "name": "",
-            "text": "With nothing else to say about it, we<n>stick to the plan and\ncontinue her<n>training."
+            "text": "Sem mais nada a dizer sobre isso,<n>seguimos o plano e\ncontinuamos o<n>treino dela."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "There, we're done for today. All<n>finished and according to\nschedule.<n>Perfect.",
+            "text": "Pronto, terminamos por hoje. Tudo<n>finalizado e de acordo\ncom o<n>cronograma. Perfeito.",
             "choice_data_list": [
-                "Good work out there!"
+                "Bom trabalho lá fora!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Thank you. Let's go back to the camp<n>dorms."
+            "text": "Obrigada. Vamos voltar para os<n>alojamentos do\nacampamento."
         },
         {
             "name": "",
-            "text": "Just as I feel like my worries are<n>unfounded when I see her\nso calm,<n>she looks over at me."
+            "text": "No momento em que sinto que<n>minhas preocupações são<n>\ninfundadas ao vê-la tão calma, ela<n>olha para mim."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Oh yes, I was wondering... What are<n>your plans for the\nevening?",
+            "text": "Ah sim, eu estava me perguntando...<n>Quais são seus planos\npara esta<n>noite?",
             "choice_data_list": [
-                "Gulp. Don't tell me you want to add even more\ntraining to the schedule..."
+                "Gulp. Não me diga que você quer adicionar ainda\nmais treino ao cronograma..."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hah... You must think I'm a glutton for<n>punishment. You\nwouldn't be wrong<n>though."
+            "text": "Hah... Você deve pensar que sou<n>viciada em esforço. Você\nnão estaria<n>errado, no entanto."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "But I'm simply asking what your<n>plans tonight are. If you're\nfree,<n>there's somewhere I'd like to take<n>you.",
+            "text": "Mas estou apenas perguntando<n>quais são seus planos\npara hoje à<n>noite. Se estiver livre, há um lugar<n>para onde\neu gostaria de levá-lo.",
             "choice_data_list": [
-                "Really?"
+                "Sério?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Yes. I feel like we haven't had a<n>single conversation since\ncamp<n>started, other than to talk about<n>training."
+            "text": "Sim. Sinto que não tivemos uma única<n>conversa desde que\no acampamento<n>começou, além de falar sobre treino."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It's a little soon, but I want to reflect<n>on our progress. No...\nThat's not right.<n>I should state my intentions clearly."
+            "text": "É um pouco cedo, mas quero refletir<n>sobre nosso\nprogresso. Não... Isso<n>não está certo. Eu deveria declarar<n>\nminhas intenções claramente."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "What I mean to say is... I want to go<n>to the festival with you."
+            "text": "O que quero dizer é... quero ir ao<n>festival com você."
         },
         {
             "name": "",
-            "text": "Tap, tap, tap... <i>Crack!</i>"
+            "text": "Toc, toc, toc... <i>Craque!</i>"
         },
         {
             "name": "Biwa Hayahide",
@@ -109,123 +109,123 @@
         },
         {
             "name": "Game Operator",
-            "text": "Oh, almost had it! But you split the fish<n>tail into pieces. Too\nbad! Better luck<n>next time!"
+            "text": "Oh, quase conseguiu! Mas você<n>partiu a cauda do peixe em\npedaços.<n>Que pena! Mais sorte na próxima vez!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Rats... Another failure. Theoretically, I<n>should be able to cut\nan impeccable<n>shape if I take the weakness of the<n>\ngrooves into account..."
+            "text": "Droga... Outra falha. Teoricamente, eu<n>deveria ser capaz de\nesculpir uma<n>forma impecável se levasse em conta<n>a\nfragilidade dos sulcos..."
         },
         {
             "name": "",
-            "text": "Hayahide has brought me to a<n>summer festival near camp."
+            "text": "Hayahide me trouxe a um festival de<n>verão perto do\nacampamento."
         },
         {
             "name": "",
-            "text": "Having enjoyed a stroll around the<n>attractions, we're now\ntrying our hand<n>at the candy-cutting game."
+            "text": "Depois de desfrutar de um passeio<n>pelas atrações,\nestamos agora<n>tentando a sorte na brincadeira de<n>esculpir\ndoce."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I sharpened the toothpick. I've also<n>made preparations to\ncounter<n>particulate accumulation. Everything<n>was perfect...\nBut why? Did I<n>miscalculate the applied force?",
+            "text": "Eu afiei o palito. Também fiz<n>preparações para combater o<n>\nacúmulo de partículas. Tudo estava<n>perfeito... Mas por quê?\nSerá que<n>calculei mal a força aplicada?",
             "choice_data_list": [
-                "I think you're leaning your shoulder in too hard."
+                "Acho que você está forçando o ombro demais."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Yes... It appears so. My calculations<n>were accurate, but\nputting them into<n>effect made me flustered, thus<n>leading to\na bad outcome."
+            "text": "Sim... Parece que sim. Meus cálculos<n>estavam precisos,\nmas colocá-los em<n>prática me deixou nervosa, levando<n>\nassim a um resultado ruim."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "So, however flawless the formula, if I<n>can't match it with my\nabilities, it's no<n>more than a useless string of random<n>\nnumbers."
+            "text": "Portanto, por mais impecável que<n>seja a fórmula, se eu não\npuder<n>combiná-la com minhas habilidades,<n>não passa de\numa sequência inútil de<n>números aleatórios."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "If an individual has innate talent and<n>dedication... My sister,\nfor<n>example—she'd be able to prove the<n>formula without\ndifficulty."
+            "text": "Se um indivíduo tem talento nato e<n>dedicação... Minha irmã,\npor exemplo<n>— ela seria capaz de provar a fórmula<n>sem\ndificuldade."
         },
         {
             "name": "",
-            "text": "Saying this, her eyes wander<n>upwards to the sea of stars<n>\nshimmering in the night sky."
+            "text": "Dizendo isso, seus olhos vagam para<n>o alto, para o mar de\nestrelas<n>cintilando no céu noturno."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I'm sure Brian won't choose another<n>path. However hard it\nis, she'll train<n>those amazing legs she was born<n>with...\nand go to the top."
+            "text": "Tenho certeza de que a Brian não<n>escolherá outro caminho.\nPor mais<n>difícil que seja, ela treinará aquelas<n>pernas\nincríveis com as quais<n>nasceu... e chegará ao topo."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "But it's different for me. I have to<n>calculate the shortest\nroute, remove<n>obstacles, and adjust my running<n>just to\nmake it to the starting line."
+            "text": "Mas é diferente para mim. Tenho que<n>calcular a rota mais\ncurta, remover<n>obstáculos e ajustar minha corrida<n>apenas\npara chegar à linha de partida."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "And yet... it's fine that way. That's<n>simply who I am."
+            "text": "E ainda assim... está tudo bem assim.<n>É simplesmente\nquem eu sou."
         },
         {
             "name": "",
-            "text": "I see no resignation in her smile—only<n>the radiance of\nsomeone who<n>confronted and accepted herself."
+            "text": "Não vejo resignação em seu sorriso<n>— apenas o brilho de\nalguém que se<n>confrontou e se aceitou."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I was nothing special before—always<n>scrambling to gain a\nfooting. But I<n>found my talent, developed it, and<n>became\nthe person I am now."
+            "text": "Eu não era nada especial antes —<n>sempre lutando para\nconseguir um<n>apoio. Mas encontrei meu talento, o<n>\ndesenvolvi e me tornei a pessoa que<n>sou agora."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "And you accepted me for exactly who<n>I am.",
+            "text": "E você me aceitou exatamente como<n>eu sou.",
             "choice_data_list": [
                 "...!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "That's why it's fine. Even if I don't<n>get there as fast as I'd\nlike, I'll move<n>boldly forward and trust in my ability.<n>That's\nmy path."
+            "text": "É por isso que está tudo bem. Mesmo<n>que eu não chegue lá\ntão rápido<n>quanto gostaria, seguirei<n>ousadamente em\nfrente e confiarei em<n>minha habilidade. Esse é o meu<n>\ncaminho."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "In other words, I wanted to say<n>there's no need to worry.\nEvery day<n>I'm growing in both mind and body."
+            "text": "Em outras palavras, eu queria dizer<n>que não há\nnecessidade de se<n>preocupar. Todos os dias estou<n>\ncrescendo tanto em mente quanto em<n>corpo."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "That's all. And now, to use a strategy<n>certain to obliterate\nthis candy-cutting<n>game. I can already see victory!",
+            "text": "Isso é tudo. E agora, para usar uma<n>estratégia certeira para\nobliterar esta<n>brincadeira de esculpir doce. Já<n>consigo ver\na vitória!",
             "choice_data_list": [
-                "Go for it!"
+                "Vai com tudo!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I'll get it this time!"
+            "text": "Eu vou conseguir desta vez!"
         },
         {
             "name": "",
-            "text": "After a few more attempts..."
+            "text": "Após mais algumas tentativas..."
         },
         {
             "name": "",
-            "text": "Tap, tap, tap... <i>Snap!</i>"
+            "text": "Toc, toc, toc... <i>Snap!</i>"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Ah! I did it!"
+            "text": "Ah! Eu consegui!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I did it! Look, I cut it out beautifully!",
+            "text": "Eu consegui! Olhe, eu esculpa<n>lindamente!",
             "choice_data_list": [
-                "Congratulations!"
+                "Parabéns!"
             ]
         },
         {
             "name": "Game Operator",
-            "text": "That's mighty impressive! This is the<n>best cut I've ever\nseen! You showed<n>real tenacity! What a win!"
+            "text": "Isso é muito impressionante! Este é o<n>melhor corte que já\nvi! Você mostrou<n>verdadeira tenacidade! Que vitória!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hehe, indeed. I make an art out of<n>persevering until I've\nreached the<n>perfect solution."
+            "text": "Hehe, de fato. Eu transformo em arte<n>a perseverança até\nalcançar a solução<n>perfeita."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Right, Trainer? Heheh."
+            "text": "Certo, Treinador? Heheh."
         },
         {
             "name": "",
-            "text": "The festive night becomes a<n>wonderful memory. And with\nour<n>minds and bodies refreshed, the final<n>day of summer\ncamp arrives."
+            "text": "A noite festiva torna-se uma<n>lembrança maravilhosa. E com<n>\nnossas mentes e corpos revigorados,<n>chega o último dia do\nacampamento<n>de verão."
         },
         {
             "name": "Biwa Hayahide",
@@ -233,35 +233,35 @@
         },
         {
             "name": "",
-            "text": "As I check Biwa Hayahide's time to<n>see how she's\nimproved, I can barely<n>recognize her running..."
+            "text": "Ao verificar o tempo de Biwa<n>Hayahide para ver como ela<n>\nmelhorou, mal consigo reconhecer<n>sua corrida..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "How was it? That should be my<n>maximum output. Did we\nreach our<n>goal?",
+            "text": "Como foi? Esse deve ser o meu<n>desempenho máximo.\nAlcançamos<n>nosso objetivo?",
             "choice_data_list": [
-                "You cleared it! Great work!",
-                "You cleared it! Great work!"
+                "Você conseguiu! Ótimo trabalho!",
+                "Você conseguiu! Ótimo trabalho!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Good!"
+            "text": "Bom!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Going through the fundamentals led<n>to success. This\nmethod really does<n>suit me."
+            "text": "Passar pelos fundamentos levou ao<n>sucesso. Este método\nrealmente<n>combina comigo."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "An equation for growth that leads to<n>victory... And I\ndiscovered it with you."
+            "text": "Uma equação para o crescimento que<n>leva à vitória... E eu a\ndescobri com<n>você."
         },
         {
             "name": "",
-            "text": "She looks out over the expansive<n>horizon. But no matter\nhow far she<n>sets her aim, I know she'll reach it."
+            "text": "Ela olha para o vasto horizonte. Mas<n>não importa quão\nlonge ela mire, sei<n>que ela alcançará."
         },
         {
             "name": "",
-            "text": "And together—we will complete the<n>winning equation!"
+            "text": "E juntos — completaremos a equação<n>vitoriosa!"
         }
     ]
 }

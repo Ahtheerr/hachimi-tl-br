@@ -12,8 +12,7 @@
             "name": "Sakura Bakushin O",
             "text": "In fact, I was so excited last night that<n>I ran for eight hours\nstraight! In my<n>dreams, of course!",
             "choice_data_list": [
-                "Sounds like you got a good night's sleep!",
-                "Sounds like you got a good night's sleep!"
+                "Sounds like you got a good night's sleep! |\nSounds like you got a good night's sleep!"
             ]
         },
         {
@@ -156,8 +155,7 @@
             "name": "Sakura Bakushin O",
             "text": "So if my goal is to be the greatest<n>Umamusume, then I must\nbe the<n>fastest!",
             "choice_data_list": [
-                "Right, which is why we're working on speed!",
-                "Right, which is why we're working on speed!"
+                "Right, which is why we're working on speed! |\nRight, which is why we're working on speed!"
             ]
         },
         {

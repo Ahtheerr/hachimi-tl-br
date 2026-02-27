@@ -1,0 +1,100 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Gold Ship está machucada, então a<n>levo para a\nenfermaria."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Bip-bip-bip...</i> Dano detectado.<n>Golshiroid,\niniciando escaneamento.",
+            "choice_data_list": [
+                "O-o que foi?!",
+                "O-o que foi?!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Dano mínimo. Missão pode ser<n>retomada\nquando quiser. Aguardando<n>ordens do\ncomandante. <i>Bip, bip.</i>",
+            "choice_data_list": [
+                "Reparos são a prioridade.",
+                "Vamos atualizar o seu sistema operacional!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Iniciando escaneamento secundário...<n><i>Bip.</i>\nMissão pode ser retomada<n>quando quiser.\nSolicitando novas<n>ordens.",
+            "choice_data_list": [
+                "Negado. Reparos devem ser a prioridade."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ah, qual é! Eu tô legal, eu tô te<n>falando!",
+            "choice_data_list": [
+                "As ordens do comandante são finais!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Agora são ordens oficiais? Droga.<n>Não dá pra\nignorar essas nem se eu<n>quisesse..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Aiai.</i> Ordem recebida. Priorizando<n>reparos...\n<i>Bip, bip, bip...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Gold Ship não fica nada feliz em ter<n>que ficar de\nrepouso por alguns dias e<n>fica doida assim que\nse recupera<n>totalmente."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Sugestão aprovada. Golshiroid,<n>iniciando\nsequência de atualização!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Iniciando atualização instantânea."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ai!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Que que foi isso?! Tava tudo bem um<n>segundo\natrás..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ótimo, agora eu sou só uma pilha de<n>sucata.\n<i>Aiai...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O autodiagnóstico dela claramente<n>não deu bons\nresultados, porque ela<n>de repente fica\nestranhamente quieta."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>B-b-bip.</i> Sugestão confirmada.<n>Iniciando\nsequência de atualização!",
+            "choice_data_list": [
+                "Mais forte! Mais forte!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hmm... Confirmação pendente."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Aprovado. O programa operacional<n>atual só pode\nser atualizado sob uma<n>condição.",
+            "choice_data_list": [
+                "Que condição?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Bip-bip.</i> Sorvete da lojinha da<n>escola é\nnecessário para atualizar a<n>Golshiroid. Caso\ncontrário, a<n>atualização será adiada<n>\nindefinidamente."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não tem jeito. Eu aceito a condição<n>dela e nós\ndois refazemos o<n>cronograma de treino dela."
+        }
+    ]
+}

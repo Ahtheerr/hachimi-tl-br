@@ -1,0 +1,39 @@
+{
+    "text_block_list": [
+        {
+            "name": "Gold Ship",
+            "text": "Rufem os tambores, por favor... E<n>TCHARÃM!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Isso dá um total de sete redondinhos!<n>A pergunta\né: do quê?!",
+            "choice_data_list": [
+                "O número de melancias que você quebrou no\nacampamento.",
+                "O número de cascas de cigarra que você coletou\nno acampamento."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "ERRRADO!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "A resposta é o número de broches<n>chiques de\ndoer na coleção da<n>McQueen!",
+            "color_text_info_list": [
+                "McQueen"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas isso não tem nada a ver com o<n>\nacampamento de verão!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Você já sabe o esquema! Como<n>castigo por\nresponder errado, você<n>tem que voltar andando\npara a<n>academia! Tchau!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu saio em disparada para o ônibus<n>antes que\nele tenha a chance de me<n>deixar para trás."
+        }
+    ]
+}

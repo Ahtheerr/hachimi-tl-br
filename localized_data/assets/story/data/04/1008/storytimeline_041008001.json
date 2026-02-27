@@ -100,8 +100,8 @@
             "name": "Vodka",
             "text": "Hã, ainda aqui? Caramba, você deve<n>ter nada melhor pra\nfazer.",
             "choice_data_list": [
-                "Então você realmente não estava tentando gazear o treino.",
-                "Então você realmente não estava tentando gazear o treino."
+                "Então você realmente não estava tentando\ngazear o treino.",
+                "Então você realmente não estava tentando\ngazear o treino."
             ]
         },
         {
@@ -124,8 +124,8 @@
             "name": "Vodka",
             "text": "Vou treinar mais pesado — para ser<n>mais rápida que todos!\nNão vou ficar<n>presa atrás de ninguém!",
             "choice_data_list": [
-                "É por isso que você criou seu próprio regime\nde treino?",
-                "É por isso que você criou seu próprio regime\nde treino?"
+                "É por isso que você criou seu próprio regime de\ntreino?",
+                "É por isso que você criou seu próprio regime de\ntreino?"
             ]
         },
         {
@@ -144,7 +144,7 @@
             "name": "Vodka",
             "text": "E-ei, o que tá fazendo me encarando<n>desse jeito?",
             "choice_data_list": [
-                "Ah, eu só estava pensando que você é bem estilosa."
+                "Ah, eu só estava pensando que você é bem\nestilosa."
             ]
         },
         {
@@ -234,7 +234,7 @@
             "name": "Monólogo",
             "text": "O desempenho da Vodka atrai muitas<n>ofertas, mas nenhuma\nparece<n>convencê-la.",
             "choice_data_list": [
-                "(Se bem me lembro, o que ela realmente quer ouvir é...)"
+                "(Se bem me lembro, o que ela realmente quer\nouvir é...)"
             ]
         },
         {

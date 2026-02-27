@@ -86,8 +86,8 @@
             "name": "Oguri Cap",
             "text": "Hmmmm... Eu <i>poderia</i> voltar para<n>buscar mais, mas...\nnão sei se voltaria<n>a tempo...",
             "choice_data_list": [
-                "Se o que você quer são bolinhos de arroz, eu tenho alguns aqui. Quer um?",
-                "Se o que você quer são bolinhos de arroz, eu tenho alguns aqui. Quer um?"
+                "Se o que você quer são bolinhos de arroz, eu\ntenho alguns aqui. Quer um?",
+                "Se o que você quer são bolinhos de arroz, eu\ntenho alguns aqui. Quer um?"
             ]
         },
         {
@@ -118,8 +118,7 @@
             "name": "Oguri Cap",
             "text": "Você tem algum tipo de técnica<n>especial?",
             "choice_data_list": [
-                "Na verdade, não. Eu só os preparei rapidinho.",
-                "Na verdade, não. Eu só os preparei rapidinho."
+                "Na verdade, não. Eu só os preparei rapidinho. |\nNa verdade, não. Eu só os preparei rapidinho."
             ]
         },
         {

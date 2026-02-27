@@ -44,7 +44,7 @@
             "name": "",
             "text": "Waving my hand, I motion that it's no<n>problem. I decide that\nit would be safer<n>to have me controlling the arcade<n>\nmachines instead of her.",
             "choice_data_list": [
-                "It's not often we get to have days off. Let's have fun!"
+                "It's not often we get to have days off. Let's\nhave fun!"
             ]
         },
         {
@@ -91,8 +91,7 @@
             "name": "Mihono Bourbon",
             "text": "Is this what you wish for me to play?<n>Your invitation is\nappreciated, but my<n>estimations show that I may<n>\npermanently put this device out of<n>service.",
             "choice_data_list": [
-                "Don't worry. I'll take care of the controls.",
-                "Don't worry, I'll take care of the controls."
+                "Don't worry. I'll take care of the controls. |\nDon't worry, I'll take care of the controls."
             ]
         },
         {
@@ -167,7 +166,7 @@
             "name": "",
             "text": "The sudden proposal contradicts her<n>usual passive attitude.\nShe must be<n><i>REALLY</i> determined to win.",
             "choice_data_list": [
-                "Let's do it! We're definitely gonna get it this time!"
+                "Let's do it! We're definitely gonna get it this\ntime!"
             ]
         },
         {

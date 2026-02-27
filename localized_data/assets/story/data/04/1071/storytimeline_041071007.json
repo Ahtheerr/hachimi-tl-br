@@ -1,0 +1,243 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "We're now halfway through our<n>summer training camp, and\nMejiro<n>Ardan's making good progress. One<n>day, as we\nhead out to start our<n>afternoon session..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Now then, shall we begi—hm?"
+        },
+        {
+            "name": "Student A",
+            "text": "Ah, you two! Do you have any plans<n>tonight? We're holding\na test of<n>courage! You guys should totally<n>come!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "A test of courage? That's where you<n>explore a scary\nlocation, yes? I've<n>heard about them, but I've never<n>\nactually joined."
+        },
+        {
+            "name": "Student B",
+            "text": "W-wait a second, be more<n>considerate! You don't want to<n>\npressure her... Ardan, we understand<n>if you can't come\nbecause of your<n>health."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Well... I appreciate the concern. I'm<n>personally feeling well\nenough to<n>attend, but..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "She must be worried about alarming<n>the other participants\nand event<n>planners. But if she says she's<n>healthy, I don't\nsee why she<n>shouldn't join.",
+            "choice_data_list": [
+                "I say we do it. Besides, I'll be there just in case.\n| I say we do it. Besides, I'll be there just in\ncase."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh! Trainer..."
+        },
+        {
+            "name": "Student B",
+            "text": "All right, but we'll understand if you<n>can't make it in the\nend. Or if you have<n>to leave halfway through!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "We finish our day of training and<n>head to where the test of\ncourage is<n>being held."
+        },
+        {
+            "name": "Ghastly Umamusume A",
+            "text": "Boooo!"
+        },
+        {
+            "name": "Students",
+            "text": "Aaaaahhh!Eeeeek!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "From the darkness ahead, we can<n>hear the screams of\nother people<n>braving the test of courage.",
+            "choice_data_list": [
+                "Sounds like... fun?",
+                "Sounds like... fun?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Doesn't it? I'm getting chills just<n>thinking about it. Now\nthen, it's our<n>turn."
+        },
+        {
+            "name": "Ghastly Umamusume A",
+            "text": "Boo—Ardan?! S-sorry, I didn't scare<n>you, did I?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Not at all. Thank you for your concern."
+        },
+        {
+            "name": "Ghastly Umamusume B",
+            "text": "Beware... Bewaaare... Beware the<n>bumps in the road, Ardan.\nWe don't<n>want you to trip and fall."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Thank you, I'll keep an eye out. And<n>please do watch out\nfor bug bites<n>yourself."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As we continue on, it's clear the<n>people playing the\nmonsters and<n>ghosts are going easy on Ardan for<n>her\nsake. I wonder if Ardan is<n>enjoying herself..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe... Who knew a test of courage<n>could be so delightful?\nEveryone's<n>having so much fun. I'm glad we<n>were\ninvited.",
+            "choice_data_list": [
+                "Good to see you're having fun.",
+                "Good to see you're having fun."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Of course I am. After all..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "We're just like those two knights in<n>that play, seeking glory\nby hunting<n>down ghosts."
+        },
+        {
+            "name": "Knight A",
+            "text": "My friend, do my eyes deceive me?<n>Is that not the accursed\ncastle, said to<n>only appear at dusk? What a<n>foreboding\natmosphere..."
+        },
+        {
+            "name": "Knights",
+            "text": "A g-g-g-g-ghost?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Now that she mentions it... Despite the<n>fact that the play was\na comedy, the<n>premise itself <i>is</i> kinda creepy...",
+            "choice_data_list": [
+                "H-haha... Is it chilly in here or is it just... me?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "No response. I look over to my side<n>and realize Ardan is\ngone."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Worried that I accidentally left her<n>behind, I whip my head\naround, but<n>still no sign of her...",
+            "choice_data_list": [
+                "Ardan?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Wah!",
+            "choice_data_list": [
+                "Uwaaaaahhh!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh! Hehe... Ehehe! I wasn't expecting<n>you to scream like\nthat."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Phew... My apologies for scaring you.<n>I simply couldn't help<n>\nmyself—pretending to be a ghost just<n>looked like so much\nfun. I had to try it<n>for myself.",
+            "choice_data_list": [
+                "Just you wait—vengeance will be mine!",
+                "Just you wait—vengeance will be mine!"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh? I'm looking forward to it. ♪"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "What a worthwhile experience.<n>Although it's a shame we\ndidn't find<n>any real ghosts or castles.",
+            "choice_data_list": [
+                "I also never got my revenge..."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, it'll take more than hiding<n>around the corner and loud\nnoises to<n>scare me. Still, it was fun waiting to<n>see what\nyou'd come up with next."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It felt like I was back to being a child<n>again... I just feel so at\nease when<n>I'm with you, Trainer."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Phew...",
+            "choice_data_list": [
+                "Tired? We can take a break."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "No, I'm fi—"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Actually... Do you mind if we rest for a<n>while?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "We have training tomorrow, correct?<n>What... will the regimen\nlook like? We<n><i>have</i> been out rather late...",
+            "choice_data_list": [
+                "Oh, we're going hard at practice tomorrow."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh? Understood.",
+            "choice_data_list": [
+                "Happy?"
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, I am. More than you could ever<n>imagine."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "I'm so glad to have someone who<n>understands me...\nUnderstands that I<n>want to do as much as I can."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "It's so... reassuring. I—"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Trainer... Do you remember when you<n>told me it's okay to\ndo what I want<n>sometimes?"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Besides, I promised you I wouldn't<n>overdo it, correct? I\nassure you, I am<n>fine."
+        },
+        {
+            "name": "Monólogo",
+            "text": "All right, but remember, it's okay to<n>do what you want\nsometimes."
+        },
+        {
+            "name": "Monólogo",
+            "text": "All right, but remember, it's okay to<n>do what you want\nsometimes."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "You said I could relax more, no?",
+            "choice_data_list": [
+                "Yup, I remember."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Then, could I... rest my head on your<n>shoulders? The sound\nof the waves is<n>just so... soothing."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(What a lovely sound... I could fall<n>asleep just like this. In\nfact, I just<n>might. Trainer wouldn't mind.)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Trainer... you're like a steady tree. I<n>know if I ever need to\nrest, you'll be<n>there for me to lean on.)"
+        }
+    ]
+}

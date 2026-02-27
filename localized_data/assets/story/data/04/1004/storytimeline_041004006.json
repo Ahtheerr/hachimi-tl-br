@@ -43,8 +43,7 @@
             "name": "Maruzensky",
             "text": "Ugh! Eu não limpei nada! Meu quarto<n>todo está uma\nbagunça de caixas!",
             "choice_data_list": [
-                "Pelo visto, você não limpa com frequência?",
-                "Pelo visto, você não limpa com frequência?"
+                "Pelo visto, você não limpa com frequência? |\nPelo visto, você não limpa com frequência?"
             ]
         },
         {
@@ -69,7 +68,7 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Estou superatrasada, <i>e</i> você<n>presenciou a bagunça em\nque estou<n>vivendo. <i>Suspiro...</i> Eu devia tentar<n>limpar com\nmais frequência.",
+            "text": "Estou superatrasada, <i>e</i> você<n>presenciou a bagunça em\nque estou<n>vivendo. <i>Suspiro...</i> Eu devia<n>tentar limpar\ncom mais frequência.",
             "choice_data_list": [
                 "Eu vou te ajudar a limpar."
             ]
@@ -78,8 +77,8 @@
             "name": "Maruzensky",
             "text": "O quê?! Você ajuda? Tem certeza?",
             "choice_data_list": [
-                "Você vai encontrar ânimo se formos nós dois, né?",
-                "Você vai encontrar ânimo se formos nós duas, né?"
+                "Você vai encontrar ânimo se formos nós dois,\nné?",
+                "Você vai encontrar ânimo se formos nós duas,\nné?"
             ]
         },
         {
@@ -220,7 +219,7 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Ah, isso é <i>supimpa.</i> A motivação,<n>claro, mas a comida vai\nter um gosto<n>muito melhor agora que não estou<n>comendo\nsozinha!"
+            "text": "Ah, isso é <i>supimpa.</i> A motivação,<n>claro, mas a comida\nvai ter um gosto<n>muito melhor agora que não estou<n>\ncomendo sozinha!"
         },
         {
             "name": "Maruzensky",

@@ -16,8 +16,8 @@
             "name": "Gold City",
             "text": "Really? ...Wow, it actually is. I... I did it!",
             "choice_data_list": [
-                "Simply amazing. They grow up so fast. <i>Sniffle.</i>",
-                "Simply amazing. They grow up so fast. <i>Sniffle.</i>"
+                "Simply amazing. They grow up so fast.\n<i>Sniffle.</i>",
+                "Simply amazing. They grow up so fast.\n<i>Sniffle.</i>"
             ]
         },
         {
@@ -47,7 +47,7 @@
             "text": "That there is <i>exactly</i> what I'm<n>talking about! Ahaha! All\nright, time to<n>hit up the gym for the rest of the<n>evening. It's\nleg day after all..."
         },
         {
-            "name": "Gold City's Manager",
+            "name": "Gold City's Homemager",
             "text": "City!"
         },
         {
@@ -55,11 +55,11 @@
             "text": "Huh? Manager? What are you doing<n>here?"
         },
         {
-            "name": "Gold City's Manager",
+            "name": "Gold City's Homemager",
             "text": "Sorry to interrupt practice, but it's an<n>emergency! This could\nbe your big<n>break!"
         },
         {
-            "name": "Gold City's Manager",
+            "name": "Gold City's Homemager",
             "text": "I'm sorry, Trainer! I'm going to have<n>to cut practice short\ntoday!"
         },
         {
@@ -67,7 +67,7 @@
             "text": "Wha—Who made <i>you</i> boss?<n>We've still got tons to\nwork on!"
         },
         {
-            "name": "Gold City's Manager",
+            "name": "Gold City's Homemager",
             "text": "Please, just hear me out. This will<n>affect your future!"
         },
         {

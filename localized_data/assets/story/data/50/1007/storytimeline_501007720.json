@@ -1,0 +1,566 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Um dia, levo a <chrname> para a<n>enfermaria para\num check-up."
+        },
+        {
+            "name": "???",
+            "text": "Oh! Uma clien—digo, uma estudante!<n>Olá!"
+        },
+        {
+            "name": "???",
+            "text": "Está machucada? Doente?<n>Estressada? Seja o\nque for, eu trato<n>de tudo!",
+            "choice_data_list": [
+                "Quem é você?!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Bom, considerando que você está na<n>enfermaria\nda academia, eu diria que<n>isso me torna sua\nconfiável<n>enfermeira escolar! Sim, apenas uma<n>\nfuncionária comum da escola!",
+            "choice_data_list": [
+                "...Não, você não é."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ahaha! Pelo visto não dá pra te<n>enganar. Acho\nque devo começar me<n>apresentando."
+        },
+        {
+            "name": "???",
+            "text": "Ahem! Permita-me me apresentar!"
+        },
+        {
+            "name": "???",
+            "text": "Eu sou a (provável) salvadora de<n>todas as\nUmamusume, a<n>(autoproclamada) acupunturista<n>\nlendária com o toque mágico..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "A única e exclusiva Sasami<n>Anshinzawa! Viu?\nSem problemas! ☆",
+            "choice_data_list": [
+                "..."
+            ],
+            "color_text_info_list": [
+                "Sasami Anshinzawa"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Céus! Essa máscara... Você é algum<n>tipo de lord\ndemônio aqui pra impedir a<n>Golshi, a Brava?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nossa! Você parece bem preocupada!<n>☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não importa! Não importa! Já nos<n>apresentamos,\nentão deite-se e<n>deixe-me colocar estas agulhas\npara<n>trabalhar!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Pode ir parando com o teatrinho. Não<n>pense que\neu baixo a guarda tão fácil."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Hahaha! Não precisa ter medo! Tudo<n>o que vou\nfazer é deslizar essas<n>agulhas extraordinárias\nprecisamente<n>nos seus pontos de chakra."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então voilà, presto! Algo indescritível<n>vai\nacontecer!",
+            "choice_data_list": [
+                "(Isso é indescritivelmente suspeito...)"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E deixe-me garantir, não há<n>absolutamente nada\nde suspeito<n>nisso! Nunca deu nada menos que<n>\nperfeito!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "...Para o meu mestre.",
+            "choice_data_list": [
+                "Para o seu mestre?! E quanto a você?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não se preocupe! Esta é a minha<n>primeira vez,\nentão, tecnicamente, eu<n>também nunca falhei\ncom um<n>paciente!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E não é como se eu não tivesse<n>experiência!\nPassei dez anos sob a<n>tutela de um mestre\nlendário,<n>buscando bebi—digo, treinando!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Viu? Sem problemas! ☆",
+            "choice_data_list": [
+                "(Precisamos sair daqui, agora!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não tem a menor chance de fazermos<n>isso. Pego\na <chrname> e vou em<n>direção à porta, quando..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E-espere! Onde você vai?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Você é <i>a</i> Gold Ship, não é?! A<n>Umamusume\nque encara o melhor dos<n>melhores, tudo com o\ncoração de uma<n>criança numa loja de doces?",
+            "choice_data_list": [
+                "Você ouviu falar dela?"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Se eu ouvi falar dela? É claro que sim!<n>Sou uma\ngrande fã!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "É exatamente por isso que estou<n>aqui! Para te\ndar o meu apoio!<n>Deixe-me ajudar!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Só me dê uma chance! Por favooor!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Sua boba! Chances não são<n><i>dadas!</i> Você\ntem que agarrá-las<n>com as próprias mãos!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Por favor! Por favorzinho com uma<n>cenoura no\ntopo! Eu até deixo você<n>escolher qual chakra eu\nativo!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eu <i>tenho certeza</i> que não vou<n>errar!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem... quase certeza.",
+            "choice_data_list": [
+                "<i>Quase</i> certeza?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Digo, está mais para o lado da<n>certeza! Isso é\n<i>bom,</i> não é?<n>Enfim, não se prenda aos\ndetalhes!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Vamos para a parte boa! Qual chakra<n>devo\nativar? Quer um bônus para<n>suas habilidades?\nSua saúde? Ou<n>talvez seu <i>charme?</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto o perigo no ar, mas imagino que<n>possa\nhaver — e enfatizo o <i>possa</i><n>— uma chance de\nconseguir algo<n>especial com este tratamento."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O que devemos fazer?",
+            "choice_data_list": [
+                "Ativar o chakra da força.",
+                "Ativar o chakra da vitória.",
+                "Ativar o chakra da saúde.",
+                "Ativar o chakra do charme.",
+                "Isso é muito suspeito. Vamos parar enquanto\npodemos."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então você quer<n>que eu ative\no chakra da força?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Não tem\nvolta depois disso!",
+            "choice_data_list": [
+                "Pode prosseguir.",
+                "Espere, aguarde um pouco."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Tudo bem, deixe comigo! Hora de<n>localizar esse\nchakra! Uni-duni-tê!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, apenas relaxeee... Viu? Sem<n>problemas! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee... cutuca!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ohhh! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Uau! Esse novo poder brotando em<n>mim é\nincrível!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Aee sim! Levantar âncora! Içar as<n>velas! BORA\nLÁÁÁ!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Suspiro...</i> Tá brincando...<n>Funcionou de\nverdade?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não acredito! Não dá pra crer! Eu sou<n>uma gênia\ntotal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A <chrname> está transbordando tanto<n>poder que\nela está quase<n>irreconhecível!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e valeu a pena! Este é<n>um grande\nsalto para alcançarmos<n>nosso objetivo!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hm... BLARG!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Eu... não aguento mais... Vou hibernar<n>por uns\ncem milhões de anos ou algo<n>assim..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição da <chrname> piora<n>rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem, olha só a hora! Eu preciso ir!<n>Tchauzinho! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia saber que não devia testar<n>nossa sorte.\nNão sou eu quem está<n>sofrendo, mas estou\ncheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então, você quer<n>que eu ative\no chakra da vitória?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Não tem\nvolta depois disso!",
+            "choice_data_list": [
+                "Pode prosseguir.",
+                "Espere, aguarde um pouco."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Tudo bem, deixe comigo! Hora de<n>localizar esse\nchakra! Uni-duni-tê!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, apenas relaxeee... Viu? Sem<n>problemas! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee... cutuca!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ohhh! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Uau! Esse novo poder brotando em<n>mim é\nincrível!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Aee sim! Levantar âncora! Içar as<n>velas! BORA\nLÁÁÁ!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Suspiro...</i> Tá brincando...<n>Funcionou de\nverdade?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não acredito! Não dá pra crer! Eu sou<n>uma gênia\ntotal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Consigo sentir uma enorme melhora<n>nas\nhabilidades da <chrname>!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e valeu a pena! Este é<n>um grande\nsalto para alcançarmos<n>nosso objetivo!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hm... BLARG!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Eu... não aguento mais... Vou hibernar<n>por uns\ncem milhões de anos ou algo<n>assim..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição da <chrname> piora<n>rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem, olha só a hora! Eu preciso ir!<n>Tchauzinho! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia saber que não devia testar<n>nossa sorte.\nNão sou eu quem está<n>sofrendo, mas estou\ncheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então, você quer<n>que eu ative\no chakra da saúde?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Não tem\nvolta depois disso!",
+            "choice_data_list": [
+                "Pode prosseguir.",
+                "Espere, aguarde um pouco."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Tudo bem, deixe comigo! Hora de<n>localizar esse\nchakra! Uni-duni-tê!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, apenas relaxeee... Viu? Sem<n>problemas! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee... cutuca!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ohhh! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Uau! Esse novo poder brotando em<n>mim é\nincrível!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Aee sim! Levantar âncora! Içar as<n>velas! BORA\nLÁÁÁ!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Suspiro...</i> Tá brincando...<n>Funcionou de\nverdade?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não acredito! Não dá pra crer! Eu sou<n>uma gênia\ntotal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O corpo inteiro da <chrname> está<n>radiando um\nbrilho saudável! Ela é a<n>imagem perfeita da\nsaúde!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e valeu a pena! Este é<n>um grande\nsalto para alcançarmos<n>nosso objetivo!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hm... BLARG!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Eu... não aguento mais... Vou hibernar<n>por uns\ncem milhões de anos ou algo<n>assim..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição da <chrname> piora<n>rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem, olha só a hora! Eu preciso ir!<n>Tchauzinho! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia saber que não devia testar<n>nossa sorte.\nNão sou eu quem está<n>sofrendo, mas estou\ncheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então, você quer<n>que eu ative\no chakra do charme?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Não tem\nvolta depois disso!",
+            "choice_data_list": [
+                "Pode prosseguir.",
+                "Espere, aguarde um pouco."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Tudo bem, deixe comigo! Hora de<n>localizar esse\nchakra! Uni-duni-tê!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, apenas relaxeee... Viu? Sem<n>problemas! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee... cutuca!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ohhh! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Uau! Esse novo poder brotando em<n>mim é\nincrível!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Aee sim! Levantar âncora! Içar as<n>velas! BORA\nLÁÁÁ!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Suspiro...</i> Tá brincando...<n>Funcionou de\nverdade?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não acredito! Não dá pra crer! Eu sou<n>uma gênia\ntotal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A <chrname> está transbordando<n>charme! Ela\ncom certeza vai atrair<n>olhares por onde passar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e valeu a pena! Este é<n>um grande\nsalto para alcançarmos<n>nosso objetivo!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hm... BLARG!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Eu... não aguento mais... Vou hibernar<n>por uns\ncem milhões de anos ou algo<n>assim..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição da <chrname> piora<n>rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem, olha só a hora! Eu preciso ir!<n>Tchauzinho! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia saber que não devia testar<n>nossa sorte.\nNão sou eu quem está<n>sofrendo, mas estou\ncheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Ah, qual é! Não seja assim!",
+            "choice_data_list": [
+                "Recusar.",
+                "Reconsiderar."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> processados!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! Fui descoberta!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, tô vazando! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Pare bem aí!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Anshinzawa, hein? Ela deu um baile<n>na gente\nque nem uma Umamusume<n>na pista!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ela é problema na certa.",
+            "choice_data_list": [
+                "Concordo.",
+                "Concordo."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Estou curioso para saber quem essa<n>tal\nAnshinzawa realmente é, mas não<n>adianta ficar\nremoendo isso. Melhor<n>esquecer o dia de hoje e\nseguir em<n>frente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Mudou de ideia, foi? Sem problemas,<n>acontece!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Vá em frente e me diga qual chakra<n>você quer\nque eu ative, então!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E então?! Não nos deixe em<n>suspense! Espere\num segundo... Há<n>quanto tempo estou aqui?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> processados!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! Fui descoberta!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, tô vazando! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Pare bem aí!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A situação toma um rumo inesperado<n>antes que\neu possa tomar uma<n>decisão."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O que foi tudo aquilo? A <chrname> e<n>eu nos\nolhamos perplexos."
+        }
+    ]
+}

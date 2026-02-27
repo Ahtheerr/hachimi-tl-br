@@ -29,11 +29,11 @@
             "text": "Heeey! Stop picking on the smaller<n>kids or I'll beat the snot\noutta ya!"
         },
         {
-            "name": "Boy A",
+            "name": "Garoto A",
             "text": "Oh no, it's her—the berserk<n>Umamusume! Run before she\nstarts<n>punchin'!"
         },
         {
-            "name": "Boy B",
+            "name": "Garoto B",
             "text": "You're no princess, berserk girl!<n>You're just crazy!"
         },
         {
@@ -143,8 +143,7 @@
             "name": "Monólogo",
             "text": "I don't know what's going on, but I<n>decide to find out at the\nstudent<n>council office where Kawakami<n>Princess was\ntaken.",
             "choice_data_list": [
-                "So what were you doing back there anyway?",
-                "So what were you doing back there anyway?"
+                "So what were you doing back there anyway? |\nSo what were you doing back there anyway?"
             ]
         },
         {

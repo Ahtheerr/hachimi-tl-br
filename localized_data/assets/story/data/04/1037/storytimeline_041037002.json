@@ -210,8 +210,7 @@
             "name": "Monólogo",
             "text": "I can't pretend to know much about<n>her, much less her\nparents, but just<n>seeing her run is enough to know<n>how\nmuch effort she's put into this.",
             "choice_data_list": [
-                "Your hard work is something to be proud of.",
-                "Your hard work is something to be proud of."
+                "Your hard work is something to be proud of. |\nYour hard work is something to be proud of."
             ]
         },
         {
@@ -240,7 +239,7 @@
             "name": "Monólogo",
             "text": "There's no power in her voice, much<n>less conviction. I can't\nimagine her<n>bouncing back so soon.",
             "choice_data_list": [
-                "Might want to consider taking tomorrow off\ntoo..."
+                "Might want to consider taking tomorrow off too..."
             ]
         },
         {

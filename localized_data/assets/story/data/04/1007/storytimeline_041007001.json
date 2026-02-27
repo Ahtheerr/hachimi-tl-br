@@ -52,7 +52,7 @@
             "name": "Gold Ship",
             "text": "Ei, você aí! Você é um treinador, né<n>não?",
             "choice_data_list": [
-                "Bom, eu não tenho pele verde nem dentes pontudos..."
+                "Bom, eu não tenho pele verde nem dentes\npontudos..."
             ]
         },
         {
@@ -110,8 +110,8 @@
             "name": "Mejiro McQueen",
             "text": "Mas devo perguntar—como você se<n>encontrou nessa\nsituação?",
             "choice_data_list": [
-                "Acho que ela estava procurando por um treinador..",
-                "Acho que ela estava procurando por uma treinadora..."
+                "Acho que ela estava procurando por um\ntreinador..",
+                "Acho que ela estava procurando por uma\ntreinadora..."
             ]
         },
         {

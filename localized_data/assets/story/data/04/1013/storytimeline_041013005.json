@@ -2,47 +2,47 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "One evening..."
+            "text": "Certa noite..."
         },
         {
             "name": "Monólogo",
-            "text": "I come across Mejiro McQueen<n>studying in the cafeteria\nlate at night."
+            "text": "Encontro Mejiro McQueen estudando<n>no refeitório tarde da\nnoite."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "So if I were to substitute this formula<n>here... That makes\nsense.",
+            "text": "Então, se eu substituísse essa<n>fórmula aqui... faz sentido.",
             "choice_data_list": [
-                "Do you have a test coming up?",
-                "Do you have a test coming up?"
+                "Você tem alguma prova chegando?",
+                "Você tem alguma prova chegando?"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Oh, Trainer! Yes, there's a short quiz<n>tomorrow. I thought\nthat I would<n>conduct a quick review."
+            "text": "Oh, Treinador! Sim, haverá um<n>pequeno teste amanhã. Achei\nque<n>deveria fazer uma revisão rápida."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I was having a few difficulties,<n>however, which is why I'm\nstill here.",
+            "text": "Estava tendo algumas dificuldades,<n>no entanto, e por isso\nainda estou<n>aqui.",
             "choice_data_list": [
-                "Maybe we should reduce the training load\ntomorrow?",
-                "Maybe we should reduce the training load\ntomorrow?"
+                "Talvez devêssemos reduzir a carga de treino\namanhã?",
+                "Talvez devêssemos reduzir a carga de treino\namanhã?"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Oh no, there's no need to do that. As<n>a Mejiro, I am\naccustomed to<n>balancing both mental and physical<n>\ndiscipline."
+            "text": "Oh, não, não há necessidade disso.<n>Como uma Mejiro,\nestou acostumada<n>a equilibrar a disciplina mental e<n>física."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Therefore, I expect the standard<n>regimen at practice\ntomorrow."
+            "text": "Portanto, espero o regime padrão no<n>treino de amanhã."
         },
         {
             "name": "Monólogo",
-            "text": "As requested, we conduct our training<n>regimen as usual the\nnext day."
+            "text": "Como solicitado, realizamos nosso<n>regime de treinamento\nnormalmente<n>no dia seguinte."
         },
         {
             "name": "Monólogo",
-            "text": "However..."
+            "text": "No entanto..."
         },
         {
             "name": "Mejiro McQueen",
@@ -50,98 +50,98 @@
         },
         {
             "name": "Monólogo",
-            "text": "No doubt due to how late she was up<n>studying last night,\nMcQueen begins to<n>nod off during our post-training<n>\nmeeting.",
+            "text": "Sem dúvida devido ao fato de ter<n>ficado acordada até tarde\nestudando,<n>McQueen começa a cochilar durante<n>nossa\nreunião pós-treino.",
             "choice_data_list": [
-                "Are you awake?",
-                "Are you awake?"
+                "Você está acordada?",
+                "Você está acordada?"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Eek!"
+            "text": "Aiai!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "O-of course I am! A Mejiro brings<n>nothing but her full\nattention to every<n>interaction!"
+            "text": "C-claro que estou! Uma Mejiro<n>dedica nada menos que sua\natenção<n>total a cada interação!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "We were reviewing all of today's<n>training exercises, yes?"
+            "text": "Estávamos revisando todos os<n>exercícios de treino de\nhoje, certo?"
         },
         {
             "name": "Monólogo",
-            "text": "Given her condition, I decide it would<n>be best to start things\nover one more<n>time. But..."
+            "text": "Dada a sua condição, decido que<n>seria melhor recomeçar\nas coisas<n>mais uma vez. Mas..."
         },
         {
             "name": "Mejiro McQueen",
             "text": "...",
             "choice_data_list": [
-                "You didn't get enough sleep, did you?",
-                "You didn't get enough sleep, did you?"
+                "Você não dormiu o suficiente, não foi?",
+                "Você não dormiu o suficiente, não foi?"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "<i>Gasp!</i>"
+            "text": "<i>Ah!</i>"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I-I really wasn't sleeping, dozing, or<n>even dreaming! It must\nbe your<n>imagination."
+            "text": "E-eu realmente não estava dormindo,<n>cochilando ou mesmo\nsonhando!<n>Deve ser sua imaginação."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Please continue. I'm all ears.",
+            "text": "Por favor, continue. Sou toda ouvidos.",
             "choice_data_list": [
-                "Let's go ahead and call it a day."
+                "Vamos encerrar por hoje."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Huh? But we were in the middle of a<n>meeting...",
+            "text": "Hein? Mas estávamos no meio de<n>uma reunião...",
             "choice_data_list": [
-                "I don't want to push you to the point of\ncollapsing again.",
-                "I don't want to push you to the point of\ncollapsing again."
+                "Não quero te forçar ao ponto de você desmaiar\nde novo.",
+                "Não quero te forçar ao ponto de você desmaiar\nde novo."
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Oh... but..."
+            "text": "Oh... mas..."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "It looks like I've exhibited cause for<n>concern once again."
+            "text": "Parece que demonstrei motivo de<n>preocupação mais uma\nvez."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I don't want to cause you any more<n>undue trouble, so let's\nwrap it up for<n>today."
+            "text": "Não quero lhe causar mais problemas<n>indevidos, então\nvamos encerrar por<n>hoje."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Thank you as always, Trainer.",
+            "text": "Obrigada, como sempre, Treinador.",
             "choice_data_list": [
-                "Just be sure to sleep properly, okay?",
-                "Just be sure to sleep properly, okay?"
+                "Só certifique-se de dormir direito, ok?",
+                "Só certifique-se de dormir direito, ok?"
             ]
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Huh?!"
+            "text": "Hein?!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I'll have you know that I am<n>managing my sleep schedule<n>\nperfectly fine!"
+            "text": "Saiba que estou gerenciando meu<n>cronograma de sono\nperfeitamente<n>bem!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "<i>AND</i> I was actually paying proper<n>attention back there!"
+            "text": "E eu estava realmente prestando a<n>devida atenção ali!"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I must ask that you believe me! I<n>insist!"
+            "text": "Devo pedir que acredite em mim! Eu<n>insisto!"
         },
         {
             "name": "Monólogo",
-            "text": "It seems much work remains to be<n>done to persuade the\nprideful<n>McQueen to acknowledge her limits."
+            "text": "Parece que ainda resta muito trabalho<n>para persuadir a\norgulhosa McQueen<n>a reconhecer seus limites."
         }
     ]
 }

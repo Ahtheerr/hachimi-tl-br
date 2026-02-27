@@ -16,8 +16,7 @@
             "name": "Nice Nature",
             "text": "Oh yeah, it'd be a hassle to return<n>them tonight, so I'll\nunlock the room<n>for you tomorrow.",
             "choice_data_list": [
-                "It's already late, so why don't we go together?",
-                "It's already late, so why don't we go together?"
+                "It's already late, so why don't we go together?\n| It's already late, so why don't we go\ntogether?"
             ]
         },
         {
@@ -185,8 +184,8 @@
             "name": "Nice Nature",
             "text": "...",
             "choice_data_list": [
-                "When you give it your all, you shine brighter\nthan any other star.",
-                "When you give it your all, you shine brighter\nthan any other star."
+                "When you give it your all, you shine brighter than\nany other star.",
+                "When you give it your all, you shine brighter than\nany other star."
             ]
         },
         {

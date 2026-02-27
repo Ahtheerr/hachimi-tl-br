@@ -1,1 +1,202 @@
-{}
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "It's been some time since I started<n>my job at Tracen\nAcademy as a<n>trainer. While I should be at work right<n>\nnow..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Gurgle...</i>",
+            "choice_data_list": [
+                "M-my stomach!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "My body's crying out in pain, so after<n>a quick call, I'm on\nmy way to the<n>hospital."
+        },
+        {
+            "name": "Monólogo",
+            "text": "According to the doctor, it's nothing<n>more than food\npoisoning. Relieved to<n>hear it's nothing serious, I grab the<n>\nmedicine prescribed to me and head<n>home."
+        },
+        {
+            "name": "Doctor",
+            "text": "Well... Congratulations on being<n>discharged, Mejiro Ardan.\nJust make<n>sure you don't overdo it, okay?"
+        },
+        {
+            "name": "Nurse",
+            "text": "I'm sure you're sick of hearing this<n>by now, but moderation\nis key!<n>Always do your stretches before<n>exercising, and\nbe sure to ice your<n>legs after."
+        },
+        {
+            "name": "Doctor",
+            "text": "The more fractures or sprains you<n>accumulate, the worse\noff your legs<n>will be in the long run. Above all else,<n>be\nmindful of your condition."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Understood, doctor. As always, thank<n>you for your thorough\ntreatment."
+        },
+        {
+            "name": "Nanny",
+            "text": "Miss Ardan, your chauffeur awaits."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, my. So soon? Thank you for<n>informing me.Now then... I\nshall be off.<n>Goodbye."
+        },
+        {
+            "name": "Nurse",
+            "text": "Goodbye! Be careful out there! I<n>mean it!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "As I watch this strangely somber<n>scene between the\nhospital staff and<n>their patient, I notice the Tracen<n>uniform\nand recognize Mejiro Ardan."
+        },
+        {
+            "name": "Monólogo",
+            "text": "The next time I see her is when I get<n>off the bus and arrive\nat Tracen<n>Academy. That's when I notice a<n>very worried\nUmamusume."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hm... Ah! Ardaaan!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Oh, if it isn't Chiyono O. I see you<n>waited for me to get back\nthis time as<n>well."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Of course I did! Why wouldn't I?<n>You're finally out of the\nhospital and<n>can come to school again!<n>Congratulations,\nArdan!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Hehe, thank you."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Still, I feel terrible for making you wait<n>out in the cold... I'd\nhate to see you<n>get sick just as I'm getting better."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "When we return to the dorms, allow<n>me to brew us both a\ncup of tea. I<n>received quite the selection as<n>get-well\npresents."
+        },
+        {
+            "name": "Student A",
+            "text": "Huh? Wait, did she get hospitalized<n><i>again?</i>"
+        },
+        {
+            "name": "Student B",
+            "text": "Ah, now that you mention it, I do<n>remember hearing that she\ncouldn't<n>run in the tryouts due to an injury or<n>illness."
+        },
+        {
+            "name": "Student C",
+            "text": "But she's race-ready, right? I'd be<n>more worried about\ndebuting if I were<n>her... I mean, how many times does<n>this\nmake?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Y-you there! How dare you—"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Chiyono O. I appreciate your concern,<n>but I assure you, I do\nnot mind the<n>gossip about me."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "But Ardan!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "After all, they're not wrong."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Urgh..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Now then, let us make our way back<n>to the dorms before\nwe both catch a<n>cold."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ah, you want to know more about<n>Mejiro Ardan? Well..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "With my curiosity piqued, I've come<n>to Tazuna to learn more\nabout Mejiro<n>Ardan."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "As I'm sure you've heard, she's<n>very prone to illness and\ninjury.<n>She's been in and out of the hospital<n>since she\nstarted here."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "And because of that, she's had to<n>pull out of tryouts and\npractice very<n>frequently."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Naturally, that means she hasn't<n>been scouted, so she\nhasn't made<n>her debut. As for the trainers' opinion<n>of\nher... They aren't exactly favorable.",
+            "choice_data_list": [
+                "I see..."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I... think she has potential. She is a<n>Mejiro, after all."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "But unfortunately, her body is so<n>fragile. And then there's\nthe matter of<n>her older sister.",
+            "choice_data_list": [
+                "Her sister?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "You're a new trainer, but I'm sure<n>you've heard of her.\nShe's the pride<n>of the Mejiro family—Mejiro Ramonu.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "She won her debut by a whole twenty<n>lengths. During her\nJunior division<n>years, she was already reaching<n>speeds\nthat rivaled the \"Hot Rod\"<n>Maruzensky."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "And to top it all off, she's the very<n>first Triple Tiara winner."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I could be here all day telling you<n>what makes Ramonu\nshine so bright,<n>but... I think the strength of that light<n>also\nobscures Ardan's, relegating her<n>to the shadows.",
+            "choice_data_list": [
+                "Yeah..."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I know Ardan is doing her absolute<n>best..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "However, she's running out of<n>chances to debut. Her next\nrace may<n>be her last opportunity.",
+            "choice_data_list": [
+                "What was that?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ah, my apologies. I have my own<n>speculations as to\nArdan's future, but,<n>well..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "If you're that interested, perhaps it'd<n>be best to talk to\nArdan herself!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "My talk with Tazuna only deepens<n>my curiosity. It must be\nhard to live in<n>your sister's shadow as the feeble<n>sibling,\nyet all I can picture is Ardan's<n>gentle smile."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perhaps... I'll go check up on her<n>myself tomorrow."
+        }
+    ]
+}

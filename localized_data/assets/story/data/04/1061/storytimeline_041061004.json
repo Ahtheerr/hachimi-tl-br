@@ -141,15 +141,14 @@
             ]
         },
         {
-            "name": "Trainers",
+            "name": "Treinadores",
             "text": "What?"
         },
         {
             "name": "King Halo",
             "text": "Huh?",
             "choice_data_list": [
-                "That's why I want to scout a first-rate racer!",
-                "That's why I want to scout a first-rate racer!"
+                "That's why I want to scout a first-rate racer! |\nThat's why I want to scout a first-rate racer!"
             ]
         },
         {
@@ -164,7 +163,7 @@
             ]
         },
         {
-            "name": "Trainers",
+            "name": "Treinadores",
             "text": "<i>Murmur...</i>"
         },
         {
@@ -237,7 +236,7 @@
             "name": "King Halo",
             "text": "Huh? A statement?",
             "choice_data_list": [
-                "\"Watch us be first-rate!\" "
+                "\"Watch us be first-rate!\""
             ]
         },
         {

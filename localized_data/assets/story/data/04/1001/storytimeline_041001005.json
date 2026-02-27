@@ -88,8 +88,7 @@
             "name": "Special Week",
             "text": "Eu quero deixar a Mãe e a Mamãe<n>orgulhosas, mas tudo\nque eu faço é<n>causar preocupação...",
             "choice_data_list": [
-                "Então é por isso que você está distante hoje.",
-                "Então é por isso que você está distante hoje."
+                "Então é por isso que você está distante hoje. |\nEntão é por isso que você está distante hoje."
             ]
         },
         {
@@ -132,8 +131,8 @@
             "name": "Special Week",
             "text": "Hm, eu preciso parar de ficar<n>lamentando por aí e trabalhar\nduro o<n>suficiente pra estar na capa de<n>revistas.",
             "choice_data_list": [
-                "Isso também mostraria para a sua mãe o quão bem você está indo.",
-                "Isso também mostraria para a sua mãe o quão bem você está indo."
+                "Isso também mostraria para a sua mãe o quão\nbem você está indo.",
+                "Isso também mostraria para a sua mãe o quão\nbem você está indo."
             ]
         },
         {

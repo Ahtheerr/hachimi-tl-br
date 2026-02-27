@@ -1,0 +1,26 @@
+{
+    "text_block_list": [
+        {
+            "name": "Gold Ship",
+            "text": "Nããão! Aquela ali caiu num mar de<n>lava!",
+            "choice_data_list": [
+                "Eu não sabia que o risco era tão alto!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Você viu a cara dela? Tão estoica, até<n>o\nprimeiríssimo fim...",
+            "choice_data_list": [
+                "Bom, é uma pelúcia..."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hehe... O resto de nós, sobreviventes,<n>vai ter que\naguentar firme e seguir<n>vivendo..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Bom, isso foi decepcionante."
+        }
+    ]
+}

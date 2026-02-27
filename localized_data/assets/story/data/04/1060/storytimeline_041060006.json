@@ -19,8 +19,7 @@
             "name": "Nice Nature",
             "text": "And look, they're completely worn<n>out. I'll probably have to\nbuy a whole<n>new pair.",
             "choice_data_list": [
-                "Goes to show how hard you've been working.",
-                "Goes to show how hard you've been working."
+                "Goes to show how hard you've been working. |\nGoes to show how hard you've been working."
             ]
         },
         {
@@ -144,7 +143,7 @@
             "name": "Nice Nature",
             "text": "Oooh, I see—wait a second! I see what<n>you're doin',\nemployee of the month!",
             "choice_data_list": [
-                "You will definitely be the cutest girl around in\nit."
+                "You will definitely be the cutest girl around in it."
             ]
         },
         {
@@ -174,8 +173,7 @@
             "name": "Nice Nature",
             "text": "Y-you're still going on about that?!<n>Flattering me isn't\ngonna get you<n>anywhere!",
             "choice_data_list": [
-                "I know because I'm always watching over you!",
-                "I know because I'm always watching over you!"
+                "I know because I'm always watching over you!\n| I know because I'm always watching over\nyou!"
             ]
         },
         {

@@ -96,7 +96,7 @@
             "text": "Can't... keep... going... Must... slow...<n>down."
         },
         {
-            "name": "Trainers",
+            "name": "Treinadores",
             "text": "Ah..."
         },
         {
@@ -107,8 +107,7 @@
             "name": "Sakura Bakushin O",
             "text": "Twelfth place?! TWELFTH! What a<n>disgrace...",
             "choice_data_list": [
-                "You started out strong, too... What rotten luck.",
-                "You started out strong, too... What rotten luck."
+                "You started out strong, too... What rotten luck. |\nYou started out strong, too... What rotten luck."
             ]
         },
         {

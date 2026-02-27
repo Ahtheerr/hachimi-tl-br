@@ -1,0 +1,292 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Esse negócio todo de Livro dos<n>Segredos e as\npistas que<n>supostamente levam ao Éden são um<n>\nmistério completo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pode ser só a maneira de alguém<n>motivar a Gold\nShip para as corridas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seja como for, eles estão fazendo<n>um ótimo\ntrabalho em deixá-la<n>animada.",
+            "choice_data_list": [
+                "(Eu deveria entrar na onda e realmente\nmaximizar os ganhos aqui!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "É hora de treinar para a próxima<n>corrida."
+        },
+        {
+            "name": "Monólogo",
+            "text": "...Mas a Gold Ship não tá na pista.<n>Parece que\nvou ter que ir em outra<n>caça ao ganso por ela."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu ando por toda a academia e, por<n>fim, acabo\nno telhado do prédio da<n>escola."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "É estranho. A gente já teve um<n>monte de lutas\nacaloradas antes..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Mas eu tô mais pilhada hoje do que<n>nunca,\nNakayama..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Uma vozinha na minha cabeça tá me<n>dizendo que\neu <i>tenho</i> que te<n>derrotar não importa o quê."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Que eu nunca vou achar o Éden se eu<n>não te\nsuperar primeiro!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heh. Não sei do que se trata essa<n>porcaria de\n\"Éden\", mas você chamou<n>a minha atenção."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Você quer um desafio? Pode mandar.<n>Quanto\nmais intenso, melhor."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Bom, então vamos bater enquanto o<n>ferro tá\nquente e começar agora<n>mesmo!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hora perfeita, Treinador! Você pode<n>ser nossa\ntestemunha!",
+            "choice_data_list": [
+                "Hã?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "A corrida começou! Tenta<n>acompanhar os meus\nrastros,<n>molenga!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "As duas desafiantes decolam, me<n>deixando para\ncorrer atrás delas o<n>mais rápido que minhas\npernas<n>aguentam."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Vamos começar as coisas<n>apimentadas! Uma\nbatalha clássica de<n>quem aguenta o calor. Traga\nas<n>mercadorias, El!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "O pedido tá pronto!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Dois sanduíches especiais pingando<n>molho de\npimenta habanero! Eles<n>estão extra picantes,\ncomo pedido!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Pera aí, esse \"sanduíche\" tá<n>completamente\nvermelho... Parece até<n>assassinato na torrada!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Bem, não seria muito um desafio se<n>fosse\ndiferente, né? Bora lá! Vamos<n>fazer isso!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Ngh! Isso não é brincadeira! Minha<n>boca tá\npegando fogo!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Cof!</i> Mas eu comi tudo, então<n>toma essa!\n<i>Cof!</i>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Bueno! Vocês duas comeram tudo<n>sem sobrar\nnem uma migalha nos<n>pratos! Isso é um empate!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Eu sinto que a minha cara tá<n>derretendo... Mas a\ngente ainda não<n>acabou! Ryan! Sua vez!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Beleza. Vamos fazer uns ganhos! O<n>desafio de\nvocês é fazer cem<n>abdominais em um minuto!\nVamos<n>lááá!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Cem abdominais num minuto? Haha!<n>Pode\nmandar!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "<i>Arf... Arf...</i> Mas que tipo de<n>desafios\nmalucos são esses?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Arf... Arf...</i> Você fica reclamando,<n>mas a\ngente conseguiu... <i>Aaaaarf!</i>"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Muito bem! Deu exatos cem<n>abdominais! É um\nempate!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "...Tá lotado aqui. Você realmente<n>aumentou a\nescala do que quer que<n>seja essa competição."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Claro! As nossas habilidades de<n>estátua vão\ndeixar os manequins<n>profissionais de shopping\nno chinelo!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "As nossas <i>o quê?</i>"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Beleza, Bamboo! Faça jus ao seu<n>título de líder\ndo comitê de disciplina e<n>fique de olho na gente\ncom toda a<n>disciplina!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Pode contar comigo! Meus olhos<n>estão abertos\npara qualquer<n>movimento! Preparadas?\nComecem!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Ei, a gente tá mesmo fazendo isso?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "..."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "..."
+        },
+        {
+            "name": "Child",
+            "text": "Mamãe? O que essas duas estão<n>fazendo?"
+        },
+        {
+            "name": "Mother",
+            "text": "Shh! É falta de educação ficar<n>encarando!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "..."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "...!"
+        },
+        {
+            "name": "Umamusume Transeunte A",
+            "text": "Ei, elas não são da academia?"
+        },
+        {
+            "name": "Umamusume Transeunte B",
+            "text": "É, são sim. O que elas tão fazendo?<n>Tão\nestranho..."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "...Augh!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "...Droga, isso é ridículo! Por que eu<n>tenho que\naturar essa humilhação?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Opa, você se mexeu. Desculpa,<n>Nakayama, mas\nvocê tá fora!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Aí sim! Eu ganhei, eu ganhei! A vitória<n>é minha!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Você me pegou, Golshi! Você me<n>puxou direto\npro seu campo de jogo."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Mas por mais ridículos que os seus<n>desafios\nfossem, uma vitória é uma<n>vitória! Não sou tão\nmesquinha a<n>ponto de discutir isso."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Mas vou te dizer uma coisa: da<n>próxima vez que\na gente se enfrentar,<n>vai ser no meu território, e\neu vou te<n>esmagar!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Pode tentar! Sabe de uma coisa? Vou<n>manter os\npunhos aquecidos até lá!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Gold Ship vs. Nakayama Festa:<n>vitória!\n(Continua...)",
+            "color_text_info_list": [
+                "Nakayama Festa"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "E com isso, a Maratona da Golshi<n>finalmente\nchega ao fim."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ufa, tô completamente sem energia.<n>Tô tão frita\nque sou praticamente<n>carvão carbonizado, tipo\nguiozas<n>esquecidos no fogão quente a noite<n>\ntoda."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Dito isso, eu venci <i>a</i> Nakayama.<n>Com\ncerteza isso é bom o suficiente.<n>Talvez eu até\nconsiga chegar no Éden<n>agora..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Agora que eu paro para pensar nisso,<n>ela\nmencionou o Éden várias vezes<n>hoje."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Para alguém que tinha esquecido<n>completamente\ndisso antes, é curioso<n>ela estar tão empolgada\nde repente."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Qual é a de ficar me olhando, hã?<n>Ficou tão\nchocado com o quão focada<n>eu posso ser\nquando eu tô de olho no<n>prêmio?",
+            "choice_data_list": [
+                "Dá pra se dizer que sim."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Acho que eu devo abrir o bico... Mas<n>essa\ninformação é só pra você,<n>beleza?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Eu ando tendo uns sonhos bem<n>estranhos\nultimamente. Sonhos onde<n>uma voz misteriosa\nme diz pra ir pro<n>Éden e tals."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "O que realmente tá me deixando<n>confusa é o\nquão nostálgica a voz me<n>faz sentir..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Parece familiar que nem a McQueen,<n>mas não é\ntão polida. É mais casual,<n>que nem a Nakayama..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Eu conheço essa voz como eu<n>conheço—bem,\n<i>quase</i> como eu<n>conheço o cheiro do tatame\ndo meu<n>avô."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu esperava ouvir mais uma história<n>mirabolante\ndela, mas o que ela me<n>conta é incrivelmente\nconvincente!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "De qualquer forma, o Livro dos<n>Segredos é a\ncoisa que iniciou toda<n>essa busca pelo Éden."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Será possível que quem escreveu<n>isso também\nconsiga aparecer nos<n>sonhos dela?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Enfim, eu vou voltar. Eu vou numa<n>corridinha a\ntoda velocidade, então<n>tenta me acompanhar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu corro atrás da Gold Ship, com um<n>sentimento\nestranho pesando no meu<n>peito."
+        }
+    ]
+}

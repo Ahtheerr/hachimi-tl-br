@@ -52,7 +52,7 @@
             "name": "Gold Ship",
             "text": "Em outras palavras... estamos em<n>algum lugar da Terra.",
             "choice_data_list": [
-                "E onde exatamente é esse \"algum lugar\"?! |E onde exatamente é esse \"algum lugar\"?!"
+                "E onde exatamente é esse \"algum lugar\"?! |E\nonde exatamente é esse \"algum lugar\"?!"
             ]
         },
         {
@@ -123,8 +123,8 @@
             "name": "Gold Ship",
             "text": "Sei que deve ser difícil... Mas você<n>não deve me olhar\nassim.<n>Isso—seria—indecente.☆",
             "choice_data_list": [
-                "Hã, na verdade, eu queria perguntar o que estamos procurando..",
-                "Hã, na verdade, eu queria perguntar o que estamos procurando.. "
+                "Hã, na verdade, eu queria perguntar o que\nestamos procurando..",
+                "Hã, na verdade, eu queria perguntar o que\nestamos procurando.."
             ]
         },
         {
@@ -143,8 +143,7 @@
             "name": "Gold Ship",
             "text": "Adi-ante! Adi-ante! Adiante nós<n>vamos! ♪ Vamos lá, vamos\nlá,<n>pequeno tesourinho! ♪",
             "choice_data_list": [
-                "Encontrei um coco... O que você acha?",
-                "Encontrei um coco... O que você acha?"
+                "Encontrei um coco... O que você acha? |\nEncontrei um coco... O que você acha?"
             ]
         },
         {

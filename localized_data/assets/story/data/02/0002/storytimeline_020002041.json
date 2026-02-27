@@ -67,7 +67,7 @@
             "name": "Monólogo",
             "text": "Ela está certa. Ter uma pessoa tão<n>trabalhadora no meio\ndelas fez<n>maravilhas para o restante da equipe.",
             "choice_data_list": [
-                "Acho que isso significa que você pode se concentrar em\nmelhorar."
+                "Acho que isso significa que você pode se\nconcentrar em melhorar."
             ]
         },
         {
@@ -170,8 +170,7 @@
             "name": "Rice Shower",
             "text": "Obrigada. Certo, então, aqui vou eu!",
             "choice_data_list": [
-                "Fique atrás da Bourbon e não a deixe escapar!",
-                "Fique atrás da Bourbon e não a deixe escapar!"
+                "Fique atrás da Bourbon e não a deixe escapar! |\nFique atrás da Bourbon e não a deixe escapar!"
             ]
         },
         {

@@ -31,8 +31,7 @@
             "name": "Monólogo",
             "text": "The triathlon features swimming,<n>biking, and long-distance\nfoot races.<n>Participants need a good command<n>over their\nstamina to win it.",
             "choice_data_list": [
-                "Oh yeah, you haven't signed up for it, have\nyou?",
-                "Oh yeah, you haven't signed up for it, have\nyou?"
+                "Oh yeah, you haven't signed up for it, have you?\n| Oh yeah, you haven't signed up for it, have\nyou?"
             ]
         },
         {
@@ -51,8 +50,7 @@
             "name": "Silence Suzuka",
             "text": "It might help me enjoy this last part<n>of camp to its fullest,\nlike you said.",
             "choice_data_list": [
-                "Sounds good to me. I'll be cheering you on!",
-                "Sounds good to me. I'll be cheering you on!"
+                "Sounds good to me. I'll be cheering you on! |\nSounds good to me. I'll be cheering you on!"
             ]
         },
         {
@@ -192,8 +190,7 @@
             "name": "Silence Suzuka",
             "text": "That shaved ice was delicious! It was<n>just the thing I\nneeded after all that<n>exercise today.",
             "choice_data_list": [
-                "Was it more delicious than the taste of victory?",
-                "Was it more delicious than the taste of victory?"
+                "Was it more delicious than the taste of victory? |\nWas it more delicious than the taste of victory?"
             ]
         },
         {
@@ -232,8 +229,7 @@
             "name": "Silence Suzuka",
             "text": "Seeing you is all I need to muster up<n>the strength to win.",
             "choice_data_list": [
-                "I'll always be waiting for you at the finish line.",
-                "I'll always be waiting for you at the finish line."
+                "I'll always be waiting for you at the finish line. |\nI'll always be waiting for you at the finish line."
             ]
         },
         {

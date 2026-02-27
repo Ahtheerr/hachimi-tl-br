@@ -158,16 +158,14 @@
             "name": "<username>",
             "text": "E então você vai anotar tudo neste<n>caderno.",
             "choice_data_list": [
-                "Você vai nos anotar como vencedores do Derby!",
-                "Você vai nos anotar como vencedores do Derby!"
+                "Você vai nos anotar como vencedores do Derby!\n| Você vai nos anotar como vencedores do\nDerby!"
             ]
         },
         {
             "name": "<username>",
             "text": "E então você vai anotar tudo neste<n>caderno.",
             "choice_data_list": [
-                "Você vai nos anotar como vencedoras do Derby!",
-                "Você vai nos anotar como vencedoras do Derby!"
+                "Você vai nos anotar como vencedoras do Derby!\n| Você vai nos anotar como vencedoras do\nDerby!"
             ]
         },
         {
@@ -198,8 +196,7 @@
             "name": "Winning Ticket",
             "text": "Estou apavorada em perder, mas<n>minha vontade de vencer\né tão grande<n>quanto o meu medo! Afinal, tenho um<n>grande\nsonho a realizar!",
             "choice_data_list": [
-                "Então vamos garantir que todos saibam disso.",
-                "Então vamos garantir que todos saibam disso."
+                "Então vamos garantir que todos saibam disso. |\nEntão vamos garantir que todos saibam disso."
             ]
         },
         {

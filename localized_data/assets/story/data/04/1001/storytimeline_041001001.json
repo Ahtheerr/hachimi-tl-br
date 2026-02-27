@@ -60,16 +60,15 @@
             "name": "Special Week",
             "text": "O-o-o-o-o que eu faço?! Vou perder o<n>toque de recolher do\ndormitório!",
             "choice_data_list": [
-                "Gostaria de voltar para a Academia\nTracen?",
-                "Gostaria de voltar para a Academia\nTracen?"
+                "Gostaria de voltar para a Academia Tracen? |\nGostaria de voltar para a Academia Tracen?"
             ]
         },
         {
             "name": "Special Week",
             "text": "Hã?! Ahn, você é...?",
             "choice_data_list": [
-                "Sou um treinador. Eu te mostro o caminho de volta.",
-                "Sou um treinador. Eu te mostro o caminho de volta."
+                "Sou um treinador. Eu te mostro o caminho de\nvolta.",
+                "Sou um treinador. Eu te mostro o caminho de\nvolta."
             ]
         },
         {

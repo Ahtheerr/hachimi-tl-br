@@ -60,8 +60,7 @@
             "name": "Maruzensky",
             "text": "Seria muito revigorante... <i>Suspiro.</i>",
             "choice_data_list": [
-                "Imagino que a ligação não foi muito boa?",
-                "Imagino que a ligação não foi muito boa?"
+                "Imagino que a ligação não foi muito boa? |\nImagino que a ligação não foi muito boa?"
             ]
         },
         {
@@ -179,7 +178,7 @@
             "name": "Maruzensky",
             "text": "Para um especialista em treinamento<n>na famosa Academia\nTracen, aposto<n>que o seu é treinar uma corredora de<n>G1,\nné? Ou talvez você tenha<n>ambições mais mundanas?",
             "choice_data_list": [
-                "Claro, eu ficaria orgulhoso de treinar alguém assim."
+                "Claro, eu ficaria orgulhoso de treinar alguém\nassim."
             ]
         },
         {
@@ -233,16 +232,16 @@
             "name": "Maruzensky",
             "text": "Então, diante das nossas atuais<n>circunstâncias... tem algo\nespecial que<n>você gostaria de me perguntar?",
             "choice_data_list": [
-                "Eu adoraria ser seu treinador, se você me aceitar.",
-                "Eu adoraria ser seu treinador, se você me aceitar."
+                "Eu adoraria ser seu treinador, se você me\naceitar.",
+                "Eu adoraria ser seu treinador, se você me\naceitar."
             ]
         },
         {
             "name": "Maruzensky",
             "text": "Então, diante das nossas atuais<n>circunstâncias... tem algo\nespecial que<n>você gostaria de me perguntar?",
             "choice_data_list": [
-                "Eu adoraria ser sua treinadora, se você me aceitar.",
-                "Eu adoraria ser sua treinadora, se você me aceitar."
+                "Eu adoraria ser sua treinadora, se você me\naceitar.",
+                "Eu adoraria ser sua treinadora, se você me\naceitar."
             ]
         },
         {

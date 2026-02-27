@@ -1,0 +1,64 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Um dia, a Gold Ship vem ao escritório<n>do\ntreinador..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ora, olá, Treinador. Certamente o<n>tempo está\nadorável hoje, você não<n>acha?",
+            "choice_data_list": [
+                "...Aconteceu alguma coisa?!",
+                "...Aconteceu alguma coisa?!"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Nossa, por que você parece tão<n>assustado?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Atrevo-me a dizer que você parece<n>um pouco\nestranho hoje. Está se<n>sentindo bem?",
+            "choice_data_list": [
+                "Você também não parece você mesma.",
+                "Você também não parece você mesma."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Bom... Se quer mesmo saber, ando<n>tendo umas\ndores de cabeça<n>estranhas ultimamente."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "...Ah, falando nisso, sinto uma vindo<n>agora— ai, ai,\nAI!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Arrrgh! Dá um tempo!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "...Hm? Que cara é essa?",
+            "choice_data_list": [
+                "Você é a Gold Ship, né?",
+                "Você é a Gold Ship, né?"
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "O quêêê? Eu sou a única e exclusiva<n>Golshi!\nQuem mais eu seria?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ai..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ugh... Toda essa gritaria fez minha dor<n>de cabeça\npiorar..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Gold Ship parece estar sendo<n>atormentada por\nfortes enxaquecas."
+        }
+    ]
+}

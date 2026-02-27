@@ -152,8 +152,7 @@
             "name": "Gold City",
             "text": "Oh, <i>really</i> now? So you were just<n>concerned about me,\nis that it?",
             "choice_data_list": [
-                "I didn't mean to eavesdrop. Please believe me...",
-                "I didn't mean to eavesdrop. Please believe me..."
+                "I didn't mean to eavesdrop. Please believe me...\n| I didn't mean to eavesdrop. Please believe\nme..."
             ]
         },
         {
@@ -214,7 +213,7 @@
             "name": "Gold City",
             "text": "So why'd you just let that other guy<n>swoop in?",
             "choice_data_list": [
-                "You looked so focused, I didn't want to\ninterrupt."
+                "You looked so focused, I didn't want to interrupt."
             ]
         },
         {

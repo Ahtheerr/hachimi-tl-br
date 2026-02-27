@@ -1,179 +1,179 @@
 {
     "text_block_list": [
         {
-            "name": "Television",
-            "text": "Also seen at the Embassy of<n>Ireland's gala yesterday was\na<n>distinguished young guest currently<n>studying abroad at\nthe Japan<n>Umamusume Training Center<n>Academy."
+            "name": "Televisão",
+            "text": "Também vista na gala da Embaixada<n>da Irlanda ontem\nestava uma jovem<n>convidada distinta que estuda no<n>\nexterior na Academia do Centro de<n>Treinamento de\nUmamusume do<n>Japão."
         },
         {
             "name": "Monólogo",
-            "text": "That was the first time I heard of<n>her—a news snippet\nblaring from a TV<n>in an electronics store window."
+            "text": "Aquela foi a primeira vez que ouvi<n>falar dela — um trecho de\nnotícia<n>ecoando de uma TV na vitrine de uma<n>loja de\neletrônicos."
         },
         {
             "name": "???",
-            "text": "Hmm... What should I do? ...Oh!<n>Pardon, may I have a\nmoment of your<n>time?",
+            "text": "Hum... O que devo fazer? ...Ah!<n>Perdão, poderia me conceder\num<n>momento?",
             "choice_data_list": [
-                "Wait, you mean me?",
-                "Wait, you mean me?"
+                "Espera, está falando comigo?",
+                "Espera, está falando comigo?"
             ]
         },
         {
-            "name": "Regal Umamusume",
-            "text": "Indeed I do. Hehe, I'm terribly sorry<n>to have startled you. I\nwas hoping to<n>consult a local about something."
+            "name": "Umamusume Real",
+            "text": "Sim, estou. Hehe, sinto muito por ter<n>te assustado. Eu\nesperava consultar<n>um morador local sobre algo."
         },
         {
-            "name": "Regal Umamusume",
-            "text": "You see, I heard that this convenience<n>shop had a dining\ncounter. I purchased<n>a cup of ramen and took it to a seat,<n>\nbut..."
+            "name": "Umamusume Real",
+            "text": "Veja bem, ouvi dizer que esta loja de<n>conveniência tinha\num balcão de<n>refeições. Comprei um copo de lámen<n>e o\nlevei para um assento, mas..."
         },
         {
-            "name": "Regal Umamusume",
-            "text": "I'm afraid the server never came to<n>prepare the noodles.\nWould you<n>happen to know if the dining service<n>is closed\ntoday?",
+            "name": "Umamusume Real",
+            "text": "Receio que o atendente nunca veio<n>preparar o macarrão.\nVocê saberia<n>dizer se o serviço de refeições está<n>fechado\nhoje?",
             "choice_data_list": [
-                "Uh..."
+                "Er..."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I'm about as perplexed as she is, but<n>I explain that\nconvenience stores have<n>hot-water dispensers for\ncustomers to<n>make the ramen themselves."
+            "text": "Estou tão perplexo quanto ela, mas<n>explico que as lojas de\nconveniência<n>têm dispensadores de água quente<n>para os\nclientes prepararem o lámen<n>sozinhos."
         },
         {
-            "name": "Regal Umamusume",
-            "text": "Eh? I get to make it myself?! Me,<n>making ramen?! Why,\nthat... that..."
+            "name": "Umamusume Real",
+            "text": "Eh? Eu mesma posso fazer?! Eu,<n>fazendo lámen?! Ora,\nisso... isso..."
         },
         {
-            "name": "Regal Umamusume",
-            "text": "Oh, that sounds wonderful! If I may<n>ask, where might I find\nthis hot-water<n>dispenser?"
+            "name": "Umamusume Real",
+            "text": "Oh, isso parece maravilhoso! Se me<n>permite perguntar, onde\nencontro esse<n>dispensador de água quente?"
         },
         {
-            "name": "Regal Umamusume",
-            "text": "<i>Sigh.</i> That was such a lovely<n>experience! To have\nshopping,<n>cooking, and dining services all in one<n>shop—it\nreally is convenient!"
+            "name": "Umamusume Real",
+            "text": "<i>Suspiro.</i> Foi uma experiência tão<n>encantadora! Ter\ncompras, preparo e<n>refeição tudo em uma só loja — é<n>\nrealmente conveniente!"
         },
         {
-            "name": "Regal Umamusume",
-            "text": "I cannot thank you enough for your<n>kind guidance. ♪ Now, if\nI may ask..."
+            "name": "Umamusume Real",
+            "text": "Não tenho como agradecer o<n>suficiente pela sua gentil\norientação. ♪<n>Agora, se me permite..."
         },
         {
-            "name": "Regal Umamusume",
-            "text": "Could I trouble you to escort me to<n>Ramen Rampage?",
+            "name": "Umamusume Real",
+            "text": "Poderia incomodá-lo para me escoltar<n>até o Lámen Furioso?",
             "choice_data_list": [
-                "Huh?"
+                "Hã?"
             ]
         },
         {
-            "name": "Regal Umamusume",
-            "text": "...Oh, no, I'm sorry! Ehehe, it seems I<n>got ahead of myself. A\nlocal student<n>would look the route up online,<n>wouldn't\nthey?"
+            "name": "Umamusume Real",
+            "text": "...Oh, não, me desculpe! Ehehe,<n>parece que eu me\nempolguei. Um<n>estudante local procuraria a rota na<n>\ninternet, não é?"
         },
         {
             "name": "Monólogo",
-            "text": "I mean... yeah, probably. But her way<n>of saying it leaves me\nslightly<n>concerned—it's like she's never<n>stepped out into\nthe real world before.",
+            "text": "Digo... sim, provavelmente. Mas o<n>jeito que ela fala me\ndeixa um pouco<n>preocupado — é como se ela nunca<n>\ntivesse pisado no mundo real antes.",
             "choice_data_list": [
-                "I can show you the way."
+                "Eu posso te mostrar o caminho."
             ]
         },
         {
-            "name": "Owner of Ramen Joint",
+            "name": "Dono da Loja de Lámen",
             "text": "...Seiyaaa!"
         },
         {
-            "name": "Regal Umamusume",
-            "text": "Wow! Did he... He did! He just did the<n>Rampage Colander\nCross! I can't<n>believe I'm seeing it live!",
+            "name": "Umamusume Real",
+            "text": "Uau! Ele... Ele fez! Ele acabou de<n>fazer o Cruzamento de\nEscorredor<n>Furioso! Não consigo acreditar que<n>estou\nvendo ao vivo!",
             "choice_data_list": [
-                "The Rampage... Colander Cross?"
+                "O Cruzamento de... Escorredor Furioso?"
             ]
         },
         {
-            "name": "Regal Umamusume",
-            "text": "Yes! It's the technique he uses to<n>drain the starchy water\nhe boiled the<n>ramen in. It preserves the integrity of<n>the\nnoodles' texture and the flavor of<n>the rich chicken stock!"
+            "name": "Umamusume Real",
+            "text": "Sim! É a técnica que ele usa para<n>escorrer a água do\ncozimento em que<n>ferveu o lámen. Ela preserva a<n>\nintegridade da textura do macarrão e<n>o sabor do rico caldo\nde galinha!"
         },
         {
-            "name": "Regal Umamusume",
-            "text": "When I read about it online, I just<n>knew I had to see it for\nmyself! Ahhh...<n>It was worth the forty-three-day wait!"
+            "name": "Umamusume Real",
+            "text": "Quando li sobre isso na internet, eu<n>simplesmente soube\nque precisava<n>ver com meus próprios olhos! Ahhh...<n>Valeu\na pena a espera de quarenta e<n>três dias!"
         },
         {
-            "name": "Regal Umamusume",
-            "text": "The glistening beads of water, cast<n>vigorously into flight but\ninches from<n>my eyes... The chef's passion stokes<n>the\nappetite more than I ever could<n>have imagined!"
+            "name": "Umamusume Real",
+            "text": "As gotas de água cintilantes,<n>lançadas vigorosamente ao ar\na<n>poucos centímetros dos meus olhos...<n>A paixão do chef\nabre o apetite mais<n>do que eu jamais poderia ter<n>\nimaginado!"
         },
         {
-            "name": "Regal Umamusume",
-            "text": "I truly cannot thank you enough for<n>escorting me. You have\nmy deepest<n>gratitude!",
+            "name": "Umamusume Real",
+            "text": "Eu realmente não tenho como<n>agradecer o suficiente por\nme<n>acompanhar. Você tem minha mais<n>profunda gratidão!",
             "choice_data_list": [
-                "I'm glad to hear it, but I really didn't do\nanything special..."
+                "Fico feliz em ouvir isso, mas eu realmente não fiz\nnada de especial..."
             ]
         },
         {
-            "name": "Regal Umamusume",
-            "text": "Oh, but you did. I have no doubt I'll be<n>cherishing this\nexperience for the rest<n>of my life!",
+            "name": "Umamusume Real",
+            "text": "Oh, mas você fez sim. Não tenho<n>dúvidas de que vou\nguardar esta<n>experiência com carinho pelo resto da<n>minha\nvida!",
             "choice_data_list": [
                 "(...?)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Seeing the pure excitement in her<n>eyes... For some reason, I\nfeel like the<n>moment will linger in my memory too."
+            "text": "Vendo a pura empolgação em seus<n>olhos... Por algum\nmotivo, sinto que<n>este momento também ficará gravado<n>\nem minha memória."
         },
         {
-            "name": "Regal Umamusume",
-            "text": "Oh, it's almost sundown! That's a<n>shame. I was thinking to\nsqueeze in<n>one more stop.",
+            "name": "Umamusume Real",
+            "text": "Oh, já está quase anoitecendo! Que<n>pena. Eu estava\npensando em<n>encaixar mais uma parada.",
             "choice_data_list": [
-                "There's still plenty of time before the dorm's\ncurfew.",
-                "There's still plenty of time before the dorm's\ncurfew."
+                "Ainda falta muito tempo para o toque de recolher\ndo dormitório.",
+                "Ainda falta muito tempo para o toque de recolher\ndo dormitório."
             ]
         },
         {
-            "name": "Regal Umamusume",
-            "text": "I know, but it's not the dormitory's<n>curfew I'm—Oh."
+            "name": "Umamusume Real",
+            "text": "Eu sei, mas não é o toque de recolher<n>do dormitório que eu\n— Oh."
         },
         {
             "name": "???",
-            "text": "...Your Highness, please pardon the<n>intrusion, but your\nexcursion was only<n>permitted on the grounds that you<n>\nwould return by sunset. Please make<n>your way to the\ndormitory.",
+            "text": "...Vossa Alteza, por favor, perdoe a<n>intromissão, mas sua\nexcursão só foi<n>permitida sob a condição de que<n>\nretornasse ao pôr do sol. Por favor,<n>dirija-se ao dormitório.",
             "choice_data_list": [
                 "...?!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Next thing I know, we're surrounded<n>by impending figures\nin suits. Where<n>did they all come from?!",
+            "text": "Quando dou por mim, estamos<n>cercados por figuras\nimponentes de<n>terno. De onde eles surgiram?!",
             "choice_data_list": [
-                "(And what do they mean, \"Your Highness\"?!)"
+                "(E o que eles querem dizer com \"Vossa\nAlteza\"?!)"
             ]
         },
         {
-            "name": "Suit-clad Umamusume",
-            "text": "And you—it was not our intent to<n>disturb your conversation.\nHowever..."
+            "name": "Umamusume de Terno",
+            "text": "E você — não era nossa intenção<n>atrapalhar sua conversa.\nNo entanto..."
         },
         {
-            "name": "Suit-clad Umamusume",
-            "text": "Our charge, Fine Motion, descends<n>from a royal bloodline.\nThough her<n>noble house has since come to reside<n>in\nIreland...",
+            "name": "Umamusume de Terno",
+            "text": "Nossa protegida, Fine Motion,<n>descende de uma linhagem\nreal.<n>Embora sua casa nobre tenha<n>passado a residir na\nIrlanda...",
             "choice_data_list": [
-                "W-wait, back up. She's a descendant of\n<i>royalty?!</i>"
-            ]
-        },
-        {
-            "name": "Fine Motion",
-            "text": "...Thank you for your concern,<n>Captain. I'll return to the\ndormitory as<n>soon I finish thanking my gracious<n>host.",
-            "choice_data_list": [
-                "You... you're really...",
-                "You... you're really..."
+                "E-espera, volta um pouco. Ela é descendente da\nrealeza?!"
             ]
         },
         {
             "name": "Fine Motion",
-            "text": "Hehe. I hope my security didn't scare<n>you. Thank you again\nfor everything. I<n>made some truly wonderful memories<n>\ntoday!"
+            "text": "...Obrigada pela preocupação, Capitã.<n>Voltarei para o\ndormitório assim que<n>terminar de agradecer ao meu<n>\ngracioso anfitrião.",
+            "choice_data_list": [
+                "Você... você é mesmo...",
+                "Você... você é mesmo..."
+            ]
         },
         {
             "name": "Fine Motion",
-            "text": "Please take this as a token of my<n>appreciation."
+            "text": "Hehe. Espero que meus seguranças<n>não tenham te\nassustado. Obrigada<n>novamente por tudo. Eu criei<n>\nmemórias verdadeiramente<n>maravilhosas hoje!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Por favor, aceite isto como um<n>símbolo da minha gratidão."
         },
         {
             "name": "Monólogo",
-            "text": "She places something in my palm<n>with a firm handshake\nand then turns<n>to leave, allowing the security guards<n>to\nlead her away to the station."
+            "text": "Ela coloca algo na palma da minha<n>mão com um aperto\nfirme e depois se<n>vira para partir, permitindo que os<n>\nseguranças a levem até a estação."
         },
         {
             "name": "Monólogo",
-            "text": "Frozen from shock, it's not until they<n>leave that I'm able to\nlook at what she<n>gave me. It's..."
+            "text": "Paralisado pelo choque, só quando<n>eles partem é que\nconsigo olhar para<n>o que ela me deu. É..."
         },
         {
             "name": "Monólogo",
-            "text": "A Ramen Rampage coupon."
+            "text": "Um cupom do Lámen Furioso."
         }
     ]
 }

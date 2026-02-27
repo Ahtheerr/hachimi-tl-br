@@ -64,8 +64,7 @@
             "name": "Oguri Cap",
             "text": "Antigamente, eu sempre me via<n>correndo nessas áreas.<n>\nEventualmente, o pessoal lá de casa<n>começou a sugerir que\neu corresse<n>em uma corrida de Umamusume.",
             "choice_data_list": [
-                "Então foi assim que você começou a correr...",
-                "Então foi assim que você começou a correr..."
+                "Então foi assim que você começou a correr... |\nEntão foi assim que você começou a correr..."
             ]
         },
         {
@@ -92,8 +91,8 @@
             "name": "Oguri Cap",
             "text": "E eu amo correr profissionalmente<n>também. Os laços que\nisso cria. A<n>alegria que traz. Eu amo tudo isso.",
             "choice_data_list": [
-                "Você realmente se importa com o pessoal lá de casa,\nhein?",
-                "Você realmente se importa com o pessoal lá de casa,\nhein?"
+                "Você realmente se importa com o pessoal lá de\ncasa, hein?",
+                "Você realmente se importa com o pessoal lá de\ncasa, hein?"
             ]
         },
         {
@@ -193,7 +192,7 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "Ah, ei. Você é aquele treinador novo,<n>né? Aquele que tá\nsempre por perto<n>da Oguri? | \"Ah, ei. Você é aquela<n>\ntreinadora nova, né? Aquela que tá<n>sempre por perto da\nOguri?\""
+            "text": "Ah, ei. Você é aquele treinador novo,<n>né? Aquele que tá\nsempre por perto<n>da Oguri? | \"Ah, ei. Você é aquela treinadora<n>nova, né? Aquela que tá\nsempre por<n>perto da Oguri?\""
         },
         {
             "name": "Tamamo Cross",

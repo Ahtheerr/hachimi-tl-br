@@ -2,15 +2,15 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Over the next several days following<n>her race, I try\napproaching Narita Brian<n>several times. However..."
+            "text": "Nos dias seguintes à corrida dela,<n>tento me aproximar da\nNarita Brian<n>várias vezes. No entanto..."
         },
         {
             "name": "Narita Brian",
-            "text": "There's nothing to talk about."
+            "text": "Não temos nada para conversar."
         },
         {
             "name": "Narita Brian",
-            "text": "Scram."
+            "text": "Caia fora."
         },
         {
             "name": "Narita Brian",
@@ -18,33 +18,30 @@
         },
         {
             "name": "Monólogo",
-            "text": "...",
-            "choice_data_list": [
-                "She won't even give me the time of day!"
-            ]
+            "text": "... Ela não me dá nem um pingo de<n>atenção!"
         },
         {
             "name": "Umamusume A",
-            "text": "Hey, it's that trainer. Pretty gutsy to<n>come again."
+            "text": "Ei, é aquele treinador. Quanta garra vir<n>aqui de novo."
         },
         {
             "name": "Umamusume B",
-            "text": "That's the most persistent one<n>we've seen yet, huh? I'm\nsure Brian<n>will say no, just like at the tryouts.",
+            "text": "Esse é o mais persistente que já<n>vimos, né? Tenho certeza\nde que a<n>Brian dirá não, igual nos testes de<n>seleção.",
             "choice_data_list": [
-                "(The tryouts...)"
+                "(Os testes de seleção...)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I've heard about Brian's tryout race.<n>The tryouts are\nsupposed to be where<n>racers attempt to get scouted, but\nshe<n>refused every offer."
+            "text": "Ouvi sobre a corrida de seleção da<n>Brian. Os testes\ndeveriam ser onde as<n>corredoras tentam ser recrutadas,<n>\nmas ela recusou todas as ofertas."
         },
         {
             "name": "Monólogo",
-            "text": "And when talk turns to making her<n>debut, she abruptly\nleaves without<n>another word. Maybe <i>that's</i><n>what she\nhas a problem with..."
+            "text": "E quando o assunto vira a estreia<n>dela, ela sai\nabruptamente sem dizer<n>nada. Talvez seja <i>com isso</i>\nque<n>ela tenha um problema..."
         },
         {
             "name": "Monólogo",
-            "text": "Another few days later, I hear that<n>Narita Brian's going to\nrace again, so I<n>hurry over to see it."
+            "text": "Mais alguns dias depois, ouço que a<n>Narita Brian vai correr\nde novo, então<n>corro para ver."
         },
         {
             "name": "Hishi Amazon",
@@ -56,15 +53,15 @@
         },
         {
             "name": "Umamusume A",
-            "text": "Hishiama's really fired up today!<n>Like, we're talking a\nwhole 'nother<n>level!"
+            "text": "A Hishiama está mesmo animada<n>hoje! Tipo, estamos\nfalando de um<n>nível totalmente diferente!"
         },
         {
             "name": "Umamusume B",
-            "text": "Well, she's the one who suggested<n>they race, so she can't\nafford to lo—<n>Whoa! Hishiama's making her move!"
+            "text": "Bem, foi ela quem sugeriu a corrida,<n>então ela não pode se\ndar ao luxo de<n>per— Opa! A Hishiama vai atacar!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "I'm gonna... crush you! Wraaaaagh!"
+            "text": "Eu vou... te esmagar! Wraaaaagh!"
         },
         {
             "name": "Narita Brian",
@@ -72,15 +69,15 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Wha?!"
+            "text": "O quê?!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Gah... Damn it! Aaaaagh!"
+            "text": "Gah... Droga! Aaaaagh!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "<i>Pant... Pant...</i> Ugh!"
+            "text": "<i>Arf... Arf...</i> Ugh!"
         },
         {
             "name": "Narita Brian",
@@ -88,19 +85,19 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Hold it!"
+            "text": "Espera aí!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Just where do ya think you're goin'?<n>Our battle isn't over. I\nchallenged you<n>to a one-on-one, best outta three."
+            "text": "Aonde diabos você pensa que vai?<n>Nossa batalha não\nacabou. Eu te<n>desafiei para um mano a mano,<n>melhor de\ntrês."
         },
         {
             "name": "Hishi Amazon",
-            "text": "And I ain't losin' again! So get ready<n>for the next—"
+            "text": "E eu não vou perder de novo! Então<n>se prepare para a\npróxi—"
         },
         {
             "name": "Narita Brian",
-            "text": "The outcome's already decided. You<n>know full well that if\nwe race again,<n>the results'll be the same."
+            "text": "O resultado já está decidido. Você<n>sabe muito bem que se\ncorrermos de<n>novo, os resultados serão os<n>mesmos."
         },
         {
             "name": "Hishi Amazon",
@@ -108,90 +105,89 @@
         },
         {
             "name": "Narita Brian",
-            "text": "I don't want to see anyone's fire go<n>out anymore, much\nless extinguish it<n>myself. I'm... sick of it."
+            "text": "Não quero mais ver o fogo de<n>ninguém se apagar, muito\nmenos<n>apagá-lo eu mesma. Estou... farta<n>disso."
         },
         {
             "name": "Hishi Amazon",
-            "text": "Damn it... I know, okay? I know I<n>can't beat you right now!"
+            "text": "Droga... Eu sei, tá bom? Eu sei que<n>não consigo te vencer\nagora!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "But... that doesn't mean I'm a quitter<n>who gives up after\none measly defeat.<n>Don't you dare go 'round assumin'<n>\nyou know what everyone's like!"
+            "text": "Mas... isso não significa que sou uma<n>covarde que desiste\napós uma derrota<n>miserável. Não se atreva a sair por aí<n>\nachando que sabe como todo mundo<n>é!"
         },
         {
             "name": "Narita Brian",
             "text": "...",
             "choice_data_list": [
-                "She's just going to challenge you again.",
-                "She's just going to challenge you again."
+                "Ela só vai te desafiar de novo."
             ]
         },
         {
             "name": "Narita Brian",
-            "text": "...You again."
+            "text": "...Você de novo."
         },
         {
             "name": "Narita Brian",
-            "text": "Didn't I tell you to scram? Don't let<n>me see you again.",
+            "text": "Eu não te mandei cair fora? Não deixe<n>que eu te veja de\nnovo.",
             "choice_data_list": [
-                "Wait!"
+                "Espere!"
             ]
         },
         {
             "name": "Narita Brian",
-            "text": "Fine, I'll say it. Racers like that might<n>put on a tough front,\nbut once their<n>spirit's burned out, it ain't coming<n>back."
+            "text": "Tudo bem, eu vou falar. Corredoras<n>assim podem até se\nfazer de duronas,<n>mas quando o espírito se apaga, ele<n>\nnão volta mais."
         },
         {
             "name": "Narita Brian",
-            "text": "I've seen it a hundred times. There's<n>no point in me racing\nthem."
+            "text": "Eu vi isso centenas de vezes. Não há<n>motivo para eu correr\ncontra elas."
         },
         {
             "name": "Narita Brian",
-            "text": "It wouldn't satisfy anyone."
+            "text": "Não satisfaria ninguém."
         },
         {
             "name": "Narita Brian",
-            "text": "(It's always been like this. Ever since<n>back then.)"
+            "text": "(Sempre foi assim. Desde aquela<n>época.)"
         },
         {
             "name": "Narita Brian",
-            "text": "(When... I first felt this hunger.)"
+            "text": "(Quando... senti essa fome pela<n>primeira vez.)"
         },
         {
             "name": "Jovem Hayahide",
-            "text": "Hurry up, Brian!"
+            "text": "Rápido, Brian!"
         },
         {
             "name": "Young Brian",
-            "text": "Coming!"
+            "text": "Já vou!"
         },
         {
             "name": "Narita Brian",
-            "text": "(She was always ahead of me. I felt<n>like a wild animal on\nthe chase, but<n>she never let me pass her. It was the<n>most\nfun I've ever had.)"
+            "text": "(Ela estava sempre à minha frente.<n>Eu me sentia como um\nanimal<n>selvagem na caça, mas ela nunca me<n>deixava\npassar. Foi o momento mais<n>divertido que já tive.)"
         },
         {
             "name": "Narita Brian",
-            "text": "(I'd run and run... I'd keep running<n>and chasing after her...\nBut no matter<n>how satisfying it felt, I only wanted<n>more.)"
+            "text": "(Eu corria e corria... continuava<n>correndo e caçando ela...\nMas não<n>importa o quão satisfatório fosse, eu<n>só queria\nmais.)"
         },
         {
             "name": "Narita Brian",
-            "text": "(And then it happened.)"
+            "text": "(E então aconteceu.)"
         },
         {
             "name": "Monólogo",
-            "text": "<i>Crash!</i>"
+            "text": "<i>PÁ!</i>"
         },
         {
             "name": "Young Brian",
-            "text": "Sis? Sis, wake up. Sis... Sis!"
+            "text": "Mana? Mana, acorda. Mana... Mana!"
         },
         {
             "name": "Jovem Hayahide",
-            "text": "Ugh... Sorry, Brian."
+            "text": "Ugh... Desculpe, Brian."
         },
         {
             "name": "Monólogo",
-            "text": "<i>Wee woo, wee woo!</i>"
+            "text": "<i>Uiuuu, uiuuu!</i>"
         }
     ]
 }

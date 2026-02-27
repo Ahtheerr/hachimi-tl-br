@@ -81,7 +81,7 @@
             "text": "(The honk of a car horn cuts her off.)"
         },
         {
-            "name": "Gold City's Manager",
+            "name": "Gold City's Homemager",
             "text": "City! Thank goodness you're here!<n>Did you not get any of\nmy calls?<n>Come on, you'll be late for work."
         },
         {
@@ -89,7 +89,7 @@
             "text": "Manager... Sorry, we were, er, busy<n>talking... Oh wow, yeah,\nthat's a lot of<n>missed calls."
         },
         {
-            "name": "Gold City's Manager",
+            "name": "Gold City's Homemager",
             "text": "Well, whatever it was, I'm glad I<n>found you. I assume\nsomething<n>happened with that trainer?"
         },
         {
@@ -101,7 +101,7 @@
             "text": "Oh, can we head back to the academy<n>real quick though? I\nneed to reserve<n>the training course."
         },
         {
-            "name": "Gold City's Manager",
+            "name": "Gold City's Homemager",
             "text": "...Listen, City. Don't you think it's<n>about time to give it up?\nYou're worn<n>out, both in body and mind. You've<n>tried so,\nso hard. Isn't it tiring?"
         },
         {
@@ -109,11 +109,11 @@
             "text": "...!"
         },
         {
-            "name": "Gold City's Manager",
+            "name": "Gold City's Homemager",
             "text": "You don't like people judging you by<n>your looks, but that's\njust how it is.<n>You have to learn to accept it."
         },
         {
-            "name": "Gold City's Manager",
+            "name": "Gold City's Homemager",
             "text": "I'll make you a top model. You should<n>be up on the stage\nwhere you'll shine<n>the brightest. Forcing yourself into a<n>\nworld where you don't belong only<n>brings pain."
         },
         {
@@ -147,7 +147,7 @@
             ]
         },
         {
-            "name": "Gold City's Manager",
+            "name": "Gold City's Homemager",
             "text": "City, wait here a moment. I'm going<n>to go talk to the staff."
         },
         {
@@ -213,8 +213,7 @@
             "name": "Gold City",
             "text": "Why can't I just... press delete?",
             "choice_data_list": [
-                "You don't need to throw away the real \"you.\"",
-                "You don't need to throw away the real \"you.\""
+                "You don't need to throw away the real \"you.\" |\nYou don't need to throw away the real \"you.\""
             ]
         },
         {
@@ -253,7 +252,7 @@
             "text": "What do you mean, \"sounds good\"?!<n>Ugh, I can't."
         },
         {
-            "name": "Gold City's Manager",
+            "name": "Gold City's Homemager",
             "text": "City, sorry to keep you waiting! Oh,<n>uh... You must be..."
         },
         {

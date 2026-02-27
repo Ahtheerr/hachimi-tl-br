@@ -1,0 +1,27 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Gold Ship parece menos animada do<n>que o\nnormal."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ugh... Mayday, mayday. Aqui é a Gold<n>Ship."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Estou sem combustível. Repito, estou<n>sem\ncombustível. Mudando para o<n>modo de baixa\nenergia. Câmbio."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "<i>Zzz...</i>",
+            "choice_data_list": [
+                "(Ela dormiu em pé?!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu provavelmente deveria ajustar o<n>cronograma\nde corridas dela..."
+        }
+    ]
+}

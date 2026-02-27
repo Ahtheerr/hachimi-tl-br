@@ -93,8 +93,8 @@
             "name": "Winning Ticket",
             "text": "But even during tryouts, I got<n>overexcited and ended up in\nfifth...",
             "choice_data_list": [
-                "Someday, that personality of yours is going to\nbe a powerful weapon.",
-                "Someday, that personality of yours is going to\nbe a powerful weapon."
+                "Someday, that personality of yours is going to be\na powerful weapon.",
+                "Someday, that personality of yours is going to be\na powerful weapon."
             ]
         },
         {
@@ -109,8 +109,7 @@
             "name": "Monólogo",
             "text": "So what she needs to focus on now<n>is judging when that\nright moment is.<n>She has to run according to a plan.",
             "choice_data_list": [
-                "Okay, Ticket, here's what you need to do!",
-                "Okay, Ticket, here's what you need to do!"
+                "Okay, Ticket, here's what you need to do! |\nOkay, Ticket, here's what you need to do!"
             ]
         },
         {
@@ -140,7 +139,7 @@
             "name": "Winning Ticket",
             "text": "How was that, Trainer? I ran at full<n>speed!",
             "choice_data_list": [
-                "Well, we're working on your pace, so\nmaintaining a steady time is more important..."
+                "Well, we're working on your pace, so \nmaintaining a steady time is more important..."
             ]
         },
         {
@@ -171,8 +170,7 @@
             "name": "Winning Ticket",
             "text": "Ah! She didn't train enough! So if I try<n>extra hard in training,\nit's in the bag!<n>You gotta train to gain!",
             "choice_data_list": [
-                "You don't think there might be another reason?",
-                "You don't think there might be another reason?"
+                "You don't think there might be another reason? |\nYou don't think there might be another reason?"
             ]
         },
         {

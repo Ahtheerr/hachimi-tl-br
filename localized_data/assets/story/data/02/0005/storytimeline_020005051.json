@@ -36,7 +36,7 @@
             "name": "Special Week",
             "text": "Sim. Ela está trabalhando tanto para a<n>próxima corrida, e\nisso é ótimo e tal...<n>mas...",
             "choice_data_list": [
-                "Parece que ela está pegando pesado demais consigo mesma..."
+                "Parece que ela está pegando pesado demais\nconsigo mesma..."
             ]
         },
         {
@@ -147,8 +147,8 @@
             "name": "Monólogo",
             "text": "Mas isso também é um sinal de quão<n>séria ela é. Se ela tem\ntanta paixão por<n>correr, então deve haver alguma<n>maneira\nde canalizar essa paixão...",
             "choice_data_list": [
-                "Por que não tenta correr do jeito que <i>você</i> quer correr?",
-                "Por que não tenta correr do jeito que <i>você</i> quer correr?"
+                "Por que não tenta correr do jeito que <i>você</i>\nquer correr?",
+                "Por que não tenta correr do jeito que <i>você</i>\nquer correr?"
             ]
         },
         {
@@ -251,8 +251,7 @@
             "name": "Silence Suzuka",
             "text": "Encontrar alegria... vai me levar ao<n>meu sonho?",
             "choice_data_list": [
-                "Corra como <i>você</i> quer correr, Suzuka!",
-                "Corra como <i>você</i> quer correr, Suzuka!"
+                "Corra como <i>você</i> quer correr, Suzuka! |\nCorra como <i>você</i> quer correr, Suzuka!"
             ]
         },
         {

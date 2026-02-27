@@ -25,11 +25,11 @@
             "text": "Droga, não podemos parar agora.<n>Esse lugar inteiro tá\nprestes a<n>explodir..."
         },
         {
-            "name": "Boy A",
+            "name": "Garoto A",
             "text": "Capitã Golshi, nosso avanço parou!<n>Permissão pra voltar\npra base do<n>trepa-trepa!"
         },
         {
-            "name": "Boy B",
+            "name": "Garoto B",
             "text": "Espera, a gente teria que atravessar<n>a caixa de areia de\nlava quente pra<n>voltar!"
         },
         {
@@ -63,7 +63,7 @@
             "text": "Eu vou levar todos vocês à vitória...<n>Maneiro, né?"
         },
         {
-            "name": "Boy A",
+            "name": "Garoto A",
             "text": "Uauuu! Você é a melhor, Capitã<n>Golshi!"
         },
         {
@@ -75,7 +75,7 @@
             "text": "Gaaaagh!"
         },
         {
-            "name": "Boy B",
+            "name": "Garoto B",
             "text": "C-Capitã Golshi?!"
         },
         {
@@ -91,7 +91,7 @@
             "text": "Escuta, você tem que continuar sem<n>mim... Você tem que...\nviver! ...Ugh."
         },
         {
-            "name": "Boy A",
+            "name": "Garoto A",
             "text": "Não... Por favor, acorde, Capitã Golshi!"
         },
         {
@@ -103,7 +103,7 @@
             "text": "Sem pistas, esse caso pode esfriar.<n>Mas não se preocupe!\nO crime nunca<n>escapa da grande Sherlock Golshi!"
         },
         {
-            "name": "Boys",
+            "name": "Garotos",
             "text": "É ela mesma! Sherlock Golshi!",
             "choice_data_list": [
                 "(Agora ela é uma detetive famosa?!)"
@@ -122,19 +122,19 @@
             "text": "Ela tá apontando pra mim! O que eu<n>faço..."
         },
         {
-            "name": "Boy B",
+            "name": "Garoto B",
             "text": "Você tem que responder alguma<n>coisa ou vai perder!"
         },
         {
-            "name": "Boy A",
+            "name": "Garoto A",
             "text": "É isso aí! Você é o trainer da Golshi<n>por um motivo. Faz algo\nengraçado!"
         },
         {
             "name": "Monólogo",
             "text": "Entendi... Não posso deixar ela pilotar<n>o navio o tempo todo.\nPreciso ser<n>como essas crianças e ir na onda!",
             "choice_data_list": [
-                "Você me pegou! Mas quem ri por último ri melhor!",
-                "Você me pegou! Mas quem ri por último ri melhor!"
+                "Você me pegou! Mas quem ri por último ri\nmelhor!",
+                "Você me pegou! Mas quem ri por último ri\nmelhor!"
             ]
         },
         {
@@ -150,7 +150,7 @@
             "text": "<I>Arf... arf... ofegando...</I> Como você<n>me seguiu até aqui?"
         },
         {
-            "name": "Boy B",
+            "name": "Garoto B",
             "text": "E agora... Estamos encurralados!",
             "choice_data_list": [
                 "Hora de pagar o pato!",
@@ -166,7 +166,7 @@
             "text": "Eu sou a grande deusa Umamusume,<n>Golshaea. Vejo\ncorações gentis<n>precisando de ajuda e concedo a<n>vocês\no meu poder."
         },
         {
-            "name": "Boy A",
+            "name": "Garoto A",
             "text": "É a Golshaea. Ela só concede 100<n>milagres por ano!"
         },
         {
@@ -174,11 +174,11 @@
             "text": "Eu sinto! Vocês todos sentem<n>também, não sentem? É o\npoder da<n>deusa!"
         },
         {
-            "name": "Boy A",
+            "name": "Garoto A",
             "text": "Uau, é verdade! Podemos vencer<n>desta vez!",
             "choice_data_list": [
-                "O que você fez? Maldito seja o seu poder de deusa!",
-                "O que você fez? Maldito seja o seu poder de deusa!"
+                "O que você fez? Maldito seja o seu poder de\ndeusa!",
+                "O que você fez? Maldito seja o seu poder de\ndeusa!"
             ]
         },
         {
@@ -201,7 +201,7 @@
             "text": "A justiça foi... feita!"
         },
         {
-            "name": "Boy B",
+            "name": "Garoto B",
             "text": "Você conseguiu! Você é a mais<n>incrível, Golshi!"
         },
         {
@@ -220,8 +220,8 @@
             "name": "Gold Ship",
             "text": "Sem falar que as flores<n>desabrocharam, as árvores ficaram<n>\nviçosas e os pássaros cantaram<n>lindamente! Eu\nsurpreendo até a mim<n>mesma!",
             "choice_data_list": [
-                "Além disso, aquelas crianças com certeza se divertiram muito.",
-                "Além disso, aquelas crianças com certeza se divertiram muito."
+                "Além disso, aquelas crianças com certeza se\ndivertiram muito.",
+                "Além disso, aquelas crianças com certeza se\ndivertiram muito."
             ]
         },
         {

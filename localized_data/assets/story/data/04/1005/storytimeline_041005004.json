@@ -8,8 +8,7 @@
             "name": "Fuji Kiseki",
             "text": "Isso é uma coincidência. Saindo para<n>um passeio noturno?\nEu também<n>estou—",
             "choice_data_list": [
-                "Você não parece estar só dando um passeio.",
-                "Você não parece estar só dando um passeio."
+                "Você não parece estar só dando um passeio. |\nVocê não parece estar só dando um passeio."
             ]
         },
         {
@@ -161,16 +160,14 @@
             "name": "Fuji Kiseki",
             "text": "Não sei o que dizer...",
             "choice_data_list": [
-                "Todos nós acreditamos nos seus milagres.",
-                "Todos nós acreditamos nos seus milagres."
+                "Todos nós acreditamos nos seus milagres. |\nTodos nós acreditamos nos seus milagres."
             ]
         },
         {
             "name": "Fuji Kiseki",
             "text": "Meus milagres...",
             "choice_data_list": [
-                "Agora é hora de você acreditar neles também.",
-                "Agora é hora de você acreditar neles também."
+                "Agora é hora de você acreditar neles também. |\nAgora é hora de você acreditar neles também."
             ]
         },
         {
@@ -237,8 +234,8 @@
             "name": "Fuji Kiseki",
             "text": "Ufa... Estou completamente exausta.<n>Sabe, eu sou um pouco\nestranha<n>quando se trata de dor muscular, mas<n>dessa vez\nestou com medo do que<n>amanhã vai trazer.",
             "choice_data_list": [
-                "Bom trabalho lá fora. Esse foi um milagre de verdade.",
-                "Bom trabalho lá fora. Esse foi um milagre de verdade."
+                "Bom trabalho lá fora. Esse foi um milagre de\nverdade.",
+                "Bom trabalho lá fora. Esse foi um milagre de\nverdade."
             ]
         },
         {

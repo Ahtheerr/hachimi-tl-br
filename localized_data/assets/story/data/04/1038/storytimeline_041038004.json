@@ -160,8 +160,8 @@
             "name": "Monólogo",
             "text": "It's definitely heartwarming that she<n>works so hard to\nmake people happy<n>with her cuteness, but...",
             "choice_data_list": [
-                "I think people would be happy to see more of\nthe real you.",
-                "I think people would be happy to see more of\nthe real you."
+                "I think people would be happy to see more of the\nreal you.",
+                "I think people would be happy to see more of the\nreal you."
             ]
         },
         {
@@ -232,8 +232,7 @@
             "name": "Monólogo",
             "text": "After the event, I find Curren waiting<n>for me on the school\nrooftop. Perhaps<n>this is the time to ask something<n>that's\nbeen on my mind for a while...",
             "choice_data_list": [
-                "How come you picked me as your trainer?",
-                "How come you picked me as your trainer?"
+                "How come you picked me as your trainer? |\nHow come you picked me as your trainer?"
             ]
         },
         {

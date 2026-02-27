@@ -1,8 +1,8 @@
 {
     "text_block_list": [
         {
-            "name": "",
-            "text": "My mind dwells only on Manhattan<n>Cafe's immense ability.\nI decide to<n>make my nightly sojourn to the track<n>once\nmore, when..."
+            "name": "Minha mente reside apenas na imensa<n>habilidade de Manhattan Cafe. Decido<n>fazer minha jornada noturna até a pista<n>mais uma vez, quando...",
+            "text": ""
         },
         {
             "name": "",
@@ -10,77 +10,58 @@
         },
         {
             "name": "",
-            "text": "The lights in my office go out.",
+            "text": "As luzes do meu escritório se<n>apagam.",
             "choice_data_list": [
                 "..."
             ]
         },
         {
             "name": "",
-            "text": "It saves me the trouble of having to<n>hit all the switches\nmyself at least. I<n>leave the pitch-black room behind."
+            "text": "Ao menos isso me poupa o trabalho<n>de ter que apagar\ntodos os<n>interruptores sozinho. Eu deixo o<n>quarto\ntotalmente escuro para trás."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "<i>Pant, pant...</i> Once more, and this<n>time..."
+            "text": "Arf, arf... Mais uma vez, e desta vez..."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "This time... I'll catch up to you..."
+            "text": "Desta vez... eu vou te alcançar..."
         },
         {
             "name": "",
-            "text": "It appears that she is running after<n>that \"friend\" of hers this\nevening as<n>well."
+            "text": "Parece que ela está correndo atrás<n>daquela amiga\" dela\nesta noite<n>também.\""
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Tch... So far..."
+            "text": "Tsc... Tão longe..."
         },
         {
             "name": "",
-            "text": "Unlike before, though, her steps are<n>erratic. Maybe she's\ntoo fixated on<n>catching up to her \"friend\" to maintain<n>a\nstable pace..."
+            "text": "Ao contrário de antes, no entanto,<n>seus passos estão\nerráticos. Talvez<n>ela esteja fixada demais em alcançar<n>\nsua amiga\" para manter um ritmo<n>estável...\""
         },
         {
             "name": "Manhattan Cafe",
-            "text": "<i>Pant, pant, pant...</i> I'm still... not<n>there...",
+            "text": "Arf, arf, arf... Eu ainda... não cheguei<n>lá...",
             "choice_data_list": [
-                "Good evening!"
+                "Boa noite!"
             ]
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Oh."
+            "text": "Ah."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "...Good evening.",
+            "text": "...Boa noite.",
             "choice_data_list": [
-                "I know this is sudden, but if it's not too much\ntrouble..."
+                "Eu sei que isso é repentino, mas se não for\nmuito incômodo..."
             ]
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Huh?",
+            "text": "Hã?",
             "choice_data_list": [
-                "Can you tell me about how your friend runs?"
-            ]
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "..."
-        },
-        {
-            "name": "Manhattan Cafe",
-            "text": "But... why? ...You can't even..."
-        },
-        {
-            "name": "",
-            "text": "I can't see her. But it's for that very<n>reason that I want to\nknow more.<n>What style is she using? When does<n>she\nmake for the finish line?"
-        },
-        {
-            "name": "",
-            "text": "If I knew what kind of technique her<n>rival was employing,\nthen I'd be able<n>to offer her some advice. She's trying<n>so\nhard. I really want to do what I can<n>for her...",
-            "choice_data_list": [
-                "It may be none of my business, but I'd like to\nhelp."
+                "Pode me contar como a sua amiga corre?"
             ]
         },
         {
@@ -89,91 +70,110 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "My friend is... very fast...",
+            "text": "Mas... por quê? ...Você nem sequer..."
+        },
+        {
+            "name": "",
+            "text": "Eu não consigo vê-la. Mas é<n>justamente por esse motivo\nque<n>quero saber mais. Qual estilo ela usa?<n>Quando ela\nparte para a linha de<n>chegada?"
+        },
+        {
+            "name": "",
+            "text": "Se eu soubesse que tipo de técnica a<n>sua rival estava\nempregando, eu seria<n>capaz de oferecer algum conselho.<n>\nEla está se esforçando tanto. Eu<n>realmente quero fazer o\nque puder por<n>ela...",
             "choice_data_list": [
-                "She's fast?"
+                "Pode não ser da minha conta, mas eu gostaria de\najudar."
             ]
         },
         {
             "name": "Manhattan Cafe",
-            "text": "...Yes.",
+            "text": "..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Minha amiga é... muito rápida...",
             "choice_data_list": [
-                "Okay... So she's fast..."
+                "Ela é rápida?"
             ]
         },
         {
             "name": "Manhattan Cafe",
-            "text": "...Yes."
-        },
-        {
-            "name": "",
-            "text": "Something tells me she's not too<n>keen on opening up about\nthis."
-        },
-        {
-            "name": "",
-            "text": "For the next few evenings, I make it a<n>habit to visit the\ntraining course."
-        },
-        {
-            "name": "",
-            "text": "Something strange happens every<n>time. Books falling off\nshelves, or the<n>TV seemingly turning itself on... I even<n>\nencounter a jammed door once<n>more...",
+            "text": "...Sim.",
             "choice_data_list": [
-                "I've gotten used to it, though!"
+                "Certo... Então ela é rápida..."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Sim."
+        },
+        {
+            "name": "",
+            "text": "Algo me diz que ela não está muito<n>disposta a se abrir\nsobre isso."
+        },
+        {
+            "name": "",
+            "text": "Nas noites seguintes, transformo em<n>hábito visitar o campo\nde treinamento."
+        },
+        {
+            "name": "",
+            "text": "Algo estranho acontece todas as<n>vezes. Livros caindo das\nprateleiras,<n>ou a TV aparentemente se ligando<n>sozinha...\nEu até encontro uma porta<n>emperrada mais uma vez...",
+            "choice_data_list": [
+                "Já me acostumei com isso, porém!"
             ]
         },
         {
             "name": "",
-            "text": "Luckily, Manhattan Cafe seems to be<n>getting used to my\nvisits as well."
+            "text": "Felizmente, Manhattan Cafe parece<n>estar se acostumando\ncom minhas<n>visitas também."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Um... She's a bit wild today... Like<n>she's really motivated."
+            "text": "Er... Ela está um pouco agitada hoje...<n>Como se estivesse\nrealmente<n>motivada."
         },
         {
             "name": "",
-            "text": "Though she is still a bit apprehensive,<n>she shares a little\nmore about her<n>friend with me on each passing night."
+            "text": "Embora ela ainda esteja um pouco<n>apreensiva, ela\ncompartilha um pouco<n>mais sobre sua amiga comigo a cada<n>\nnoite que passa."
         },
         {
             "name": "Novo Treinador A",
-            "text": "I'm really not having much luck with<n>this whole scouting\nthing. How about<n>you?",
+            "text": "Eu realmente não estou tendo muita<n>sorte com essa coisa\nde<n>recrutamento. E quanto a você?",
             "choice_data_list": [
-                "I've found someone."
+                "Eu encontrei alguém."
             ]
         },
         {
             "name": "",
-            "text": "My evenings spent with Manhattan<n>Cafe have all served to\nmake me<n>want to be her trainer."
+            "text": "Minhas noites passadas com<n>Manhattan Cafe serviram\npara me<n>fazer querer ser seu treinador."
         },
         {
             "name": "",
-            "text": "The only catch is—I can't see her<n>friend, and I don't know if\nthat'll be a<n>deal-breaker."
+            "text": "O único problema é — eu não consigo<n>ver a amiga dela, e\nnão sei se isso<n>será um fator determinante."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I got some good advice yesterday..."
+            "text": "Eu recebi um bom conselho ontem..."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "That trainer... probably thinks I'm<n>strange. And the advice\nmight just be<n>an excuse to watch..."
+            "text": "Aquele treinador... provavelmente<n>acha que sou estranha. E\no conselho<n>pode ser apenas uma desculpa para<n>\nobservar..."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "...But... if I'm being honest..."
+            "text": "...Mas... se eu for honesta..."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I feel like... even by a little bit... just a<n>little bit..."
+            "text": "Eu sinto que... mesmo que um<n>pouquinho... só um\npouquinho..."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "I've... been able to close the distance<n>between us."
+            "text": "Eu... consegui diminuir a distância<n>entre nós."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "... Maybe... I can count on a visit...<n>tonight as well."
+            "text": "... Talvez... eu possa contar com uma<n>visita... esta noite\ntambém."
         },
         {
             "name": "",
-            "text": "I fully intend to watch her train this<n>evening, but I can't help\nbut wonder if<n>I'm starting to become a nuisance."
+            "text": "Eu pretendo totalmente vê-la treinar<n>esta noite, mas não\nposso deixar de<n>me perguntar se estou começando a<n>me\ntornar um incômodo."
         },
         {
             "name": "",
@@ -181,34 +181,34 @@
         },
         {
             "name": "",
-            "text": "The door opens without issue..."
+            "text": "A porta abre sem problemas..."
         },
         {
             "name": "",
-            "text": "But I feel as if I'm dragged through it<n>by some immense\nforce.",
+            "text": "Mas sinto como se estivesse sendo<n>arrastado por ela por\nalguma força<n>imensa.",
             "choice_data_list": [
-                "What the..."
+                "Mas o que..."
             ]
         },
         {
             "name": "",
-            "text": "I quickly brush it off and make for the<n>track."
+            "text": "Eu rapidamente ignoro e sigo para a<n>pista."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Good evening. You're here... a bit<n>earlier than usual..."
+            "text": "Boa noite. Você está aqui... um pouco<n>mais cedo do que o\nnormal..."
         },
         {
             "name": "",
-            "text": "I can sense a hint of relief in her<n>voice."
+            "text": "Posso sentir um toque de alívio na<n>voz dela."
         },
         {
             "name": "",
-            "text": "The next day, I go out in search of<n>Manhattan Cafe at the\ncourses once<n>again. I'm greeted by a different face<n>\ninstead."
+            "text": "No dia seguinte, saio em busca de<n>Manhattan Cafe nos\ncampos de<n>treinamento mais uma vez. Em vez<n>disso, sou\nrecebido por um rosto<n>diferente."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Oho, searching for Cafe, are we?<n>You're not like most of the\nother<n>trainers, then.",
+            "text": "Oho, procurando pela Cafe, não é?<n>Você não é como a\nmaioria dos outros<n>treinadores, então.",
             "choice_data_list": [
                 "Agnes Tachyon...",
                 "Agnes Tachyon..."
@@ -216,65 +216,65 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hehe. Why don't you come with me<n>instead? Your\nmannerisms fascinate<n>me."
+            "text": "Hehe. Por que você não vem comigo<n>em vez disso? Seus\nmaneirismos me<n>fascinam, meu ratinho de laboratório."
         },
         {
             "name": "Manhattan Cafe",
-            "text": "Isn't that..."
+            "text": "Aquilo não é..."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Welcome to my laboratory!<n>Impressive, is it not? Oh, and the\nother<n>half is Cafe's space."
+            "text": "Bem-vindo ao meu laboratório!<n>Impressionante, não é? Ah,\ne a outra<n>metade é o espaço da Cafe."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I would urge you not to touch<n>anything over there. I\nrummaged<n>through her articles once, and the<n>amount of\nresearch material that<n>spontaneously combusted in the<n>\naftermath was enough to bring me to<n>tears."
+            "text": "Eu recomendo fortemente que você<n>não toque em nada por\nlá. Eu<n>vasculhei os artigos dela uma vez, e<n>a quantidade\nde material de pesquisa<n>que entrou em combustão<n>\nespontânea logo depois foi o<n>suficiente para me levar às\nlágrimas."
         },
         {
             "name": "",
-            "text": "What a strange space. Though I can<n>observe it with my own\neyes, it feels<n>as if it lies within a separate<n>dimension\nentirely."
+            "text": "Que espaço estranho. Embora eu<n>possa observá-lo com\nmeus próprios<n>olhos, parece estar dentro de uma<n>\ndimensão totalmente separada."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Perhaps if I were a psychologist, I<n>would be more keen on\nunraveling its<n>mysteries."
+            "text": "Talvez se eu fosse uma psicóloga,<n>estaria mais interessada\nem<n>desvendar seus mistérios."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Tell me, though. What do you think of<n>this \"friend\" that Cafe\nis always<n>speaking of? Do you believe she<n>exists?",
+            "text": "Diga-me, porém. O que você acha<n>desta amiga\" de quem\nCafe está<n>sempre falando? Você acredita que<n>ela existe?\"",
             "choice_data_list": [
-                "Yes, because Cafe says she does."
+                "Sim, porque a Cafe diz que ela existe."
             ]
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I see. \"Existence\" itself begs<n>definition, but setting that\naside—you<n>trust in that which neither you nor I,<n>nor anyone\nelse can physically<n>observe."
+            "text": "Entendo. A existência\" em si implora<n>por uma definição,\nmas deixando isso<n>de lado — você confia naquilo que<n>nem\nvocê nem eu, nem mais ninguém<n>pode observar\nfisicamente.\""
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Not very scientific of you, I must say.<n>What gives you such\nconfidence?",
+            "text": "Nada científico de sua parte, devo<n>dizer. O que lhe dá\ntamanha<n>confiança?",
             "choice_data_list": [
-                "Simply observing something isn't everything."
+                "Simplesmente observar algo não é tudo."
             ]
         },
         {
             "name": "",
-            "text": "Merely shifting your position can<n>change your field of view.\nSurely it<n>follows that things can exist outside<n>our\nperception, visible only to another."
+            "text": "Apenas mudar sua posição pode<n>mudar seu campo de\nvisão.<n>Certamente se conclui que as coisas<n>podem existir\nfora da nossa<n>percepção, visíveis apenas para<n>outros."
         },
         {
             "name": "",
-            "text": "Thinking this argument to be ironclad,<n>I express it to Agnes\nTachyon..."
+            "text": "Pensando que esse argumento é<n>irrefutável, eu o expresso\npara Agnes<n>Tachyon..."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ahahahaha! Wonderful! Even I<n>cannot deny that there is a\nplethora of<n>possibilities yet unknown!"
+            "text": "Ahahahaha! Maravilhoso! Nem<n>mesmo eu posso negar que\nexiste<n>uma infinidade de possibilidades<n>ainda\ndesconhecidas!"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hehehe. I trust now that you won't<n>be a waste of my time."
+            "text": "Hehehe. Agora confio que você não<n>será um desperdício do\nmeu tempo."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I'm feeling quite invigorated indeed.<n>Come, let me prepare\nyou some tea.<n>What? Don't fuss over the<n>incandescent\nglow!"
+            "text": "Sinto-me bastante revigorada, de fato.<n>Venha, deixe-me\npreparar um chá<n>para você. O quê? Não se preocupe<n>com\no brilho incandescente!"
         },
         {
             "name": "Manhattan Cafe",
@@ -282,7 +282,7 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "So even without seeing my friend,<n>that trainer..."
+            "text": "Então, mesmo sem ver minha amiga,<n>aquele treinador..."
         }
     ]
 }

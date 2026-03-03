@@ -1,7 +1,15 @@
 {
     "ordinal_types": [],
     "months": [],
-    "use_text_wrapper": false,
+    "use_text_wrapper": true,
+        "wrapper_penalties": {
+        "nline_penalty": 8,
+        "overflow_penalty": 18,
+        "short_last_line_fraction": 5,
+        "short_last_line_penalty": 8,
+        "hyphen_penalty": 0
+    },
+	"plural_form": "n == 1 ? 0 : 1",
     "auto_adjust_story_clip_length": false,
     "text_common_allow_overflow": false,
     "now_loading_comic_title_ellipsis": false,

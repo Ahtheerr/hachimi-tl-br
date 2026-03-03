@@ -2,117 +2,118 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "It's been a few days since I started<n>my life as a trainer at\nTracen<n>Academy."
+            "text": "Já faz alguns dias que comecei<n>minha vida como treinador\nna<n>Academia Tracen."
         },
         {
             "name": "???",
-            "text": "Error. Specified coordinates do not<n>correspond with target\nlocation."
+            "text": "Erro. Coordenadas especificadas não<n>correspondem ao\nlocal de destino."
         },
         {
             "name": "Monólogo",
-            "text": "While walking around the shopping<n>district, I notice an\nUmamusume<n>standing in the middle of the path."
+            "text": "Enquanto caminhava pelo distrito<n>comercial, percebo uma\nUmamusume<n>parada no meio do caminho."
         },
         {
             "name": "???",
-            "text": "GPS is currently unresponsive.<n>Detecting a shift in emotional<n>\nstate—\"despair\" has been identified.",
+            "text": "GPS não está respondendo no<n>momento. Detectando uma\nmudança<n>no estado emocional — \"desespero\"<n>identificado.",
             "choice_data_list": [
-                "...Hey, what's wrong?",
-                "...Hey, what's wrong?"
+                "...Ei, o que houve?",
+                "...Ei, o que houve?"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Tracen Academy trainer badge<n>confirmed. Hello. My name\nis Mihono<n>Bourbon."
+            "text": "...Distintivo de treinador da Academia<n>Tracen confirmado.\nOlá. Meu nome é<n>Mihono Bourbon."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I am currently experiencing \"despair\"<n>because I am unable\nto locate the new<n>training equipment store."
+            "text": "Estou vivenciando \"desespero\" no<n>momento porque sou\nincapaz de<n>localizar a nova loja de<n>equipamentos de\ntreino."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Upon inquiry, a passerby instructed<n>me to walk straight for\napproximately<n>one-hundred meters. However, the<n>\nprovided data appears incorrect."
+            "text": "Ao indagar, um transeunte me instruiu<n>a caminhar em linha\nreta por<n>aproximadamente cem metros. No<n>entanto, os\ndados fornecidos parecem<n>incorretos."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "In addition, my mobile device is<n>malfunctioning. I am unable\nto access<n>the GPS."
+            "text": "Além disso, meu dispositivo móvel<n>está com mau\nfuncionamento. Sou<n>incapaz de acessar o GPS."
         },
         {
             "name": "Monólogo",
-            "text": "Sensing her obvious confusion, I pull<n>out my phone and\nbegin to search on<n>the internet.",
+            "text": "Sentindo sua óbvia confusão, pego<n>meu celular e começo a\npesquisar na<n>internet.",
             "choice_data_list": [
-                "Let me give you a hand."
+                "Deixa que eu te dou uma mão."
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Thank you."
+            "text": "Obrigada."
         },
         {
             "name": "Monólogo",
-            "text": "I quickly find the store—just a mere<n>42 meters away.\nSquinting ahead, I<n>can make out the sign from here.",
+            "text": "Encontro a loja rapidamente — a<n>meros 42 metros de\ndistância.<n>Apertando os olhos, consigo avistar a<n>placa\ndaqui.",
             "choice_data_list": [
-                "Just walk a bit more that way and you'll see it. |\nJust walk a bit more that way and you'll see it."
+                "É só caminhar mais um pouco naquela direção e\nvocê verá.",
+                "É só caminhar mais um pouco naquela direção e\nvocê verá."
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Pardon. Please define \"a bit more.\"",
+            "text": "...Perdão. Por favor, defina \"mais um<n>pouco\".",
             "choice_data_list": [
-                "What?"
+                "O quê?"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "If possible, please quantify \"a bit<n>more\" in numerical terms.",
+            "text": "Se possível, por favor, quantifique<n>\"mais um pouco\" em\ntermos<n>numéricos.",
             "choice_data_list": [
-                "Umm, around 40 meters I guess?"
+                "Hum, uns 40 metros, eu acho?"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...\"Around?\"",
+            "text": "...\"Uns?\"",
             "choice_data_list": [
-                "...Exactly 42 meters."
+                "...Exatamente 42 metros."
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Thank you for confirming that the<n>store is 42 meters ahead.\nIt seems<n>that my original informant had<n>miscalculated the\ndistance."
+            "text": "Obrigada por confirmar que a loja<n>está a 42 metros à frente.\nParece que<n>meu informante original calculou mal<n>a\ndistância."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Regardless, this could have been<n>avoided had I done\nsufficient<n>research. I will log this event in my<n>database to\nprevent future<n>occurrences."
+            "text": "Independentemente, isso poderia ter<n>sido evitado se eu\ntivesse feito<n>pesquisas suficientes. Vou registrar<n>este\nevento no meu banco de dados<n>para evitar ocorrências\nfuturas."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Once again, thank you for your<n>assistance."
+            "text": "Mais uma vez, obrigada por sua<n>assistência."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Destination—42 meters ahead.<n>Commencing navigation.",
+            "text": "Destino — 42 metros à frente.<n>Iniciando navegação.",
             "choice_data_list": [
-                "(She's a strange one, that's for sure...)"
+                "(Ela é bem estranha, com certeza...)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I keep watch as she heads down the<n>street, then\ndisappears into the correct<n>shop."
+            "text": "Fico observando enquanto ela segue<n>pela rua, e então\ndesaparece na loja<n>correta."
         },
         {
             "name": "Monólogo",
-            "text": "The day after that odd encounter, I<n>stop by a mock race,\nhoping to scout a<n>few students."
+            "text": "No dia seguinte a esse encontro<n>estranho, dou uma\npassada em uma<n>corrida simulada, esperando recrutar<n>\nalgumas alunas."
         },
         {
             "name": "Novo Treinador",
-            "text": "Hey, isn't Mihono Bourbon here<n>today? I heard she did well\nin her<n>races before admission to Tracen."
+            "text": "Ei, a Mihono Bourbon não está aqui<n>hoje? Ouvi dizer que\nela se saiu bem<n>nas corridas antes de entrar na<n>Tracen."
         },
         {
-            "name": "Treinador(a) Habilidoso(a)",
-            "text": "Oh, that cyborg of a student? I think I<n>saw her around,\nthough I wouldn't get<n>my hopes up if I were you."
+            "name": "Treinadora Habilidosa",
+            "text": "Ah, aquela aluna ciborgue? Acho que<n>a vi por aí, mas eu\nnão criaria<n>esperanças se fosse você."
         },
         {
             "name": "Monólogo",
-            "text": "The voices of excited trainers drown<n>each other out as\neveryone gathers<n>information. An electric buzz fills the<n>air\nas the clock counts down."
+            "text": "As vozes de treinadores animados se<n>abafam enquanto\ntodos reúnem<n>informações. Um zumbido elétrico<n>preenche\no ar enquanto o relógio faz a<n>contagem regressiva."
         },
         {
             "name": "Monólogo",
@@ -120,107 +121,107 @@
         },
         {
             "name": "Monólogo",
-            "text": "The sound of the opening gates<n>echoes through the stadium\nas<n>participants charge down the track."
+            "text": "O som dos portões se abrindo ecoa<n>pelo estádio enquanto\nas participantes<n>disparam pela pista."
         },
         {
             "name": "Novo Treinador",
-            "text": "Do you see the one in front? Look at<n>her go!"
+            "text": "Está vendo aquela na frente? Olha só<n>como ela corre!"
         },
         {
             "name": "Monólogo",
-            "text": "Leading the pack is Mihono Bourbon,<n>determined to put\ndistance between<n>her and the rest."
+            "text": "Liderando o pelotão está Mihono<n>Bourbon, determinada a\ncolocar<n>distância entre ela e o resto."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "<I>Pant, pant!</I>"
+            "text": "<I>Arf, arf!</I>"
         },
         {
-            "name": "Treinador(a) Habilidoso(a)",
-            "text": "The rumors were right—her speed is<n>really something else.\nThis<n>newcomer's gonna change the game<n>for sprinters!"
+            "name": "Treinadora Habilidosa",
+            "text": "Os rumores estavam certos — a<n>rapidez dela é realmente de\noutro<n>nível. Essa novata vai mudar o jogo<n>para as\nvelocistas!"
         },
         {
             "name": "Monólogo",
-            "text": "Mihono Bourbon charges ahead of<n>her opponents with\noverwhelming<n>force. Her lone figure quickly<n>approaches\nthe goal."
+            "text": "Mihono Bourbon avança à frente de<n>suas oponentes com\numa força<n>esmagadora. Sua figura solitária se<n>aproxima\nrapidamente da chegada."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "<I>Huff, huff!</I>"
+            "text": "<I>Arf, arf!</I>"
         },
         {
             "name": "Monólogo",
-            "text": "Without losing her lead even once,<n>she calmly crosses the\nfinish line in a<n>convincing show of power.",
+            "text": "Sem perder a liderança sequer uma<n>vez, ela cruza\ncalmamente a linha de<n>chegada em uma demonstração<n>\nconvincente de força.",
             "choice_data_list": [
-                "(What a crazy amount of talent!)",
-                "(What a crazy amount of talent!)"
+                "(Que talento absurdo!)",
+                "(Que talento absurdo!)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "A sense of complete awe washes<n>over me—it's almost\nhard to believe<n>the lost Umamusume I met days ago<n>is the\nsame person!"
+            "text": "Um sentimento de total admiração me<n>invade — é quase\ndifícil acreditar que a<n>Umamusume perdida que conheci<n>\ndias atrás é a mesma pessoa!"
         },
         {
             "name": "Novo Treinador",
-            "text": "That potential... I gotta scout her<n>before the others do!",
+            "text": "Aquele potencial... Preciso recrutá-la<n>antes dos outros!",
             "choice_data_list": [
-                "(He's right! I need to hurry!)",
-                "(He's right! I need to hurry!)"
+                "(Ele tem razão! Preciso me apressar!)",
+                "(Ele tem razão! Preciso me apressar!)"
             ]
         },
         {
-            "name": "Treinador(a) Habilidoso(a)",
-            "text": "You're too late. She's already got a<n>trainer.",
+            "name": "Treinadora Habilidosa",
+            "text": "Você chegou tarde demais. Ela já<n>tem um treinador.",
             "choice_data_list": [
-                "What?!"
+                "O quê?!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "And sure enough, I find Mihono<n>Bourbon talking to\nsomeone.",
+            "text": "E, com certeza, encontro Mihono<n>Bourbon conversando\ncom alguém.",
             "choice_data_list": [
-                "(Darn it!)"
+                "(Droga!)"
             ]
         },
         {
             "name": "Novo Treinador",
-            "text": "Looks like she's with a veteran too.<n>Agh, better luck next\ntime I guess."
+            "text": "Parece que ela está com um veterano<n>também. Ah, mais\nsorte na próxima,<n>eu acho."
         },
         {
-            "name": "Treinador(a) Habilidoso(a)",
-            "text": "I'm surprised you didn't know. That<n>trainer's been gushing\nabout how<n>he'll make Bourbon the perfect<n>sprinter."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Reluctantly accepting defeat, I decide<n>to quietly support\nMihono Bourbon<n>from the sidelines."
+            "name": "Treinadora Habilidosa",
+            "text": "Estou surpresa que você não sabia.<n>Aquele treinador vive\nse gabando de<n>como fará da Bourbon a velocista<n>perfeita."
         },
         {
             "name": "Monólogo",
-            "text": "With the sun long past set, I start<n>making my way back\nhome—only to<n>notice someone on the track."
+            "text": "Aceitando a derrota relutantemente,<n>decido apoiar\nsilenciosamente Mihono<n>Bourbon dos bastidores."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com o sol já posto há muito tempo,<n>começo a fazer meu\ncaminho de volta<n>para casa — apenas para notar<n>alguém\nna pista."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "<I>Pant, pant.</I>",
+            "text": "<I>Arf, arf.</I>",
             "choice_data_list": [
                 "(Mihono Bourbon?)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "It looks like she's doing some<n>evening training by herself."
+            "text": "Parece que ela está fazendo um<n>treino noturno sozinha."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Hah... 1,800 meters completed. 1,200<n>meters remaining.\nTime—2:04. Speed<n>insufficient to meet target!"
+            "text": "Hah... 1.800 metros concluídos. 1.200<n>metros restantes.\nTempo — 2:04.<n>Rapidez insuficiente para atingir o<n>alvo!"
         },
         {
             "name": "Monólogo",
-            "text": "Curious, I listen to Mihono Bourbon<n>calculating her time and\ndistance—until<n>something hits me.",
+            "text": "Curioso, escuto Mihono Bourbon<n>calculando seu tempo e\ndistância — até<n>que algo me atinge.",
             "choice_data_list": [
-                "(Wait... 3,000 meters?!)"
+                "(Espere... 3.000 metros?!)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "My mind reels at the number. It's<n>practically unheard of for\npre-debut<n>racers to attempt such long distances.<n>The risk\nof injury is too great!"
+            "text": "Minha mente vacila com o número. É<n>praticamente inédito\nque corredoras<n>pré-estreia tentem distâncias tão<n>longas. O\nrisco de lesão é grande<n>demais!"
         },
         {
             "name": "Mihono Bourbon",
@@ -239,7 +240,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Panicking, I rush to Mihono<n>Bourbon's side to check on her."
+            "text": "Em pânico, corro para o lado de<n>Mihono Bourbon para ver\ncomo ela<n>está."
         }
     ]
 }

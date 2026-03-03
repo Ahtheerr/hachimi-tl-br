@@ -2,271 +2,272 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "A few days before tryouts..."
+            "text": "Alguns dias antes das seletivas..."
         },
         {
             "name": "Monólogo",
-            "text": "It's the weekend. I'm walking along<n>the riverbank when I\nsee Eishin Flash<n>training."
+            "text": "É fim de semana. Estou caminhando<n>pela margem do rio\nquando vejo<n>Eishin Flash treinando."
         },
         {
             "name": "Eishin Flash",
-            "text": "<I>Pant, pant...</I> Break time."
+            "text": "<I>Arf, arf...</I> Hora do intervalo."
         },
         {
             "name": "Monólogo",
-            "text": "It looks like she's training fairly<n>intensely. It's clear from\nher strained<n>expression that she's fatigued."
+            "text": "Parece que ela está treinando de<n>forma bastante intensa.\nFica claro por<n>sua expressão tensa que ela está<n>fadigada."
         },
         {
             "name": "Eishin Flash",
-            "text": "<i>Pant, pant...</i> Break time... over.",
+            "text": "<i>Arf, arf...</i> Hora do intervalo...<n>acabou.",
             "choice_data_list": [
-                "(That was fast!)"
+                "(Isso foi rápido!)"
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "<i>Huff...</i> Next is—",
+            "text": "<i>Arf...</i> O próximo é—",
             "choice_data_list": [
-                "You should really take a longer break!"
+                "Você deveria mesmo fazer um intervalo maior!"
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "Huh? ...Who are you?"
+            "text": "Hã? ...Quem é você?"
         },
         {
             "name": "Monólogo",
-            "text": "After introducing myself as an<n>academy trainer, I point out\nthat she<n>obviously needs more rest, but..."
+            "text": "Depois de me apresentar como um<n>treinador da academia,\naponto que ela<n>obviamente precisa de mais<n>descanso,\nmas..."
         },
         {
             "name": "Eishin Flash",
-            "text": "No, I... I'm just fine. The short break<n>times are accounted\nfor in my<n>schedule."
+            "text": "Não, eu... estou perfeitamente bem. Os<n>tempos de intervalo\ncurtos estão<n>contabilizados no meu cronograma."
         },
         {
             "name": "Eishin Flash",
-            "text": "It's 3 p.m., and my fatigue is at<n>predicted levels. I plan to\ncatch my<n>breath during the thirty-minute break<n>coming up."
+            "text": "São 15h, e minha fadiga está em<n>níveis previstos. Planejo\nrecuperar o<n>fôlego durante o intervalo de trinta<n>minutos\nque se aproxima."
         },
         {
             "name": "Monólogo",
-            "text": "It sounds like her absolute confidence<n>in her schedule\nwon't allow her to<n>stray from it. But I wonder...",
+            "text": "Parece que sua confiança absoluta<n>em seu cronograma não\na permite se<n>desviar dele. Mas eu me pergunto...",
             "choice_data_list": [
-                "Let's say something unplanned for happens.\nWhat then?",
-                "Let's say something unplanned for happens.\nWhat then?"
+                "Digamos que algo não planejado aconteça. O\nque fará então?",
+                "Digamos que algo não planejado aconteça. O\nque fará então?"
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "Of course, I have included a certain<n>amount of buffer time.\nFor example,<n>your talking to me has caused a delay<n>of\nfour minutes and twenty-five<n>seconds.",
+            "text": "Claro, incluí uma certa quantidade de<n>tempo de reserva. Por\nexemplo, sua<n>conversa comigo causou um atraso<n>de\nquatro minutos e vinte e cinco<n>segundos.",
             "choice_data_list": [
-                "Ah... Sorry about that."
+                "Ah... Sinto muito por isso."
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "No, it's all right. If I scratch my next<n>five-minute break, I'll\nbe back on<n>schedule.",
+            "text": "Não, tudo bem. Se eu cancelar meu<n>próximo intervalo de\ncinco minutos,<n>estarei de volta ao cronograma.",
             "choice_data_list": [
-                "You're gonna get rid of a break?!",
-                "You're gonna get rid of a break?!"
+                "Você vai eliminar um intervalo?!",
+                "Você vai eliminar um intervalo?!"
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "It's pushing my limits, I am aware. As<n>I have an immediate\ngoal to<n>accomplish, my current schedule is<n>tighter than\nusual."
+            "text": "Está forçando meus limites, estou<n>ciente. Como tenho um\nobjetivo<n>imediato a cumprir, meu cronograma<n>atual está\nmais apertado que o<n>normal."
         },
         {
             "name": "Eishin Flash",
-            "text": "And following it perfectly is my top<n>priority. If I don't, I...",
+            "text": "E segui-lo perfeitamente é minha<n>prioridade máxima. Se eu\nnão o fizer,<n>eu...",
             "choice_data_list": [
                 "(...?)"
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "...It's been five minutes and forty-five<n>seconds. I can't\nafford to lose any<n>more time, so please excuse me."
+            "text": "...Já se passaram cinco minutos e<n>quarenta e cinco\nsegundos. Não posso<n>me dar ao luxo de perder mais tempo,<n>\nentão, por favor, com licença."
         },
         {
             "name": "Eishin Flash",
-            "text": "I forgot to say—I appreciate you<n>showing concern for me. I'll\nbe going<n>now."
+            "text": "Esqueci de dizer — agradeço por<n>mostrar preocupação\ncomigo. Estou<n>indo agora."
         },
         {
             "name": "Monólogo",
-            "text": "Eishin Flash is determined to win her<n>race, no question.\nHowever, it's<n>apparent she's so determined that<n>it's\nstressing her out."
+            "text": "Eishin Flash está determinada a<n>vencer sua corrida, sem\ndúvida. No<n>entanto, é visível que ela está tão<n>determinada\nque isso a está<n>estressando."
         },
         {
             "name": "Monólogo",
-            "text": "Tryouts are important, sure, but<n>they're held throughout the\nyear.<n>Could there be some reason why she<n>has to debut\nnow?"
+            "text": "As seletivas são importantes, claro,<n>mas são realizadas\ndurante todo o<n>ano. Poderia haver algum motivo para<n>ela\nter que estrear agora?"
         },
         {
             "name": "Smart Falcon",
-            "text": "Why, hello there. ☆ Have time for a<n>quick chat?",
+            "text": "Ora, olá. ☆ Tem tempo para um papo<n>rapidinho?",
             "choice_data_list": [
-                "Oh! Uh, hey.",
-                "Oh! Uh, hey."
+                "Oh! Er, oi.",
+                "Oh! Er, oi."
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "Flash is my roommate, you see. So I<n>know all about just\nhow hard she's<n>been training.",
+            "text": "A Flash é minha colega de quarto,<n>entende. Então eu sei\ntudo sobre o<n>quão duro ela tem treinado.",
             "choice_data_list": [
-                "Would you happen to know why as well?"
+                "Por acaso você também saberia o porquê?"
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "Hehe. Of course! But keep all this off<n>the record, mkay?"
+            "text": "Hehe. Claro! Mas mantenha tudo<n>isso em off, tá bom?"
         },
         {
             "name": "Smart Falcon",
-            "text": "So for the upcoming tryouts, her<n>parents are apparently\ncoming all the<n>way from Germany to watch!",
+            "text": "Então, para as próximas seletivas, os<n>pais dela\naparentemente vêm lá da<n>Alemanha para assistir!",
             "choice_data_list": [
-                "Her parents?"
+                "Os pais dela?"
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "Her family runs, like, a popular cake<n>shop, right? So they're\ntaking time out<n>of their super busy schedule to<n>visit—that's\nwhy Flash is trying so<n>hard."
+            "text": "A família dela gerencia tipo uma<n>confeitaria popular, né?\nEntão eles<n>estão tirando um tempo de seus<n>cronogramas\nsuperocupados para<n>visitar — é por isso que a Flash está<n>\nse esforçando tanto."
         },
         {
             "name": "Monólogo",
-            "text": "Well, that certainly answers why<n>she's going all out for this\nrace. But<n>even so, being so strict about her<n>schedule isn't\nthe only way to<n>improve."
+            "text": "Bem, isso certamente responde por<n>que ela está dando\ntudo de si para<n>esta corrida. Mas mesmo assim, ser<n>tão\nrigorosa com seu cronograma não<n>é a única forma de\nevoluir."
         },
         {
             "name": "Smart Falcon",
-            "text": "At any rate, that's just about all I can<n>say.",
+            "text": "De qualquer forma, isso é<n>praticamente tudo o que posso\ndizer.",
             "choice_data_list": [
-                "Can I ask why you told me?",
-                "Can I ask why you told me?"
+                "Posso perguntar por que você me contou?",
+                "Posso perguntar por que você me contou?"
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "Mmm, my Falco senses were just<n>telling me I should. ☆"
+            "text": "Mmm, meus sentidos de Falco<n>estavam apenas me\ndizendo que eu<n>deveria. ☆"
         },
         {
             "name": "Smart Falcon",
-            "text": "When I saw the two of you talking, I<n>got this feeling—maybe\nyou'd be able<n>to understand how amazing she is. ☆",
+            "text": "Quando vi vocês dois conversando,<n>tive esse\npressentimento — talvez<n>você fosse capaz de entender o\nquão<n>incrível ela é. ☆",
             "choice_data_list": [
                 "...?"
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "You're curious about Flash, aren't<n>you? Make sure you\nkeep your eyes<n>on her. ☆"
+            "text": "Você está curioso sobre a Flash, não<n>está? Certifique-se de\nmanter seus<n>olhos nela. ☆"
         },
         {
             "name": "Monólogo",
-            "text": "It's now the day before tryouts, and<n>I'm mulling over what\nexactly Smart<n>Falcon meant as I walk across<n>campus."
+            "text": "Agora é o dia anterior às seletivas, e<n>estou refletindo sobre\no que<n>exatamente a Smart Falcon quis dizer<n>enquanto\ncaminho pelo campus."
         },
         {
             "name": "Eishin Flash",
             "text": "Toi, toi, toi...",
             "choice_data_list": [
-                "(What's that sound? And that voice, is that...)"
+                "(Que som é esse? E essa voz, é a...)"
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "Ah... We met the other day.",
+            "text": "Ah... Nós nos encontramos no outro<n>dia.",
             "choice_data_list": [
-                "Were you making a noise just now?"
+                "Você estava fazendo algum barulho agora há\npouco?"
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "It's this German good luck charm my<n>parents taught me."
+            "text": "É um amuleto de boa sorte alemão<n>que meus pais me\nensinaram."
         },
         {
             "name": "Eishin Flash",
-            "text": "You tap your desk three times while<n>chanting, \"Toi, toi, toi.\"\nThe noise<n>wards off evil and brings good luck,<n>\nsupposedly."
+            "text": "Você bate na mesa três vezes<n>enquanto entoa: \"Toi, toi,\ntoi.\" O ruído<n>afasta o mal e traz boa sorte,<n>supostamente."
         },
         {
             "name": "Eishin Flash",
-            "text": "I know it probably doesn't actually do<n>anything, but I want\nto make sure<n>everything goes according to plan<n>tomorrow.",
+            "text": "Sei que provavelmente não faz nada<n>de fato, mas quero\ngarantir que tudo<n>saia conforme o planejado amanhã.",
             "choice_data_list": [
-                "Something got you worried?",
-                "Something got you worried?"
+                "Algo te deixou preocupada?",
+                "Algo te deixou preocupada?"
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "No, not exactly. It's just... my busy<n>parents have made time\nto come<n>watch my race tomorrow."
+            "text": "Não, exatamente. É que... meus pais<n>ocupados arranjaram\ntempo para vir<n>assistir à minha corrida amanhã."
         },
         {
             "name": "Eishin Flash",
-            "text": "I have to perform my job properly<n>and achieve perfect\nresults—it's my<n>duty, as their daughter."
+            "text": "Devo desempenhar meu trabalho<n>adequadamente e\nalcançar resultados<n>perfeitos — é meu dever, como filha<n>\ndeles."
         },
         {
             "name": "Eishin Flash",
-            "text": "If something goes awry, and my<n>results are... lacking, they\nwon't have<n>much to be proud of.",
+            "text": "Se algo der errado e meus resultados<n>forem...\ninsatisfatórios, eles não terão<n>muito do que se orgulhar.",
             "choice_data_list": [
-                "I don't know about that."
+                "Não sei se é bem assim."
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "What do you mean?"
+            "text": "O que você quer dizer?"
         },
         {
             "name": "Monólogo",
-            "text": "I can't pretend to know much about<n>her, much less her\nparents, but just<n>seeing her run is enough to know<n>how\nmuch effort she's put into this.",
+            "text": "Não posso fingir que sei muito sobre<n>ela, muito menos\nsobre seus pais,<n>mas apenas vê-la correr é o<n>suficiente\npara saber quanto esforço<n>ela dedicou a isso.",
             "choice_data_list": [
-                "Your hard work is something to be proud of. |\nYour hard work is something to be proud of."
+                "Seu trabalho árduo é algo para se orgulhar.",
+                "Seu trabalho árduo é algo para se orgulhar."
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "That... No, that's wrong. It makes light<n>of discipline and\nreason—nothing but<n>empty flattery.",
+            "text": "Isso... Não, isso está errado. Isso<n>desdenha da disciplina e\nda razão —<n>nada além de bajulação vazia.",
             "choice_data_list": [
                 "(...?)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I've just noticed that something's<n>off with her. She's short\nof breath,<n>and rather pale...",
+            "text": "Acabei de notar que algo está errado<n>com ela. Ela está com\nfalta de ar e<n>bastante pálida...",
             "choice_data_list": [
-                "Are you feeling all right?"
+                "Você está se sentindo bem?"
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "My schedule may have pushed me a<n>little past my limits,\nbut I did all I<n>needed to to improve."
+            "text": "Meu cronograma pode ter me forçado<n>um pouco além dos\nmeus limites, mas<n>fiz tudo o que era necessário para<n>\nevoluir."
         },
         {
             "name": "Eishin Flash",
-            "text": "Slight discomfort like this is within my<n>margin of error.\nBesides, today is a<n>rest day. I'll be fully recovered by<n>\ntomorrow."
+            "text": "Um leve desconforto como este está<n>dentro da minha\nmargem de erro.<n>Além disso, hoje é um dia de<n>descanso.\nEstarei totalmente<n>recuperada até amanhã."
         },
         {
             "name": "Monólogo",
-            "text": "There's no power in her voice, much<n>less conviction. I can't\nimagine her<n>bouncing back so soon.",
+            "text": "Não há energia em sua voz, muito<n>menos convicção. Não\nconsigo<n>imaginá-la se recuperando tão cedo.",
             "choice_data_list": [
-                "Might want to consider taking tomorrow off too..."
+                "Talvez queira considerar tirar o dia de folga\namanhã também..."
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "No, absolutely not!",
+            "text": "Não, absolutamente não!",
             "choice_data_list": [
                 "...!"
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "I have no plans to take tomorrow off.<n>I've worked hard to\nwin my race—to<n>achieve the perfect results!"
+            "text": "Não tenho planos de tirar folga<n>amanhã. Trabalhei duro para\nvencer<n>minha corrida — para alcançar os<n>resultados\nperfeitos!"
         },
         {
             "name": "Eishin Flash",
-            "text": "I can't deviate from my schedule<n>now—I do things as\nplanned until<n>they're finished. Or else... or... else..."
+            "text": "Não posso me desviar do meu<n>cronograma agora — eu faço\nas coisas<n>como planejado até que estejam<n>concluídas.\nCaso contrário... ou... se<n>não..."
         },
         {
             "name": "Monólogo",
-            "text": "<i>Thud.</i>",
+            "text": "<i>Tum.</i>",
             "choice_data_list": [
                 "Flash!"
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "Everything will be... thrown off..."
+            "text": "Tudo vai ser... desequilibrado..."
         }
     ]
 }

@@ -2,169 +2,170 @@
     "text_block_list": [
         {
             "name": "Mihono Bourbon",
-            "text": "Hydration levels, heart rate, and blood<n>pressure have all\nstabilized.<n>Maintenance complete."
+            "text": "Níveis de hidratação, frequência<n>cardíaca e pressão arterial<n>\nestabilizados. Manutenção concluída."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Thank you for your assistance. I will<n>take my leave now.",
+            "text": "Obrigada por sua assistência. Vou me<n>retirar agora.",
             "choice_data_list": [
-                "Hey, are you sure you're okay?",
-                "Hey, are you sure you're okay?"
+                "Ei, você tem certeza de que está bem?",
+                "Ei, você tem certeza de que está bem?"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Affirmative. My database shows that<n>losing consciousness\nis expected<n>after high levels of exertion. I am<n>currently\ntaking appropriate<n>countermeasures."
+            "text": "Afirmativo. Meu banco de dados<n>mostra que perder a\nconsciência é<n>esperado após altos níveis de<n>esforço.\nEstou tomando as<n>contramedidas apropriadas no<n>\nmomento."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "By current projections, I will have<n>sufficient energy to\nresume activity in<n>7 minutes and 28 seconds. I will<n>\ncontinue regulating my breath until<n>then."
+            "text": "Pelas projeções atuais, terei energia<n>suficiente para\nretomar a atividade em<n>7 minutos e 28 segundos.\nContinuarei<n>regulando minha respiração até lá."
         },
         {
             "name": "Monólogo",
-            "text": "I get the uneasy sense \"resume<n>activity\" means she's\nplanning to<n>resume <I>training.</I>",
+            "text": "Tenho a sensação preocupante de<n>que \"retomar a\natividade\" significa que<n>ela planeja retomar o <I>treino.</I>",
             "choice_data_list": [
-                "Once you feel better, you're going back home...\nright?",
-                "Once you feel better, you're going back home...\nright?"
+                "Assim que se sentir melhor, você vai voltar para\ncasa... certo?",
+                "Assim que se sentir melhor, você vai voltar para\ncasa... certo?"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Negative. There are 2,000 meters<n>remaining that I must run.",
+            "text": "Negativo. Restam 2.000 metros que<n>devo correr.",
             "choice_data_list": [
-                "Absolutely not!",
-                "Absolutely not!"
+                "Absolutamente não!",
+                "Absolutamente não!"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Why?"
+            "text": "Por quê?"
         },
         {
             "name": "Monólogo",
-            "text": "I explain to her the importance of<n>gradually building\nendurance. Taking<n>on long-distance training too early can<n>\ncause injuries."
+            "text": "Explico a ela a importância de<n>construir resistência\ngradualmente.<n>Fazer treinos de longa distância cedo<n>\ndemais pode causar lesões."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Acknowledged. However, I have a<n>goal I must achieve.",
+            "text": "Reconhecido. No entanto, tenho um<n>objetivo que devo\nalcançar.",
             "choice_data_list": [
-                "What goal?"
+                "Qual objetivo?"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "The Classic Triple Crown."
+            "text": "A Tríplice Coroa Clássica."
         },
         {
             "name": "Monólogo",
-            "text": "The Classic Triple Crown—a series of<n>medium- and\nlong-distance G1 races<n>consisting of the Satsuki Sho,<n>\nJapanese Derby, and Kikuka Sho.",
+            "text": "A Tríplice Coroa Clássica — uma série<n>de corridas G1 de\nmédia e longa<n>distância compostas pela Satsuki Sho,<n>\nDerby Japonês e Kikuka Sho.",
             "choice_data_list": [
-                "(Hm... Hang on...)"
+                "(Hum... Espere...)"
             ]
         },
         {
-            "name": "Treinador(a) Habilidoso(a)",
-            "text": "I'm surprised you didn't know. That<n>trainer's been gushing\nabout how<n>he'll make Bourbon the perfect<n>sprinter."
+            "name": "Treinadora Habilidosa",
+            "text": "Estou surpresa que você não sabia.<n>Aquele treinador vive\nse gabando de<n>como fará da Bourbon a velocista<n>perfeita."
         },
         {
             "name": "Monólogo",
-            "text": "If Mihono Bourbon's trainer is<n>prepping her for short\ndistances, why<n>is she here alone practicing for the<n>Classic\nTriple Crown?",
+            "text": "Se o treinador da Mihono Bourbon a<n>está preparando para\ndistâncias<n>curtas, por que ela está aqui sozinha<n>treinando\npara a Tríplice Coroa<n>Clássica?",
             "choice_data_list": [
-                "Does your trainer know what you're doing? |\nDoes your trainer know what you're doing?"
+                "O seu treinador sabe o que você está fazendo?",
+                "O seu treinador sabe o que você está fazendo?"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Well..."
+            "text": "Bom..."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "According to the Twinkle Series<n>database, you have attained\nwins in<n>26 graded races. Your skill in handling<n>medium-\nand long-distance races is<n>evident."
+            "text": "De acordo com o banco de dados da<n>Twinkle Series, o\nsenhor obteve<n>vitórias em 26 corridas classificadas.<n>Sua\nhabilidade em lidar com corridas<n>de média e longa distância\né evidente."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I would like your assistance in helping<n>me train for the\nClassic Triple Crown."
+            "text": "Gostaria de sua assistência para me<n>ajudar a treinar para a\nTríplice Coroa<n>Clássica."
         },
         {
             "name": "Treinador Veterano",
-            "text": "I hate to break it to you but... you're<n>just not cut out for long\ndistances. You<n>already know that, right?"
+            "text": "Sinto lhe dizer, mas... você<n>simplesmente não leva jeito\npara<n>longas distâncias. Você já sabe<n>disso, certo?"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Correct. My base specifications are<n>compatible with sprints.\nHowever, I<n>believe that I can increase my<n>stamina."
+            "text": "Correto. Minhas especificações<n>básicas são compatíveis\ncom sprints.<n>No entanto, acredito que posso<n>aumentar\nmeu vigor."
         },
         {
             "name": "Treinador Veterano",
-            "text": "There's a big chance you'd wind up<n>getting hurt."
+            "text": "Há uma grande chance de você<n>acabar se machucando."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Your concern is unnecessary. My<n>father was a trainer, so I\nhave run<n>exhaustive routines since youth. In<n>other words,\nI am used to it."
+            "text": "Sua preocupação é desnecessária.<n>Meu pai era mestre,\nentão executo<n>rotinas exaustivas desde a<n>juventude. Em\noutras palavras, estou<n>acostumada."
         },
         {
             "name": "Treinador Veterano",
-            "text": "<I>Sigh...</I>"
+            "text": "<I>Suspiro...</I>"
         },
         {
             "name": "Treinador Veterano",
-            "text": "Don't get distracted by unrealistic<n>goals. If you stick to what\nyou're<n>good at, you'll get a lot farther."
+            "text": "Não se distraia com objetivos irreais.<n>Se você focar no que\né boa, chegará<n>muito mais longe."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "In conclusion, he rejected my<n>proposal."
+            "text": "Em conclusão, ele rejeitou minha<n>proposta."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I issued two other messages in an<n>attempt to reach an\nagreement.<n>Unfortunately, I was met with silence.",
+            "text": "Enviei outras duas mensagens em<n>uma tentativa de chegar\na um acordo.<n>Infelizmente, recebi apenas silêncio.",
             "choice_data_list": [
-                "(...I get where he's coming from though.)"
+                "(...Mas eu entendo o lado dele.)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I saw for myself how good a sprinter<n>Mihono Bourbon is. It\nfeels like a<n>waste of talent..."
+            "text": "Eu vi com meus próprios olhos como<n>a Mihono Bourbon é\numa ótima<n>velocista. Parece um desperdício de<n>talento..."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "However, my objective remains the<n>Classic Triple Crown."
+            "text": "No entanto, meu objetivo continua<n>sendo a Tríplice Coroa\nClássica."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I compiled a training regimen to<n>customize my specifications\nfor<n>endurance."
+            "text": "Compilei um regime de treino para<n>customizar minhas\nespecificações<n>para resistência."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I intend to win a race of at least<n>medium distance, and\npresent<n>empirical data to my trainer in further<n>negotiations."
+            "text": "Pretendo vencer uma corrida de pelo<n>menos média distância\ne apresentar<n>dados empíricos ao meu mestre em<n>futuras\nnegociações."
         },
         {
             "name": "Monólogo",
-            "text": "The ambitious trainee's commitment<n>to her cause is clear,\nbut I can't shake<n>off the feeling that she'll run herself<n>into\ndanger.",
+            "text": "O comprometimento da aprendiz<n>ambiciosa com sua causa\né claro, mas<n>não consigo evitar a sensação de que<n>ela vai\nacabar se colocando em<n>perigo.",
             "choice_data_list": [
-                "Before we do anything rash, let's talk to your\ntrain—"
+                "Antes de fazermos algo precipitado, vamos falar\ncom seu mestre—"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "7 minutes and 30 seconds have<n>elapsed. My body is now\nstable."
+            "text": "7 minutos e 30 segundos se<n>passaram. Meu corpo agora\nestá<n>estável."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I will resume training. Goodbye.",
+            "text": "Retomarei o treino. Adeus.",
             "choice_data_list": [
-                "W-wait!"
+                "E-espera!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Without wasting a moment, the<n>student speeds off again\ninto the<n>night."
+            "text": "Sem perder um momento, a aluna<n>dispara novamente noite\nadentro."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "<I>Pant, pant!</I>"
+            "text": "<I>Arf, arf!</I>"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "(1,200 meters completed. Estimated<n>time of arrival at goal\nexceeds target.<n>Accelerating tempo.)"
+            "text": "(1.200 metros concluídos. Tempo<n>estimado de chegada ao\nobjetivo<n>excede o alvo. Acelerando o ritmo.)"
         },
         {
             "name": "Mihono Bourbon",
@@ -172,109 +173,109 @@
         },
         {
             "name": "Monólogo",
-            "text": "Even from afar, I can see Mihono<n>Bourbon struggling to run.",
+            "text": "Mesmo de longe, consigo ver Mihono<n>Bourbon lutando para\ncorrer.",
             "choice_data_list": [
-                "(I can't just stand here and do nothing!)"
+                "(Não posso ficar parado aqui sem fazer nada!)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I know I shouldn't contradict her<n>trainer's guidance, but... I\nrush over to<n>help Bourbon."
+            "text": "Sei que não deveria contradizer a<n>orientação do treinador\ndela, mas...<n>Corro para ajudar a Bourbon."
         },
         {
             "name": "Mihono Bourbon",
             "text": "Ahh... hah...",
             "choice_data_list": [
-                "...Pay attention to your lap time."
+                "...Preste atenção ao seu tempo de volta."
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Lap time?"
+            "text": "Tempo de volta?"
         },
         {
             "name": "Monólogo",
-            "text": "I carefully explain the importance of<n>pacing. Managing\none's stamina is<n>crucial, especially during extended<n>\nraces."
+            "text": "Explico cuidadosamente a<n>importância do ritmo. Controlar o\nvigor<n>é crucial, especialmente em corridas<n>longas."
         },
         {
             "name": "Monólogo",
-            "text": "Reminding Mihono Bourbon of her<n>analytical prowess, I\nsuggest that she<n>uses it to recalculate her time and<n>\ndistance while running.",
+            "text": "Lembrando Mihono Bourbon de sua<n>proeza analítica, sugiro\nque ela a use<n>para recalcular seu tempo e distância<n>\nenquanto corre.",
             "choice_data_list": [
-                "If you do that, I'm sure you'll improve."
+                "Se fizer isso, tenho certeza de que vai melhorar."
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Understood. Updating my database<n>accordingly. After I\nrecover, I will begin<n>my measurements.",
+            "text": "...Entendido. Atualizando meu banco<n>de dados conforme as\ninstruções.<n>Após me recuperar, começarei<n>minhas\nmedições.",
             "choice_data_list": [
-                "Sounds good. Why don't we start with 1,600\nmeters for now?"
+                "Parece bom. Por que não começamos com 1.600\nmetros por enquanto?"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "But—",
+            "text": "Mas—",
             "choice_data_list": [
-                "There's no need to rush.",
-                "There's no need to rush."
+                "Não há necessidade de pressa.",
+                "Não há necessidade de pressa."
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Affirmative. Adjusting speed<n>parameters to match a\n\"relaxed\"<n>tempo. Commencing new training<n>program."
+            "text": "...Afirmativo. Ajustando parâmetros<n>de rapidez para\ncorresponder a um<n>ritmo \"relaxado\". Iniciando novo<n>\nprograma de treino."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "<I>Pant, pant.</I>"
+            "text": "<I>Arf, arf.</I>"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "(400 meters completed according to<n>schedule. Increasing\ndistance to 600<n>meters. Prioritizing lap time.)"
+            "text": "(400 metros concluídos conforme o<n>cronograma.\nAumentando a distância<n>para 600 metros. Priorizando o\ntempo<n>de volta.)"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "<I>Pant, pant.</I>"
+            "text": "<I>Arf, arf.</I>"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "(Air intake regulation... confirmed.)"
+            "text": "(Regulação de entrada de ar...<n>confirmada.)"
         },
         {
             "name": "Monólogo",
-            "text": "And with those changes, Mihono<n>Bourbon safely completes\n1,600<n>meters."
+            "text": "E com essas mudanças, Mihono<n>Bourbon conclui com\nsegurança 1.600<n>metros."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Adding personal best to my<n>database.",
+            "text": "...Adicionando recorde pessoal ao<n>meu banco de dados.",
             "choice_data_list": [
-                "That was awesome! Congrats!"
+                "Isso foi incrível! Parabéns!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Without thinking, I start clapping my<n>hands to celebrate\nMihono Bourbon's<n>new record. She stares at me in<n>\nresponse, her face completely<n>expressionless."
+            "text": "Sem pensar, começo a bater palmas<n>para celebrar o novo\nrecorde de<n>Mihono Bourbon. Ela me encara em<n>resposta,\ncom o rosto completamente<n>inexpressivo."
         },
         {
             "name": "Mihono Bourbon",
             "text": "...",
             "choice_data_list": [
-                "...What's wrong?"
+                "...O que houve?"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Emotional status displays<n>characteristics of \"happiness.\""
+            "text": "...Estado emocional exibe<n>características de \"felicidade\"."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Your advice has been invaluable. I am<n>certain this brings me\none step closer<n>to the Triple Crown."
+            "text": "Seus conselhos foram inestimáveis.<n>Tenho certeza de que\nisso me deixa<n>um passo mais perto da Tríplice<n>Coroa."
         },
         {
             "name": "Monólogo",
-            "text": "Despite her seemingly stoic look, I<n>can't help but notice a\ntiny smile<n>forming around the corners of her<n>lips."
+            "text": "Apesar de sua aparência<n>aparentemente estoica, não posso<n>\ndeixar de notar um pequeno sorriso<n>se formando nos\ncantos de seus<n>lábios."
         },
         {
             "name": "Monólogo",
-            "text": "From that moment on, nightly trips to<n>the racecourse\nbecome routine as I<n>keep a close eye on Mihono Bourbon<n>\nto ensure her safety."
+            "text": "A partir daquele momento, as idas<n>noturnas ao hipódromo\ntornam-se<n>rotina enquanto mantenho um olhar<n>atento em\nMihono Bourbon para<n>garantir sua segurança."
         }
     ]
 }

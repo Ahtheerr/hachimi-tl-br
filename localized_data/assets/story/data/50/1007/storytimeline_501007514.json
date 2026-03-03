@@ -129,7 +129,8 @@
             "name": "Gold Ship",
             "text": "Viu como a bola desceu o<n>escorregador\nperfeitamente?! Essa<n>partida é minha!",
             "choice_data_list": [
-                "(Não tem como uma regra dessas existir...) |\n(Não tem como uma regra dessas existir...)"
+                "(Não tem como uma regra dessas existir...)",
+                "(Não tem como uma regra dessas existir...)"
             ]
         },
         {
@@ -140,7 +141,8 @@
             "name": "Gold Ship",
             "text": "Ufa... Tô exausta. E agora?",
             "choice_data_list": [
-                "Vou comprar umas bebidas pra gente. |\nProrrogação! Não desisto até vencer!"
+                "Vou comprar umas bebidas pra gente.",
+                "Prorrogação! Não desisto até vencer!"
             ]
         },
         {

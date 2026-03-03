@@ -1,189 +1,190 @@
 {
     "text_block_list": [
         {
-            "name": "",
-            "text": "It's finally the weekend. I head to the<n>mall to get some\nshopping done and<n>spot the one and only Mihono<n>\nBourbon."
+            "name": "Monólogo",
+            "text": "Finalmente é fim de semana. Vou ao<n>shopping fazer\nalgumas compras e<n>avisto a própria Mihono Bourbon."
         },
         {
             "name": "Mihono Bourbon",
             "text": "..."
         },
         {
-            "name": "",
-            "text": "She's standing outside of an arcade,<n>eyes fixed on the\nneon contraptions<n>inside.",
+            "name": "Monólogo",
+            "text": "Ela está parada do lado de fora de<n>um fliperama, com os\nolhos fixos nas<n>engenhocas de neon lá dentro.",
             "choice_data_list": [
-                "...Bourbon? What's wrong?",
-                "...Bourbon? What's wrong?"
+                "...Bourbon? O que houve?",
+                "...Bourbon? O que houve?"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I have observed that this arcade is<n>frequented by\nUmamusume with a<n>high \"sociability\" parameter.<n>\nHowever, I am unsure whether to<n>enter."
+            "text": "Observei que este fliperama é<n>frequentado por Umamusume\ncom um<n>alto parâmetro de \"sociabilidade\". No<n>entanto, não\ntenho certeza se devo<n>entrar."
         },
         {
-            "name": "",
-            "text": "After pressing for more details, she<n>tells me that the arcade\nis popular<n>among her classmates, so she came<n>to check it\nout as a conversational<n>topic."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "...I have difficulty operating machinery<n>and am liable to\ndestroy electronic<n>devices I come in contact with. I<n>\nassessed the machines in the arcade<n>and concluded that\nrisk management<n>would be necessary"
+            "name": "Monólogo",
+            "text": "Depois de insistir por mais detalhes,<n>ela me diz que o\nfliperama é popular<n>entre suas colegas, então ela veio<n>\nconferir como um tópico de conversa."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "due to their size."
-        },
-        {
-            "name": "",
-            "text": "For both Bourbon's sake and the<n>machines', I offer to\nshow her around."
+            "text": "...Tenho dificuldade em operar<n>máquinas e corro o risco de\ndestruir<n>dispositivos eletrônicos com os quais<n>entro em\ncontato. Avaliei as máquinas<n>do fliperama e concluí que o<n>\ngerenciamento de riscos seria<n>necessário"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I greatly appreciate your cooperation."
+            "text": "devido ao seu tamanho."
         },
         {
-            "name": "",
-            "text": "Waving my hand, I motion that it's no<n>problem. I decide that\nit would be safer<n>to have me controlling the arcade<n>\nmachines instead of her.",
+            "name": "Monólogo",
+            "text": "Tanto pelo bem da Bourbon quanto<n>pelo das máquinas,\nofereço-me para<n>mostrar o lugar a ela."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Agradeço imensamente sua<n>cooperação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Acenando, faço sinal de que não há<n>problema. Decido que\nseria mais<n>seguro eu controlar as máquinas do<n>fliperama\nem vez dela.",
             "choice_data_list": [
-                "It's not often we get to have days off. Let's\nhave fun!"
+                "Não é sempre que temos dias de folga. Vamos\nnos divertir!"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Understood. Initiating \"let's have fun\"<n>protocol."
+            "text": "Entendido. Iniciando protocolo<n>\"vamos nos divertir\"."
         },
         {
-            "name": "",
-            "text": "And so, our tour of the arcade begins."
+            "name": "Monólogo",
+            "text": "E assim, nosso passeio pelo<n>fliperama começa."
         },
         {
-            "name": "Rock, Paper, Scissors Game",
-            "text": "Rock, paper, scissors, shoot! Sorry,<n>you lost!"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "One win, nine losses. A substantial<n>drop in your happiness\nhas been<n>detected. May I offer some ice<n>cream? Sweets\nare known for their<n>mood-boosting properties."
-        },
-        {
-            "name": "Slot Machine",
-            "text": "Drumroll please... Congratulations!<n>You win!"
+            "name": "Pedra, Papel e Tesoura",
+            "text": "Pedra, papel, tesoura, vai! Sinto muito,<n>você perdeu!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "A considerable amount of coins are<n>spilling out of this\nmachine. Is it<n>malfunctioning?"
+            "text": "Uma vitória, nove derrotas. Uma<n>queda substancial em sua\nfelicidade<n>foi detectada. Posso oferecer um<n>sorvete?\nDoces são conhecidos por<n>suas propriedades de melhorar\no<n>humor."
         },
         {
-            "name": "Punching Bag Machine",
-            "text": "16,000 points! You sent that monster<n>flying!"
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Punching power has been recorded<n>as 16,000 points in my\ndatabase. Unit<n>of measurement unknown."
-        },
-        {
-            "name": "",
-            "text": "Despite her rather unorthodox<n>reactions, I can see Mihono\nBourbon<n>is enjoying the arcade."
-        },
-        {
-            "name": "",
-            "text": "It would be a waste to go home<n>without her playing at least\none game,<n>though. After a few minutes of<n>searching, I\npoint at a crane game."
+            "name": "Caça-Níqueis",
+            "text": "Rufem os tambores... Parabéns! Você<n>venceu!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Is this what you wish for me to play?<n>Your invitation is\nappreciated, but my<n>estimations show that I may<n>\npermanently put this device out of<n>service.",
+            "text": "Uma quantidade considerável de<n>moedas está saindo desta\nmáquina.<n>Ela está com mau funcionamento?"
+        },
+        {
+            "name": "Máquina de Saco de Pancadas",
+            "text": "16.000 pontos! Você mandou aquele<n>monstro pelos ares!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "A força do soco foi registrada como<n>16.000 pontos no meu\nbanco de<n>dados. Unidade de medida<n>desconhecida."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Apesar de suas reações um tanto<n>ortodoxas, consigo ver\nque Mihono<n>Bourbon está se divertindo no<n>fliperama."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seria um desperdício ir para casa<n>sem que ela jogasse pelo\nmenos<n>uma vez, no entanto. Após alguns<n>minutos de\nbusca, aponto para uma<n>máquina de garra."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "É isto que o Mestre deseja que eu<n>jogue? Agradeço o\nconvite, mas<n>minhas estimativas mostram que<n>posso\ninutilizar permanentemente este<n>dispositivo.",
             "choice_data_list": [
-                "Don't worry. I'll take care of the controls. |\nDon't worry, I'll take care of the controls."
+                "Não se preocupe. Eu cuido dos controles.",
+                "Não se preocupe, eu cuido dos controles."
             ]
         },
         {
-            "name": "",
-            "text": "I ask her to watch from the side and<n>provide instructions.\nContent, Mihono<n>Bourbon nods and positions herself."
+            "name": "Monólogo",
+            "text": "Peço para ela observar de lado e<n>fornecer instruções.\nSatisfeita, Mihono<n>Bourbon acena e se posiciona."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Understood. I will calculate distances<n>and supply directions."
+            "text": "Entendido. Vou calcular as distâncias<n>e fornecer as\ndireções."
         },
         {
-            "name": "",
-            "text": "Sliding a coin into the slot, the<n>machine whirs to life. We\nbegin aiming<n>for a bunny perched on top of the<n>toys."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Please move twenty-two<n>centimeters—yes, stop right there.<n>\nAccording to my analysis, we have a<n>98% chance of\nsuccess."
-        },
-        {
-            "name": "",
-            "text": "Nodding, I press the button to grab the<n>prize. The plastic\nclaw wraps around<n>the toy's neck."
-        },
-        {
-            "name": "",
-            "text": "<i>Flop.</i>"
-        },
-        {
-            "name": "",
-            "text": "The prize slips out and lands back<n>where it started."
+            "name": "Monólogo",
+            "text": "Inserindo uma moeda na fenda, a<n>máquina ganha vida.\nComeçamos a<n>mirar em um coelhinho empoleirado<n>no\ntopo dos brinquedos."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Lack of grip strength, noted.<n>Adjusting calculations."
+            "text": "Por favor, mova vinte e dois<n>centímetros — sim, pare bem aí.\nDe<n>acordo com minha análise, temos 98%<n>de chance de\nsucesso."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Acenando, aperto o botão para pegar<n>o prêmio. A garra de\nplástico envolve<n>o pescoço do brinquedo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Ploft.</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O prêmio escorrega e cai de volta<n>onde começou."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Initiating a new course of<n>action—pushing. With this, we\nhave an<n>estimated 91% chance of—"
-        },
-        {
-            "name": "",
-            "text": "<i>Flop.</i>"
+            "text": "...Falta de força de preensão anotada.<n>Ajustando cálculos."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...I have overestimated the arm's<n>maneuvering ability once\nagain.<n>Reanalyzing."
+            "text": "Iniciando um novo curso de ação —<n>empurrar. Com isto,\ntemos uma<n>chance estimada de 91% de —"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Ploft.</i>"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I predict a 75% chance of success—"
-        },
-        {
-            "name": "",
-            "text": "<i>Flop.</i>"
+            "text": "...Superestimei a capacidade de<n>manobra do braço mais\numa vez.<n>Reanalisando."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "... ...This contraption is proving to be a<n>fearsome foe."
+            "text": "Prevejo uma chance de 75% de<n>sucesso —"
         },
         {
-            "name": "",
-            "text": "I use up every trick I know, but the<n>stuffed animal remains\nunattainable."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "My apologies, Trainer. My failure in<n>ascertaining the arm's\nstrength led to<n>such disappointing results."
+            "name": "Monólogo",
+            "text": "<i>Ploft.</i>"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...However, I believe there is a 70%<n>chance that we will\nprocure the prize<n>on our next turn. I suggest a final<n>\nattempt."
+            "text": "... ...Esta engenhoca está provando<n>ser uma inimiga temível."
         },
         {
-            "name": "",
-            "text": "The sudden proposal contradicts her<n>usual passive attitude.\nShe must be<n><i>REALLY</i> determined to win.",
+            "name": "Monólogo",
+            "text": "Uso todos os truques que conheço,<n>mas o bicho de pelúcia\npermanece<n>inalcançável."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Minhas desculpas, Mestre. Minha<n>falha em determinar a\nforça do braço<n>levou a resultados tão<n>decepcionantes."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...No entanto, acredito que há 70% de<n>chance de\nconseguirmos o prêmio em<n>nossa próxima tentativa. Sugiro\numa<n>tentativa final."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A proposta repentina contradiz sua<n>atitude passiva habitual.\nEla deve<n>estar REALMENTE determinada a<n>vencer.",
             "choice_data_list": [
-                "Let's do it! We're definitely gonna get it this\ntime!"
+                "Vamos fazer isso! Com certeza vamos conseguir\ndesta vez!"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Understood. I will try my absolute<n>best."
+            "text": "Entendido. Vou dar o meu melhor<n>absoluto."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Please stop there. Now move forward<n>by fourteen\ncentimeters. We will push<n>the toy to the very edge and allow\nit to<n>fall naturally into the prize box."
+            "text": "Por favor, pare aí. Agora avance<n>quatorze centímetros.\nVamos empurrar<n>o brinquedo até a borda e permitir que<n>\nele caia naturalmente na caixa de<n>prêmios."
         },
         {
-            "name": "",
-            "text": "Biting my lip, I press the button to<n>grab the bunny. It falls,\nbalancing<n>precariously on the edge of the hole."
+            "name": "Monólogo",
+            "text": "Mordendo o lábio, aperto o botão<n>para pegar o coelhinho.\nEle cai,<n>equilibrando-se precariamente na<n>borda do\nburaco."
         },
         {
-            "name": "",
-            "text": "I hold my breath as if any movement<n>would throw the\nstuffed animal back<n>toward its friends. Glancing to my<n>\nside, I notice Mihono Bourbon doing<n>the same."
+            "name": "Monólogo",
+            "text": "Prendo a respiração, como se<n>qualquer movimento pudesse\njogar o<n>bicho de pelúcia de volta para junto<n>de seus\namigos. Olhando para o lado,<n>percebo Mihono Bourbon\nfazendo o<n>mesmo."
         },
         {
             "name": "Mihono Bourbon",
@@ -191,64 +192,64 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Come on!"
+            "text": "...Vamos!"
         },
         {
-            "name": "",
-            "text": "After losing its battle with gravity, the<n>bunny slides\ngracefully into the prize<n>box."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Thank you for your support. I am now<n>equipped to handle\nconversations<n>about arcades. What's most<n>interesting,\nhowever, is that I<n>experienced new sensations today."
+            "name": "Monólogo",
+            "text": "Após perder sua batalha com a<n>gravidade, o coelhinho\ndesliza<n>graciosamente para dentro da caixa<n>de prêmios."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "During our attempts at the claw game,<n>I observed new\nphysical responses. A<n>ticklish feeling occurred inside my<n>\nchest, along with involuntary<n>movements of my facial\nmuscles. I<n>have added these new"
+            "text": "Obrigada por seu apoio. Agora estou<n>equipada para lidar\ncom conversas<n>sobre fliperamas. O que é mais<n>\ninteressante, no entanto, é que<n>vivenciei novas sensações\nhoje."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "responses to my \"small talk\"<n>parameters.",
+            "text": "Durante nossas tentativas na<n>máquina de garra, observei\nnovas<n>respostas físicas. Uma sensação de<n>cócegas\nocorreu dentro do meu peito,<n>junto com movimentos\ninvoluntários<n>dos meus músculos faciais. Adicionei<n>estas\nnovas"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "respostas aos meus parâmetros de<n>\"conversa fiada\".",
             "choice_data_list": [
-                "It sounds like you had lots of fun."
+                "Parece que você se divertiu muito."
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Is this what you define \"fun\" as?"
+            "text": "...É isto que o senhor define como<n>\"diversão\"?"
         },
         {
-            "name": "",
-            "text": "Mihono Bourbon slowly lets the word<n>fall out of her mouth,\nas if uncertain<n>about its pronunciation. I gently<n>explain\nwhat those feelings mean."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "I see now."
+            "name": "Monólogo",
+            "text": "Mihono Bourbon deixa a palavra sair<n>lentamente de sua\nboca, como se<n>estivesse incerta sobre sua<n>pronúncia.\nExplico gentilmente o que<n>esses sentimentos significam."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "It seems illogical to experience \"fun\"<n>while doing something\nunproductive<n>such as capturing stuffed animals<n>with\nimplausibly weak mechanical<n>arms.",
+            "text": "Entendo agora."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Parece ilógico vivenciar \"diversão\"<n>enquanto faço algo\nimprodutivo, como<n>capturar bichos de pelúcia com<n>braços\nmecânicos implausivelmente<n>fracos.",
             "choice_data_list": [
-                "Well, I wouldn't call it that..."
+                "Bem, eu não chamaria assim..."
             ]
         },
         {
-            "name": "",
-            "text": "Carefully choosing my words, I<n>express the value of doing\nso-called<n>\"unproductive\" things from time to<n>time.",
+            "name": "Monólogo",
+            "text": "Escolhendo cuidadosamente minhas<n>palavras, expresso o\nvalor de fazer<n>coisas chamadas de \"improdutivas\"<n>de\ntempos em tempos.",
             "choice_data_list": [
-                "The main purpose is to enjoy ourselves."
+                "O objetivo principal é nos divertirmos."
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...I see. All of this information is quite<n>novel to me. It seems\nthat I have<n>entered a state of \"shock\" now."
+            "text": "...Entendo. Todas estas informações<n>são bastante novas\npara mim. Parece<n>que entrei em um estado de \"choque\"<n>\nagora."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I will input this new information in as<n>well. Perhaps\nseemingly meaningless<n>events are not so meaningless\nafter<n>all."
+            "text": "Vou inserir estas novas informações<n>também. Talvez\neventos<n>aparentemente sem sentido não<n>sejam tão sem\nsentido, afinal."
         },
         {
-            "name": "",
-            "text": "Gently petting the bunny we got<n>together, Mihono Bourbon\nponders<n>over her newly gleaned perspectives."
+            "name": "Monólogo",
+            "text": "Acariciando gentilmente o coelhinho<n>que pegamos juntos,\nMihono<n>Bourbon reflete sobre suas<n>perspectivas\nrecém-adquiridas."
         }
     ]
 }

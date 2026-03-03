@@ -14,7 +14,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Pois é! Eu treinei <i>muuuito</i> e comi<n><i>taaantas</i> cenouras,\ncomo eu não<n>estaria?!"
+            "text": "Pois é! Eu treinei <i>muuuito</i> e comi<n><i>taaantas</i>\ncenouras, como eu não<n>estaria?!"
         },
         {
             "name": "Haru Urara",
@@ -175,7 +175,8 @@
             "name": "Monólogo",
             "text": "Talvez seja isso que torne a Haru<n>Urara tão cativante para\nas pessoas<n>ao seu redor... incluindo eu.",
             "choice_data_list": [
-                "Então, quer tentar o primeiro lugar comigo? |\nEntão, quer tentar o primeiro lugar comigo?"
+                "Então, quer tentar o primeiro lugar comigo?",
+                "Então, quer tentar o primeiro lugar comigo?"
             ]
         },
         {

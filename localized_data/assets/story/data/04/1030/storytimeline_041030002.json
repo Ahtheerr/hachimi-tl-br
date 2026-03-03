@@ -2,82 +2,82 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "After not seeing her at the tryouts, I<n>find Rice Shower crying\nnear a stump."
+            "text": "Depois de não vê-la nas seletivas,<n>encontro Rice Shower\nchorando perto<n>de um toco."
         },
         {
             "name": "Rice Shower",
-            "text": "<i>Sniffle...</i> Um, I'm sorry, but...<n>could you not get any\ncloser?",
+            "text": "<i>Fungada...</i> Hum, me desculpe,<n>mas... poderia não\nchegar mais perto?",
             "choice_data_list": [
-                "Why not?",
-                "Why not?"
+                "Por que não?",
+                "Por que não?"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Because... I only bring misfortune<n>upon the people around\nme. I'll weigh<n>you down... I'm just a nuisance..."
+            "text": "Porque... eu só trago infelicidade para<n>as pessoas ao meu\nredor. Eu vou te<n>atrapalhar... eu sou apenas um<n>\nincômodo..."
         },
         {
             "name": "Rice Shower",
-            "text": "I wanted to be useful, to be strong... I<n>was going to give it\nmy all and enter a<n>race, but in the end..."
+            "text": "Eu queria ser útil, ser forte... eu ia dar<n>tudo de mim e entrar\nem uma corrida,<n>mas no fim..."
         },
         {
             "name": "Monólogo",
-            "text": "Looking at Rice Shower crying in front<n>of me, I think back to\nwhen I saw her<n>the other day."
+            "text": "Olhando para Rice Shower chorando<n>na minha frente,\nlembro-me de quando<n>a vi outro dia."
         },
         {
             "name": "Rice Shower",
-            "text": "Nuh-uh, I have to try even harder!"
+            "text": "Não, não, eu tenho que me esforçar<n>ainda mais!"
         },
         {
             "name": "Rice Shower",
-            "text": "I already made up my mind to enter<n>the upcoming tryouts.\nI'll actually<n>enter, actually run, and then..."
+            "text": "Eu já decidi participar das próximas<n>seletivas. Eu vou\nmesmo entrar, vou<n>mesmo correr, e então..."
         },
         {
             "name": "Rice Shower",
-            "text": "I'll make my debut and win a bunch<n>of races... Then, I\nwon't be a burden<n>anymore!"
+            "text": "Vou fazer minha estreia e vencer<n>várias corridas... Então,\nnão serei mais<n>um fardo!"
         },
         {
             "name": "Monólogo",
-            "text": "I don't know the details, but I do<n>know that she was trying\nto change<n>herself for the better. She was<n>training harder\nthan anyone else."
+            "text": "Não sei os detalhes, mas eu sei que<n>ela estava tentando\nmudar para<n>melhor. Ela estava treinando mais do<n>que\nqualquer outra pessoa."
         },
         {
             "name": "Rice Shower",
-            "text": "<i>Sob... sniffle...</i> I'm... I'm nothing<n>more than—"
+            "text": "<i>Soluço... fungada...</i> Eu... eu não<n>sou nada além de—"
         },
         {
             "name": "Monólogo",
-            "text": "I can't leave her like this!",
+            "text": "Não posso deixá-la assim!",
             "choice_data_list": [
-                "Rice Shower, I want to scout you!",
-                "Rice Shower, I want to scout you!"
+                "Rice Shower, eu quero te recrutar!",
+                "Rice Shower, eu quero te recrutar!"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Huh?"
+            "text": "Hein?"
         },
         {
             "name": "Rice Shower",
-            "text": "By scout, you mean... You want to be<n>my trainer?",
+            "text": "Recrutar, quer dizer... Você quer ser<n>meu treinador?",
             "choice_data_list": [
-                "Only if that's what you want too.",
-                "Only if that's what you want too."
+                "Só se for o que você quer também.",
+                "Só se for o que você quer também."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Ahhh... I-I'm, um... very, very happy,<n>but!"
+            "text": "Ahhh... E-eu estou, hum... muito, muito<n>feliz, mas!"
         },
         {
             "name": "Rice Shower",
-            "text": "I'm... just a good-for-nothing, you<n>know? I only cause\ntrouble for others,<n>and I can't even enter a race I signed<n>\nup for..."
+            "text": "Eu... sou apenas uma imprestável,<n>sabe? Eu só causo\nproblemas para<n>os outros, e nem consigo participar de<n>\numa corrida em que me inscrevi..."
         },
         {
             "name": "Rice Shower",
-            "text": "Knowing all that, do you still want me?",
+            "text": "Sabendo de tudo isso, você ainda me<n>quer?",
             "choice_data_list": [
-                "I want to help you move past all that.",
-                "I want to help you move past all that."
+                "Eu quero te ajudar a superar tudo isso.",
+                "Eu quero te ajudar a superar tudo isso."
             ]
         },
         {
@@ -86,206 +86,207 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Wow... Just like a real big brother...",
+            "text": "Uau... Igualzinho a um maninho de<n>verdade...",
             "choice_data_list": [
-                "Big brother?"
+                "Maninho?"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Wow... Just like a real big sister...",
+            "text": "Uau... Igualzinho a uma maninha de<n>verdade...",
             "choice_data_list": [
-                "Big brother?",
-                "Big sister?"
+                "Maninho?",
+                "Maninha?"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Ah! N-never mind, forget that!"
+            "text": "Ah! D-deixa para lá, esqueça isso!"
         },
         {
             "name": "Rice Shower",
-            "text": "But, um, if you're sure... then let's<n>get along, Trainer."
+            "text": "Mas, hum, se você tem certeza...<n>então vamos nos dar bem,\nTreinador."
         },
         {
             "name": "Rice Shower",
-            "text": "I'll give it everything I have!"
+            "text": "Eu vou dar tudo de mim!"
         },
         {
             "name": "Monólogo",
-            "text": "Wiping away her tears, Rice musters<n>all her strength and\nflashes me a<n>warm smile."
+            "text": "Limpando as lágrimas, Rice reúne<n>todas as suas forças e\nme lança um<n>sorriso caloroso."
         },
         {
             "name": "Monólogo",
-            "text": "It's time for my first training session<n>with Rice. I'm already\nat the track<n>waiting for her."
+            "text": "É hora da minha primeira sessão de<n>treino com a Rice. Já\nestou na pista<n>esperando por ela."
         },
         {
             "name": "Rice Shower",
-            "text": "<i>Huff, puff...</i>"
+            "text": "<i>Arf, arf...</i>"
         },
         {
             "name": "Monólogo",
-            "text": "Rice appears, lugging an enormous<n>backpack stuffed to\nbursting. She<n>drops it by the edge of the track and<n>runs\nover to me."
+            "text": "Rice aparece, carregando uma<n>mochila enorme, cheia até\nexplodir.<n>Ela a solta na beira da pista e corre<n>até mim."
         },
         {
             "name": "Rice Shower",
-            "text": "<i>Pant, pant...</i> S-sorry for the wait!<n>I'm looking forward to\ntoday's<n>training!",
+            "text": "<i>Arf, arf...</i> D-desculpa a demora!<n>Estou ansiosa pelo\ntreino de hoje!",
             "choice_data_list": [
-                "What's up with the luggage?"
+                "O que houve com a bagagem?"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Ah, um... They're all insurance in<n>case bad things happen\nwhile we're<n>here. Like bandages, or sports tape..."
+            "text": "Ah, hum... É tudo garantia caso coisas<n>ruins aconteçam\nenquanto estamos<n>aqui. Como curativos ou fita<n>\nesportiva..."
         },
         {
             "name": "Rice Shower",
-            "text": "Not to mention an umbrella in case it<n>rains, a change of\nclothes, and of<n>course—mayonnaise if we get<n>stranded on\nthe way back!",
+            "text": "Sem falar em um guarda-chuva caso<n>chova, uma muda de\nroupa e, claro,<n>maionese se ficarmos isolados no<n>caminho\nde volta!",
             "choice_data_list": [
-                "B-better safe than sorry, I guess?",
-                "B-better safe than sorry, I guess?"
+                "É-é melhor prevenir do que remediar, eu acho?",
+                "É-é melhor prevenir do que remediar, eu acho?"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Ah... I-it's our first training session<n>after all, so I wanted to\nmake sure I<n>didn't mess things up... Am I being<n>weird?",
+            "text": "Ah... É-é a nossa primeira sessão de<n>treino, afinal, então eu\nqueria ter<n>certeza de que não estragaria tudo...<n>Estou\nsendo estranha?",
             "choice_data_list": [
-                "Mess things up?"
+                "Estragar tudo?"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Mhm. Ever since I was little, I've<n>been causing all kinds of\nmisfortune."
+            "text": "Sim. Desde pequena, eu tenho<n>causado todo tipo de\ninfelicidade."
         },
         {
             "name": "Rice Shower",
-            "text": "The kids around me would trip, their<n>shoelaces would tear,\nand sometimes<n>even bird poop would land on their<n>\nheads..."
+            "text": "As crianças ao meu redor<n>tropeçavam, os cadarços delas<n>\narrebentavam e, às vezes, até cocô<n>de passarinho caía na\ncabeça delas..."
         },
         {
             "name": "Rice Shower",
-            "text": "I'm a hopeless girl who causes<n>trouble for others..."
+            "text": "Eu sou uma garota sem esperança<n>que causa problemas\npara os outros..."
         },
         {
             "name": "Monólogo",
-            "text": "They all sound like unlucky accidents<n>to me, but I guess\nshe's the kind of<n>person who feels responsible for<n>things\nlike that.",
+            "text": "Tudo isso me parece apenas<n>acidentes de azar, mas acho\nque ela é<n>o tipo de pessoa que se sente<n>responsável por\ncoisas desse tipo.",
             "choice_data_list": [
-                "(She really is a kind and caring soul...)",
-                "(She really is a kind and caring soul...)"
+                "(Ela é realmente uma alma bondosa e \ncarinhosa...)",
+                "(Ela é realmente uma alma bondosa e \ncarinhosa...)"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Ah! I've been talking too much again!<n>I'm so, so, <i>so</i>\nsorry!"
+            "text": "Ah! Eu falei demais de novo! Eu sinto<n>muito, muito,\n<i>muito</i> mesmo!"
         },
         {
             "name": "Rice Shower",
-            "text": "Let's just start training already!"
+            "text": "Vamos começar o treino de uma vez!"
         },
         {
             "name": "Monólogo",
-            "text": "Despite being our first training<n>session, Rice diligently\ncompletes the<n>entire training menu I prepared for<n>her."
+            "text": "Apesar de ser nossa primeira sessão<n>de treino, Rice\ncompleta diligentemente<n>todo o cardápio de treino que\npreparei<n>para ela."
         },
         {
             "name": "Rice Shower",
-            "text": "<i>Pant, pant...</i> Um... how was my<n>time?",
+            "text": "<i>Arf, arf...</i> Hum... como foi meu<n>tempo?",
             "choice_data_list": [
-                "Faster than expected! I'm super impressed! |\nFaster than expected! I'm super impressed!"
+                "Mais rápido do que o esperado! Estou super\nimpressionado!",
+                "Mais rápido do que o esperado! Estou super\nimpressionado!"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Really?! Th-that's a relief!"
+            "text": "Sério?! Q-que alívio!"
         },
         {
             "name": "Rice Shower",
-            "text": "Um... Trainer, do you mind if I go for<n>another run? I-I'm still\nfull of energy!"
+            "text": "Hum... Treinador, você se importa se<n>eu der outra corrida?\nE-eu ainda estou<n>cheia de energia!"
         },
         {
             "name": "Rice Shower",
-            "text": "I want to work some more on that<n>technique you taught me\nfor running<n>around curves."
+            "text": "Quero trabalhar mais naquela técnica<n>que você me ensinou\npara correr nas<n>curvas."
         },
         {
             "name": "Rice Shower",
-            "text": "I feel like I'm getting the hang of<n>speeding up my pace! I-is\nthat a no?",
+            "text": "Sinto que estou pegando o jeito de<n>aumentar o meu ritmo!\nI-isso é um<n>não?",
             "choice_data_list": [
-                "Not at all—go for it!",
-                "Not at all—go for it!"
+                "De jeito nenhum — vá em frente!",
+                "De jeito nenhum — vá em frente!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Thanks to Rice being eager and quick<n>to learn, we finish\ntoday's training<n>without a single problem."
+            "text": "Graças à Rice ser esforçada e rápida<n>em aprender,\nterminamos o treino de<n>hoje sem um único problema."
         },
         {
             "name": "Rice Shower",
-            "text": "Ah... M-Mr. Sun is already going to<n>bed..."
+            "text": "Ah... O s-senhor Sol já está indo<n>dormir..."
         },
         {
             "name": "Rice Shower",
-            "text": "I didn't notice at all until now... I was<n>just so happy to be\nrunning.",
+            "text": "Eu nem tinha notado até agora... Eu<n>só estava tão feliz por\nestar correndo.",
             "choice_data_list": [
-                "I'm glad you had fun today."
+                "Que bom que você se divertiu hoje."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Y-yeah! It was super fun, really!<n>You're so nice, Trainer...\njust like a<n>real big brother..."
+            "text": "S-sim! Foi super divertido, de<n>verdade! Você é tão gentil,\nTreinador...<n>igualzinho a um maninho de verdade..."
         },
         {
             "name": "Rice Shower",
-            "text": "Y-yeah! It was super fun, really!<n>You're so nice, Trainer...\njust like a<n>real big sister..."
+            "text": "S-sim! Foi super divertido, de<n>verdade! Você é tão gentil,<n>\nTreinadora... igualzinho a uma<n>maninha de verdade..."
         },
         {
             "name": "Monólogo",
-            "text": "<i>Growl...</i>"
+            "text": "<i>Ronco...</i>"
         },
         {
             "name": "Rice Shower",
-            "text": "Huh?! Ah, ah, ahhh, I'm sorry! Miss<n>Tummy, shhh—I said\nshhh!"
+            "text": "Hein?! Ah, ah, ahhh, me desculpe!<n>Dona Barriguinha, shhh —\neu disse<n>shhh!"
         },
         {
             "name": "Monólogo",
-            "text": "To commemorate an amazing first<n>training session, I decide\nto treat her to<n>dinner."
+            "text": "Para comemorar uma primeira<n>sessão de treino incrível,\ndecidi levá-la<n>para jantar."
         },
         {
             "name": "Rice Shower",
-            "text": "Um, Trainer, is it really okay for me to<n>get anything I want?",
+            "text": "Hum, Treinador, tudo bem mesmo eu<n>pedir o que eu quiser?",
             "choice_data_list": [
-                "It's on me, so don't be shy!",
-                "It's on me, so don't be shy!"
+                "É por minha conta, então não se acanhe!",
+                "É por minha conta, então não se acanhe!"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Anything I want! Anything... anything,<n>hmmm..."
+            "text": "O que eu quiser! Qualquer coisa...<n>qualquer coisa, hmmm..."
         },
         {
             "name": "Monólogo",
-            "text": "Following her gaze, I see a huge<n>banner in front of a ramen\nshop that<n>reads, \"Mega Mountain Deluxe.\""
+            "text": "Seguindo o olhar dela, vejo um<n>banner enorme na frente de\numa loja<n>de ramen que diz, \"Mega Montanha<n>Deluxe\"."
         },
         {
             "name": "Monólogo",
-            "text": "Not wanting to waste a single second,<n>I suggest that we\nhead inside."
+            "text": "Não querendo desperdiçar um<n>segundo sequer, sugiro que<n>\nentremos."
         },
         {
             "name": "Ramen Shop Owner",
-            "text": "With that, the Mega Mountain Deluxe<n>is sold out for today!\nPlease come<n>back again tomorrow!"
+            "text": "Com isso, o Mega Montanha Deluxe<n>esgotou por hoje! Por\nfavor, voltem<n>amanhã!"
         },
         {
             "name": "Rice Shower",
             "text": "Ah! Oh...",
             "choice_data_list": [
-                "Rice, go ahead and order every topping on the\nmenu!",
-                "Rice, go ahead and order every topping on the\nmenu!"
+                "Rice, vá em frente e peça todos os \nacompanhamentos do cardápio!",
+                "Rice, vá em frente e peça todos os \nacompanhamentos do cardápio!"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "R-really?"
+            "text": "S-sério?"
         },
         {
             "name": "Monólogo",
-            "text": "And so, with smiles and surprisingly<n>large bellies, our first\nday of training<n>comes to an end."
+            "text": "E assim, com sorrisos e barrigas<n>surpreendentemente\ngrandes, nosso<n>primeiro dia de treino chega ao fim."
         }
     ]
 }

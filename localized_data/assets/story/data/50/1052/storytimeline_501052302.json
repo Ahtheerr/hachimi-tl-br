@@ -1,0 +1,413 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certa noite, enquanto caminhamos<n>pelo distrito\ncomercial..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Isso parece ser tão divertido!"
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Aproximem-se e testem a sua sorte<n>com a\nnossa loteria de Ano Novo! O<n>grande prêmio\ndeste ano é um vale<n>para uma viagem para as\nfontes<n>termais para dois!",
+            "color_text_info_list": [
+                "viagem para as fontes termais"
+            ]
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Os ganhadores do primeiro prêmio<n>levam um\nluxuoso bife de hambúrguer<n>de cenoura! Os do\nsegundo prêmio<n>ganham um cesto de cenouras!\nE os<n>do terceiro prêmio podem levar pra<n>casa\numa única cenoura!"
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Ah, Urara, que bom te ver! O que me<n>diz? Quer\ntentar a sorte no sorteio?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Um sorteio! Eu quero, eu quero, eu<n>queroooo!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Treinador! Eu posso tentar?",
+            "choice_data_list": [
+                "Você tem um bilhete?",
+                "Você tem um bilhete?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Um bilhete? O que é isso? Eu preciso<n>de um pro\nsorteio?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Explico a ela que ela precisa comprar<n>coisas no\ndistrito comercial para<n>conseguir um bilhete."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah! Você quer dizer tipo esse bilhete<n>que aquela\nmoça me deu no outro<n>dia?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ela me deu um junto com um doce!",
+            "choice_data_list": [
+                "Você pode tentar com esse!",
+                "Você pode tentar com esse!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ebaaa! Eu vou rodar!",
+            "choice_data_list": [
+                "Qual prêmio você gostaria de ganhar?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hã? Ahm, hmmm..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ir nas fontes termais parece divertido,<n>mas eu\ngosto muito de bife de<n>hambúrguer, e claro, eu\nficaria feliz<n>com as cenouras também!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Mesmo se eu perder, só o fato de<n>girar já é\ndivertido! Então por mim<n>tudo bem de qualquer\njeito! ♪"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Aposto que vai girar muito rápido!<n>\nGira-gira-giraaaa! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Haru Urara animadamente me<n>incentiva a me\njuntar a ela para puxar<n>a alavanca."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uma pequena bola de plástico cai da<n>abertura da\nroleta..."
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Macacos me mordam! Nós temos a<n>ganhadora\ndo grande prêmio! Venha<n>pegar o seu vale para\nas fontes<n>termais! Parabéns!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Uau! Aquele som foi incrível! Ei,<n>posso ouvir de\nnovo?",
+            "choice_data_list": [
+                "É nisso que você está focada?!"
+            ]
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "U-Urara! Você ganhou o prêmio<n>máximo! O vale\npara as fontes<n>termais!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Fontes termais? Eu vou poder ir nas<n>fontes\ntermais?!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ebaaa! Eu ganhei, Treinador!",
+            "choice_data_list": [
+                "Parabéns!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Isso! Ei, quando a gente pode ir?<n>Amanhã?",
+            "choice_data_list": [
+                "Amanhã é um pouco cedo demais..."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hã? Então quando? Depois de<n>amanhã? Ou no\ndia depois desse?!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Quantas vezes o sol tem que<n>atravessar o céu\nantes da gente<n>poder ir? <i>Se apressa, Sr. Sol!</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Apesar de eu entender a animação<n>dela, fazer\numa viagem para as fontes<n>termais enquanto\nestamos no meio do<n>treinamento não me parece\ncerto...<n>Talvez eu possa usar isso como<n>\nmotivação?",
+            "choice_data_list": [
+                "Que tal guardarmos como um prêmio por ganhar\numa corrida?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Um prêmio? Isso é uma coisa que só<n>pessoas\nboas e trabalhadoras<n>ganham, né?!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Eu quero um prêmio! Me leva nas<n>fontes termais\ncomo prêmio um dia<n>desses!",
+            "choice_data_list": [
+                "Então está decidido!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah! Que tal você guardar o vale? Eu<n>vou ficar\nsuper feliz quando receber<n>como prêmio por\nganhar!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Aí você pode falar tipo, \"Ei! Aqui tá o<n>seu\nprêmio!\" e me entregar!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hihi, eu mal posso esperar! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Manterei o vale para a fonte termal<n>guardado em\nsegurança até a hora de<n>usá-lo."
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Parece que temos uma ganhadora do<n>primeiro\nprêmio! Parabéns! Você<n>ganhou um luxuoso bife\nde<n>hambúrguer de cenoura!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Uau! Um bife de hambúrguer de<n>cenoura! Parece\nestar tão gostoso!"
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Esse não é o seu bife de hambúrguer<n>comum! É\num bife <i>luxuoso</i>!"
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Eu garanto que esse vai deixar todos<n>os outros\nque você já provou no<n>chinelo!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "<i>Glup...</i> Isso quer dizer que..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Se eu comer, a minha barriga vai<n>explodir?!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Os bifes de hambúrguer normais já<n>são\ndeliciosos sozinhos! Se esse vai<n>me deixar no\nchinelo, então deve ter<n>uma bomba dentro dele!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hmmm, será que eu devo provar?",
+            "choice_data_list": [
+                "...Você é corajosa o bastante?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Eu sou!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Só observa! O Treinador e eu vamos<n>acabar com\na sua bomba de bife de<n>hambúrguer!"
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Não sei muito bem do que você tá<n>falando, mas\nnunca vi você tão<n>animada!"
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Vou deixar nas suas mãos! Aqui está,<n>o luxuoso\nbife de hambúrguer de<n>cenoura!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hora de atacar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Após retornarmos para a academia,<n>dividimos o\nbife de hambúrguer e<n>aproveitamos o seu sabor\nexplosivo."
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Temos uma ganhadora do segundo<n>prêmio! É o\nseu dia de sorte! Você vai<n>pra casa com um\ncesto de cenouras!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Uau! São tantas cenouras!"
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Esse prêmio foi basicamente feito pra<n>você,\nUrara!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Sim, eu <i>amo</i> cenouras!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Mas isso é muito... Será que eu<n>consigo comer\ntodas sozinha?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah, já sei! Vou dividir com as minhas<n>amigas!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Deixa eu ver... Vou dar uma pra Spe,<n>Teio, Sei,\nKing, Rice, e...",
+            "choice_data_list": [
+                "Você tem muitas pessoas para compartilhar isso.",
+                "Você tem muitas pessoas para compartilhar isso."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "É! Eu tenho tantos amigos<n>maravilhosos!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Eu conheço um montão e mais um<n>montão de\ngente que ia querer comer<n>umas cenouras\ngostosas!"
+        },
+        {
+            "name": "Vendedor de Vegetais",
+            "text": "Que amiga doce você é, Urara!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah! Quanto tempo! O que você tá<n>fazendo aqui?\nVocê não devia estar<n>na sua barraca de\nvegetais?"
+        },
+        {
+            "name": "Vendedor de Vegetais",
+            "text": "Essas são as minhas cenouras,<n>bobinha! Vou\nadicionar algo a mais<n>também, então passe na\nminha<n>barraca!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Sério? Obrigada! ♪"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hihi... Eu vou dar uma festa da<n>cenoura pra todo\nmundo lá na escola!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Claro, não é o suficiente para uma<n>festa para a\nescola toda, mas com o<n>adicional do vendedor de\nvegetais,<n>fomos para casa com um estoque<n>\nbem grande de cenouras."
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Olha só o que temos aqui! Você<n>ganhou o terceiro\nprêmio! Aqui está a<n>sua cenoura!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Uau! Que cenoura brilhante! Obrigada!"
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Você tá feliz com só uma única<n>cenoura? Que\nmenina doce você é."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Uma única cenoura ainda é uma<n>cenoura! É\ndeliciosa e nutritiva!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Vou te dar metade, Treinador! Qual<n>você quer? A\nde baixo ou a de cima?",
+            "choice_data_list": [
+                "Você decide."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Sério? Então eu vou ficar com a<n>metade de\ncima..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Deixa pra lá! Vou te dar a metade de<n>cima!",
+            "choice_data_list": [
+                "Por quê?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Porque tem mais pra comer! Então<n>você deve\nficar com ela!"
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Urara... Você tem um coração tão<n>incrivelmente\nbom... <i>Snif...</i>"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hã?! Por que você tá chorando?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Após ser elogiada, a Haru Urara me<n>dá a metade\nde cima da cenoura. O<n>sabor é doce e crocante."
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Aaah, que azar! Parece que você tirou<n>um em\nbranco! Leve esse pacote de<n>lenços como\nprêmio de consolação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah, só lenços..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Mas pelo menos girar foi bem<n>divertido!\nObrigada!"
+        },
+        {
+            "name": "Balconista do Sorteio",
+            "text": "Sinto muito que seja só isso que<n>você ganhou,\nUrara..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Sem problemas! Lenços são muito<n>úteis!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Posso pegar um monte deles e<n>amassar tudo\njunto, eeeee..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Tcharã! É uma cenoura!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Não parece muito com uma porque é<n>branco, no\nentanto. Cenouras são<n>laranjas..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Puxa vida, agora eu quero muito uma<n>cenoura de\nverdade..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que toda a sua famosa<n>energia foi\nsugada por essa<n>decepção."
+        }
+    ]
+}

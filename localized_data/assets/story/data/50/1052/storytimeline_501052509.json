@@ -1,0 +1,27 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Eu planejava levar a Haru Urara para<n>uma\nviagem de colheita de cenouras<n>como\nrecompensa por todo o seu<n>trabalho duro nas\ncorridas, mas<n>quando falo sobre isso com ela..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah... Cenouras...",
+            "choice_data_list": [
+                "Você está se sentindo bem?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ngh... É, eu só não tô sentindo...<n>muita... vontade..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Meu corpo tá pesado igual pedra...<n>Vamos deixar\nas cenouras pra outra<n>hora."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Provavelmente é porque ela andou<n>correndo em\nmuitas corridas<n>consecutivas. Parece que o\nmelhor<n>seria reorganizar sua programação<n>de\ncorridas."
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "text_block_list": [
+        {
+            "name": "Haru Urara",
+            "text": "<i>Ufa!</i> Eu corri tããão rápido!",
+            "choice_data_list": [
+                "Você foi ótima!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Foi muito divertido! Então é assim<n>que são as\ncorridas \"gê um\", né?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ei, Treinador! Você viu quem tava na<n>\narquibancada? Os meus amigos<n>lojistas vieram\nassistir!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Eu tava acenando pra eles. Você<n>acha que eles\nviram?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pensando bem, antes dela voltar, eu<n>realmente vi\num grupo nas<n>arquibancadas acenando com as<n>\nmãos vigorosamente."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Você acha que eles vão na minha<n>próxima\ncorrida também? Qual que é a<n>próxima que eu\nvou?",
+            "choice_data_list": [
+                "Você não tem nenhuma em mente?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ué? Contanto que eu possa correr, eu<n>participo\nde qualquer uma!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Isso é bem a cara dela de se dizer.<n>Eu preferia\nque ela tivesse uma<n>corrida específica que ela\nquisesse<n>mirar, mas..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "De qualquer forma, se ela quiser<n>entrar na Arima\nKinen, então há um<n>número limitado de corridas\npara<n>escolher."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Se ela quiser correr na Arima Kinen,<n>ela precisa\nse acostumar com corridas<n>que sejam mais\nlongas que uma<n>milha. Com esse propósito, a\ncorrida<n>que eu tenho em mente é só cem<n>\nmetros mais longa que essa, mas...",
+            "choice_data_list": [
+                "Que tal a Elm Stakes?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Beleza!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Vou contar pros meus amigos<n>lojistas que eu\nvou entrar na Elm<n>Stakes então!",
+            "choice_data_list": [
+                "...É em Hokkaido.",
+                "...É em Hokkaido."
+            ],
+            "color_text_info_list": [
+                "Elm Stakes"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "O quê?! Tão longe?! Eu acho que não<n>tem como\neles irem, então."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hihi. Mas se eu for bem nela, então<n>eu posso ir\npra algum lugar que eles<n><i>possam</i> ir me\nassistir!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Belezinha! Hora de me preparar pro<n>meu show!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Haru Urara volta para a sala de<n>espera, e eu\nvou para os bastidores."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Uau! Tem tanta gente! Muito mais do<n>que o\nnormal!",
+            "choice_data_list": [
+                "Divirta-se muito!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Uhum, eu vo―ué?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hmph."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O olhar da Haru Urara pousa em uma<n>\nUmamusume com um rosto infeliz. Ela<n>correu na\ncorrida de hoje também."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ei, você tá bem?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "U-Urara... Sim, eu tô bem, eu acho..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Mas você parece tão triste! O show<n>já vai\ncomeçar. Você não tá feliz?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Olha, tanta gente veio aqui pra nos<n>assistir! Cadê\naquele sorriso que você<n>sempre tem?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Como que eu vou sorrir numa hora<n>dessas?!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hã?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Eu finalmente entrei numa corrida<n>G1... Eu\nfinalmente tive uma chance!<n>Mas eu estraguei\ntudo!",
+            "color_text_info_list": [
+                "G1"
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Eu queria ganhar! Mas eu nem<n>cheguei no palco\ncentral! Eu sou uma<n><i>perdedora!</i>"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Como eu posso sorrir numa hora<n>dessas? Eu tô\ncom muita, muita raiva!<n>Eu não consigo sorrir!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Raiva?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "...Desculpa, esquece. Eu tô bem. Vou<n>colocar um\nrosto feliz pro show."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "<i>Suspiro...</i> Da próxima vez, eu vou<n>estar no\npalco central!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "...Ela foi embora.",
+            "choice_data_list": [
+                "Ela é sua amiga?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Uhum. Ela tá sempre sorrindo. Ela é<n>super legal\ncom todo mundo também..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Eu nunca vi ela desse jeito..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Haru Urara parece chocada. Ver um<n>novo lado\nda amiga dela desse jeito<n>deve ter impactado\nela bastante."
+        },
+        {
+            "name": "Monólogo",
+            "text": "No entanto...",
+            "choice_data_list": [
+                "O show já vai começar.",
+                "O show já vai começar."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah, é verdade! Beleza, eu tenho que<n>dar tudo de\nmim!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Haru Urara recupera a sua<n>compostura e vai\nem direção ao palco."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Durante a segunda metade do show,<n>eu me\njunto ao público e vejo que a<n>Special Week veio\nassistir."
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah! Treinador da Urara! Olá!"
+        },
+        {
+            "name": "Special Week",
+            "text": "A Urara parece estar se divertindo<n>tanto\ndançando! Só de ver ela já me<n>deixa animada\ntambém!"
+        },
+        {
+            "name": "Special Week",
+            "text": "É por isso que eu adoro vir assistir<n>aos shows\ndela!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Exatamente como a Special Week<n>disse, o\ncharme da Haru Urara está no<n>quanta energia ela\ntransmite."
+        },
+        {
+            "name": "Monólogo",
+            "text": "É por isso que todo mundo ama ela.<n>Não importa\nquantas vezes ela falhe,<n>ela tá sempre sorrindo."
+        },
+        {
+            "name": "Lojista Energético",
+            "text": "A Urara sempre se esforça tanto."
+        },
+        {
+            "name": "Lojista Energético",
+            "text": "Eu quero ver ela sorrindo no palco da<n>Arima\nKinen também. Espero que ela<n>se classifique..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ouço uma voz familiar. Olhando ao<n>redor, vejo os\nlojistas do distrito<n>comercial conversando\nenquanto<n>assistem à performance."
+        },
+        {
+            "name": "Lojista Gentil",
+            "text": "Mas será que ela consegue ao<n>menos entrar na\nArima Kinen nesse<n>ritmo? Os resultados dela não\nsão<n>ótimos..."
+        },
+        {
+            "name": "Lojista Feliz",
+            "text": "Eu me pergunto se tem algo que a<n>gente possa\nfazer pra ajudar..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah, o show tá quase acabando, né?"
+        },
+        {
+            "name": "Special Week",
+            "text": "Quando você voltar, por favor diz pra<n>Urara que\neu disse que o show foi<n>fantástico!",
+            "choice_data_list": [
+                "C-claro."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Volto para a sala de espera com a<n>conversa dos\nlojistas ainda fresca na<n>minha mente."
+        }
+    ]
+}

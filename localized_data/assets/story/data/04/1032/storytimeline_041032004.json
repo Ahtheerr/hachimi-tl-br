@@ -78,7 +78,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "<i>Pant... Pant, pant!</i>"
+            "text": "<i>Arf... Arf, Arf!</i>"
         },
         {
             "name": "Symboli Rudolf",
@@ -163,7 +163,8 @@
             "name": "Monólogo",
             "text": "Eureka, já sei!",
             "choice_data_list": [
-                "Você tem algum desses remédios com você? |\nVocê tem algum desses remédios com você?"
+                "Você tem algum desses remédios com você?",
+                "Você tem algum desses remédios com você?"
             ]
         },
         {
@@ -256,7 +257,7 @@
             "name": "Agnes Tachyon",
             "text": "...Hum, na verdade, vamos esperar<n>um segundo. Pelo\nmenos até os<n>efeitos colaterais passarem. Seria um<n>\nincômodo se você causasse<n>confusão ou caos\ndesnecessários.",
             "choice_data_list": [
-                "Huh?"
+                "Hã?"
             ]
         }
     ]

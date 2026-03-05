@@ -1,0 +1,243 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "After inviting Tazuna to a day out, I'm<n>waiting for\nher reply, when...",
+            "choice_data_list": [
+                "(Oh, that must be her.)",
+                "(Oh, that must be her.)"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Thank you for the invite!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Unfortunately, I have to decline!<n>Lately, my work\nhas been piling up, so<n>I don't think I'll be able to\nstep out of<n>the office today..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "But we should certainly go out some<n>other time!\nI'll let you know when I'm<n>free!",
+            "choice_data_list": [
+                "That's a shame..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Not wanting to idle around, I decide to<n>see\nwhat's going on around the<n>academy."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Oho! Target sighted!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "What luck! You are just the person I<n>was looking\nfor!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "I say, you and Tazuna seem to be<n>getting along\nquite well as of late!",
+            "choice_data_list": [
+                "Yeah, I suppose so."
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "How nice! She always seems to<n>enjoy talking\nabout you!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Therefore! I require your assistance."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Lately, I've noticed she's been<n>overworking\nherself. She is<n>undoubtedly passionate, but we<n>\ncannot have her health breaking<n>down!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "In summary! Tazuna Hayakawa<n>needs a break!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Well, it might be better if I show you.<n>Come!\nFollow me!",
+            "choice_data_list": [
+                "Wait, what?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Without knowing where we're going,<n>I'm\nwhisked off to..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "The hallway outside the director's<n>office.",
+            "choice_data_list": [
+                "Why are we here?"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "You'll understand once you go in."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "But you must do so... stealthily. Be as<n>quiet as\nyou possibly can when you<n>enter..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Following Director Akikawa's<n>instructions to the\nletter, I tiptoe into<n>the room."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Once inside, I notice someone laying<n>down on the\nsofa."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "<i>Zzz... Zzz...</i>",
+            "choice_data_list": [
+                "(Tazuna!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "She looks exhausted. Undoubtedly,<n>she's been\nworking herself to the<n>bone for the sake of the\nacademy."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I look back at the slightly open door to<n>see\nDirector Akikawa peeking in."
+        },
+        {
+            "name": "Monólogo",
+            "text": "She mouths the words, \"Leave her<n>duties to me!\"",
+            "choice_data_list": [
+                "(Understood!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I give my own silent nod in return and<n>place a\ncoat over Tazuna as she<n>sleeps."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hrm?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Huh?! I must have fallen asleep..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Trainer?! Wh-what are you doing<n>here?!",
+            "choice_data_list": [
+                "Good morning."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ah, good morning..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Wait, it's not morning!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "How long have I been asleep?",
+            "choice_data_list": [
+                "For a couple of hours or so."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "That long?! Ahhh, this is bad! I've still<n>got so\nmuch left to do!",
+            "choice_data_list": [
+                "The director said she would take care of it."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Director Akikawa said that? But...",
+            "choice_data_list": [
+                "She said you need a break."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "A break..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Well... I suppose I have been pushing<n>myself too\nhard lately."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "And, well... I <i>do</i> feel more<n>refreshed now."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I even had a pretty nice dream...",
+            "choice_data_list": [
+                "About what?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hehe, sorry..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "It's a secret! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Her duties relieved, Tazuna and I go<n>out and\nenjoy some time together."
+        },
+        {
+            "name": "Monólogo",
+            "text": "And suddenly, the door behind me<n>closes with a\nthud."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Huh... Trainer?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oh no, I must have fallen asleep!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Dismay! I wanted to allow her to rest<n>before\nsurprising her, but we failed..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Director Akikawa?! What surprise?<n>What's\ngoing on?"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Well, since it's come to this... Trainer!<n>This is an\nexecutive order!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Your mission! Take Tazuna out for a<n>nice,\nrelaxing break!",
+            "choice_data_list": [
+                "Yes, ma'am!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Wh-what?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Despite her protests, I whisk Tazuna<n>away for a\nmuch-needed break."
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "É a terceira rodada da pré-temporada<n>da Unity\nCup! Haru Urara está cheia<n>de confiança na sala\nde espera."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "É, eu sei que a gente vai ganhar<n>hoje!",
+            "choice_data_list": [
+                "Você parece tão certa disso."
+            ],
+            "color_text_info_list": [
+                "Você parece tão certa disso."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "E eu tô mesmo! A gente deu duro de<n>verdade, e\ntodas nós ficamos super<n>amigas!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Eu não sei o porquê, mas isso me faz<n>sentir que\na gente consegue ganhar!"
+        }
+    ]
+}

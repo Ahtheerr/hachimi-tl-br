@@ -1,0 +1,54 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Um dia, em um passeio com Admire<n>Vega..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Percebo que ela está de olho em uma<n>máquina\nde garra cheia de pelúcias de<n>Umamusume.",
+            "choice_data_list": [
+                "Você quer uma pelúcia?",
+                "Você quer uma pelúcia?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Só estava pensando nisso... Não para<n>mim, no\nentanto. Para uma amiga."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Sim, deixa para lá. Vamos nos<n>apressar para\nvoltar e treinar."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Vamos."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela dá um passo à frente, mas vira a<n>cabeça\ncomo se alguém tivesse<n>puxado seu cabelo.\nAcho que ela está<n>apenas se fazendo de forte.",
+            "choice_data_list": [
+                "Vou pegar uma para você."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hã? Eu disse... que não preciso.",
+            "choice_data_list": [
+                "Você pode mudar de ideia quando tiver uma."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Faça o que quiser."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não posso falhar agora de jeito<n>nenhum!"
+        }
+    ]
+}

@@ -1,0 +1,369 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One day, while walking past the<n>station, I see a\npair of familiar faces<n>calling out to passersby."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Um, h-hello! We're having an, uh,<n>event, at, um,\nTracen Academy, so,<n>um..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "The student council is having an<n>event! Do feel\nfree to take a flyer!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm so sorry, I'm really bad at this.<n>I'm not\nhelping at all, am I?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Don't worry about it. You're doing<n>just fine. I'm\nsure you'll get the hang<n>of it once—"
+        },
+        {
+            "name": "Air Groove",
+            "text": "...Sorry. I've just received a text from<n>the\npresident."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Return to the academy ASAP. Oh?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I was hoping to at least hand out half<n>of these,\nbut oh well. Back to school it<n>is."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Please go on ahead. I'll stay here<n>and keep\nhanding out flyers."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Are you sure? You might have to deal<n>with\ngawkers or talk to people you<n>aren't comfortable\nwith..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I know... But I really want to help you<n>out for\nonce."
+        },
+        {
+            "name": "Air Groove",
+            "text": "...All right. Just don't push yourself<n>too hard,\nokay?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Breathe in... Breathe out... Okay. I can<n>do this. I\njust need to announce that<n>we're holding an\nevent..."
+        },
+        {
+            "name": "Male Passerby",
+            "text": "An event? Tracen Academy is doing<n>something?\nYeah, I think I might grab a<n>flyer."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh?! G-go ahead."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Th-that was just a practice run. Next<n>time, I'm\ngoing to speak clearly and<n>hand out the flyers\nmyself!"
+        },
+        {
+            "name": "Tourist Group",
+            "text": "Ooh! Is she from Tracen Academy?<n>Oh, she's\nlooking this way! Hellooo!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ignore... the stares. Ignore... the...<n>s-stares..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I... I can't do it! What should I do? I<n>went and told\nAir Groove I could<n>handle this."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And after I made up my mind that I<n>wouldn't let\nany obstacle get in my<n>way..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'll scale any walls that stand in my<n>way! This is\nwhat you meant when<n>you were talking about\nworking<n>toward becoming your ideal self, right,<n>\nKawakami?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I was so sure, but in the end, I... I..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro Dober is trembling in distress.<n>I wonder if\nthere's anything I can say<n>to assuage her fears?",
+            "choice_data_list": [
+                "One flyer, please!",
+                "Let's hand them out together!",
+                "Let's hand them out together!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro Dober is trembling in distress.<n>I wonder if\nthere's anything I can say<n>to assuage her fears?",
+            "choice_data_list": [
+                "One flyer, please!",
+                "Let's hand them out together!",
+                "Let's hand them out together!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh?! Ah, here yo—wait, you're..."
+        },
+        {
+            "name": "Passersby",
+            "text": "Flyers? Is there some kind of event<n>going on?\nWhoa! Tracen Academy's<n>putting on an event?!"
+        },
+        {
+            "name": "Passersby",
+            "text": "Oh, they're having a raffle for<n>autographs too! Oh\nmy gosh, yeah!<n>Can I get a flyer, please?! Me\ntoo, me<n>too!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh?! Wh-what?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perhaps I called out to her a little<n><i>too</i> loudly.\nSo many people are<n>rushing over, there's no\nway she can<n>possibly handle them alone!",
+            "choice_data_list": [
+                "I-I'll help you hand those out!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I don't believe it. I handed out all the<n>flyers?\nSeriously?",
+            "choice_data_list": [
+                "Yep. Great job!",
+                "Yep. Great job!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Uh... I wasn't asking you."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Thanks. I couldn't have handed<n>them all out\nwithout you."
+        },
+        {
+            "name": "Air Groove",
+            "text": "All of them, you say? You mean you<n>finished\nhanding them out?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Air Groove!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Incredible. You surpassed all my<n>expectations. I\nguess my worries<n>were unfounded."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Dober, you've really changed. I'm<n>pleased to\nsee how much you've<n>grown."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, thank you so much!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But I didn't accomplish this alone. I<n>had help. So\nreally..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh, forget about all that for now.<n>You'll figure it\nout one day."
+        },
+        {
+            "name": "Air Groove",
+            "text": "But your efforts really have helped.<n>So, I'll say\nthis..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Thank you."
+        },
+        {
+            "name": "Air Groove",
+            "text": "That was directed at you too, Trainer.",
+            "choice_data_list": [
+                "It was nothing."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Um, I also wanted to say... You helped,<n>uh, a bit...\nBye."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Um! I also wanted to say... Thank you<n>so, so\nmuch!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Maybe it's the pride she feels at<n>having\ndistributed all the flyers, but<n>when I catch a brief\nglimpse of Mejiro<n>Dober's profile, I see a smile\non her<n>face."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Eek! The wind's too strong! Oh no!<n>The flyers\nare getting blown away!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Suddenly, a strong gust of wind<n>scatters all the\nflyers! In a panic, I rush<n>to help gather them up..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Huff... Puff...</i> I think we somehow<n>managed\nto get all of them, but...",
+            "choice_data_list": [
+                "It's almost dark...",
+                "It's almost dark..."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Sorry, I'm finally ba—oh, what<n>happened here?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "I see. That sounds like quite the<n>disaster.\n...Dober."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...A-Air Groove, I'm so sor—"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Well done. You did the best you could."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "You used to be too timid to even put<n>yourself out\nthere. I'm pleased to see<n>how much you've\ngrown."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But I... I said I'd take care of it for<n>you, and I\ncouldn't even hand out a<n>single flyer."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh, forget about all that for now.<n>You'll figure it\nout one day."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Thanks for your help too, Trainer.",
+            "choice_data_list": [
+                "It was nothing."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro Dober returns to the academy<n>deep in\nthought, pondering the<n>meaning behind Air\nGroove's words."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? Wait, that badge on your collar..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...No thanks. And don't give me your<n>trainer spiel,\neither.",
+            "choice_data_list": [
+                "But...",
+                "But..."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Thanks, but I don't want to bother<n>one of the\nacademy's trainers. I<n>appreciate the sentiment,\nthough.",
+            "choice_data_list": [
+                "But...",
+                "But..."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hmph! You're so nosy! I can do this<n>by myself! I\n<i>have</i> to do this by<n>myself!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "No, really, I'm okay. I should do this<n>by myself!"
+        },
+        {
+            "name": "Student Passersby",
+            "text": "What's this? What's all the<n>commotion about?\nLooks like they're<n>passing out flyers? What for?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? Oh! Um!",
+            "choice_data_list": [
+                "Yes! We're having an event!"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hey! ...Oh, fine!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh... you're just too nice. You'll be<n>stuck here all\nday at this rate."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Without giving her much of a chance<n>to refuse\nmy help, I start handing out<n>the flyers..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "<i>Phew...</i> We still have half of the<n>flyers left,\nbut it's already getting<n>dark. If we just keep\ngoing for a little<n>longer..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "No need. Well done, you've handed<n>out more\nthan enough."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Air Groove!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Wow, you really handed out half of<n>them. You\nwent all out."
+        },
+        {
+            "name": "Air Groove",
+            "text": "...You've really grown, Dober."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, n-not at all. I was just kicking up<n>a\ncommotion."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "In the end, I still needed help getting<n>people's\nattention and handing out<n>flyers. So really..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh, forget about all that for now.<n>You'll figure it\nout one day."
+        },
+        {
+            "name": "Air Groove",
+            "text": "But your efforts really have helped<n>me out. So,\nthank you."
+        },
+        {
+            "name": "Air Groove",
+            "text": "That was directed at you too, Trainer.",
+            "choice_data_list": [
+                "It was nothing."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...I didn't ask you to help, but...<n>thanks. I guess."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yes! I'm sorry for all the trouble!<n>Thank you very\nmuch!"
+        }
+    ]
+}

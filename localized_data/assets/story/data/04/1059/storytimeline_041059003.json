@@ -1,272 +1,272 @@
 {
     "text_block_list": [
         {
-            "name": "Doctor",
-            "text": "Fortunately, we were able to treat it<n>early and it is\nnon-life-threatening, but<n>I cannot recommend that she\ncontinue<n>work as a trainer."
+            "name": "Médico",
+            "text": "Felizmente, conseguimos tratar cedo<n>e não há risco de vida,\nmas não posso<n>recomendar que ela continue<n>trabalhando\ncomo treinadora."
         },
         {
-            "name": "Chief Trainer",
-            "text": "I see... Well, I knew that this day<n>would come sooner or\nlater. I'm sorry,<n>Bell."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "I-it's nothing you need to apologize<n>for!"
+            "name": "Treinador-chefe",
+            "text": "Entendo... Bem, eu sabia que este dia<n>chegaria mais cedo\nou mais tarde.<n>Sinto muito, Bell."
         },
         {
             "name": "Mejiro Dober",
-            "text": "If anything, it should be me for not<n>getting any stronger this\nwhole time..."
+            "text": "N-não é nada pelo que você precise<n>se desculpar!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Se alguém deve se desculpar, sou eu,<n>por não ter ficado\nnem um pouco mais<n>forte esse tempo todo..."
         },
         {
             "name": "Monólogo",
-            "text": "Given the circumstances, it is decided<n>that it is best that the\nchief trainer<n>moves on to retirement."
+            "text": "Dadas as circunstâncias, foi decidido<n>que o melhor é a\ntreinadora-chefe se<n>aposentar."
         },
         {
-            "name": "Chief Trainer",
-            "text": "<username>, I'd like you to take over.<n>I trust you."
+            "name": "Treinador-chefe",
+            "text": "<username>, gostaria que você<n>assumisse. Eu confio em\nvocê."
         },
         {
-            "name": "Chief Trainer",
-            "text": "If it's you, I know that things will be<n>just fine."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Her official retirement comes into<n>effect two weeks from\nnow. I've<n>accepted the job of chief trainer, but it<n>is up to\nMejiro Dober if she wishes to<n>stay."
+            "name": "Treinador-chefe",
+            "text": "Se for você, sei que as coisas ficarão<n>bem."
         },
         {
             "name": "Monólogo",
-            "text": "For that reason, I make an effort to<n>better understand her\nfeelings."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "Sorry, but can this wait? I'd like to<n>focus on my training right\nnow."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "I'm sorry, but can we talk about this<n>another time? I'd like\nto concentrate<n>on my training right now."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "She placed all her faith in me, but I<n>was never able to even\ngive her one<n>win. I need to change that before it's<n>too late."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "She placed all her faith in me, but I<n>was never able to even\ngive her one<n>win. I need to change that before it's<n>too late."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "I only have two weeks, so I need to<n>do everything I can\nright now."
+            "text": "Sua aposentadoria oficial entra em<n>vigor daqui a duas\nsemanas. Aceitei o<n>cargo de treinador-chefe, mas cabe à<n>\nMejiro Dober decidir se deseja ficar."
         },
         {
             "name": "Monólogo",
-            "text": "For the next few days, I'm busy with<n>the handover and\nhave little time for<n>much else."
+            "text": "Por esse motivo, faço um esforço<n>para entender melhor os\nsentimentos<n>dela."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Desculpe, mas isso pode esperar?<n>Gostaria de focar no\nmeu treino agora."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Desculpe, mas podemos conversar<n>sobre isso em outro\nmomento?<n>Gostaria de me concentrar no meu<n>treino\nagora."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ela depositou toda a sua fé em mim,<n>mas nunca consegui\ndar a ela sequer<n>uma vitória. Preciso mudar isso antes<n>\nque seja tarde demais."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ela depositou toda a sua fé em mim,<n>mas nunca consegui\ndar a ela sequer<n>uma vitória. Preciso mudar isso antes<n>\nque seja tarde demais."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Só tenho duas semanas, então<n>preciso fazer tudo o que\npuder agora<n>mesmo."
         },
         {
             "name": "Monólogo",
-            "text": "When those tasks finally come to an<n>end, I can't help but\nthink of Mejiro<n>Dober.",
+            "text": "Nos dias seguintes, fico ocupado com<n>a transição e tenho\npouco tempo para<n>qualquer outra coisa."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Quando essas tarefas finalmente<n>terminam, não consigo\ndeixar de<n>pensar na Mejiro Dober.",
             "choice_data_list": [
-                "I really should go check in on her."
+                "Eu realmente deveria ir ver como ela está."
             ]
         },
         {
             "name": "Mejiro Dober",
-            "text": "<i>Huff... huff...</i>",
+            "text": "<i>Argh... argh...</i>",
             "choice_data_list": [
                 "Dober!"
             ]
         },
         {
             "name": "Mejiro Dober",
-            "text": "Eh? You...",
+            "text": "Hein? Você...",
             "choice_data_list": [
-                "Dober, isn't this a bit too much?",
-                "Dober, isn't this a bit too much?"
+                "Dober, isso não é um pouco de exagero?",
+                "Dober, isso não é um pouco de exagero?"
             ]
         },
         {
             "name": "Mejiro Dober",
-            "text": "Eh? Oh, Assistant Trainer...",
+            "text": "Hein? Oh, Treinador Assistente...",
             "choice_data_list": [
-                "Dober, isn't this a bit too much?",
-                "Dober, isn't this a bit too much?"
+                "Dober, isso não é um pouco de exagero?",
+                "Dober, isso não é um pouco de exagero?"
             ]
         },
         {
             "name": "Mejiro Dober",
-            "text": "Shut up! Leave me alone!",
+            "text": "Cale a boca! Me deixe em paz!",
             "choice_data_list": [
-                "But if you push yourself like this...",
-                "But if you push yourself like this..."
+                "Mas se você se esforçar tanto assim...",
+                "Mas se você se esforçar tanto assim..."
             ]
         },
         {
             "name": "Mejiro Dober",
-            "text": "Please, would you leave me be? I told<n>you that I don't have\nmuch time!",
+            "text": "Por favor, você poderia me deixar em<n>paz? Eu te disse que\nnão tenho muito<n>tempo!",
             "choice_data_list": [
-                "But if you push yourself like this...",
-                "But if you push yourself like this..."
+                "Mas se você se esforçar tanto assim...",
+                "Mas se você se esforçar tanto assim..."
             ]
         },
         {
             "name": "Mejiro Dober",
-            "text": "I <i>HAVE</i> to push myself. Because<n>I'm so weak!"
+            "text": "Eu <i>TENHO</i> que me esforçar.<n>Porque sou tão fraca!"
         },
         {
             "name": "Mejiro Dober",
-            "text": "I <i>HAVE</i> to push myself. Because<n>I'm so weak!"
+            "text": "Eu <i>TENHO</i> que me esforçar.<n>Porque sou tão fraca!"
         },
         {
             "name": "Mejiro Dober",
-            "text": "I've always, <i>always</i> been so<n>weak!"
+            "text": "Eu sempre, <i>sempre</i> fui tão fraca!"
         },
         {
             "name": "Mejiro Dober",
-            "text": "I thought I would be able to start<n>winning right away. To be\nable to run<n>with confidence like Bright... To be as<n>strong as\nRyan..."
+            "text": "Achei que conseguiria vencer de<n>imediato. Correr com\nconfiança como<n>a Bright... Ser forte como a Ryan..."
         },
         {
             "name": "Mejiro Dober",
-            "text": "As a member of the Mejiro family,<n>there's so much I want\nto prove. But<n>I..."
+            "text": "Como membro da família Mejiro, há<n>tanto que quero\nprovar. Mas eu..."
         },
         {
-            "name": "Event Commentator",
-            "text": "And we have our first-place finisher!<n>The other runners\nfollow close behind!<n>Everyone, a big round of applause for<n>\neveryone giving it their best!"
+            "name": "Comentarista do Evento",
+            "text": "E temos o nosso primeiro lugar! As<n>outras corredoras vêm\nlogo atrás!<n>Pessoal, uma salva de palmas para<n>todas que\nderam o seu melhor!"
         },
         {
-            "name": "Event Commentator",
-            "text": "Oh, number 8 Mejiro Dober is<n>rounding the last turn! She\nwas a little<n>late out of the gate, but she hasn't<n>given up!"
+            "name": "Comentarista do Evento",
+            "text": "Oh, a número 8, Mejiro Dober, está<n>fazendo a última curva!\nEla demorou<n>um pouco para sair do portão, mas<n>não\ndesistiu!"
         },
         {
-            "name": "Jovem Dober",
-            "text": "<i>Huff... huff... huff...</i>"
+            "name": "Dober Jovem",
+            "text": "<i>Argh... argh... argh...</i>"
         },
         {
             "name": "Espectadores",
-            "text": "You're doing your best! Just keep it<n>up! Just a little farther!\nYou can do it!"
+            "text": "Você está dando o seu melhor!<n>Continue assim! Só mais um\npouco!<n>Você consegue!"
         },
         {
-            "name": "Jovem Dober",
-            "text": "<i>Huff... huff... gasp...</i>"
+            "name": "Dober Jovem",
+            "text": "<i>Argh... argh... ah...</i>"
         },
         {
-            "name": "Jovem Dober",
-            "text": "Doing your best? \"Keep it up\"? \"It's<n>okay\"? I've never\nheard anyone say<n>those things to Ryan and the others..."
+            "name": "Dober Jovem",
+            "text": "Dando o melhor? \\Continue<n>assim\\\"? \\\"Está tudo bem\\\"?\nNunca<n>ouvi ninguém dizer essas coisas para<n>a Ryan e as\noutras...\""
         },
         {
-            "name": "Jovem Dober",
-            "text": "They always yell about how fast and<n>amazing Bright and\nRyan are... But not<n>for me..."
-        },
-        {
-            "name": "Mejiro Dober",
-            "text": "That was a devastating day for me. I<n>messed up at the start\nand finished<n>practically a whole lap behind<n>everyone else.\nI've felt that others<n>have been laughing at me ever since."
+            "name": "Dober Jovem",
+            "text": "Eles sempre gritam o quanto a Bright<n>e a Ryan são rápidas\ne incríveis... Mas<n>não para mim..."
         },
         {
             "name": "Mejiro Dober",
-            "text": "I always feel ashamed and<n>powerless... My heart starts to\nfeel<n>like it's trying to escape my chest,<n>and my legs begin\nto feel like they're<n>not even my own..."
+            "text": "Aquele foi um dia devastador para<n>mim. Errei na largada e\nterminei<n>praticamente uma volta inteira atrás<n>de todo\nmundo. Sinto que os outros<n>estão rindo de mim desde\nentão."
         },
         {
             "name": "Mejiro Dober",
-            "text": "That's why I can't run properly in<n>front of people anymore!\nNo one else<n>at the academy is like this!"
+            "text": "Eu sempre me sinto envergonhada e<n>impotente... Meu\ncoração parece que<n>vai saltar do peito e sinto como se<n>\nminhas pernas nem fossem minhas..."
         },
         {
             "name": "Mejiro Dober",
-            "text": "I felt myself getting slightly better with<n>Trainer's guidance,\nbut now I'm going<n>to lose her too!"
+            "text": "É por isso que não consigo mais<n>correr direito na frente das\npessoas!<n>Ninguém mais na academia é assim!"
         },
         {
             "name": "Mejiro Dober",
-            "text": "So I have to do something! I have to<n>win a race, even if it\nmeans pushing<n>myself this hard!"
+            "text": "Senti que estava melhorando um<n>pouco com a orientação da<n>\nTreinadora, mas agora vou perdê-la<n>também!"
         },
         {
             "name": "Mejiro Dober",
-            "text": "I'm such a weakling, but I have to<n>change that even if I\nhave to do it<n>alone!",
+            "text": "Então eu tenho que fazer alguma<n>coisa! Tenho que vencer\numa corrida,<n>mesmo que signifique me forçar tanto<n>assim!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Eu sou tão fraca, mas tenho que<n>mudar isso, mesmo que\ntenha que<n>fazer sozinha!",
             "choice_data_list": [
-                "You won't be alone."
+                "Você não estará sozinha."
             ]
         },
         {
             "name": "Mejiro Dober",
-            "text": "What?",
+            "text": "O quê?",
             "choice_data_list": [
-                "I'm here to support you.",
-                "I'm here to support you."
+                "Estou aqui para te apoiar.",
+                "Estou aqui para te apoiar."
             ]
         },
         {
             "name": "Mejiro Dober",
-            "text": "You mean to say that things will be<n>okay if you take over as\nmy trainer?<n>That things will work out? Don't<n>make me\nlaugh!",
+            "text": "Você quer dizer que as coisas vão<n>ficar bem se você\nassumir como meu<n>treinador? Não me faça rir!",
             "choice_data_list": [
-                "It's because you are an extremely capable\nrunner!",
-                "It's because you are an extremely capable\nrunner!"
+                "É porque você é uma corredora extremamente\ncapaz!",
+                "É porque você é uma corredora extremamente\ncapaz!"
             ]
         },
         {
             "name": "Mejiro Dober",
-            "text": "Have you even been listening to<n>anything I've been\nsaying?! I'm a<n>weakling, and I always have been!",
+            "text": "Você sequer estava me ouvindo?! Eu<n>sou uma fraca, e\nsempre fui!",
             "choice_data_list": [
-                "You've also never given up.",
-                "You've also never given up."
+                "Você também nunca desistiu.",
+                "Você também nunca desistiu."
             ]
         },
         {
             "name": "Mejiro Dober",
-            "text": "Keep going, keep goooing! Aaaaah!"
+            "text": "Continue, continueee! Aaaaah!"
         },
         {
             "name": "Mejiro Dober",
-            "text": "I just know that I would face a repeat<n>of that scrimmage\nrace if I just let<n>things be, however."
+            "text": "Eu só sei que enfrentaria uma<n>repetição daquela corrida de\ntreino se<n>deixasse as coisas como estão, no<n>entanto."
         },
         {
             "name": "Mejiro Dober",
-            "text": "I just know that I would face a repeat<n>of that scrimmage\nrace if I just let<n>things be, however."
+            "text": "Eu só sei que enfrentaria uma<n>repetição daquela corrida de\ntreino se<n>deixasse as coisas como estão, no<n>entanto."
         },
         {
             "name": "Mejiro Dober",
-            "text": "So I was thinking that talking to you<n>could be some good\nmental training<n>for me! You can do that much as my<n>\nassistant trainer, right?"
+            "text": "Então eu estava pensando que<n>conversar com você\npoderia ser um<n>bom treino mental para mim! Você<n>pode\nfazer isso pelo menos como<n>meu treinador assistente,\ncerto?"
         },
         {
             "name": "Mejiro Dober",
-            "text": "So I was hoping... maybe I could talk<n>with you to help me\nbuild some mental<n>fortitude. Would that be okay?"
+            "text": "Então eu estava esperando... talvez<n>eu pudesse conversar\ncom você para<n>me ajudar a criar força mental. Tudo<n>bem?"
         },
         {
             "name": "Mejiro Dober",
-            "text": "She placed all her faith in me, but I<n>was never able to even\ngive her one<n>win. I need to change that before it's<n>too late."
+            "text": "Ela depositou toda a sua fé em mim,<n>mas nunca consegui\ndar a ela sequer<n>uma vitória. Preciso mudar isso antes<n>\nque seja tarde demais."
         },
         {
             "name": "Mejiro Dober",
-            "text": "She placed all her faith in me, but I<n>was never able to even\ngive her one<n>win. I need to change that before it's<n>too late."
+            "text": "Ela depositou toda a sua fé em mim,<n>mas nunca consegui\ndar a ela sequer<n>uma vitória. Preciso mudar isso antes<n>\nque seja tarde demais."
         },
         {
             "name": "Mejiro Dober",
-            "text": "I only have two weeks, so I need to<n>do everything I can\nright now."
+            "text": "Só tenho duas semanas, então<n>preciso fazer tudo o que\npuder agora<n>mesmo."
         },
         {
             "name": "Monólogo",
-            "text": "She hasn't given up this entire time,<n>chasing after her goal\nof winning a<n>race in front of the eyes of many.",
+            "text": "Ela não desistiu esse tempo todo,<n>perseguindo seu\nobjetivo de vencer<n>uma corrida diante dos olhos de<n>\nmuitos.",
             "choice_data_list": [
-                "Someone who doesn't give up cannot possibly\nbe a weakling."
+                "Alguém que não desiste não pode ser fraca."
             ]
         },
         {
             "name": "Mejiro Dober",
-            "text": "<i>Gasp!</i>",
+            "text": "<i>Ah!</i>",
             "choice_data_list": [
-                "Mejiro Dober, you are an incredible racer.",
-                "Mejiro Dober, you are an incredible racer."
+                "Mejiro Dober, você é uma corredora incrível.",
+                "Mejiro Dober, você é uma corredora incrível."
             ]
         },
         {
             "name": "Mejiro Dober",
-            "text": "I... I'm not...",
+            "text": "Eu... eu não sou...",
             "choice_data_list": [
-                "Dober! I'll be waiting for you!",
-                "Dober! I'll be waiting for you!"
+                "Dober! Estarei esperando por você!",
+                "Dober! Estarei esperando por você!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I believe in her capabilities, even if<n>she chooses to polish\nthem alone. I<n>want her to understand, though, that if<n>she\nneeds any support, then I'll be<n>waiting."
+            "text": "Acredito nas capacidades dela,<n>mesmo que ela escolha\nlapidá-las<n>sozinha. Quero que ela entenda,<n>porém, que se\nprecisar de apoio,<n>estarei esperando."
         },
         {
             "name": "Monólogo",
-            "text": "I try my best to make that known to<n>her as she dashes\naway into the<n>night."
+            "text": "Faço o meu melhor para deixar isso<n>claro enquanto ela\ndispara noite<n>adentro."
         }
     ]
 }

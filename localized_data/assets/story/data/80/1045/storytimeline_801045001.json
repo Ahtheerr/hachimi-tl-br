@@ -1,0 +1,74 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Just as I finish telling <chrname> to<n>take a break\nduring training..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hello there!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "You two are doing such a great job.",
+            "choice_data_list": [
+                "Th-thanks?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe. Oops. I didn't mean to startle<n>you."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I always get this urge to encourage<n>others when\nI see them working hard."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ah, right! Let me know if I can help<n>with anything,\nokay?",
+            "choice_data_list": [
+                "We wouldn't want to bother you."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Don't be shy! ♪ Come on now, you<n>can ask me\nfor anything! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The overwhelming eagerness in<n>Super Creek's\neyes leaves me with<n>no choice but to oblige."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I'll have to think of what I want to<n>ask her for\nfirst though...",
+            "choice_data_list": [
+                "Could you give me some pointers on training?",
+                "Would you like to train with us?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Pointers? Hmm..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I suppose I would suggest you go<n>easy on your\nracer every once in a<n>while."
+        },
+        {
+            "name": "Super Creek",
+            "text": "It's important to work hard, but she<n>won't be\nable to keep it up if you're<n>too strict on her."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, I'd love to! ♪ If you don't mind,<n>let's follow\nmy training program."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'll go get the dumbbells!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "We end up doing some super heavy<n>weight\ntraining with Super Creek."
+        }
+    ]
+}

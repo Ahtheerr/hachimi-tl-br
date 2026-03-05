@@ -1,0 +1,42 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One evening, I see <chrname> back to<n>her dorm\nafter the day's training runs<n>a little longer than\nexpected. Just after<n>we say our goodbyes..."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Trainer <username>! Nice to see you!<n>Are you\nheading home now?",
+            "choice_data_list": [
+                "Yep!"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "I see! I just saw Meek off and was<n>thinking\nabout heading back to the<n>trainer dorms myself,\nso..."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "If it's all right with you, why don't we<n>go back\ntogether?"
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Unless you think that's a little<n>too—how should I\nput this—chummy?<n>We are coworkers, after all...",
+            "choice_data_list": [
+                "Not at all!"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Hehe... Glad to hear it."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "All right. Shall we?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "We talk about various things on the<n>way back to\nthe dorms."
+        }
+    ]
+}

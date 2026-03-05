@@ -2,120 +2,250 @@
     "text_block_list": [
         {
             "name": "Mejiro Ardan",
-            "text": "Allow me to make this formal by<n>reintroducing myself. I am\nMejiro<n>Ardan, and I look forward to training<n>with you from\nnow on.",
+            "text": "Permita-me tornar isto formal me<n>reapresentando. Eu sou\nMejiro<n>Ardan, e estou ansiosa para treinar<n>com você de\nagora em diante.",
             "choice_data_list": [
-                "Same. Let's do our best, Ardan.",
-                "Same. Let's do our best, Ardan."
+                "Igualmente. Vamos dar o nosso melhor, Ardan.",
+                "Igualmente. Vamos dar o nosso melhor, Ardan."
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Indeed. Now, before we begin..."
+            "text": "Certamente. Agora, antes de<n>começarmos..."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Could I ask you to accompany me<n>somewhere this\nweekend?"
+            "text": "Poderia pedir que me acompanhasse<n>a algum lugar este fim\nde semana?"
         },
         {
             "name": "Monólogo",
-            "text": "Before I know it, the weekend rolls<n>around..."
+            "text": "Antes que eu perceba, o fim de<n>semana chega..."
         },
         {
-            "name": "Nanny",
-            "text": "We've arrived, Miss Ardan. Enjoy<n>your day, but do be\ncareful... And<n>please, Trainer, do look after her for<n>us.",
+            "name": "Babá",
+            "text": "Chegamos, Senhorita Ardan.<n>Aproveite o seu dia, mas tenha<n>\ncuidado... E, por favor, Treinador,<n>cuide bem dela por nós.",
             "choice_data_list": [
-                "O-of course!"
+                "C-com certeza!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "After riding in a car owned by the<n>Mejiro family, we find\nourselves at an<n>art museum."
+            "text": "Após andarmos em um carro de<n>propriedade da família\nMejiro, nos<n>encontramos em um museu de arte."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Hehe, no need to be nervous, Trainer.<n>Thank you for\naccompanying us,<n>Nanny. I promise we'll be fine."
+            "text": "Hehe, não há necessidade de ficar<n>nervoso, Treinador.\nObrigada por nos<n>acompanhar, Babá. Prometo que<n>\nficaremos bem."
         },
         {
             "name": "Monólogo",
-            "text": "Despite Ardan's reassurance, I can't<n>seem to calm down. I\nanxiously scan<n>my surroundings..."
+            "text": "Apesar da segurança de Ardan, não<n>consigo me acalmar.\nAnaliso os<n>arredores ansiosamente..."
         },
         {
             "name": "Monólogo",
-            "text": "Only for my eyes to land on the poster<n>for the exhibition\nwe'll be going to.<n>The title of this exhibition is...",
+            "text": "Apenas para meus olhos pousarem<n>no pôster da exposição\nque<n>visitaremos. O título desta exposição<n>é...",
             "choice_data_list": [
-                "\"In the Blink of an Eye\"?"
+                "Num Piscar de Olhos?"
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Yes... I've been meaning to see this<n>exhibition for a while\nnow, but I<n>thought it would be nice to have you<n>\naccompany me.",
+            "text": "Sim... Eu pretendia ver esta exposição<n>há algum tempo, mas\npensei que seria<n>agradável ter a sua companhia.",
             "choice_data_list": [
-                "What kind of exhibition is it?",
-                "What kind of exhibition is it?"
+                "Que tipo de exposição é esta?",
+                "Que tipo de exposição é esta?"
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "This show features a wide variety of<n>media—paintings,\nsculptures,<n>photography, film, and even traditional<n>arts."
+            "text": "Esta mostra apresenta uma grande<n>variedade de mídias —\npinturas,<n>esculturas, fotografia, cinema e até<n>artes\ntradicionais."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "However, they all have one thing in<n>common.",
+            "text": "No entanto, todas têm algo em<n>comum.",
             "choice_data_list": [
-                "And what's that?"
+                "E o que seria?"
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "They are all works that were released<n>after their respective\ncreators died."
+            "text": "São todas obras que foram lançadas<n>após o falecimento de\nseus<n>respectivos criadores."
         },
         {
             "name": "Monólogo",
-            "text": "I head into the exhibition, fully<n>expecting to be blown away\nby each<n>artist's final work—their swan songs.<n>However..."
+            "text": "Entro na exposição esperando<n>plenamente ser impactado\npela obra<n>final de cada artista — seus cantos do<n>cisne. No\nentanto..."
         },
         {
             "name": "Monólogo",
-            "text": "While there certainly are some<n>awe-inspiring pieces, there\nare also<n>works that leave me confused—I<n>mention that it's\njust like any other<n>art exhibition."
+            "text": "Embora existam certamente algumas<n>peças inspiradoras,\ntambém há obras<n>que me deixam confuso — menciono<n>\nque é como qualquer outra exposição<n>de arte."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Yes, I suppose that is one way to look<n>at it."
+            "text": "Sim, suponho que seja uma forma de<n>ver."
         },
         {
             "name": "Monólogo",
-            "text": "Together, Ardan and I make our way<n>through the exhibition,\nuntil we reach a<n>door leading out of the museum."
+            "text": "Juntos, Ardan e eu percorremos a<n>exposição, até\nchegarmos a uma<n>porta que leva para fora do museu."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "There's one more artwork left.<n>Trainer, could we head to\nthe forest<n>behind the museum?"
+            "text": "Resta mais uma obra de arte.<n>Treinador, poderíamos ir até a\nfloresta<n>atrás do museu?"
         },
         {
             "name": "Mejiro Ardan",
-            "text": "It seems that's where the final piece<n>is being displayed,\nand, well... that's<n>the piece I wish to see the most."
+            "text": "Parece que é lá que a peça final está<n>sendo exibida e, bem...\nessa é a peça<n>que mais desejo ver."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "I hope you don't mind this little<n>detour."
+            "text": "Espero que não se importe com este<n>pequeno desvio."
         },
         {
             "name": "Monólogo",
-            "text": "With that, we head into the forest.<n>Judging from the lack of\nother<n>attendees on the path, it seems like<n>very few people\nknow this artwork is<n>part of the exhibition."
+            "text": "Com isso, seguimos para a floresta.<n>A julgar pela falta de\noutros visitantes<n>no caminho, parece que<n>pouquíssimas\npessoas sabem que<n>esta obra faz parte da exposição."
         },
         {
             "name": "Monólogo",
-            "text": "But as we finally reach the spot..."
+            "text": "Mas quando finalmente chegamos ao<n>local..."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Ah... Here it is. This is what I wanted<n>to see."
+            "text": "Ah... Aqui está. Era isto que eu queria<n>ver."
         },
         {
             "name": "Monólogo",
-            "text": "What we find is a single painting."
+            "text": "O que encontramos é uma única<n>pintura."
         },
         {
             "name": "Monólogo",
-            "text": ""
+            "text": "Uma pintura desbotada e desgastada<n>que claramente\nenfrentou sua cota de<n>dias chuvosos e calor escaldante."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Parece que o desejo do artista era<n>que esta obra fosse\nexposta ao ar<n>livre, e somente ao ar livre."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ficamos ali, contemplando a pintura<n>pelo que parece ser\numa eternidade."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Como tenho certeza de que sabe,<n>nasci com um corpo frágil\ne debilitado.",
+            "choice_data_list": [
+                "Sim...",
+                "Sim..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Depois de sairmos do museu,<n>decidimos passar em um\ncafé.<n>Enquanto estamos sentados ali,<n>Mejiro Ardan\ncontinua."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Mas esse também foi o caso da<n>minha irmã, e ela acabou\ntendo uma<n>recuperação milagrosa. Suponho que<n>isso\ntenha me dado esperança..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Mas, infelizmente, o destino não<n>achou por bem permitir\ndois milagres<n>em um só lugar. Suponho que isso<n>tornaria\nos milagres menos especiais."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "O médico da nossa família me disse<n>que meu corpo não\nseria capaz de<n>suportar as corridas. Na verdade, ele<n>disse\nque isso só levaria ao desastre."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Mesmo agora, meus pais são<n>veementemente contra a\nminha<n>decisão de correr. Ainda no outro dia,<n>eles estavam\nao telefone comigo,<n>chorando pelo medo de me perder."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Creio que os temores deles partam,<n>em parte, do fato de\nque eu<n>originalmente deveria ter tido uma<n>gêmea... Eles\ntemem que eu tenha o<n>mesmo destino que minha irmã que<n>\nnasceu sem vida."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "No entanto, apesar de tudo isso... eu<n>ainda desejo correr,\nTreinador.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro Ardan olha para cima, e<n>aqueles olhos — olhos que\nvi arderem<n>com convicção inúmeras vezes —<n>estão\nsubitamente focados em mim."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Não sei quando meu corpo irá me<n>abandonar. Entre as\ninúmeras<n>Umamusume que brilham tanto, minha<n>estrela\npode muito bem ser a primeira<n>a se apagar."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Assim como aquela pintura na<n>floresta, posso desbotar e\nser<n>esquecida. E, no entanto, aqui e<n>agora..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Ainda desejo brilhar, e estou<n>disposta a fazer o que for\nnecessário<n>para isso."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Mesmo que o meu brilho desapareça<n>em um piscar de\nolhos..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Quero deixar a minha marca. Desejo<n>provar que estive\naqui, neste<n>momento.",
+            "choice_data_list": [
+                "Ardan..."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Você me ajudará com isso,<n>Treinador?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ardan me olha com expectativa. No<n>passado, a\ndeterminação dela me<n>deixava sem palavras, mas não<n>\nposso permitir que isso aconteça<n>aqui. Quando as palavras\nsurgem, eu<n>falo...",
+            "choice_data_list": [
+                "Aposto que aquela pintura era muito bonita.",
+                "Aposto que aquela pintura era muito bonita."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "...!",
+            "choice_data_list": [
+                "Eu garantirei que você brilhe com a mesma\nbeleza.",
+                "Eu garantirei que você brilhe com a mesma\nbeleza."
+            ]
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Treinador..."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Peço desculpas por testá-lo com uma<n>previsão tão sombria.\nEstava<n>preocupada que você pudesse não<n>estar\npreparado para o que viria pela<n>frente."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Mas eu estava errada... Você é muito<n>mais determinado do\nque eu jamais<n>imaginei."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro Ardan estende a mão, e eu a<n>aperto com firmeza."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Silenciosamente, faço um pacto para<n>ajudar Mejiro Ardan\na brilhar, aqui e<n>agora."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Peço desculpas, Treinador, mas eu<n>sei de algo sobre\naquela pintura que<n>você não sabe.)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Aquele artista tinha um parceiro<n>dedicado que o apoiou\ndurante toda a<n>vida.)"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "(Dizem que o artista colocou o resto<n>de suas energias\nnaquela pintura... e a<n>dedicou ao seu amor.)"
         }
     ]
 }

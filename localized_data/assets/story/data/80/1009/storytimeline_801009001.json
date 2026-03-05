@@ -1,0 +1,73 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "I make my way to the track a little<n>early for\nmorning training. As soon as<n>I arrive..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hehe, looks like I'm first again! Ah, it<n>sure feels\ngood to be number one in<n>everything! ♪"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Okay, time to get changed! I'm going<n>to run my\nheart out today!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Daiwa Scarlet seems to be in a very<n>good mood\nas she prepares to train.",
+            "choice_data_list": [
+                "Good morning. You're early today."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Morning! ...Wait, what?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You... you were here before me?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "No! I thought I was the first one to<n>arrive! I can't\nbelieve I'm second!",
+            "choice_data_list": [
+                "Do you always come this early?",
+                "Do you always come this early?",
+                "Second is still pretty good."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "No! I thought I was the first one to<n>arrive! I can't\nbelieve I'm second!",
+            "choice_data_list": [
+                "Do you always come this early?",
+                "Do you always come this early?",
+                "Second is still pretty good."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Yeah, I suppose you could call me a<n>morning\nperson. Although it seems<n>you got the better of\nme today."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "The morning is when I can<n>concentrate the best. I\ncan run freely<n>without worrying about others<n>\nwatching me."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'm always aiming to be number one.<n>I want to\nbe the first to arrive at school<n>and the runner who\ncompletes the<n>most laps."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "It's not the same! Being second<n>place is out of\nthe question! It's first<n>or nothing!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Getting here early just doesn't hit<n>the same way\nif I'm not number one!<n>Ugh, I'm so, so, so\nANGRY!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "You won't be so lucky tomorrow! I'm<n>gonna be\nfirst to school for sure!"
+        }
+    ]
+}

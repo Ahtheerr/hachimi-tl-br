@@ -1,0 +1,73 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One day, as I'm walking by the<n>training track..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ow! Geez, that hurt..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Daiwa Scarlet suddenly stops in the<n>middle of the\ntrack."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I wonder if she injured herself<n>somewhere?",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Huh? Oh, it's nothing. I just popped a<n>blister,\nthat's all."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Do you happen to have any<n>bandages on you?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'd like to run some more, so I just<n>need to patch\nthis up real quick.",
+            "choice_data_list": [
+                "Want me to do it for you?",
+                "You should go to the infirmary, just in case!",
+                "You should go to the infirmary, just in case!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'd like to run some more, so I just<n>need to patch\nthis up real quick.",
+            "choice_data_list": [
+                "Want me to do it for you?",
+                "You should go to the infirmary, just in case!",
+                "You should go to the infirmary, just in case!"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Oh, what a nice offer. How<n>considerate of you."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "I'll take you up on that. Make sure to<n>get the\ntape on nice and tight!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hm, not bad. I think I can run on this.<n>Thanks. It\nstill hurts a little, but I guess<n>nothing can be done\nabout that."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Look, I said that I'm fine. Honestly,<n>you're\nmaking a big deal out of<n>nothing."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "But... I suppose I'd be able to run<n>with more\npeace of mind if I get it<n>treated properly now..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Sigh...</i> Fine. I'll have the nurse<n>look at it."
+        }
+    ]
+}

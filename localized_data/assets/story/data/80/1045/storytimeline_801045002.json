@@ -1,0 +1,55 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One day, at the training track..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "<i>Huff, huff...</i> Phew, time for a little<n>break."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Super Creek is known for her<n>stamina, so I'm\nsurprised she's out<n>of breath from running laps.",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "I appreciate the concern, but I'm just<n>running a\nbit hot thanks to this<n>beautiful weather."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm glad you're worrying about me<n>though! ♪",
+            "choice_data_list": [
+                "Cheer her on.",
+                "Get her a drink."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh gosh, thank you! Hehe! I'm all<n>energized\nnow!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Please make sure you cheer your<n>racer on just\nas enthusiastically,<n>okay? ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Goodness me, thank you! You're so<n>considerate."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, I know! Have some of these in<n>return! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Super Creek gives me some<n>handmade cookies."
+        },
+        {
+            "name": "Super Creek",
+            "text": "They're my special carrot cookies.<n>Go ahead\nand have them during your<n>break."
+        }
+    ]
+}

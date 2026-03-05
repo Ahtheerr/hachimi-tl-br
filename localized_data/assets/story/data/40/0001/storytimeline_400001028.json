@@ -1,0 +1,116 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Numa tarde de folga, estou<n>caminhando por um\ncafé ao ar livre<n>quando encontro um rosto\nfamiliar."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Hein? Não pode ser... Treinador<n><username>?!"
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Ora, olá. Pensar que eu esbarraria em<n>você aqui!",
+            "choice_data_list": [
+                "Você vai entrar?"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Eu ia... mas o combo que eu quero só<n>está\ndisponível para duas ou mais<n>pessoas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela olha para uma placa que diz:<n>\"Rodízio de\ndoces e salgados! Perfeito<n>para parceiros e\namigos!\"",
+            "choice_data_list": [
+                "Quer comer junto?",
+                "Quer comer junto?"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Tem certeza? Não quero incomodá-lo<n>apenas por\ncausa do meu trabalho...",
+            "choice_data_list": [
+                "Seu trabalho envolve vir a um rodízio?"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Isso mesmo! A Meek me disse que<n>este café\ntem uma comida incrível."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Então imaginei que, se eu pudesse<n>fazer alguns\npara ela, poderia<n>aumentar ainda mais a\nmotivação<n>dela!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Como colega de profissão, fico<n>impressionado\ncom a dedicação dela,<n>então decido ajudá-la\ncom o seu<n>\"trabalho\"."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Hmm... O creme do parfait parece<n>enfatizar a\ncremosidade do leite em<n>vez da doçura."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Mas combinado com a calda de<n>frutas\nvermelhas, o sabor residual é<n>\nsurpreendentemente leve."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Agora este bolo brûlée... Ngh! Tão<n>rico... Tão\ndoce..."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Com a sua ajuda, consegui<n>experimentar todos\nos pratos que eu<n>queria!"
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Obrigada, Treinador <username>!",
+            "choice_data_list": [
+                "Você conseguirá fazê-los sozinha agora?"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Acho que sim! Vou tentar assim que<n>chegar em\ncasa."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Alguns dias depois..."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Escute! A Meek bateu seu melhor<n>tempo ontem!"
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Ela disse que foi porque as<n>sobremesas que eu\nfiz a motivaram<n>muito. Hehe!"
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Mas ainda tenho um longo caminho a<n>percorrer!\nPreciso continuar<n>pesquisando até conseguir\nrecriar<n>perfeitamente os sabores daquele<n>café!"
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Jamais quero dar à Meek nada<n>menos que um\napoio de primeira<n>classe."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Para isso, não pouparei esforços!",
+            "choice_data_list": [
+                "Me avise se eu puder ajudar novamente."
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Treinador <username>... Sim, com<n>certeza!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Treinadora Kiryuin compartilha<n>alguns de seus\ndoces caseiros<n>comigo como agradecimento pela<n>\najuda."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu os como junto com a <chrname>."
+        }
+    ]
+}

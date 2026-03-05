@@ -2,242 +2,243 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "We're now halfway through our<n>summer training camp, and\nMejiro<n>Ardan's making good progress. One<n>day, as we\nhead out to start our<n>afternoon session..."
+            "text": "Estamos agora na metade do nosso<n>campo de treinamento\nde verão, e<n>Mejiro Ardan está progredindo bem.<n>Um dia,\nenquanto saímos para<n>começar nossa sessão da tarde..."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Now then, shall we begi—hm?"
+            "text": "Pois bem, vamos começ—hm?"
         },
         {
-            "name": "Student A",
-            "text": "Ah, you two! Do you have any plans<n>tonight? We're holding\na test of<n>courage! You guys should totally<n>come!"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "A test of courage? That's where you<n>explore a scary\nlocation, yes? I've<n>heard about them, but I've never<n>\nactually joined."
-        },
-        {
-            "name": "Student B",
-            "text": "W-wait a second, be more<n>considerate! You don't want to<n>\npressure her... Ardan, we understand<n>if you can't come\nbecause of your<n>health."
+            "name": "Estudante A",
+            "text": "Ah, vocês dois! Têm planos para<n>hoje à noite? Vamos\nrealizar um teste<n>de coragem! Vocês deveriam<n>aparecer\ncom certeza!"
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Well... I appreciate the concern. I'm<n>personally feeling well\nenough to<n>attend, but..."
+            "text": "Um teste de coragem? É onde se<n>explora um local\nassustador, sim? Já<n>ouvi falar, mas nunca participei de<n>\nfato."
+        },
+        {
+            "name": "Estudante B",
+            "text": "E-espera um segundo, seja mais<n>atenciosa! Não queremos<n>\npressioná-la... Ardan, nós<n>entendemos se você não puder\nvir por<n>causa da sua saúde."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Bem... agradeço a preocupação.<n>Pessoalmente, sinto-me\nbem o<n>suficiente para participar, mas..."
         },
         {
             "name": "Monólogo",
-            "text": "She must be worried about alarming<n>the other participants\nand event<n>planners. But if she says she's<n>healthy, I don't\nsee why she<n>shouldn't join.",
+            "text": "Ela deve estar preocupada em<n>alarmar as outras\nparticipantes e<n>organizadores. Mas se ela diz que<n>está\nsaudável, não vejo por que não<n>deveria se juntar a elas.",
             "choice_data_list": [
-                "I say we do it. Besides, I'll be there just in case.\n| I say we do it. Besides, I'll be there just in\ncase."
+                "Eu digo para irmos. Além disso, estarei lá para\nqualquer eventualidade.",
+                "Eu digo para irmos. Além disso, estarei lá para\nqualquer eventualidade."
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Oh! Trainer..."
+            "text": "Oh! Treinador..."
         },
         {
-            "name": "Student B",
-            "text": "All right, but we'll understand if you<n>can't make it in the\nend. Or if you have<n>to leave halfway through!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "We finish our day of training and<n>head to where the test of\ncourage is<n>being held."
-        },
-        {
-            "name": "Ghastly Umamusume A",
-            "text": "Boooo!"
-        },
-        {
-            "name": "Students",
-            "text": "Aaaaahhh!Eeeeek!"
+            "name": "Estudante B",
+            "text": "Tudo bem, mas entenderemos se<n>você não puder vir no\nfinal. Ou se tiver<n>que sair no meio do caminho!"
         },
         {
             "name": "Monólogo",
-            "text": "From the darkness ahead, we can<n>hear the screams of\nother people<n>braving the test of courage.",
+            "text": "Terminamos nosso dia de treino e<n>seguimos para onde o\nteste de<n>coragem está sendo realizado."
+        },
+        {
+            "name": "Umamusume Assustadora A",
+            "text": "Búúú!"
+        },
+        {
+            "name": "Estudantes",
+            "text": "Aaaaahhh! Iiiiihh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vindo da escuridão à frente, podemos<n>ouvir os gritos de\noutras pessoas<n>enfrentando o teste de coragem.",
             "choice_data_list": [
-                "Sounds like... fun?",
-                "Sounds like... fun?"
+                "Parece... divertido?",
+                "Parece... divertido?"
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Doesn't it? I'm getting chills just<n>thinking about it. Now\nthen, it's our<n>turn."
+            "text": "Não parece? Estou ficando arrepiada<n>só de pensar. Pois\nbem, é a nossa<n>vez."
         },
         {
-            "name": "Ghastly Umamusume A",
-            "text": "Boo—Ardan?! S-sorry, I didn't scare<n>you, did I?"
-        },
-        {
-            "name": "Mejiro Ardan",
-            "text": "Not at all. Thank you for your concern."
-        },
-        {
-            "name": "Ghastly Umamusume B",
-            "text": "Beware... Bewaaare... Beware the<n>bumps in the road, Ardan.\nWe don't<n>want you to trip and fall."
+            "name": "Umamusume Assustadora A",
+            "text": "Bú—Ardan?! D-desculpe, eu não te<n>assustei, assustei?"
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Thank you, I'll keep an eye out. And<n>please do watch out\nfor bug bites<n>yourself."
+            "text": "De forma alguma. Obrigada por sua<n>preocupação."
+        },
+        {
+            "name": "Umamusume Assustadora B",
+            "text": "Cuidado... Cuidadooo... Cuidado com<n>os calços no caminho,\nArdan. Não<n>queremos que você tropece e caia."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Obrigada, ficarei atenta. E por favor,<n>tome cuidado com as\npicadas de<n>insetos também."
         },
         {
             "name": "Monólogo",
-            "text": "As we continue on, it's clear the<n>people playing the\nmonsters and<n>ghosts are going easy on Ardan for<n>her\nsake. I wonder if Ardan is<n>enjoying herself..."
+            "text": "Conforme avançamos, fica claro que<n>as pessoas\ninterpretando os<n>monstros e fantasmas estão<n>pegando\nleve com a Ardan por causa<n>dela. Pergunto-me se Ardan\nestá se<n>divertindo..."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Hehe... Who knew a test of courage<n>could be so delightful?\nEveryone's<n>having so much fun. I'm glad we<n>were\ninvited.",
+            "text": "Hehe... quem diria que um teste de<n>coragem poderia ser tão\nencantador?<n>Estão todos se divertindo tanto. Fico<n>feliz por\ntermos sido convidados.",
             "choice_data_list": [
-                "Good to see you're having fun.",
-                "Good to see you're having fun."
+                "É bom ver que está se divertindo.",
+                "É bom ver que está se divertindo."
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Of course I am. After all..."
+            "text": "Com certeza estou. Afinal..."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "We're just like those two knights in<n>that play, seeking glory\nby hunting<n>down ghosts."
+            "text": "Somos como aqueles dois cavaleiros<n>naquela peça,\nbuscando glória ao<n>caçar fantasmas."
         },
         {
-            "name": "Knight A",
-            "text": "My friend, do my eyes deceive me?<n>Is that not the accursed\ncastle, said to<n>only appear at dusk? What a<n>foreboding\natmosphere..."
+            "name": "Cavaleiro A",
+            "text": "Meu amigo, meus olhos me<n>enganam? Não é aquele o\ncastelo<n>amaldiçoado, que dizem só aparecer<n>ao\ncrepúsculo? Que atmosfera<n>agourenta..."
         },
         {
-            "name": "Knights",
-            "text": "A g-g-g-g-ghost?!"
+            "name": "Cavaleiros",
+            "text": "Um f-f-f-f-fantasma?!"
         },
         {
             "name": "Monólogo",
-            "text": "Now that she mentions it... Despite the<n>fact that the play was\na comedy, the<n>premise itself <i>is</i> kinda creepy...",
+            "text": "Agora que ela mencionou... Apesar do<n>fato de a peça ser\numa comédia, a<n>premissa em si <i>é</i> meio sinistra...",
             "choice_data_list": [
-                "H-haha... Is it chilly in here or is it just... me?"
+                "H-haha... Está frio aqui ou sou apenas... eu?"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "No response. I look over to my side<n>and realize Ardan is\ngone."
+            "text": "Sem resposta. Olho para o meu lado e<n>percebo que Ardan\nsumiu."
         },
         {
             "name": "Monólogo",
-            "text": "Worried that I accidentally left her<n>behind, I whip my head\naround, but<n>still no sign of her...",
+            "text": "Preocupado por ter acidentalmente a<n>deixado para trás, viro\nminha cabeça,<n>mas ainda sem sinal dela...",
             "choice_data_list": [
                 "Ardan?"
             ]
         },
         {
             "name": "???",
-            "text": "Wah!",
+            "text": "Uá!",
             "choice_data_list": [
                 "Uwaaaaahhh!"
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Oh! Hehe... Ehehe! I wasn't expecting<n>you to scream like\nthat."
+            "text": "Oh! Hehe... Ehehe! Eu não esperava<n>que você gritasse\nassim."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Phew... My apologies for scaring you.<n>I simply couldn't help<n>\nmyself—pretending to be a ghost just<n>looked like so much\nfun. I had to try it<n>for myself.",
+            "text": "Ufa... Minhas desculpas por<n>assustá-lo. Eu simplesmente\nnão<n>pude evitar— fingir ser um fantasma<n>parecia tão\ndivertido. Tive que<n>experimentar por mim mesma.",
             "choice_data_list": [
-                "Just you wait—vengeance will be mine!",
-                "Just you wait—vengeance will be mine!"
+                "Espere só — a vingança será minha!",
+                "Espere só — a vingança será minha!"
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Oh? I'm looking forward to it. ♪"
+            "text": "Oh? Estou ansiosa por isso. ♪"
         },
         {
             "name": "Mejiro Ardan",
-            "text": "What a worthwhile experience.<n>Although it's a shame we\ndidn't find<n>any real ghosts or castles.",
+            "text": "Que experiência valiosa. Embora<n>seja uma pena não\ntermos<n>encontrado nenhum fantasma ou<n>castelo real.",
             "choice_data_list": [
-                "I also never got my revenge..."
+                "Eu também nunca tive minha vingança..."
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Hehe, it'll take more than hiding<n>around the corner and loud\nnoises to<n>scare me. Still, it was fun waiting to<n>see what\nyou'd come up with next."
+            "text": "Hehe, será preciso mais do que se<n>esconder na esquina e\nruídos altos<n>para me assustar. Ainda assim, foi<n>divertido\nesperar para ver o que você<n>inventaria a seguir."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "It felt like I was back to being a child<n>again... I just feel so at\nease when<n>I'm with you, Trainer."
+            "text": "Senti como se voltasse a ser criança<n>novamente... Eu me\nsinto tão à<n>vontade quando estou com você,<n>Treinador."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Phew...",
+            "text": "Ufa...",
             "choice_data_list": [
-                "Tired? We can take a break."
+                "Cansada? Podemos fazer uma pausa."
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "No, I'm fi—"
+            "text": "Não, estou be—"
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Actually... Do you mind if we rest for a<n>while?"
+            "text": "Na verdade... você se importa se<n>descansarmos um pouco?"
         },
         {
             "name": "Mejiro Ardan",
-            "text": "We have training tomorrow, correct?<n>What... will the regimen\nlook like? We<n><i>have</i> been out rather late...",
+            "text": "Temos treino amanhã, correto?<n>Como... será o regime? Nós<n>\n<i>estamos</i> fora até bem tarde...",
             "choice_data_list": [
-                "Oh, we're going hard at practice tomorrow."
+                "Oh, vamos pegar pesado no treino amanhã."
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Oh? Understood.",
+            "text": "Oh? Compreendido.",
             "choice_data_list": [
-                "Happy?"
+                "Feliz?"
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Hehe, I am. More than you could ever<n>imagine."
+            "text": "Hehe, estou. Mais do que você<n>jamais poderia imaginar."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "I'm so glad to have someone who<n>understands me...\nUnderstands that I<n>want to do as much as I can."
+            "text": "Fico tão feliz em ter alguém que me<n>entenda... Que entenda\nque eu quero<n>fazer o máximo que puder."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "It's so... reassuring. I—"
+            "text": "É tão... reconfortante. Eu—"
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Trainer... Do you remember when you<n>told me it's okay to\ndo what I want<n>sometimes?"
+            "text": "Treinador... você se lembra de quando<n>me disse que não\nhavia problema em<n>fazer o que eu quisesse às vezes?"
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Besides, I promised you I wouldn't<n>overdo it, correct? I\nassure you, I am<n>fine."
+            "text": "Além disso, prometi que não<n>exageraria, correto?\nAsseguro-lhe que<n>estou bem."
         },
         {
             "name": "Monólogo",
-            "text": "All right, but remember, it's okay to<n>do what you want\nsometimes."
+            "text": "Tudo bem, mas lembre-se, não há<n>problema em fazer o que\nvocê quer às<n>vezes."
         },
         {
             "name": "Monólogo",
-            "text": "All right, but remember, it's okay to<n>do what you want\nsometimes."
+            "text": "Tudo bem, mas lembre-se, não há<n>problema em fazer o que\nvocê quer às<n>vezes."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "You said I could relax more, no?",
+            "text": "Você disse que eu poderia relaxar<n>mais, não?",
             "choice_data_list": [
-                "Yup, I remember."
+                "Sim, eu me lembro."
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Then, could I... rest my head on your<n>shoulders? The sound\nof the waves is<n>just so... soothing."
+            "text": "Então, eu poderia... descansar minha<n>cabeça em seus\nombros? O som das<n>ondas é tão... calmante."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "(What a lovely sound... I could fall<n>asleep just like this. In\nfact, I just<n>might. Trainer wouldn't mind.)"
+            "text": "(Que som adorável... eu poderia pegar<n>no sono assim\nmesmo. Na verdade,<n>eu bem que poderia. O Treinador não<n>\nse importaria.)"
         },
         {
             "name": "Mejiro Ardan",
-            "text": "(Trainer... you're like a steady tree. I<n>know if I ever need to\nrest, you'll be<n>there for me to lean on.)"
+            "text": "(Treinador... você é como uma árvore<n>robusta. Sei que se eu\nprecisar<n>descansar, você estará lá para eu me<n>apoiar.)"
         }
     ]
 }

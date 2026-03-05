@@ -1,0 +1,36 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "<chrname> sofreu uma lesão grave!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Devo fazê-la focar em melhorar ou<n>superar a\ndor...",
+            "choice_data_list": [
+                "O tratamento deve vir primeiro.",
+                "A dor é fraqueza saindo do corpo!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Decido focar em tratar as lesões dela."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<chrname> parece estar se sentindo<n>um pouco\ndeprimida porque não pode<n>fazer nenhum\nexercício..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não há tempo a perder! Endureço<n>meu coração e\ndecido fazer a<n><chrname> superar a dor."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas ela se esforça demais e sua<n>lesão piora..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E a lesão foi curada milagrosamente!<n>A prática\ncorre perfeitamente!"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "While I'm walking about the shopping<n>district..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I notice Rice Shower watering flowers<n>at a flower\nshop."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Some for you, and you... Phew. That<n>should do it."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "H-huh? What are you doing here? I-I<n>mean,\nwelcome to the store...",
+            "choice_data_list": [
+                "Forget me. What are <i>you</i> doing here?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, it's all my fault... I accidentally<n>knocked over\na flower pot, and the<n>shop manager tripped over\nit and<n>sprained an ankle..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm helping out today as an apology. I<n>just hope\nI don't make things worse...",
+            "choice_data_list": [
+                "Want me to help water the flowers?",
+                "Want me to bring out more flowers from the\nback?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "What? Y-you want to help? If you're<n>sure, then...\nI would appreciate it a lot."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Aren't the flowers here just so<n>beautiful? I think\nthe roses are<n>especially pretty!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "And when you water them, the petals<n>sparkle\nlike diamonds... I can't help<n>but be mesmerized\nby them."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Rice Shower and I chat happily as we<n>water the\nflowers in the shop."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Th-thank you... Please be careful.<n>Some of them\nare pretty heavy..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "These flowers are so pretty... I<n>wonder if we'd\nget more customers if<n>we displayed a bunch of\nthem out<n>front? Ehehe!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I eventually finish restocking the<n>inventory. It\nwas tougher than I<n>expected."
+        }
+    ]
+}

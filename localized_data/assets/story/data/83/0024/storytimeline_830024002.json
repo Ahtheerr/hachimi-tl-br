@@ -1,0 +1,185 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "I'm visiting a racecourse today to<n>inspect it for\n<chrname>."
+        },
+        {
+            "name": "Reporter",
+            "text": "I've heard the good news, Oguri!<n>Looks like\nthey're having an event to<n>mark the release of\nyour plushie!<n>Congratulations!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Th-thank you."
+        },
+        {
+            "name": "Reporter",
+            "text": "Your family must be so proud of their<n>little star!\nI'd love to get the scoop on<n>their heartwarming\nreaction. When are<n>they available for an\ninterview?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Well, my parents are back in my<n>hometown, so—"
+        },
+        {
+            "name": "Reporter",
+            "text": "Oh, I don't mind talking over the<n>phone! Sooo, if\nyou would just tell me<n>your family's phone\nnumber..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Th-their number? Um, it's zero—"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Interview or not, asking for personal<n>information\nis unacceptable. As a<n>member of the academy, I\ncan't stand<n>idly by.",
+            "choice_data_list": [
+                "Please contact the academy if you have any\nfurther questions."
+            ]
+        },
+        {
+            "name": "Reporter",
+            "text": "Huh, and who might you be? Th-that<n>badge...\nHaha, you must be from the<n>academy, eh? Well,\nI'll be on my way,<n>then!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Thanks for saving me. I had a feeling<n>that\nreporter didn't have good<n>intentions.",
+            "choice_data_list": [
+                "You should turn reporters down the second you\nthink it's suspicious."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah, I know..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But that reporter called me a star."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "And he told me that stars have an<n>obligation to\nrespond because that's<n>what their fans would\nwant."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I thought if I refused to answer..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Maybe I'd be letting everyone down.<n>Is that not\ntrue?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "It's clear she regards her fans<n>highly... but that\nmakes what I'm<n>about to say all the more\nimportant.",
+            "choice_data_list": [
+                "You need to be firm in turning them down.",
+                "You need to be firm in turning them down."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But...",
+            "choice_data_list": [
+                "Your true fans care about <i>you</i> as well.",
+                "Your true fans care about <i>you</i> as well."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "You're right... Tome and Shige used to<n>always tell\nme I was their treasure."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "I guess that means I should protect<n>myself... so I\ncan protect their treasure."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Okay, I see where you're coming<n>from. I'll make\nsure to refuse next<n>time."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...I wonder if I'll really be able to do it<n>properly,\nthough.",
+            "choice_data_list": [
+                "If you can't do it yourself, ask an adult for help.",
+                "I'll teach you a special phrase."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Okay, I'll do that."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Then I'll be counting on you when the<n>time\ncomes.",
+            "choice_data_list": [
+                "Me?",
+                "Me?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yes. The way you handled the<n>conversation\nearlier was very<n>impressive. Plus, you just\nhappen to<n>be from the academy."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "So... Could I ask for your help again?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I'm taken aback by her frank<n>request.\nEverything she said is true,<n>but...",
+            "choice_data_list": [
+                "You're really straightforward... almost to a fault.",
+                "You're really straightforward... almost to a fault."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Yeah, I've heard. My mom often<n>praised me for\nit."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Later on, I see Oguri Cap candidly<n>asking other\nadults in the academy<n>various questions."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...A special phrase?",
+            "choice_data_list": [
+                "Please contact the academy."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "That's... exactly what you told the<n>reporter!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "And the reporter ran off the second<n>they heard\nthose words. Hmmm..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Just as she finishes speaking, a<n>woman runs\nover to us."
+        },
+        {
+            "name": "Equipe",
+            "text": "Oh, there you are, Oguri! About the<n>plushie—"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Please contact the academy regarding<n>that\nquestion!"
+        },
+        {
+            "name": "Equipe",
+            "text": "Oh. Wait, what?! Weren't we<n>scheduled to have\na meeting about<n>manufacturing your plushie\ntoday?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Oh. Yes, that's right... S-sorry."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seems like it'll take a little more work<n>before she\ncan use her special phrase<n>properly."
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One day, while I'm out on a walk..."
+        },
+        {
+            "name": "Cat",
+            "text": "Meeeooow."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Gahhh! Wait, come back! C'mon,<n>lemme pet\nyour gorgeous floof—"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Aw maaan... It's gone. Ugh, I'm<n>pooped from all\nof that running."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hey, you there. Yeah, the person I'm<n>looking at\nright now. I've got a<n>question for you.",
+            "choice_data_list": [
+                "Me?",
+                "Me?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Yep! Got any fail-safe plans on how I<n>can\nmanage to pet that cat just now?",
+            "choice_data_list": [
+                "Just wait in a sunny spot.",
+                "Chasing it at full speed is sure to work!"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hmm. Nothing beats lazing about in<n>the sun. So\nyou think I should just chill<n>and wait for it, huh?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Weeelp, guess I'll just... <i>yawn...</i><n>have a\nlittle... nap..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wake me up when the cat... comes...<n><i>Zzzzz...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "And so, I wait for the cat in Seiun<n>Sky's place\nwhile she snoozes away."
+        },
+        {
+            "name": "Monólogo",
+            "text": "It's admirable how she's using<n>everything at\nher disposal. Or so I<n>think in an attempt to\nconsole myself<n>after being so easily\nmanipulated..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Wow, nice idea! Well, get crackin',<n>then.",
+            "choice_data_list": [
+                "Get cracking on what, exactly?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hm? Don't play dumb with me.<n>You're the one\nwho said chasing after<n>the cat'll work for sure,\nso put your<n>money where your mouth is."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "As for me, I'm gonna wholeheartedly<n>cheer you\non from the sidelines!"
+        },
+        {
+            "name": "Cat",
+            "text": "Mrooow?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh! It's right there in the shade of that<n>tree! You\ncan do it! Woo, go get 'em!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The cat proves to be far more wily<n>than I\nexpected, and it seriously gives<n>me the\nrunaround."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I'm unable to capture it on my own,<n>so I end up\nasking <chrname> for help..."
+        }
+    ]
+}

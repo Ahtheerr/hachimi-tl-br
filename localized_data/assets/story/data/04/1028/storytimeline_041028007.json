@@ -31,7 +31,7 @@
             "name": "Hishi Akebono",
             "text": "Você foi tão prestativo durante todooo<n>o acampamento,\nentão eu realmente<n>acho que você deveria descansar...",
             "choice_data_list": [
-                "Não se preocupe! Estou *explodindo* de\nenergia!"
+                "Não se preocupe! Estou <i>explodindo</i> de\nenergia!"
             ]
         },
         {
@@ -186,7 +186,7 @@
         },
         {
             "name": "Hishi Akebono",
-            "text": "Se eu fizer isso, talvez elas até me<n>agradeçam no <i>final</i> da\nrefeição<n>também.",
+            "text": "Se eu fizer isso, talvez elas até me<n>agradeçam no <i>final</i>\nda refeição<n>também.",
             "choice_data_list": [
                 "Tenho certeza que sim.",
                 "Tenho certeza que sim."

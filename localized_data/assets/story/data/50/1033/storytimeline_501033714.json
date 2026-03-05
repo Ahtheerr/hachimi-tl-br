@@ -1,0 +1,91 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Admire Vega se lesionou durante o<n>treino, então\neu a acompanho até a<n>enfermaria."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Disseram-me para não movê-lo até<n>que esteja\ntotalmente curado."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eu sabia que algo parecia errado,<n>mas ignorei. E\nagora me deparo com<n>este desastre."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Mas isso ainda não é motivo para eu<n>ficar\nociosa."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Sinto muito, mas vou correr. Meu<n>treino tem que\ncontinuar.",
+            "choice_data_list": [
+                "Acho que você deveria focar em se recuperar\npor enquanto.",
+                "Vamos procurar alguns exercícios seguros que\nvocê possa realizar."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Mas eu quero vencer..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Tenho que treinar mais pesado do<n>que qualquer\noutra. Não tenho outra<n>escolha.",
+            "choice_data_list": [
+                "Você não poderá correr em nenhuma corrida se\nisso piorar.",
+                "Você não poderá correr em nenhuma corrida se\nisso piorar."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Você tem razão... eu sei disso. Ainda<n>assim..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Admire Vega não parece convencida,<n>mas segue\nmeu conselho e descansa."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Admire Vega vai para a academia na<n>esperança\nde treinar de uma forma<n>que não afete sua lesão.\nNo entanto..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Uf...",
+            "choice_data_list": [
+                "Você está bem?!",
+                "Você está bem?!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Senti uma leve fisgada... Mas não é<n>nada com o\nque se preoc—AI!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu a impeço de continuar, mas sua<n>recuperação\nacaba demorando mais."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu enfaixo a área lesionada para<n>reforçar o\nsuporte."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...",
+            "choice_data_list": [
+                "Parece bom?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Não dói. Acho que ficarei bem assim."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Obrigada. Ficarei bem por enquanto."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Depois disso, bolamos uma maneira<n>de evitar\nforçar sua lesão, e ela<n>consegue terminar o\ntreino em<n>segurança."
+        }
+    ]
+}

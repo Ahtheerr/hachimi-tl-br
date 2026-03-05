@@ -2,46 +2,47 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "It's evening, and I'm in my room<n>crafting a plan to help\nNature beat<n>Tokai Teio at the Tracen Meet."
+            "text": "É noite, e estou no meu quarto<n>criando um plano para\najudar a Nature<n>a vencer a Tokai Teio no Meet da<n>Tracen."
         },
         {
             "name": "Nice Nature",
-            "text": "Uma Attack! Good evening, it's your<n>beloved trainee!"
+            "text": "Ataque Uma! Boa noite, é a sua<n>aprendiz amada!"
         },
         {
             "name": "Nice Nature",
-            "text": "Sorry for coming by so late, Trainer. I<n>forgot some stuff in\nthe trainer office,<n>sooo... mind lending me the keys?"
+            "text": "Desculpe vir tão tarde, Treinador. Eu<n>esqueci umas coisas\nno escritório do<n>treinador, entããão... se importa de me<n>\nemprestar as chaves?"
         },
         {
             "name": "Nice Nature",
-            "text": "Oh yeah, it'd be a hassle to return<n>them tonight, so I'll\nunlock the room<n>for you tomorrow.",
+            "text": "Ah, sim, seria um incômodo ter que<n>devolvê-las hoje à\nnoite, então eu<n>abro a sala para você amanhã.",
             "choice_data_list": [
-                "It's already late, so why don't we go together?\n| It's already late, so why don't we go\ntogether?"
+                "Já está tarde, por que não vamos juntos?",
+                "Já está tarde, por que não vamos juntos?"
             ]
         },
         {
             "name": "Nice Nature",
-            "text": "Huh?! Ah, um, that's..."
+            "text": "Hã?! Ah, bem, é que..."
         },
         {
             "name": "Nice Nature",
-            "text": "I-I'll be f-fine! Just who do you take<n>me for? I'm not a\ndamsel in distress,<n>y'know?"
+            "text": "E-eu vou ficar b-bem! Quem você<n>pensa que eu sou? Não\nsou nenhuma<n>donzela em perigo, sabe?"
         },
         {
             "name": "Nice Nature",
-            "text": "That's that, so hurry it up! Gimme the<n>keys already."
+            "text": "E é isso, então anda logo! Me dá as<n>chaves de uma vez."
         },
         {
             "name": "Monólogo",
-            "text": "I'm a little curious about the way<n>Nature is acting, but I hand\nthe keys<n>over to her anyway."
+            "text": "Estou um pouco curioso com a forma<n>como a Nature está\nagindo, mas<n>entrego as chaves para ela de<n>qualquer\nforma."
         },
         {
             "name": "Nice Nature",
-            "text": "My thanks! And with that, a good<n>night to you, Trainer."
+            "text": "Meus agradecimentos! E com isso,<n>uma boa noite para\nvocê, Treinador."
         },
         {
             "name": "Monólogo",
-            "text": "A few hours later..."
+            "text": "Algumas horas depois..."
         },
         {
             "name": "Monólogo",
@@ -49,191 +50,191 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Hello? Is this Nature's trainer? This is<n>Fuji Kiseki, dorm\nleader of Ritto<n>Dormitory, speaking."
+            "text": "Alô? É o treinador da Nature? Aqui é<n>Fuji Kiseki, monitora\ndo Dormitório<n>Ritto."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "It's already an hour past curfew, but<n>Nature hasn't come\nback yet. Would<n>you have any ideas as to where she<n>\nmight be?",
+            "text": "Já passou uma hora do toque de<n>recolher, mas a Nature\nainda não<n>voltou. Você teria alguma ideia de<n>onde ela\npossa estar?",
             "choice_data_list": [
                 "...?!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "There's no time to panic! First, I<n>should check the trainer's\noffice!"
+            "text": "Não há tempo para pânico! Primeiro,<n>devo verificar o\nescritório do treinador!"
         },
         {
             "name": "Monólogo",
-            "text": "I run through the dimly-lit academy,<n>finally arriving in front of\nthe trainer's<n>office."
+            "text": "Corro pela academia mal iluminada,<n>finalmente chegando\nem frente ao<n>escritório do treinador."
         },
         {
             "name": "Narradora",
-            "text": "Coming around from the outside is<n>none other than Tokai\nTeio! It's the<n>final stretch!"
+            "text": "Surgindo pelo lado de fora está<n>ninguém menos que Tokai\nTeio! É a<n>reta final!"
         },
         {
             "name": "Narradora",
-            "text": "Tokai Teio leaps into the front! She<n>breaks out of the pack...\nand across<n>the line! Winning by two whole<n>lengths, Tokai\nTeio takes home the<n>gold!",
+            "text": "Tokai Teio salta para a frente! Ela se<n>desprende do\npelotão... e cruza a<n>linha! Vencendo por dois corpos<n>\ninteiros, Tokai Teio leva o ouro para<n>casa!",
             "choice_data_list": [
-                "(Is that race footage of Teio?)"
+                "(Aquela é uma gravação da corrida da Teio?)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Opening the door, I find Nature staring<n>intently at footage of\nTokai Teio."
+            "text": "Abrindo a porta, encontro a Nature<n>olhando atentamente\npara as<n>filmagens da Tokai Teio."
         },
         {
             "name": "Nice Nature",
-            "text": "<i>Yawn...</i> O-o-ow... neck... stiff."
+            "text": "<i>Bocejo...</i> A-a-ai... pescoço...<n>travado."
         },
         {
             "name": "Nice Nature",
-            "text": "Still... win after win after win. Her<n>positioning near the end\nthere was<n>flawless—practically textbook."
+            "text": "Ainda assim... vitória após vitória<n>após vitória. O\nposicionamento dela<n>perto do fim foi impecável —<n>\npraticamente de livro didático."
         },
         {
             "name": "Nice Nature",
-            "text": "Once she gets into her groove,<n>there's no stopping her...\nYikes, I'm<n>getting the heebie-jeebies.",
+            "text": "Uma vez que ela entra no ritmo, nada<n>a detém... Caramba,\nestou até com<n>arrepios.",
             "choice_data_list": [
-                "Are you researching Teio by yourself?",
-                "Are you researching Teio by yourself?"
+                "Você está pesquisando a Teio sozinha?",
+                "Você está pesquisando a Teio sozinha?"
             ]
         },
         {
             "name": "Nice Nature",
-            "text": "Huh? Wh-whooooa?!"
+            "text": "Hã? U-u-uau?!"
         },
         {
             "name": "Nice Nature",
-            "text": "T-Trainer! N-no way—why're you<n>here?!",
+            "text": "T-Treinador! D-de jeito nenhum — por<n>que você está aqui?!",
             "choice_data_list": [
-                "I got a call from your dorm leader.",
-                "I got a call from your dorm leader."
+                "Recebi uma ligação da sua monitora.",
+                "Recebi uma ligação da sua monitora."
             ]
         },
         {
             "name": "Nice Nature",
-            "text": "From Fuji?! Why did she... Ahhh! The<n>curfew!"
+            "text": "Da Fuji?! Por que ela... Ahhh! O toque<n>de recolher!"
         },
         {
             "name": "Nice Nature",
-            "text": "Augh, I totally lost track of the time. Oh<n>man, that's so dumb!"
+            "text": "Ai, eu perdi totalmente a noção do<n>tempo. Nossa, que\nburrice!"
         },
         {
             "name": "Monólogo",
-            "text": "Looks like she got sucked into<n>researching Tokai Teio and\ndidn't<n>realize it was this late already."
+            "text": "Parece que ela ficou absorta<n>pesquisando a Tokai Teio e\nnão<n>percebeu que já estava tão tarde."
         },
         {
             "name": "Nice Nature",
-            "text": "Um... Sorry about lying to you earlier.<n>Here's the key. I'll go\napologize to<n>Fuji too.",
+            "text": "Bem... Desculpe por mentir para você<n>antes. Aqui está a\nchave. Eu vou pedir<n>desculpas para a Fuji também.",
             "choice_data_list": [
-                "You want to beat Tokai Teio, don't you?",
-                "You want to beat Tokai Teio, don't you?"
+                "Você quer vencer a Tokai Teio, não quer?",
+                "Você quer vencer a Tokai Teio, não quer?"
             ]
         },
         {
             "name": "Nice Nature",
-            "text": "Huh?! Nah, it's not—"
+            "text": "Hã?! Não, não é—"
         },
         {
             "name": "Nice Nature",
-            "text": "...It's not that simple."
+            "text": "...Não é tão simples assim."
         },
         {
             "name": "Nice Nature",
-            "text": "I told you plenty of times, haven't I?<n>That... I'm not built like\nthe others."
+            "text": "Eu já te disse várias vezes, não<n>disse? Que... eu não fui\nfeita como as<n>outras."
         },
         {
             "name": "Monólogo",
-            "text": "With a hint of frustration in her tone,<n>Nature slowly walks\ntowards the<n>window before gazing up at the night<n>sky."
+            "text": "Com um toque de frustração no tom,<n>Nature caminha\nlentamente em direção<n>à janela antes de olhar para o céu<n>\nnoturno."
         },
         {
             "name": "Nice Nature",
-            "text": "I'm not like those dazzling stars—I<n>can't shine like they do.\nI'm not the<n>main character of this story."
+            "text": "Eu não sou como aquelas estrelas<n>ofuscantes — não\nconsigo brilhar como<n>elas. Não sou a protagonista desta<n>\nhistória."
         },
         {
             "name": "Nice Nature",
-            "text": "Of course, there was a time when I<n>thought I was, y'know?\nI wouldn't<n>have come to Tracen otherwise."
+            "text": "Claro, houve um tempo em que eu<n>pensei que fosse, sabe?\nEu não teria<n>vindo para a Tracen se não fosse<n>assim."
         },
         {
             "name": "Nice Nature",
-            "text": "But now... I know the the cold, hard<n>truth."
+            "text": "Mas agora... eu conheço a dura e fria<n>verdade."
         },
         {
             "name": "Nice Nature",
-            "text": "No matter how fast I run, there's<n>always someone out there\nwho's<n>faster."
+            "text": "Não importa o quão rápido eu corra,<n>sempre há alguém por\naí que é mais<n>rápida."
         },
         {
             "name": "Nice Nature",
-            "text": "Everyone cheered me on—even threw<n>me a send-off fit for\na queen. But<n>when I'm next to real stars, there's<n>no way\nI can compare to their<n>radiance."
+            "text": "Todos torceram por mim — até me<n>fizeram uma despedida\ndigna de<n>rainha. Mas quando estou ao lado de<n>estrelas\nreais, não tenho como me<n>comparar ao seu brilho."
         },
         {
             "name": "Nice Nature",
-            "text": "To put it simply, I'm just one of those<n>extras you see all the\ntime in movies."
+            "text": "Para simplificar, sou apenas uma<n>daquelas figurantes que\nvocê vê o<n>tempo todo em filmes."
         },
         {
             "name": "Nice Nature",
-            "text": "I'm not cut out for the leading role... I<n>know that better than\nanyone."
+            "text": "Não nasci para o papel principal... Eu<n>sei disso melhor do\nque ninguém."
         },
         {
             "name": "Nice Nature",
-            "text": "An extra like me has no business<n>aiming for first... It's\npathetic, isn't it?",
+            "text": "Uma figurante como eu não tem nada<n>que querer o primeiro\nlugar... É<n>patético, não é?",
             "choice_data_list": [
-                "You're not pathetic in the slightest."
+                "Você não é nem um pouco patética."
             ]
         },
         {
             "name": "Nice Nature",
             "text": "...",
             "choice_data_list": [
-                "When you give it your all, you shine brighter than\nany other star.",
-                "When you give it your all, you shine brighter than\nany other star."
+                "Quando você dá tudo de si, brilha mais do que\nqualquer outra estrela.",
+                "Quando você dá tudo de si, brilha mais do que\nqualquer outra estrela."
             ]
         },
         {
             "name": "Nice Nature",
-            "text": "...I-I can't shine like the others. So<n>stop it, Trainer."
+            "text": "...E-eu não consigo brilhar como as<n>outras. Então para com\nisso,<n>Treinador."
         },
         {
             "name": "Nice Nature",
-            "text": "Please... just stop."
+            "text": "Por favor... apenas pare."
         },
         {
             "name": "Monólogo",
-            "text": "She speaks firmly, but when I look at<n>her, her eyes seem to\nwaver. Perhaps<n>my words reached her?"
+            "text": "Ela fala com firmeza, mas quando<n>olho para ela, seus olhos\nparecem<n>vacilar. Talvez minhas palavras<n>tenham a\natingido?"
         },
         {
             "name": "Monólogo",
-            "text": "After some time, we go back to<n>Nature's dorm and\napologize to Fuji<n>Kiseki together."
+            "text": "Depois de algum tempo, voltamos<n>para o dormitório da\nNature e pedimos<n>desculpas para a Fuji Kiseki juntos."
         },
         {
             "name": "Monólogo",
-            "text": "The next day, after training..."
+            "text": "No dia seguinte, após o treino..."
         },
         {
             "name": "Nice Nature",
-            "text": "Hey, Trainer? After this, you mind if I<n>check out some Teio\nfootage again?"
+            "text": "Ei, Treinador? Depois disso, se<n>importa se eu der uma\nolhada nas<n>gravações da Teio de novo?"
         },
         {
             "name": "Nice Nature",
-            "text": "Oh, um, don't get me wrong, okay?<n>It's not because I'm\nsuper pumped<n>about facing Teio. Not even close."
+            "text": "Ah, err, não me entenda mal, tá bom?<n>Não é porque estou\nsuper empolgada<n>em enfrentar a Teio. Nem de longe."
         },
         {
             "name": "Nice Nature",
-            "text": "It's just... well..."
+            "text": "É que... bem..."
         },
         {
             "name": "Nice Nature",
-            "text": "Even if first place is out of reach...<n>even if victory is\nimpossible... I-I still<n>want to say that I tried my best...",
+            "text": "Mesmo que o primeiro lugar esteja<n>fora de alcance...\nmesmo que a vitória<n>seja impossível... E-eu ainda quero<n>\npoder dizer que dei o meu melhor...",
             "choice_data_list": [
-                "Understood. Knock yourself out!"
+                "Entendido. Pode ficar à vontade!"
             ]
         },
         {
             "name": "Nice Nature",
-            "text": "Mhm. Well, let's get going!"
+            "text": "Uhum. Bem, vamos lá!"
         },
         {
             "name": "Monólogo",
-            "text": "And so, the two us begin dedicating<n>every waking moment\nto training for<n>the upcoming Tracen Meet."
+            "text": "E assim, nós dois começamos a<n>dedicar cada momento\ndesperto ao<n>treino para o próximo Meet da<n>Tracen."
         }
     ]
 }

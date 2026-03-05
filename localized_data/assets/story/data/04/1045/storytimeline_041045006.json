@@ -2,174 +2,174 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "It's been a while since I've had a<n>day off, so I decide to go\nshopping for<n>some essentials. I bump into a<n>familiar face\nat the mall."
+            "text": "Já faz um tempo que não tenho um<n>dia de folga, então\ndecido ir ao<n>shopping comprar alguns itens<n>essenciais.\nDou de cara com um rosto<n>familiar no shopping."
         },
         {
-            "name": "Girl A",
-            "text": "<i>Sob, sob...</i>"
-        },
-        {
-            "name": "Super Creek",
-            "text": "There, there. I'm sure it was scary,<n>right? But everything's\ngonna be<n>okay now."
+            "name": "Garota A",
+            "text": "<i>Snif, snif...</i>"
         },
         {
             "name": "Super Creek",
-            "text": "Just wait here for a second, okay?<n>I'll... umm...",
+            "text": "Pronto, pronto. Tenho certeza de que<n>foi assustador, não é?\nMas vai ficar<n>tudo bem agora."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Espere aqui só um segundinho, está<n>bem? Eu vou...\nhmmm...",
             "choice_data_list": [
-                "What's wrong?",
-                "What's wrong?"
+                "O que houve?",
+                "O que houve?"
             ]
         },
         {
             "name": "Super Creek",
-            "text": "Trainer! Perfect timing—it seems like<n>this little girl here got\nlost."
+            "text": "Treinador! No momento certo — parece<n>que esta garotinha\naqui se perdeu."
         },
         {
             "name": "Super Creek",
-            "text": "I found her crying in the corner by<n>herself and tried to ask\nher what's<n>wrong..."
+            "text": "Eu a encontrei chorando sozinha no<n>canto e tentei perguntar\no que houve..."
         },
         {
-            "name": "Girl A",
-            "text": "<i>Sob, sob...</i>"
+            "name": "Garota A",
+            "text": "<i>Snif, snif...</i>"
         },
         {
             "name": "Super Creek",
-            "text": "Aw, was it scary being alone? There,<n>there. It's okay now.",
+            "text": "Ah, foi assustador ficar sozinha?<n>Pronto, pronto. Está tudo\nbem agora.",
             "choice_data_list": [
-                "Where are your parents?",
-                "Where are your parents?"
+                "Onde estão os seus pais?",
+                "Onde estão os seus pais?"
             ]
         },
         {
-            "name": "Girl A",
+            "name": "Garota A",
             "text": "...",
             "choice_data_list": [
-                "Did you get separated?"
+                "Vocês se desencontraram?"
             ]
         },
         {
-            "name": "Girl A",
-            "text": "Umm... I... don't know... waaaah!"
+            "name": "Garota A",
+            "text": "Humm... eu... não sei... uaaaaah!"
         },
         {
             "name": "Monólogo",
-            "text": "Crap, I shouldn't have asked that<n>question! She's bawling\nnow.",
+            "text": "Droga, eu não deveria ter perguntado<n>isso! Ela está\nberrando agora.",
             "choice_data_list": [
-                "I-I'm sorry!",
-                "I-I'm sorry!"
+                "D-desculpa!",
+                "D-desculpa!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I quickly take out my handkerchief<n>from my pocket and\nwipe the girl's<n>face."
+            "text": "Rapidamente tiro o meu lenço do<n>bolso e limpo o rosto da\nmenina."
         },
         {
-            "name": "Girl A",
-            "text": "<i>Sob, sob...</i>"
-        },
-        {
-            "name": "Super Creek",
-            "text": "Aww, Trainer! Thank you so much."
+            "name": "Garota A",
+            "text": "<i>Snif, snif...</i>"
         },
         {
             "name": "Super Creek",
-            "text": "Your face is all cleaned up now. Isn't<n>that nice? So tell me...\nwere you out<n>here shopping?"
+            "text": "Ah, Treinador! Muito obrigada."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Seu rostinho está todo limpo agora.<n>Não é bom? Então me\ndiga... você<n>estava aqui fazendo compras?"
         },
         {
             "name": "Monólogo",
-            "text": "The little girl gives a small nod."
+            "text": "A garotinha dá um pequeno aceno<n>com a cabeça."
         },
         {
             "name": "Super Creek",
-            "text": "I see! What did you want to buy?"
+            "text": "Entendo! O que você queria comprar?"
         },
         {
-            "name": "Girl A",
-            "text": "I wanted... an Umagical Wand...<n>because Papa and Mama\nsaid...<n>they'd buy it for me..."
+            "name": "Garota A",
+            "text": "Eu queria... uma Varinha Umágica...<n>porque o papai e a\nmamãe disseram...<n>que iam comprar pra mim..."
         },
         {
             "name": "Super Creek",
-            "text": "Well, isn't that nice? You must've<n>been excited! Does that\nmean you<n>came here together with your Papa<n>and Mama?"
+            "text": "Bem, que maravilha, não é? Você<n>deve ter ficado\nempolgada! Isso<n>significa que você veio aqui junto<n>com o\npapai e a mamãe?"
         },
         {
             "name": "Monólogo",
-            "text": "The little girl nods again. There's no<n>doubt that she's lost. I\npause, thinking<n>about the best thing to do in this<n>situation...",
+            "text": "A garotinha acena novamente. Não há<n>dúvidas de que ela\nestá perdida. Eu<n>faço uma pausa, pensando na melhor<n>\ncoisa a se fazer nesta situação...",
             "choice_data_list": [
-                "I'll go to the information desk and let the staff\nknow!"
+                "Vou ao balcão de informações e avisar aos\nfuncionários!"
             ]
         },
         {
             "name": "Super Creek",
-            "text": "Yes, please do. I'll stay here with her."
+            "text": "Sim, por favor. Eu ficarei aqui com ela."
         },
         {
             "name": "Monólogo",
-            "text": "As I approach the desk, I see a<n>husband and wife standing\nthere,<n>faces stricken with worry. They must<n>be the girl's\nparents!"
+            "text": "Ao me aproximar do balcão, vejo um<n>marido e uma esposa\nparados ali, com<n>os rostos tomados pela preocupação.<n>\nDevem ser os pais da menina!"
         },
         {
             "name": "Super Creek",
-            "text": "Trainer, thank you so much for your<n>help today. I'm so glad\nthat little girl<n>was able to reunite with her parents.",
+            "text": "Treinador, muito obrigada pela sua<n>ajuda hoje. Fico tão\nfeliz que aquela<n>garotinha tenha conseguido se<n>\nreencontrar com os pais.",
             "choice_data_list": [
-                "I didn't really do anything though...",
-                "I didn't really do anything though..."
+                "Mas eu não fiz muita coisa...",
+                "Mas eu não fiz muita coisa..."
             ]
         },
         {
             "name": "Super Creek",
-            "text": "No, really. Be proud of yourself—you<n>were such a big help."
+            "text": "Não, sério. Sinta orgulho de si mesmo<n>— você foi uma grande\najuda."
         },
         {
             "name": "Super Creek",
-            "text": "Until you showed up, I wasn't sure<n>what I was going to do. I\ncouldn't just<n>walk away with the girl, so I thought<n>about\ncalling for help..."
+            "text": "Até você aparecer, eu não tinha<n>certeza do que faria. Eu\nnão podia<n>simplesmente sair andando com a<n>menina,\nentão pensei em pedir<n>ajuda..."
         },
         {
             "name": "Super Creek",
-            "text": "But there weren't any staff nearby<n>either. Honestly, I felt\nstuck."
+            "text": "Mas não havia nenhum funcionário<n>por perto também.\nHonestamente, eu<n>me senti encurralada."
         },
         {
             "name": "Super Creek",
-            "text": "So when you came, it was a huge<n>relief. I was really happy\nto see you.",
+            "text": "Então, quando você veio, foi um alívio<n>enorme. Fiquei muito\nfeliz em te ver.",
             "choice_data_list": [
-                "But I made the poor girl cry..."
+                "Mas eu fiz a coitadinha chorar..."
             ]
         },
         {
             "name": "Super Creek",
-            "text": "Hehe, maybe it wouldn't hurt to learn<n>a bit more about how\nto handle little<n>kids."
+            "text": "Hehe, talvez não fizesse mal<n>aprender um pouco mais\nsobre como<n>lidar com crianças pequenas."
         },
         {
             "name": "Super Creek",
-            "text": "But really though... I felt safe with you<n>being there."
+            "text": "Mas, falando sério... me senti segura<n>com a sua presença."
         },
         {
             "name": "Super Creek",
-            "text": "I appreciated having you with me, so<n>please don't put\nyourself down.",
+            "text": "Eu gostei de ter você comigo, então,<n>por favor, não se\ndesvalorize.",
             "choice_data_list": [
-                "I suppose I've become a little more reliable then."
+                "Acho que me tornei um pouco mais confiável,\nentão."
             ]
         },
         {
             "name": "Super Creek",
-            "text": "Of course!"
+            "text": "Certamente!"
         },
         {
             "name": "Super Creek",
-            "text": "And you didn't forget your<n>handkerchief this time. Good\njob! ♪",
+            "text": "E você não esqueceu o seu lenço<n>desta vez. Bom trabalho!\n♪",
             "choice_data_list": [
-                "...You're doing it again."
+                "...Você está fazendo de novo."
             ]
         },
         {
             "name": "Super Creek",
-            "text": "Hehe, I can't help myself though. ♪"
+            "text": "Hehe, mas eu não consigo evitar. ♪"
         },
         {
             "name": "Monólogo",
-            "text": "Even though our dynamics haven't<n>changed much, I feel\nthat I was able to<n>gain more of Super Creek's trust<n>today."
+            "text": "Embora a nossa dinâmica não tenha<n>mudado muito, sinto\nque consegui<n>ganhar mais da confiança da Super<n>Creek\nhoje."
         },
         {
             "name": "Super Creek",
-            "text": "(I'm glad I can depend on you,<n>Trainer.)"
+            "text": "(Fico feliz por poder depender de<n>você, Treinador.)"
         }
     ]
 }

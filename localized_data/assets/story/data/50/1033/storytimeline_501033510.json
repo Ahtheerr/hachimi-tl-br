@@ -1,0 +1,210 @@
+{
+    "text_block_list": [
+        {
+            "name": "Professor",
+            "text": "Tudo bem, equipe. Por favor,<n>inspecionem o\nequipamento de<n>limpeza em suas áreas\ndesignadas."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Preciso terminar rápido para poder ir<n>treinar...)"
+        },
+        {
+            "name": "Membro do Comitê",
+            "text": "N-não é bom, Ayabe! A área pela qual<n>somos\nresponsáveis—"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "O número de vassouras listadas em<n>nosso\ninventário não coincide com o<n>número contado.\nPrecisamos procurar<n>o equipamento que falta."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Sim, você tem razão."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Caminhando pelo corredor, vejo<n>Admire Vega\ntrabalhando duro com os<n>membros do comitê de\nassuntos<n>gerais. Parece que há algum tipo de<n>\nproblema.",
+            "choice_data_list": [
+                "Tudo bem?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Na verdade, não... Os mesmos<n>problemas de\nsempre."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Normalmente, o comitê de assuntos<n>gerais não\ntem problemas ao fazer o<n>inventário dos\nmateriais de limpeza."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "As alunas da Academia Tracen são<n>\nbem-comportadas, e a equipe de<n>limpeza vem à\nescola regularmente.<n>Portanto, nossos números\nnão<n>baterem com o inventário...",
+            "choice_data_list": [
+                "Não deveria ser possível.",
+                "Não deveria ser possível."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ênfase no <i>não deveria.</i> Mas não<n>faz muito\nsentido pensar em<n>hipóteses."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Vamos apenas nos apressar e<n>terminar."
+        },
+        {
+            "name": "Membro do Comitê",
+            "text": "Você continua imperturbável como<n>sempre,\nAyabe."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Sim, eu respeito a abordagem dela<n>em relação ao\ntrabalho do nosso<n>grupo."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "É por isso que todos no nosso comitê<n>\nsecretamente a elogiam."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Todos a chamam de \"A Profissional\".",
+            "choice_data_list": [
+                "A Profissional?!"
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Ok, vamos ajudá-la."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Aja com eficiência."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Grrr! Eu não consigo tirar a bola da<n>árvore nem\ncom esta vassoura!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Plaft!</i>"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Garantimos a bola. Trabalho brilhante<n>ao usar\numa pequena pedra para<n>derrubá-la."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Sim, foi tão incrível! Tipo... Golpe<n>\nEspecial—<i>Flecha Ascendente!</i>"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Problema resolvido? Então me passe<n>a\nvassoura."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Obtenha controle sem criar<n>resistência."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Claro, ela não pode voar <i>agora,</i><n>mas eu\nposso fazê-la voar, porque eu<n>conheço magia!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Se ela não pode voar, deve ser uma<n>vassoura\nnormal. Você não tem algum<n>jeito de bruxa para\nnotar a diferença?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "...É, você tem razão! Hehe. ♪ Tenho<n>que ir\nprocurar uma vassoura<n><i>mágica!</i>"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Garantimos duas vassouras. Ótimo<n>trabalho em\nseguir o jogo sem ferir<n>os sentimentos dela."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Finalmente, \"Terminar com rapidez e<n>perfeição\"."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "O número e os detalhes batem com a<n>lista. O que\nsignifica que terminamos<n>tudo, certo?",
+            "choice_data_list": [
+                "Isso que eu chamo de habilidade."
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Sim, mas receio que tenhamos<n>empurrado a\nmaior parte do trabalho<n>para ela novamente."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Eu só quero terminar mais rápido."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Estou simplesmente cumprindo meus<n>deveres. É\no que todos vocês estão<n>fazendo também."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Obrigada. Mas é preciso mais do que<n>simples\nforça de vontade para<n>trabalhar como você.",
+            "choice_data_list": [
+                "É preciso o poder da <i>Profissional!</i>",
+                "É preciso paciência e tenacidade.",
+                "É preciso paciência e tenacidade."
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Obrigada. Mas é preciso mais do que<n>simples\nforça de vontade para<n>trabalhar como você.",
+            "choice_data_list": [
+                "É preciso o poder da <i>Profissional!</i>",
+                "É preciso paciência e tenacidade.",
+                "É preciso paciência e tenacidade."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hein? \"A Profissional\"?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Parece que ela deixou uma<n>impressão em você\ntambém,<n>Treinador."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Ela é capaz de obter o benefício<n>máximo com o\nesforço mínimo, tendo<n>a sensibilidade de não\nostentar sua<n>habilidade.",
+            "choice_data_list": [
+                "Ela realmente faz jus ao título!",
+                "Ela realmente faz jus ao título!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Espere um minuto! O que você quer<n>dizer com\n\"título\"?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Após eu explicar o raciocínio por trás<n>do seu\nnome meritório, ela parece<n>surpresa, mas\npermanece em silêncio."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Observar as atividades do comitê<n>hoje me\nmostra que verificar o<n>equipamento pode ser\numa tarefa<n>simples, mas exige paciência. Quando<n>\ndigo a Admire Vega..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...É o mesmo com o seu trabalho,<n>não?",
+            "choice_data_list": [
+                "E você foi tão gentil com todos!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "C-como eu disse, é o mesmo com—"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Tanto faz, vou para casa."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Embora ela não tenha se<n>aprofundado, sinto que\nela realmente<n>aprecia o trabalho que eu faço."
+        }
+    ]
+}

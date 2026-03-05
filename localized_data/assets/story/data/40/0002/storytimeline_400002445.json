@@ -1,0 +1,62 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Finalmente reuni membros<n>suficientes para\nformar uma equipe, e<n>agora podemos entrar na\nUnity Cup."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nosso nível de treino subirá com base<n>no ranking\nda nossa equipe na Unity<n>Cup, então espero\nvencer o máximo<n>de corridas possível."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas primeiro, preciso decidir o nome<n>da equipe.\nPosso escolher entre os<n>nomes que as outras\nsugeriram ou o<n>que eu pensei, Equipe Cenoura."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vamos nomear nossa equipe como...",
+            "choice_data_list": [
+                "Saltitantes Felizes, como a Taiki sugeriu",
+                "Corredoras Ensolaradas, como a Fukukitaru\nsugeriu",
+                "Pudim de Cenoura, como a Urara sugeriu",
+                "Desabrochar Azul, como a Rice sugeriu",
+                "Equipe Cenoura"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu preencho o nome no formulário<n>como\n\"Saltitantes Felizes\". Agora é<n>oficial!",
+            "color_text_info_list": [
+                "Saltitantes Felizes"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu preencho o nome no formulário<n>como\n\"Corredoras Ensolaradas\".<n>Agora é oficial!",
+            "color_text_info_list": [
+                "Corredoras Ensolaradas"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu preencho o nome no formulário<n>como \"Pudim\nde Cenoura\". Agora é<n>oficial!",
+            "color_text_info_list": [
+                "Pudim de Cenoura"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu preencho o nome no formulário<n>como\n\"Desabrochar Azul\". Agora é<n>oficial!",
+            "color_text_info_list": [
+                "Desabrochar Azul"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu preencho o nome no formulário<n>como \"Equipe\nCenoura\". Agora é<n>oficial!",
+            "color_text_info_list": [
+                "Equipe Cenoura"
+            ]
+        }
+    ]
+}

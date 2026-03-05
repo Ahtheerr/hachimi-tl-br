@@ -1,0 +1,48 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One day, in the central plaza..."
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh, looks like I've got a message<n>from my\nagent. Let's see... they need<n>me for some detail\nshots after this,<n>huh?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Urk, but I have training then! Why do<n>these\nscheduling conflicts keep<n>happening...",
+            "choice_data_list": [
+                "You seem pretty busy. Everything okay?",
+                "You seem pretty busy. Everything okay?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh, it's just you. Thanks for the<n>concern, but I\nwas the one who<n>decided to take all this on, so\nit's fine."
+        },
+        {
+            "name": "Gold City",
+            "text": "My race is coming up soon, though,<n>so I'm\ngonna have a lot on my plate...",
+            "choice_data_list": [
+                "Focus on what's at hand for now!",
+                "Would you like an energy drink?"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "...Yeah, you're right. I don't have time<n>to be\nindecisive."
+        },
+        {
+            "name": "Gold City",
+            "text": "I've just gotta get things done one at<n>a time...\nOkay, I've got this. Thanks for<n>the tip."
+        },
+        {
+            "name": "Gold City",
+            "text": "Huh? For real? You're a lifesaver.<n>Showing up to\na shoot like a zombie<n>doesn't exactly scream\nprofessional."
+        },
+        {
+            "name": "Gold City",
+            "text": "Nice, I'm ready to take on the world<n>now. Thanks\nagain for the drink. I'll do<n>my best at the shoot\nand my race."
+        }
+    ]
+}

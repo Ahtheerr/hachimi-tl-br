@@ -1,0 +1,309 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Com o acampamento de verão<n>finalmente\nchegando ao fim, estou<n>trabalhando até tarde da\nnoite quando<n>de repente..."
+        },
+        {
+            "name": "???",
+            "text": "Uaaaaaah?!",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu ouço um estrondo vindo da<n>cozinha, então eu\ncorro para dar uma<n>olhada."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Olha, eu já peguei a tigela. Você<n>consegue se\nlevantar? Não entre em<n>pânico—apenas vá com\ncalma."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Nngh, me desculpe! O-obrigada!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Gyah?! Agora o seu treinador está<n>aqui! Me\ndesculpe por fazer tanta<n>confusão!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Tudo bem, Doto?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ehehe, tá ficando super emocionante<n>aqui!",
+            "choice_data_list": [
+                "Hum, se importam em me dizer o que está\nacontecendo?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "B-bem... A Urara estava com fome,<n>então eu\nachei que a gente pudesse<n>preparar um\nlanchinho da madrugada<n>juntas...",
+            "color_text_info_list": [
+                "Urara"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Mas aí, adivinha? A tigela voou no ar<n>e a panela\ncaiu com tudo no chão! Foi<n>tão engraçado!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Aaagh! Me desculpe por ser tão<n>desastrada e\nidiota!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Tudo... tudo virou um caos completo,<n>mas... a\nAyabe veio salvar o dia!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Não é verdade... Eu só vim preparar<n>um pouco de\ncomida para mim.",
+            "choice_data_list": [
+                "(Mas você veio correndo antes de mim...)",
+                "(Mas você veio correndo antes de mim...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Decido não mencionar esse<n>pensamento. Fazer\nisso seria muito<n>sem tato da minha parte."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "De qualquer forma, acho que<n>finalmente posso\ncomeçar a preparar<n>o jantar."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Tudo bem para vocês duas<n>comermos\nsanduíches?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Aaaah! Você vai fazer sanduíches pra<n>gente\ntambém?!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Bom, eu vim aqui para fazer algo para<n>mim,\nentão... Por que não."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eu não poderei ajudá-las se não<n>gostarem do\nque tem no cardápio, no<n>entanto."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eu não sou particularmente boa na<n>cozinha. Eu\nnem consigo assar nada.<n>Sanduíches são o meu\nlimite."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "N-n-não! Parece ótimo! Tem certeza<n>de que você\nnão se importa, porém?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "São só alguns sanduíches a mais."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Então sem reclamações? Vou<n>começar, então.\nNão vai demorar<n>muito."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "E-espera! D-deixa eu ajudar! E-eu<n>não vou\natrapalhar! Eu prometo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Admire Vega começa a trabalhar<n>preparando\nos sanduíches... e ela<n>parece ter um talento\nnatural na<n>cozinha!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Uaaaah! Eu coloquei o pepino e o<n>tomate neste\nsanduíche, mas eles<n>estão deixando o pão todo<n>\nencharcado!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Polvilhe um pouco de sal e deixe<n>descansar.\nDepois, limpe o excesso<n>de umidade com uma\ntoalha de papel."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eu já separei a porção de sal, então...<n>use\naquele ali."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ayabeee! Obrigadaaaa! Agora eu<n>sinto que não\nvou estragar nada!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ei, ei, Ayabe! Tem uma banana bem<n>ali!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Acha que vai ficar gostoso nos<n>nossos\nsanduíches? A gente devia<n>tentar pra ver?!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Você quer adicionar frutas?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Que tal um pouco de laranja em vez<n>de banana?\nProvavelmente<n>combinaria melhor com o\npresunto e a<n>alface."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Laranja! Isso! Laranja parece uma<n>boa! Eu vou\ndescascar uma, tá bom?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Quando você descascar, coloque de<n>volta na\ntábua de cortar. Eu cortarei<n>em rodelas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pouco tempo depois..."
+        },
+        {
+            "name": "Doto e Urara",
+            "text": "Que delícia!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "O sanduíche da Ayabe tem gosto de<n>que está te\nenchendo de muita, muita<n>energia!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Eu amei as rodelas docinhas e<n>azedinhas de\nlaranja! Tá muito bom!<n>Tá super-hiper bom!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Parem de exagerar..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Admire Vega parece incomodada<n>com os\nelogios delas, mas qualquer<n>um que visse os\nsanduíches ficaria<n>impressionado."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela lidou com tudo tão sem esforço,<n>\nespecialmente enquanto lidava com<n>as suas\nduas assistentes sem noção.",
+            "choice_data_list": [
+                "Você é uma grande fã de sanduíches?",
+                "Você é uma grande fã de sanduíches?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eu só tive muitas oportunidades de<n>fazê-los."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eles são fáceis de levar com você<n>também...\ncomo quando eu saio para<n>ver as estrelas."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Então... não é que eu <i>goste</i> deles<n>\nparticularmente."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Eu acho."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu assisto calmamente enquanto as<n>garotas\nsaboreiam os seus<n>sanduíches no fim da noite."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ei..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Se você deixar por muito tempo, ele<n>vai\ndesmoronar. Eu posso embrulhar<n>se você não\nestiver com fome.",
+            "choice_data_list": [
+                "Você fez um pra mim também?!",
+                "Você fez um pra mim também?!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Seria estranho se você fosse o único<n>para o qual\neu não fizesse um..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Nós <i>éramos</i> quatro na cozinha."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Acho que ela tem razão, mas fico<n>bastante\nsurpreso com a sua atitude<n>prestativa."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Você vai comê-lo agora? Se não, vou<n>embrulhá-lo\ne colocar na geladeira.",
+            "choice_data_list": [
+                "Ah, hum... Vou comê-lo agora!",
+                "Ah, hum... Vou comê-lo agora!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas qual deles eu deveria escolher?",
+            "choice_data_list": [
+                "Um sanduíche BLT para ganhar força!",
+                "Um sanduíche de laranja para aumentar minha\nenergia!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Decido ir com o BLT que ela fez com<n>a Meisho\nDoto."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Dou uma mordida, e o gosto<n>saboroso do bacon\ncuidadosamente<n>tostado inunda a minha boca,<n>\ncomplementado perfeitamente pelas<n>texturas\nsuculentas do pepino e do<n>tomate!",
+            "choice_data_list": [
+                "Está delicioso!"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Uau! Parece que o seu treinador<n>também está\ngostando do sanduíche,<n>Ayabe. Isso é tão bom."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "E graças a você, eu na verdade<n>consegui fazer\nalguma coisa sem<n>estragar tudo..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Eu sou <i>tããão</i> grata!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Por favor... você está sendo<n>dramática."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Decido ir com o sanduíche de laranja<n>que ela fez\ncom a Haru Urara.",
+            "color_text_info_list": [
+                "Haru Urara"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "O presunto salgado e a laranja<n>azedinha\ncombinam<n>surpreendentemente bem juntos.<n>\nCom a porção saudável de alface, é<n>uma\nrefeição lindamente equilibrada!",
+            "choice_data_list": [
+                "Está delicioso!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Eba! E sabe de uma coisa? É um<n>sabor cheio de\ngentileza!",
+            "choice_data_list": [
+                "O que você quer dizer?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Quando eu disse que queria ajudar a<n>fazer, a\nAyabe não disse não!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "É por isso que é um sanduíche cheio<n>de gentileza\nfeito pela Ayabe, que<n>também é cheia de\ngentileza!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Isso não faz sentido..."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "<chrname> parece ter sofrido uma leve<n>lesão..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas o acampamento de verão só<n>acontece uma\nvez por ano, e o tempo<n>está passando. O que\nfazer...",
+            "choice_data_list": [
+                "Fazê-la descansar adequadamente.",
+                "Incentivá-la a continuar."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Decido me concentrar totalmente no<n>tratamento e\nna recuperação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<chrname> parece estar se sentindo<n>um pouco\ndeprimida porque não pode<n>fazer nenhum\nexercício..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Decido encorajar entusiasticamente<n>a <chrname>\na continuar..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas tudo dá errado! Agora parece<n>que a lesão\nficou ainda pior..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E a lesão foi curada milagrosamente!<n>A prática\ncorre perfeitamente!"
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certa manhã, um panfleto na minha<n>caixa de\ncorreio chama minha<n>atenção."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Grande Inauguração do Aquário!<n>\"Bem ao lado\nda estação! Um espaço<n>tranquilo perfeito para\nrelaxar!\"",
+            "choice_data_list": [
+                "Isso pode ser uma boa mudança de ares para\n<chrname>."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não quero deixar essa oportunidade<n>passar.\nPego o panfleto e vou<n>procurá-la."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O primeiro lugar que verifico é a pista<n>de treino,\nmas...",
+            "choice_data_list": [
+                "(Ela não está aqui...)",
+                "(Ela não está aqui...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Infelizmente, minha aprendiz não está<n>por perto.\nDecido convidá-la na<n>próxima vez que a vir e me\npreparo<n>para sair."
+        },
+        {
+            "name": "Treinador Veterano A",
+            "text": "Nossa... Olhem só para ela! É como se<n>nem fosse\na mesma Umamusume!"
+        },
+        {
+            "name": "Treinador Veterano B",
+            "text": "Aquele programa de treinamento<n>especial está\nfazendo maravilhas por<n>ela. Ela mal começou,\nmas é como se<n>já estivesse em um nível\ntotalmente<n>novo."
+        },
+        {
+            "name": "Treinadores",
+            "text": "Olhem! É a Treinadora Kiryuin!",
+            "color_text_info_list": [
+                "Kiryuin"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uma multidão de pessoas se formou<n>por perto.\nAcabo seguindo a linha de<n>visão delas, onde\nvejo..."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Bom trabalho, Meek. Você correu<n>muito bem\nhoje.",
+            "color_text_info_list": [
+                "Meek"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Ainda assim, você perdeu um pouco<n>o foco no\nfinal. Se não tivesse perdido,<n>acho que poderia\nter ido ainda mais<n>rápido."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Tente se concentrar até a linha de<n>chegada. Eu\nsei que você consegue!"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Obrigada, Treinadora. Vou dar o meu<n>melhor...\nHmpf."
+        },
+        {
+            "name": "Treinador Habilidoso A",
+            "text": "Aquela é a Aoi Kiryuin... Você sabia<n>que ela é a\nherdeira da família Kiryuin?<n>Eles já formaram\nmais corredoras<n>superestrelas do que eu posso<n>\ncontar..."
+        },
+        {
+            "name": "Treinador Habilidoso A",
+            "text": "Isso! Ela também tirou a nota máxima<n>no exame\nde licença do primeiro<n>período!",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Treinador Habilidoso B",
+            "text": "A Happy Meek não costumava ser<n>nada de\nespecial, mas recentemente<n>ela tem feito um\nprogresso incrível!",
+            "color_text_info_list": [
+                "Happy Meek"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que a Treinadora Kiryuin e sua<n>aprendiz\nHappy Meek são as que<n>estão atraindo toda a\natenção."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Hm? Ah! Com licença! Você é...?"
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Eu sabia! Você é o Treinador<n><username>!",
+            "choice_data_list": [
+                "Hein? Eu?",
+                "Hein? Eu?"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Isso mesmo! Sinto muito, isso deve<n>ser bem\nrepentino, mas... eu sempre<n>te admirei!"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Treinadora... Quem é este?"
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Ah! Sinto muito, Meek! Eu saí<n>correndo, não foi?"
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "<i>Ufa...</i> Desculpe, não tive a<n>intenção de\nassustar ninguém. Vamos<n>tentar de novo, sim?"
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "É um prazer conhecê-lo! Meu nome é<n>Aoi Kiryuin.\nSou uma treinadora da<n>Academia Tracen, assim\ncomo você.",
+            "color_text_info_list": [
+                "Aoi Kiryuin"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "E esta é minha aprendiz, Happy<n>Meek. Meek,\nquer dizer olá?"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Olá... Eu sou a Happy Meek...",
+            "color_text_info_list": [
+                "Happy Meek"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Bem, você talvez não saiba disso,<n>mas..."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "...Você e eu fomos designados para a<n>Academia\nTracen quase ao mesmo<n>tempo."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Talvez seja estranho, mas sempre<n>me senti\nmais próxima de você por<n>causa disso."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Por isso, eu realmente esperava ter a<n>chance de\nfalar com você algum dia."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "..."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Você se importaria de nos<n>encontrarmos\nnovamente no futuro?<n>Tenho certeza de que\npodemos<n>aprender muito um com o outro.",
+            "choice_data_list": [
+                "Eu adoraria!"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Muito obrigada! É uma honra."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "..."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Hm, Meek? É falta de educação ficar<n>encarando,\nsabe."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Ah... Com licença."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Apesar das palavras da Treinadora<n>Kiryuin,\nHappy Meek continua me<n>encarando... ou, mais<n>\nespecificamente, algo em minha mão.",
+            "choice_data_list": [
+                "Você está interessada neste panfleto?"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Ah... Isso é um panfleto do aquário?<n>Meek, você\nestava olhando para isso<n>o tempo todo?",
+            "choice_data_list": [
+                "Você... quer ir lá conferir?",
+                "Você... quer ir lá conferir?"
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "...Hein?"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Uau... As águas-vivas são tão<n>onduladas..."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Hehe... Ela está realmente se<n>divertindo muito.\nEu nunca soube que<n>a Meek gostava tanto de\naquários."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Mas... você tem certeza de que<n><i>eu</i> deveria\nestar aqui?",
+            "choice_data_list": [
+                "O que quer dizer?"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "É que... Bem, o Manual do<n>Treinador—ou melhor,\nos<n>ensinamentos da família<n>Kiryuin—afirma que\n\"as Umamusume<n>devem receber o descanso<n>\napropriado.\""
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Também diz que o treinador deve<n>deixar a\nUmamusume por conta<n>própria durante os\nperíodos de<n>descanso. Assim ela pode realmente<n>\nrelaxar."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Então, tudo bem eu acompanhá-la?<n>Eu não\nestaria causando estresse a<n>ela, estaria?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Treinadora Kiryuin—sempre do tipo<n>sério—está\npreocupada em<n>negligenciar os ensinamentos de\nsua<n>família. No entanto..."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Ah...! Esta estrela-do-mar se parece<n>exatamente\ncom a minha treinadora..."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "...Vou contar para ela depois... Ehehe."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Quando olho para Happy Meek...",
+            "choice_data_list": [
+                "Eu acho que ela está feliz por você estar aqui."
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Sério? Você acha?",
+            "choice_data_list": [
+                "É importante conhecer sua aprendiz."
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Conhecê-la, hein..."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Parando para pensar, eu nem sabia<n>que ela\ngostava de aquários até hoje."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Talvez... eu ainda não a entenda<n>realmente..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Depois de aproveitar o aquário com a<n>Treinadora\nKiryuin, todos voltamos<n>para a academia e\nacompanhamos<n>Happy Meek de volta ao\ndormitório."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Obrigada, Treinador <username>."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Você não apenas me convidou para<n>um dia\nmaravilhoso, mas também me<n>ensinou uma lição\nimportante.",
+            "choice_data_list": [
+                "Eu ensinei?"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Sim. Aprender tudo o que puder sobre<n>sua\naprendiz é praticamente o ponto<n>um do Manual\ndo Treinador."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Sempre pensei que isso significasse<n>ter uma boa\ncompreensão de suas<n>capacidades físicas."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Mas, graças à nossa conversa, sinto<n>que agora\nentendo o que isso<n>realmente significa.",
+            "choice_data_list": [
+                "Eu não fiz nada de especial..."
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Hehe. Não precisa ser tão humilde."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Acho que entendo por que você<n>chamou a\natenção da diretora agora."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Você se importa sinceramente com<n>sua\naprendiz—não apenas como<n>corredora, mas como\nindivíduo. É aí<n>que você realmente brilha como<n>\ntreinador."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Bem, terei que me esforçar mais. Não<n>posso\ndeixar você me para trás!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Treinadora Kiryuin e eu voltamos<n>para o\ndormitório dos treinadores,<n>conversando sobre\nteoria de<n>treinamento o caminho todo."
+        }
+    ]
+}

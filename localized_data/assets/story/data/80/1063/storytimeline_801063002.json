@@ -1,0 +1,147 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "I spot Ikuno Dictus talking with a<n>fellow student\nat the central plaza."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "...Ergo, it would be best for you to<n>reduce the\nnumber of exercises in<n>your afternoon training\nsession by<n>one."
+        },
+        {
+            "name": "Younger Umamusume",
+            "text": "I see! That'll definitely work! Thank<n>you, Ikuno!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "No need to thank me. I'm happy to be<n>of service."
+        },
+        {
+            "name": "Monólogo",
+            "text": "The younger Umamusume gives<n>Ikuno Dictus a\ndeep bow and walks<n>away.",
+            "choice_data_list": [
+                "What were you two talking about?"
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "She wanted me to look over her<n>training\nschedule."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I'm quite good at schedule creation<n>and\nmanagement, you see.",
+            "choice_data_list": [
+                "Can you go over mine too?",
+                "Can you go over mine too?",
+                "Mind giving me some tips?"
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I'm quite good at schedule creation<n>and\nmanagement, you see.",
+            "choice_data_list": [
+                "Can you go over mine too?",
+                "Can you go over mine too?",
+                "Mind giving me some tips?"
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "You want me to look at your schedule<n>too?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "But as a trainer, you must have<n>already learned\nabout schedule<n>management. There shouldn't be\na<n>need for me to examine it at all.",
+            "choice_data_list": [
+                "I'd just like your opinion is all."
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hm... Very well. I'll take a look at it."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "...You've included too many activities<n>for this day."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "And while I understand you're busy,<n>you must\nfind time to eat, sleep, and<n>rest."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Your body is an invaluable asset,<n>even if you\ndon't use it for racing like<n>us. You should ensure\nyou are never<n>lacking in nutrition, sleep, or rest.",
+            "choice_data_list": [
+                "Thanks. I'll keep that in mind."
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "No need for thanks. I'm merely glad<n>to be of\nhelp."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Now, on to my next point...",
+            "choice_data_list": [
+                "Wait, there's more?"
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "I'm not even halfway through my<n>comments. I\ncannot simply let you get<n>away with this\nridiculous schedule."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ikuno Dictus proceeds to point out<n>each and\nevery flaw in my schedule..."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Tips? Well, if it's one thing I would<n>advise, it\nwould be not to believe<n>everything you read.",
+            "choice_data_list": [
+                "Do you have a specific example?"
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Yes. Nine times out of ten, the benefits<n>of a\nroutine are what is emphasized."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Often do I read that running a lot is the<n>key to\nstrengthen one's legs."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "However, in most cases, schedules<n>do not\naccount for the fatigue that is<n>brought on by\nexercise."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "That's all I wanted to point out. I<n>don't know if it\ncan be considered a<n>tip, but I hope it helps.",
+            "choice_data_list": [
+                "Thanks. I'll be careful not to believe everything I\nread."
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Good. That is wise of you."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "...Except everything I just said was a<n>lie.",
+            "choice_data_list": [
+                "What?! But I believed you!"
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hehe... I'm joking. What I told you<n>was all true."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "However, it seems you need more<n>practice in\nbeing less gullible."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ikuno Dictus's stoicism belies a<n>hidden and\nunexpected sense of<n>humor. It'll take a great\ndeal of<n>practice to tell when she's joking."
+        }
+    ]
+}

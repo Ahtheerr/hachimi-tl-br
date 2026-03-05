@@ -1,0 +1,122 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Faz alguns dias que a Diretora<n>Akikawa partiu.\nUm dia, logo após eu<n>ter enviado <chrname> para\nfazer uma<n>corrida de resistência..."
+        },
+        {
+            "name": "???",
+            "text": "..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Avisto uma mulher que nunca vi<n>antes\nobservando o treino das<n>Umamusumes.",
+            "choice_data_list": [
+                "Olá, posso ajudar?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "...Você é o treinador daquela garota<n>que acabou\nde sair correndo pelo<n>pátio, não é?"
+        },
+        {
+            "name": "???",
+            "text": "Estive observando sua sessão de<n>treinamento.\nEntendo que seja<n>indelicado dizer isso em\nnosso<n>primeiro encontro, mas..."
+        },
+        {
+            "name": "???",
+            "text": "Você é terrivelmente negligente.",
+            "choice_data_list": [
+                "Hã?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Você permite que ela treine sozinha<n>demais,\nignora seus atrasos e permite<n>que ela jogue\nconversa fora com os<n>outros durante os\nintervalos."
+        },
+        {
+            "name": "???",
+            "text": "Oh? Sua expressão sugere que não<n>concorda\ncom minhas observações."
+        },
+        {
+            "name": "???",
+            "text": "Então, pode me dizer quanto ela<n>dorme por dia, e\nqual é a qualidade do<n>sono dela? Você está\nverificando isso<n>com ela todos os dias?",
+            "choice_data_list": [
+                "N-não..."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "A falta de sono adequado não<n>apenas piora o\ndesempenho de uma<n>corredora, mas também\nprovoca<n>acidentes. É imperativo estar ciente<n>\ndos hábitos de sono dela.",
+            "choice_data_list": [
+                "C-certo, desculpe..."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Entendo que esta academia valoriza<n>a\nindependência de suas estudantes."
+        },
+        {
+            "name": "???",
+            "text": "No entanto, esse modo de pensar é<n>\nirresponsável."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela direciona o olhar para uma<n>montanha ao\nlonge."
+        },
+        {
+            "name": "???",
+            "text": "Está vendo aquela montanha coberta<n>de cedros?\nÉ popular entre os<n>trilheiros durante a temporada\nde<n>escalada."
+        },
+        {
+            "name": "???",
+            "text": "Você encontrará árvores magníficas<n>que\nsussurram com o vento, pássaros<n>que cantam\nde todo o coração e uma<n>terra que acolhe seus\npés com<n>suavidade."
+        },
+        {
+            "name": "???",
+            "text": "Mas, como a maioria das montanhas<n>neste país,\nela só é assim devido ao<n>cuidado e à gestão\nexterna."
+        },
+        {
+            "name": "???",
+            "text": "Sem qualquer tipo de interferência<n>externa, as\nflorestas entram em<n>decadência. O sol não chega\nao solo, a<n>grama morre e o chão se torna um<n>\ncemitério de árvores mortas e folhas<n>podres."
+        },
+        {
+            "name": "???",
+            "text": "Montanhas tão descuidadas são<n>mais\npropensas a deslizamentos e<n>inundações... Por\nisso a gestão é tão<n>importante."
+        },
+        {
+            "name": "???",
+            "text": "Você pode se sentir um mentor gentil<n>e generoso,\nobservando<n>passivamente seus estudantes,\nmas<n>tudo o que está fazendo é deixar o<n>\npotencial deles apodrecer."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto fala, o olhar da mulher<n>torna-se feroz.\nA atmosfera pesada<n>começa a parecer\nsufocante, mas<n>bem na hora..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Aí está você! Eu estava procurando<n>pela\nsenhora, Srta. Kashimoto!",
+            "color_text_info_list": [
+                "Kashimoto"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Peço desculpas. Eu apenas<n>desejava observar\numa sessão típica<n>de treinamento."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oh, Treinador! Vejo que já conheceu<n>a substituta\ntemporária da Diretora<n>Akikawa."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Meu nome é Riko Kashimoto. Fui<n>encarregada de\ngerir a academia<n>durante o meu mandato.",
+            "color_text_info_list": [
+                "Riko Kashimoto"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Eu... espero trabalhar bem com você."
+        }
+    ]
+}

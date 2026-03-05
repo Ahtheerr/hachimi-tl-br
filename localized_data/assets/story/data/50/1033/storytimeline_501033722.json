@@ -1,0 +1,46 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Depois de terminar de sugerir um<n>cronograma de\ntreino para Admire<n>Vega..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...",
+            "choice_data_list": [
+                "Há algo errado?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Estou bem. Só tomando um ar<n>fresco..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ugh!",
+            "choice_data_list": [
+                "Você está com dor de cabeça?",
+                "Você está com dor de cabeça?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Não é nada com que se preocupar.<n>Tomei um\nremédio, então deve passar<n>logo."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Agh!",
+            "choice_data_list": [
+                "Não se force se estiver doendo."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Você tem razão... Peço desculpas por<n>não ter\ncontado antes."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que Admire Vega está<n>sofrendo com uma\nenxaqueca..."
+        }
+    ]
+}

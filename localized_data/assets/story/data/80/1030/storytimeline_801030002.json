@@ -1,0 +1,83 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One day, while I'm walking down the<n>hallway, I\nnotice Rice Shower looking<n>rather gloomy."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh... What do I do? What do I do...",
+            "choice_data_list": [
+                "Did something happen?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eeep! O-oh, hello!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um... Nothing happened, but... Well, the<n>weather\nforecast says there'll be<n>heavy rain tomorrow."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I was planning to train a lot tomorrow<n>since I've\ngot a race coming up, but<n>now... Oh, I don't know\nwhat to do!",
+            "choice_data_list": [
+                "Rent out the gymnasium and run there!",
+                "Make some sunshine dolls to ward off the rain!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "It won't be the same as running on a<n>track, but I\nsuggest she train in the<n>gym so she can practice\nher<n>acceleration in straight sprints."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "That might just work! ...Oh!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But if I rent it out for myself, doesn't<n>that mean\nnobody else will be able to<n>use the gym?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I suggest that she invite other<n>Umamusume to\ntrain with her, and she<n>seems much happier with\nthe idea<n>after that."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah, that makes sense! Thanks for<n>your\nsuggestion! Ehehe, I'm excited<n>to run tomorrow!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "And with that, her training session<n>goes off\nwithout a hitch."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "That's a great idea! I'm sure the<n>skies will clear\nif we make a lot of<n>them."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Let's make really cute ones. I want to<n>make a\nblue one..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh! But... No, this won't work..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "If I make them, they'll probably just<n>bring a\nwhole storm down on us<n>instead...",
+            "choice_data_list": [
+                "Don't worry. I'll make a whole bunch of them\ntoo.",
+                "Don't worry. I'll make a whole bunch of them\ntoo."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Really? What a relief! I'm sure they'll<n>work fine\nif <i>you</i> do it! I'll make<n>the best sunshine dolls\nI can!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The skies must have heard Rice<n>Shower's pleas,\nbecause there isn't<n>a single cloud to be seen the\nnext day."
+        }
+    ]
+}

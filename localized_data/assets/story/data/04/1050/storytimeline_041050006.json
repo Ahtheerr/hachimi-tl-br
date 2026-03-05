@@ -2,73 +2,73 @@
     "text_block_list": [
         {
             "name": "Narita Taishin",
-            "text": "<i>Huff... Puff...</i>"
+            "text": "<i>Arf... Arf...</i>"
         },
         {
             "name": "Narita Taishin",
-            "text": "There, that's all of today's drills!"
+            "text": "Pronto, esses foram todos os<n>exercícios de hoje!"
         },
         {
             "name": "Monólogo",
-            "text": "Narita Taishin's training is going well,<n>and she's getting into\nthe swing of it.<n>But something is still missing..."
+            "text": "O treino da Narita Taishin está indo<n>bem e ela está pegando\no ritmo. Mas<n>algo ainda está faltando..."
         },
         {
             "name": "Novo Treinador",
-            "text": "Really nice results today! You're<n>almost ready for the next\nrace!"
+            "text": "Resultados muito bons hoje! Você<n>está quase pronta para a\npróxima<n>corrida!"
         },
         {
-            "name": "Cheerful Umamusume",
-            "text": "For real?! Hehehe, guess I better get<n>ready for my big\nreward, huh? ♪"
+            "name": "Umamusume Alegre",
+            "text": "Sério?! Hehehe, acho melhor eu me<n>preparar para a minha\ngrande<n>recompensa, né? ♪"
         },
         {
             "name": "Novo Treinador",
-            "text": "Ah, there it is! Sure thing, lemme just<n>make a reservation\nfor that premium<n>dessert buffet you've been dreaming<n>\nabout!"
+            "text": "Ah, é mesmo! Com certeza, deixa eu<n>só fazer uma reserva\npara aquele<n>buffet de sobremesas premium que<n>você\ntanto queria!"
         },
         {
             "name": "Monólogo",
-            "text": "Seeing other trainers with their racers,<n>I can't help but\nthink...",
+            "text": "Vendo outros treinadores com suas<n>corredoras, não consigo\nevitar de<n>pensar...",
             "choice_data_list": [
-                "(I might need to get to know Taishin better...)"
+                "(Eu talvez precise conhecer a Taishin melhor...)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "For the most part, I only see her<n>during training. I know next\nto nothing<n>about Taishin herself.",
+            "text": "Na maior parte do tempo, só a vejo<n>durante o treino. Não sei\nquase nada<n>sobre a Taishin em si.",
             "choice_data_list": [
-                "Taishin, have a sec?",
-                "Taishin, have a sec?"
+                "Taishin, tem um minuto?",
+                "Taishin, tem um minuto?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "What? I did all my routines. Am I<n>missing something?",
+            "text": "O quê? Eu fiz toda a minha rotina.<n>Estou esquecendo de\nalgo?",
             "choice_data_list": [
-                "Is there anywhere you'd like to go?"
+                "Tem algum lugar que você gostaria de ir?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Huh?"
+            "text": "Hã?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Not really. I don't have time to keep<n>you company anyway.\nI'm gonna cool<n>down and head back."
+            "text": "Não exatamente. E eu não tenho<n>tempo pra te fazer\ncompanhia de<n>qualquer jeito. Vou desaquecer e ir<n>embora."
         },
         {
             "name": "Monólogo",
-            "text": "And she's gone... Hopefully I'll get to<n>know her better as\nwe train more."
+            "text": "E ela se foi... Espero conseguir<n>conhecê-la melhor conforme<n>\ntreinamos mais."
         },
         {
             "name": "Monólogo",
-            "text": "One day, a letter goes out to all<n>faculty. It turns out to be a\nbonus from<n>the academy—tickets to an aquarium."
+            "text": "Um dia, uma carta é enviada a todo o<n>corpo docente. Acaba\nsendo um<n>bônus da academia—ingressos para<n>um\naquário."
         },
         {
             "name": "Monólogo",
-            "text": "I would've invited Taishin, but she<n>turned me down last\ntime I tried. So, I<n>head off by myself."
+            "text": "Eu teria convidado a Taishin, mas ela<n>me recusou da última\nvez. Então, vou<n>sozinho."
         },
         {
             "name": "Monólogo",
-            "text": "It's a small aquarium in the suburbs,<n>quiet and with only a\nsprinkling of<n>visitors."
+            "text": "É um aquário pequeno no subúrbio,<n>silencioso e com\npoucos visitantes."
         },
         {
             "name": "Narita Taishin",
@@ -76,34 +76,34 @@
         },
         {
             "name": "Monólogo",
-            "text": "...One of whom I recognize.",
+            "text": "...Um dos quais eu reconheço.",
             "choice_data_list": [
                 "(Taishin?)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "While I debate whether to say<n>something, she mumbles to\nherself."
+            "text": "Enquanto debato se devo dizer algo,<n>ela murmura para si\nmesma."
         },
         {
             "name": "Narita Taishin",
-            "text": "...What's next?",
+            "text": "...Qual é o próximo?",
             "choice_data_list": [
-                "(I've never seen her this calm...)",
-                "(I've never seen her this calm...)"
+                "(Nunca a vi tão calma...)",
+                "(Nunca a vi tão calma...)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Something's different than usual.<n>Perplexed, I watch silently\nas she<n>drifts off to another area."
+            "text": "Algo está diferente do normal.<n>Perplexo, observo em\nsilêncio<n>enquanto ela se desloca para outra<n>área."
         },
         {
             "name": "Monólogo",
-            "text": "But it's a small aquarium, and as I<n>stroll around, I wind up\nseeing her<n>again."
+            "text": "Mas é um aquário pequeno e,<n>enquanto passeio, acabo\nvendo-a<n>novamente."
         },
         {
             "name": "Monólogo",
-            "text": "She's standing by the<n>\"Fishy-Fun-Time\" touch tank, staring<n>\ndown the doctorfish inside."
+            "text": "Ela está parada perto do tanque tátil<n>\"Hora do Peixe\nDivertido\", encarando<n>os peixes-médicos lá dentro."
         },
         {
             "name": "Narita Taishin",
@@ -111,11 +111,11 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Here I go."
+            "text": "Lá vou eu."
         },
         {
             "name": "Monólogo",
-            "text": "She cautiously checks if anyone is<n>around, then gathers her\ncourage and<n>dips a hand in."
+            "text": "Ela verifica cautelosamente se há<n>alguém por perto, então\nganha<n>coragem e mergulha uma mão."
         },
         {
             "name": "Narita Taishin",
@@ -123,15 +123,15 @@
         },
         {
             "name": "Monólogo",
-            "text": "Her worry melts away as the<n>squirming fish tickles her\nfingers."
+            "text": "Sua preocupação derrete enquanto os<n>peixes agitando-se\nfazem cócegas em<n>seus dedos."
         },
         {
             "name": "Monólogo",
-            "text": "Later, as the sun begins to set..."
+            "text": "Mais tarde, conforme o sol começa a<n>se pôr..."
         },
         {
             "name": "Monólogo",
-            "text": "There are barely any visitors now.<n>The aquarium is still and\nnoiseless as<n>the deep sea."
+            "text": "Quase não há mais visitantes agora. O<n>aquário está parado\ne sem ruído como<n>o mar profundo."
         },
         {
             "name": "Narita Taishin",
@@ -139,11 +139,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "And all alone, joyfully snapping pics<n>of the energetic sea\ncreatures, is<n>Taishin."
+            "text": "E sozinha, tirando fotos alegremente<n>das enérgicas\ncriaturas marinhas,<n>está a Taishin."
         },
         {
             "name": "Monólogo",
-            "text": "For someone who hates groups, she<n>has an awfully big\nsmile looking at the<n>school of fish."
+            "text": "Para alguém que odeia grupos, ela<n>exibe um sorriso enorme\nolhando para<n>o cardume de peixes."
         },
         {
             "name": "Narita Taishin",
@@ -151,124 +151,124 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Wha! It's you!"
+            "text": "Ua! É você!"
         },
         {
             "name": "Monólogo",
-            "text": "I freeze like a deer in headlights. A<n>wave of embarrassment\nwashes over<n>me as I struggle to reply.",
+            "text": "Eu travo como um cervo diante dos<n>faróis. Uma onda de\nvergonha me<n>atinge enquanto luto para responder.",
             "choice_data_list": [
-                "Oh, h-hey. What a coincidence.",
-                "Oh, h-hey. What a coincidence."
+                "Oh, o-oi. Que coincidência.",
+                "Oh, o-oi. Que coincidência."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Smooth. If she realizes I was<n>watching her, I don't even\nwant to<n><i>think</i> how mad she'll be..."
+            "text": "Mandou bem. Se ela perceber que eu<n>a estava observando,\nnão quero nem<n><i>pensar</i> no quão brava ela vai<n>ficar..."
         },
         {
             "name": "Narita Taishin",
-            "text": "It's always like this here, you know."
+            "text": "É sempre assim aqui, sabe."
         },
         {
             "name": "Monólogo",
-            "text": "She smiles, not a hint of anger to be<n>heard in her voice."
+            "text": "Ela sorri, sem nenhum sinal de raiva<n>em sua voz."
         },
         {
             "name": "Monólogo",
-            "text": "Maybe it's the tranquil blue<n>ambience... but she seems so\ngentle."
+            "text": "Talvez seja o ambiente azul<n>tranquilo... mas ela parece tão\ngentil."
         },
         {
             "name": "Narita Taishin",
-            "text": "There's another bigger, fancier<n>aquarium nearby. So pretty\nmuch<n>everyone goes there now."
+            "text": "Tem outro aquário maior e mais<n>chique por perto. Então\nquase todo<n>mundo vai pra lá agora."
         },
         {
             "name": "Narita Taishin",
-            "text": "That's why it's always quiet here.<n>Most come by\nthemselves. And<n>they're all fish-lovers, so they just<n>stare\nat the tanks the whole time."
+            "text": "É por isso que aqui é sempre<n>sossegado. A maioria vem\nsozinha. E<n>todos amam peixes, então ficam só<n>encarando\nos tanques o tempo todo."
         },
         {
             "name": "Narita Taishin",
-            "text": "They don't give a second thought to<n>me."
+            "text": "Eles nem reparam em mim."
         },
         {
             "name": "Monólogo",
-            "text": "She pauses, her words fading into the<n>background music."
+            "text": "Ela faz uma pausa, suas palavras<n>sumindo na música de\nfundo."
         },
         {
             "name": "Monólogo",
-            "text": "For all the time we've spent together,<n>I've never seen her\nmake a face like<n>this."
+            "text": "Em todo o tempo que passamos<n>juntos, nunca a vi fazer\numa<n>expressão assim."
         },
         {
             "name": "Narita Taishin",
-            "text": "But how about you, fishies? I wonder<n>if they notice me...\nHehe."
+            "text": "Mas e vocês, peixinhos? Será que<n>eles me notam... Hehe."
         },
         {
             "name": "Narita Taishin",
-            "text": "Whatever, it doesn't matter. They<n>aren't really watching.\nThey're just<n>around."
+            "text": "Tanto faz, não importa. Eles não<n>estão olhando de verdade.\nSó estão<n>por perto."
         },
         {
             "name": "Narita Taishin",
-            "text": "It's fine... I like it that way—makes it<n>easier for me."
+            "text": "Está tudo bem... Eu gosto<n>assim—deixa as coisas mais\nfáceis<n>para mim."
         },
         {
             "name": "Narita Taishin",
-            "text": "Hm? Hey, what's that grin for?",
+            "text": "Hm? Ei, por que esse sorriso?",
             "choice_data_list": [
-                "Huh? Oh, nothing really.",
-                "Huh? Oh, nothing really."
+                "Hã? Ah, por nada, sério.",
+                "Hã? Ah, por nada, sério."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "That so? You're kinda weird<n>sometimes."
+            "text": "É mesmo? Você é meio esquisito às<n>vezes."
         },
         {
             "name": "Narita Taishin",
-            "text": "Well, I gotta go. This place closes<n>pretty early, so watch out."
+            "text": "Bom, eu tenho que ir. Este lugar<n>fecha bem cedo, então\ncuidado."
         },
         {
             "name": "Monólogo",
-            "text": "I look on as the mysterious<n>aquarium-goer disappears into\nthe<n>distance.",
+            "text": "Observo a misteriosa frequentadora<n>de aquários\ndesaparecer ao longe.",
             "choice_data_list": [
-                "(This turned out to be a pretty great day.)"
+                "(Acabou sendo um dia muito bom.)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Hopefully, it's a sign of progress."
+            "text": "Esperamos que seja um sinal de<n>progresso."
         },
         {
-            "name": "Cheerful Umamusume",
-            "text": "Whoo-hoo! A new record! Hey,<n>maybe it's time to make\nreservations<n>for the premium dessert buffet, huh?"
+            "name": "Umamusume Alegre",
+            "text": "Uhuuu! Um novo recorde! Ei, talvez<n>seja hora de fazer\nreservas para o<n>buffet de sobremesas premium, hein?"
         },
         {
             "name": "Novo Treinador",
-            "text": "Hold on a minute! Breaking your<n>record's amazing, but the\ndessert's<n>your big prize for when you win the<n>race!"
+            "text": "Espere um minuto! Quebrar seu<n>recorde é incrível, mas a\nsobremesa é<n>o grande prêmio para quando você<n>vencer a\ncorrida!"
         },
         {
             "name": "Monólogo",
-            "text": "The banter between trainer and<n>trainee looks fun, but this\ntime... I feel<n>a little less envious."
+            "text": "A brincadeira entre treinador e<n>aprendiz parece divertida,\nmas desta<n>vez... sinto um pouco menos de<n>inveja."
         },
         {
             "name": "Narita Taishin",
-            "text": "<i>Huff, puff...</i> Phew...",
+            "text": "<i>Arf, arf...</i> Ufa...",
             "choice_data_list": [
-                "Nice work, Taishin."
+                "Bom trabalho, Taishin."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Yep... Enough chitchat though. Let's<n>keep it moving.",
+            "text": "É... Chega de conversa, porém.<n>Vamos continuar.",
             "choice_data_list": [
-                "You got it!"
+                "Pode deixar!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Umm, is it me, or are you crazy happy<n>today?"
+            "text": "Hm, é impressão minha ou você está<n>animado pra caramba\nhoje?"
         },
         {
             "name": "Monólogo",
-            "text": "I've come to realize that I'm happy<n>the way things are."
+            "text": "Percebi que estou feliz com as coisas<n>do jeito que estão."
         }
     ]
 }

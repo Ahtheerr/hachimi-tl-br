@@ -2,235 +2,236 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Today, King Halo and I are going to a<n>fashion show for the\nlatest signature<n>racewear."
+            "text": "Hoje, King Halo e eu vamos a um<n>desfile de moda para ver\nos últimos<n>trajes de corrida exclusivos."
         },
         {
             "name": "Monólogo",
-            "text": "We agreed to meet up at 9 a.m., but..."
+            "text": "Combinamos de nos encontrar às 9<n>da manhã, mas..."
         },
         {
             "name": "King Halo",
-            "text": "You're late! What time do you think it<n>is?",
+            "text": "Você está atrasado! Que horas você<n>pensa que são?",
             "choice_data_list": [
-                "Umm... it's 9 a.m."
+                "Err... são 9 da manhã."
             ]
         },
         {
             "name": "King Halo",
-            "text": "If I say 9 a.m., then I mean 8 a.m.!<n>Gosh, how could you\nkeep me waiting<n>for a whole hour?"
+            "text": "Se eu digo 9 da manhã, então quero<n>dizer 8 da manhã!\nNossa, como você<n>pôde me deixar esperando por uma<n>\nhora inteira?"
         },
         {
             "name": "King Halo",
-            "text": "Making me, a first-rate Umamusume,<n>stand alone at the\nback of the line..."
+            "text": "Fazer com que eu, uma Umamusume<n>de primeira classe,\nfique sozinha no<n>final da fila..."
         },
         {
             "name": "King Halo",
-            "text": "As your punishment, you'll have to<n>treat me to some tea\nbefore we head<n>back. Hmph, be grateful that I'm<n>letting\nyou off the hook this time!",
+            "text": "Como punição, você terá que me<n>pagar um chá antes de\nvoltarmos.<n>Hmph, seja grato por eu estar te<n>perdoando\ndesta vez!",
             "choice_data_list": [
-                "That's a bit... unreasonable..."
+                "Isso é um pouco... irracional..."
             ]
         },
         {
             "name": "King Halo",
-            "text": "Please, I'm practically being<n>magnanimous. Anyway,\nenough with<n>the chitchat—hurry up and get in line!"
+            "text": "Por favor, estou sendo praticamente<n>magnânima. Enfim,\nchega de<n>conversa fiada — apresse-se e entre<n>na fila!"
         },
         {
             "name": "Monólogo",
-            "text": "King Halo pulls me into the line."
+            "text": "King Halo me puxa para a fila."
         },
         {
             "name": "King Halo",
-            "text": "There are so many people here that it<n>might be hard to see\nthe stage.",
+            "text": "Há tantas pessoas aqui que pode ser<n>difícil ver o palco.",
             "choice_data_list": [
-                "It seems like it's a pretty popular show.",
-                "It seems like it's a pretty popular show."
+                "Parece que é um desfile bem popular.",
+                "Parece que é um desfile bem popular."
             ]
         },
         {
             "name": "King Halo",
-            "text": "Of course it's popular... Perhaps you<n>don't fully\ncomprehend the<n>significance of today's event, so let<n>me\nenlighten you."
+            "text": "Claro que é popular... Talvez você não<n>compreenda\ntotalmente a importância<n>do evento de hoje, então deixe-me<n>\niluminá-lo."
         },
         {
             "name": "King Halo",
-            "text": "Today, only the finest brands will be<n>shown. We'll see the\nbest outfits from<n>the best designers! Truly a first-rate<n>\nexperience!"
+            "text": "Hoje, apenas as melhores marcas<n>serão exibidas.\nVeremos os melhores<n>trajes dos melhores designers!<n>\nRealmente uma experiência de<n>primeira classe!"
         },
         {
             "name": "King Halo",
-            "text": "The show's going to be so good that<n>you won't even want\nto blink. Don't<n>even think about looking away for a<n>\nsecond!"
+            "text": "O show será tão bom que você nem<n>vai querer piscar. Nem\npense em<n>desviar o olhar por um segundo!"
         },
         {
             "name": "King Halo",
-            "text": "Especially when it comes to..."
+            "text": "Especialmente quando se trata de..."
         },
         {
             "name": "Monólogo",
-            "text": "King Halo's eyes sparkle with<n>excitement as she rattles off\nevery<n>aspect of the fashion show."
+            "text": "Os olhos de King Halo brilham de<n>empolgação enquanto ela\ndetalha<n>cada aspecto do desfile de moda."
         },
         {
             "name": "Monólogo",
-            "text": "One hour later..."
+            "text": "Uma hora depois..."
         },
         {
             "name": "King Halo",
-            "text": "It's almost time for the show to start,<n>but we've barely\nmoved forward... I<n>can't see anything from here..."
+            "text": "Está quase na hora do show<n>começar, mas mal\navançamos... Eu<n>não consigo ver nada daqui..."
         },
         {
             "name": "King Halo",
-            "text": "I hope they didn't make us wait all<n>this time just to tell us\nthat they've<n>already reached max capacity...",
+            "text": "Espero que não tenham nos feito<n>esperar todo esse tempo\napenas para<n>nos dizer que já atingiram a<n>capacidade\nmáxima...",
             "choice_data_list": [
-                "Should we leave?",
-                "Should we leave?"
+                "Devemos ir embora?",
+                "Devemos ir embora?"
             ]
         },
         {
             "name": "King Halo",
-            "text": "Why on earth would I do that?<n>Today's show is—"
+            "text": "Por que diabos eu faria isso? O show<n>de hoje é—"
         },
         {
-            "name": "Show Staff",
-            "text": "Excuse me, are you King Halo?"
-        },
-        {
-            "name": "King Halo",
-            "text": "Ah... yes, that's right. Who might you<n>be?"
-        },
-        {
-            "name": "Show Staff",
-            "text": "Aha, I had a feeling. I'm part of the<n>event operations team. I\nwanted to<n>say that it's been an honor to work<n>with your\nmother on the show—"
+            "name": "Equipe do Show",
+            "text": "Com licença, você é King Halo?"
         },
         {
             "name": "King Halo",
-            "text": "Ah, I see."
+            "text": "Ah... sim, está correto. Quem seria<n>você?"
+        },
+        {
+            "name": "Equipe do Show",
+            "text": "Aha, eu tive um palpite. Faço parte da<n>equipe de operações\ndo evento. Eu<n>queria dizer que tem sido uma honra<n>\ntrabalhar com sua mãe no desfile—"
         },
         {
             "name": "King Halo",
-            "text": "I'm well aware that my mother's<n>designs are the main\nevent and will be<n>showcased as the grand finale."
-        },
-        {
-            "name": "Show Staff",
-            "text": "So you're interested in her work as<n>well? Of course, you're\nher daughter<n>after all. I've heard from your mother<n>that\nyou've been fantastic at Tracen—"
+            "text": "Ah, entendo."
         },
         {
             "name": "King Halo",
-            "text": "Are you sure that's what you heard?"
+            "text": "Estou bem ciente de que os designs<n>da minha mãe são o\nevento principal e<n>serão exibidos como o grande final."
+        },
+        {
+            "name": "Equipe do Show",
+            "text": "Então você também está interessada<n>no trabalho dela?\nClaro, você é a filha<n>dela, afinal. Ouvi de sua mãe que<n>\nvocê tem sido fantástica na Tracen—"
         },
         {
             "name": "King Halo",
-            "text": "Please, spare me the platitudes. I<n>know well what she\nwould say, and<n>especially what she <i>wouldn't.</i><n>Like\nyou said, I <i>am</i> her daughter."
-        },
-        {
-            "name": "Show Staff",
-            "text": "Oh, my apologies... Well, if you'll<n>excuse me then..."
+            "text": "Tem certeza de que foi isso que<n>ouviu?"
         },
         {
             "name": "King Halo",
-            "text": "I guess he was one of my mother's<n>acquaintances."
+            "text": "Por favor, poupe-me dos clichês. Eu<n>sei bem o que ela diria,\ne<n>especialmente o que ela <i>não</i><n>diria. Como você\ndisse, eu <i>sou</i> a<n>filha dela."
+        },
+        {
+            "name": "Equipe do Show",
+            "text": "Oh, minhas desculpas... Bem, com<n>licença então..."
         },
         {
             "name": "King Halo",
-            "text": "Hm, it looks like you've got<n>something to say. Well, don't\nmake<n>me wait—just get it out already.",
+            "text": "Imagino que ele fosse um dos<n>conhecidos da minha mãe."
+        },
+        {
+            "name": "King Halo",
+            "text": "Hm, parece que você tem algo a<n>dizer. Bem, não me faça\nesperar — fale<n>logo de uma vez.",
             "choice_data_list": [
-                "I didn't know your mother was part of this show.\n| I didn't know your mother was part of this\nshow."
+                "Eu não sabia que sua mãe fazia parte deste\ndesfile.",
+                "Eu não sabia que sua mãe fazia parte deste\ndesfile."
             ]
         },
         {
             "name": "King Halo",
-            "text": "After my mother retired from racing,<n>she became a\nprofessional designer<n>for signature racewear."
+            "text": "Depois que minha mãe se aposentou<n>das corridas, ela se\ntornou uma<n>designer profissional de trajes de<n>corrida\nexclusivos."
         },
         {
             "name": "King Halo",
-            "text": "It pains me to say this, but she truly<n>embodies \"first-rate\".\nShe surpasses<n>everyone's expectations with each<n>and\nevery dress she makes."
+            "text": "Dói-me dizer isso, mas ela realmente<n>encarna o que é\n\"primeira classe\". Ela<n>supera as expectativas de todos com<n>\ncada vestido que faz."
         },
         {
             "name": "King Halo",
-            "text": "Her designs are timeless, crafted with<n>perfection for all\nracers. There's a lot<n>to be learned from her work."
+            "text": "Seus designs são atemporais, criados<n>com perfeição para\ntodas as<n>corredoras. Há muito a ser aprendido<n>com o\ntrabalho dela."
         },
         {
             "name": "King Halo",
-            "text": "...Well, I suppose not all racers. She<n>never made anything for\nme."
+            "text": "...Bem, suponho que não para todas<n>as corredoras. Ela\nnunca fez nada<n>para mim."
         },
         {
             "name": "King Halo",
-            "text": "It doesn't matter though. Her talent in<n>design didn't carry\nover into sewing.<n>Honestly, she's terribly clumsy."
+            "text": "Não importa, porém. O talento dela em<n>design não se\nestendeu à costura.<n>Sinceramente, ela é terrivelmente<n>\ndesastrada."
         },
         {
             "name": "King Halo",
-            "text": "Despite her own shortcomings, she's<n>always been overly\ncompetitive and<n>vain. She's loath to show even her<n>own\ndaughter something less than<n>perfect."
+            "text": "Apesar de suas próprias falhas, ela<n>sempre foi\nexcessivamente<n>competitiva e vaidosa. Ela odeia<n>mostrar\naté para a própria filha algo<n>menos do que perfeito."
         },
         {
             "name": "King Halo",
-            "text": "I remember how she bought a<n>birthday cake for me,\nwatched me eat<n>it, then hid in another room to eat her<n>own\nfailed creation."
+            "text": "Lembro-me de como ela comprou um<n>bolo de aniversário\npara mim, me viu<n>comê-lo, e depois se escondeu em<n>outro\nquarto para comer sua própria<n>criação fracassada."
         },
         {
             "name": "King Halo",
-            "text": "It's ridiculous. I wish she'd just<n>acknowledge her\nweaknesses and<n>failures.",
+            "text": "É ridículo. Eu queria que ela apenas<n>admitisse suas\nfraquezas e falhas.",
             "choice_data_list": [
-                "Like mother, like daughter, huh?",
-                "Like mother, like daughter, huh?"
+                "Tal mãe, tal filha, hein?",
+                "Tal mãe, tal filha, hein?"
             ]
         },
         {
             "name": "King Halo",
-            "text": "Not at all!"
+            "text": "De jeito nenhum!"
         },
         {
-            "name": "Staff Member",
-            "text": "Everyone, thank you for waiting!<n>We'll now begin guiding\nyou all to the<n>event hall!"
-        },
-        {
-            "name": "King Halo",
-            "text": "It's about time. Come on, let's get<n>going."
+            "name": "Membro da Equipe",
+            "text": "Todos, obrigado por esperar! Vamos<n>agora começar a\nguiá-los para o salão<n>do evento!"
         },
         {
             "name": "King Halo",
-            "text": "...They better show some excellent<n>dresses. Otherwise, I\nwon't forgive<n>them for making me wait so long."
-        },
-        {
-            "name": "Event Announcer",
-            "text": "And that concludes today's event.<n>Thank you for coming.\nPlease return<n>home safely."
+            "text": "Já estava na hora. Vamos, vamos<n>indo."
         },
         {
             "name": "King Halo",
-            "text": "That... was... amazing! Did you see<n>the new designs by\nUMADA? Oh my<n>gosh, I love how they designed the<n>\nswitching skirt!"
+            "text": "...É bom que mostrem alguns vestidos<n>excelentes. Caso\ncontrário, não os<n>perdoarei por me fazerem esperar<n>tanto\ntempo."
+        },
+        {
+            "name": "Locutora do Evento",
+            "text": "E isso conclui o evento de hoje.<n>Obrigado por virem. Por\nfavor, voltem<n>para casa em segurança."
         },
         {
             "name": "King Halo",
-            "text": "But the prettiest one was definitely—",
+            "text": "Isso... foi... incrível! Você viu os novos<n>designs da UMADA?\nMeu Deus, eu<n>adorei como eles desenharam a saia<n>\nremovível!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Mas o mais bonito foi<n>definitivamente—",
             "choice_data_list": [
-                "Was definitely?"
+                "Foi definitivamente?"
             ]
         },
         {
             "name": "King Halo",
-            "text": "...Never mind!"
+            "text": "...Esqueça!"
         },
         {
             "name": "King Halo",
-            "text": "Hmph. Just you wait and see. I'm<n>going to surpass my\nmother's race<n>record in no time."
+            "text": "Hmph. Apenas espere e veja. Eu<n>vou superar o recorde de\ncorridas da<n>minha mãe num piscar de olhos."
         },
         {
             "name": "King Halo",
-            "text": "And I won't just have one signature<n>racewear—I'm going\nto have a whole<n>closet full of them!"
+            "text": "E eu não terei apenas um traje de<n>corrida exclusivo — eu\nterei um closet<n>inteiro cheio deles!"
         },
         {
             "name": "King Halo",
-            "text": "Because I'm a first-rate racer—the<n>one and only King Halo!",
+            "text": "Porque eu sou uma corredora de<n>primeira classe — a única e\ninigualável<n>King Halo!",
             "choice_data_list": [
-                "Yes you are. Let's give it our all!",
-                "Yes you are. Let's give it our all!"
+                "Com certeza. Vamos dar o nosso melhor!",
+                "Com certeza. Vamos dar o nosso melhor!"
             ]
         },
         {
             "name": "King Halo",
-            "text": "Ohohoho! I'm glad you're on the<n>same page as me!\nExcellent! ♪"
+            "text": "Ohohoho! Fico feliz que você esteja<n>na mesma página que\neu! Excelente!<n>♪"
         },
         {
             "name": "King Halo",
-            "text": "Let's head back to the academy now.<n>We've got lots of\nplanning to do for<n>tomorrow's training schedule!"
+            "text": "Vamos voltar para a academia agora.<n>Temos muito\nplanejamento para fazer<n>para o cronograma de treino de<n>\namanhã!"
         },
         {
             "name": "Monólogo",
-            "text": "As King Halo walks away from the<n>event hall, her face\nshines with<n>ever-increasing determination."
+            "text": "Enquanto King Halo se afasta do<n>salão do evento, seu rosto\nbrilha com<n>uma determinação cada vez maior."
         }
     ]
 }

@@ -1,0 +1,181 @@
+{
+    "text_block_list": [
+        {
+            "name": "Nishino Flower",
+            "text": "This is the perfect amount of extra<n>flour!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nishino Flower enters the kitchen with<n>a spring in\nher step. Interested, I take<n>a peek."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sorry for the hold up! Let's get it right<n>this time!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Understood. Proceeding to the dough<n>kneading\nphase.",
+            "choice_data_list": [
+                "What are you both up to?",
+                "What are you both up to?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, hello! We're making desserts."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Not just any desserts. The mission is<n>to create\nsweets for a wedding.",
+            "choice_data_list": [
+                "Sweets for a wedding?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yes, a good friend of mine asked me<n>for help."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "You're going to make desserts for<n>your sister's\nwedding?"
+        },
+        {
+            "name": "Flower's Friend",
+            "text": "Yeah, I wanted to go the extra mile for<n>her special\nday! But I couldn't think of<n>any good ideas..."
+        },
+        {
+            "name": "Flower's Friend",
+            "text": "I tried a bunch of different sweets, but<n>nothing\nstuck. If only I were as<n>creative as you..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "U-um, if you'd like, I can try making a<n>few\ndesserts! They might give you<n>some ideas!"
+        },
+        {
+            "name": "Flower's Friend",
+            "text": "Really?! Thank you so much! I'll keep<n>\nexperimenting on my own too!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "So here we are. But I've hit a wall... I<n>don't know\nwhat kinds of dessert are<n>suitable for a wedding.",
+            "choice_data_list": [
+                "You could ask someone else for help."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Affirmative. Flower is currently<n>experiencing a\n\"deadlock.\" Introducing<n>an additional factor may\nresolve the<n>issue."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Recalling Tracen Academy student<n>database...\nOptimal match found.<n>Flash's parents are\nconfectioners by<n>trade.",
+            "choice_data_list": [
+                "You should rely on others more, or you'll wear\nyourself out."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...You're right. Sky told me something<n>similar\nonce."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I'm going to go ask Flash for advice!<n>It might\ngive me some good ideas!"
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Hmm. One minute and twenty-three<n>seconds until\nit reaches optimal<n>firmness."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Forty minutes and fifteen seconds<n>until the\ndough is done baking. We'll<n>ready the\ndecorations in the meantime."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Top it off with equal portions of<n>seasonal fruit,\nthen evenly apply the<n>whipped cream..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Perfection."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Wow! Your precision is incredible!<n>And the\ndecorations are so<n>extravagant."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Did it give you any good ideas?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "No... not yet. I can't help but<n>second-guess\nmyself, since I'm just<n>an amateur..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "When I was young, my father told me<n>that it\ndoesn't matter if you're a pro<n>or an amateur\nwhen putting the<n>finishing touches on\nconfectionery."
+        },
+        {
+            "name": "Flash's Father",
+            "text": "You know, baking sweets is just like<n>wishing\nsomeone happiness."
+        },
+        {
+            "name": "Flash's Father",
+            "text": "You can have a detailed recipe and<n>the finest\ningredients, but only when<n>you mix in your love\ndo you get the<n>delicious final product."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "So instead of worrying about the<n>result, have\nfaith in the care you put in."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "The care... I put in..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Everyone's always helping me out,<n>so I want to\ngive back...)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(<i>That's</i> why I jumped at the<n>chance to be\nthere for my friend. I<n>can't believe I forgot!)"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Update detected in Flower's status.<n>\n\"Enthusiasm\" parameter increasing.<n>Flash, does\nthis indicate..."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Ja. It seems like she's found her<n>answer."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Some roses to decorate the financier<n>cake, and a\nfew African daisies on the<n>meringue... and then to\nwrap it all up in<n>a bouquet of baby's breath..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "There! The perfect trio of<n>flowers—love, hope, and\na wish for<n>happiness."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Thank you so much for the other day!<n>My friend\nsaid her sister loved it! ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "I made something to thank the both of<n>you."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "These are the sweets bouquets you<n>devised for\nOperation Wedding<n>Desserts... Are these for us?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yeah! ♪ They're just the mini<n>versions, but\nthey're full of my<n>gratitude!"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "They look delectable."
+        },
+        {
+            "name": "Eishin Flash",
+            "text": "Ja... Because they were made with<n>care."
+        }
+    ]
+}

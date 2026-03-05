@@ -1,0 +1,31 @@
+{
+    "text_block_list": [
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Aqui está. A corrida final."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "O palco onde a <chrname> pode brilhar<n>mais\nintensamente. Mais do que<n>qualquer outra."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Claro, isso vale para a minha<n>aprendiz também."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "A grande final... Eu vou levar o ouro.",
+            "choice_data_list": [
+                "Vamos ambos dar o nosso máximo!"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Com certeza! Seus dias com sua<n>aprendiz e\nmeus dias com a minha...<n>Vamos ver qual sairá\nvencedora!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Finalmente, a corrida final da URA<n>Finale começa!"
+        }
+    ]
+}

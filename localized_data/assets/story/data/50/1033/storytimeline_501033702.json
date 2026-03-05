@@ -1,0 +1,230 @@
+{
+    "text_block_list": [
+        {
+            "name": "Meisho Doto",
+            "text": "<i>Snif... snif...</i> Eu consigo mesmo<n>fazer isso?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Não chore. Lembra do que disse<n>sobre encontrar\na lâmina lendária?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tudo isso começou algumas horas<n>atrás\nenquanto eu passava pela<n>estação..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Você quer ajudar a Opera O, mas não<n>tem\nconfiança?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ela disse que vai fazer uma nova<n>ópera que\nexige muita pesquisa.<n>Então eu me ofereci para\najudar..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Mas, olhando o mapa... não sei se<n>vou conseguir\nchegar em todos os<n>destinos!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "E é por isso que você está aqui<n>chorando\nsozinha? Hum..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eu sei que disse que ajudaria, mas<n>não\nesperava ser arrastada até aqui!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "O que exatamente é essa pesquisa<n>da \"lâmina\nlendária\" afinal?!",
+            "choice_data_list": [
+                "Bem, você não pode abandoná-la agora.",
+                "Bem, você não pode abandoná-la agora."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ah, me desculpe! Me desculpe!<n>Mas... tem\ncrianças ansiosas pela<n>apresentação!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Não precisa me convencer. Eu já sei<n>que você\nnão vai desistir... Vamos logo<n>com isso!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com isso, elas partiram para<n>encontrar a lâmina\nlendária."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Aaaaah! Está balançando! Estamos<n>tão alto! Eu\nnão gosto diiiisso!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Não olhe para baixo. Mantenha os<n>olhos à sua\nfrente enquanto caminha."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Mas precisamos andar tão rápido?<n>Ihhh!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Uaaaah! Meus sapatos estão<n>encharcados! Meu\nbumbum e minhas<n>costas também!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Recomponha-se. Foi você quem<n>decidiu ir até o\nfim com isso!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hein? Aquilo ali... será que é..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Não pode ser. Será esta a lendária..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Graças a você, consegui todas as<n>informações\nque precisava sem<n>problemas! Obrigada!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Aquele mapa era bem inútil, não era?<n>O que a\nOpera O tinha na cabeça?<n>Francamente...",
+            "choice_data_list": [
+                "Ele nos fez dar uma volta enorme...",
+                "Ele nos fez dar uma volta enorme..."
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Eu... eu sinto muito por isso! A culpa é<n>minha por\nfazer você se esforçar<n>tanto..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Não há necessidade de se desculpar<n>por algo\nque eu escolhi fazer por<n>vontade própria... Vejo\nvocê mais<n>tarde."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "M-mas... Ah! Espere só um segundo!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Posso te comprar uma bebida<n>gostosa como\nagradecimento? Você<n>conhece o comercial, né?\n\"Se a<n>energia acabar, uma honeyade você<n>tem\nque tomar! ♪\""
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Não, obrigada."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hã?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eu não preciso. Suas palavras já são<n>\nagradecimento suficiente."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "M-mas! Eu não poderia... Que tal algo<n>além de\numa bebida? Um sorvete, ou<n>uma cenoura\ngrelhada? Ou talvez..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Está tudo bem. Sério. Foi você quem<n>se\nesforçou, certo?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Mas, mas... você ajudou..."
+        },
+        {
+            "name": "Crianças",
+            "text": "Ei! Sabíamos que era você, Doto!<n>Você está se\npreparando para a ópera<n>de hoje?",
+            "choice_data_list": [
+                "Quem são essas crianças?"
+            ]
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ah, eles são do centro infantil local. A<n>Opera O os\nconvidou para assistir ao<n>nosso show..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Er, olá, pessoal. Na verdade, acabei<n>de terminar\nos preparativos. Esta<n>moça gentil aqui estava me<n>\najudando."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eu não fiz nada. Eu apenas a<n>acompanhei."
+        },
+        {
+            "name": "Garoto Entusiasmado",
+            "text": "U-uaaaaaau! Você é tipo uma<n>super-heroína!"
+        },
+        {
+            "name": "Garota Alegre",
+            "text": "Você veio ao resgate da Doto, mas<n>nem está se\ngabando disso! Isso é...<n>tão legaaaal!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "E-espere um pouco...",
+            "choice_data_list": [
+                "Eu sei! Ela é <i>muuuito</i> legal, né?",
+                "Eu sei! Ela é <i>muuuito</i> legal, né?",
+                "Deixe que eu cuido disso.",
+                "Deixe que eu cuido disso."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "E-espere um pouco...",
+            "choice_data_list": [
+                "Eu sei! Ela é <i>muuuito</i> legal, né?",
+                "Eu sei! Ela é <i>muuuito</i> legal, né?",
+                "Deixe que eu cuido disso.",
+                "Deixe que eu cuido disso."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Eu apenas fiz o que qualquer um<n>deveria fazer."
+        },
+        {
+            "name": "Crianças",
+            "text": "Uaaaaau!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ah, chega! Por que você tinha que ir e<n>dizer\naquilo?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto as crianças cercam Admire<n>Vega, ela\nme lança um olhar<n>ressentido."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Cuidar do quê?",
+            "choice_data_list": [
+                "Rápido, Ayabe Ranger! A cidade precisa de sua\nheroína!",
+                "Rápido, Ayabe Ranger! A cidade precisa de sua\nheroína!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hã?"
+        },
+        {
+            "name": "Crianças",
+            "text": "Uau! É melhor você ir logo! Obrigada<n>por nos\nproteger, Ayabe Ranger!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Você já... fez isso antes?",
+            "choice_data_list": [
+                "Só estou seguindo o fluxo."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Continue assim e <i>alguém</i> pode<n>acabar te\nrecrutando para atuar em<n>uma peça."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ao sairmos, respondo aos<n>resmungos\nsemi-cansados de Admire<n>Vega com um sorriso\nirônico."
+        }
+    ]
+}

@@ -2,209 +2,209 @@
     "text_block_list": [
         {
             "name": "Smart Falcon",
-            "text": "Which shaved ice should I get? ♪<n>Maybe pineapple since\nit's summer?<n>Oh, but kiwi sounds good too..."
+            "text": "Qual raspadinha eu devo pegar? ♪<n>Talvez abacaxi, já que é\nverão? Ah,<n>mas kiwi parece bom também..."
         },
         {
             "name": "Smart Falcon",
-            "text": "Hmmm... They all look delicious! I<n>need to take a closer look\nat the menu.<n>I'll be right back!",
+            "text": "Humm... Todas parecem deliciosas!<n>Preciso olhar o cardápio\nmais de perto.<n>Já volto!",
             "choice_data_list": [
-                "Don't take too long!"
+                "Não demore muito!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Right now, Smart Falcon and I are at<n>the academy's\nsummer camp, taking<n>a quick break between training<n>\nsessions."
+            "text": "No momento, Smart Falcon e eu<n>estamos no acampamento\nde verão<n>da academia, fazendo uma pausa<n>rápida entre\nas sessões de treino."
         },
         {
-            "name": "Dirt-Racing Umamusume",
-            "text": "<i>Sigh...</i> What's the point of going<n>somewhere for\nsummer training camp,<n>when all I see is dirt, dirt, and more<n>\ndirt! Give me a change of scenery for<n>once!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Out of the blue, I hear a deep sigh. I<n>look back and see a\nfamiliar-looking<n>runner kicking at the dirt around her."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "I'm baaack! ☆ I think I'm gonna go<n>with the Happy\nHawaiian Blue flavor<n>this time! ♪"
+            "name": "Umamusume de Areia",
+            "text": "<i>Suspiro...</i> Qual é o sentido de ir a<n>algum lugar para um\nacampamento de<n>verão, quando tudo o que vejo é<n>areia,\nareia e mais areia! Me dê uma<n>mudança de cenário pelo\nmenos uma<n>vez!"
         },
         {
             "name": "Monólogo",
-            "text": "In the middle of my observations,<n>Smart Falcon returns from\nchecking<n>out the menu, so we head to the<n>cashier to buy\nour shaved ice."
+            "text": "Do nada, ouço um suspiro profundo.<n>Olho para trás e vejo\numa corredora<n>de rosto familiar chutando a areia ao<n>seu\nredor."
         },
         {
             "name": "Smart Falcon",
-            "text": "<i>Phew!</i> Another great day of<n>training! Nothing like a\nfrozen treat to<n>get you motivated!"
+            "text": "Volteeei! ☆ Acho que vou escolher o<n>sabor Azul Havaiano\nFeliz desta vez!<n>♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "No meio das minhas observações, a<n>Smart Falcon retorna\napós verificar o<n>cardápio, então seguimos para o<n>caixa\npara comprar nossas<n>raspadinhas."
         },
         {
             "name": "Smart Falcon",
-            "text": "Hm? What's going on over there?<n>Seems like there's a\nhuge crowd<n>gathering.",
+            "text": "<i>Ufa!</i> Mais um ótimo dia de treino!<n>Nada como um doce\ngelado para te<n>deixar motivada!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hm? O que está acontecendo ali?<n>Parece que uma grande\nmultidão está<n>se reunindo.",
             "choice_data_list": [
-                "Why don't we go take a look?",
-                "Why don't we go take a look?"
+                "Por que não vamos dar uma olhada?",
+                "Por que não vamos dar uma olhada?"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Smart Falcon and I head toward the<n>crowd to see what's\ngoing on. Once<n>we get there..."
+            "text": "Smart Falcon e eu seguimos em<n>direção à multidão para ver\no que está<n>acontecendo. Assim que chegamos<n>lá..."
         },
         {
             "name": "Novo Treinador A",
-            "text": "What do I do? What do I do?!"
+            "text": "O que eu faço? O que eu faço?!"
         },
         {
             "name": "Monólogo",
-            "text": "A group of trainers and their<n>Umamusume trainees surround\na lone<n>trainer. The young man appears to be<n>panicking,\nunable to decide what to do<n>next."
+            "text": "Um grupo de treinadores e suas<n>aprendizes Umamusume\ncercam um<n>treinador solitário. O jovem parece<n>estar em\npânico, incapaz de decidir o<n>que fazer a seguir."
         },
         {
             "name": "Smart Falcon",
-            "text": "I wonder what happened here..."
+            "text": "Eu me pergunto o que aconteceu<n>aqui..."
         },
         {
             "name": "Monólogo",
-            "text": "Her guess is as good as mine, so I<n>decide to ask the\ntrainers there to<n>shed light on the situation.",
+            "text": "O palpite dela é tão bom quanto o<n>meu, então decido\nperguntar aos<n>treinadores ali para esclarecer a<n>situação.",
             "choice_data_list": [
-                "What's going on?"
+                "O que está acontecendo?"
             ]
         },
         {
             "name": "Novo Treinador A",
-            "text": "W-we've got an emergency on our<n>hands! Break time's\nover, and my<n>trainee hasn't come back yet!"
+            "text": "T-temos uma emergência em mãos! O<n>intervalo acabou e\nminha aprendiz<n>ainda não voltou!"
         },
         {
             "name": "Treinador Veterano A",
-            "text": "She isn't responding to our attempts<n>to contact her, even\nthough the sun's<n>about to set. If she isn't back before<n>\ndark, she may end up lost."
+            "text": "Ela não está respondendo às nossas<n>tentativas de contato,\nembora o sol<n>esteja prestes a se pôr. Se ela não<n>voltar\nantes de escurecer, pode<n>acabar se perdendo."
         },
         {
             "name": "Smart Falcon",
-            "text": "Oh no! We've got to hurry up and find<n>her! C'mon, let's get\nmoving!",
+            "text": "Ah não! Temos que nos apressar e<n>encontrá-la! Vamos,\nvamos nos<n>mexer!",
             "choice_data_list": [
-                "Right, we should help look for her.",
-                "Right, we should help look for her."
+                "Certo, devemos ajudar a procurá-la.",
+                "Certo, devemos ajudar a procurá-la."
             ]
         },
         {
             "name": "Treinador Veterano A",
-            "text": "Correct. This isn't the time to be<n>panicking. Let's split into\nmultiple<n>search parties. Do you know where<n>she might've\ngone?"
+            "text": "Correto. Não é hora de entrar em<n>pânico. Vamos nos dividir\nem vários<n>grupos de busca. Você sabe para<n>onde ela\npode ter ido?"
         },
         {
             "name": "Novo Treinador A",
-            "text": "Thank you all so much! Uhhh, let's<n>see..."
+            "text": "Muito obrigado a todos! Uhhh,<n>vejamos..."
         },
         {
             "name": "Monólogo",
-            "text": "After determining the trainee's<n>potential locations, each\nparty goes<n>their own way to search. As we head<n>to our\nassigned spot..."
+            "text": "Após determinar os locais potenciais<n>da aprendiz, cada\ngrupo segue seu<n>próprio caminho para procurar.<n>Enquanto\nseguimos para o local<n>designado..."
         },
         {
             "name": "Smart Falcon",
-            "text": "We're at the far end of the beach. It<n>doesn't seem like\nanybody's here...",
+            "text": "Estamos na extremidade mais<n>distante da praia. Não parece\nhaver<n>ninguém aqui...",
             "choice_data_list": [
-                "We can't rule this place out just yet.",
-                "We can't rule this place out just yet."
+                "Não podemos descartar este lugar ainda.",
+                "Não podemos descartar este lugar ainda."
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "Yeah, maybe she went out for a walk<n>and ended up going\nsuper far.<n>Sometimes that happens."
+            "text": "É, talvez ela tenha saído para<n>caminhar e acabou indo longe<n>\ndemais. Às vezes isso acontece."
         },
         {
             "name": "Smart Falcon",
-            "text": "Well, now that we're here, we should<n>get started on our\nsearch! I'll check<n>the areas that are farther out!<n>Y'know,\nsince running on sand is my<n>thing!",
+            "text": "Bom, já que estamos aqui, devemos<n>começar nossa\nbusca! Vou verificar<n>as áreas que estão mais distantes!<n>\nSabe, já que correr na areia é a<n>minha praia!",
             "choice_data_list": [
-                "Wait!",
-                "Wait!"
+                "Espere!",
+                "Espere!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Eager to look for the lost<n>Umamusume, Smart Falcon\ndashes off<n>into the distance before I can say<n>anything."
+            "text": "Ansiosa para procurar a Umamusume<n>perdida, Smart Falcon\ndispara para<n>longe antes que eu possa dizer<n>qualquer\ncoisa."
         },
         {
             "name": "Smart Falcon",
-            "text": "<i>Pant... pant... pant...</i>"
+            "text": "<i>Arf... arf... arf...</i>"
         },
         {
             "name": "Smart Falcon",
-            "text": "(Is she over here? Or is she that<n>way? Hrk... I ran so fast I\nforgot to pay<n>attention to where I am...)"
+            "text": "(Será que ela está por aqui? Ou será<n>que é por ali? Urgh...\ncorri tão rápido<n>que esqueci de prestar atenção em<n>onde\nestou...)"
         },
         {
             "name": "Smart Falcon",
-            "text": "(But I agreed to help, so I have to do<n>whatever I can! Full\nspeed<n>ahead—max power! ☆ Let's gooo!)"
+            "text": "(Mas eu aceitei ajudar, então tenho<n>que fazer o que puder!\nVelocidade<n>máxima — potência total! ☆ Vamos<n>láaa!)"
         },
         {
-            "name": "Dirt-Racing Umamusume",
-            "text": "Huh? Is that... Falco? Why is she<n>running here?"
+            "name": "Umamusume de Areia",
+            "text": "Hã? Aquela é... a Falco? Por que ela<n>está correndo aqui?"
         },
         {
             "name": "Monólogo",
-            "text": "I walk for what feels like an eternity,<n>but I'm unable to find\nSmart Falcon or<n>the missing Umamusume."
+            "text": "Caminho pelo que parece ser uma<n>eternidade, mas não\nconsigo<n>encontrar a Smart Falcon nem a<n>Umamusume\ndesaparecida."
         },
         {
             "name": "Novo Treinador A",
-            "text": "How's your search going?! I've<n>looked up and down the\nbeach, but I<n>couldn't find her!",
+            "text": "Como está a sua busca?! Eu procurei<n>por toda a extensão\nda praia, mas não<n>a encontrei!",
             "choice_data_list": [
-                "No luck here either."
+                "Sem sorte por aqui também."
             ]
         },
         {
             "name": "Novo Treinador A",
-            "text": "I see... Dang it! Where do we even<n>look next?!"
+            "text": "Entendo... Droga! Onde é que vamos<n>procurar agora?!"
         },
         {
             "name": "Monólogo",
-            "text": "The clock continues ticking down as<n>our search hits a wall.\nWe need to find<n>her before sundown, no matter what.<n>Just\nas we ponder what to do next..."
+            "text": "O relógio continua correndo enquanto<n>nossa busca atinge\num beco sem<n>saída. Precisamos encontrá-la antes<n>do pôr\ndo sol, não importa o quê.<n>Justo quando pensamos no que\nfazer<n>a seguir..."
         },
         {
             "name": "Smart Falcon",
-            "text": "I'm baaaaack!",
+            "text": "Volteeeeei!",
             "choice_data_list": [
-                "Huh?!"
+                "Hã?!"
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "I've returned for your heart! ☆ No<n>matter how far away I go,\nmake sure<n>to catch me! ♪ 'Cause I'm the<n>number one\nUmadol—Smart Falcon! ☆"
+            "text": "Eu voltei para o seu coração! ☆ Não<n>importa o quão longe eu\nvá,<n>certifique-se de me alcançar! ♪<n>Porque eu sou a\nUmadol número um —<n>Smart Falcon! ☆"
         },
         {
             "name": "Monólogo",
-            "text": "Given that her body's completely<n>covered in sand, I\nassume that Smart<n>Falcon has been running a fair bit.<n>\nBehind her, I spot the missing trainee.",
+            "text": "Dado que seu corpo está<n>completamente coberto de areia,<n>\npresumo que a Smart Falcon tenha<n>corrido um bocado.\nAtrás dela, avisto<n>a aprendiz perdida.",
             "choice_data_list": [
                 "Falcon!"
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "Trainerrr! I thought I told you to call<n>me Falco! ☆",
+            "text": "Treinadooorrr! Achei que eu tinha te<n>dito para me chamar de\nFalco! ☆",
             "choice_data_list": [
-                "I'm glad you're safe."
+                "Fico feliz que você esteja bem."
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "Eheheh... Sorry for making you worry.<n>I was too caught up\nin the moment,<n>y'know? I just had to go all out!"
+            "text": "Eheheh... Desculpe por te preocupar.<n>Eu me deixei levar\npelo momento,<n>sabe? Eu só tinha que dar tudo de<n>mim!"
         },
         {
             "name": "Monólogo",
-            "text": "Apparently the missing trainee had<n>gotten lost after\nwandering a bit too<n>far. It's thanks to Smart Falcon that<n>\nshe was able to find her way back."
+            "text": "Aparentemente, a aprendiz perdida<n>tinha se extraviado após\nvagar um<n>pouco longe demais. É graças à Smart<n>Falcon\nque ela conseguiu encontrar o<n>caminho de volta."
         },
         {
             "name": "Smart Falcon",
-            "text": "Aw, I wanted to train some more after<n>changing, but it's\nalready dark..."
+            "text": "Ah, eu queria treinar mais depois de<n>me trocar, mas já está\nescuro..."
         },
         {
-            "name": "Dirt-Racing Umamusume",
-            "text": "Excuse me, Falco!"
+            "name": "Umamusume de Areia",
+            "text": "Com licença, Falco!"
         },
         {
             "name": "Smart Falcon",
-            "text": "Huh? What's up? Wait, it's you!"
+            "text": "Hã? O que foi? Espera, é você!"
         },
         {
-            "name": "Dirt-Racing Umamusume",
-            "text": "Yeah, we were on flag duty together,<n>remember? We both\nhave an aptitude<n>for dirt racing... To tell you the truth, I<n>was\nnever happy about that... until<n>now."
+            "name": "Umamusume de Areia",
+            "text": "É, nós estávamos no dever das<n>bandeiras juntas, lembra?\nNós duas<n>temos aptidão para corridas de areia...<n>Para falar\na verdade, eu nunca estive<n>contente com isso... até agora."
         },
         {
-            "name": "Dirt-Racing Umamusume",
-            "text": "When I saw you running earlier, you<n>looked so happy! It's\nlike you were<n>glowing under the sun! It made me<n>think to\nmyself, \"Hey, dirt racing might<n>not be half bad!\""
+            "name": "Umamusume de Areia",
+            "text": "Quando te vi correndo mais cedo,<n>você parecia tão feliz! É\ncomo se você<n>estivesse brilhando sob o sol! Isso<n>me fez\npensar: \"Ei, corridas de areia<n>podem não ser tão ruins\nassim!\""
         },
         {
             "name": "Smart Falcon",
@@ -212,46 +212,46 @@
         },
         {
             "name": "Monólogo",
-            "text": "After sharing her words of gratitude<n>with Smart Falcon, the\nthankful<n>Umamusume heads off with a dash.",
+            "text": "Após compartilhar suas palavras de<n>gratidão com a Smart\nFalcon, a<n>agradecida Umamusume parte em<n>disparada.",
             "choice_data_list": [
-                "Good for you!",
-                "Good for you!"
+                "Fico feliz por você!",
+                "Fico feliz por você!"
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "Her eyes... They were sparkling."
+            "text": "Os olhos dela... Eles estavam<n>brilhando."
         },
         {
             "name": "Smart Falcon",
-            "text": "And she was looking straight at me...<n>Ehehe, I think I might\nhave another<n>fan!"
+            "text": "E ela estava olhando direto para<n>mim... Ehehe, acho que\nposso ter mais<n>uma fã!"
         },
         {
             "name": "Smart Falcon",
-            "text": "Everyone gave everything for their<n>performances, and it\ninspired all the<n>people watching!"
+            "text": "Todos deram tudo de si em suas<n>performances, e isso\ninspirou todas<n>as pessoas que assistiam!"
         },
         {
             "name": "Smart Falcon",
-            "text": "Isn't that amazing? It makes me<n>want to light up the world\nfor other<n>people too!"
+            "text": "Isso não é incrível? Me dá vontade<n>de iluminar o mundo\npara as outras<n>pessoas também!"
         },
         {
             "name": "Smart Falcon",
-            "text": "I guess it doesn't matter how you do<n>things as long as give\nit your all! This<n>calls for a celebration! To my second<n>fan\never! ♪"
+            "text": "Acho que não importa como você faz<n>as coisas, contanto\nque dê tudo de si!<n>Isto pede uma comemoração! À<n>minha\nsegunda fã de todas! ♪"
         },
         {
             "name": "Smart Falcon",
-            "text": "Time to show the world my lovely<n>smile! ♪ I'm Smart\nFalcon, and I'm the<n>cutest Umadol around! ☆"
+            "text": "Hora de mostrar ao mundo o meu<n>sorriso adorável! ♪ Eu\nsou a Smart<n>Falcon, e sou a Umadol mais fofa de<n>todas! ☆"
         },
         {
             "name": "Monólogo",
-            "text": "Once Smart Falcon sets her mind on<n>something, there's\nnothing that can<n>stop her from racing toward that goal.<n>\nShe's got charisma and<n>determination in spades. To put it<n>\nsimply...",
+            "text": "Assim que a Smart Falcon foca em<n>algo, não há nada que\npossa impedi-la<n>de correr em direção a esse objetivo.<n>Ela\ntem carisma e determinação de<n>sobra. Para simplificar...",
             "choice_data_list": [
-                "You're so cool, Falco!"
+                "Você é tão descolada, Falco!"
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "Wait, what?! You're supposed to call<n>me cute! I'm going to\npretend you<n>never said that. Now one more time<n>from the\ntop! Remember—cute, not<n>cool!"
+            "text": "Pera, o quê?! É para me chamar de<n>fofa! Vou fingir que você\nnunca disse<n>isso. Agora, mais uma vez do<n>começo!\nLembre- se — fofa, não<n>descolada!"
         }
     ]
 }

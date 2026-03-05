@@ -1,0 +1,292 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "I'm working late into the night when a<n>sudden\nknock on the door brings a<n>visitor into my office."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Good evening! Did someone call for<n>an\nacupuncturist? I'm here to give<n>your trainee's\nchakra points a few<n>pokes!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Wait, she's not even here right now.<n>Welp, I\nguess that makes sense since<n>it's already so\nlate."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "In that case, why don't you choose a<n>treatment\noption first? ☆ I'll finish up<n>her treatment by\ntomorrow!",
+            "choice_data_list": [
+                "I don't remember calling for an acupuncturist."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "What's that? Do you not trust me?<n>There's\nnothing to be worried about! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I'm just going to poke a harmless<n>needle or two\ninto dear <chrname>!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "If the treatment is successful, the two<n>of you will\nbe able to achieve any<n>dreams you have! ☆",
+            "choice_data_list": [
+                "And if you fail?"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Not a clue! After all, I've never failed<n>before!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "...Of course, that's mostly because<n>this will be\nmy first time treating<n>anyone.",
+            "choice_data_list": [
+                "This is far too sketchy!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Come on, I'll do the best I can! You<n>can trust me\non that, at the very least!<n>☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "So tell me, what aspect do you want<n>to improve\nin your trainee? I'll grant<n>any wish you may have\nwith a little<n>poke!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I smell danger in the air, but I figure<n>there\nmight—and I emphasize<n><i>might</i>—be a chance\nof getting<n>something special out of this<n>\ntreatment."
+        },
+        {
+            "name": "Monólogo",
+            "text": "What should I do?",
+            "choice_data_list": [
+                "I'd like her to become stronger.",
+                "I'd like her to win races.",
+                "I'd like her health to improve.",
+                "I'd like her to become more charming.",
+                "This is too sketchy. I should quit while I still can."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I see, I see. So you want me to<n>activate the\nstrength chakra?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I'll do just that, then! Are you sure<n>with your\nchoice? There's no going<n>back after!",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "All righty, just leave it to me! Look<n>forward to\ntomorrow! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The next day, when <chrname> shows<n>up for\ntraining..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Puncture Perfect!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "She's overflowing with so much<n>power she's\nalmost unrecognizable!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Her condition is absolutely<n>deplorable..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I should've known better than to test<n>our luck.\nI'm not the one suffering, yet<n>I'm full of regret."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I see, I see. So, you want me to<n>activate the\nwinning chakra?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I'll do just that, then! Are you sure<n>with your\nchoice? There's no going<n>back after!",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "All righty, just leave it to me! Look<n>forward to\ntomorrow! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The next day, when <chrname> shows<n>up for\ntraining..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Puncture Perfect!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I can sense a huge improvement in<n>her skills!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Her condition is absolutely<n>deplorable..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I should've known better than to test<n>our luck.\nI'm not the one suffering, yet<n>I'm full of regret."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I see, I see. So, you want me to<n>activate the\nhealth chakra?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I'll do just that, then! Are you sure<n>with your\nchoice? There's no going<n>back after!",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "All righty, just leave it to me! Look<n>forward to\ntomorrow! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The next day, when <chrname> shows<n>up for\ntraining..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Puncture Perfect!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Her entire body is radiating a healthy<n>glow!\nShe's the absolute picture of<n>health!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Her condition is absolutely<n>deplorable..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I should've known better than to test<n>our luck.\nI'm not the one suffering, yet<n>I'm full of regret."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I see, I see. So, you want me to<n>activate the\ncharm chakra?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I'll do just that, then! Are you sure<n>with your\nchoice? There's no going<n>back after!",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "All righty, just leave it to me! Look<n>forward to\ntomorrow! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The next day, when <chrname> shows<n>up for\ntraining..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Puncture Perfect!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "She's overflowing with charm! She's<n>bound to\nturn heads everywhere she<n>goes!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Her condition is absolutely<n>deplorable..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I should've known better than to test<n>our luck.\nI'm not the one suffering, yet<n>I'm full of regret."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Aw, c'mon! Don't be like that!",
+            "choice_data_list": [
+                "Decline.",
+                "Reconsider."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Sheesh, don't be so stingy! It's just<n>a harmless\nneedle!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Trainer, are you working overtime?<n>Oh... I didn't\nknow you had a visitor."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Whoa, what awful timing! ☆ I guess<n>there's\nnothing I can do here."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "This is my cue to retreat! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "And so, the tumultuous storm leaves<n>as\nsuddenly as it came. I turn my<n>focus back to my\nwork and try to<n>forget what happened just now."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Had a change of heart, did you? No<n>worries, it\nhappens!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Go ahead and tell me which chakra<n>you want me\nto activate for your<n>lovely trainee!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Geez, you still can't decide? I don't<n>have all day!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Trainer, are you working overtime?<n>Oh... I didn't\nknow you had a visitor."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Whoa, what awful timing! ☆ I guess<n>there's\nnothing I can do here."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "This is my cue to retreat! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The situation takes a sharp turn<n>before I can\nmake a decision."
+        },
+        {
+            "name": "Monólogo",
+            "text": "What was that all about? I turn my<n>focus back to\nmy work and try to<n>forget what happened just\nnow."
+        }
+    ]
+}

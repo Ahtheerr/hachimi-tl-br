@@ -1,0 +1,401 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Hoje é o dia da Fan Fest de<n>Primavera, onde os\nfãs de corrida são<n>convidados para a academia\npara<n>curtir vários eventos e entretenimento<n>das\nUmamusume que eles apoiam."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ao contrário da Feira Solefall no<n>outono, a Fan\nFest de Primavera é<n>conhecida por ter mais\neventos<n>atléticos. Sendo assim, o evento no<n>\nqual a Admire Vega está participando<n>é..."
+        },
+        {
+            "name": "Membro do Comitê do Fan Fest A",
+            "text": "O Cabo de Guerra das Eras está<n>prestes a\ncomeçar nos terrenos da<n>academia!"
+        },
+        {
+            "name": "Membro do Comitê do Fan Fest B",
+            "text": "Os assentos estão enchendo rápido!<n>Então quem\nquiser assistir é melhor<n>se apressar!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "¡Bienvenidos, bienvenidos! O<n>confronto do Cabo\nde Guerra das<n>Eras está pronto para começar!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Todos os fãs animados aí fora!<n>Deixem! Eu!\nOuvir! O SEU GRITOOO!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uuuuhuuu!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Você não acha que já chega, El?<n>Você é uma\ndas participantes, então<n>que tal passar o\nmicrofone para a<n>verdadeira comentarista?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Espera aiii! Animar a galera é uma<n>\nresponsabilidade importante! E eu<n>não acho que\neles estão altos o<n>bastante ainda!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "..."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Tá bom, tá bom! Tô brincando! Eu vou<n>largar o\nmicrofone e ir pra aí!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ah, você finalmente voltou! Eu não<n>acredito que\nvocê pulou a nossa<n>reunião de estratégia!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Qual é, não precisa ficar chateada. Pra<n>que a\ngente precisa de reunião de<n>estratégia afinal?\nTudo que isso exige<n>é se mover em sincronia,\nné?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Além do mais, todas as outras<n>reuniões foram\nbasicamente sobre<n>escolher o nome da nossa\nequipe."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "O que vocês tavam discutindo<n>mesmo? Você\nqueria o nome Super<n>Cinco de Primeira Classe, e\na El<n>preferia Alma Amiga..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Mas no fim, decidimos tirar no<n>palitinho e\nescolhemos Batalhadoras<n>Cintilantes!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Vamos lá, Sei, King, El e Grass!<n>Vamos em busca\nda vitória!"
+        },
+        {
+            "name": "Espectador A",
+            "text": "Uaaaau! A Geração Dourada está<n>toda aqui! Elas\ntêm arrasado nA<n>Twinkle Series! Isso vai ser\numa<n>loucura! Eu disse loucuuura!",
+            "color_text_info_list": [
+                "Golden Generation"
+            ]
+        },
+        {
+            "name": "Espectador B",
+            "text": "Eu aposto tudo nelas! Eu vi no<n>Umatter que elas\ntêm se movido em<n>perfeita sincronia durante os\ntreinos.",
+            "color_text_info_list": [
+                "Umatter"
+            ]
+        },
+        {
+            "name": "Espectador C",
+            "text": "Hum... E quanto às adversárias<n>delas?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha! Alea iacta est!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Estão prontas para enfrentar o<n>inimigo, equipe?\nSigam-me, Quinteto da<n>Soberana!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Estou logo atrás de você!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Opera O, Doto, Urara e Ayabe! Vamos<n>trabalhar\njuntas para derrotar a<n>Geração Dourada!"
+        },
+        {
+            "name": "Doto e Urara",
+            "text": "Eeeeebaaa! Uuuhuuu!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Deixa comigo! Eu estive treinando<n>como puxar\nque nem uma<n>profissional! Ehehe, só que puxar\na<n>sua cauda dói de verdade!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "É i-importante não cair, mas se cair,<n>não solte...\nVocê a-ainda pode servir<n>como um peso!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Entrem em posição, pessoal. Já vai<n>começar.",
+            "choice_data_list": [
+                "(Vamos lá Ayabe, você consegue!)",
+                "(Vamos lá Ayabe, você consegue!)"
+            ]
+        },
+        {
+            "name": "Espectador A",
+            "text": "Oooh? A equipe adversária passa<n>uma forte\nimpressão, mas elas<n>parecem ser um pouco<n>\ndescoordenadas, não é?"
+        },
+        {
+            "name": "Espectador B",
+            "text": "Bem, só teremos que ver o que vai<n>acontecer.\nOlha, tá começando!"
+        },
+        {
+            "name": "Narradora Umamusume",
+            "text": "Vamos começar esse Cabo de<n>Guerra das Eras!\nNossa primeira<n>batalha é entre as Batalhadoras<n>\nCintilantes e o Quinteto da Soberana!"
+        },
+        {
+            "name": "Narradora Umamusume",
+            "text": "Quem levar a melhor em três rodadas<n>vence!\nTudo certo? Vamos iniciar a<n>primeira rodada!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Todas juntas! Força, puuuxa!"
+        },
+        {
+            "name": "Guerreiras Cintilantes",
+            "text": "Força, puuuxa!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...!"
+        },
+        {
+            "name": "Espectador A",
+            "text": "Uau, incrível! Como esperado, a<n>Geração\nDourada está em perfeita<n>sincronia!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Raaagh! Hmph... Hmph!"
+        },
+        {
+            "name": "Quinteto da Soberana",
+            "text": "Waaaah!"
+        },
+        {
+            "name": "Narradora Umamusume",
+            "text": "Oh não! O Quinteto da Soberana<n>colapsou\ncompletamente! A primeira<n>rodada vai para as\nBatalhadoras<n>Cintilantes!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Cerrando os dentes e enterrando os<n>pés no\nchão, T.M. Opera O lutou com<n>toda a vontade pela\nvitória. Mas<n>lamentavelmente ela precisa ceder a<n>\nprimeira rodada!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah nããão! A gente perdeu! A Spe e<n>as amigas\ndela são muito fortes!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ngh, elas estão se movendo em<n>perfeito\nuníssono. Cada vez que elas<n>gritam, a corda fica\nimóvel!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Nós também praticamos gritar em<n>uníssono, mas\nelas não nos deram a<n>chance nem de soltar um\ngrito."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Hmm, acho que precisamos pelo<n>menos tentar e\nsincronizar melhor os<n>nossos movimentos!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Por que só fazer a mesma coisa que<n>elas estão\nfazendo?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Elas estão todas no mesmo ano,<n>enquanto a\nnossa equipe é mista. Isso<n>as torna mais\nacostumadas a<n>trabalhar juntas."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Poderíamos dar o nosso melhor para<n>sincronizar,\nmas duvido que será o<n>bastante para derrotar a\nGeração<n>Dourada."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ah... É-É... você pode ter razão..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Mas... ainda podemos traçar uma<n>estratégia. Tem\nque haver algo que só<n>nós conseguimos fazer."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "...!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ei, Opera O."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hm?! O que foi, Ayabe?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Talvez você esteja toda agitada por<n>causa de\nquem são as nossas<n>adversárias."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Mas enquanto você fica obcecada<n>com o seu ato\nde Soberana, acho que<n>está esquecendo da\nparte do<n>\"quinteto\" no nome da nossa equipe."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "É você que está sempre falando<n>sobre óperas. E\né você que está<n>sempre nos arrastando para as\nsuas<n>encenações."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Sempre foi desse jeito. Então se<n>apresse e\ncomece logo essa<n>apresentação."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "...!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A segunda rodada começa!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Contemplem! Uma onda dourada<n>imponente\nincha no horizonte! Ela<n>avança ferozmente\nenquanto a<n>ressaca te puxa, pronta para<n>\nesmagá-las em pedaços! Mas será<n>que ela\nficará no nosso caminho para<n>a vitória?! (Lá laa!\n♪)"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Não! Lá, la la laa!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Então, ouçam! Nós não perderemos!<n>Nós não\nvacilaremos! A razão é! (A<n>razão é!)"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Haha, a razão é!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Sim! Porque eu sou eu! Porque<n><i>nós</i> somos\nnós!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "O Quinteto da Soberana! ♪"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Quintetoooo... ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Ranger! Fush, fush, fush!</i>"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "¿Qué?! Por que elas tão cantando?<n>Isso é pra\ndeixar elas mais fortes ou<n>algo assim?!"
+        },
+        {
+            "name": "Narradora Umamusume",
+            "text": "Inacreditável... o Quinteto da Soberana<n>venceu!\nElas parecem uma equipe<n>completamente\ndiferente da primeira<n>rodada. Hum, esse foi um\ntrabalho em<n>equipe único!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uuuuhuuu?!"
+        },
+        {
+            "name": "Espectador A",
+            "text": "Isso foi tão estranho, não foi?! Que<n>diabos foi\naquilo... uma música?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A partida pode ir para qualquer lado<n>neste ponto!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Nããão, a gente perdeu! Aaaah... Eu<n>queria muito\nvencer com todo mundo."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Chegamos bem perto."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Lamentavelmente, elas não<n>conseguiram garantir\numa vitória na<n>terceira rodada, enfrentando uma<n>\nderrota por pouco."
+        },
+        {
+            "name": "Monólogo",
+            "text": "No entanto, com a Admire Vega tendo<n>a chance\nde expressar seu apoio às<n>suas colegas, sinto\nque se tornou um<n>dia muito bom."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ayabe, eu quero cantar com você de<n>novo! A sua\nvoz cantando é tããão<n>linda!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Uuh..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Você conseguia me ouvir?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha ha! ☆ Vitória<n>incontestável! ☆"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Como discípulas das estrelas que<n>receberam\nsussurros dos sábios,<n>vamos nos abraçar,\ncheias de<n>gratidão!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Que tal se não..."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Haha! Mas você e a Opera O têm uma<n>química\ntão boa!",
+            "color_text_info_list": [
+                "Opera O"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hã?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Na verdade, eu tenho pensado isso<n>já tem um\ntempo!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Você tem um ar muito teatral sobre<n>você. Tipo, o\njeito que você fala soa<n>um pouco como contar\numa história<n>muitas vezes."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Hã?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "O que ela quer dizer com \"o jeito que<n>eu falo\"?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Pensando bem... Eu não quero saber."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hum, Ayabe? A gente provavelmente<n>deveria\napagar as luzes em breve."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ei, você acha que..."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Hum?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Desculpe. Não é nada."
+        },
+        {
+            "name": "Monólogo",
+            "text": "De qualquer forma, a Fan Fest<n>acabou se\ntornando um grande<n>sucesso!"
+        }
+    ]
+}

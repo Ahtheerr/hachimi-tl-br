@@ -1,0 +1,89 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Um dia, durante o treino, sinto alguém<n>me\nencarando. Eu me viro para<n>verificar, apenas\npara encontrar..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uma mulher desconhecida está<n>assistindo\natentamente nossa sessão.<n>Eu suponho que ela\nseja apenas uma<n>fã ou espectadora e tento\nignorar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas... ela fica ali parada, mesmo<n>depois que o\ntreino termina. Ela<n>estava esperando por mim?",
+            "choice_data_list": [
+                "Com licença, posso ajudá-lo em algo?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Oh, desculpe. Atrapalhei sua sessão<n>de treino?",
+            "choice_data_list": [
+                "Não, estávamos apenas terminando."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Que alívio! Na verdade, eu esperava<n>te pedir\nemprestado por umas<n>perguntas, se você tiver\num minuto."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Meu nome é Etsuko Otonashi. Sou<n>repórter da\n<i>Twinkle Monthly.</i>"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Fiquei maravilhada assistindo você e<n>sua\naprendiz praticando. Adoraria<n>escrever uma\nmatéria sobre vocês<n>dois e suas atividades para\nmostrar<n>meu apoio. Se tudo bem para você, é<n>\nclaro."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela parece uma pessoa educada e<n>soa sincera.\nSem mencionar que um<n>artigo bem escrito traria\nmais fãs para<n><chrname>.",
+            "choice_data_list": [
+                "Nós adoraríamos."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Muito obrigada. Então, vamos direto<n>ao assunto...\nQue critérios você<n>considera ao desenvolver seu\nregime<n>de treino?",
+            "choice_data_list": [
+                "Penso muito nos objetivos da minha aprendiz e\nem como posso ajudá-la a alcançá-los."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Entendo. Então, em resumo, seu<n>papel como\ntreinador é...",
+            "choice_data_list": [
+                "Ajudar minha aprendiz a alcançar seus sonhos!"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Isso... Isso é simplesmente...",
+            "choice_data_list": [
+                "Hum..."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "ISSO É SIMPLESMENTE INCRÍVEL!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Parece que você está pronto para<n>fazer qualquer\ncoisa para ajudar sua<n>aprendiz a alcançar seus\nsonhos!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Treinando onde e quando ela pedir!<n>Levando-a\npara passeios em fontes<n>termais para se\nrecuperar de corridas!<n>Aventurando-se em\ncórregos remotos<n>de montanha apenas para\nbuscar um<n>copo d'água para ela!",
+            "choice_data_list": [
+                "(Não me lembro de ter dito isso!)"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Ah... Que devoção... Fiquei tão<n>comovida! Prometo\nque meu artigo<n>incutirá uma paixão ardente em\ntodos<n>que o lerem!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, acho que conquistei a<n>simpatia de uma\naliada *muito*<n>inspirada."
+        }
+    ]
+}

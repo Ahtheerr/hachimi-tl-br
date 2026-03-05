@@ -2,58 +2,58 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "It's been some time since I started<n>my job at Tracen\nAcademy as a<n>trainer. While I should be at work right<n>\nnow..."
+            "text": "Faz algum tempo que comecei meu<n>trabalho na Academia\nTracen como<n>treinador. Embora eu devesse estar<n>\ntrabalhando agora..."
         },
         {
             "name": "Monólogo",
-            "text": "<i>Gurgle...</i>",
+            "text": "<i>Ronco...</i>",
             "choice_data_list": [
-                "M-my stomach!"
+                "M-meu estômago!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "My body's crying out in pain, so after<n>a quick call, I'm on\nmy way to the<n>hospital."
+            "text": "Meu corpo está gritando de dor,<n>então, após uma ligação\nrápida, estou<n>a caminho do hospital."
         },
         {
             "name": "Monólogo",
-            "text": "According to the doctor, it's nothing<n>more than food\npoisoning. Relieved to<n>hear it's nothing serious, I grab the<n>\nmedicine prescribed to me and head<n>home."
+            "text": "Segundo o médico, não passa de uma<n>intoxicação alimentar.\nAliviado por<n>saber que não é nada sério, pego os<n>\nremédios receitados e vou para casa."
         },
         {
-            "name": "Doctor",
-            "text": "Well... Congratulations on being<n>discharged, Mejiro Ardan.\nJust make<n>sure you don't overdo it, okay?"
+            "name": "Médica",
+            "text": "Bem... Parabéns por receber alta,<n>Mejiro Ardan. Só\ncertifique-se de não<n>exagerar, tudo bem?"
         },
         {
-            "name": "Nurse",
-            "text": "I'm sure you're sick of hearing this<n>by now, but moderation\nis key!<n>Always do your stretches before<n>exercising, and\nbe sure to ice your<n>legs after."
+            "name": "Enfermeiro",
+            "text": "Tenho certeza de que já está farta de<n>ouvir isso, mas\nmoderação é a chave!<n>Sempre faça seus alongamentos<n>\nantes de se exercitar e coloque gelo<n>nas pernas depois."
         },
         {
-            "name": "Doctor",
-            "text": "The more fractures or sprains you<n>accumulate, the worse\noff your legs<n>will be in the long run. Above all else,<n>be\nmindful of your condition."
+            "name": "Médica",
+            "text": "Quanto mais fraturas ou entorses<n>você acumular, pior será\npara suas<n>pernas a longo prazo. Acima de tudo,<n>esteja\nciente da sua condição."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Understood, doctor. As always, thank<n>you for your thorough\ntreatment."
+            "text": "Compreendo, doutor. Como sempre,<n>agradeço pelo seu\ntratamento<n>atencioso."
         },
         {
-            "name": "Nanny",
-            "text": "Miss Ardan, your chauffeur awaits."
+            "name": "Babá",
+            "text": "Senhorita Ardan, seu motorista a<n>aguarda."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Oh, my. So soon? Thank you for<n>informing me.Now then... I\nshall be off.<n>Goodbye."
+            "text": "Oh, céus. Tão cedo? Obrigada por me<n>informar. Pois bem...\nEu já vou indo.<n>Adeus."
         },
         {
-            "name": "Nurse",
-            "text": "Goodbye! Be careful out there! I<n>mean it!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "As I watch this strangely somber<n>scene between the\nhospital staff and<n>their patient, I notice the Tracen<n>uniform\nand recognize Mejiro Ardan."
+            "name": "Enfermeiro",
+            "text": "Adeus! Tenha cuidado lá fora! Estou<n>falando sério!"
         },
         {
             "name": "Monólogo",
-            "text": "The next time I see her is when I get<n>off the bus and arrive\nat Tracen<n>Academy. That's when I notice a<n>very worried\nUmamusume."
+            "text": "Enquanto observo essa cena<n>estranhamente sombria entre\na equipe<n>do hospital e sua paciente, noto o<n>uniforme da\nTracen e reconheço<n>Mejiro Ardan."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A próxima vez que a vejo é quando<n>desço do ônibus e\nchego à Academia<n>Tracen. É quando noto uma<n>\nUmamusume muito preocupada."
         },
         {
             "name": "Sakura Chiyono O",
@@ -61,51 +61,51 @@
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Oh, if it isn't Chiyono O. I see you<n>waited for me to get back\nthis time as<n>well."
+            "text": "Oh, se não é a Chiyono O. Vejo que<n>esperou pela minha\nvolta desta vez<n>também."
         },
         {
             "name": "Sakura Chiyono O",
-            "text": "Of course I did! Why wouldn't I?<n>You're finally out of the\nhospital and<n>can come to school again!<n>Congratulations,\nArdan!"
+            "text": "Claro que sim! Por que não faria?<n>Você finalmente saiu do\nhospital e<n>pode vir à escola novamente!<n>Parabéns, Ardan!"
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Hehe, thank you."
+            "text": "Hehe, obrigada."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Still, I feel terrible for making you wait<n>out in the cold... I'd\nhate to see you<n>get sick just as I'm getting better."
+            "text": "Ainda assim, sinto-me mal por fazê-la<n>esperar no frio... Eu\ndetestaria ver<n>você ficar doente logo agora que<n>estou\nmelhorando."
         },
         {
             "name": "Mejiro Ardan",
-            "text": "When we return to the dorms, allow<n>me to brew us both a\ncup of tea. I<n>received quite the selection as<n>get-well\npresents."
+            "text": "Quando voltarmos aos dormitórios,<n>permita-me preparar\numa xícara de<n>chá para nós duas. Recebi uma bela<n>\nseleção de presentes de<n>recuperação."
         },
         {
-            "name": "Student A",
-            "text": "Huh? Wait, did she get hospitalized<n><i>again?</i>"
+            "name": "Estudante A",
+            "text": "Hã? Espera, ela foi hospitalizada <i>de<n>novo?</i>"
         },
         {
-            "name": "Student B",
-            "text": "Ah, now that you mention it, I do<n>remember hearing that she\ncouldn't<n>run in the tryouts due to an injury or<n>illness."
+            "name": "Estudante B",
+            "text": "Ah, agora que você mencionou, eu<n>lembro de ter ouvido que\nela não pôde<n>correr nas seletivas devido a uma<n>lesão ou\ndoença."
         },
         {
-            "name": "Student C",
-            "text": "But she's race-ready, right? I'd be<n>more worried about\ndebuting if I were<n>her... I mean, how many times does<n>this\nmake?"
+            "name": "Estudante C",
+            "text": "Mas ela está pronta para correr,<n>certo? Eu estaria mais\npreocupada<n>com a estreia se fosse ela... Digo,<n>quantas\nvezes já foram?"
         },
         {
             "name": "Sakura Chiyono O",
-            "text": "Y-you there! How dare you—"
+            "text": "V-vocês aí! Como ousam—"
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Chiyono O. I appreciate your concern,<n>but I assure you, I do\nnot mind the<n>gossip about me."
+            "text": "Chiyono O. Agradeço sua<n>preocupação, mas asseguro-lhe\nque<n>não me importo com os boatos sobre<n>mim."
         },
         {
             "name": "Sakura Chiyono O",
-            "text": "But Ardan!"
+            "text": "Mas Ardan!"
         },
         {
             "name": "Mejiro Ardan",
-            "text": "After all, they're not wrong."
+            "text": "Afinal de contas, elas não estão<n>erradas."
         },
         {
             "name": "Sakura Chiyono O",
@@ -113,90 +113,90 @@
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Now then, let us make our way back<n>to the dorms before\nwe both catch a<n>cold."
+            "text": "Pois bem, vamos retornar aos<n>dormitórios antes que nós\nduas<n>peguemos um resfriado."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Ah, you want to know more about<n>Mejiro Ardan? Well..."
+            "text": "Ah, você quer saber mais sobre<n>Mejiro Ardan? Bem..."
         },
         {
             "name": "Monólogo",
-            "text": "With my curiosity piqued, I've come<n>to Tazuna to learn more\nabout Mejiro<n>Ardan."
+            "text": "Com minha curiosidade aguçada, vim<n>até a Tazuna para\nsaber mais sobre<n>Mejiro Ardan."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "As I'm sure you've heard, she's<n>very prone to illness and\ninjury.<n>She's been in and out of the hospital<n>since she\nstarted here."
+            "text": "Como você deve ter ouvido, ela é<n>muito propensa a\ndoenças e lesões.<n>Ela tem entrado e saído do hospital<n>\ndesde que começou aqui."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "And because of that, she's had to<n>pull out of tryouts and\npractice very<n>frequently."
+            "text": "E por causa disso, ela teve que se<n>retirar das seletivas e\ndos treinos com<n>muita frequência."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Naturally, that means she hasn't<n>been scouted, so she\nhasn't made<n>her debut. As for the trainers' opinion<n>of\nher... They aren't exactly favorable.",
+            "text": "Naturalmente, isso significa que ela<n>não foi recrutada, então\nainda não fez<n>sua estreia. Quanto à opinião dos<n>\ntreinadores sobre ela... Não são<n>exatamente favoráveis.",
             "choice_data_list": [
-                "I see..."
+                "Entendo..."
             ]
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "I... think she has potential. She is a<n>Mejiro, after all."
+            "text": "Eu... acho que ela tem potencial. Ela é<n>uma Mejiro, afinal."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "But unfortunately, her body is so<n>fragile. And then there's\nthe matter of<n>her older sister.",
+            "text": "Mas, infelizmente, seu corpo é tão<n>frágil. E também há a\nquestão da sua<n>irmã mais velha.",
             "choice_data_list": [
-                "Her sister?"
+                "A irmã dela?"
             ]
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "You're a new trainer, but I'm sure<n>you've heard of her.\nShe's the pride<n>of the Mejiro family—Mejiro Ramonu.",
+            "text": "Você é um treinador novo, mas tenho<n>certeza de que já\nouviu falar dela. Ela<n>é o orgulho da família Mejiro —<n>\nMejiro Ramonu.",
             "choice_data_list": [
                 "...!"
             ]
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "She won her debut by a whole twenty<n>lengths. During her\nJunior division<n>years, she was already reaching<n>speeds\nthat rivaled the \"Hot Rod\"<n>Maruzensky."
+            "text": "Ela venceu sua estreia por vinte<n>corpos de vantagem.\nDurante seus<n>anos na divisão Júnior, ela já<n>alcançava\nvelocidades que<n>rivalizavam com o \"Hot Rod\"<n>\nMaruzensky."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "And to top it all off, she's the very<n>first Triple Tiara winner."
+            "text": "E para coroar tudo, ela é a<n>primeiríssima vencedora da\nTríplice<n>Tiara."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "I could be here all day telling you<n>what makes Ramonu\nshine so bright,<n>but... I think the strength of that light<n>also\nobscures Ardan's, relegating her<n>to the shadows.",
+            "text": "Eu poderia passar o dia todo dizendo<n>o que faz a Ramonu\nbrilhar tanto,<n>mas... creio que a força dessa luz<n>também\nobscurece a da Ardan,<n>relegando-a às sombras.",
             "choice_data_list": [
-                "Yeah..."
+                "É..."
             ]
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "I know Ardan is doing her absolute<n>best..."
+            "text": "Eu sei que a Ardan está dando o seu<n>absoluto melhor..."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "However, she's running out of<n>chances to debut. Her next\nrace may<n>be her last opportunity.",
+            "text": "No entanto, ela está ficando sem<n>chances de estrear. Sua\npróxima<n>corrida pode ser sua última<n>oportunidade.",
             "choice_data_list": [
-                "What was that?"
+                "O que foi que disse?"
             ]
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Ah, my apologies. I have my own<n>speculations as to\nArdan's future, but,<n>well..."
+            "text": "Ah, minhas desculpas. Tenho minhas<n>próprias\nespeculações quanto ao<n>futuro da Ardan, mas, bem..."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "If you're that interested, perhaps it'd<n>be best to talk to\nArdan herself!"
+            "text": "Se você está tão interessado, talvez<n>seja melhor falar com\na própria<n>Ardan!"
         },
         {
             "name": "Monólogo",
-            "text": "My talk with Tazuna only deepens<n>my curiosity. It must be\nhard to live in<n>your sister's shadow as the feeble<n>sibling,\nyet all I can picture is Ardan's<n>gentle smile."
+            "text": "Minha conversa com Tazuna apenas<n>aprofunda minha\ncuriosidade. Deve<n>ser difícil viver à sombra da irmã<n>como\na caçula frágil, mas tudo o que<n>consigo imaginar é o sorriso\ngentil da<n>Ardan."
         },
         {
             "name": "Monólogo",
-            "text": "Perhaps... I'll go check up on her<n>myself tomorrow."
+            "text": "Talvez... eu mesmo vá ver como ela<n>está amanhã."
         }
     ]
 }

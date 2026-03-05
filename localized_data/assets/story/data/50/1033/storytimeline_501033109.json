@@ -1,0 +1,425 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certo dia, no final de dezembro, vejo<n>a Admire\nVega estranhamente absorta<n>em uma revista de\ncorrida que acabou<n>de chegar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O artigo principal é sobre as<n>Umamusume que\nvão competir no<n>próximo Grand Prix de fim de\nano, A<n>Arima Kinen.",
+            "choice_data_list": [
+                "Ah, a propósito..."
+            ],
+            "color_text_info_list": [
+                "Grand Prix",
+                "A Arima Kinen"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...?",
+            "choice_data_list": [
+                "A Narita Top Road foi escolhida pra correr, não\nfoi?",
+                "A Narita Top Road foi escolhida pra correr, não\nfoi?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Sim."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ela é muito popular..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Admire Vega passa o dedo<n>lentamente pelo\nartigo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Obrigada por me escolherem. Farei o<n>meu melhor\npara estar à altura das<n>suas expectativas!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto examina a foto radiante da<n>Narita Top\nRoad, ela estreita levemente<n>os olhos."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As expressões faciais dela agora são<n>menos\nseveras em comparação a<n>quando nos\nconhecemos..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela está se aproximando rapidamente<n>do marco\nde três anos desde a sua<n>corrida de estreia. E,\nfelizmente, as<n>festas de fim de ano estão quase\naí.",
+            "choice_data_list": [
+                "(Quero dar a ela um presente por todo o trabalho\nduro que ela teve.)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pensando nisso, saio procurando um<n>presente\nem todo lugar, mas...",
+            "choice_data_list": [
+                "(Aaargh, não consigo decidir!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Quero dar a ela algo que ela ficará<n>feliz em\nreceber, mas preciso de<n>algum tipo de pista para\na abordagem<n>certa."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por fim, as minhas reflexões<n>ansiosas trazem a\nminha atenção<n>para a pessoa perfeita para\najudar<n>nessa tarefa.",
+            "choice_data_list": [
+                "Ah!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Uaaah!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Opa, se não é o treinador da Ayabe!",
+            "choice_data_list": [
+                "Curren Chan! Esse é o momento perfeito!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "A quem melhor pedir conselhos sobre<n>presentes\ndo que à colega de quarto<n>da Admire Vega?\nTenho certeza de<n>que ela terá uma ideia!",
+            "choice_data_list": [
+                "Tenho uma coisa que quero te perguntar!"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Huuuum... Sobre iiiiisso..."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Não posso te ajudar! ♪",
+            "choice_data_list": [
+                "Hã?"
+            ]
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Tô com um pouco de pressa! Então,<n>tipo,\ndesculpaaaa!",
+            "choice_data_list": [
+                "Ah, tudo bem. Desculpe o incômodo.",
+                "Ah, tudo bem. Desculpe o incômodo."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "É uma pena que eu tenha que voltar<n>para casa\nde mãos vazias, mas eu<n>aceito... No dia\nseguinte..."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Tá... então..."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Entendi... também..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha! Nesse caso... depois<n>do qual...",
+            "choice_data_list": [
+                "(São todas as rivais dela!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Elas podem me dar algumas<n>informações úteis.\nEu reúno a<n>coragem de me aproximar delas."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hwaagh?! O t-treinador da Ayabe?!",
+            "choice_data_list": [
+                "Desculpe interromper vocês, mas eu queria\nperguntar uma coisa."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haah ha ha! ...Retirada!",
+            "choice_data_list": [
+                "O quê?!"
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ah, hummm... isso me faria me sentir<n>mal, mas...\nEeer..."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Me desculpe mesmo! Tchau!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "M-me esperaaa!",
+            "choice_data_list": [
+                "Pra que isso tudo?!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "No fim, não tenho a chance de fazer a<n>minha\npergunta."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por alguma razão, todo mundo<n>próximo da\nAdmire Vega está me<n>ignorando de forma\ndescarada. Foi<n>algo que eu fiz?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Talvez eu precise reconsiderar a<n>maneira como\najo? Enquanto passo o<n>tempo pensando no\nassunto..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O grande dia chega antes que eu<n>perceba."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por fim, decidi dar a ela uma<n>confortável toalha\nde esportes, mas<n>estou começando a me\npreocupar que<n>possa ser um presente sem\ngraça<n>demais."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Achando que eu deveria<n>complementar com um\nextra, decido<n>tentar colocar umas decorações<n>\nfestivas no quarto, embora eu não<n>tenha certeza\nde que isso teria uma<n>reação positiva da parte\ndela."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Oi..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "No meio de toda a minha preocupação<n>inútil, a\nAdmire Vega aparece de<n>repente."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hum..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Boas festas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Na mão dela há um pequeno<n>presente...",
+            "choice_data_list": [
+                "Hã? Isso é?!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Desculpe, antes disso, preciso<n>perguntar..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Por que <i>você</i> está tentando me<n>dar um\npresente?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Ah, aí está você, Ayabe!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Curren? Qual é o problema?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Eu te conto depois — vamos nos<n>apressar e sair\ndaqui! Seu treinador<n>apareceu do nada."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Hã?!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Pois é, né?! E parece que é pelo<n>mesmo motivo\nde estarmos aqui."
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Pra comprar um presente!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Você tá brincando... Mas por quê?"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "A gente pode descobrir isso depois!<n>Antes de\ntudo, precisamos ir embora!"
+        },
+        {
+            "name": "Curren Chan",
+            "text": "Você não quer o seu treinador<n>descobrindo o que\n<i>você</i> comprou,<n>não é?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Você tem razão."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ah, Ayabe, Ayabe! Escuta, temos que<n>ir! O seu\ntreinador está bem ali!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "E, e, e... Eu a-acho que sei por quê!<n>Eu acho que\nseu treinador tá aqui pra<n>te comprar um\npresente!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "(Eu sei, mas <i>por quê</i>, no<n>entanto?)"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Qualquer coisa que você me der só<n>vai me fazer\nquerer retribuir o favor da<n>mesma forma."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "E... você já fez tanto por mim."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Me ajudando a descobrir e entender<n>quem eu\nrealmente sou."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Me fazendo passar por todo esse<n>treinamento..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Me assistindo em todas as minhas<n>corridas..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Me seguindo pelo caminho que<n>escolhi..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "E me empurrando para a frente<n>sempre que eu\nme perdia."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eu é quem tenho que te recompensar<n>por tudo o\nque você fez. E depois de<n>perguntar por aí,\nfinalmente decidi em<n>alguma coisa."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Mas agora você desequilibrou as<n>coisas ao me\ncomprar um presente<n>também... Eu não sei o que\nfazer."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Esse é o mesmo senso implacável<n>de dever que\na mantinha focada em<n>pagar a sua suposta\ndívida com a sua<n>falecida irmã."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Lembrando de tudo isso, balanço a<n>cabeça\nlentamente.",
+            "choice_data_list": [
+                "Você não precisa se preocupar com nada disso.",
+                "Você não precisa se preocupar com nada disso."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Por quê?",
+            "choice_data_list": [
+                "Você também fez muito por mim.",
+                "Você também fez muito por mim."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Isso não é verdade de jeito nenhum...",
+            "choice_data_list": [
+                "Eu pude ver a sua corrida fantástica tantas\nvezes."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Isso é—",
+            "choice_data_list": [
+                "Eu pude te ajudar a realizar os seus sonhos."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "O quê? Isso não é—",
+            "choice_data_list": [
+                "E eu tive a honra de ser o seu treinador!",
+                "E eu tive a honra de ser o seu treinador!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Após ficar em silêncio por um<n>momento, a\nAdmire Vega solta um<n>suspiro incrivelmente\nlongo antes de<n>começar a falar."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Sabe... Eu venho pensando nisso há<n>um tempo..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eu realmente não te entendo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O pacote que recebo da Admire Vega<n>contém\numa simples caneta-tinteiro<n>azul-marinho.",
+            "choice_data_list": [
+                "A cor me lembra a noite. É incrível.",
+                "A cor me lembra a noite. É incrível."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "É..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eu pensei o mesmo. É por isso que<n>comprei."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eu pensei o mesmo. É por isso que<n>comprei."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A noite inesperadamente se<n>transforma em uma\ntroca de<n>presentes, com a Admire Vega<n>\nfinalmente aceitando o meu presente."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...É uma toalha?",
+            "choice_data_list": [
+                "Desculpa, fui na opção mais segura.",
+                "Desculpa, fui na opção mais segura."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Não, isso não me incomoda...",
+            "choice_data_list": [
+                "Eu tentei escolher uma super fofinha, no entanto!",
+                "Eu tentei escolher uma super fofinha, no entanto!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "É... você definitivamente desequilibrou<n>as coisas\ncom este presente.",
+            "choice_data_list": [
+                "Hã?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Isto é exatamente o tipo de coisa<n>que eu gosto."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eu realmente gosto de coisas<n>fofinhas."
+        }
+    ]
+}

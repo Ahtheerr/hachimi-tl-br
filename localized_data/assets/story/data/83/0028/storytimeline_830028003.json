@@ -1,0 +1,209 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Today, I've come to the track to<n>watch a race. It\nlooks like Kitasan<n>Black is going to be\ncompeting..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Excuse me! I don't suppose you've<n>seen Kita\nby any chance?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "She still hasn't arrived at the<n>racetrack. The staff\nmembers are<n>looking for her too."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I should never have arranged to meet<n>her at the\nracecourse... What if<n>something happened to her\non her<n>way here?!",
+            "choice_data_list": [
+                "I'll try looking outside."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "I'll come too!",
+            "choice_data_list": [
+                "Don't you need to prepare for the race?",
+                "Don't you need to prepare for the race?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ah, yes... You're right..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Satono Diamond stays behind as I<n>head off to\nsearch for Kitasan Black."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "We're almost there! Don't give up<n>now! One\nmore time! Heave-hooo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I find Kitasan Black on the riverbank.<n>She's\nholding a rope, and at the end<n>of it is a truck\nthat's submerged in the<n>river."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "<i>Huff, huff...</i> We just need to pull<n>a little\nmore!",
+            "choice_data_list": [
+                "The race is about to start!",
+                "The race is about to start!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Huh?! Already?!"
+        },
+        {
+            "name": "Old Man",
+            "text": "Wait, you're competing?! You'd<n>better get\nyourself over there fast!"
+        },
+        {
+            "name": "Truck Driver",
+            "text": "Yeah, we can manage this by<n>ourselves. Get\ngoing!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "No way! Didn't you say you have to<n>deliver the\nstuff in this truck within the<n>hour?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Just let me help a little longer! I'll<n>make it to the\nrace before it starts, I<n>promise!",
+            "choice_data_list": [
+                "All right, but next time I say you need to go, <i>you\nneed to go!</i>",
+                "All right, but next time I say you need to go, <i>you\nneed to go!</i>"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Got it! Thanks so much! Okay, time to<n>pull!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "But no matter how hard they try, the<n>truck stuck\nin the muddy riverbed<n>doesn't budge..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Can't... give up... We're so... close!",
+            "choice_data_list": [
+                "There's no time left to waste!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "No way... Can it really end like this?!"
+        },
+        {
+            "name": "???",
+            "text": "...me help..."
+        },
+        {
+            "name": "???",
+            "text": "Let me help too!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Dia?! What are you doing here?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "There's no time to explain! I just<n>have to grab\nhere and pull, right?!"
+        },
+        {
+            "name": "Old Man",
+            "text": "Another Umamusume? We might just<n>be able to\ndo this!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "It's bound to budge this time! Here<n>we go,\neveryone!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Heave-ho!",
+            "choice_data_list": [
+                "Heave-ho!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Heave-ho!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "With the immense strength of the two<n>\nUmamusume, the tires begin to roll,<n>and we finally\npull the truck out!"
+        },
+        {
+            "name": "Truck Driver",
+            "text": "Whoaaa! Looks like I'll be able to<n>make my\ndelivery on time after all!<n>Thank you so much!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "No problem at all. We're all here to<n>help each\nother out! That's what my<n>dad always says!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "We really did it, Kita!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I'm really sorry, Dia. I didn't mean to<n>make\ntrouble for you right before our<n>race..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "It's not like you're the only one. I<n>caused you all\nkinds of hassle when I<n>was sick."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Besides, I'd miss you if you weren't<n>in the race.\nI want to run with you too,<n>you know."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "You're not the only one who was<n>looking\nforward to today."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Dia!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yay! Let's go all out! It's a race for<n>first place\nbetween me and you, Dia!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "That's a promise!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The pair start running beneath the<n>blue sky.\nThey've overcome disaster,<n>and now—with their\nsights set on the<n>track—they vow to race with all<n>\nthey've got."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "...Thanks. You really saved the day,<n>Dia!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. Well, I figured you must have<n>gotten\nyourself mixed up in<n>something!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hey, that goes for you too! And you<n>still have\nyour racewear on, even!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Well, I just couldn't sit around<n>knowing you\nmight be in trouble, could<n>I?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "...Hehe. I suppose we really are pretty<n>similar,\naren't we?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Yep. If you're ever in a bind, you<n>know I'll come\nrunning!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "After making a vow of firm friendship,<n>the two\nsprint off. What kind of race<n>will they put on? My\nheart races with<n>anticipation."
+        }
+    ]
+}

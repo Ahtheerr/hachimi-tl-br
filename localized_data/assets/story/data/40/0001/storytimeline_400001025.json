@@ -1,0 +1,133 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certo dia, durante o treinamento..."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Notei que suas sessões recentes de<n>treinamento\nse concentraram em<n>melhorar a respiração da\nsua aprendiz<n>no meio da corrida."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Você também passou a fazer treinos<n>em subida,\no que desenvolve o vigor e<n>enfatiza a resistência\nem vez da<n>rapidez..."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Seria você talvez planejando<n>participar de uma\ncorrida de longa<n>distância?"
+        },
+        {
+            "name": "Treinador Habilidoso A",
+            "text": "Ahaha... Você me pegou. Nada foi<n>anunciado\npublicamente ainda, então<n>poderia manter isso\nem off?"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Com certeza. Estou aqui para<n>perguntar sobre o\nprogresso da sua<n>aprendiz, nada mais."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Ah, Treinador <username>. É bom<n>vê-lo\nnovamente."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que a Otonashi está aqui para<n>realizar\nentrevistas para sua revista,<n>mas estou notando\nalgo...",
+            "choice_data_list": [
+                "Você com certeza sabe muito sobre as\nUmamusume."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Bem, eu *sou* repórter. É meu<n>trabalho ter uma\ncerta base de<n>conhecimento."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Quanto mais conhecimento eu tiver<n>sobre o\nassunto, melhores serão os<n>artigos que poderei\nescrever."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que a Senhorita Otonashi leva<n>o assunto\ndas Umamusume mais a<n>sério do que eu\npensava."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Ah! Peço desculpas. Só estive falando<n>de mim\nmesma."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Já que temos a chance, você se<n>importaria se eu\nperguntasse sobre a<n>sua aprendiz?"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Qual você diria que é o seu próximo<n>obstáculo?\nNão precisa ser nada<n>grande."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Apesar de ela insistir que é apenas<n>uma repórter,\nsua experiência pode<n>ser útil.",
+            "choice_data_list": [
+                "Estamos tentando trabalhar na força.",
+                "Estamos tentando trabalhar na rapidez."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Força, você diz?! Isso é...<n>simplesmente incrível!",
+            "choice_data_list": [
+                "Como disse?"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Treinos em subida e com pesos são<n>ambos\nformas eficazes de<n>desenvolver força."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Mas a coisa mais importante, de<n>longe, é a dieta!\nMúsculos fortes e<n>flexíveis são feitos na\ncozinha!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Então você deve estar caçando os<n>melhores\ningredientes! Estou falando<n>de porco de Okinawa\nde vida longa,<n>ninhos de andorinha de\npenhascos e<n>peixes de águas profundas do\nfundo<n>do oceano... Ah, que devoção!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "(Acho que ela pode ter entendido<n>errado, mas os\ncomentários dela<n>sobre dieta são muito úteis.)"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Peixe de águas profundas pode estar<n>um pouco\nfora do meu orçamento,<n>mas depois pesco um\npeixe branco<n>que é bom para ganhar músculos e\no<n>sirvo para a <chrname>."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Rapidez, você diz?! Isso é..."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Simplesmente incrível!",
+            "choice_data_list": [
+                "Como disse?"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Se você busca rapidez, é importante<n>controlar\nsua porcentagem de gordura<n>corporal e reduzir\nseu peso sem<n>perder músculos..."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "No entanto, isso pode ser muito difícil,<n>e algumas\nUmamusume chegam a<n>ficar doentes por causa\ndo estresse."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "É por isso que você precisa se<n>esforçar para\nevitar que sua aprendiz<n>fique estressada!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Então você não deve estar poupando<n>despesas!\nEstou falando de alugar<n>parques de diversão,\ncruzeiros de<n>luxo e viagens rodoviárias<n>\ntranscontinentais no exterior... Ah, que<n>devoção!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "(Acho que ela pode ter entendido<n>errado, mas os\ncomentários dela<n>sobre reduzir a porcentagem\nde<n>gordura corporal são muito úteis.)"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Cruzeiros e viagens ao exterior<n>podem estar um\npouco fora do meu<n>orçamento, mas faço questão\nde dar a<n><chrname> a chance de relaxar como<n>\nrecompensa por passar pelo nosso<n>treinamento\nexaustivo."
+        }
+    ]
+}

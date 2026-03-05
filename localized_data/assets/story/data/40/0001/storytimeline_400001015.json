@@ -1,0 +1,190 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Uma tarde, enquanto me preparava<n>para o\ntreinamento com <chrname>..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Toc, toc!</i>"
+        },
+        {
+            "name": "???",
+            "text": "Com licença? Você é o Treinador<n><username>?",
+            "choice_data_list": [
+                "Er... Posso perguntar o seu nome?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Peço mil desculpas. Eu deveria ter me<n>\napresentado. Sou repórter da Twinkle<n>Monthly.",
+            "color_text_info_list": [
+                "Twinkle Monthly"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Meu nome é Etsuko Otonashi.",
+            "color_text_info_list": [
+                "Etsuko Otonashi"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Eu estava procurando treinadores<n>sobre quem\nescrever, e a Diretora<n>Akikawa mencionou seu\nnome<n>especificamente."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Darei o meu melhor para não<n>interferir no seu\ntreinamento. Estou<n>ansiosa para trabalhar com\nvocê."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Esta é a primeira vez que ouço falar<n>de qualquer\nentrevista, mas a atitude<n>educada e sincera de\nOtonashi me<n>deixa à vontade.",
+            "choice_data_list": [
+                "É um prazer."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Obrigada por aceitar participar."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Vamos começar, então? Como você<n>deve saber,\no lançamento da URA<n>Finale pegou o mundo das\ncorridas de<n>surpresa."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Poderia nos contar como isso afetou<n>a sua visão\ne a da sua aprendiz?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "É verdade que houve grandes<n>mudanças, mas\ndesde o dia em que<n>decidi caminhar ao lado de\n<chrname>,<n>minhas convicções sempre<n>\npermaneceram as mesmas.",
+            "choice_data_list": [
+                "Vou continuar apoiando-a para que ela possa\nrealizar seus sonhos."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Entendo. Em outras palavras, você<n>considera\nseu papel como treinador<n>sendo...",
+            "choice_data_list": [
+                "Ajudar minha Umamusume a realizar seus\nsonhos!"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "..."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "I-isso é...",
+            "choice_data_list": [
+                "Sim?"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Isso é simplesmente...<n>simplesmente..."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "SIMPLESMENTE INCRÍVEL!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Ajudar sua aprendiz Umamusume a<n>realizar os\nsonhos dela! Foi o que<n>você disse, não foi?!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Então tenho certeza de que você<n>deve estar\ndisposto a carregar<n>qualquer fardo com um\nsorriso!",
+            "choice_data_list": [
+                "Er..."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Treinar onde e quando ela pedir!<n>Levá-la a\nexcursões de fontes termais<n>para se recuperar\ndas corridas!<n>Aventurar-se em riachos remotos\nnas<n>montanhas apenas para buscar um<n>copo\nde água para ela!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Ah... Que devoção... Estou tão<n>emocionada!",
+            "choice_data_list": [
+                "(Eu nunca disse isso!)"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "ESPLÊNDIDO! Vejo que a entrevista<n>começou!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "O que acha? Um treinador muito<n>talentoso, não é?"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Com certeza! Este é apenas o nosso<n>primeiro\nencontro, mas estou<n>praticamente em lágrimas!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "É preciso um treinador especial para<n>estar\ndisposto a mergulhar em um<n>furacão por sua\naprendiz!",
+            "choice_data_list": [
+                "(Ok, eu *realmente* não lembro de ter dito isso!)"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "MARAVILHOSO! Esse é o treinador de<n>uma futura\nUmamusume estrela para<n>você!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Tenho acompanhado de perto suas<n>atividades\nrecentes!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Mas hmmm... Que estranho! Parece<n>que você\nestá tendo dificuldades em<n>ganhar fãs."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "NÃO SE PREOCUPE! Ainda há tempo<n>antes da\nURA Finale! Tenho certeza de<n>que você pode\nmudar a situação!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Você também está recebendo um<n>bocado de\napoio! Com uma<n>performance tão convincente\nquanto a<n>sua, eu sabia que conquistaria<n>\ncorações!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "ANTECIPAÇÃO! Aproveite ao máximo<n>cada\ncorrida que aparecer no seu<n>caminho e\nmostre-nos ótimos<n>resultados!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "ASSOMBROSO! Você também está<n>recebendo\nmais apoio do que eu<n>jamais poderia imaginar!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Com uma aprendiz tão cativante<n>quanto a sua,\numa vaga na URA Finale<n>não é mera fantasia!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Uma Umamusume estrela é medida<n>pela\nquantidade de apoio que possui.<n>É assim que se\npode dizer que ela é<n>amada."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Eu também gostaria de ajudá-lo a<n>reunir mais\napoio."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "GRATIDÃO! A assistência da mídia<n>será\nessencial, tanto para aumentar a<n>popularidade de\nnossas Umamusume<n>quanto para garantir o\nsucesso do<n>evento!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Estou contando com você, Senhorita<n>Otonashi!\nAjude-nos a fazer da URA<n>Finale um sucesso!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Com certeza. Muito obrigada pelo seu<n>tempo,\nTreinador."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto que encontrei uma aliada<n>poderosa na luta\npara aumentar o<n>apoio de <chrname>..."
+        }
+    ]
+}

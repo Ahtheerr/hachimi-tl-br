@@ -1,0 +1,354 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Zenno Rob Roy and Sweep Tosho are<n>in a cafe\nholding a strategy meeting<n>about their project for\nReading Week."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wh-what's with that giant stack of<n>paper?! Is\nthat some kind of magic<n>tome?!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "No... These are just some materials<n>I've put\ntogether on the selling points<n>of books I picked\nout.",
+            "choice_data_list": [
+                "The sheer volume, though... I think it's going to\nbe a hard sell."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "No one's gonna wanna look through<n>all that!\nYou've gotta keep it short and<n>sweet, like\nGranny does!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "You think so?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Granny used to show me all her<n>magic spells!\nLike one that changed<n>the color of flowers, or this\nother one<n>that made a dove come flying out of a<n>\nbox."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Seeing them for myself made them<n>way easier to\nunderstand than if I'd<n>had to read through some\nbig ol'<n>spellbook. ♪"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I see...",
+            "choice_data_list": [
+                "It might be a good idea to let people experience\nthe selling points themselves."
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Well, if we're going to do that... Why<n>don't we do\nsomething that recreates<n>memorable moments\nfrom some of<n>the books?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I like it! It'll make people feel like<n>they're inside\nthe books! Sounds fun!<n>♪"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Okay, we've decided what we're<n>going to do! All\nwe need to do now is...",
+            "choice_data_list": [
+                "Find an enticing way to promote it?",
+                "Figure out how to enhance the atmosphere?",
+                "We should think hard about the costumes too!"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Good point. It won't matter how much<n>effort we\nput into the exhibition if<n>nobody comes to see it."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "If we go somewhere with a lot of foot<n>traffic... we\nmight be able to find some<n>good examples to use\nas reference."
+        },
+        {
+            "name": "Monólogo",
+            "text": "...And so, we settle our bill and take a<n>stroll\noutside the cafe."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Handing out flyers and calling out to<n>people seem\nto be the tried-and-true<n>methods... but we need\nsomething<n>extra that'll grab people's attention."
+        },
+        {
+            "name": "Girl A",
+            "text": "Whoa! It's Magical ☆ Derby Girl! I<n>can't believe\nshe's really here!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Did you just say <i>Derby Girl?!</i><n>Where is\nshe?! Where?!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "S-Sweep?! Wait a second!"
+        },
+        {
+            "name": "Witch-Costumed Umamusume",
+            "text": "Catch Derby Girl doing her thing at<n>the\nmarvelously ☆ majestic ♪<n><i>Magical Derby Girl\nReturns</i> show!<n>☆"
+        },
+        {
+            "name": "Witch-Costumed Umamusume",
+            "text": "Hey, everybody! I hope to see you all<n>in the\naudience soon! ♪"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "I'm gonna go! There's no way I'm<n>missing this!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "...!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Okay, we're <i>all</i> going! Let's go<n>see the\nDerby Girl show together!",
+            "choice_data_list": [
+                "What about looking for examples on how to\npromote the exhibit?!"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I-I'm sure it'll be fine! Besides, we<n>just saw a\ngreat example...",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Well... I was just thinking we could<n>try doing\nwhat Derby Girl did."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Instead of just talking to people, why<n>don't we\ndress up as characters from<n>the books? I think\nthat'd really grab<n>people's attention!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "It might be a little embarrassing... but<n>if we try it\nsomewhere crowded like<n>the central plaza, I'm\nsure it'll work!",
+            "choice_data_list": [
+                "I think so too. Let's try it."
+            ]
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Me too! Me too! I'd be happy to help<n>out if it\nmeans I can dress up as a<n>magical girl. ♪"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Thank you!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Hehe. Now we can enjoy the Derby<n>Girl show\nguilt-free! ♪"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "(If you two are with me, I'm sure it'll<n>work out...\nLet's make sure everyone<n>knows how exciting\nour event will be!)"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "You're right. The exhibition would be<n>even more\nimmersive if we really<n>made it feel like a living,\nbreathing<n>story!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Atmosphere... But how do we<n>enhance\nsomething we can't see or<n>touch or anything?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Is that you, Cafe?! And you're<n>drinking tea!\nThat's not like you."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh yeah. I thought you were the black<n>coffee\ntype?"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Wh-what's going on?! A power<n>outage?!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ah! Thank goodness, the lights are—"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Eek! Again?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Clatter, clatter!</i>"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Eeeeeek! Something's making a<n>weird noise this\ntime!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I wonder if everything's back to<n>normal now..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Ah... You guys are also here?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Y-yes..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "...Huh? Cafe? Did you just come in?",
+            "choice_data_list": [
+                "So that person we saw just now was..."
+            ]
+        },
+        {
+            "name": "Rob Roy and Sweep",
+            "text": "...!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Urghhh... I think we might want to stay<n>away from\nthat cafe for a little while..."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "What the heck was that?! It wasn't<n>even a\nhaunted house! Why did all<n>that happen?!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Yeah... It was like we were in a horror<n>novel or—"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Oh!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Um... Maybe we could make the<n>experience more\natmospheric with<n>stage effects? We could use\nlights<n>and sounds, like what happened just<n>\nnow!",
+            "choice_data_list": [
+                "Yeah, that might work!"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "That was f-frightening, but... I<n>suppose it gave us\nsome good ideas."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Yeah, but still! I never want to go<n>through\nanything like that again!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "And so, with the two Umamusume still<n>trembling,\nthe three of us head home."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Right. Our outfits might be just as<n>important as\nour exhibit."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Yeah! If I go to an exhibition on<n>stories about\nmagic, I wanna see a<n>magical girl there!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Come to think of it... There was a<n>concert outfit\nthat looked like it would<n>be right at home in a\nfantasy world."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Okay! Let's use that! How about the<n>other\ncostumes? Should we rent them<n>from\nsomewhere?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ah! I think Fuji might be able to help<n>us! She\nknows quite a lot about<n>costumes!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "She used to be a child actor, so she<n>might be able\nto recommend a place<n>with a bunch of stage\ncostumes we<n>could use!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I see... Well, it certainly sounds like<n>you're going\nto make this year's<n>Reading Week one to\nremember!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "If it's costumes you're after, I'll set<n>you up with\nsomeone I know. I'm<n>sure they'll have quite a\nselection."
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Yay! Hey, you've been a big help! ♪"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "I can't bear to see my darling ponies<n>looking\ntroubled when they're trying<n>their very best... I\nshall spare no effort<n>in keeping your smiles right\nside up."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ah... Oh my!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "F-Fuji... I'm not sure why, but my<n>heart always\nstarts pounding when<n>you say things like that..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe. Perhaps it's because I<n><i>wish</i> to make\nyour heart beat<n>faster."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "A single line can greatly impact the<n>emotions of\nthose who hear it.<n>Whether it is delivered on\nstage or in<n>simple conversation matters not."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Actors perform by envisioning the<n>sort of\ncharacter they're playing, how<n>they feel, and\nwhat exactly they wish<n>to convey."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "This ensures that the audience will<n>find\nthemselves drawn into the world<n>of the story."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "The world... of the story..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Um... Would you mind telling us more?<n>I want to\nhear about the principles of<n>performance!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I'm sure the event will be even more<n>wonderful\nif we can truly inhabit our<n>characters!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "With pleasure! If it's for darling<n>ponies who\nappreciate a good story, I<n>shall assist in any way\nI can."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Th-thank you so much!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Fuji Kiseki shares her acting<n>knowledge, and I\nfind myself feeling a<n>little smarter for having\nlistened to her."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "...So that's what I'm thinking—an<n>exhibition\nfocused on spreading the<n>allure of stories."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "I want to show everyone what makes<n>books\nspecial... I don't want to let<n>these wonderful\nstories be<n>overlooked!"
+        },
+        {
+            "name": "Library Assistant A",
+            "text": "...You know, I think that could really<n>get people\nexcited."
+        },
+        {
+            "name": "Library Assistant B",
+            "text": "Right... It sounds pretty tough, but I<n>think I wanna\ntry it. I want to share my<n>favorite books with\npeople too!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sold on Zenno Rob Roy's sheer<n>passion, the\nlibrary helpers settle on<n>her idea for the event. All\nthat's left<n>now is to prepare."
+        }
+    ]
+}

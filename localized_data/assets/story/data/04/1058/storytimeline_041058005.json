@@ -1,130 +1,127 @@
 {
     "text_block_list": [
         {
-            "name": "",
-            "text": "Today I have a training session with<n>Meisho Doto, but...",
-            "choice_data_list": [
-                "(She's nowhere to be seen...)"
-            ]
+            "name": "Hoje tenho uma sessão de treino com<n>Meisho Doto, mas...",
+            "text": "(Ela não está em lugar nenhum...)"
         },
         {
             "name": "",
-            "text": "She's not the type to skip practice, so<n>it's likely that she's\nhad another of<n>her accidents. I decide to go look for<n>her."
+            "text": "Ela não é do tipo que falta aos<n>treinos, então é provável que\nela<n>tenha sofrido mais um de seus<n>acidentes. Decido ir\nprocurá-la."
         },
         {
             "name": "",
-            "text": "I search around for the better part of<n>an hour before I finally\nspot the<n>shivering, muddy figure in front of the<n>flower\nbeds."
+            "text": "Eu procuro por quase uma hora antes<n>de finalmente avistar\na figura trêmula<n>e enlameada em frente aos canteiros<n>de\nflores."
         },
         {
             "name": "Meisho Doto",
-            "text": "Ohhhh... Urgggh... Pat... pat... pat...",
+            "text": "Ohhhh... Urgggh... Tap... tap... tap...",
             "choice_data_list": [
                 "Doto?"
             ]
         },
         {
             "name": "Meisho Doto",
-            "text": "Eep! Ah... T-Trainer?!",
+            "text": "Iiik! Ah... T-Treinador?!",
             "choice_data_list": [
-                "What happened to you?!",
-                "What happened to you?!"
+                "O que aconteceu com você?!",
+                "O que aconteceu com você?!"
             ]
         },
         {
             "name": "Meisho Doto",
-            "text": "Ah! W-well, um... I suppose this was<n>unavoidable... given\nwhat happened.<n>It's kind of a long story...",
+            "text": "Ah! B-bem, er... suponho que isso<n>tenha sido inevitável...\ndado o que<n>aconteceu. É uma história meio<n>longa...",
             "choice_data_list": [
-                "Tell me after you get changed!"
+                "Me conte depois de se trocar!"
             ]
         },
         {
             "name": "Meisho Doto",
-            "text": "O-okay!"
+            "text": "O-ok!"
         },
         {
             "name": "",
-            "text": "Together, we wash her muddied<n>jersey and hang it out to\ndry. While<n>we wait, I ask her to explain what<n>happened."
+            "text": "Juntos, lavamos o agasalho<n>enlameado dela e o\npenduramos para<n>secar. Enquanto esperamos, peço<n>que\nela explique o que aconteceu."
         },
         {
             "name": "Meisho Doto",
-            "text": "Well, I-I thought I'd do some solo<n>training before our\nsession today, so...<n>I went for a jog."
+            "text": "Bem, e-eu achei que faria um treino<n>solo antes da nossa\nsessão de hoje,<n>então... fui dar uma corridinha."
         },
         {
             "name": "Meisho Doto",
-            "text": "B-but I slipped and fell, and while I<n>was trying to recover, I\nended up<n>falling right into the flower bed...",
+            "text": "M-mas eu escorreguei e caí e,<n>enquanto tentava me\nrecuperar,<n>acabei caindo direto no canteiro de<n>flores...",
             "choice_data_list": [
-                "So that's why you were covered in mud..."
+                "Então foi por isso que você estava coberta de\nlama..."
             ]
         },
         {
             "name": "Meisho Doto",
-            "text": "Yes... Ah, b-but at least I landed in a<n>spot where there were\nno flowers or<n>other plants!"
+            "text": "Sim... Ah, m-mas pelo menos eu caí<n>em um lugar onde não\nhavia flores ou<n>outras plantas!"
         },
         {
             "name": "Meisho Doto",
-            "text": "However, my fall left the impression<n>of my body in the soil,\nso I was<n>pat-pat-patting it in... when you found<n>me...",
+            "text": "Contudo, minha queda deixou a<n>marca do meu corpo no\nsolo, então eu<n>estava dando uns tapinhas para<n>nivelar...\nquando você me encontrou...",
             "choice_data_list": [
-                "Well, that explains why you were late."
+                "Bem, isso explica o porquê de você estar\natrasada."
             ]
         },
         {
             "name": "Meisho Doto",
-            "text": "Eep! I-I'm sorry... You must be<n>furious..."
+            "text": "Iiik! S-sinto muito... Você deve estar<n>furioso..."
         },
         {
             "name": "",
-            "text": "She has a reason for her tardiness,<n>so I'm actually not that\nmad about it.<n>However...",
+            "text": "Ela tem um motivo para o atraso,<n>então não estou tão bravo\nassim. No<n>entanto...",
             "choice_data_list": [
-                "I wish you would've told me you were doing\nsolo training."
+                "Eu gostaria que você tivesse me dito que faria\num treino solo."
             ]
         },
         {
             "name": "Meisho Doto",
-            "text": "Huh? B-but if you joined me... then it<n>wouldn't be solo\ntraining.",
+            "text": "Hã? M-mas se você se juntasse a<n>mim... então não seria\num treino solo.",
             "choice_data_list": [
-                "I'd still like to give you advice."
+                "Eu ainda gostaria de te dar conselhos."
             ]
         },
         {
             "name": "Meisho Doto",
-            "text": "Th-that's okay. It's just something I<n>do from time to time... I\ndon't want to<n>bother you any more than I already<n>do...",
+            "text": "T-tudo bem. É só algo que eu faço de<n>vez em quando... Eu\nnão quero<n>incomodar você mais do que já<n>incomodo...",
             "choice_data_list": [
-                "Bother me?"
+                "Me incomodar?"
             ]
         },
         {
             "name": "Meisho Doto",
-            "text": "I-I mean... My clumsiness caused me<n>to be late today, and\nit's interrupted<n>our training before, right?"
+            "text": "E-er... Meu jeito estabanado me fez<n>atrasar hoje, e isso já\ninterrompeu<n>nosso treino antes, não foi?"
         },
         {
             "name": "Meisho Doto",
-            "text": "Like the time I tried to organize your<n>files and erased all our\ntraining<n>records, or when I tried to help<n>prepare the course\nand ran myself<n>over with the turf roller..."
+            "text": "Como na vez em que tentei organizar<n>seus arquivos e\napaguei todos os<n>nossos registros de treino, ou quando<n>\ntentei ajudar a preparar o percurso e<n>fui atropelada pelo\nrolo de grama..."
         },
         {
             "name": "Meisho Doto",
-            "text": "Or the time I covered you in sand, or<n>when I spilled the\nwater all over you...<n>And the incident with the towel and<n>\nthe zipper and the explosion and the—",
+            "text": "Ou na vez em que te cobri de areia, ou<n>quando derramei\nágua em você... E o<n>incidente com a toalha, o zíper, a<n>\nexplosão e o—",
             "choice_data_list": [
-                "O-okay, I get it..."
+                "O-ok, eu já entendi..."
             ]
         },
         {
             "name": "Meisho Doto",
-            "text": "No, you don't!"
+            "text": "Não, não entendeu!"
         },
         {
             "name": "Meisho Doto",
-            "text": "I've caused so, so much trouble for<n>you... I don't want to\ntake up any<n>more of your time than I already do!"
+            "text": "Eu causei tanto, mas tanto problema<n>para você... Não quero\ntomar mais do<n>seu tempo do que já tomo!"
         },
         {
             "name": "",
-            "text": "It's true that her clumsiness is out of<n>this world, but she\nalways takes<n>responsibility for any tardiness or<n>other\nissues it causes. Besides..."
+            "text": "É verdade que o nível de desajeite<n>dela é de outro mundo,\nmas ela<n>sempre assume a responsabilidade<n>por qualquer\natraso ou outros<n>problemas que cause. Além disso..."
         },
         {
             "name": "",
-            "text": "I'm her trainer. She's <i>supposed</i><n>to take up my time. In\nfact, as long as<n>it's for her growth, I'd be more than<n>\nhappy to help.",
+            "text": "Eu sou o treinador dela. Ela <i>deve</i><n>tomar o meu tempo.\nNa verdade,<n>desde que seja para o crescimento<n>dela, eu\nficaria mais do que feliz em<n>ajudar.",
             "choice_data_list": [
-                "Say, Doto...",
-                "Say, Doto..."
+                "Diga, Doto...",
+                "Diga, Doto..."
             ]
         },
         {
@@ -136,27 +133,27 @@
         },
         {
             "name": "Meisho Doto",
-            "text": "M-m-my jersey! It's flying away!"
+            "text": "M-m-meu agasalho! Está voando<n>para longe!"
         },
         {
             "name": "Meisho Doto",
-            "text": "Ah! When I hung up my jersey, I<n>angled it so that the wind\nwould hit it<n>more! I-I thought that would help it dry<n>faster,\nnot make it fly away! I-I need to<n>catch it!"
+            "text": "Ah! Quando pendurei meu agasalho,<n>eu o coloquei em um\nângulo para o<n>vento bater mais! E-eu achei que<n>ajudaria\na secar mais rápido, não que<n>faria ele voar! E-eu preciso\npegá-lo!"
         },
         {
             "name": "Meisho Doto",
-            "text": "Ah! E-excuse me, sorr—Ugyah?!<n>Sorry, sorry, sorry! C-come\nback,<n>jersey!"
+            "text": "Ah! C-com licença, sinto—Ugyah?!<n>Desculpe, desculpe,\ndesculpe! V-volte<n>aqui, agasalho!"
         },
         {
             "name": "",
-            "text": "Before I can stop her, Doto dashes<n>out of the room,\nstumbling over chairs<n>and tables along the way."
+            "text": "Antes que eu possa impedi-la, Doto<n>sai correndo da sala,\ntropeçando em<n>cadeiras e mesas pelo caminho."
         },
         {
             "name": "",
-            "text": "How do I help her understand that<n>it's okay to \"bother\" me?\nI<n>contemplate that question as I chase<n>after the frantic\nMeisho Doto."
+            "text": "Como faço para ela entender que não<n>tem problema me\n\"incomodar\"? Eu<n>reflito sobre essa questão enquanto<n>\ncorro atrás da desesperada Meisho<n>Doto."
         },
         {
             "name": "Meisho Doto",
-            "text": "Jerseyyy, slow dooown!<n>Pleeeeas—Oof!"
+            "text": "Agasalhooo, vaia devagaaar! Por<n>favoooor—Oof!"
         }
     ]
 }

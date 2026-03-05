@@ -1,0 +1,205 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "I'm searching the school for Tazuna,<n>thinking it\nmight be nice to invite her<n>out, when suddenly..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Are you listening?! We must handle<n>this\n<i>posthaste!</i>"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Personal space! Our faces are almost<n>touching,\nTazuna!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I hear an uncharacteristically<n>angry—yet\nfamiliar—voice from around<n>the corner.",
+            "choice_data_list": [
+                "(Tazuna?)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I hurry over to see what's going on."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Pardon my manners, but this is a<n>serious\nsituation, Director Akikawa!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "The Tracen Academy infirmary is an<n>important\nlifeline for our Umamusume..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "But it can't fulfill that role if it isn't<n>fully equipped.\nRunning out of<n>essential equipment is\nunacceptable!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Indeed! I wholeheartedly agree with<n>you."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "However, the fact that there was an<n>accident\nduring shipping is out of our<n>control! I've already\narranged for a<n>new delive—"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "But a delivery later is no use to<n>students who\nneed the facilities today!<n>Surely—"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "<i>Silence!</i>"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "...!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Calm down, Tazuna. Yes, the<n>shipment has been\ndelayed, but we<n>still have ample supplies in\nreserve."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "The students will get nervous if they<n>see you\nacting like this. For their<n>sakes, I suggest you\ntake a walk to<n>cool down."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "M-my apologies... Yes, that... sounds<n>like a good\nidea."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tazuna trudges away, and I rush<n>after her."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Oh... Trainer?",
+            "choice_data_list": [
+                "Are you all right?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Did you happen to... witness that just<n>now?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ahaha... How embarrassing. I lost my<n>composure\nback there."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I've seen all kinds of racers here at<n>Tracen\nAcademy."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Of course, some do amazing in the<n>Twinkle\nSeries and then go on to the<n>Dream Trophy\nLeague, but..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "There are only a few racers like that.<n>Most\naren't so lucky."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Many lose the ability to perform at<n>their best,\neither due to injury or<n>accident.",
+            "choice_data_list": [
+                "So that's why you were so frantic."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Most of our students love running so<n>much that\nthey've dedicated their<n>lives to it by coming here."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "So the despair they feel when they<n>find out\nthey'll never feel the wind in<n>their faces again..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "It's absolutely dreadful..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "With that, Tazuna falls silent."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As we stand there, we can hear<n>students training\nin the distance."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "...Okay, I'm cooled off now!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Well then, I'd better get back to work.<n>Sorry for\nworrying you! I'll—"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Gyah!",
+            "choice_data_list": [
+                "Tazuna?!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "S-sorry... I just tripped, that's all.<n>How clumsy of\nme..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Though she puts on a smile, it's clear<n>her ankle\nis hurt.",
+            "choice_data_list": [
+                "Let me take care of that!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Huh?! No, that's not necessary!<n>Really!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Despite her protests, I treat Tazuna's<n>ankle with\nthe medical equipment I<n>always have on me."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Th-thank you... As expected, your first<n>aid skills\nare exemplary...",
+            "choice_data_list": [
+                "I am a trainer, after all!"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Yes, that's true..."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "...Hehe."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "It feels very... reassuring having you<n>around,\nTrainer."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "I might even be a little jealous of your<n>trainee...",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Don't worry, that was a joke! ♪"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Thank you for taking care of me! If<n>it's all right,\nI'd like to repay the favor."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "So let's go out for a meal again. On<n>me!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "And so, Tazuna and I decide to go to<n>our usual\nramen spot."
+        }
+    ]
+}

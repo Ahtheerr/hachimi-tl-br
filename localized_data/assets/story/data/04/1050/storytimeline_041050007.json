@@ -2,14 +2,14 @@
     "text_block_list": [
         {
             "name": "Narita Taishin",
-            "text": "<i>Huff, huff...</i> It's friggin' hot..."
+            "text": "<i>Arf, arf...</i> Está quente pra burro..."
         },
         {
-            "name": "Spirited Umamusume",
+            "name": "Umamusume Entusiasmada",
             "text": "Hraaaaah!"
         },
         {
-            "name": "Fiery Umamusume",
+            "name": "Umamusume Fervorosa",
             "text": "Hah! Yah! Hyah! Hiyaaah!"
         },
         {
@@ -18,120 +18,120 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "I'm gonna run one more before I lose<n>momentum.",
+            "text": "Vou correr mais uma antes de perder<n>o ritmo.",
             "choice_data_list": [
-                "Don't overdo it!",
-                "Don't overdo it!"
+                "Não exagere!",
+                "Não exagere!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Yeah, yeah. It's just one more."
+            "text": "Sim, sim. É só mais uma."
         },
         {
             "name": "Monólogo",
-            "text": "All the runners are charged up for the<n>biggest part of\nsummer camp. Even<n>Taishin is getting <i>really</i> into it."
+            "text": "Todas as corredoras estão animadas<n>para a parte principal\ndo<n>acampamento de verão. Até a Taishin<n>está\n<i>realmente</i> empenhada."
         },
         {
             "name": "Monólogo",
-            "text": "She's starting to worry me. I wish<n>there was some way to\nmake her<n>take a break and ease the tension..."
+            "text": "Ela está começando a me preocupar.<n>Eu gostaria que\nhouvesse uma<n>maneira de fazê-la dar uma pausa e<n>\nrelaxar..."
         },
         {
-            "name": "Fiery Umamusume",
-            "text": "YES! We did all the drills! I'm going to<n>get ready for the\nfestival like we<n>promised!"
+            "name": "Umamusume Fervorosa",
+            "text": "ISSO! Terminamos todos os<n>exercícios! Vou me preparar\npara o<n>festival como prometido!"
         },
         {
             "name": "Treinador(a) Habilidoso(a)",
-            "text": "Ah, yeah, the festival. Then let's meet<n>up right before the\nfireworks start at<n>seven.",
+            "text": "Ah, sim, o festival. Então vamos nos<n>encontrar logo antes\nde os fogos<n>começarem, às sete.",
             "choice_data_list": [
-                "(There's a festival?)"
+                "(Vai ter um festival?)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I had no idea, though something tells<n>me Taishin wouldn't\nenjoy the<n>crowds."
+            "text": "Eu não fazia ideia, embora algo me<n>diga que a Taishin não\ngostaria de<n>multidões."
         },
         {
             "name": "Monólogo",
-            "text": "But still, it feels like a waste to sit it<n>out. Think... Something\nfun, but<n>relaxing...",
+            "text": "Mas ainda assim, parece um<n>desperdício ficar de fora.\nPensa... Algo<n>divertido, mas relaxante...",
             "choice_data_list": [
-                "(That's it! The fireworks!)"
+                "(É isso! Os fogos de artifício!)"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "<i>Glug.</i> Ahhh..."
+            "text": "<i>Glub.</i> Ahhh..."
         },
         {
             "name": "Narita Taishin",
-            "text": "Where'd everybody go? Oh right,<n>there's a festival or\nsomething today."
+            "text": "Pra onde todo mundo foi? Ah, é, tem<n>um festival ou algo\nassim hoje."
         },
         {
             "name": "Narita Taishin",
-            "text": "No one's here. Perfect. Now I can<n>push it to the limit.",
+            "text": "Não tem ninguém aqui. Perfeito. Agora<n>posso ir até o limite.",
             "choice_data_list": [
-                "Actually, let's try something different."
+                "Na verdade, vamos tentar algo diferente."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Huh? Like what?",
+            "text": "Hã? Tipo o quê?",
             "choice_data_list": [
-                "Want to head closer to the forest?",
-                "Want to head closer to the forest?"
+                "Quer ir para mais perto da floresta?",
+                "Quer ir para mais perto da floresta?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Hmmm... The forest, huh?"
+            "text": "Hmmm... A floresta, é?"
         },
         {
             "name": "Narita Taishin",
-            "text": "I mean, sure, I guess. Nobody's there<n>either."
+            "text": "Quer dizer, claro, pode ser. Não tem<n>ninguém lá também."
         },
         {
             "name": "Monólogo",
-            "text": "On the way over, the sun sets to<n>reveal a star-filled night..."
+            "text": "No caminho, o sol se põe para revelar<n>uma noite estrelada..."
         },
         {
             "name": "Narita Taishin",
-            "text": "<i>Huff, puff...</i>"
+            "text": "<i>Arf, arf...</i>"
         },
         {
             "name": "Narita Taishin",
-            "text": "Where the heck are we going? We're<n>already pretty far out.",
+            "text": "Aonde diabos estamos indo? Já<n>estamos bem longe.",
             "choice_data_list": [
-                "Here should be fine. Just wait a second.",
-                "Here should be fine. Just wait a second."
+                "Aqui deve estar bom. Espere um segundo.",
+                "Aqui deve estar bom. Espere um segundo."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Wait for what?"
+            "text": "Esperar pelo quê?"
         },
         {
             "name": "Monólogo",
-            "text": "The fireworks begin at seven o'clock.<n>Which means they\nshould start in five,<n>four, three, two..."
+            "text": "Os fogos começam às sete horas. O<n>que significa que\ndevem começar em<n>cinco, quatro, três, dois..."
         },
         {
             "name": "Monólogo",
-            "text": "<i>Whistle... Bang!</i>"
+            "text": "<i>Assobio... Bang!</i>"
         },
         {
             "name": "Narita Taishin",
-            "text": "Whoa..."
+            "text": "Uau..."
         },
         {
             "name": "Narita Taishin",
-            "text": "How'd you know that would<n>happen? Hey, did you plan\nthis?",
+            "text": "Como você sabia que isso ia<n>acontecer? Ei, você planejou\nisso?",
             "choice_data_list": [
-                "Me? No way. What a coincidence, huh?",
-                "Me? No way. What a coincidence, huh?"
+                "Eu? De jeito nenhum. Que coincidência, né?",
+                "Eu? De jeito nenhum. Que coincidência, né?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "<i>Sigh...</i> I should've known you<n>were up to something."
+            "text": "<i>Suspiro...</i> Eu devia saber que<n>você estava aprontando\nalguma."
         },
         {
             "name": "Monólogo",
@@ -139,97 +139,97 @@
         },
         {
             "name": "Monólogo",
-            "text": "Fireworks light up the sky one after<n>another and fill the night\nwith a<n>rainbow of colors."
+            "text": "Fogos de artifício iluminam o céu um<n>após o outro e\npreenchem a noite com<n>um arco-íris de cores."
         },
         {
             "name": "Monólogo",
-            "text": "For a minute, we listen to them<n>crackle with the breeze.\nThen, Narita<n>Taishin softly begins to speak."
+            "text": "Por um minuto, nós os ouvimos<n>estalar com a brisa. Então,\nNarita<n>Taishin começa suavemente a falar."
         },
         {
             "name": "Narita Taishin",
-            "text": "I can't stand them. Festivals, I mean."
+            "text": "Eu não os suporto. Festivais, quero<n>dizer."
         },
         {
             "name": "Narita Taishin",
-            "text": "Crowds of people all jammed<n>together. How could anyone\nwant to<n>be in a place like that? Not that I ever<n>tried.",
+            "text": "Multidões de pessoas todas<n>amontoadas. Como alguém ia\nquerer<n>estar num lugar desses? Não que eu<n>tenha\ntentado.",
             "choice_data_list": [
-                "Thought so."
+                "Imaginei."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "You know, your know-it-all attitude<n>really gets on my\nnerves."
+            "text": "Sabe, essa sua atitude de sabe-tudo<n>realmente me dá nos\nnervos."
         },
         {
             "name": "Narita Taishin",
-            "text": "But the fireworks... They're not bad.<n>And no dumb jerks\nblocking the view."
+            "text": "Mas os fogos... Eles não são ruins. E<n>não tem nenhum\nidiota bloqueando a<n>visão."
         },
         {
             "name": "Narita Taishin",
-            "text": "I feel less pressure when nobody's<n>around."
+            "text": "Sinto menos pressão quando não tem<n>ninguém por perto."
         },
         {
             "name": "Monólogo",
-            "text": "Just as she says, she looks<n>completely relaxed now. Being\naway<n>from judgmental eyes is important to<n>her..."
+            "text": "Como ela disse, ela parece<n>totalmente relaxada agora.\nEstar longe<n>de olhares críticos é importante para<n>ela..."
         },
         {
             "name": "Monólogo",
-            "text": "But I hope she can make one<n>exception to that.",
+            "text": "Mas espero que ela possa abrir uma<n>exceção para isso.",
             "choice_data_list": [
-                "I'm here though. Is that okay?"
+                "Eu estou aqui, no entanto. Tudo bem?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Huh?"
+            "text": "Hã?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Geez, don't be so weird."
+            "text": "Nossa, não seja tão esquisito."
         },
         {
             "name": "Narita Taishin",
-            "text": "You're, you know... different."
+            "text": "Você é, sabe... diferente."
         },
         {
             "name": "Narita Taishin",
-            "text": "You're like one of those fish.<n>Doesn't matter whether\nyou're<n>around or not."
+            "text": "Você é como um daqueles peixes.<n>Não importa se você está\npor perto ou<n>não."
         },
         {
             "name": "Narita Taishin",
-            "text": "But how about you, fishies? I wonder<n>if they notice me...\nHehe."
+            "text": "Mas e vocês, peixinhos? Será que<n>eles me notam... Hehe."
         },
         {
             "name": "Narita Taishin",
-            "text": "Whatever, it doesn't matter. They<n>aren't really watching.\nThey're just<n>around."
+            "text": "Tanto faz, não importa. Eles não<n>estão olhando de verdade.\nSó estão<n>por perto."
         },
         {
             "name": "Narita Taishin",
-            "text": "It's fine... I like it that way—makes it<n>easier for me."
+            "text": "Está tudo bem... Eu gosto<n>assim—deixa as coisas mais\nfáceis<n>para mim."
         },
         {
             "name": "Narita Taishin",
-            "text": "You can hang around if you want."
+            "text": "Você pode ficar por aqui, se quiser."
         },
         {
             "name": "Monólogo",
-            "text": "So apparently, I'm on the level of a<n>fish. But from her,\nthat's the best<n>thing there—"
+            "text": "Então, aparentemente, estou no nível<n>de um peixe. Mas,\nvindo dela, isso é a<n>melhor coisa—"
         },
         {
             "name": "Narita Taishin",
-            "text": "Hey, quit it. You're staring like an<n>idiot.",
+            "text": "Ei, para com isso. Você está<n>encarando feito um idiota.",
             "choice_data_list": [
-                "Oh, am I? Sorry.",
-                "Oh, am I? Sorry."
+                "Ah, estou? Desculpa.",
+                "Ah, estou? Desculpa."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Darn right, you dummy."
+            "text": "Pode apostar que sim, seu tonto."
         },
         {
             "name": "Monólogo",
-            "text": "Despite Taishin's rude words, the<n>light from the bursting\nfireworks<n>illuminates her decidedly gentle smile."
+            "text": "Apesar das palavras rudes de<n>Taishin, a luz dos fogos\nestourando<n>ilumina seu sorriso decididamente<n>gentil."
         }
     ]
 }

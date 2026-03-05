@@ -1,0 +1,68 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One day, while I'm on my way to the<n>library to\nlook for some useful books..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hmm... Whatever shall I do?",
+            "choice_data_list": [
+                "Something troubling you?",
+                "Something troubling you?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh my! Hello."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I've been searching for a few books<n>to help me\nprepare for my races, you<n>see."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "However, I've only been able to<n>locate one of\nthem, so I was mulling<n>over what to do.",
+            "choice_data_list": [
+                "What books were you looking for?",
+                "What books were you looking for?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Let's see... <i>The Secrets to<n>Running,</i> <i>The\nEssence of<n>Speed,</i> <i>Running Stride: A Racing<n>\nMemoir,</i> as well as..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Grass Wonder continues to rattle off<n>a long list of\nother books she's after.<n>It'll be a tough task\ntrying to find all of<n>them.",
+            "choice_data_list": [
+                "For now, why not focus on the book you did\nmanage to find?",
+                "Why don't we look for them together?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "That's a good point. I'll start reading<n>it now.\nWasting my limited time<n>overthinking this won't\ndo me any<n>good anyway."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hmm, I see. Yes, this is quite useful! ♪"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "You'd be willing to help? Then I will<n>happily take\nyou up on that offer."
+        },
+        {
+            "name": "Monólogo",
+            "text": "It takes a whole lot of time, but we<n>manage to\nfind all the books Grass<n>Wonder is looking for."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Thank you very much. You were most<n>helpful!\nNow I believe my studies will<n>progress\nswimmingly! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Helping Grass Wonder on her quest<n>for\nknowledge has made me a little<n>more familiar\nwith the library's<n>collection."
+        }
+    ]
+}

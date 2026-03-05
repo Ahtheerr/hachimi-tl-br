@@ -1,0 +1,120 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "O acampamento de verão começa<n>hoje! Estou\nansioso para começar o<n>treinamento em\npreparação para o<n>Kikuka Sho, a última corrida da\nTríplice<n>Coroa Clássica."
+        },
+        {
+            "name": "Monólogo",
+            "text": "No entanto, depois de chegar ao<n>alojamento, a\nAdmire Vega parece<n>distraída com alguma coisa."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ei... Você não viu a Shinko Windy,<n>viu?",
+            "choice_data_list": [
+                "Não, não a vi."
+            ],
+            "color_text_info_list": [
+                "Shinko Windy"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Sério? Ugh... Para onde será que ela<n>foi parar?"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ayabeee!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Eu achei a Windy! Obrigada pela<n>ajuda!",
+            "color_text_info_list": [
+                "Windy"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Grrr... Por que cês tão me<n>procurandoooo?! Me\ndeixa em paz!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Haha, como eu vou fazer isso quando<n>somos\ncolegas de classe?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...!"
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Olha, elas estão fazendo a chamada<n>ali. Você só\nprecisa ficar por aqui um<n>pouco mais!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Bom... se você tá dizendo..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Suspiro...</i> Certo, agora que vocês<n>acharam a\nWindy, eu vou—"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ayabe! A Ticket acabou de achar a<n>Taishin e a\nestá trazendo de volta pra<n>fila da nossa turma.",
+            "color_text_info_list": [
+                "Taishin",
+                "Ticket"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "A Ticket a achou descansando num<n>canto. Ela\nestava se sentindo mal<n>depois de descer do\nônibus e ficar<n>cercada por todas as outras\nalunas.<n>Desculpe por todo o incômodo."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Tudo bem se vocês a acharam.<n>Parece que estão\ntodas aqui, então."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Top Road! Eu posso cuidar da<n>chamada."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Ceeerto!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Certo... Obrigada pelo relatório,<n>Representante de\nClasse."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Desculpe por deixar você<n>encarregada de todas\nessas<n>encrenqueiras. Como sua colega de<n>\nclasse, eu deveria ter ajudado com<n>essa\nresponsabilidade."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Não se preocupe! Você está<n>gerenciando o\nconselho estudantil<n>inteiro, Air Groove. Deixe as\nturmas<n>comigo!",
+            "color_text_info_list": [
+                "Air Groove"
+            ]
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "E, na verdade, eu recebi muita ajuda<n>da Ayabe!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Se não terminarmos a chamada, não<n>podemos\ncomeçar a nos preparar<n>para o treino."
+        },
+        {
+            "name": "Narita Top Road",
+            "text": "Hehe, eu sabia que podia contar com<n>você! Você\né uma grande ajuda!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Tá, tá. Você não precisa dizer tudo<n>isso."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Assistindo à Admire Vega perto de<n>suas colegas\nde classe, ela parece<n>uma pessoa diferente da<n>\nUmamusume taciturna e focada no<n>treino com a\nqual estou acostumado."
+        }
+    ]
+}

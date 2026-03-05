@@ -2,98 +2,67 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "The day after I fail to scout Gold City,<n>I'm walking along\nunder the trees,<n>when..."
+            "text": "No dia seguinte ao meu fracasso em<n>recrutar a Gold City,\nestou<n>caminhando sob as árvores, quando..."
         },
         {
             "name": "Umamusume A",
-            "text": "So, that big fuss out on the<n>course—that was City, wasn't it?"
+            "text": "Então, aquela confusão toda na pista<n>— era a City, não era?"
         },
         {
             "name": "Umamusume B",
-            "text": "I think the guy she was arguing with<n>was her trainer?\nSeemed pretty<n>heated. Wonder if she's okay..."
+            "text": "Acho que o cara com quem ela<n>estava discutindo era o\ntreinador<n>dela? Parecia bem tenso. Será que ela<n>está\nbem?"
         },
         {
             "name": "Monólogo",
-            "text": "I don't like the sound of that. I'd<n>better go take a look!"
+            "text": "Isso não me cheira nada bem. É<n>melhor eu ir dar uma\nolhada!"
         },
         {
             "name": "Gold City",
-            "text": "Then, what? You're saying I should<n>just stop training?"
+            "text": "Então, o quê? Você está dizendo que<n>eu deveria\nsimplesmente parar de<n>treinar?"
         },
         {
             "name": "Treinador(a) Habilidoso(a) A",
-            "text": "No, no, not at all. It's just, you don't<n>want to put on too\nmuch muscle and<n>ruin your proportions, or get any<n>nasty\nscratches on your body!"
+            "text": "Não, não, de jeito nenhum. É que<n>você não quer ganhar\nmúsculos<n>demais e estragar suas proporções,<n>ou ficar\ncom cicatrizes feias pelo<n>corpo!"
         },
         {
             "name": "Treinador(a) Habilidoso(a) A",
-            "text": "Form is what you should be working<n>on. Looking pretty\nwhile you run is the<n>name of the game for you. Oh, that<n>\nand winning concert practice!"
+            "text": "Forma é no que você deveria estar<n>trabalhando. Parecer\nbonita enquanto<n>corre é a alma do negócio para você.<n>Ah,\nisso e vencer o ensaio do show!"
         },
         {
             "name": "Gold City",
-            "text": "Okay, so, is any of that gonna help me<n>run faster? Help me\nwin?"
+            "text": "Certo, então, alguma dessas coisas<n>vai me ajudar a correr\nmais rápido?<n>Me ajudar a vencer?"
         },
         {
             "name": "Treinador(a) Habilidoso(a) A",
-            "text": "Wait, <i>that's</i> what you're worried<n>about? It'll be fine.\nI'll handle it. The<n>trick is, you just gotta run in races<n>you\nknow you can win."
+            "text": "Espera, é <i>isso</i> que te preocupa?<n>Vai ficar tudo bem. Eu\ncuido disso. O<n>truque é você só correr em corridas<n>que\nsabe que pode vencer."
         },
         {
             "name": "Treinador(a) Habilidoso(a) A",
-            "text": "Then there won't be a scratch on<n>your reputation! The\nglamorous, the<n>victorious Gold City—star of the show!<n>The\nperfect plan, am I right?"
+            "text": "Assim não haverá um arranhão na<n>sua reputação! A\nglamorosa, a<n>vitoriosa Gold City — a estrela do<n>show! O\nplano perfeito, não acha?"
         },
         {
             "name": "Gold City",
-            "text": "No... No, no, no! That's <i>not</i> who I<n>want to be!"
+            "text": "Não... Não, não, não! Não é <i>essa</i><n>quem eu quero ser!"
         },
         {
             "name": "Gold City",
-            "text": "Tell me... Why?"
+            "text": "Me diga... Por quê?"
         },
         {
             "name": "Gold City",
-            "text": "You said... you'd make me the top<n>Umamusume. That I'd be\nthe brightest<n>star on the turf."
+            "text": "Você disse... que me tornaria a melhor<n>Umamusume. Que eu\nseria a estrela<n>mais brilhante da grama."
         },
         {
             "name": "Gold City",
-            "text": "So why? ...Why are you giving me this<n>crap?!"
+            "text": "Então por quê? ...Por que você está<n>me vindo com essa\npalhaçada?!"
         },
         {
             "name": "Treinador(a) Habilidoso(a) A",
-            "text": "What? No, no, my stance hasn't<n>changed. I mean c'mon,\nyou're<n><i>the</i> Gold City."
+            "text": "O quê? Não, não, minha posição não<n>mudou. Quero dizer,\nqual é, você é<n><i>a</i> Gold City."
         },
         {
             "name": "Treinador(a) Habilidoso(a) A",
-            "text": "Everyone talks about you—the cool<n>and fierce model!"
-        },
-        {
-            "name": "Gold City",
-            "text": "...!"
-        },
-        {
-            "name": "Treinador(a) Habilidoso(a) A",
-            "text": "You'll be great. Just leave it all to me!<n>How to present you,\nhow to make you<n>shine—I've got it all figured out."
-        },
-        {
-            "name": "Treinador(a) Habilidoso(a) A",
-            "text": "You just have to do what I say! It's<n>for your own good. I\nmean, that's<n>what a trainer's for, isn't it?",
-            "choice_data_list": [
-                "That's not what a <i>real</i> trainer does!"
-            ]
-        },
-        {
-            "name": "Gold City",
-            "text": "Huh? Y-you again... Why are you..."
-        },
-        {
-            "name": "Treinador(a) Habilidoso(a) A",
-            "text": "And who do you think you are? Why<n>don't you mind your\nown business,<n>huh?",
-            "choice_data_list": [
-                "A real trainer listens to their trainee!",
-                "A real trainer listens to their trainee!"
-            ]
-        },
-        {
-            "name": "Treinador(a) Habilidoso(a) A",
-            "text": "Oh yeah? You got some nerve, pal!"
+            "text": "Todo mundo fala de você — a modelo<n>descolada e feroz!"
         },
         {
             "name": "Gold City",
@@ -101,150 +70,181 @@
         },
         {
             "name": "Treinador(a) Habilidoso(a) A",
-            "text": "H-hey! ...Kid doesn't know what's<n>good for her. I coulda\nmade her a star."
+            "text": "Você vai se sair bem. Deixe tudo<n>comigo! Como te\napresentar, como<n>fazer você brilhar — eu já planejei<n>tudo."
         },
         {
             "name": "Treinador(a) Habilidoso(a) A",
-            "text": "Dodged a bullet with that temper,<n>though. Oh well, plenty of\nfish in the<n>sea."
+            "text": "Você só tem que fazer o que eu digo!<n>É pelo seu próprio\nbem. Quero dizer, é<n>para isso que serve um treinador, não<n>\né?",
+            "choice_data_list": [
+                "Não é isso que um <i>verdadeiro</i> treinador faz!"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "Hã? V-você de novo... Por que você..."
+        },
+        {
+            "name": "Treinador(a) Habilidoso(a) A",
+            "text": "E quem você pensa que é? Por que<n>não cuida da sua vida,\nhein?",
+            "choice_data_list": [
+                "Um verdadeiro treinador escuta sua aprendiz!",
+                "Um verdadeiro treinador escuta sua aprendiz!"
+            ]
+        },
+        {
+            "name": "Treinador(a) Habilidoso(a) A",
+            "text": "É mesmo? Você tem muita audácia,<n>amigão!"
+        },
+        {
+            "name": "Gold City",
+            "text": "..."
+        },
+        {
+            "name": "Treinador(a) Habilidoso(a) A",
+            "text": "E-ei! ...Essa garota não sabe o que é<n>bom para ela. Eu\npoderia ter feito dela<n>uma estrela."
+        },
+        {
+            "name": "Treinador(a) Habilidoso(a) A",
+            "text": "Escapei de uma boa com esse<n>temperamento. Bom, o que\nnão falta é<n>peixe no mar."
         },
         {
             "name": "Monólogo",
-            "text": "I need to make sure she's all right!"
+            "text": "Preciso garantir que ela esteja bem!"
         },
         {
             "name": "Monólogo",
-            "text": "My search takes me all across<n>campus to no avail. There's\nonly one<n>place I haven't looked...",
+            "text": "Minha busca me leva por todo o<n>campus, sem sucesso. Só\nresta um<n>lugar onde eu ainda não procurei...",
             "choice_data_list": [
                 "Gold City!"
             ]
         },
         {
             "name": "Tosen Jordan",
-            "text": "Uwaaah! What, what is it?"
+            "text": "Uwaaah! O que foi, o que foi?"
         },
         {
             "name": "Tosen Jordan",
-            "text": "You scared me... Seriously, what's<n>going on? You the\npaparazzi or<n>something?"
+            "text": "Você me assustou... Sério, qual é a<n>fita? Você é um\npaparazzi ou algo<n>assim?"
         },
         {
             "name": "Monólogo",
-            "text": "I explain the predicament and ask if<n>she knows where Gold\nCity could be."
+            "text": "Explico o dilema e pergunto se ela<n>sabe onde a Gold City\npoderia estar."
         },
         {
             "name": "Tosen Jordan",
-            "text": "Sooo, you feel the need to find her,<n>why? ...Kinda sus."
+            "text": "Entããão, você sente essa<n>necessidade de encontrar ela por<n>\nquê? ...Meio sus."
         },
         {
             "name": "Tosen Jordan",
-            "text": "I know you're trying to scout her, but<n>like, you're just after\nher looks,<n>aren't you? I mean, I get it—she's<n>drop dead\ngorgeous."
+            "text": "Eu sei que você tá tentando recrutar<n>ela, mas tipo, você só\nquer o visual<n>dela, não quer? Digo, eu entendo —<n>ela é\nlinda de morrer."
         },
         {
             "name": "Tosen Jordan",
-            "text": "But that means you're like, not any<n>different from her\nmanager, you<n>know?"
+            "text": "Mas isso significa que você, tipo, não<n>é nem um pouco\ndiferente do<n>empresário dela, sabe?"
         },
         {
             "name": "Tosen Jordan",
-            "text": "So lemme ask you. Why do care<n>about her?",
+            "text": "Então deixa eu te perguntar. Por que<n>você se importa com\nela?",
             "choice_data_list": [
-                "She's a hard worker, and I want to support her."
+                "Ela é muito esforçada, e eu quero apoiá-la."
             ]
         },
         {
             "name": "Tosen Jordan",
-            "text": "Support her, huh."
+            "text": "Apoiar ela, é?"
         },
         {
             "name": "Tosen Jordan",
-            "text": "So like, you're gonna do what,<n>exactly, for her?",
+            "text": "Então, tipo, você vai fazer o quê,<n>exatamente, por ela?",
             "choice_data_list": [
-                "I don't know yet."
+                "Ainda não sei."
             ]
         },
         {
             "name": "Tosen Jordan",
-            "text": "You got nothing?! Wait, like actually?<n>Not a good look.",
+            "text": "Você não tem nada?! Pera, tipo, sério?<n>Pegou mal, hein.",
             "choice_data_list": [
-                "I mean, I barely know anything about her... yet.",
-                "I mean, I barely know anything about her... yet."
+                "Digo, eu mal sei qualquer coisa sobre ela... ainda.",
+                "Digo, eu mal sei qualquer coisa sobre ela... ainda."
             ]
         },
         {
             "name": "Tosen Jordan",
-            "text": "...Huh?",
+            "text": "...Hã?",
             "choice_data_list": [
-                "I want to talk to her, and get to know her."
+                "Quero falar com ela e conhecê-la melhor."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Only then can I decide what to do—her<n>input is just as\nimportant as mine."
+            "text": "Só então poderei decidir o que fazer —<n>a opinião dela é tão\nimportante quanto<n>a minha."
         },
         {
             "name": "Tosen Jordan",
-            "text": "Uh-huh... Well, you do you."
+            "text": "Aham... Bom, você que sabe."
         },
         {
             "name": "Tosen Jordan",
-            "text": "Wait, why's it feel like you're waiting<n>for me to say\nsomething? Can you<n>not?",
+            "text": "Pera, por que parece que você tá<n>esperando eu falar\nalguma coisa?<n>Tipo, para, tá?",
             "choice_data_list": [
-                "Please, tell me where she is!",
-                "Please, tell me where she is!"
+                "Por favor, me diga onde ela está!",
+                "Por favor, me diga onde ela está!"
             ]
         },
         {
             "name": "Tosen Jordan",
-            "text": "Wh-whoa there, don't creep any<n>closer! Nope, not doing\nthis!"
+            "text": "E-eita, não chega mais perto não!<n>Nem a pau que eu vou\nnessa!"
         },
         {
             "name": "Tosen Jordan",
-            "text": "Ugh, again? You've got to be joking!",
+            "text": "Ugh, de novo? Você só pode tá de<n>brinks!",
             "choice_data_list": [
-                "Please! You have to tell me!",
-                "Please! You have to tell me!"
+                "Por favor! Você tem que me dizer!",
+                "Por favor! Você tem que me dizer!"
             ]
         },
         {
             "name": "Tosen Jordan",
-            "text": "No! Just, no! And stay away!"
+            "text": "Não! Só... não! E fica longe!"
         },
         {
             "name": "Tosen Jordan",
-            "text": "Phew. Should be safe he—",
+            "text": "Ufa. Devo estar segura aq—",
             "choice_data_list": [
-                "Pleeease!",
-                "Pleeease!"
+                "Por favooor!",
+                "Por favooor!"
             ]
         },
         {
             "name": "Tosen Jordan",
-            "text": "How are you <i>still</i> following me?!<n>Just get lost already!"
+            "text": "Como é que você <i>ainda</i> tá me<n>seguindo?! Se toca logo!"
         },
         {
             "name": "Tosen Jordan",
-            "text": "Stop! Ugh, I can't with you! Why are<n>you asking me,\nanyway?!"
+            "text": "Para! Ugh, não aguento você! Por que<n>você tá me\nperguntando, pra começo<n>de conversa?!"
         },
         {
             "name": "Tosen Jordan",
-            "text": "I literally have no idea where she<n>could be. I mean, the\nriverbank, I<n>guess, but—"
+            "text": "Eu literalmente não faço ideia de<n>onde ela possa estar.\nDigo, na beira<n>do rio, eu acho, mas—"
         },
         {
             "name": "Tosen Jordan",
-            "text": "Oh, shoot.",
+            "text": "Ah, droga.",
             "choice_data_list": [
-                "THANK YOU!"
+                "OBRIGADO!"
             ]
         },
         {
             "name": "Tosen Jordan",
-            "text": "Hey, wait a sec!"
+            "text": "Ei, espera um pouco!"
         },
         {
             "name": "Tosen Jordan",
-            "text": "Don't tell her you found out from me,<n>okay? Seriously, you\nbetter not tell!<n>She's legit scary when she's mad!"
+            "text": "Não fala pra ela que descobriu por<n>mim, beleza? Sério, é\nbom não contar!<n>Ela fica real assustadora quando tá<n>\nbrava!"
         },
         {
             "name": "Tosen Jordan",
-            "text": "Hey! Are you listening?!"
+            "text": "Ei! Tá me ouvindo?!"
         }
     ]
 }

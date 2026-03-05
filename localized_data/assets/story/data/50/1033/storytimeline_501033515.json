@@ -1,0 +1,185 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Hoje, a academia está realizando um<n>evento de\nencontro com fãs."
+        },
+        {
+            "name": "Mulher A",
+            "text": "Eu simplesmente amo o jeito que<n>você corre,\nAyabe! Você parece uma<n>estrela cadente do\njeito que se<n>desgarra do pelotão."
+        },
+        {
+            "name": "Mulher A",
+            "text": "Ver você correr me enche de<n>coragem! Eu queria\nte dizer isso há<n>muito tempo!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Obrigada. Continuarei dando o meu<n>melhor."
+        },
+        {
+            "name": "Mulher A",
+            "text": "Isso vale para o seu treinador<n>também! É\nfantástico como vocês se<n>coordenam juntos!"
+        },
+        {
+            "name": "Mulher A",
+            "text": "Estou ansiosa para ver grandes<n>coisas de vocês\ndois!",
+            "choice_data_list": [
+                "Obrigado!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Apesar das palavras de elogio,<n>Admire Vega\nparece estar ficando<n>mais rígida quanto mais\ntempo<n>passamos aqui.",
+            "choice_data_list": [
+                "Você está se sentindo mal?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Estou bem. A próxima pessoa está<n>vindo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela me ignora e se prepara para os<n>próximos\nvisitantes."
+        },
+        {
+            "name": "Homem A",
+            "text": "Eu assisti sua mãe correr também!<n>Espero que\nvocê faça jus ao legado<n>dela!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Obrigada. Espero contar com seu<n>apoio\ncontínuo."
+        },
+        {
+            "name": "Mulher B",
+            "text": "Certifique-se de vencer sua próxima<n>corrida!\nEstou torcendo por você!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Obrigada."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela responde da mesma forma de<n>sempre, mas\nposso ver que ela está<n>ficando cada vez mais\nestressada."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mais tarde, naquela noite, Admire<n>Vega\ndesapareceu em algum lugar.<n>Preocupado, vou\nprocurá-la."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "<i>Arf... arf...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela deve estar treinando sozinha de<n>novo. Não\nposso deixar de me<n>perguntar por que ela está\nse<n>esforçando tanto. Será que..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "O que foi?",
+            "choice_data_list": [
+                "Você tem dificuldade com eventos como o de\nhoje?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Na verdade, não...",
+            "choice_data_list": [
+                "Se você estiver desconfortável, podemos\nsempre reduzir o número de visitantes—"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Não é necessário."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Na verdade... eu preciso ouvir mais os<n>meus fãs."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "O apoio deles... não é realmente para<n>mim."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "É ela... quem deveria estar recebendo<n>os elogios."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "No entanto, aqui estou eu... recebendo<n>o que é\ndela."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "É por isso que... eu tenho que atender<n>às\nexpectativas deles."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "É..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "É a minha missão desde que nasci. É<n>a única\ncoisa que posso fazer.",
+            "choice_data_list": [
+                "Farei o que puder para ajudar.",
+                "Farei o que puder para ajudar.",
+                "Não é a <i>única</i> coisa que você pode fazer."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "É a minha missão desde que nasci. É<n>a única\ncoisa que posso fazer.",
+            "choice_data_list": [
+                "Farei o que puder para ajudar.",
+                "Farei o que puder para ajudar.",
+                "Não é a <i>única</i> coisa que você pode fazer."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Isso..."
+        },
+        {
+            "name": "Mulher A",
+            "text": "Estou ansiosa para ver grandes<n>coisas de vocês\ndois!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Atender às expectativas deles..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Bem... vou tentar não exagerar."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Como o quê?",
+            "choice_data_list": [
+                "Sua corrida pode inspirar coragem nos outros.",
+                "Sua corrida pode inspirar coragem nos outros."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Mulher A",
+            "text": "Ver você correr me enche de<n>coragem! Eu queria\nte dizer isso há<n>muito tempo!"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...",
+            "choice_data_list": [
+                "Vamos continuar seguindo em frente."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Sim."
+        }
+    ]
+}

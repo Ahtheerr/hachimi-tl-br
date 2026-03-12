@@ -1,0 +1,233 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Depois de terminar o trabalho, vou<n>para o telhado\ne encontro Admire<n>Vega e Silence Suzuka."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ah... Hum, boa noite."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Mais um.",
+            "choice_data_list": [
+                "Boa noite. Veio observar as estrelas?",
+                "Boa noite. Veio observar as estrelas?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Sim. Eu subo aqui com a Ayabe às<n>vezes."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Sim.",
+            "choice_data_list": [
+                "As estrelas são realmente lindas, não são?",
+                "As estrelas são realmente lindas, não são?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Dá para vê-las com muita clareza<n>hoje."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O tempo passa enquanto observamos<n>o céu\nestrelado em silêncio.",
+            "choice_data_list": [
+                "Qual é a sua estrela favorita, Ayabe?",
+                "Qual é a sua estrela favorita, Suzuka?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Tenho certeza de que você<n>consegue deduzir\nisso pelo meu<n>nome."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vega. É uma estrela linda que brilha\nintensamente.",
+            "choice_data_list": [
+                "Me lembre... Que tipo de estrela é a Vega\nmesmo?"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "É uma estrela de primeira magnitude<n>na\nconstelação de Lyra."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ela forma o Triângulo de Verão com<n>as estrelas\nAltair e Deneb.",
+            "choice_data_list": [
+                "Que estrela incrível!"
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "...Acho que sim."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ela também não é uma parte famosa<n>do festival\nTanabata, onde é<n>conhecida como Orihime?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Correto.",
+            "choice_data_list": [
+                "E é uma estrela romântica, além de tudo."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "E não se pode falar da Orihime sem<n>mencionar o\nHikoboshi."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Quem sabe, Ayabe, talvez algum dia<n>você\nencontre alguém que possa ser<n>o Hikoboshi da\nsua Orihime."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ou talvez você já tenha encontrado..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Não conheço ninguém assim."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "E estou feliz ficando sozinha... para<n>todo o\nsempre."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Tenho estado bem sozinha até agora.<n>Não\npreciso de mais ninguém."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Mas... desde que cheguei à<n>academia, todos têm\nme importunado."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Minha estrela favorita? ...Acho que eu<n>escolheria\na Spica."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Spica — uma estrela maravilhosa que<n>brilha com\num tom azul brilhante.",
+            "choice_data_list": [
+                "Me lembre... Que tipo de estrela é a Spica\nmesmo?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hum, eu acho que é..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "É uma estrela de primeira magnitude<n>na\nconstelação de Virgo."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Ela forma o Triângulo de Primavera<n>com as\nestrelas Denebola e Arcturus.",
+            "choice_data_list": [
+                "Que estrela incrível!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Isso mesmo. Eu sempre achei que os<n>nomes\nSpica e Suzuka eram meio<n>parecidos, então...",
+            "choice_data_list": [
+                "<i>É por isso</i> que você gosta dela?!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Eu estava... meio que brincando. Eu<n>apenas sinto\numa espécie de<n>afinidade com ela."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Embora, não sejam as estrelas em<n>si... é mais\nque eu amo admirar a<n>paisagem sozinha."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Minha cidade natal recebe muita neve<n>— uma\nquantidade avassaladora, na<n>verdade — e toda a\npaisagem fica<n>tingida de branco."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "A neve abafa todos os sons da<n>cidade, e a única\ncoisa que você<n>consegue ouvir é a batida do seu\npróprio coração."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "É como se eu estivesse sozinha em<n>um mundo\nsilencioso e de um branco<n>puro. Essa é a\npaisagem que você<n>veria se olhasse para dentro\ndo meu<n>coração."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Mas não tive tantas oportunidades de<n>ficar\nsozinha desde que vim para cá."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Eu sei como se sente... Todos aqui<n>são\nincrivelmente barulhentos."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Sempre preferi ficar sozinha, mas<n>todo mundo...\nHá tantas pessoas ao<n>meu redor o tempo todo."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Desde que cheguei à academia,<n>todos têm me\nimportunado."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Opera O, Doto, Urara... Até a Top Road<n>e a Curren."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Todas elas... São tão incômodas."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu nem preciso perguntar se ela<n>realmente quis\ndizer tudo aquilo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu nem preciso perguntar se ela<n>realmente quis\ndizer tudo aquilo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Em contraste com a frieza de suas<n>palavras,\nsinto um calor em sua voz,<n>como algo\nescorrendo das<n>profundezas de seu coração."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Parece que nenhuma de nós pode se<n>dar ao luxo\nde continuar como somos,<n>não é, Ayabe?"
+        },
+        {
+            "name": "Admire Vega",
+            "text": "..."
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Realmente há um bocado de<n>intrometidos nesta\nacademia."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As estrelas brilham intensamente no<n>céu limpo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Assim como as constelações unem<n>as estrelas,\nas pessoas também<n>estão conectadas pelos\nlaços que<n>forjam umas com as outras."
+        }
+    ]
+}

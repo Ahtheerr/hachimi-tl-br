@@ -2,146 +2,146 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "I spot Ikuno Dictus talking with a<n>fellow student\nat the central plaza."
+            "text": "Vejo Ikuno Dictus conversando com<n>uma colega\nna praça central."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "...Ergo, it would be best for you to<n>reduce the\nnumber of exercises in<n>your afternoon training\nsession by<n>one."
+            "text": "...Portanto, seria melhor você reduzir<n>em um o\nnúmero de exercícios em<n>sua sessão de treino\nda tarde."
         },
         {
             "name": "Younger Umamusume",
-            "text": "I see! That'll definitely work! Thank<n>you, Ikuno!"
+            "text": "Entendi! Isso com certeza vai<n>funcionar!\nObrigada, Ikuno!"
         },
         {
             "name": "Ikuno Dictus",
-            "text": "No need to thank me. I'm happy to be<n>of service."
+            "text": "Não precisa agradecer. Fico feliz em<n>ajudar."
         },
         {
             "name": "Monólogo",
-            "text": "The younger Umamusume gives<n>Ikuno Dictus a\ndeep bow and walks<n>away.",
+            "text": "A Umamusume mais jovem faz uma<n>reverência\nprofunda para Ikuno<n>Dictus e se retira.",
             "choice_data_list": [
-                "What were you two talking about?"
+                "Sobre o que vocês duas estavam falando?"
             ]
         },
         {
             "name": "Ikuno Dictus",
-            "text": "She wanted me to look over her<n>training\nschedule."
+            "text": "Ela queria que eu revisasse o<n>cronograma de\ntreino dela."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "I'm quite good at schedule creation<n>and\nmanagement, you see.",
+            "text": "Sou muito boa em criação e gestão de\ncronogramas, entende.",
             "choice_data_list": [
-                "Can you go over mine too?",
-                "Can you go over mine too?",
-                "Mind giving me some tips?"
+                "Pode revisar o meu também?",
+                "Pode revisar o meu também?",
+                "Poderia me dar algumas dicas?"
             ]
         },
         {
             "name": "Ikuno Dictus",
-            "text": "I'm quite good at schedule creation<n>and\nmanagement, you see.",
+            "text": "Sou muito boa em criação e gestão de\ncronogramas, entende.",
             "choice_data_list": [
-                "Can you go over mine too?",
-                "Can you go over mine too?",
-                "Mind giving me some tips?"
+                "Pode revisar o meu também?",
+                "Pode revisar o meu também?",
+                "Poderia me dar algumas dicas?"
             ]
         },
         {
             "name": "Ikuno Dictus",
-            "text": "You want me to look at your schedule<n>too?"
+            "text": "Você quer que eu veja o seu<n>cronograma\ntambém?"
         },
         {
             "name": "Ikuno Dictus",
-            "text": "But as a trainer, you must have<n>already learned\nabout schedule<n>management. There shouldn't be\na<n>need for me to examine it at all.",
+            "text": "Mas, como treinador, você já deve<n>ter aprendido\nsobre gestão de<n>cronogramas. Não deveria haver\nnecessidade de eu examiná-lo.",
             "choice_data_list": [
-                "I'd just like your opinion is all."
+                "Só gostaria da sua opinião, só isso."
             ]
         },
         {
             "name": "Ikuno Dictus",
-            "text": "Hm... Very well. I'll take a look at it."
+            "text": "Hm... Muito bem. Vou dar uma olhada."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "...You've included too many activities<n>for this day."
+            "text": "...Você incluiu atividades demais para<n>este dia."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "And while I understand you're busy,<n>you must\nfind time to eat, sleep, and<n>rest."
+            "text": "E embora eu entenda que esteja<n>ocupado, você\ndeve encontrar tempo<n>para comer, dormir e\ndescansar."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "Your body is an invaluable asset,<n>even if you\ndon't use it for racing like<n>us. You should ensure\nyou are never<n>lacking in nutrition, sleep, or rest.",
+            "text": "Seu corpo é um bem inestimável,<n>mesmo que\nnão o use para correr<n>como nós. Você deve\ngarantir que<n>nunca falte nutrição, sono ou\ndescanso.",
             "choice_data_list": [
-                "Thanks. I'll keep that in mind."
+                "Obrigado. Vou manter isso em mente."
             ]
         },
         {
             "name": "Ikuno Dictus",
-            "text": "No need for thanks. I'm merely glad<n>to be of\nhelp."
+            "text": "Não há necessidade de<n>agradecimentos. Estou\napenas feliz<n>em ajudar."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "Now, on to my next point...",
+            "text": "Agora, para o meu próximo ponto...",
             "choice_data_list": [
-                "Wait, there's more?"
+                "Espera, tem mais?"
             ]
         },
         {
             "name": "Ikuno Dictus",
-            "text": "I'm not even halfway through my<n>comments. I\ncannot simply let you get<n>away with this\nridiculous schedule."
+            "text": "Não cheguei nem na metade dos<n>meus\ncomentários. Não posso<n>simplesmente deixar\nvocê escapar<n>com esse cronograma ridículo."
         },
         {
             "name": "Monólogo",
-            "text": "Ikuno Dictus proceeds to point out<n>each and\nevery flaw in my schedule..."
+            "text": "Ikuno Dictus começa a apontar cada<n>uma das\nfalhas no meu cronograma..."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "Tips? Well, if it's one thing I would<n>advise, it\nwould be not to believe<n>everything you read.",
+            "text": "Dicas? Bem, se há uma coisa que eu\naconselharia, seria não acreditar em<n>tudo o que\nvocê lê.",
             "choice_data_list": [
-                "Do you have a specific example?"
+                "Você tem um exemplo específico?"
             ]
         },
         {
             "name": "Ikuno Dictus",
-            "text": "Yes. Nine times out of ten, the benefits<n>of a\nroutine are what is emphasized."
+            "text": "Sim. Em nove de dez vezes, são os<n>benefícios\nde uma rotina que são<n>enfatizados."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "Often do I read that running a lot is the<n>key to\nstrengthen one's legs."
+            "text": "Frequentemente leio que correr muito<n>é a chave\npara fortalecer as pernas."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "However, in most cases, schedules<n>do not\naccount for the fatigue that is<n>brought on by\nexercise."
+            "text": "No entanto, na maioria dos casos, os\ncronogramas não levam em conta a<n>fadiga\ntrazida pelo exercício."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "That's all I wanted to point out. I<n>don't know if it\ncan be considered a<n>tip, but I hope it helps.",
+            "text": "Isso é tudo o que eu queria pontuar.<n>Não sei se\npode ser considerado uma<n>dica, mas espero que\najude.",
             "choice_data_list": [
-                "Thanks. I'll be careful not to believe everything I\nread."
+                "Obrigado. Vou tomar cuidado para não acreditar\nem tudo o que leio."
             ]
         },
         {
             "name": "Ikuno Dictus",
-            "text": "Good. That is wise of you."
+            "text": "Bom. Isso é sensato da sua parte."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "...Except everything I just said was a<n>lie.",
+            "text": "...Exceto que tudo o que acabei de<n>dizer era\nmentira.",
             "choice_data_list": [
-                "What?! But I believed you!"
+                "O quê?! Mas eu acreditei em você!"
             ]
         },
         {
             "name": "Ikuno Dictus",
-            "text": "Hehe... I'm joking. What I told you<n>was all true."
+            "text": "Hehe... Estou brincando. O que lhe<n>disse era tudo\nverdade."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "However, it seems you need more<n>practice in\nbeing less gullible."
+            "text": "No entanto, parece que você precisa<n>de mais\nprática para ser menos<n>ingênuo."
         },
         {
             "name": "Monólogo",
-            "text": "Ikuno Dictus's stoicism belies a<n>hidden and\nunexpected sense of<n>humor. It'll take a great\ndeal of<n>practice to tell when she's joking."
+            "text": "O estoicismo de Ikuno Dictus esconde<n>um senso\nde humor inesperado.<n>Levará muita prática para\nsaber<n>quando ela está brincando."
         }
     ]
 }

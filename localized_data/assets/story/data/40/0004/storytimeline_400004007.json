@@ -1,0 +1,212 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Vou à loja de artigos esportivos fazer<n>algumas\ncompras e avisto duas<n>alunas da Tracen\nexaminando as<n>prateleiras."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uma delas é Little Cocon. Sempre fria<n>e com um\nar de cinismo, ela tem uma<n>língua um tanto\nafiada.",
+            "color_text_info_list": [
+                "Little Cocon"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "A outra é Bitter Glasse, uma<n>corredora altamente\ncompetitiva que<n>ostenta uma força sobrenatural\ne se<n>delicia com treinos pesados.",
+            "color_text_info_list": [
+                "Bitter Glasse"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ambas estão sob a tutela da minha<n>colega, a\nTreinadora Kashimoto.<n>Nunca considerei\nnenhuma delas<n>como sendo do tipo sociável, no\nentanto...",
+            "choice_data_list": [
+                "Olá."
+            ]
+        },
+        {
+            "name": "Little Cocon",
+            "text": "...Ah."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Ora, se não é o Treinador <username>!<n>Que\ncoincidência!",
+            "choice_data_list": [
+                "É raro ver vocês duas juntas nos seus dias de\nfolga.",
+                "É raro ver vocês duas juntas nos seus dias de\nfolga."
+            ]
+        },
+        {
+            "name": "Little Cocon",
+            "text": "...Isso não é da sua conta. E não<n>estamos de\namizade nem nada."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Calma, Little Cocon... Viemos aqui<n>hoje para\ntrocar informações."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Little Cocon se vira friamente<n>enquanto Bitter\nGlasse me explica a<n>situação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Elas estão compartilhando opiniões<n>sobre o\nequipamento que têm usado<n>para sugerir\nmelhores opções para a<n>Treinadora Kashimoto."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "Nós confiamos na Treinadora<n>Kashimoto, é claro.\nEla jamais<n>escolheria algo inadequado."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "Mas ela está constantemente<n>olhando\navaliações de sapatos,<n>roupas de ginástica e\ncoisas do tipo<n>por nossa causa."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Então achamos que seria legal se<n>pudéssemos\nfacilitar um pouco as<n>coisas para ela. Afinal,\nnosso terceiro<n>ano está chegando!",
+            "choice_data_list": [
+                "O terceiro ano de vocês..."
+            ]
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Sim. Nosso terceiro ano na Twinkle<n>Series,\nembora eu tenha certeza de<n>que você está bem\nciente disso."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "O último dos três anos mais<n>importantes na\ncarreira de uma<n>Umamusume."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Temos que focar totalmente no jogo.<n>Ah sim,\nestou ficando empolgada!"
+        },
+        {
+            "name": "Little Cocon",
+            "text": "E quanto a você? Tem mesmo tempo<n>para ficar\nde bobeira por aqui?",
+            "choice_data_list": [
+                "Eu?",
+                "Eu?"
+            ]
+        },
+        {
+            "name": "Little Cocon",
+            "text": "<i>Suspiro...</i> Se você relaxar demais,<n>vai acabar\nerrando. Isso vale para<n>você e sua parceira."
+        },
+        {
+            "name": "Little Cocon",
+            "text": "Já estamos indo."
+        },
+        {
+            "name": "Bitter Glasse",
+            "text": "Haha, bem, é isso! Diga um oi para a<n><chrname>\npor nós!",
+            "choice_data_list": [
+                "Terceiro ano, hein..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto reflito sobre o que as duas<n>disseram,\ndecido voltar para a<n>academia."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "<i>Arf, arf, arf...</i>"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Ufa..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Está tarde, e a única aluna que ainda<n>treina é\nHappy Meek, a aprendiz da<n>minha colega, a\nTreinadora Kiryuin."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Happy Meek nunca fala muito, e sua<n>expressão\nvazia faz parecer que ela<n>está sempre viajando,\nmas seu<n>vínculo com a Treinadora Kiryuin é\nprofundo.",
+            "choice_data_list": [
+                "Boa noite."
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Oh... Treinador <username>. Noite.",
+            "choice_data_list": [
+                "A Treinadora Kiryuin não está aqui com você?",
+                "A Treinadora Kiryuin não está aqui com você?"
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Ela está... enfurnada? Na sala dela.<n>Muito\nocupada."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Estou no intervalo por enquanto...<n>Mas não\nconsegui ficar parada sem<n>fazer nada.",
+            "choice_data_list": [
+                "E é por isso que você está treinando até esta\nhora?"
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Bem... minha treinadora está<n>\"enfurnada\" na sala\ndela..."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Ela está trabalhando duro para refinar<n>meu\nregime de treino do terceiro ano..."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Então...",
+            "choice_data_list": [
+                "Então?"
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Eu tenho que dar o meu melhor<n>também... Somos\nparceiras, afinal...",
+            "choice_data_list": [
+                "Entendo."
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Além disso... sua parceira estava<n>trabalhando\nduro também...",
+            "choice_data_list": [
+                "Hã?"
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Vou dar mais uma volta... Uhuu."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Algo no que a Happy Meek disse me<n>deixa\npensativo, então sigo para a<n>minha sala.",
+            "choice_data_list": [
+                "As luzes estão acesas..."
+            ]
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Além disso... sua parceira estava<n>trabalhando\nduro também..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Será que a <chrname> também está<n>tentando\nbolar um plano para o seu<n>terceiro ano?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Na minha sala, encontro...",
+            "choice_data_list": [
+                "<chrname>!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Passamos algum tempo juntos<n>discutindo vários\ntópicos."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Os eventos desta noite me ajudaram<n>a perceber\na força do meu vínculo<n>com a <chrname>!"
+        }
+    ]
+}

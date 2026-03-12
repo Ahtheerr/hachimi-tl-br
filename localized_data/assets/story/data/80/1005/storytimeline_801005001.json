@@ -2,78 +2,78 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "One day, at the park..."
+            "text": "Um certo dia, no parque..."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Oh, hey, you there. Can you be my<n>assistant for a\nmoment?",
+            "text": "Ora, olá. Poderia ser meu assistente<n>por um\nmomento?",
             "choice_data_list": [
-                "Your assistant? What for?"
+                "Seu assistente? Para quê?"
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "No need to be so on guard! I won't<n>bite. Now,\ncome with me!"
+            "text": "Não precisa ficar tão na defensiva! Eu<n>não\nmordo. Agora, venha comigo!"
         },
         {
             "name": "Monólogo",
-            "text": "Fuji Kiseki brings me to a girl who is<n>crying. I\nunderstand the reason for her<n>tears immediately\nwhen I see her<n>freshly scraped knees."
+            "text": "Fuji Kiseki me leva até uma garota<n>que está\nchorando. Entendo o motivo<n>das lágrimas dela\nimediatamente ao<n>ver seus joelhos\nrecém-ralados."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Apologies for the wait, my tearful<n>pony. Now the\nshow can begin. Don't<n>blink, or you might miss\nit!"
+            "text": "Perdão pela espera, minha pequena<n>pônei\nchorona. Agora o show pode<n>começar. Não\npisque, ou poderá<n>perder!"
         },
         {
-            "name": "Girl",
-            "text": "<i>Sniffle, sob...</i> Huh?"
+            "name": "Garota",
+            "text": "<i>Snif, snif...</i> Hein?"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Behold as I cast a spell on this coin.<n>One, two,\nthree—"
+            "text": "Observe enquanto lanço um feitiço<n>nesta moeda.\nUm, dois, três—"
         },
         {
             "name": "Monólogo",
-            "text": "At that moment, the coin disappears<n>from Fuji\nKiseki's hand."
+            "text": "Naquele momento, a moeda<n>desaparece da mão\nde Fuji Kiseki."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Your time has come, my lovely<n>assistant! Look\ninto your pocket and<n>tell me what you find!",
+            "text": "Sua hora chegou, meu adorável<n>assistente! Olhe\nem seu bolso e me<n>diga o que encontrou!",
             "choice_data_list": [
-                "You mean the pocket you slipped a coi—",
-                "Wow! A coin! What impressive magical powers!"
+                "Você quer dizer o bolso onde você colocou uma\nmo—",
+                "Uau! Uma moeda! Que poderes mágicos\nimpressionantes!"
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Shhh! I'm impressed that you noticed,<n>but you\ncan't reveal my secrets!"
+            "text": "Shhh! Fico impressionada que tenha<n>notado, mas\nvocê não pode revelar<n>meus segredos!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Besides, allaying the sweet girl's<n>tears is more\nimportant than<n>something as frivolous as that,\nright?"
+            "text": "Além disso, aliviar as lágrimas dessa<n>doce\ngarota é mais importante do que<n>algo fútil assim,\nnão é?"
         },
         {
-            "name": "Girl",
-            "text": "Wow! How'd it end up there?! More,<n>more!"
-        },
-        {
-            "name": "Fuji Kiseki",
-            "text": "Hehe! How could I possibly ignore<n>such adorable\ncries for an encore?<n>Very well! I will need you\nonce more,<n>my trusty assistant!"
+            "name": "Garota",
+            "text": "Uau! Como ela foi parar aí?! Mais,<n>mais!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Ahaha! \"Magical powers,\" you say! I<n>quite like\nthe sound of that!"
-        },
-        {
-            "name": "Girl",
-            "text": "Ooh, wow! Are you a magician, miss?"
+            "text": "Hehe! Como eu poderia ignorar<n>pedidos de bis\ntão adoráveis? Muito<n>bem! Vou precisar de você\nmais uma<n>vez, meu fiel assistente!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Hehe, indeed! And I can prove it!<n>Assistant! Go\nahead and see what's<n>in your other pocket."
+            "text": "Ahaha! \"Poderes mágicos\", você diz!<n>Gostei\nbastante de como isso soa!"
+        },
+        {
+            "name": "Garota",
+            "text": "Óóó, uau! Você é uma mágica, moça?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe, de fato! E eu posso provar!<n>Assistente! Vá\nem frente e veja o<n>que está no seu outro bolso."
         },
         {
             "name": "Monólogo",
-            "text": "And what is it I find in my other<n>pocket? Another\ncoin, of course."
+            "text": "E o que eu encontro no meu outro<n>bolso? Outra\nmoeda, é claro."
         }
     ]
 }

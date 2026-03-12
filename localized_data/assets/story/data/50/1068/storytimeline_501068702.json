@@ -1,0 +1,223 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "No caminho de volta para a academia,\nencontramos a Nice Nature, que<n>convida a mim e\nà Kitasan Black para<n>um mercado de pulgas no\ncentro<n>comercial."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "E aí? O que achou do melhor pão de<n>todo o\ncentro comercial?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hummm! Tá uma delícia! E essa<n>geleia de\ndamasco por cima eleva o<n>sabor a outro nível!"
+        },
+        {
+            "name": "Lojista A",
+            "text": "Não é? *Deveria* estar vendendo<n>que nem\nágua, mas..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Não dá pra vender nada sem ter pra<n>quem\nvender...",
+            "choice_data_list": [
+                "Agora que você falou, não tem muitos clientes\npor aqui."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "O mercado todo parece meio deserto...<n>mas por\nquê? As pessoas deveriam<n>estar vindo aos\nmontes com comidas<n>gostosas assim à venda!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ouvi dizer que está rolando um<n>grande evento\naqui perto, então todo<n>mundo deve ter ido para lá."
+        },
+        {
+            "name": "Lojista A",
+            "text": "Este mercado de pulgas deveria<n>promover o\nFestival de Gratidão que<n>o centro comercial vai\nfazer, mas<n>nesse ritmo, ninguém vai ficar\nsabendo."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ora, ora! Não precisa ficar tão<n>deprimido! Afinal,\nvocê tem duas<n>clientes bem satisfeitas bem aqui\nna<n>sua frente, não tem?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Bem... se estiver tudo bem para o<n>senhor, eu\ngostaria de ajudar!",
+            "choice_data_list": [
+                "Você tem algum plano?",
+                "Você tem algum plano?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Sim, e você vai ajudar! Ah, mas<n>primeiro, vamos\ncomprar mais pão e<n>geleia."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Certo! Agora temos que passar a<n>geleia no pão,\ne..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Aqui, Treinador! Vamos atacar!",
+            "choice_data_list": [
+                "Hã?!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Temos geleia de damasco, morango,<n>kiwi e\nmirtilo! Pode colocar o quanto<n>quiser!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Por qual você quer começar? Que tal<n>a boa e\nvelha geleia de morango?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Kitasan Black me passa uma fatia<n>de pão\ngenerosamente coberta com<n>geleia de morango,\nentão eu aceito e<n>dou uma mordida."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "O que achou?",
+            "choice_data_list": [
+                "D-delicioso!"
+            ]
+        },
+        {
+            "name": "Transeunte",
+            "text": "Isso parece muito gostoso... Estão<n>vendendo\nisso em algum evento aqui<n>perto ou algo assim?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Nós compramos ali naquele mercado<n>de pulgas!\nEles têm um monte de<n>comidas deliciosas e\npechinchas à<n>venda!"
+        },
+        {
+            "name": "Transeunte",
+            "text": "Nossa, sério? Eu não fazia ideia de<n>que estava\ntendo um mercado de<n>pulgas. Talvez a gente\ndevesse dar<n>uma olhadinha.",
+            "choice_data_list": [
+                "Conseguimos! Fisgamos um grupo de clientes!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Isso aí! Vamos manter o bom trabalho<n>e tentar\noutro lugar!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hum-hummm! Esse pão com geleia<n>de kiwi caiu\nsuper bem! Sinto todo o<n>cansaço saindo do meu\ncorpo!",
+            "choice_data_list": [
+                "O gostinho azedo no final também é ótimo!",
+                "O gostinho azedo no final também é ótimo!"
+            ]
+        },
+        {
+            "name": "Corredor",
+            "text": "Hum... de repente me deu uma fome."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ah, pode pegar uma fatia se quiser!<n>Estão\nvendendo logo ali no mercado<n>de pulgas!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Vozes, conversas... Murmúrios...</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nossa, tá vindo muito cliente! Como<n>você\nconseguiu atrair tanta gente tão<n>rápido, Kita?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hehe, a gente só se divertiu um<n>pouco! A\ncuriosidade fez o resto.",
+            "choice_data_list": [
+                "Como assim?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Mesmo quando você está ocupado<n>ou com\npressa para algum lugar, se<n>ouve pessoas se\ndivertindo,<n>naturalmente quer ver o que está\nacontecendo, né?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Você acaba se perguntando o que é<n>todo esse\nbarulho e vai dar uma<n>olhada. Quando percebe,\njá virou<n>parte do festival!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "As pessoas inevitavelmente se<n>deixam levar\npela animação, então<n>tudo o que temos que fazer\né<n>continuar nos divertindo e manter o<n>clima de\nfesta lá no alto!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nossa, só assim? Estamos<n>claramente\naprendendo com a mestre<n>aqui.",
+            "choice_data_list": [
+                "Então foi por isso que você estava agindo com\ntanta animação lá fora!",
+                "Então foi por isso que você estava agindo com\ntanta animação lá fora!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Sim! Mas é graças às lojas daqui<n>que eu\nconsegui animar tanto as<n>coisas!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "A personalidade acolhedora de todo<n>mundo e o\ncarinho que colocaram em<n>cada produto foi o que\ndeixou os<n>clientes tão empolgados!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hehe! Você caprichou nos elogios<n>agora."
+        },
+        {
+            "name": "Lojista A",
+            "text": "Mas você tem razão! A atmosfera<n>relaxada e\namigável do centro<n>comercial é o nosso ponto\nprincipal!"
+        },
+        {
+            "name": "Lojista B",
+            "text": "Assim que os clientes chegam, o<n>resto é com a\ngente!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Obrigada pela ajuda, vocês dois.<n>Tenho a\nsensação de que o festival<n>vai ser um sucesso!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Aqui! Fiquem com esse pão e geleia<n>gostosos\ncomo presente de<n>agradecimento!",
+            "choice_data_list": [
+                "Um presente chique para uma garota chique!",
+                "Um presente chique para uma garota chique!",
+                "Realmente foi divertido atrair clientes.",
+                "Realmente foi divertido atrair clientes."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Aqui! Fiquem com esse pão e geleia<n>gostosos\ncomo presente de<n>agradecimento!",
+            "choice_data_list": [
+                "Um presente chique para uma garota chique!",
+                "Um presente chique para uma garota chique!",
+                "Realmente foi divertido atrair clientes.",
+                "Realmente foi divertido atrair clientes."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Eu, chique?! Hehe, talvez isso seja<n>exagero..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Que isso, você é a nossa capitã super<n>estilosa!\nPode andar de cabeça<n>erguida!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ah, gente! Vou aceitar isso como um<n>elogio\nsincero, então! Haha!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "(Pai... será que eu consegui ficar um<n>passinho\nmais perto de ser como<n>você?)"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Foi mesmo! Você sabe bem do que<n>está falando,\nTreinador!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "E não é como se a gente não tivesse<n>ganhado\nnada com isso. Quero dizer,<n>foi muito divertido!"
+        }
+    ]
+}

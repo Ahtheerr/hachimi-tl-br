@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Silence Suzuka",
-            "text": "<i>Huff...</i> Não posso... Eu devia parar aqui..."
+            "text": "<i>Huff...</i> Não posso... Eu devia<n>parar aqui..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Mas eu... eu amo tanto... Já está me<n>chamando de volta..."
+            "text": "Mas eu... eu amo tanto... Já está me<n>chamando\nde volta..."
         },
         {
             "name": "Silence Suzuka",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "...Ok, uma pequena pausa e depois mais<n>uma volta.\nIsso não deve contar como<n>exagerar demais...\ncerto?"
+            "text": "...Ok, uma pequena pausa e depois<n>mais uma\nvolta. Isso não deve contar<n>como exagerar\ndemais... certo?"
         }
     ]
 }

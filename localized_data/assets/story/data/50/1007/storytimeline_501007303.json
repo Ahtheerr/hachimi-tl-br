@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Apesar do nervosismo antes da<n>corrida, as\npassadas da Gold Ship são<n>fortes e livres assim\nque começa!"
+            "text": "Apesar do nervosismo antes da<n>corrida, as\npassadas da Gold Ship<n>são fortes e livres assim\nque<n>começa!"
         },
         {
             "name": "Monólogo",
-            "text": "Este é um ótimo sinal para as<n>próximas corridas,\ne me deixa ainda<n>mais ansioso para ajudar a\nGold Ship<n>a definir um objetivo e manter o<n>\ncurso!",
+            "text": "Este é um ótimo sinal para as<n>próximas corridas,\ne me deixa ainda<n>mais ansioso para ajudar a\nGold Ship<n>a definir um objetivo e manter o\ncurso!",
             "choice_data_list": [
                 "Você foi ótima!",
                 "Você foi ótima!"
@@ -60,7 +60,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Qualquer coisa serve, desde que<n>seja quente!\n...Mas não tão quente<n>quanto um udon de curry\nsaindo direto<n>da panela."
+            "text": "Qualquer coisa serve, desde que<n>seja quente!\n...Mas não tão quente<n>quanto um udon de curry\nsaindo<n>direto da panela."
         },
         {
             "name": "Gold Ship",

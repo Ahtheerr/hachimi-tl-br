@@ -2,62 +2,62 @@
     "text_block_list": [
         {
             "name": "Treinadora Kiryuin",
-            "text": "<i>Inhale... exhale...</i>"
+            "text": "<i>Inspira... expira...</i>"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Okay! I can't stay like this forever! I<n>have to do\nsomething, or else nothing<n>will ever change!"
+            "text": "Certo! Não posso ficar assim para<n>sempre! Eu\ntenho que fazer algo,<n>senão nada vai mudar!"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "...But how do I begin?"
+            "text": "...Mas por onde eu começo?"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Ah, with a greeting, of course. \"Hey<n>there, Trainer\n<username>. Nice job<n>out—\"",
+            "text": "Ah, com uma saudação, claro. \"Olá,<n>Treinador\n<username>. Bom trabalho<n>lá—\"",
             "choice_data_list": [
-                "Hey there, Trainer Kiryuin!"
+                "Olá, Treinadora Kiryuin!"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Yes, like that. And next, I should—"
+            "text": "Sim, assim mesmo. E depois, eu<n>deveria—"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Wh-what?! Trainer <username>?!",
+            "text": "O-o quê?! Treinador <username>?!",
             "choice_data_list": [
-                "Were you looking for me?",
-                "Were you looking for me?"
+                "Estava me procurando?",
+                "Estava me procurando?"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Um... Well..."
+            "text": "Er... Bem..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "A-actually... Well, I was just<n>wondering..."
+            "text": "N-na verdade... Bem, eu estava<n>apenas\npensando..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "W-would you happen to have any<n>interest in\nkaraoke, perchance?!",
+            "text": "V-você por acaso teria algum<n>interesse em ir ao\nkaraokê, por<n>ventura?!",
             "choice_data_list": [
-                "I would, perchance!",
-                "Not really..."
+                "Teria, por ventura!",
+                "Na verdade não..."
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Oh! Really?!"
+            "text": "Oh! Sério?!"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Um... In that case, would you care to<n>join me\nnow?"
+            "text": "Er... Nesse caso, você gostaria de me\nacompanhar agora?"
         },
         {
             "name": "Monólogo",
-            "text": "Her suggestion is a bit sudden, but I<n>agree to go\nto karaoke with Trainer<n>Kiryuin."
+            "text": "A sugestão dela é um pouco<n>repentina, mas eu\naceito ir ao<n>karaokê com a Treinadora Kiryuin."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -65,68 +65,68 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Well... we're here.",
+            "text": "Bem... chegamos.",
             "choice_data_list": [
-                "Do you sing karaoke often?"
+                "Você costuma ir ao karaokê com frequência?"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "N-not really..."
+            "text": "N-na verdade não..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Honestly... I can't even remember<n>how many\nyears it's been since the<n>last time I went."
+            "text": "Sinceramente... eu nem consigo<n>lembrar há\nquantos anos foi a última<n>vez que eu fui."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "It was probably... when I was still in<n>preschool,\nmaybe?"
+            "text": "Foi provavelmente... quando eu ainda<n>estava no\njardim de infância, talvez?"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "I've entirely forgotten how this<n>works. Do we\nhave to call the staff to<n>request songs using this\nphone?",
+            "text": "Esqueci completamente como isso<n>funciona.\nTemos que ligar para a<n>recepção para pedir as\nmúsicas<n>usando este telefone?",
             "choice_data_list": [
-                "Actually, you use the tablet over there..."
+                "Na verdade, você usa o tablet ali..."
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Oh, I see..."
+            "text": "Oh, entendi..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Sorry for inviting you out like this so<n>suddenly!",
+            "text": "Desculpe por te convidar assim tão<n>de repente!",
             "choice_data_list": [
-                "Is something up?"
+                "Aconteceu alguma coisa?"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "A-actually..."
+            "text": "N-na verdade..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Hmmm... Oh, there you are. Hey,<n>Meek—"
+            "text": "Hmmm... Ah, aí está você. Ei, Meek—"
         },
         {
             "name": "Umamusume A",
-            "text": "What?! You don't hang out with your<n>trainer,\nMeek?"
+            "text": "O quê?! Você não sai com a sua<n>treinadora,\nMeek?"
         },
         {
             "name": "Happy Meek",
-            "text": "...Not really."
+            "text": "...Na verdade não."
         },
         {
             "name": "Umamusume A",
-            "text": "That's wild. My trainer and I go to the<n>arcade\ntogether all the time on my<n>days off!"
+            "text": "Que loucura. Eu e meu treinador<n>vamos ao\nfliperama o tempo todo nos<n>meus dias de folga!"
         },
         {
             "name": "Umamusume A",
-            "text": "My trainer likes playing video games.<n>She's\nsooo good at them. She's even<n>helped me get\nbetter!"
+            "text": "Minha treinadora adora jogar<n>videogame. Ela é\nmuiiiito boa neles.<n>Ela até me ajudou a melhorar!"
         },
         {
             "name": "Happy Meek",
-            "text": "Oh, really? That sounds fun..."
+            "text": "Ah, sério? Parece divertido..."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -134,86 +134,86 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "I'm embarrassed to say this, but... I<n>don't have\nany hobbies."
+            "text": "Tenho vergonha de dizer isso, mas...<n>eu não\ntenho nenhum hobby."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "I enjoy reading trainer textbooks,<n>adjusting\ntraining regimens, and<n>analyzing data. But those\nthings don't<n>count as hobbies..."
+            "text": "Eu gosto de ler manuais de<n>treinadores, ajustar\nregimes de treino<n>e analisar dados. Mas essas\ncoisas<n>não contam como hobbies..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "So there's nothing I can do for fun<n>with Meek!"
+            "text": "Então não há nada que eu possa<n>fazer para me\ndivertir com a Meek!"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "But I don't want her to always be<n>bored because\nof that!",
+            "text": "Mas não quero que ela esteja<n>sempre entediada\npor causa disso!",
             "choice_data_list": [
-                "So that's why you came up with the idea for\nkaraoke?"
+                "Então foi por isso que você teve a ideia do\nkaraokê?"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Yeah... I remembered my mom taking<n>me when I\nwas very young."
+            "text": "Sim... lembrei da minha mãe me<n>levando quando\neu era bem pequena."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "That was the last time I went, but I<n>thought if I\nstarted going more, I could<n>call it a hobby!"
+            "text": "Aquela foi a última vez que fui, mas<n>pensei que,\nse começasse a ir mais,<n>poderia chamar de\nhobby!"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "I never seem to do anything but<n>study... It's how\nI spent my whole<n>student life, and even now, I..."
+            "text": "Parece que nunca faço nada além de<n>estudar...\nFoi assim que passei minha<n>vida estudantil\ninteira, e mesmo<n>agora, eu..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "I don't know why I'm like this...",
+            "text": "Eu não sei por que sou assim...",
             "choice_data_list": [
-                "A-anyway, why don't we start singing?!"
+                "D-de qualquer forma, por que não começamos a\ncantar?!"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Ah... R-right, we should get started!"
+            "text": "Ah... C-certo, devemos começar!"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "If it's okay with you, I'll go first!"
+            "text": "Se estiver tudo bem para você, eu<n>vou primeiro!"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Twinkle, twinkle, little star! ♪ How I<n>wonder what\nyou are! ♪"
+            "text": "Brilha, brilha, estrelinha! ♪ Quero ver<n>você brilhar!\n♪"
         },
         {
             "name": "Monólogo",
-            "text": "Kiryuin may only know children's<n>songs, but her\nvoice is undeniably a<n>thing of beauty."
+            "text": "A Kiryuin pode só conhecer músicas<n>infantis,\nmas a voz dela é<n>inegavelmente algo belo."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "<i>Cough, cough...</i> Oh my, I think I<n>might be\nlosing my voice from all that<n>singing. Haha..."
+            "text": "<i>Cof, cof...</i> Nossa, acho que posso<n>estar\nperdendo a voz de tanto cantar.<n>Haha..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Thanks so much for accompanying<n>me today!",
+            "text": "Muito obrigada por me acompanhar<n>hoje!",
             "choice_data_list": [
-                "Anytime! It was fun!"
+                "Sempre que quiser! Foi divertido!"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Really?! That's... I'm glad to hear it!"
+            "text": "Sério?! Que... Fico feliz em ouvir isso!"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Um, Trainer <username>... If you<n>wouldn't mind..."
+            "text": "Er, Treinador <username>... Se você<n>não se\nimportasse..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Would you join me on my new<n>\"hobby\" again\nsometime?"
+            "text": "Você me acompanharia no meu novo<n>\"hobby\" de\nnovo em algum<n>momento?"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Only if it's not too much trouble, I<n>mean!",
+            "text": "Digo, apenas se não for muito<n>incômodo!",
             "choice_data_list": [
-                "I would love to!"
+                "Eu adoraria!"
             ]
         },
         {
@@ -222,31 +222,31 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Okay! I'm looking forward to it!"
+            "text": "Certo! Estou ansiosa por isso!"
         },
         {
             "name": "Monólogo",
-            "text": "Trainer Kiryuin looks to be in high<n>spirits as we\ntalk on the way back<n>home."
+            "text": "A Treinadora Kiryuin parece estar<n>muito animada\nenquanto<n>conversamos no caminho de volta."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Oh... I-I see..."
+            "text": "Oh... E-entendo..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Sorry for springing such a weird<n>question on you\nall of a sudden..."
+            "text": "Desculpe por lançar uma pergunta<n>tão estranha\nem você do nada..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Uh... Please forget I asked."
+            "text": "Er... Por favor, esqueça que eu<n>perguntei."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Anyway... see you later."
+            "text": "Enfim... vejo você depois."
         },
         {
             "name": "Monólogo",
-            "text": "Trainer Kiryuin takes her leave,<n>looking dejected."
+            "text": "A Treinadora Kiryuin se retira,<n>parecendo\ndesanimada."
         }
     ]
 }

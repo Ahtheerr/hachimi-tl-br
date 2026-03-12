@@ -1,1 +1,32 @@
-{}
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "<chrname> obteve<n><achievement_name>."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<achievement_info>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Certo dia, sou convocado pela<n>Diretora Akikawa."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Magnífico!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "O desempenho da <chrname> foi a<n>definição de\n<i>marcante!</i> E<n>encorajador!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Muito bem! Seus esforços incríveis\nestabeleceram um patamar para que<n>outras\nUmamusume possam almejar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Recebo palavras de elogio! Parece<n>que\nalcançamos um ótimo resultado!"
+        }
+    ]
+}

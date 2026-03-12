@@ -2,58 +2,58 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "One day, on the way home..."
+            "text": "Um dia, no caminho para casa..."
         },
         {
             "name": "King Halo",
-            "text": "Ohohoho! Lucky you! ♪ Rejoice, for I<n>grant you\nthe honor of socializing with<n>me!",
+            "text": "Ohohoho! Mas que sorte a sua! ♪<n>Alegre-se, pois\neu lhe concedo a<n>honra de socializar comigo!",
             "choice_data_list": [
-                "Whoa. Where'd you come from?",
-                "Whoa. Where'd you come from?"
+                "Opa. De onde você veio?",
+                "Opa. De onde você veio?"
             ]
         },
         {
             "name": "King Halo",
-            "text": "Whoa? Excuse you, I believe you<n>should be\nsaying \"thank you for the<n>honor.\""
+            "text": "Opa? Com licença, creio que você<n>deveria estar\ndizendo \"obrigada pela<n>honra\"."
         },
         {
             "name": "King Halo",
-            "text": "Now, as for the reason I'm here...<n>Your trainee is\nstill around, is she not?"
+            "text": "Agora, quanto ao motivo de eu estar<n>aqui... Sua\naprendiz ainda está por<n>perto, não está?"
         },
         {
             "name": "King Halo",
-            "text": "In that case, which would you prefer?<n>Partner\nrunning with me or practicing<n>King\nCommendation? I shall allow you<n>to choose.",
+            "text": "Nesse caso, o que você prefere?<n>Correr comigo\ncomo parceira ou<n>praticar a Recomendação da\nKing? Eu<n>permitirei que você escolha.",
             "choice_data_list": [
-                "What's \"King Commendation\"?"
+                "O que é a \"Recomendação da King\"?"
             ]
         },
         {
             "name": "King Halo",
-            "text": "Well, it's where you commend me for<n>my brilliant\nwonderfulness. You are to<n>continually praise me\nfor being such a<n>first-rate individual."
+            "text": "Bem, é onde você me recomenda por<n>minha\nmaravilhosidade brilhante.<n>Você deve me elogiar\ncontinuamente<n>por eu ser uma pessoa de\nprimeira<n>classe."
         },
         {
             "name": "Monólogo",
-            "text": "Getting roped into something as<n>mindless as that\nwill probably deal<n>quite a blow to our mental\nwell-being..."
+            "text": "Ser arrastado para algo tão fútil assim\nprovavelmente será um golpe e tanto<n>para o\nnosso bem-estar mental..."
         },
         {
             "name": "Monólogo",
-            "text": "Partner running would definitely<n>benefit\n<chrname>, but I'm worried she<n>doesn't have the\nstamina to run right<n>now.",
+            "text": "Correr em parceria com certeza<n>beneficiaria a\n<chrname>, mas me<n>preocupa que ela não tenha\nvigor<n>para correr agora.",
             "choice_data_list": [
-                "I'll take partner running.",
-                "I'll take King Commendation practice."
+                "Vou escolher a corrida em parceria.",
+                "Vou escolher a prática da Recomendação da King."
             ]
         },
         {
             "name": "King Halo",
-            "text": "Ohohoho! Not a bad choice at all!"
+            "text": "Ohohoho! Não é uma escolha nada<n>má!"
         },
         {
             "name": "Monólogo",
-            "text": "And so, we end up partner running<n>with King\nHalo."
+            "text": "E assim, acabamos correndo em<n>parceria com a\nKing Halo."
         },
         {
             "name": "King Halo",
-            "text": "Very well. Hehe, here we go! What's<n>my name?!"
+            "text": "Muito bem. Hehe, aqui vamos nós!<n>Qual é o meu\nnome?!"
         },
         {
             "name": "King Halo",
@@ -61,14 +61,14 @@
         },
         {
             "name": "King Halo",
-            "text": "It's \"King\"! You're supposed to yell<n>my name!",
+            "text": "É \"King\"! Você deveria gritar o meu<n>nome!",
             "choice_data_list": [
-                "Seriously?"
+                "É sério?"
             ]
         },
         {
             "name": "King Halo",
-            "text": "Hey! No back talk allowed! Put your<n>heart into it!"
+            "text": "Ei! Não admito respostas malcriadas!<n>Coloque o\ncoração nisso!"
         }
     ]
 }

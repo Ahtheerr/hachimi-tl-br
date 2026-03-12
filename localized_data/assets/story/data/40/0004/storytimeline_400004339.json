@@ -1,0 +1,211 @@
+{
+    "text_block_list": [
+        {
+            "name": "Umamusume A",
+            "text": "Olha, a Mr. C.B. e a Maruzensky<n>estão\nconversando!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Aposto que estão discutindo técnicas<n>de corrida\nde altíssimo nível!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A caminho do almoço, avisto duas<n>estudantes no\ncentro de uma<n>multidão. Estou observando\ndistraidamente quando, de repente..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Oh! Ei, você aí! Poderia vir aqui um<n>segundinho?",
+            "choice_data_list": [
+                "...Eu?",
+                "...Eu?"
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Você está livre para conversar?<n>Tenho uma\npergunta para você.",
+            "choice_data_list": [
+                "<i>Gole!</i>"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mr. C.B. tem um olhar severo no<n>rosto. Posso\ndizer que ela está<n>prestes a fazer uma pergunta\ncomplexa sobre corridas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Espero poder dar uma resposta<n>sofisticada o\nsuficiente para mostrar<n>que sou um treinador de\nrenome..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Como posso ficar melhor na cozinha?",
+            "choice_data_list": [
+                "...Hã? Cozinhar?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "C.B. veio me pedir conselhos sobre<n>morar\nsozinha."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Estou um pouco preocupada com ela.<n>E eu\nadoraria que ela se cuidasse<n>bem."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Você mora sozinho, né, Treinador?<n>Não tem\nnenhuma dica joia para dar?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Ahaha! Eu sou meio distraída, sabe!<n>Algumas\ndas coisas que eu faço<n>provavelmente fariam\nvocê dar boas<n>risadas!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Mas cozinhar é um trabalhão, né? Eu<n>sempre\nacabo fazendo pratos<n>simples como arroz frito."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Você não pode viver assim! O corpo<n>de uma\ncorredora é seu maior bem."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Aprendo que há mais na Mr. C.B. do<n>que eu\npensava. Embora eu me veja<n>querendo dar um\nmonte de<n>conselhos...",
+            "choice_data_list": [
+                "Eu provavelmente não sou a pessoa certa para\nperguntar sobre isso.",
+                "Eu provavelmente não sou a pessoa certa para\nperguntar sobre isso."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Hm? Sério?",
+            "choice_data_list": [
+                "Eu sempre deixo minha roupa acumular..."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Ugh, nem me fale!",
+            "choice_data_list": [
+                "E eu sempre adio a limpeza."
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Disso eu sei bem!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ahaha..."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Tenho preguiça de cozinhar toda<n>noite, então\napenas faço uma porção<n>enorme de curry com\nantecedência!",
+            "choice_data_list": [
+                "<i>Eu também!</i>"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Aquela máquina de lavar grandona no<n>dormitório\nquebra um galhão se você<n>tiver um monte de\nroupa para lavar.<n>Dá para lavar tudo de uma vez."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "E nunca guarde curry em temperatura<n>ambiente.\nEle estraga super rápido,<n>então certifique-se de\ncolocá-lo na<n>geladeira ou congelá-lo logo após\ncozinhar.",
+            "choice_data_list": [
+                "Você realmente entende tudo disso!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heh, acho que entendo um<n>pouquinho. ♪"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Caramba, morar sozinho faz você<n>valorizar o que\nseus pais faziam por<n>você, hein!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Ter alguém cozinhando três refeições<n>por dia\npara você é algo incrível<n>quando se para para\npensar.",
+            "choice_data_list": [
+                "Na verdade, você perguntou sobre cozinhar em\nprimeiro lugar, certo?",
+                "Na verdade, você perguntou sobre cozinhar em\nprimeiro lugar, certo?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ah, sim, eu quase tinha esquecido do<n>que se\ntratava tudo isso."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Ooh, você teve um estalo de<n>inspiração?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Minha conversa com Mr. C.B. pintou<n>um quadro\nclaro de um estilo de vida<n>descontraído e sem\nordens. O melhor<n>conselho para alguém como ela\nseria...",
+            "choice_data_list": [
+                "Acho que uma cozinha mais rústica combina\nperfeitamente com você.",
+                "Acho que uma cozinha mais rústica combina\nperfeitamente com você.",
+                "Desafie-se a preparar uma culinária criativa!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Minha conversa com Mr. C.B. pintou<n>um quadro\nclaro de um estilo de vida<n>descontraído e sem\nordens. O melhor<n>conselho para alguém como ela\nseria...",
+            "choice_data_list": [
+                "Acho que uma cozinha mais rústica combina\nperfeitamente com você.",
+                "Acho que uma cozinha mais rústica combina\nperfeitamente com você.",
+                "Desafie-se a preparar uma culinária criativa!"
+            ]
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Haha! Você com certeza sabe como<n>elogiar."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Isso mesmo. Afinal, eu sou a Mr. C.B.<n>Se me\npreocupar com os detalhes me<n>impedir de me\ndivertir, então não faz<n>sentido!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe, verdade. Diversão é<n>definitivamente o\nmelhor ingrediente."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Obrigada, vocês dois! Gostaria de<n>convidar\nambos para jantar para<n>mostrar minha gratidão.\nQue tal?",
+            "choice_data_list": [
+                "Eu adoraria!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Embora a abordagem da Mr. C.B.<n>para cozinhar\nseja inegavelmente<n>bruta, os resultados são\ndeliciosos."
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Algo criativo! Gostei do som disso!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hmm... Eu já cozinhei comida italiana<n>antes, por\nexemplo, mas é mó difícil.<n>Você está mesmo a\nfim disso?"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Bem, não tenho ideia de como isso<n>vai acabar,\nmas estou sempre pronta<n>para um desafio!"
+        },
+        {
+            "name": "Mr. C.B.",
+            "text": "Hora de aproveitar um pouco de<n>liberdade\ncriativa. Isso está ficando<n>emocionante!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, Mr. C.B. começa a trabalhar<n>em alguns\npratos originais."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela faz um mapo tofu super doce,<n>pizza com\nsabor de lámen e frutas<n>fritas..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nenhum dos pratos acaba ficando<n>muito bom,\nmas depois de ver o<n>quanto ela se divertiu\ncozinhando<n>tudo, não consigo evitar de me sentir\nfeliz também."
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "text_block_list": [
+        {
+            "name": "Gold Ship",
+            "text": "Bonjour! Comment allez-vous! É hora<n>de\ncomeçar a disputa sangrenta que<n>é o jogo de\nLobisomem!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Heh, parece divertido."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Gold Ship está organizando um jogo<n>de dedução\nsocial chamado<n>Lobisomem. Além dela e de\nNakayama Festa, os participantes<n>incluem..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sirius Symboli, El Condor Pasa..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "...Manhattan Cafe, Satono Diamond e,\ninexplicavelmente, eu também acabei<n>me\nenvolvendo nisso."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "As regras são simples! Temos que<n>descobrir os\nlobisomens escondidos<n>entre nós através de\numa discussão<n>racional. Sem briga de soco!\nEntenderam?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "As funções são divididas da seguinte<n>forma:\ndois lobisomens, um maníaco,<n>uma vidente, uma\nmédium e dois<n>aldeões. Eu sou um dos aldeões."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Então, sem mais delongas, que o<n>jogo comece!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Não tem muitos jogadores, então vou<n>logo\nrevelando que eu sou a vidente."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hã, já tentando enganar todo mundo,<n>Sirius? Eu\nsou a <i>verdadeira</i><n>vidente."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Heh heh. Olha só você, vindo pra cima<n>de mim\ncomo se não fosse nada. Vou<n>garantir que você\nse arrependa disso."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ei, agora, um de vocês é o<n>lobisomem? ...Espera,\nna verdade,<n>estou sentindo fortes vibrações de\nmaníaco aqui. Bem, vocês dois já<n>agem como\nmaníacos na vida real<n>mesmo, então quem sabe!"
+        },
+        {
+            "name": "Sirius e Nakayama",
+            "text": "Olha quem fala!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "..."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Ei, a El costuma ser super barulhenta.<n>Por que\nela está tão quieta?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Os lobisomens tendem a falar muito<n>pouco.\nAcredito que devíamos votar<n>para executar a El."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "¡¿Qué?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Assim começa o segundo dia... Meu<n>Deus! A\nheroína Golshi foi<n>tragicamente despedaçada por\num<n>lobisomem e agora está vigiando<n>vocês lá\ndos céus."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Minha adivinhação está me dizendo<n>que a\nManhattan Cafe é uma<n>lobisomem."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Bem, a <i>minha</i> adivinhação diz<n>que a Satono\nDiamond é uma<n>lobisomem."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hm... Dado o que eu sei, isso faz da<n>Nakayama a\nfalsa vidente, e a Cafe é<n>uma lobisomem."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Eu acredito... no oposto. A Satono é<n>uma\nlobisomem."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Bem, parece que esta discussão<n>chegou a um\nimpasse. No entanto,<n>essa é a verdadeira\nemoção deste<n>jogo. Hehe... Estou ficando\nbastante<n>animada."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Dado o estado das coisas, é provável<n>que Sirius\nSymboli e Satono Diamond<n>votem para executar\nManhattan<n>Cafe..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto Nakayama Festa e<n>Manhattan Cafe\nvotarão para<n>executar Satono Diamond."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Isso deixa o voto decisivo nas<n>minhas mãos! Eu\nvoto na Manhattan<n>Cafe ou na Satono Diamond?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Por favor, tente se lembrar, Treinador.<n>Quem foi\nque lançou suspeitas sobre<n>a El primeiro?",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Lembro agora. E parece que aquelas<n>suspeitas\nforam certeiras. O que<n>significa que...",
+            "choice_data_list": [
+                "Manhattan Cafe é a lobisomem!",
+                "...Satono Diamond é a lobisomem."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hora de anunciar o resultado! A<n>vitória vai para...\na equipe dos<n>lobisomens!",
+            "choice_data_list": [
+                "O quê?!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sirius Symboli foi quem identificou El<n>Condor\nPasa como uma lobisomem,<n>então ela é a vidente\nde verdade?!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Hahaha, desculpe por trair sua<n>confiança em\nmim, Treinador. Eu era<n>a maníaca, e entreguei a\nEl —<n>sacrifiquei minha aliada."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Ao desmascarar um dos lobisomens,<n>fiz parecer\nque eu era a verdadeira<n>vidente."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Haha! A maníaca sacrificando um<n>lobisomem?\nGostei. Você realmente<n>jogou a tática padrão\npela janela."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Isso deu mais credibilidade às<n>minhas\nafirmações como vidente. E<n>ei, vencemos no\nfinal, então está tudo<n>certo."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "¡Siriuuusss! ¡Muchas gracias!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Embora... você <i>tenha</i> me<n>executado logo no\nprimeiro dia."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Haha! Você foi a isca perfeita!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe, nós vencemos!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto ainda estou pasmo com o<n>quão\nprofundamente fui enganado,<n>não consigo deixar\nde ficar<n>impressionado com o quão<n>inteligentes\nforam as estratégias de<n>todos. Suas tramas\ncertamente<n>proporcionaram um momento\ndivertido."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Hora de anunciar o resultado! A<n>vitória vai para...\na equipe dos<n>aldeões!",
+            "choice_data_list": [
+                "Conseguimos!"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "<i>Suspiro...</i> Isso não saiu como eu<n>esperava."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sirius Symboli foi de fato a primeira a<n>lançar\nsuspeitas sobre El Condor<n>Pasa. No entanto,\npresumi que ela<n>estava sacrificando sua própria\naliada<n>com aquele estratagema."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Se ela fosse a maníaca ou uma<n>lobisomem,\nrevelar deliberadamente<n>um dos lobisomens\ntornaria suas<n>afirmações como \"vidente\" muito\nmais persuasivas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Concluí que era exatamente esse o<n>tipo de\nesquema astuto em que Sirius<n>Symboli apostaria\nsuas fichas."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Obrigada, Treinador. Seu julgamento<n>foi... muito\nbom."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Bom trabalho vendo através dos<n>truques da\nSirius. Nada mal, mesmo."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Eba! Uma vitória gloriosa para Golshi!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Não que eu tenha tido a chance de<n>realmente\nfazer algo, mas tudo bem!<n>Bando de... Não, a\nculpa foi toda<n><i>sua,</i> Satono! Não saia\ndevorando<n>a médium logo no primeiro dia, sua\ncretina!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "As coisas pareciam um pouco<n>arriscadas por um\nmomento, mas<n>consegui garantir a vitória para\nnós.<n>Realmente mergulhar em um jogo tão\nintenso certamente proporciona um<n>momento\ndivertido."
+        }
+    ]
+}

@@ -2,73 +2,73 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Just as I finish telling <chrname> to<n>take a break\nduring training..."
+            "text": "Assim que termino de dizer para o(a)<n><chrname>\nfazer uma pausa durante o<n>treino..."
         },
         {
             "name": "Super Creek",
-            "text": "Hello there!"
+            "text": "Olá!"
         },
         {
             "name": "Super Creek",
-            "text": "You two are doing such a great job.",
+            "text": "Vocês dois estão fazendo um ótimo<n>trabalho.",
             "choice_data_list": [
-                "Th-thanks?"
+                "O-obrigado?"
             ]
         },
         {
             "name": "Super Creek",
-            "text": "Hehe. Oops. I didn't mean to startle<n>you."
+            "text": "Hehe. Ops. Não foi minha intenção<n>assustar você."
         },
         {
             "name": "Super Creek",
-            "text": "I always get this urge to encourage<n>others when\nI see them working hard."
+            "text": "Sempre sinto essa vontade de<n>incentivar os\noutros quando os vejo<n>se esforçando."
         },
         {
             "name": "Super Creek",
-            "text": "Ah, right! Let me know if I can help<n>with anything,\nokay?",
+            "text": "Ah, verdade! Me avise se eu puder<n>ajudar com\nqualquer coisa, está<n>bem?",
             "choice_data_list": [
-                "We wouldn't want to bother you."
+                "Não gostaríamos de incomodá-la."
             ]
         },
         {
             "name": "Super Creek",
-            "text": "Don't be shy! ♪ Come on now, you<n>can ask me\nfor anything! ♪"
+            "text": "Não seja tímido! ♪ Vamos lá, você<n>pode me pedir\nqualquer coisa! ♪"
         },
         {
             "name": "Monólogo",
-            "text": "The overwhelming eagerness in<n>Super Creek's\neyes leaves me with<n>no choice but to oblige."
+            "text": "O entusiasmo avassalador nos olhos<n>da Super\nCreek não me deixa outra<n>escolha a não ser\naceitar."
         },
         {
             "name": "Monólogo",
-            "text": "I'll have to think of what I want to<n>ask her for\nfirst though...",
+            "text": "Mas primeiro terei que pensar no que<n>quero\npedir a ela...",
             "choice_data_list": [
-                "Could you give me some pointers on training?",
-                "Would you like to train with us?"
+                "Você poderia me dar algumas dicas de treino?",
+                "Você gostaria de treinar com a gente?"
             ]
         },
         {
             "name": "Super Creek",
-            "text": "Pointers? Hmm..."
+            "text": "Dicas? Hmm..."
         },
         {
             "name": "Super Creek",
-            "text": "I suppose I would suggest you go<n>easy on your\nracer every once in a<n>while."
+            "text": "Eu sugeriria que você pegasse leve<n>com sua\ncorredora de vez em<n>quando."
         },
         {
             "name": "Super Creek",
-            "text": "It's important to work hard, but she<n>won't be\nable to keep it up if you're<n>too strict on her."
+            "text": "É importante se esforçar, mas ela não\nconseguirá aguentar se você for<n>rigoroso demais\ncom ela."
         },
         {
             "name": "Super Creek",
-            "text": "Oh, I'd love to! ♪ If you don't mind,<n>let's follow\nmy training program."
+            "text": "Ah, eu adoraria! ♪ Se não se importar,<n>vamos\nseguir meu programa de<n>treino."
         },
         {
             "name": "Super Creek",
-            "text": "I'll go get the dumbbells!"
+            "text": "Vou buscar os halteres!"
         },
         {
             "name": "Monólogo",
-            "text": "We end up doing some super heavy<n>weight\ntraining with Super Creek."
+            "text": "Acabamos fazendo um treino de<n>musculação\npesadíssimo com a<n>Super Creek."
         }
     ]
 }

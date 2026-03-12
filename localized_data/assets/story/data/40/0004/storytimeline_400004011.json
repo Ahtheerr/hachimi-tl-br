@@ -1,0 +1,90 @@
+{
+    "text_block_list": [
+        {
+            "name": "Repórter Otonashi",
+            "text": "<username>! Tenho notícias incríveis<n>para\ncompartilhar!",
+            "choice_data_list": [
+                "Vamos ouvir."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Sabe, eu faço parte do júri do Prêmio<n>Melhor\nUmamusume, e—"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Toc, toc</i>"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Acabei de ouvir notícias excelentes<n>da URA. Você\njá deve ter recebido um<n>e-mail, mas achei\nmelhor avisar<n>pessoalmente de qualquer forma.",
+            "color_text_info_list": [
+                "URA"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "...Ah, mas vejo que você tem visita.<n>Peço\ndesculpas por entrar sem<n>avisar."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Imagina! Acho que estamos aqui pelo<n>mesmo\nmotivo!"
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Entendo. Nesse caso, dê uma olhada<n>nisto."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Abro a carta que ela me entrega."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Cara <chrname>, temos o prazer de<n>informar que\nvocê foi selecionada<n>como a Melhor\nUmamusume do Ano<n>Clássico deste ano.",
+            "choice_data_list": [
+                "Melhor Umamusume do Ano Clássico?!"
+            ],
+            "color_text_info_list": [
+                "Best Classic Year Umamusume"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Sim. O prêmio vai para a Umamusume\nconsiderada como a de melhor<n>desempenho\ngeral ao longo do ano."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Este não é um prêmio que qualquer<n>uma pode\nesperar ganhar. Em outras<n>palavras..."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Você foi soberba. Isso resume bem.<n>Como\ncolega desta academia, estou<n>orgulhosa."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Parabéns, de verdade."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Eu também gostaria de parabenizá-la!",
+            "choice_data_list": [
+                "Muito obrigado!"
+            ]
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Dito isto, a Twinkle Series está longe<n>de terminar."
+        },
+        {
+            "name": "Riko Kashimoto",
+            "text": "Mantenha o foco e continue com este<n>ímpeto ao\nentrar no ano sênior.",
+            "color_text_info_list": [
+                "senior year"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mais tarde, <chrname> e eu juramos<n>continuar\ntrabalhando duro no ano<n>que vem também."
+        }
+    ]
+}

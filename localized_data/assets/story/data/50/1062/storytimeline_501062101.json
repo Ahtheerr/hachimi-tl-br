@@ -1,0 +1,355 @@
+{
+    "text_block_list": [
+        {
+            "name": "Matikanetannhauser",
+            "text": "Feliz Ano Novo!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Feliz Ano Novo!"
+        },
+        {
+            "name": "Nature e Ikuno",
+            "text": "Feliz Ano Novo. Feliz Ano Novo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "É um novo ano, e a<n>Matikanetannhauser trouxe\nas<n>amigas dela pra passar um tempo na<n>minha\nsala."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Acontece que a gente fez mochi<n>juntas e eu\nqueria te dar um pouco!",
+            "choice_data_list": [
+                "Poxa, obrigado!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Que isso, magina! Ah, e também...<n>Ainda tá na\nsua sala?",
+            "choice_data_list": [
+                "Se o quê ainda tá na minha sala?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Você sabe o quê! O <i>kotatsu!</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Apresso-me em convidar as quatro<n>Umamusume\ncom frio para se<n>aquecerem sob o kotatsu na\nminha<n>sala."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Olha, Nature! Eu sou um caracol!",
+            "color_text_info_list": [
+                "Nature"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ei, para de brincadeira... Mas nossa,<n>isso aqui é\nmaravilhoso. Sinto minha<n>fadiga derretendo."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Né?! Não tem jeito melhor de passar<n>o Ano Novo\ndo que mandando ver<n>nuns mochis e umas\nlaranjas<n>embaixo do kotatsu."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Tannhauser, você não ia mostrar para<n>o seu\ntreinador aquilo que estávamos<n>discutindo?",
+            "choice_data_list": [
+                "Que coisa?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ah! Verdade! Dá uma olhada nisso,<n>Treinador. É\na <i>Mensal Twinkle</i><n>desse mês!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Tcharã! Olha só, meu nome tá escrito<n>bem aqui!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Olho para onde ela está apontando e,<n>com\ncerteza, o nome<n>\"Matikanetannhauser\" está\nescrito<n>em letras pequenas."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "É uma matéria sobre promessas!<n>Diz: \"A corrida\nme deu a impressão<n>de que ela poderia realizar\ngrandes<n>coisas.\""
+        },
+        {
+            "name": "Monólogo",
+            "text": "Dou uma olhada mais de perto,<n>achando que\nseria melhor ler com<n>cuidado já que ela trouxe a\nrevista<n>até aqui, quando...",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Bem no centro da página, vejo as<n>palavras\n\"Mihono Bourbon: A<n>Favorita para Campeã da\nTríplice<n>Coroa\" escritas muito maiores."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Mihono Bourbon tem estado sob os<n>holofotes já\ntem um tempo, mas...<n>Hm. Não imaginava que as\nexpectativas estavam tão altas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O tamanho de uma manchete indica o<n>nível de\ninteresse e o sentimento<n>público atual. Ver isso\nenervaria<n>qualquer pessoa propensa a se\npreocupar com esse tipo de coisa.",
+            "choice_data_list": [
+                "Mas a Tannhauser é..."
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Você tem razão. A Tannhauser é—"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ah, uau, eles escreveram sobre a<n>Bourbon\ntambém! Favorita pra<n>Tríplice Coroa? Que\nincrível!",
+            "color_text_info_list": [
+                "Bourbon"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ela trabalha tão duro todo dia,<n>entendo por que o\npessoal tem tanta<n>esperança nela. Ela tá sempre\nsubindo e descendo aquela rampa..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Bom, eu vou ter que dar o meu<n>máximo também!\nÉ isso, vou tentar<n>ser a campeã da Tríplice\nCoroa!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "...Ah, desculpa. Eu interrompi vocês<n>duas, né?",
+            "choice_data_list": [
+                "Não, não era nada importante."
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hehe. Eu vou estar torcendo por você<n>das\narquibancadas. Continue<n>exatamente do jeito\nque está neste<n>ano."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Algumas horas depois..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "É hora do nosso primeiríssimo e<n>empolgante\nTorneio da Sorte de Ano<n>Novo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "De alguma forma, todo mundo<n>acabou jogando\njogos de Ano Novo."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Então, este torneio vai ter três<n>eventos! O\nprimeiro é o \"Confronto<n>Persistente de\nKendama\", onde quem<n>der a volta ao mundo com\na bola<n>primeiro ganha!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "O próximo é o \"Confronto de Pipa<n>Correndo\",\nonde a pessoa que<n>empinar a pipa mais alto\nganha!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "E, por fim, temos o \"Confronto<n>Fukuwarai de\nQuem Rir Perde!\"<n>Arranje as partes do rosto do\nmelhor<n>jeito para ganhar!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Quanto a qual jogo vem primeiro, isso<n>fica por\nconta do dono desta sala — o<n>Treinador!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Acho que o primeiro que eu quero<n>tentar é...",
+            "choice_data_list": [
+                "O \"Confronto de Pipa Correndo\"!",
+                "O \"Confronto Persistente de Kendama\"!",
+                "O \"Confronto Fukuwarai de Quem Rir Perde\"!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ótima escolha! Na verdade, eu já<n>escolhi um\nlugar bem espaçoso e<n>perfeito pra esse jogo!\nRufem os<n>tambores, por favor..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Perto do viaduto!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Este parece ser um local adequado.<n>Não há\noutras pessoas por perto, e<n>nenhum poste de luz\nà vista."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hehe! Então vamo começar essa<n>partida! O\nTreinador é o juiz!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Motor da Turbo... ativado!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nossa, tá bem alto! Nada mal, Turbo!",
+            "color_text_info_list": [
+                "Turbo"
+            ]
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Hehehe! Eu consigo ir ainda mais<n>rápido que\nisso! Rrraaagh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Plaf!</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Incapaz de suportar uma aceleração<n>tão intensa,\na linha da pipa arrebenta,<n>e a pipa em si\ndesaparece de vista<n>quase instantaneamente."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Aaagh! Minha pipa!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ih, rapaz. Isso tá... bem longe."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ei, se a gente considerar só a altura,<n>a Turbo é a\nvencedora, né?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Suponho que sim. Assumindo que ela<n>não foi\ndesclassificada, é claro.",
+            "choice_data_list": [
+                "...A Turbo venceu!"
+            ]
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Eu ganhei?! Iruuuul! Issssso!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ehehe, mandou bem!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "À medida que nosso dia de diversão<n>chega ao\nfim, abrem-se as cortinas<n>para o segundo ano na\nTwinkle<n>Series."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Uuh, bela escolha! Na verdade, eu<n>tenho\npraticado um pouco<n>recentemente!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Dar a volta ao mundo significa pegar<n>a bola no\ncopo pequeno, depois no<n>grande, aí no médio e,\npor fim, na<n>ponta!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Todo mundo pronto? E... vai!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Opa, hah... Gah!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Arrrgh! Eu tava quase lá!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O som de madeira batendo ecoa por<n>toda a\nminha sala."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E a noite cai..."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Essa tarefa é... muito mais difícil do<n>que eu havia\nantecipado."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Não esquenta! Ainda não acabou!"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Grr! Eu também aguento continuar!",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Uh, minha mão tá começando a doer."
+        },
+        {
+            "name": "Monólogo",
+            "text": "À medida que nosso dia de diversão<n>chega ao\nfim, abrem-se as cortinas<n>para o segundo ano na\nTwinkle<n>Series."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Boa! Na verdade, eu preparei um<n>conjunto\nfukuwarai superespecial!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto ela diz isso, pega um nariz,<n>olhos e\noutras características faciais<n>de papel, além de\numa folha de papel<n>com o contorno do..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Eu fiz um conjunto baseado no rosto<n>do\nTreinador!",
+            "choice_data_list": [
+                "?!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ehehe, eu sou a pessoa que mais<n>olha pro rosto\ndo Treinador, então<n>isso aqui tá no papo!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Na verdade, não tem como eu perder!<n>Vamo\nnessa!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hmmm, essa é... a boca?"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Hehehe. Você errou, Machitan!",
+            "color_text_info_list": [
+                "Machitan"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "O quê?! Sério?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Bico fechado, Turbo! Não ajuda ela!",
+            "color_text_info_list": [
+                "Turbo"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Depois de mais algumas mexidas, o<n>resultado\né..."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "O nariz está no lugar correto, mas a<n>boca está\nerrada. Você recebe<n>setenta e cinco pontos!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Gyah! Eu não consegui nota máxima!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Me desculpa, Treinador! Como eu<n>errei isso?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "À medida que nosso dia de diversão<n>chega ao\nfim, abrem-se as cortinas<n>para o segundo ano na\nTwinkle<n>Series."
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Hoje, estou em um parque de<n>diversões para\nparticipar de um<n>evento por tempo limitado para o\nqual<n>a Kitasan Black me convidou."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "É um labirinto gigante, e pelo visto,<n>quem está do\nlado de fora pode guiar<n>os participantes pelo\ncaminho certo!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Além disso, ouvi dizer ontem que, se<n>você\nconseguir sair, ganha uma<n>medalha em\nreconhecimento pelo seu<n>suces—"
+        },
+        {
+            "name": "???",
+            "text": "Bakushin, Bakushiiiiin!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hã? Acho que conheço essa voz..."
+        },
+        {
+            "name": "???",
+            "text": "Ah, não! Outro beco sem saída?!<n>Esse labirinto é\nmesmo um osso duro<n>de roer!"
+        },
+        {
+            "name": "???",
+            "text": "No entanto, eu não vou desistir! Como<n>presidente\nde classe, eu, Sakura<n>Bakushin O, devo servir de\nexemplo<n>para todos os outros!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Eu sabia! A Bakushin O também veio<n>pelo\nlabirinto!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Na verdade, foi a Bakushin O quem<n>me falou da\nmedalha! Ela parece<n>estar bem empolgada!"
+        },
+        {
+            "name": "Funcionário do Parque de Diversões",
+            "text": "Ela estar empolgada é ótimo, mas<n>tenho que\ndizer, estou começando a<n>ficar preocupado com\nela."
+        },
+        {
+            "name": "Funcionário do Parque de Diversões",
+            "text": "Por acaso vocês a conhecem? Ela<n>está vagando\npor ali desde hoje de<n>manhã.",
+            "choice_data_list": [
+                "Desde hoje de manhã?!"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "I-isso não é bom! Temos que correr e<n>guiá-la até\na saída!"
+        },
+        {
+            "name": "Funcionário do Parque de Diversões",
+            "text": "Nós tentamos fazer isso várias<n>vezes, mas ela\nestá tão concentrada<n>em correr de um lado para\no outro<n>que não ouve nada do que dizemos."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Não se preocupe! Deixa comigo!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Bakushiiin O!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hã?! Quem ousa chamar a mim, a<n>presidente de\nclasse?!",
+            "choice_data_list": [
+                "(Ela respondeu mesmo!)"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Sou eu! Kitasan Black! Vou te guiar<n>até a saída,\nentão, por favor, siga as<n>minhas instruções!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hahaha! Eu consegui! Ganhei uma<n>medalha de\nmérito!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "E você, minha querida assistente da<n>presidente\nde classe em treinamento,<n>fez um ótimo trabalho\nme ajudando!<n>Ganhou nota dez pelo esforço!",
+            "choice_data_list": [
+                "O que é uma assistente da presidente de classe\nem treinamento?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Como o título sugere, ela está em<n>treinamento\npara assumir o papel<n>crucial de auxiliar a\npresidente de<n>classe!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ahaha! É que eu acompanho a<n>Bakushin O em\nmuitos passeios, e..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Entendi! Então este é o caminho<n>certo, não é?\nMuito obrigada!<n>BAKUSHIIIN!"
+        },
+        {
+            "name": "Transeunte A",
+            "text": "O quê?! Aquele é o caminho errado!<n>Ei! Ela já\nparou de ouvir?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "BAKUSHIN O! NÃO É POR AÍ! VOLTA<n>AQUI!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hum? Tive a impressão de ter ouvido<n>a Kita me\nchamando!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Bakushiiin O! O seu lenço! Essa<n>menina pegou\npara você!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Oh! Quando foi que eu vim parar tão<n>longe?\nMinha Bakushin é incrível<n>demais!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Por algum motivo, parece que a minha<n>voz\nrealmente consegue alcançar a<n>Bakushin O."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Fui designada como assistente dela<n>porque, pelo\nvisto, sou perfeita para o<n>cargo.",
+            "choice_data_list": [
+                "Talvez seja porque você soa como alguém que\nela conhece.",
+                "Talvez sua experiência cantando enka tenha\ndeixado sua voz mais forte."
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hum... Agora que você mencionou, a<n>voz dela me\ntraz uma certa nostalgia..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "De fato, sinto que já ouvi a voz dela<n>em algum\nlugar antes... mas enfim!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Com a Kita ao meu lado, me sinto<n>ainda mais\nconfiante em minhas<n>habilidades como\npresidente de<n>classe! Por isso, conto com você\npara<n>continuar me auxiliando, ok?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Certo! Pode contar comigo!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Muito bem, agora que eu mostrei<n>como se faz, é\na sua vez de encarar<n>o labirinto!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Como presidente de classe, eu<n>pessoalmente\nvou guiar vocês! Não<n>hesitem em me pedir\najuda!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Kitasan Black e eu conseguimos<n>aproveitar o\nlabirinto gigante graças<n>às orientações\nentusiasmadas, e<n>ocasionalmente equivocadas,\nda<n>Sakura Bakushin O."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "É, talvez! Sua voz é tão cheia de um<n>espírito enka\ngenuíno que realmente<n>ressoa no meu coração\nBakushin,<n>Kita!",
+            "choice_data_list": [
+                "Como ressoa em você, exatamente?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Basicamente... assim!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "BAKUSHIIIINNN! ♪"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Nossa, esse melisma foi incrível!<n>Espera, deixa\neu tentar também..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "BAKUSHIIIINNN! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não tenho certeza se \"cantar\" é a<n>melhor palavra\npara descrever o que<n>elas estão fazendo com as\nvozes,<n>mas a Kitasan Black e a Sakura\nBakushin O parecem estar se<n>divertindo."
+        }
+    ]
+}

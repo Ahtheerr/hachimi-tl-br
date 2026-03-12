@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "É o dia seguinte ao Tracen Meet. Pela<n>primeira vez na vida,\na Vodka não<n>aparece para o treino."
+            "text": "É o dia seguinte ao Tracen Meet. Pela<n>primeira vez na vida, a Vodka não<n>aparece para o treino."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ah, ei, você é o treinador da Vodka,<n>né? Não me diga... ela\nnão apareceu?",
+            "text": "Ah, ei, você é o treinador da Vodka,<n>né? Não me diga... ela não apareceu?",
             "choice_data_list": [
                 "Você sabe onde ela pode estar?",
                 "Você sabe onde ela pode estar?"
@@ -14,7 +14,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hum, ela provavelmente está na beira<n>do rio. Desde que ela\nleu um certo<n>mangá, ela cismou que \"se for para<n>ficar\nremoendo, tem que ser na beira<n>de um rio.\""
+            "text": "Hum, ela provavelmente está na beira<n>do rio. Desde que ela leu um certo<n>mangá, ela cismou que \"se for para<n>ficar remoendo, tem que ser na beira<n>de um rio.\""
         },
         {
             "name": "Daiwa Scarlet",
@@ -22,11 +22,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Eu posso ter minhas queixas sobre<n>ela, mas não me sinto\neu mesma<n>quando ela não está por perto...<n>Então, por\nfavor, traga ela de volta."
+            "text": "Eu posso ter minhas queixas sobre<n>ela, mas não me sinto eu mesma<n>quando ela não está por perto...<n>Então, por favor, traga ela de volta."
         },
         {
             "name": "Monólogo",
-            "text": "Após agradecer a Daiwa Scarlet, eu<n>me apresso para a\nbeira do rio."
+            "text": "Após agradecer a Daiwa Scarlet, eu<n>me apresso para a beira do rio."
         },
         {
             "name": "Vodka",
@@ -40,7 +40,8 @@
             "name": "Vodka",
             "text": "Aff, eu já sei disso. Vou gazear hoje<n>— e ponto final!",
             "choice_data_list": [
-                "Você não disse que gazear o treino era patético?\n| Você não disse que gazear o treino era\npatético?"
+                "Você não disse que gazear o treino era patético?",
+                "Você não disse que gazear o treino era patético?"
             ]
         },
         {
@@ -57,11 +58,11 @@
         },
         {
             "name": "Vodka",
-            "text": "Eu achei que eu tinha o que era<n>preciso. Eu estava\nrealmente dando<n>tudo de mim — eu ia ser a estrela em<n>\nascensão que derrotaria a Narita<n>Brian!"
+            "text": "Eu achei que eu tinha o que era<n>preciso. Eu estava realmente dando<n>tudo de mim — eu ia ser a estrela em<n>ascensão que derrotaria a Narita<n>Brian!"
         },
         {
             "name": "Vodka",
-            "text": "Mas... quando começamos a correr<n>de verdade, eu pude\nsentir o abismo<n>entre nós. Senti que ia desmaiar no<n>meio\ndo caminho!"
+            "text": "Mas... quando começamos a correr<n>de verdade, eu pude sentir o abismo<n>entre nós. Senti que ia desmaiar no<n>meio do caminho!"
         },
         {
             "name": "Vodka",
@@ -69,7 +70,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Mas aquelas corredoras que cresci<n>assistindo... as do\nDerby — nem uma<n>sequer desistiu alguma vez!",
+            "text": "Mas aquelas corredoras que cresci<n>assistindo... as do Derby — nem uma<n>sequer desistiu alguma vez!",
             "choice_data_list": [
                 "Vodka..."
             ]
@@ -80,19 +81,19 @@
         },
         {
             "name": "Vodka",
-            "text": "Se eu sou assim antes da estreia,<n>então como é que eu vou\nser estilosa<n>algum dia?!"
+            "text": "Se eu sou assim antes da estreia,<n>então como é que eu vou ser estilosa<n>algum dia?!"
         },
         {
             "name": "Monólogo",
-            "text": "É óbvio que a Vodka está perdendo a<n>confiança. Como\nposso animá-la?"
+            "text": "É óbvio que a Vodka está perdendo a<n>confiança. Como posso animá-la?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Eu posso ter minhas queixas sobre<n>ela, mas não me sinto\neu mesma<n>quando ela não está por perto...<n>Então, por\nfavor, traga ela de volta."
+            "text": "Eu posso ter minhas queixas sobre<n>ela, mas não me sinto eu mesma<n>quando ela não está por perto...<n>Então, por favor, traga ela de volta."
         },
         {
             "name": "Monólogo",
-            "text": "Pensando bem, por que a Daiwa<n>Scarlet me disse aquilo?\nTalvez ela<n>quisesse dizer algo para a Vodka...",
+            "text": "Pensando bem, por que a Daiwa<n>Scarlet me disse aquilo? Talvez ela<n>quisesse dizer algo para a Vodka...",
             "choice_data_list": [
                 "Vamos voltar para a pista por enquanto, Vodka."
             ]
@@ -115,19 +116,19 @@
         },
         {
             "name": "Vodka",
-            "text": "Por que você está aqui? Você me<n>disse que queria dar um\ntempo depois<n>do Meet."
+            "text": "Por que você está aqui? Você me<n>disse que queria dar um tempo<n>depois do Meet."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hmph. Eu mudei meu cronograma.<n>Algum problema com\nisso?"
+            "text": "Hmph. Eu mudei meu cronograma.<n>Algum problema com isso?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "É tudo porque uma certa boba decidiu<n>enfrentar as\nfiguronas... E apesar do<n>ritmo alucinante da oponente, ela<n>\nacompanhou muito bem."
+            "text": "É tudo porque uma certa boba decidiu<n>enfrentar as figuronas... E apesar do<n>ritmo alucinante da oponente, ela<n>acompanhou muito bem."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "E ela até acelerou nas retas... Me fez<n>pensar: \"Eu não\nposso me deixar<n>ficar para trás.\""
+            "text": "E ela até acelerou nas retas... Me fez<n>pensar: \"Eu não posso me deixar<n>ficar para trás.\""
         },
         {
             "name": "Vodka",
@@ -139,7 +140,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Que diabos ela está falando? Me<n>admirando desse jeito...\nEnquanto<n>isso, eu... eu estou aqui sendo super<n>patética!",
+            "text": "Que diabos ela está falando? Me<n>admirando desse jeito... Enquanto<n>isso, eu... eu estou aqui sendo super<n>patética!",
             "choice_data_list": [
                 "Isso não muda o fato de que você tentou. Isso\njá é estiloso.",
                 "Isso não muda o fato de que você tentou. Isso\njá é estiloso."
@@ -187,7 +188,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Não esquenta com detalhes! Vamos, é<n>só uma volta!\nPronta? Lá vou eu!"
+            "text": "Não esquenta com detalhes! Vamos, é<n>só uma volta! Pronta? Lá vou eu!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -207,7 +208,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Vodka decidiu desafiar Narita Brian<n>para uma revanche\nindividual!"
+            "text": "Vodka decidiu desafiar Narita Brian<n>para uma revanche individual!"
         },
         {
             "name": "Narita Brian",
@@ -219,7 +220,7 @@
         },
         {
             "name": "Vodka",
-            "text": "(Caaaaraaaamba! Ela é rápida! Como<n>diabos eu vou\nalcançar ela?)"
+            "text": "(Caaaaraaaamba! Ela é rápida! Como<n>diabos eu vou alcançar ela?)"
         },
         {
             "name": "Vodka",
@@ -247,7 +248,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Apesar da diferença esmagadora de<n>habilidade, Vodka\nreúne cada gota de<n>sua força para perseguir a formidável<n>\n\"fera\"."
+            "text": "Apesar da diferença esmagadora de<n>habilidade, Vodka reúne cada gota de<n>sua força para perseguir a formidável<n>\"fera\"."
         },
         {
             "name": "Narita Brian",
@@ -267,7 +268,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Vou ser ainda mais estilosa de agora<n>em diante, então olhe\ncom atenção —<n>porque você não vai querer perder!"
+            "text": "Vou ser ainda mais estilosa de agora<n>em diante, então olhe com atenção —<n>porque você não vai querer perder!"
         }
     ]
 }

@@ -1,0 +1,44 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Um dia, enquanto passeava com a\nMatikanetannhauser..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ah! Olha, Treinador! Tem as Cuties!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Matikanetannhauser aponta para<n>uma máquina\nde garra cheia de<n>pelúcias de Umamusume."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Elas não são adoráveis? Só de ver<n>já me dá\nvontade de ter uma!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ah, mas eu já decidi que hoje eu<n>quero pegar\numa aranha de pelúcia,<n>então vou ter que ser\npaciente...",
+            "choice_data_list": [
+                "Por que eu não pego uma pra você?",
+                "Por que eu não pego uma pra você?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ohh! Oh, oh, oh! Tem certeza?!",
+            "choice_data_list": [
+                "Deixe comigo!",
+                "Deixe comigo!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ehehe, obrigada! Boa sorte,<n>Treinador!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não tem como eu falhar agora!"
+        }
+    ]
+}

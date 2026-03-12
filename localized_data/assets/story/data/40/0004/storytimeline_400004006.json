@@ -1,0 +1,310 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Termino de escoltar <chrname> de<n>volta aos\ndormitórios após o treino<n>quando, de repente..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Murmúrio... Murmúrio...</i>",
+            "choice_data_list": [
+                "(...Confusão no portão da academia?)"
+            ]
+        },
+        {
+            "name": "Repórter A",
+            "text": "Só um pouquinho de informação já<n>serve! Por\nfavor, permita-nos<n>corroborar esta história!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "S-Sinto muito, mas não! Vocês estão\nincomodando nossas alunas, então<n>eu\nagradeceria se saíssem da área!",
+            "choice_data_list": [
+                "O que está acontecendo, Tazuna?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "T-Treinador?! Oh não, você não deve<n>aparecer!"
+        },
+        {
+            "name": "Repórter B",
+            "text": "Ei, não é aquele o treinador em<n>questão?"
+        },
+        {
+            "name": "Repórter B",
+            "text": "Com licença! Você seria o Treinador<n><username>?",
+            "choice_data_list": [
+                "Isso mesmo..."
+            ]
+        },
+        {
+            "name": "Repórter B",
+            "text": "Os boatos são verdadeiros?! Você<n>está forçando\nsua aprendiz a passar<n>por um treino brutal?!",
+            "choice_data_list": [
+                "O quê?!"
+            ]
+        },
+        {
+            "name": "Repórter B",
+            "text": "Dizem que você a faz correr até tarde<n>da noite\ntodos os dias, ou a faz<n>sentar em cima de uma\npedra por<n>três dias seguidos, ou a faz dar\nvoltas andando de bananeira.",
+            "choice_data_list": [
+                "Nada disso é verdade!"
+            ]
+        },
+        {
+            "name": "Repórter B",
+            "text": "Mas já publicaram uma notícia sobre<n>isso!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "O tempo todo eu estive tentando dizer<n>a todos\nque esse artigo não passa de<n>calúnia!"
+        },
+        {
+            "name": "Repórter C",
+            "text": "Então você afirma que tudo é<n>mentira? Este\nassunto envolve a<n>própria reputação da\nAcademia<n>Tracen!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Moderação! Peço moderação!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Primeiro, permitam-me rejeitar essas<n>alegações!\nCategoricamente!<n><i>Ninguém</i> nesta academia\njamais<n>sujeitaria nossas amadas alunas a<n>tal\nsofrimento!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Além disso! A academia fará uma<n>declaração\noficial sobre este assunto<n>no devido tempo!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Todos os membros da mídia, eu<n>suplico! Por\nfavor, tenham paciência<n>por enquanto!"
+        },
+        {
+            "name": "Repórter B",
+            "text": "...Muito bem. Mas da próxima vez<n>você terá que\nnos conceder uma<n>entrevista."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Felizmente, as palavras da Diretora<n>Akikawa\nconseguem convencer os<n>repórteres\nabertamente descontentes<n>a irem embora."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mais tarde, realizamos uma reunião<n>na sala da\ndiretora sobre o assunto.<n>De acordo com a\nRepórter Otonashi..."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "...Essencialmente, nosso foco em<n>conseguir a\ncooperação do máximo<n>de veículos de mídia\npossível fez com<n>que nosso controle de\nqualidade<n>ficasse para trás."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "E agora, devido àquele artigo<n>fabricado que está\ncirculando, a<n>reputação do Treinador <username>\nfoi posta em dúvida."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Sinto muitíssimo!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Perdão! A responsabilidade não é<n>apenas sua,\nSenhorita Otonashi!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Isso mesmo. O verdadeiro culpado é<n>o indivíduo\nque escreveu aquele<n>artigo estranho em primeiro\nlugar!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Exato! Não será fácil conter os fatos<n>novamente,\ndado o quanto a situação<n>escalou."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Uma vez que um mal-entendido<n>ganha o mundo,\né quase impossível<n>eliminá-lo de vez..."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "De fato. Mas, da perspectiva da<n>academia, é\nimperativo que<n>garantamos a segurança de\nnossas<n>alunas!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Com isso em mente, talvez seja<n>melhor\nsuspender temporariamente o<n>acesso da mídia à\nacademia."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Hã?! Por favor, espere um momento!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Não há desculpas para este incidente.<n><i>Eu</i>\npermiti que as coisas<n>saíssem do controle!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Mas simplesmente não podemos<n>fazer a\nTwinkle Star Climax acontecer<n>sem a cooperação\nde vocês!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Não pretendemos cortar os laços com<n>o evento\ncompletamente, é claro!<n>Mas devemos reduzir a\ncobertura<n>jornalística até que o sentimento do\npúblico se acalme."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Até que as coisas se acalmem? Você<n>quer dizer\nquando o evento tiver sido<n>completamente\nesquecido por todos?!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Ngh!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Naturalmente, o repórter e o veículo<n>de mídia\nresponsáveis por aquele<n>artigo calunioso não\nterão mais<n>qualquer envolvimento com as\ncorridas!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Estou ciente de que este é um pedido<n>egoísta!\nMas vocês poderiam, por<n>favor, permitir que a\ncobertura<n>jornalística continue normalmente?",
+            "choice_data_list": [
+                "Por que você é tão insistente com isso?"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Não quero que este incidente<n>desanime a\nempolgação em torno da<n>Twinkle Star Climax."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Esta corrida é para <i>todas</i> as<n>Umamusume\nque possuem as<n>habilidades dignas de serem\nchamadas de \"as maiores\"."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Uma chance para todas aquelas<n>corredoras\ntalentosas que, por algum<n>golpe cruel do destino,\ndeixaram essa<n>honra máxima escapar, de\nreivindicarem o que é delas por<n>direito!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "O momento da vitória delas merece<n>ser\n<i>glorioso!</i> Quero que a<n>atmosfera seja\npositivamente<n>inebriante!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Assumirei a responsabilidade por<n>esta situação e\nfarei tudo ao meu<n>alcance para colocá-la sob\ncontrole.<n>Então, por favor!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Receios! Como exatamente você<n>pretende\nresolver a situação,<n>Senhorita Otonashi?"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Sua paixão é evidente. No entanto!<n>Como diretora\ndesta academia, não<n>estou em posição de fazer\nconcessões apenas com base na<n>paixão!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "...Por favor, permitam-me realizar uma\nreportagem."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Uma reportagem? Hmm, perplexo...<n>Estamos\nplanejando limitar toda a<n>cobertura jornalística, e\nvocê está<n>pedindo para escrever uma\nreportagem?"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Ela se chamará \"Bem de Perto com o<n>Treinador\n<username>\"!",
+            "choice_data_list": [
+                "Bem de Perto?!"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Sim! Acompanhando você todos os<n>dias, poderei\nmostrar ao mundo seus<n>métodos de treino\nincríveis."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Minha reportagem provará que<n>quaisquer\nalegações de que você<n>realiza sessões de treino\nimprudentes são completamente<n>infundadas!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "E isso poderia servir também como<n>uma peça\npublicitária! Você realmente<n>pensou em tudo... Eu\napoio<n>totalmente!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Suponho que, se for ela conduzindo a\nreportagem, não deve ser um fardo<n>muito grande\npara você.",
+            "choice_data_list": [
+                "É verdade... Afinal, ela tem muito conhecimento."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Mas você não está terrivelmente<n>ocupada\npreparando o evento,<n>Repórter Otonashi?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "O que acontece se você precisar sair<n>antes da\nreportagem terminar e<n>alguém tiver que\nsubstituí-la?"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Não se preocupe, eu mesma cuidarei<n>de toda\nesta reportagem, não importa<n>o que aconteça.\nMesmo que eu<n>quebre cada osso do meu corpo\ne<n>tenha que rastejar de barriga!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Este será o meu modo de assumir a\nresponsabilidade!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Espero que você vá ao hospital se<n>isso\nacontecer... O que você acha,<n>Diretora?"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Hmm... Naturalmente, como chefe da<n>Academia\nTracen, assumirei a<n>responsabilidade pelo\nresultado..."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Questionamento! Gostaria de ouvir<n>sua opinião,\nTreinador <username>."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Tenho a firme convicção de que a<n>decisão final\ndeve recair sobre você,<n>parceiro da <chrname>!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "De repente, fico sem palavras. Um<n>ambiente de\ntreino estável ou apoio<n>público — o que seria\nmelhor para o<n>desenvolvimento da <chrname>?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "É verdade que o conhecimento da<n>Repórter\nOtonashi será um trunfo<n>poderoso. Mas posso\nrealmente<n>confiar nela?"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Por favor... Deixe-me perseguir meu<n>sonho por\nmais um pouco!",
+            "choice_data_list": [
+                "Eu...",
+                "Eu..."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Bom dia! Hoje marca o início da<n>minha cobertura\nsobre você.<n>Agradeço sua cooperação!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Para ser sincera, estou até um pouco<n>surpresa\nque você tenha dado o ok.",
+            "choice_data_list": [
+                "Não quero ficar no caminho do sonho de\nninguém."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Hm? Sonho, você disse?",
+            "choice_data_list": [
+                "Não é nada. Vamos começar!"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "C-Certo! Farei o meu melhor para<n>não\natrapalhar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ainda não tenho certeza de qual é o<n>sonho da\nRepórter Otonashi, mas se<n>eu negasse a ela a\noportunidade de<n>persegui-lo..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto que também estaria virando as<n>costas para\no sonho que <chrname> e<n>eu juramos realizar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim começa a cobertura \"bem de<n>perto\" da\nRepórter Otonashi!"
+        }
+    ]
+}

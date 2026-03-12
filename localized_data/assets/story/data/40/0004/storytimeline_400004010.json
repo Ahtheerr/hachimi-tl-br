@@ -1,0 +1,87 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certo dia, recebo um telefonema da<n>Repórter\nOtonashi."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Desculpe pela ligação repentina, mas<n>há algo\nque preciso te contar agora<n>mesmo!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Os esforços da <chrname> este ano<n>foram\nreconhecidos..."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "E ela foi selecionada como a Melhor\nUmamusume do Ano Junior!",
+            "choice_data_list": [
+                "...!"
+            ],
+            "color_text_info_list": [
+                "Best Junior Year Umamusume"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Otonashi continua, oferecendo-me<n>calorosas\npalavras de elogio."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Desligo o telefone e me deleito com<n>sentimentos\nde alegria, motivado a<n>trabalhar ainda mais com\nminha<n>parceira. Então, de repente..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Toc, toc</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sou visitado pela Treinadora Kiryuin e<n>sua gentil\nparceira, Happy Meek.",
+            "color_text_info_list": [
+                "Happy Meek"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Desculpe incomodar, Treinador<n><username>, mas\nacabei de saber do<n>seu prêmio!"
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Parabéns! Suas conquistas este ano<n>foram\nverdadeiramente notáveis!"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Parabéns.",
+            "choice_data_list": [
+                "Obrigado!"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Fiquei emocionada ao descobrir que<n>uma\ncorredora treinada por meu<n>colega ganhou o\nprêmio!"
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Eu simplesmente tive que passar<n>aqui para te\nparabenizar!"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Mm. Parabéééns."
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "E agora, estou motivada para garantir<n>que serei\neu quem chegará ao topo<n>no ano que vem!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Treinadora Kiryuin",
+            "text": "Vamos continuar dando o nosso<n>melhor como\ncolegas treinadores e<n>rivais!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mais tarde, <chrname> e eu juramos<n>trabalhar\nduro e sermos os melhores<n>no ano que vem\ntambém."
+        }
+    ]
+}

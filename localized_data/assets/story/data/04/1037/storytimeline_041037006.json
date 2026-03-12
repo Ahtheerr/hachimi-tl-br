@@ -6,7 +6,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Em um fim de semana, no meu dia de<n>folga, estou\ncaminhando pela cidade e<n>encontro uma Eishin Flash<n>\nestranhamente alegre.",
+            "text": "Em um fim de semana, no meu dia de<n>folga, estou caminhando pela cidade<n>e encontro uma Eishin Flash<n>estranhamente alegre.",
             "choice_data_list": [
                 "Flash!"
             ]
@@ -21,7 +21,7 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Apenas fazendo anotações sobre as<n>confeitarias que visitei\nhoje. Todas<n>foram excelentes à sua maneira,<n>então eu\nquis escrever suas<n>características especiais enquanto<n>\nainda estavam frescas na mente.",
+            "text": "Apenas fazendo anotações sobre as<n>confeitarias que visitei hoje. Todas<n>foram excelentes à sua maneira,<n>então eu quis escrever suas<n>características especiais enquanto<n>ainda estavam frescas na mente.",
             "choice_data_list": [
                 "Você gosta mesmo de bolos, hein.",
                 "Você gosta mesmo de bolos, hein."
@@ -29,33 +29,33 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Bem, como você sabe, minha família<n>gerencia uma\nconfeitaria. Em casa, eu<n>tinha o hobby de visitar diferentes<n>\nlojas e aprender sobre o ofício."
+            "text": "Bem, como você sabe, minha família<n>gerencia uma confeitaria. Em casa, eu<n>tinha o hobby de visitar diferentes<n>lojas e aprender sobre o ofício."
         },
         {
             "name": "Eishin Flash",
-            "text": "Não se tratava apenas do sabor. Eu<n>analisava o design de\ninteriores, a<n>variedade de bolos oferecidos, a<n>localização,\no perfil dos clientes —<n>quinze critérios no total."
+            "text": "Não se tratava apenas do sabor. Eu<n>analisava o design de interiores, a<n>variedade de bolos oferecidos, a<n>localização, o perfil dos clientes —<n>quinze critérios no total."
         },
         {
             "name": "Eishin Flash",
-            "text": "Então, sim, eu gosto de bolo, mas<n>seria mais preciso dizer\nque gosto de<n>confeitarias.",
+            "text": "Então, sim, eu gosto de bolo, mas<n>seria mais preciso dizer que gosto de<n>confeitarias.",
             "choice_data_list": [
                 "Entendo..."
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "Ainda há outra loja no meu itinerário.<n>Bem, um café, não\numa confeitaria."
+            "text": "Ainda há outra loja no meu itinerário.<n>Bem, um café, não uma confeitaria."
         },
         {
             "name": "Eishin Flash",
-            "text": "É o meu destino principal de hoje — o<n>Moon Cafe. Fica logo\nna esquina,<n>duas ruas atrás de você,<n>atravessando a área\nresidencial —<n>cerca de quinze minutos de<n>caminhada.",
+            "text": "É o meu destino principal de hoje — o<n>Moon Cafe. Fica logo na esquina,<n>duas ruas atrás de você,<n>atravessando a área residencial —<n>cerca de quinze minutos de<n>caminhada.",
             "choice_data_list": [
                 "Se importa se eu for junto?"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Pode ser uma boa chance de<n>conhecê-la melhor. Raramente<n>\nconversamos sobre qualquer coisa<n>além de treino."
+            "text": "Pode ser uma boa chance de<n>conhecê-la melhor. Raramente<n>conversamos sobre qualquer coisa<n>além de treino."
         },
         {
             "name": "Eishin Flash",
@@ -63,7 +63,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Logo entendo o que ela quis dizer<n>com isso, quando surge a\nvisão de<n>uma longa fila serpenteando em<n>direção a uma\ncerta loja...",
+            "text": "Logo entendo o que ela quis dizer<n>com isso, quando surge a visão de<n>uma longa fila serpenteando em<n>direção a uma certa loja...",
             "choice_data_list": [
                 "Uau, olha só essa fila.",
                 "Uau, olha só essa fila."
@@ -71,11 +71,11 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Sim, é um café popular, então, por<n>volta das 15h35 de um\nsábado, há em<n>média uma fila de quarenta e cinco<n>\nminutos."
+            "text": "Sim, é um café popular, então, por<n>volta das 15h35 de um sábado, há<n>em média uma fila de quarenta e<n>cinco minutos."
         },
         {
             "name": "Eishin Flash",
-            "text": "...Eu fatorei o tempo de espera em<n>meus planos, mas tudo\nbem para<n>você?",
+            "text": "...Eu fatorei o tempo de espera em<n>meus planos, mas tudo bem para<n>você?",
             "choice_data_list": [
                 "Claro, eu não me importo."
             ]
@@ -86,7 +86,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Estamos na fila há dez minutos e ela<n>não disse uma\npalavra... Já que<n>estamos presos aqui, decido<n>aproveitar a\noportunidade para puxar<n>conversa.",
+            "text": "Estamos na fila há dez minutos e ela<n>não disse uma palavra... Já que<n>estamos presos aqui, decido<n>aproveitar a oportunidade para puxar<n>conversa.",
             "choice_data_list": [
                 "Então, dos bolos que você comeu hoje, de qual\ngostou mais?"
             ]
@@ -97,27 +97,27 @@
         },
         {
             "name": "Monólogo",
-            "text": "Sem resposta — talvez ela prefira o<n>silêncio. Estou\nconsiderando pedir<n>desculpas quando..."
+            "text": "Sem resposta — talvez ela prefira o<n>silêncio. Estou considerando pedir<n>desculpas quando..."
         },
         {
             "name": "Eishin Flash",
-            "text": "Eu decidi. Meu favorito foi o<n><i>Sachertorte</i> — um tipo de\nbolo de<n>chocolate — na quinta loja que visitei."
+            "text": "Eu decidi. Meu favorito foi o<n><i>Sachertorte</i> — um tipo de bolo de<n>chocolate — na quinta loja que visitei."
         },
         {
             "name": "Eishin Flash",
-            "text": "O fondant de chocolate estava<n>particularmente bem feito. A\ntextura<n>estava um pouco firme, mas ele se<n>partiu\nperfeitamente quando dei a<n>mordida."
+            "text": "O fondant de chocolate estava<n>particularmente bem feito. A textura<n>estava um pouco firme, mas ele se<n>partiu perfeitamente quando dei a<n>mordida."
         },
         {
             "name": "Eishin Flash",
-            "text": "O fondant também pode ser macio,<n>mas prefiro com um\npouco mais de<n>crocância."
+            "text": "O fondant também pode ser macio,<n>mas prefiro com um pouco mais de<n>crocância."
         },
         {
             "name": "Eishin Flash",
-            "text": "A acidez da <i>Aprikose</i> — damasco<n>— também equilibrou\nbem os sabores."
+            "text": "A acidez da <i>Aprikose</i> — damasco<n>— também equilibrou bem os sabores."
         },
         {
             "name": "Eishin Flash",
-            "text": "...E é por isso que foi o melhor bolo<n>que comi hoje. Minha\nresposta é<n>satisfatória?"
+            "text": "...E é por isso que foi o melhor bolo<n>que comi hoje. Minha resposta é<n>satisfatória?"
         },
         {
             "name": "Cafe Staff",
@@ -125,7 +125,7 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Já? ...Oh, passaram-se cinquenta e<n>cinco minutos. Perdi a\nnoção do tempo."
+            "text": "Já? ...Oh, passaram-se cinquenta e<n>cinco minutos. Perdi a noção do<n>tempo."
         },
         {
             "name": "Eishin Flash",
@@ -133,7 +133,7 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Vamos chamar alguém em dez<n>minutos. Eu já decidi o que\nvou pedir,<n>mas você pode levar o seu tempo.",
+            "text": "Vamos chamar alguém em dez<n>minutos. Eu já decidi o que vou pedir,<n>mas você pode levar o seu tempo.",
             "choice_data_list": [
                 "O que você vai pedir?",
                 "O que você vai pedir?"
@@ -141,11 +141,11 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Eles são conhecidos pelas tortas<n>sazonais, então pedirei o\nconjunto de<n>torta sazonal e café."
+            "text": "Eles são conhecidos pelas tortas<n>sazonais, então pedirei o conjunto de<n>torta sazonal e café."
         },
         {
             "name": "Monólogo",
-            "text": "Penso em pedir o mesmo que ela,<n>quando um item no\ncardápio me<n>chama a atenção.",
+            "text": "Penso em pedir o mesmo que ela,<n>quando um item no cardápio me<n>chama a atenção.",
             "choice_data_list": [
                 "Opa, olha só. \"Só hoje! Conjunto Spécialité.\""
             ]
@@ -156,7 +156,7 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "“Um bolo original da nossa loja<n>parceira. Não anunciado em\nnenhum<n>lugar devido ao estoque limitado. Se<n>você vir isto,\nconsidere-se com sorte!”"
+            "text": "“Um bolo original da nossa loja<n>parceira. Não anunciado em nenhum<n>lugar devido ao estoque limitado. Se<n>você vir isto, considere-se com<n>sorte!”"
         },
         {
             "name": "Eishin Flash",
@@ -164,7 +164,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Ela sempre segue seu plano, e<n>parece que escolher o que\npedir não é<n>exceção. Bem, nesse caso..."
+            "text": "Ela sempre segue seu plano, e<n>parece que escolher o que pedir não<n>é exceção. Bem, nesse caso..."
         },
         {
             "name": "Cafe Staff",
@@ -199,11 +199,11 @@
         },
         {
             "name": "Cafe Staff",
-            "text": "Desculpe pela espera. Um conjunto<n>de torta sazonal e o\nnosso conjunto<n>Spécialité de apenas um dia."
+            "text": "Desculpe pela espera. Um conjunto<n>de torta sazonal e o nosso conjunto<n>Spécialité de apenas um dia."
         },
         {
             "name": "Eishin Flash",
-            "text": "O Spécialité é... um bolo de duas<n>camadas de chocolate e\ncaramelo. É<n>belamente construído, quase como<n>um antigo\ncastelo alemão..."
+            "text": "O Spécialité é... um bolo de duas<n>camadas de chocolate e caramelo. É<n>belamente construído, quase como<n>um antigo castelo alemão..."
         },
         {
             "name": "Eishin Flash",
@@ -214,11 +214,11 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Hã? Por que você o está cortando em<n>dois? Seria mais\nuniforme se você<n>centralizasse — espere, quer dizer<n>\nmetade para mim?"
+            "text": "Hã? Por que você o está cortando em<n>dois? Seria mais uniforme se você<n>centralizasse — espere, quer dizer<n>metade para mim?"
         },
         {
             "name": "Eishin Flash",
-            "text": "Oh, foi por isso que você pediu o<n>conjunto Spécialité? Mas\nesse é o<n>seu pedido. Eu não poderia—",
+            "text": "Oh, foi por isso que você pediu o<n>conjunto Spécialité? Mas esse é o<n>seu pedido. Eu não poderia—",
             "choice_data_list": [
                 "Não temos o dia todo. Aqui."
             ]
@@ -229,7 +229,7 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Mm! É... rico. Cada mordida parece<n>tão intensa, mas não a\nponto de ser<n>doce demais. É..."
+            "text": "Mm! É... rico. Cada mordida parece<n>tão intensa, mas não a ponto de ser<n>doce demais. É..."
         },
         {
             "name": "Eishin Flash",
@@ -237,14 +237,14 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Para ser justo, você pode ficar com<n>metade da minha torta.\nEspere, vou<n>medir o centro exato e—",
+            "text": "Para ser justo, você pode ficar com<n>metade da minha torta. Espere, vou<n>medir o centro exato e—",
             "choice_data_list": [
                 "V-você não precisa ser tão precisa."
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "Não, não serve. Eu tenho uma fita<n>métrica, então posso\nfazer com<n>perfeição."
+            "text": "Não, não serve. Eu tenho uma fita<n>métrica, então posso fazer com<n>perfeição."
         },
         {
             "name": "Monólogo",
@@ -256,7 +256,7 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Ainda mais do que eu esperava. Na<n>próxima vez, terei que\nestender meu<n>tempo alocado em trinta minutos e<n>pedir\noutro item.",
+            "text": "Ainda mais do que eu esperava. Na<n>próxima vez, terei que estender meu<n>tempo alocado em trinta minutos e<n>pedir outro item.",
             "choice_data_list": [
                 "Que bom que se divertiu.",
                 "Que bom que se divertiu."
@@ -271,22 +271,22 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Quero dizer como por acaso nos<n>encontramos mais cedo.\nSem você, eu<n>não teria aproveitado tanto vindo aqui."
+            "text": "Quero dizer como por acaso nos<n>encontramos mais cedo. Sem você,<n>eu não teria aproveitado tanto vindo<n>aqui."
         },
         {
             "name": "Eishin Flash",
-            "text": "É que... não consigo me permitir<n>admitir que os melhores\nresultados<n>dependem de pura coincidência.<n>Portanto, em\nvez disso, meu melhor<n>curso de ação é..."
+            "text": "É que... não consigo me permitir<n>admitir que os melhores resultados<n>dependem de pura coincidência.<n>Portanto, em vez disso, meu melhor<n>curso de ação é..."
         },
         {
             "name": "Eishin Flash",
-            "text": "Fazer planos para realizar outra<n>rodada de visitas a\nconfeitarias em<n>breve... Você gostaria de vir junto?",
+            "text": "Fazer planos para realizar outra<n>rodada de visitas a confeitarias em<n>breve... Você gostaria de vir junto?",
             "choice_data_list": [
                 "Eu adoraria!"
             ]
         },
         {
             "name": "Eishin Flash",
-            "text": "Obrigada. Vou fazer uma anotação<n>disso em meu\ncronograma."
+            "text": "Obrigada. Vou fazer uma anotação<n>disso em meu cronograma."
         },
         {
             "name": "Monólogo",

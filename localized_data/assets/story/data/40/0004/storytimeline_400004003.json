@@ -1,0 +1,170 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Passando pela loja da escola um dia,<n>noto que\nmontaram uma seção<n>especial que eu não tinha\nvisto antes."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Olhando alegremente para o banner<n>com as\npalavras \"Grande<n>Inauguração!\" está..."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Soberbo! Que obra esplêndida! Tenho<n>certeza de\nque os treinadores ficarão<n>absolutamente\nextasiados ao verem<n>isto!",
+            "choice_data_list": [
+                "O que você está aprontando?"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Oh, você já está aqui, Treinador<n><username>?! No\nmomento exato! Olhe<n>de perto!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Montamos um novo espaço dentro<n>da loja\nespecificamente para<n>treinadores! E hoje é a\n<i>grande</i><n>inauguração!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Diretora Akikawa aponta com<n>grande\nintensidade para uma placa<n>que diz...",
+            "choice_data_list": [
+                "Pro Shop?"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Precisamente! Ela oferece uma ampla<n>gama de\n\"itens de treino\"<n>convenientes, selecionados a\ndedo e<n>de alta qualidade!",
+            "color_text_info_list": [
+                "training items"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Faça bom uso deles para garantir o\ndesenvolvimento saudável da sua<n>aprendiz!",
+            "choice_data_list": [
+                "Oooh!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Escuto maravilhado enquanto a<n>Diretora\nAkikawa explica<n>alegremente os diferentes\nprodutos<n>disponíveis."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "...E para coroar tudo isso, dinheiro é\ndesnecessário!",
+            "choice_data_list": [
+                "Desnecessário?!"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Precisamente! Nesta loja, você<n>adquire\nmercadorias trocando<n>moedas especiais!",
+            "choice_data_list": [
+                "Trocando?!"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "E tem mais! Essas moedas são<n>concedidas com\nbase no<n>desempenho nas corridas!",
+            "choice_data_list": [
+                "Concedidas?!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tudo isso parece bom demais para<n>ser verdade.\nReúno minha<n>determinação e pergunto na lata.",
+            "choice_data_list": [
+                "Er, de onde você tirou os fundos para tudo iss—"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "D-Diretora?!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Ora, se não é a Tazuna! Eu estava<n>apenas dando\nao Treinador aqui um<n>resumo da Pro Shop.",
+            "color_text_info_list": [
+                "Pro Shop"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Esta loja é exatamente o que vim<n>discutir!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Diretora... Você usou seu próprio<n>dinheiro para\nfazer outra maratona de<n>compras massiva, não\nfoi?!",
+            "choice_data_list": [
+                "Eu tive a sensação de que foi assim que você\nestocou tantos itens..."
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Certamente! Estou financiando tudo<n>isso do meu\npróprio bolso!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "E já estabeleci todas as minhas<n>rotas de\nsuprimento! Expedito!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Eu aprecio o sentimento, mas você<n>não\nconsegue fazer as coisas com<n>moderação?!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Wahahaha! Nenhuma quantia de<n>dinheiro é\ngrande demais quando é<n>gasta para ajudar\nminhas amadas<n>alunas!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ah, espere! Esta conversa ainda não<n>acabou!",
+            "choice_data_list": [
+                "...E ela se foi."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Simplesmente incrível!",
+            "choice_data_list": [
+                "Opa! Há quanto tempo você está aqui?!"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Oh, estou aqui para fazer um trabalho<n>de campo\npara outra matéria.<n>Agradeço à academia pela\ncooperação contínua."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Mas devo dizer — isso é incrível! A<n>Diretora\nAkikawa está disposta a<n>dedicar <i>todo</i> o seu\npatrimônio<n>pessoal às alunas!",
+            "choice_data_list": [
+                "Na verdade, duvido que isso seja sequer perto\nde tudo..."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Eu simplesmente preciso escrever<n>um artigo\nsobre ela!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Diretora Akikawa decide dar tudo de<n>si pela\nTwinkle Star Climax!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "E o Treinador <username> sacrificará<n><i>tudo</i>\npara ajudar a realizar as<n>esperanças dela!",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Como chegamos ao ponto em que<n><i>eu</i>\ntambém estou sacrificando<n>tudo?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Olho pela janela enquanto escuto a<n>Repórter\nOtonashi tagarelar<n>animadamente."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas eu realmente sou grato por ter<n>acesso à Pro\nShop. Preciso aproveitar<n>cada opção disponível\npara mim!"
+        }
+    ]
+}

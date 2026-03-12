@@ -1,0 +1,240 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Visito o café um dia e encontro<n>Mejiro Ryan e\nInes Fujin agindo de<n>forma estranha e furtiva."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Ai, caramba... Será que a McQueen<n>vai ficar bem?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Vamos lá, você consegue! Pense<n>positivo!",
+            "choice_data_list": [
+                "...O que vocês duas estão fazendo?",
+                "...O que vocês duas estão fazendo?"
+            ]
+        },
+        {
+            "name": "Ryan e Ines",
+            "text": "O quê?!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Shhh! Venha aqui, rápido!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro Ryan me puxa para as<n>sombras onde as\nduas estão se<n>escondendo. Após me situar, sigo\no<n>olhar delas para ver..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Esta fruta é notavelmente suculenta!<n>Estou\nmaravilhada!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Sim, os resultados estão além do que<n>eu\nimaginei. Sou grata a você por<n>conduzir a\npesquisa preliminar,<n>McQueen."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "A-ah, não foi nada elaborado, de<n>verdade. Além\ndisso, eu queria<n>expressar meus\nagradecimentos a<n>você por compartilhar seu\nconhecimento comigo."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "A McQueen convidou a Ikuno para<n>sair hoje\npara poder agradecê-la por<n>toda a ajuda."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "A Ikuno estava super empolgada<n>para as duas\ncomerem um monte de<n>sobremesas deliciosas\nneste festival<n>de sobremesas de frutas da\nestação."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Mas a McQueen está super nervosa!<n>E eu fiquei\ntão preocupada com ela<n>que não consegui ficar\nparada!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Não podemos abandoná-la em seu<n>momento de\nnecessidade!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Acabei avistando ela enquanto<n>estava no meu\ntrabalho de meio<n>período e pensei que talvez\nhouvesse<n>algo que eu pudesse fazer para\najudar!",
+            "choice_data_list": [
+                "Ela parece estar se divertindo, no entanto."
+            ]
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Não, olhe com atenção! A expressão<n>dela está\num pouco tensa. Aposto<n>que ela está pensando\ncoisas como..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(Eu convidei a Ikuno para este<n>festival de\nsobremesas por um<n>capricho porque gostei do\nnome, mas<n>será que ela está realmente se\ndivertindo?!)"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(Talvez devêssemos ter ido a outro<n>lugar, como\naquela loja de travas de<n>corrida que ela gosta?!)"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "(Afinal, o objetivo principal deste<n>passeio era\nagradecer a <i>ela!</i>)"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "É definitivamente o que ela está<n>pensando! Não\ntenho dúvida<n>nenhuma!",
+            "choice_data_list": [
+                "O laço das Mejiro não é brincadeira..."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Quero aumentar a confiança da<n>McQueen de\nalguma forma! Não tem<n>nada que possamos\nfazer?!",
+            "choice_data_list": [
+                "Vamos utilizar sua posição no seu trabalho de\nmeio período!",
+                "Vamos ajudar usando o laço das Mejiro."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "É a minha hora de brilhar, hein?<n>Buono!\nEntendido! Vou falar com o<n>chefe e ver se\npodemos oferecer<n>algum serviço especial para\nelas!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Espere, Ines! Coloque este disfarce!<n>Tem óculos\nescuros, uma peruca e<n>uma máscara... Assim\nvocê pode<n>atendê-las em segredo!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Valeu! Certo, lá vou eu!"
+        },
+        {
+            "name": "Atendente Misterioso",
+            "text": "Muito obrigado por esperarem. Aqui<n>está o seu\nparfait jumbo para dois."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hm? Não creio que tenhamos pedido<n>isto."
+        },
+        {
+            "name": "Atendente Misterioso",
+            "text": "Este é um item especial que estamos\noferecendo como parte do festival de<n>frutas. É\npor conta da casa."
+        },
+        {
+            "name": "Atendente Misterioso",
+            "text": "Ele é bem grande, então, se esperam<n>terminar\ntudo, com certeza precisarão<n>dar na boca uma da\noutra!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Dar na boca?!</i>"
+        },
+        {
+            "name": "Atendente Misterioso",
+            "text": "Sim, dar na boca. Aproveitem. ♪"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "D-d-dar... Dar na boca?! Tipo, dizendo<n>\"abre o\nbocão\"? Foi isso que ela quis<n>dizer?!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "McQueen..."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Diga \"ahh.\""
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Hã?! A-aaahh?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Nhac.</i>"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Huum... ♪"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Qual o sabor?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah, hm... A doçura está enchendo<n>minha boca... E\nestou sentindo um<n>calor lá no fundo do peito!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Verdade? Nunca percebi que você<n>tinha tanto\napreço por sobremesas.<n>Fico feliz que tenha\ngostado."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Provavelmente não havia nada com<n>que se\npreocupar desde o início, mas<n>é bom que Ikuno\nDictus pareça estar<n>se divertindo muito."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Entendido! Pela McQueen, eu vou me<n>esforçar\naté o limite!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Vou pegar um uniforme emprestado<n>com o meu\nchefe!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Valeu! Também tenho uns óculos<n>escuros e uma\nperuca que posso<n>usar para me disfarçar. Vamos\nnessa!"
+        },
+        {
+            "name": "Funcionário Incógnito",
+            "text": "Com licença, estimadas clientes, mas<n>hoje\nestamos oferecendo cupons<n>para todos que\nparticipam do festival<n>de frutas."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Hm?"
+        },
+        {
+            "name": "Funcionário Incógnito",
+            "text": "Aqui está um desconto para uma loja<n>de artigos\nesportivos. Espero que as<n>duas façam bom\nproveito."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "O que diabos você está fazendo,<n>Ryan?"
+        },
+        {
+            "name": "Funcionário Incógnito",
+            "text": "Hã?!"
+        },
+        {
+            "name": "Funcionário Incógnito",
+            "text": "F-fui descoberta! Mas como?! Estou<n>usando\nperuca e tudo mais!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "É dolorosamente óbvio quem você é!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Acabei de notar que Ines e o<n>Treinador estão nos\nobservando dali.",
+            "choice_data_list": [
+                "Gah!"
+            ]
+        },
+        {
+            "name": "Ryan e Ines",
+            "text": "Retirada tática!",
+            "choice_data_list": [
+                "E-esperem por mim!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Céus! O que dá a eles o direito de<n>ficarem me\nseguindo?!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Hehe, deve ser bom fazer parte de<n>uma família\ntão animada."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Provavelmente não havia nada com<n>que se\npreocupar desde o início, mas<n>é bom ter um\nbreve vislumbre de<n>Ikuno Dictus se divertindo."
+        }
+    ]
+}

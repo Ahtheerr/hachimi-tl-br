@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Faltam três dias para a<n>implementação da\nOperação Vigilância."
+            "text": "Faltam três dias para a<n>implementação da\nOperação<n>Vigilância."
         },
         {
             "name": "Haru Urara",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Hum... Diz aqui: \"Sob a Operação<n>Vigilância,\ntodas as estudantes devem<n>registrar o conteúdo\nnutricional de<n>tudo o que comerem a cada dia.\""
+            "text": "Hum... Diz aqui: \"Sob a Operação<n>Vigilância,\ntodas as estudantes<n>devem registrar o conteúdo\nnutricional de tudo o que comerem a<n>cada dia.\""
         },
         {
             "name": "Rice Shower",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Todas as refeições dela no dia<n>seguinte serão\nsubstituídas por<n>'bebidas de penalidade', uma\nbebida<n>incrivelmente amarga, mas<n>\nnutritivamente densa..."
+            "text": "Todas as refeições dela no dia<n>seguinte serão\nsubstituídas por<n>'bebidas de penalidade', uma\nbebida<n>incrivelmente amarga, mas\nnutritivamente densa..."
         },
         {
             "name": "Haru Urara",
@@ -30,11 +30,11 @@
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "E-e se você bombar, tem que fazer<n>aulas extras\nno fim de semana... Ai, os<n>astros estão tão\ndesalinhados agora!"
+            "text": "E-e se você bombar, tem que fazer<n>aulas extras\nno fim de semana... Ai,<n>os astros estão tão\ndesalinhados<n>agora!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Espera! Em tempos como estes, eu<n>deveria ir\nrecarregar meus poderes no<n>meu local sagrado\nsecreto!"
+            "text": "Espera! Em tempos como estes, eu<n>deveria ir\nrecarregar meus poderes<n>no meu local sagrado\nsecreto!"
         },
         {
             "name": "Matikanefukukitaru",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Por acaso estou passando pela sala<n>da diretora\nquando vejo a Taiki<n>Shuttle com um grupo de\nestudantes,<n>todas discutindo com a Srta.<n>\nKashimoto."
+            "text": "Por acaso estou passando pela sala<n>da diretora\nquando vejo a Taiki<n>Shuttle com um grupo de\nestudantes,<n>todas discutindo com a Srta.\nKashimoto."
         },
         {
             "name": "Taiki Shuttle",
@@ -78,7 +78,7 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "As coisas eram muito melhores<n>quando\npodíamos tomar sorvete no<n>lanche da meia-noite\ne comer coisas<n>gostosas sem se preocupar com<n>\nnada!"
+            "text": "As coisas eram muito melhores<n>quando\npodíamos tomar sorvete no<n>lanche da meia-noite\ne comer coisas<n>gostosas sem se preocupar com\nnada!"
         },
         {
             "name": "Taiki Shuttle",
@@ -126,7 +126,7 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Esforcem-se para derrotar a Equipe<n>Zênite, uma\nequipe que estarei<n>montando e treinando\npessoalmente<n>com os *meus* métodos, na Unity<n>\nCup.",
+            "text": "Esforcem-se para derrotar a Equipe<n>Zênite, uma\nequipe que estarei<n>montando e treinando\npessoalmente<n>com os *meus* métodos, na Unity\nCup.",
             "color_text_info_list": [
                 "Zenith"
             ]
@@ -141,15 +141,15 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "São termos bem generosos, não<n>acham? Tudo o\nque precisam fazer é<n>vencer, provando assim\nque seus<n>métodos realmente são superiores<n>\naos meus."
+            "text": "São termos bem generosos, não<n>acham? Tudo o\nque precisam fazer é<n>vencer, provando assim\nque seus<n>métodos realmente são superiores\naos meus."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "...Mas se as estudantes não<n>conseguirem\nderrotar a equipe da Srta.<n>Kashimoto, ela terá\nprovado que seus<n>métodos estavam certos o\ntempo<n>todo."
+            "text": "...Mas se as estudantes não<n>conseguirem\nderrotar a equipe da<n>Srta. Kashimoto, ela terá\nprovado que<n>seus métodos estavam certos o\ntempo todo."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Este deve ser o jeito dela de<n>silenciar quaisquer\nargumentos contra<n>sua gestão de ferro de uma\nvez por<n>todas...",
+            "text": "Este deve ser o jeito dela de<n>silenciar quaisquer\nargumentos<n>contra sua gestão de ferro de uma\nvez por todas...",
             "choice_data_list": [
                 "Acho que sim..."
             ]
@@ -160,7 +160,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Uma delas é a Bitter Glasse, uma<n>Umamusume\ndiabolicamente forte que<n>ama competição. Ela\nsempre fala<n>sobre a importância de ter garra.",
+            "text": "Uma delas é a Bitter Glasse, uma<n>Umamusume\ndiabolicamente forte<n>que ama competição. Ela\nsempre fala<n>sobre a importância de ter garra.",
             "color_text_info_list": [
                 "Bitter Glasse"
             ]
@@ -198,11 +198,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "Com essas duas atletas de destaque<n>à frente, a\nSrta. Kashimoto monta uma<n>equipe de corredoras\nexcepcionais<n>que concordam com seus métodos<n>\nde gestão totalitários."
+            "text": "Com essas duas atletas de destaque<n>à frente, a\nSrta. Kashimoto monta uma<n>equipe de corredoras\nexcepcionais<n>que concordam com seus métodos\nde gestão totalitários."
         },
         {
             "name": "Monólogo",
-            "text": "No breve período desde que a<n>Diretora Akikawa\nanunciou sua<n>licença temporária, a Academia<n>\nTracen já mergulhou no caos.",
+            "text": "No breve período desde que a<n>Diretora Akikawa\nanunciou sua<n>licença temporária, a Academia\nTracen já mergulhou no caos.",
             "choice_data_list": [
                 "Está tudo uma bagunça..."
             ]
@@ -243,7 +243,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Concordo que alguma vigilância é<n>necessária\npara as estudantes. Seria<n>irresponsável se elas\nsofressem<n>lesões ou doenças por falta de<n>\nsupervisão..."
+            "text": "Concordo que alguma vigilância é<n>necessária\npara as estudantes. Seria<n>irresponsável se elas\nsofressem<n>lesões ou doenças por falta de\nsupervisão..."
         },
         {
             "name": "Tazuna Hayakawa",

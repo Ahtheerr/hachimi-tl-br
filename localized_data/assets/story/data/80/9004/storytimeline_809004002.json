@@ -2,41 +2,41 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "One evening, I see <chrname> back to<n>her dorm\nafter the day's training runs<n>a little longer than\nexpected. Just after<n>we say our goodbyes..."
+            "text": "Uma noite, acompanho <chrname> até<n>o dormitório\ndela após o treino do dia<n>durar mais do que o\nesperado. Logo<n>após nos despedirmos..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Trainer <username>! Nice to see you!<n>Are you\nheading home now?",
+            "text": "Treinador <username>! Que bom ver<n>você! Está\nindo para casa agora?",
             "choice_data_list": [
-                "Yep!"
+                "Sim!"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "I see! I just saw Meek off and was<n>thinking\nabout heading back to the<n>trainer dorms myself,\nso..."
+            "text": "Entendo! Acabei de me despedir da<n>Meek e\nestava pensando em voltar<n>para o dormitório dos\ntreinadores<n>também, então..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "If it's all right with you, why don't we<n>go back\ntogether?"
+            "text": "Se estiver tudo bem para você, por<n>que não\nvoltamos juntos?"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Unless you think that's a little<n>too—how should I\nput this—chummy?<n>We are coworkers, after all...",
+            "text": "A menos que você ache isso um<n>pouco demais —\ncomo eu diria —<n>íntimo? Somos colegas de\ntrabalho,<n>afinal...",
             "choice_data_list": [
-                "Not at all!"
+                "De jeito nenhum!"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Hehe... Glad to hear it."
+            "text": "Hehe... Fico feliz em ouvir isso."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "All right. Shall we?"
+            "text": "Certo. Vamos?"
         },
         {
             "name": "Monólogo",
-            "text": "We talk about various things on the<n>way back to\nthe dorms."
+            "text": "Conversamos sobre várias coisas no<n>caminho\nde volta para os dormitórios."
         }
     ]
 }

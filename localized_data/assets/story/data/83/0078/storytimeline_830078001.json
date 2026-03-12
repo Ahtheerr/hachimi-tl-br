@@ -26,7 +26,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "I look down at her feet to find a single<n>sheet of\npaper. Scribbled on it are<n>what appear to be\ndrawings of<n>flowers, a dancer, some numbers,<n>\nand other various things.",
+            "text": "I look down at her feet to find a single<n>sheet of\npaper. Scribbled on it are<n>what appear to be\ndrawings of<n>flowers, a dancer, some numbers,\nand other various things.",
             "choice_data_list": [
                 "Is that your doodle?"
             ]
@@ -45,7 +45,7 @@
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Except I'm having trouble<n>understanding it. Still, I\n<i>will</i><n>eventually decipher its contents to<n>\nsuccessfully perform the ritual, and<n>soon be\nblessed beyond imagination!"
+            "text": "Except I'm having trouble<n>understanding it. Still, I\n<i>will</i><n>eventually decipher its contents to\nsuccessfully perform the ritual, and<n>soon be\nblessed beyond imagination!"
         },
         {
             "name": "Monólogo",
@@ -53,7 +53,7 @@
         },
         {
             "name": "Matikanetannhauser",
-            "text": "La la la... ♪ Chrysanthemum flowers,<n>pluckity\nplucked... ♪ Boiled with a dash<n>of—"
+            "text": "La la la... ♪ Chrysanthemum flowers,<n>pluckity\nplucked... ♪ Boiled with a<n>dash of—"
         },
         {
             "name": "Matikanefukukitaru",
@@ -115,7 +115,7 @@
         },
         {
             "name": "Fukukitaru's Mother",
-            "text": "Looks like your dad and grandma<n>don't know\nanything about a ritual<n>diagram in the cellar either.\nWe don't<n>keep any of our Shinto materials<n>\ndown there."
+            "text": "Looks like your dad and grandma<n>don't know\nanything about a ritual<n>diagram in the cellar either.\nWe don't<n>keep any of our Shinto materials\ndown there."
         },
         {
             "name": "Matikanefukukitaru",
@@ -133,13 +133,13 @@
             "name": "Matikanefukukitaru",
             "text": "There's no waaay nobody knows!<n>Aaargh!\nSomeone tell me what this<n>iiiis!",
             "choice_data_list": [
-                "Maybe it's a secret spell for extreme \nhappiness?!",
+                "Maybe it's a secret spell for extreme\nhappiness?!",
                 "Something that must be sealed away, perhaps?"
             ]
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "<i>Gasp!</i> A secret spell for extreme<n>\nhappiness?!"
+            "text": "<i>Gasp!</i> A secret spell for extreme\nhappiness?!"
         },
         {
             "name": "Matikanefukukitaru",

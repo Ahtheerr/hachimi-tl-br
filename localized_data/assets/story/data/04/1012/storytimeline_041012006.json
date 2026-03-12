@@ -6,11 +6,11 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Vejamos... \"O Compêndio Italiano<n>Cinco Estrelas\" e \"O\nDesafio Culinário<n>Chinês Definitivo\"? Hmm, não era<n>bem\nisso que eu tinha em mente..."
+            "text": "Vejamos... \"O Compêndio Italiano<n>Cinco Estrelas\" e \"O Desafio<n>Culinário Chinês Definitivo\"? Hmm,<n>não era bem isso que eu tinha em<n>mente..."
         },
         {
             "name": "Hishi Amazon",
-            "text": "Ah! \"Refeições Energéticas<n>Facilitadas\"? Isso parece estar\nno<n>caminho certo. É, acho que vou levar<n>este hoje —",
+            "text": "Ah! \"Refeições Energéticas<n>Facilitadas\"? Isso parece estar no<n>caminho certo. É, acho que vou levar<n>este hoje —",
             "choice_data_list": [
                 "O que você está fazendo?",
                 "O que você está fazendo?"
@@ -18,27 +18,27 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Eita, Prof?! Por que você tá aqui? Veio<n>reabastecer o\nestoque de leitura que<n>nem eu?"
+            "text": "Eita, Prof?! Por que você tá aqui? Veio<n>reabastecer o estoque de leitura que<n>nem eu?"
         },
         {
             "name": "Monólogo",
-            "text": "Notando um livro nas mãos da Hishi<n>Amazon, pergunto do\nque se trata."
+            "text": "Notando um livro nas mãos da Hishi<n>Amazon, pergunto do que se trata."
         },
         {
             "name": "Hishi Amazon",
-            "text": "Ah, isso? É um livro de receitas. A<n>gente não consegue\naumentar o<n>repertório só por conta própria, sabe?"
+            "text": "Ah, isso? É um livro de receitas. A<n>gente não consegue aumentar o<n>repertório só por conta própria, sabe?"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Às vezes eu pego coisas assim pra<n>realmente subir de nível\nna cozinha.<n>Porque eu não só leio as receitas —<n>eu faço\nelas de verdade."
+            "text": "Às vezes eu pego coisas assim pra<n>realmente subir de nível na cozinha.<n>Porque eu não só leio as receitas —<n>eu faço elas de verdade."
         },
         {
             "name": "Hishi Amazon",
-            "text": "Então vamos, Prof! Vamos carregar o<n>carrinho com os\ningredientes listados<n>neste livro!"
+            "text": "Então vamos, Prof! Vamos carregar o<n>carrinho com os ingredientes listados<n>neste livro!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Beleza, pega um carrinho de compras<n>e eu vou jogando as\ncoisas dentro!<n>Primeiro é abóbora, depois molho de<n>\npeixe... Hã, eu nunca usei esses<n>antes.",
+            "text": "Beleza, pega um carrinho de compras<n>e eu vou jogando as coisas dentro!<n>Primeiro é abóbora, depois molho de<n>peixe... Hã, eu nunca usei esses<n>antes.",
             "choice_data_list": [
                 "Você deve saber muito sobre culinária.",
                 "Você deve saber muito sobre culunária."
@@ -46,7 +46,7 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Pode apostar! Eu cozinho todo dia!<n>Depois eu dou meus\nbanquetes<n>potentes para a molecada. É bom ver<n>elas\ndevorando tudo.",
+            "text": "Pode apostar! Eu cozinho todo dia!<n>Depois eu dou meus banquetes<n>potentes para a molecada. É bom ver<n>elas devorando tudo.",
             "choice_data_list": [
                 "Então é um hobby seu?",
                 "Então é um hobby seu?"
@@ -54,11 +54,11 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Um hobby? Bem, acho que dá pra<n>chamar disso. Mas não é\nbem sobre o<n>ato de cozinhar em si..."
+            "text": "Um hobby? Bem, acho que dá pra<n>chamar disso. Mas não é bem sobre<n>o ato de cozinhar em si..."
         },
         {
             "name": "Hishi Amazon",
-            "text": "Na verdade, Prof, você parece bem<n>interessado nisso. Quer\ndizer que você<n>cozinha também?",
+            "text": "Na verdade, Prof, você parece bem<n>interessado nisso. Quer dizer que<n>você cozinha também?",
             "choice_data_list": [
                 "Sim, eu me viro bem."
             ]
@@ -69,15 +69,15 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Você estava se fazendo de<n>desentendido, mas na verdade\nvocê é<n>meu rival! Esse tempo todo você<n>estava só se\nfazendo de bobo!"
+            "text": "Você estava se fazendo de<n>desentendido, mas na verdade você<n>é meu rival! Esse tempo todo você<n>estava só se fazendo de bobo!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Droga! Então quer dizer que acabei<n>de mostrar todo o meu\njogo para a<n>competição! Argh!"
+            "text": "Droga! Então quer dizer que acabei<n>de mostrar todo o meu jogo para a<n>competição! Argh!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Bem, tanto faz. Vou colocar todas as<n>minhas cartas na\nmesa e ainda vou<n>conseguir uma vitória esmagadora! É<n>\nassim que a Hishiama faz as coisas!",
+            "text": "Bem, tanto faz. Vou colocar todas as<n>minhas cartas na mesa e ainda vou<n>conseguir uma vitória esmagadora! É<n>assim que a Hishiama faz as coisas!",
             "choice_data_list": [
                 "Eu não estou acompanhando...",
                 "Eu não estou acompanhando..."
@@ -85,30 +85,30 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Não é óbvio? Nós dois somos feras<n>na cozinha. Então só\ntem uma coisa a<n>se fazer! Um mano a mano!"
+            "text": "Não é óbvio? Nós dois somos feras<n>na cozinha. Então só tem uma coisa a<n>se fazer! Um mano a mano!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Como companheiros de jornada no<n>caminho da culinária,\nnão ficaremos<n>satisfeitos até provarmos quem é o<n>melhor,\ncerto?",
+            "text": "Como companheiros de jornada no<n>caminho da culinária, não ficaremos<n>satisfeitos até provarmos quem é o<n>melhor, certo?",
             "choice_data_list": [
                 "Não sei se isso se aplica a mim..."
             ]
         },
         {
             "name": "Hishi Amazon",
-            "text": "Ah, qual é, tenha um pouco de garra.<n>Descobrir que você\ncozinha também<n>realmente me deu um gás."
+            "text": "Ah, qual é, tenha um pouco de garra.<n>Descobrir que você cozinha também<n>realmente me deu um gás."
         },
         {
             "name": "Hishi Amazon",
-            "text": "É bom pra nós, Umas, e nossos profs<n>nos enfrentarmos no\nmesmo campo<n>de vez em quando, não acha? Então<n>\nvamos ter um duelo de culinária!"
+            "text": "É bom pra nós, Umas, e nossos profs<n>nos enfrentarmos no mesmo campo<n>de vez em quando, não acha? Então<n>vamos ter um duelo de culinária!"
         },
         {
             "name": "Referee Umamusume",
-            "text": "Temos o refeitório inteiro só para nós,<n>então isso significa\nque é hora do<n>duelo de culinária!"
+            "text": "Temos o refeitório inteiro só para nós,<n>então isso significa que é hora do<n>duelo de culinária!"
         },
         {
             "name": "Referee Umamusume",
-            "text": "Em um canto, temos nossa líder de<n>dormitório — a dama de\nferro da<n>cozinha, Hishiama! Todas nós<n>podemos atestar\nsuas habilidades<n>culinárias."
+            "text": "Em um canto, temos nossa líder de<n>dormitório — a dama de ferro da<n>cozinha, Hishiama! Todas nós<n>podemos atestar suas habilidades<n>culinárias."
         },
         {
             "name": "Hishi Amazon",
@@ -116,11 +116,11 @@
         },
         {
             "name": "Referee Umamusume",
-            "text": "E no outro canto, temos o prof da<n>Hishiama. Se quiser\nvencer, terá que<n>servir algo que realmente agrade ao<n>meu\npaladar! Ah, mal posso esperar!<n>♪"
+            "text": "E no outro canto, temos o prof da<n>Hishiama. Se quiser vencer, terá que<n>servir algo que realmente agrade ao<n>meu paladar! Ah, mal posso esperar!<n>♪"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Ei, não sequestra o nosso duelo só<n>para se entupir de\ncomida!"
+            "text": "Ei, não sequestra o nosso duelo só<n>para se entupir de comida!"
         },
         {
             "name": "Referee Umamusume",
@@ -128,11 +128,11 @@
         },
         {
             "name": "Referee Umamusume",
-            "text": "Enfim, voltando ao que interessa.<n>Nesta batalha entre prof e\naprendiz, é<n>comer ou ser comido! Que comece o<n>duelo!"
+            "text": "Enfim, voltando ao que interessa.<n>Nesta batalha entre prof e aprendiz, é<n>comer ou ser comido! Que comece o<n>duelo!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Isso aí! É agora, Prof! Toma essa, e<n>essa! Tem que deixar\nessa panela<n>ferver! Borbulha, borbulha!",
+            "text": "Isso aí! É agora, Prof! Toma essa, e<n>essa! Tem que deixar essa panela<n>ferver! Borbulha, borbulha!",
             "choice_data_list": [
                 "A narração é necessária?",
                 "A narração é necessária?"
@@ -140,43 +140,43 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Qu-qual é o problema? É o meu jeito<n>de entrar no clima. Não\najuda a<n>esquentar as coisas?"
+            "text": "Qu-qual é o problema? É o meu jeito<n>de entrar no clima. Não ajuda a<n>esquentar as coisas?"
         },
         {
             "name": "Hishi Amazon",
-            "text": "É melhor você começar a se mexer<n>também. Vamos ver do\nque você é<n>capaz <i>de verdade</i>!"
+            "text": "É melhor você começar a se mexer<n>também. Vamos ver do que você é<n>capaz <i>de verdade</i>!"
         },
         {
             "name": "Monólogo",
-            "text": "Após uma sessão de culinária<n>fervorosa, colocamos\nnossos pratos<n>lado a lado na mesa."
+            "text": "Após uma sessão de culinária<n>fervorosa, colocamos nossos pratos<n>lado a lado na mesa."
         },
         {
             "name": "Referee Umamusume",
-            "text": "Agora, é hora de provar as inscrições.<n>Aqui temos o prato\ndo prof — gratinado<n>de queijo e cenoura com mel por<n>\ncima."
+            "text": "Agora, é hora de provar as inscrições.<n>Aqui temos o prato do prof —<n>gratinado de queijo e cenoura com<n>mel por cima."
         },
         {
             "name": "Hishi Amazon",
-            "text": "<i>O quê?!</i> Você vendeu sua alma,<n>Prof! Olha só você\nenchendo seu prato<n>com ingredientes populares só para<n>\nbajular a juíza!"
+            "text": "<i>O quê?!</i> Você vendeu sua alma,<n>Prof! Olha só você enchendo seu<n>prato com ingredientes populares só<n>para bajular a juíza!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Maldito seja, cozinheiro de porcaria!<n>Tch, tanto faz. Vai logo\ne prova isso."
+            "text": "Maldito seja, cozinheiro de porcaria!<n>Tch, tanto faz. Vai logo e prova isso."
         },
         {
             "name": "Referee Umamusume",
-            "text": "Sim, senhora. <i>Nhoc, nhoc...</i><n>Hummm, que delícia! Tá\nderretendo na<n>boca! ♪"
+            "text": "Sim, senhora. <i>Nhoc, nhoc...</i><n>Hummm, que delícia! Tá derretendo<n>na boca! ♪"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Ngh... Melhor eu provar um pedaço<n>também... Não, esquece!\nMeu orgulho<n>não permite."
+            "text": "Ngh... Melhor eu provar um pedaço<n>também... Não, esquece! Meu orgulho<n>não permite."
         },
         {
             "name": "Referee Umamusume",
-            "text": "A seguir, a entrada da Hishiama —<n>abóbora levemente\ncozida e... carne<n>moída?"
+            "text": "A seguir, a entrada da Hishiama —<n>abóbora levemente cozida e... carne<n>moída?"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Isso mesmo! É uma receita novinha<n>que achei num livro. Sei\nque parece<n>simples, mas experimenta."
+            "text": "Isso mesmo! É uma receita novinha<n>que achei num livro. Sei que parece<n>simples, mas experimenta."
         },
         {
             "name": "Referee Umamusume",
@@ -184,11 +184,11 @@
         },
         {
             "name": "Referee Umamusume",
-            "text": "É super simples! Não só parece<n>simples, tem um gosto\nsimples<n>também!"
+            "text": "É super simples! Não só parece<n>simples, tem um gosto simples<n>também!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Ei, não precisa falar desse jeito!<n>Argh... Acho que não tem\ntanto<n>impacto quanto a comida gordurosa<n>do Prof."
+            "text": "Ei, não precisa falar desse jeito!<n>Argh... Acho que não tem tanto<n>impacto quanto a comida gordurosa<n>do Prof."
         },
         {
             "name": "Referee Umamusume",
@@ -196,42 +196,42 @@
         },
         {
             "name": "Referee Umamusume",
-            "text": "É simples, mas tem algo mais aqui...<n>Parece que estou\nsendo aquecida por<n>dentro..."
+            "text": "É simples, mas tem algo mais aqui...<n>Parece que estou sendo aquecida por<n>dentro..."
         },
         {
             "name": "Hishi Amazon",
-            "text": "Ah, parece que você finalmente<n>notou! Essa é a minha\narma secreta."
+            "text": "Ah, parece que você finalmente<n>notou! Essa é a minha arma secreta."
         },
         {
             "name": "Hishi Amazon",
-            "text": "Você devia provar também, Prof.<n>Tenho certeza de que vai\ntocar seu<n>coração. Confia em mim.",
+            "text": "Você devia provar também, Prof.<n>Tenho certeza de que vai tocar seu<n>coração. Confia em mim.",
             "choice_data_list": [
                 "Bom apetite!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Tomando uma colherada do<n>ensopado, sinto o sabor\ndelicado se<n>espalhando pelo meu corpo."
+            "text": "Tomando uma colherada do<n>ensopado, sinto o sabor delicado se<n>espalhando pelo meu corpo."
         },
         {
             "name": "Monólogo",
-            "text": "Além de estar deliciosa, a comida<n>dela é preparada com\ncarinho para<n>atender a quem vai comer. Mas<n>quando\ntento elogiar a cozinheira..."
+            "text": "Além de estar deliciosa, a comida<n>dela é preparada com carinho para<n>atender a quem vai comer. Mas<n>quando tento elogiar a cozinheira..."
         },
         {
             "name": "Hishi Amazon",
-            "text": "P-para com isso! Esqueceu que sou<n>sua rival? Não sei\ncomo devo reagir a<n>isso."
+            "text": "P-para com isso! Esqueceu que sou<n>sua rival? Não sei como devo reagir a<n>isso."
         },
         {
             "name": "Hishi Amazon",
-            "text": "Mas sim, era nisso que eu queria<n>chegar antes. Você\nestava certo —<n>meu hobby <i>é</i> cozinhar. Mas não<n>é só\nisso."
+            "text": "Mas sim, era nisso que eu queria<n>chegar antes. Você estava certo —<n>meu hobby <i>é</i> cozinhar. Mas não<n>é só isso."
         },
         {
             "name": "Hishi Amazon",
-            "text": "Meu <i>verdadeiro</i> hobby é<n>preparar comidas saudáveis\nque<n>deem energia e motivação para as<n>pessoas. E isso\nvale pra você<n>também, Prof!"
+            "text": "Meu <i>verdadeiro</i> hobby é<n>preparar comidas saudáveis que<n>deem energia e motivação para as<n>pessoas. E isso vale pra você<n>também, Prof!"
         },
         {
             "name": "Referee Umamusume",
-            "text": "Fiuuuuu! Os juízes chegaram a uma<n>decisão. O vencedor\ndeste cativante<n>concurso culinário não é outro<n>senão..."
+            "text": "Fiuuuuu! Os juízes chegaram a uma<n>decisão. O vencedor deste cativante<n>concurso culinário não é outro<n>senão..."
         },
         {
             "name": "Referee Umamusume",
@@ -239,7 +239,7 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "<i>Hã?!</i> Que palhaçada é essa?!<n>Você fez parecer que eu\nia ganhar<n>com o pé nas costas!"
+            "text": "<i>Hã?!</i> Que palhaçada é essa?!<n>Você fez parecer que eu ia ganhar<n>com o pé nas costas!"
         },
         {
             "name": "Referee Umamusume",
@@ -247,11 +247,11 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Grr, caindo num truque tão óbvio... Vai<n>se afogar em chá de\nboba ou algo<n>assim!"
+            "text": "Grr, caindo num truque tão óbvio... Vai<n>se afogar em chá de boba ou algo<n>assim!"
         },
         {
             "name": "Hishi Amazon",
-            "text": "Enfim, o que fazemos agora, Prof?<n>Nosso grande mano a\nmano terminou<n>em empate! Como vamos resolver<n>isso?",
+            "text": "Enfim, o que fazemos agora, Prof?<n>Nosso grande mano a mano terminou<n>em empate! Como vamos resolver<n>isso?",
             "choice_data_list": [
                 "Teremos que ter uma revanche algum dia!",
                 "Teremos que ter uma revanche algum dia!"
@@ -259,15 +259,15 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Uma revanche? Ah, sim! Com<n>certeza! Mesmo que tenha\nterminado<n>em empate desta vez, podemos fazer<n>de novo.\nTeremos muitas chances<n>daqui pra frente."
+            "text": "Uma revanche? Ah, sim! Com<n>certeza! Mesmo que tenha terminado<n>em empate desta vez, podemos fazer<n>de novo. Teremos muitas chances<n>daqui pra frente."
         },
         {
             "name": "Hishi Amazon",
-            "text": "Haha. Você vai perder na próxima,<n>Prof! Você e eu somos\nparceiros, mas<n>quando o assunto é cozinha, somos<n>rivais\ndo começo ao fim!"
+            "text": "Haha. Você vai perder na próxima,<n>Prof! Você e eu somos parceiros, mas<n>quando o assunto é cozinha, somos<n>rivais do começo ao fim!"
         },
         {
             "name": "Monólogo",
-            "text": "Encantada por ter encontrado um<n>adversário à altura em\nseu hobby,<n>Amazon continua a buscar sabores<n>suaves\nem sua comida — em forte<n>contraste com sua\npersonalidade."
+            "text": "Encantada por ter encontrado um<n>adversário à altura em seu hobby,<n>Amazon continua a buscar sabores<n>suaves em sua comida — em forte<n>contraste com sua personalidade."
         }
     ]
 }

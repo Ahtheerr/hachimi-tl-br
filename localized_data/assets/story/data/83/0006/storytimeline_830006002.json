@@ -90,7 +90,7 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "<i>Sigh...</i> I suppose this calls for a<n>little\nadjusting to my training schedule."
+            "text": "<i>Sigh...</i> I suppose this calls for a<n>little\nadjusting to my training<n>schedule."
         },
         {
             "name": "Monólogo",
@@ -126,7 +126,7 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "If you hadn't said anything, I might<n>not have\nnoticed. Perhaps that's what<n>is holding me back\nfrom improving...",
+            "text": "If you hadn't said anything, I might<n>not have\nnoticed. Perhaps that's<n>what is holding me back\nfrom<n>improving...",
             "choice_data_list": [
                 "Holding you back from improving?"
             ]

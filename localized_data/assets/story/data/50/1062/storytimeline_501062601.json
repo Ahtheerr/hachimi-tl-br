@@ -1,0 +1,30 @@
+{
+    "text_block_list": [
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Inspira, expira...</i> O dia finalmente<n>chegou."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Inspira, expira...</i> Só observa,<n>Treinador.\nDesta vez, eu vou levar o<n>primeiro lugar...",
+            "choice_data_list": [
+                "Você está nervosa?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Não. Só estou respirando fundo para<n>não me\nexaltar e ter um sangramento<n>nasal."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "A corrida de hoje é uma chance<n>importante de\nme redimir. A última<n>coisa que eu quero é ter que\nme<n>retirar porque meu nariz está<n>sangrando.",
+            "choice_data_list": [
+                "Ah, entendi... Boa sorte lá fora!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Obrigada. Lá vou eu!"
+        }
+    ]
+}

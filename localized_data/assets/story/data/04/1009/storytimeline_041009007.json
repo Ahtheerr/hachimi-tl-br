@@ -2,15 +2,15 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Hoje marca o primeiro dia do<n>acampamento de verão. Para<n>\naproveitar ao máximo nosso tempo,<n>eu me adiantei e\ncomecei as corridas<n>na praia da Daiwa Scarlet."
+            "text": "Hoje marca o primeiro dia do<n>acampamento de verão. Para<n>aproveitar ao máximo nosso tempo,<n>eu me adiantei e comecei as corridas<n>na praia da Daiwa Scarlet."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Arf, arf, arf...</i> Haaah, aaagh... Eu<n>estou suando em\nbica..."
+            "text": "<i>Arf, arf, arf...</i> Haaah, aaagh... Eu<n>estou suando em bica..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Deixe-me recuperar o fôlego<n>rapidinho! <i>Suspiro...</i>\nCorrer na<n>areia realmente cansa muito.",
+            "text": "Deixe-me recuperar o fôlego<n>rapidinho! <i>Suspiro...</i> Correr na<n>areia realmente cansa muito.",
             "choice_data_list": [
                 "Mas também vai fortalecer os seus músculos\nmuito mais.",
                 "Mas também vai fortalecer os seus músculos\nmuito mais."
@@ -18,11 +18,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Se não fortalecesse, eu teria algumas<n>coisinhas para te\ndizer. Não estou<n>tentando desperdiçar toda a minha<n>\nenergia sem motivo, sabe."
+            "text": "Se não fortalecesse, eu teria algumas<n>coisinhas para te dizer. Não estou<n>tentando desperdiçar toda a minha<n>energia sem motivo, sabe."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Se for o caso, eu aceito um obstáculo<n>ou dois. Cada\nobstáculo que supero é<n>mais um passo para ser a número<n>\num."
+            "text": "Se for o caso, eu aceito um obstáculo<n>ou dois. Cada obstáculo que supero é<n>mais um passo para ser a número<n>um."
         },
         {
             "name": "Daiwa Scarlet",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Ela recuperou o fôlego, mas percebo<n>que o equilíbrio dela\nestá um pouco<n>instável. Parece que as pernas dela<n>estão\ntrêmulas, e duvido que este<n>calor esteja ajudando.",
+            "text": "Ela recuperou o fôlego, mas percebo<n>que o equilíbrio dela está um pouco<n>instável. Parece que as pernas dela<n>estão trêmulas, e duvido que este<n>calor esteja ajudando.",
             "choice_data_list": [
                 "Vamos encerrar por hoje."
             ]
@@ -41,13 +41,14 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Eu disse que aceito desafios!<n>Estamos no acampamento de\nverão,<n>então um cronograma mais rigoroso<n>já é o\nesperado, não?"
+            "text": "Eu disse que aceito desafios!<n>Estamos no acampamento de verão,<n>então um cronograma mais rigoroso<n>já é o esperado, não?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Se eu reclamasse de cada pequena<n>coisa, não teria como\neu me tornar a<n>número um!",
+            "text": "Se eu reclamasse de cada pequena<n>coisa, não teria como eu me tornar a<n>número um!",
             "choice_data_list": [
-                "Mesmo assim, você não deve se sobrecarregar.\n| Mesmo assim, você não deve se\nsobrecarregar."
+                "Mesmo assim, você não deve se sobrecarregar.",
+                "Mesmo assim, você não deve se sobrecarregar."
             ]
         },
         {
@@ -56,11 +57,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "Scarlet tenta dar um passo à frente,<n>mas suas pernas\ncedem sob ela."
+            "text": "Scarlet tenta dar um passo à frente,<n>mas suas pernas cedem sob ela."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Tsc... Não posso me tornar a número<n>um se eu ficar exausta\ntão facilmente.<n>Eu tenho que fazer m—",
+            "text": "Tsc... Não posso me tornar a número<n>um se eu ficar exausta tão facilmente.<n>Eu tenho que fazer m—",
             "choice_data_list": [
                 "Descansar também é uma parte essencial do\ntreino.",
                 "Descansar também é uma parte essencial do\ntreino."
@@ -72,7 +73,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Suspiro.</i> Tudo bem, você venceu.<n>Vou descansar mais\num pouco e<n>depois—",
+            "text": "<i>Suspiro.</i> Tudo bem, você venceu.<n>Vou descansar mais um pouco e<n>depois—",
             "choice_data_list": [
                 "Ainda temos o acampamento amanhã também,\nsabia?",
                 "Ainda temos o acampamento amanhã também,\nsabia?"
@@ -84,11 +85,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Digo, você é meu(minha) treinador(a)<n>e tudo mais. E eu não\nsuporto você se<n>preocupando comigo."
+            "text": "Digo, você é meu(minha) treinador(a)<n>e tudo mais. E eu não suporto você<n>se preocupando comigo."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Puxa. Assim que eu estiver pronta<n>para outra, vamos\nrecuperar o tempo<n>perdido.",
+            "text": "Puxa. Assim que eu estiver pronta<n>para outra, vamos recuperar o tempo<n>perdido.",
             "choice_data_list": [
                 "É bom eu não te pegar saindo escondida para\ncorrer, hein?",
                 "É bom eu não te pegar saindo escondida para\ncorrer, hein?"
@@ -96,35 +97,35 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Com licença.</i> Eu não sou criança,<n>então poderia não me\ntratar como<n>uma?"
+            "text": "<i>Com licença.</i> Eu não sou criança,<n>então poderia não me tratar como<n>uma?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Se terminamos o treino, então estou<n>livre pelo resto do dia,\ncerto? Até mais."
+            "text": "Se terminamos o treino, então estou<n>livre pelo resto do dia, certo? Até<n>mais."
         },
         {
             "name": "Monólogo",
-            "text": "Com um leve cambaleio em seu<n>andar, ela começa a voltar\npara o<n>dormitório."
+            "text": "Com um leve cambaleio em seu<n>andar, ela começa a voltar para o<n>dormitório."
         },
         {
             "name": "Monólogo",
-            "text": "Mais tarde, decido ir ver como está a<n>Scarlet. No corredor do\ndormitório, uma<n>estudante desconhecida vem até<n>mim."
+            "text": "Mais tarde, decido ir ver como está a<n>Scarlet. No corredor do dormitório,<n>uma estudante desconhecida vem até<n>mim."
         },
         {
             "name": "Umamusume A",
-            "text": "Ah, ei, você é o(a) treinador(a) da<n>Scarlet. Está procurando\npor ela?"
+            "text": "Ah, ei, você é o(a) treinador(a) da<n>Scarlet. Está procurando por ela?"
         },
         {
             "name": "Umamusume A",
-            "text": "Acho que ela não está no quarto.<n>Acabei de vê-la indo em\ndireção à<n>entrada."
+            "text": "Acho que ela não está no quarto.<n>Acabei de vê-la indo em direção à<n>entrada."
         },
         {
             "name": "Monólogo",
-            "text": "Ela estava bem acabada depois do<n>treino de hoje... Será\nque ela vai ficar<n>bem andando por aí sozinha?"
+            "text": "Ela estava bem acabada depois do<n>treino de hoje... Será que ela vai ficar<n>bem andando por aí sozinha?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ah, se não é o(a) meu(minha)<n>treinador(a)? Por que essa\ncara aí?"
+            "text": "Ah, se não é o(a) meu(minha)<n>treinador(a)? Por que essa cara aí?"
         },
         {
             "name": "Daiwa Scarlet",
@@ -136,38 +137,38 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "E-eu não me importo... Mas por que<n>você está se exaltando\ntanto?"
+            "text": "E-eu não me importo... Mas por que<n>você está se exaltando tanto?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Não me diga — você está com medo<n>de que eu fuja para\ntreinar de novo...",
+            "text": "Não me diga — você está com medo<n>de que eu fuja para treinar de novo...",
             "choice_data_list": [
                 "Você estava um pouco instável esta tarde, então\nsó quero ter certeza."
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ah, então é por isso. Não se<n>preocupe, eu tomei um banho<n>\nrelaxante seguido de um bom cochilo."
+            "text": "Ah, então é por isso. Não se<n>preocupe, eu tomei um banho<n>relaxante seguido de um bom cochilo."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Como você disse, temos treino<n>amanhã também. Eu não\ngostaria de<n>exagerar hoje e me sentir um trapo<n>amanhã."
+            "text": "Como você disse, temos treino<n>amanhã também. Eu não gostaria de<n>exagerar hoje e me sentir um trapo<n>amanhã."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Mas eu tenho que dizer... Você é<n>realmente um(a)\npreocupado(a) de<n>plantão. Sabe, no começo achei que<n>\nvocê só não confiava em mim."
+            "text": "Mas eu tenho que dizer... Você é<n>realmente um(a) preocupado(a) de<n>plantão. Sabe, no começo achei que<n>você só não confiava em mim."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Que tal isto? Vou provar para você<n>que estou cheia de\nenergia e me<n>sentindo perfeitamente bem!"
+            "text": "Que tal isto? Vou provar para você<n>que estou cheia de energia e me<n>sentindo perfeitamente bem!"
         },
         {
             "name": "Monólogo",
-            "text": "Daiwa Scarlet insiste em liderar o<n>caminho, então eu a sigo\nao seu lado<n>— quando de repente — uma música<n>animada\nde festival começa a tocar<n>por perto..."
+            "text": "Daiwa Scarlet insiste em liderar o<n>caminho, então eu a sigo ao seu lado<n>— quando de repente — uma música<n>animada de festival começa a tocar<n>por perto..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ouvi dizer que estava rolando um<n>festival aqui perto, então\neu estava<n>indo dar uma olhada. Ei, todos esses<n>cheiros\ndeliciosos não te dão fome?",
+            "text": "Ouvi dizer que estava rolando um<n>festival aqui perto, então eu estava<n>indo dar uma olhada. Ei, todos esses<n>cheiros deliciosos não te dão fome?",
             "choice_data_list": [
                 "Parece que o seu apetite também está ótimo.",
                 "Parece que o seu apetite também está ótimo."
@@ -175,15 +176,15 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Com certeza está! Um estômago feliz<n>é a chave para eu ser\nfeliz."
+            "text": "Com certeza está! Um estômago feliz<n>é a chave para eu ser feliz."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Vamos lá, vamos comprar tudo nas<n>barracas de comida! Oh,\nmas antes<n>disso — vamos nos divertir!"
+            "text": "Vamos lá, vamos comprar tudo nas<n>barracas de comida! Oh, mas antes<n>disso — vamos nos divertir!"
         },
         {
             "name": "Monólogo",
-            "text": "Depois de aproveitar o festival, nos<n>enchemos de comida e\nvamos para a<n>praia. Yakisoba, takoyaki, raspadinha,<n>\nalgodão doce — devoramos um atrás<n>do outro."
+            "text": "Depois de aproveitar o festival, nos<n>enchemos de comida e vamos para a<n>praia. Yakisoba, takoyaki, raspadinha,<n>algodão doce — devoramos um atrás<n>do outro."
         },
         {
             "name": "Daiwa Scarlet",
@@ -194,30 +195,30 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ei, eu não te disse antes? Pare de ser<n>tão preocupado(a) de\numa vez."
+            "text": "Ei, eu não te disse antes? Pare de ser<n>tão preocupado(a) de uma vez."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ok, eu me sobrecarreguei aquela vez,<n>mas agora eu não\nestou sozinha,<n>então..."
+            "text": "Ok, eu me sobrecarreguei aquela vez,<n>mas agora eu não estou sozinha,<n>então..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "D-de qualquer forma é assim que as<n>coisas são, então\nestou bem agora!<n>Entendeu?!",
+            "text": "D-de qualquer forma é assim que as<n>coisas são, então estou bem agora!<n>Entendeu?!",
             "choice_data_list": [
                 "Obrigado(a) por contar comigo."
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Eu não disse que era de <i>você</i><n>que eu estava falando,\ndisse?!"
+            "text": "Eu não disse que era de <i>você</i><n>que eu estava falando, disse?!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "É que você é um(a) treinador(a)<n>profissional... Então eu\npensei que<n>seria ok deixar as coisas do treino<n>com você,\nnada mais."
+            "text": "É que você é um(a) treinador(a)<n>profissional... Então eu pensei que<n>seria ok deixar as coisas do treino<n>com você, nada mais."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "B-basicamente, é bom você assumir<n>a responsabilidade\npelo que<n>prometeu! Foi você quem disse:<n>\"Vamos nos\ntornar o número um<n>juntos.\"",
+            "text": "B-basicamente, é bom você assumir<n>a responsabilidade pelo que<n>prometeu! Foi você quem disse:<n>\"Vamos nos tornar o número um<n>juntos.\"",
             "choice_data_list": [
                 "Pode deixar comigo!",
                 "Pode deixar comigo!"
@@ -229,19 +230,19 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Eu estarei muito mais preparada para<n>o treino de amanhã,\nentão é bom você<n>não ficar para trás também!"
+            "text": "Eu estarei muito mais preparada para<n>o treino de amanhã, então é bom<n>você não ficar para trás também!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Eu me tornarei a número um — mas<n>não posso fazer isso\nsozinha."
+            "text": "Eu me tornarei a número um — mas<n>não posso fazer isso sozinha."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "É por isso que... você precisa me<n>acompanhar e se tornar\no(a)<n>treinador(a) número um também!"
+            "text": "É por isso que... você precisa me<n>acompanhar e se tornar o(a)<n>treinador(a) número um também!"
         },
         {
             "name": "Monólogo",
-            "text": "No dia seguinte, Daiwa Scarlet corre<n>com uma nova\ndeterminação sob o sol<n>brilhante, mais radiante do que o<n>\npróprio horizonte distante."
+            "text": "No dia seguinte, Daiwa Scarlet corre<n>com uma nova determinação sob o<n>sol brilhante, mais radiante do que o<n>próprio horizonte distante."
         }
     ]
 }

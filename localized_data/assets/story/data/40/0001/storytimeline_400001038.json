@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "No caminho de volta da sessão de<n>instruções da\nclasse Ouro, avisto um<n>caderno de treinador\ncaído na estrada."
+            "text": "No caminho de volta da sessão de<n>instruções da\nclasse Ouro, avisto um<n>caderno de treinador\ncaído na<n>estrada."
         },
         {
             "name": "Monólogo",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Não apenas o cronograma de<n>treinamento dela,\nmas também o seu<n>amor por aquários, seus\nrestaurantes<n>favoritos e várias receitas<n>\nassociadas...",
+            "text": "Não apenas o cronograma de<n>treinamento dela,\nmas também o seu<n>amor por aquários, seus\nrestaurantes<n>favoritos e várias receitas\nassociadas...",
             "choice_data_list": [
                 "(Tudo isso parece muito familiar...)"
             ]
@@ -138,7 +138,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Com a forma abrupta com que a<n>Treinadora\nKiryuin foge da conversa, é<n>difícil não se sentir\npreocupado.",
+            "text": "Com a forma abrupta com que a<n>Treinadora\nKiryuin foge da conversa,<n>é difícil não se sentir\npreocupado.",
             "choice_data_list": [
                 "(Será que ela está bem?)",
                 "(Será que ela está bem?)"

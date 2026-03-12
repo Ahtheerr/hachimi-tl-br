@@ -1,0 +1,381 @@
+{
+    "text_block_list": [
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Entendi, entendi! Então, este verão,<n>você deseja\nse reinventar como uma<n>corredora digna de\ncarregar as<n>expectativas dos seus fãs, é isso?!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Sim! Eu estava esperando que você<n>soubesse\ncomo eu poderia fazer<n>isso..."
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Nestas horas, só existe uma<n>resposta: você\ndeve ir com TUDO NO<n>BAKUSHIN!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Se tudo o que a Kitasan Black<n>precisasse fosse\num reforço na<n>energia, essa resposta bastaria,\nmas<n>ela precisa de mais do que isso<n>agora...",
+            "choice_data_list": [
+                "Por que você não pede conselhos para as outras\nalunas hoje à noite?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Pode deixar! Obrigada pelo conselho,<n>Treinador!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, naquela noite, Kitasan Black,<n>Vodka e\nGold Ship vão todas a uma<n>pequena loja de\nlámen."
+        },
+        {
+            "name": "Vodka",
+            "text": "Hmm, então ninguém está esperando<n>nada de\nvocê, hein... É, ser ignorada e<n>jogada de\nescanteio é um saco."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "É, é, na minha vila era a mesma coisa.<n>Ei,\nsenhora! Me vê mais uma porção<n>de macarrão\naí!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A dupla de exceções ouve<n>atentamente as\nlamentações da<n>Kitasan Black."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Eu sempre quis ser útil e estar à<n>altura das\nesperanças e sonhos que<n>as pessoas\ndepositaram em mim<n>desde pequena."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "É por isso que não estou nada<n>acostumada a me\nsentir inútil ou<n>desnecessária. Na verdade, sinto\nque<n>só estou no caminho de todo mundo..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Bom, isso tudo depende de como<n>você encara.\nNão ter nenhuma<n>expectativa em cima de você\ntambém<n>tem suas vantagens."
+        },
+        {
+            "name": "Vodka",
+            "text": "Não tem nada mais maneiro do que<n>conseguir\nficar fora do radar de todo<n>mundo e roubar uma\ncorrida do nada!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Roubar uma corrida do nada... Você<n>realmente\nacha que isso é algo que<n>vale a pena, Vodka?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Sim. Se fosse eu, seria uma<n>verdadeira agente\ninfiltrada,<n>esperando o momento certinho para\natacar!"
+        },
+        {
+            "name": "Vodka",
+            "text": "E no segundo em que eu fizesse<n>isso, balançaria\nas coisas com tudo o<n>que eu tenho! É assim que\neu vivo a<n>minha vida."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Eu faria a mesma coisa."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Você também, Golshi?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Isso aí. Na verdade, eu faria algo<n>ainda maior,\ncoisas que ninguém<n>esperava que eu fizesse e\ncausaria<n>um baita alvoroço! Esse é o *meu*\njeito de viver!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Você não faz nada parecido, faz? Tipo<n>fazer uma\npose logo na saída do<n>portão de largada?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Não faço, e acho que nunca vou<n>fazer!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Deixando o \"conselho\" da Gold Ship<n>de lado, é\nverdade que não ter<n>expectativas sobre você\nabre a<n>oportunidade perfeita para provar que\nas pessoas estão erradas."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Mas eu não acho que consigo ser<n>como vocês\nduas. Quero dizer, é que..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "É incrível. Justo quando o público<n>menos espera,\nvocês se jogam no<n>holofote de um jeito que não\ndá para<n>ignorar!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Bem, mudar o seu jeito de viver não<n>é fácil. E\npô, nem precisa fazer algo<n>tão drástico assim."
+        },
+        {
+            "name": "Vodka",
+            "text": "Se você vive a vida carregando as<n>expectativas\ndas pessoas e dando o<n>seu melhor para cumprir\ntodas elas..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Então por que você não tenta<n>descobrir por que\nas pessoas não<n>estão esperando nada de você,\npara<n>começar?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Acho que é um bom lugar para<n>começar..."
+        },
+        {
+            "name": "Vodka",
+            "text": "É isso aí. Se você não está<n>aparecendo no radar\nde ninguém,<n>então precisa descobrir como\nprender<n>a atenção deles e *fazê-los* te\nenxergarem."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "É, como dizem por aí, o mundo é de<n>quem o\nconquista. Mas como<n>também dizem, o que é\nseu é meu. É<n>assim que as coisas são."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Entendi... Com certeza é um jeito de<n>se ver as\ncoisas. Se as pessoas não<n>estão prestando\natenção em mim,<n>então eu tenho que achar um\njeito de<n>fazê-las me notarem..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Muito obrigada pelos conselhos!<n>Agora eu só\npreciso decidir o que vou<n>fazer a seguir."
+        },
+        {
+            "name": "Vodka",
+            "text": "Fico feliz que tenha tirado algo dessa<n>conversa.\nAh, a propósito!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Como eu fui hoje? Fui a mentora<n>mais\ndescolada de todas, ou o quê?"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Pode parando! Eu sou a descolada<n>aqui esta\nnoite! Fui eu que trouxe a<n>gente para esta loja\nde lámen, afinal<n>de contas!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Você concorda, né, senhora? Como<n>elas\npoderiam ter achado esta joia<n>escondida sem\nmim?"
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Não posso dizer que você está<n>errada. Você está\nsempre trazendo<n>gente para este nosso\nburaquinho na<n>parede."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Q-que tal dizermos que vocês duas<n>foram\ndescoladas?"
+        },
+        {
+            "name": "Vodka e Golshi",
+            "text": "Nem pensar! Escolha qual de nós foi<n>a mais\ndescolada!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não sei como nos envolvemos nesse<n>estranho\nconcurso de popularidade,<n>mas se eu tivesse\nque dizer qual<n>filosofia foi mais influente, eu\ndiria...",
+            "choice_data_list": [
+                "A Gold Ship e seus métodos nada convencionais.",
+                "A Vodka e seu espírito desafiador."
+            ]
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Isso aí, amigão! Você entende das<n>coisas! Como\ndizem, coisas incríveis<n>acontecem quando você\nmenos<n>espera!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Beleza, Kitasan! Hora de arrombar a<n>porta que\nestá bloqueando o seu<n>caminho! Hup, hup,\nhi-yaaaah! Crava<n>o joelho nela!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "S-sim, senhora! Com certeza vou<n>usar um pouco\nde força sempre que<n>a situação exigir!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O jeito impositivo de viver da Gold<n>Ship parece\nter inspirado bastante a<n>Kitasan Black."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Mas como eu deveria ganhar<n>atenção?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Hehe! É claro que fui eu! Meu estilo<n>de vida\nmexeu com você, né?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Eu posso te contar tudo sobre o que<n>significa ter\num coração de verdade!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Obrigada! Isso seria ótimo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O espírito rebelde da Vodka ajuda a<n>encher a\nKitasan Black de coragem."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Mas como eu deveria ganhar<n>atenção?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Se ninguém nunca esperou nada de<n>mim e as\nopiniões não mudam nem<n>depois de eu ter dado\ntudo de mim, o<n>que mais eu posso fazer?!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Acho que a senhora do lámen pode<n>responder\nisso melhor do que eu. E<n>então? O que a senhora\nacha?"
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Boa pergunta. Suponho que as coisas<n>acabem\ndando certo no fim, desde<n>que você continue\ntentando, mesmo<n>que ninguém esteja te\nprestando<n>atenção."
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Sabe, esta loja nem sempre foi<n>popular assim.\nEla foi ficando<n>movimentada aos poucos com o\ntempo. Dê uma olhada naquelas fotos<n>na parede."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hm?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Uau, são todas fotos de Umamusume!<n>Você\ntambém está ali, Golshi! Para<n>que elas servem?"
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Aquelas são todas Umamusumes que<n>nos\napoiaram ao longo dos anos.<n>Cada uma delas\nnos visitou durante<n>os seus acampamentos de\nverão."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Depois que a loja fecha, vamos para<n>a praia e a\nsenhora da loja de lámen<n>compartilha sua\nhistória conosco."
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "No começo, ninguém vinha ao nosso<n>restaurante.\nMas com o tempo,<n>algumas Umamusumes\napareciam<n>ocasionalmente para comer algo."
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Então, as coisas foram ficando cada<n>vez mais\nanimadas. É claro que eu<n>estava feliz com a\nmudança..."
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Mas quanto mais corredoras vinham<n>comer na\nnossa loja, mais eu as via<n>chorar. E nossa,\ntantas delas<n>choravam..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Sério?"
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Sério. Entre as Umamusumes que<n>vinham comer,\nhavia aquelas que não<n>conseguiam vencer\nnenhuma corrida<n>e não ganhavam fama\nnenhuma..."
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Uma corredora em particular tinha um<n>potencial\nincrível, e ela até conseguiu<n>quase vencer em\numa corrida<n>grande... a palavra-chave aqui sendo\n*quase.*"
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Eu achei que ela pudesse<n>simplesmente desistir\num dia, mas<n>ela ainda aparecia aqui todo ano.\nEra<n>um alívio enorme toda vez que eu a<n>via."
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Ela foi ganhando atenção aos<n>pouquinhos e,\nquando finalmente<n>venceu sua primeira corrida\nG1,<n>nossa, que festa nós fizemos para<n>ela!",
+            "color_text_info_list": [
+                "G1"
+            ]
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Umamusumes como ela sempre<n>foram clientes\nda nossa humilde<n>lojinha de lámen."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Nossa, que incrível... Quanto tempo<n>levou para ela\nvencer uma G1?"
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Bem, vejamos... Cerca de cinco anos."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Cinco anos?!"
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Sim. Ela me disse uma vez que a<n>Twinkle Series\nera como uma longa<n>jornada para ela."
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Que o único jeito de chegar à linha de<n>chegada\nera correndo até o final. Que<n>tudo o que ela podia\nfazer era<n>continuar acreditando em si mesma e\ndar um passo após o outro."
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Eu nunca vou esquecer aquele dia... O<n>jeito que\ntodas as outras<n>Umamusumes na sala olhavam\nenquanto saboreavam seu macarrão<n>e a ouviam\nfalar..."
+        },
+        {
+            "name": "Dona da Loja de Lámen",
+            "text": "Isso me lembra, Golshi. Você estava<n>chorando\num balde quando ela<n>finalmente venceu aquela\ncorrida..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Não, eu não estava! Tô te falando, foi<n>só porque\nentrou um pouco de<n>pimenta no meu ouvido!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Não importa o quão impossível<n>parecesse, ela\ncontinuou tentando por<n>cinco anos inteiros..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Mesmo que, no fundo, eu tenha<n>certeza de que\nela estava<n>superfrustrada consigo mesma."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Tantas outras Umamusumes na<n>mesma situação\ndevem ter comido<n>naquela loja de lámen..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Eu... eu..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Lágrimas brilham nos olhos da<n>Kitasan Black\nenquanto ela olha para<n>a Via Láctea, seu olhar\nseguindo o<n>caminho pelo céu."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Kitasan Black fica em silêncio<n>enquanto reflete\nsobre os<n>sentimentos daquelas que trilharam o\nmesmo caminho antes de nós.<n>Caminhamos em\nseus passos agora<n>e, algum dia, sua sucessora\nseguirá<n>os dela."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Treinador, eu sou... eu sou tão<n>patética."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Eu sabia o tempo todo o que eu<n>precisava fazer\npara atrair a atenção<n>das pessoas! Eu sabia o\ntempo todo!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Eu não tenho nem de longe um<n>histórico de\nvitórias respeitável no<n>meu nome! Digo, eu só\nestou<n>correndo há um ano!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Mas a Umamusume de quem<n>ouvimos falar\ncorreu por cinco anos<n>antes de conseguir. Cinco\nanos! E<n>existem inúmeras outras como ela!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "E aqui estou eu, reclamando..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Kitasan Black direciona toda a sua<n>frustração\npara si mesma e em como<n>deixou uma\npreocupação tão<n>insignificante pará-la ontem.",
+            "choice_data_list": [
+                "Acho que teremos que conquistar a atenção de\ntodo mundo de agora em diante."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Sim. Vamos fazer isso. Não vou mais<n>reclamar.\nSó vou focar em correr bem<n>e vencer minhas\ncorridas!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Quero continuar mostrando para as<n>pessoas que\nsou digna de estar nas<n>areias desta praia!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Eu juro por este oceano e por estas<n>ondas que\nnão vou recuar! Nem um<n>passo sequer!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Vou me tornar uma Umamusume tão<n>grande\nquanto aquelas que vieram<n>antes de mim!"
+        }
+    ]
+}

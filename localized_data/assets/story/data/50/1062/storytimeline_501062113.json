@@ -1,0 +1,394 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Vários dias após a estreia de\nMatikanetannhauser..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Treinador! SOS! Mayday!",
+            "choice_data_list": [
+                "O que houve?",
+                "O que houve?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ahn... Bom, é que... Só liga a TV!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Faço o que ela diz, me atrapalho para<n>ligar a TV e\nencontro..."
+        },
+        {
+            "name": "Locutor A",
+            "text": "Estamos entrevistando Umamusume<n>que\nestrearam neste ano! Hoje,<n>estamos\ndestacando alguém que<n>mostrou uma habilidade\nincrível na<n>sua corrida de estreia — Mihono\nBourbon!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Uau! A Bourbon tá mesmo correndo<n>na TV!",
+            "color_text_info_list": [
+                "Bourbon"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Nossa, digo, eu ouvi que ela foi<n>entrevistada, mas\nisso não é legal?!<n>E eu estreei na mesma época\nque<n>ela! Tô tão orgulhosa dela!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "As pessoas no Hipódromo de<n>Chukyo, onde a\nMihono Bourbon fez<n>sua estreia, estão\nmaravilhadas com<n>o talento dela."
+        },
+        {
+            "name": "Homem A",
+            "text": "Ela teve um começo lento, mas<n>chegou até o\nprimeiro lugar naquela<n>reta! Isso me deu arrepios\nde<n>verdade!"
+        },
+        {
+            "name": "Mulher A",
+            "text": "As pernas dela parecem tão fortes.<n>Tenho\ncerteza de que ela vai<n>continuar melhorando\ncada vez mais."
+        },
+        {
+            "name": "Repórter A",
+            "text": "Você é a grande nova estrela da<n>temporada!\nPoderia nos dizer<n>exatamente quais são os seus\nobjetivos para a Twinkle Series?"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Meu único objetivo é vencer a<n>Tríplice Coroa\nClássica."
+        },
+        {
+            "name": "Repórter A",
+            "text": "Entendo! Sem querer ser rude, mas é<n>um tanto\nsurpreendente ouvir isso.<n>Pensei que você\nestaria mais<n>interessada em sprints..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Eu posso ser mais adequada para<n>sprints, mas\nisso não importa. Meu<n>objetivo é a Tríplice\nCoroa e a minha<n>decisão é final."
+        },
+        {
+            "name": "Monólogo",
+            "text": "(Uau...)"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mihono Bourbon declara seu<n>objetivo com\ncalma e confiança<n>diante das câmeras."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Uau! Isso foi tão legal! A Bourbon é<n>mesmo\nincrível!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ah. Mas se ela tá na Turnê da Tríplice<n>Coroa,\nisso quer dizer que a gente vai<n>correr uma contra\na outra, né?",
+            "choice_data_list": [
+                "Isso mesmo.",
+                "Isso mesmo."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Minha nossa!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto isso, o mesmo programa<n>está\npassando na TV do saguão do<n>dormitório."
+        },
+        {
+            "name": "Locutor A",
+            "text": "A seguir, cobriremos as Umamusume<n>em seus\nanos clássico e sênior!",
+            "color_text_info_list": [
+                "sênior"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Aposto que sei de quais duas eles<n>vão falar."
+        },
+        {
+            "name": "Locutor A",
+            "text": "Uma foi aclamada como a fundista<n>mais forte da\nárea — Mejiro<n>McQueen!",
+            "color_text_info_list": [
+                "Mejiro McQueen"
+            ]
+        },
+        {
+            "name": "Locutor A",
+            "text": "E a outra é o prodígio que ainda não<n>perdeu uma\ncorrida sequer, incluindo<n>tanto o Japanese Derby\nquanto a<n>Satsuki Sho — Tokai Teio!",
+            "color_text_info_list": [
+                "Tokai Teio"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hah. Como eu imaginava..."
+        },
+        {
+            "name": "Locutor A",
+            "text": "Temos a nata da nata aqui! Espero<n>que\ntenhamos a chance de vê-las se<n>enfrentarem\nalgum dia."
+        },
+        {
+            "name": "Especialista em Corridas",
+            "text": "Concordo. No entanto, a lesão da<n>Tokai Teio logo\napós o Derby foi<n>muito lamentável."
+        },
+        {
+            "name": "Especialista em Corridas",
+            "text": "Acredito que disseram que ela levará<n>cerca de\nseis meses para se<n>recuperar e que não correrá\nna<n>Kikuka Sho. É uma pena, porque a<n>Tríplice\nCoroa teria sido uma certeza."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...!"
+        },
+        {
+            "name": "Locutor A",
+            "text": "Isso mesmo. Muitas pessoas<n>esperavam ver\numa nova campeã da<n>Tríplice Coroa.\nPessoalmente, eu<n>também estou desapontado\nque ela<n>não vá correr."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Se ela pudesse correr, teria sido uma<n>certeza..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...É... Provavelmente é verdade..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Alguns dias depois..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Muuun! Eu dei a minha vida correndo<n>hoje!\nValeu, Treinador!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ah. Aquela ali... é a Nature?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sigo o olhar da Matikanetannhauser e<n>encontro a\nNice Nature observando a<n>pista com uma\nexpressão<n>melancólica no rosto.",
+            "choice_data_list": [
+                "Me pergunto o que aconteceu."
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Bom... Na verdade, ela tá assim já<n>tem uns dias."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Pra ser sincera, eu tô meio<n>preocupada..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Vou lá falar com ela rapidinho!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Deixa eu adivinhar. Você tá meio pra<n>baixo\nporque tirou uma sorte modesta<n>hoje?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Mas tá tudo bem! O nome da Uma<n>sortuda de\nhoje começa com \"M\" e<n>termina com \"R\". Se\nvocê falar com<n>ela, vai ficar feliz de novo\nrapidinho!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hã? O que deu em você de repente?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "H-hum... Eu tô só fingindo ser a Fuku!",
+            "color_text_info_list": [
+                "Fuku"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Só por tempo limitado, essa<n>Umamusume sortuda\ntá disposta a<n>ouvir qualquer problema."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hehe... Só tentando aliviar o clima."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Pffft!</i> Isso é tão — que diabos?!<n>Haha."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Suspiro...</i> Obrigada por me fazer<n>rir. E\ndesculpa por te preocupar."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Mas será que uma Umamusume<n>cujo nome\ncomeça com \"M\" e<n>termina com \"R\" realmente\nestaria<n>disposta a me ouvir um pouquinho?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "A questão é... Eu já queria correr na<n>Kikuka Sho\nfaz um tempinho."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Originalmente, foi a Tokai Teio que me<n>deu\nvontade de entrar. Achei que<n>valia a pena tentar\ne me joguei de<n>cabeça nos treinos."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Mas aí eu vi aquele segmento sobre<n>o quão\nchateados todos estavam<n>com o fato da Teio não\ncorrer na<n>Kikuka Sho."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Sabe como aquele especialista disse<n>que a\nTríplice Coroa teria sido uma<n>certeza pra ela se\ncorresse? Não<n>acreditei que eles disseram algo\nassim!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Tenho certeza de que a Teio sabe<n>disso melhor\ndo que ninguém! Mas<n>ela não pode correr."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Desde que era pequena, ela tinha o<n>coração\nfocado em ser a invencível<n>campeã da Tríplice\nCoroa. Ela<n>trabalhou tanto pra isso, e agora é\nimpossível!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Mesmo que ela provavelmente<n>esteja arrasada,\ntodas essas<n>pessoas estão dizendo coisas\nirresponsáveis assim sobre ela...<n>Deve ser\ndifícil... tem que ser."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "...É."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...E além disso, quem quer que acabe<n>ganhando\na Kikuka Sho<n>provavelmente também vai ter que\nouvir essa asneira."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "As pessoas vão dizer que ela só<n>ganhou porque\na Teio não estava lá."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Só por uma questão de argumento,<n>vamos dizer\nque eu ganhasse, por<n>exemplo. Tenho certeza de\nque ficaria<n>em êxtase."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Mas sempre haveria aquela nota de<n>rodapé\ndizendo que foi porque a Teio<n>não estava lá..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha. Não acredito que tô dizendo<n>isso antes\nmesmo de correr. Mas a<n>minha mente não para\nde divagar pra<n>essas coisas sem sentido..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ugh! Eu sou muito tosca!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Eu deveria estar colocando tudo que<n>tenho no\ntreino agora..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Matikanetannhauser olha gentilmente<n>para Nice\nNature enquanto ela abaixa<n>a cabeça."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "O que você faria nessa situação,<n>Tannhauser?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hã? Eu?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hm... Bom... Acho que eu estaria<n>pensando na\nmesma coisa que você."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Digo, isso incomodaria qualquer uma.<n>Tenho\ncerteza de que eu também<n>ficaria remoendo."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Mas, apesar de tudo isso, acho que<n>sempre\nhaveria uma parte de mim<n>que simplesmente ia\nquerer ganhar a<n>Kikuka Sho."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Certo."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Então... É..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Você só precisa vencer de forma tão<n>convincente\nque ninguém vai nem te<n>comparar com a Teio."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Hã?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "É, acho que essa é a sua única<n>opção! Você tem\nque ganhar de<n>lavada..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Pra que todo mundo se esqueça<n>completamente\nda Teio!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ahn... Você ouviu o que eu disse?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Um silêncio repentino recai sobre<n>elas. As duas\nficam se encarando,<n>até que..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hah! Haha, ahahaha!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hã?! Eu falei alguma coisa<n>engraçada?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Caramba! Eu devia saber — esse é<n>exatamente o\ntipo de pessoa que<n>você é... Mas obrigada, você\nme deu<n><i>exatamente</i> o choque de<n>realidade\nque eu precisava."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Eu tenho que manter a cabeça<n>erguida e\ncontinuar seguindo em<n>frente. Não vou chegar a\nlugar<n>nenhum choramingando desse jeito."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...É. Eu vou ganhar. Vai ser um<n>atropelo. É\ntotalmente possível."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Eu não tenho certeza do que tá<n>acontecendo,\nmas você tá se<n>sentindo melhor, né?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Sim, com certeza... Obrigada."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ufaaa! Belezaaa! Então, o que me<n>diz? Quer sair\ncorrendo pro pôr do<n>sol?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha! Sem chance."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As duas brincam uma com a outra<n>enquanto\ncaminham de volta para a<n>academia. O sol pode\nestar se pondo,<n>mas a Nice Nature parece um\npouco<n>mais radiante."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Mesmo que você não brilhe tanto<n>quanto o sol,\nvocê tem uma arma que<n>ninguém mais tem! Você\ntem o poder<n>de pegar a mão de alguém e dar o\nempurrão que a pessoa precisa!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto como se quase pudesse ouvir<n>as palavras\nda Diretora Akikawa<n>daquele dia ecoando no ar."
+        }
+    ]
+}

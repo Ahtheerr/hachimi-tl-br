@@ -1,0 +1,113 @@
+{
+    "text_block_list": [
+        {
+            "name": "Sistema de Som da Academia",
+            "text": "Treinador <username>, por favor,<n>compareça à\nsala da diretora<n>imediatamente."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O anúncio parece sério, então sigo<n>para a sala da\ndiretora um tanto<n>agitado.",
+            "choice_data_list": [
+                "É o <username>."
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Por favor, entre!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Sente-se, por favor."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "...",
+            "choice_data_list": [
+                "...E-er?"
+            ]
+        },
+        {
+            "name": "Tazuna e Diretora Akikawa",
+            "text": "..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O silêncio é decididamente<n>perturbador! Enquanto\nos minutos<n>sem palavras começam a parecer\nhoras..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "...Fico cada vez mais inquieto.<n>Aconteceu algo\nterrível?",
+            "choice_data_list": [
+                "Er! O-o que está acontecendo?!"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Gratidão!",
+            "choice_data_list": [
+                "...Hã?"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Chamamos você aqui hoje para<n>expressar\nnossa gratidão a você,<n>Treinador!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Exato! Sua aprendiz, <chrname>..."
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Bem, ela deu um show brilhante ao<n>longo deste\nvital terceiro ano em sua<n>carreira na Twinkle\nSeries!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Não temos dúvidas de que a trilha<n>que ela\ndesbravou servirá como um<n>farol brilhante não\napenas para suas<n>colegas, mas também para a\npróxima<n>geração!"
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Sendo assim, estamos...<n>INCRIVELMENTE\ngratas! Esplêndido<n>trabalho, Treinador!",
+            "choice_data_list": [
+                "Muito obrigado!"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Certo! Além disso... Expectativas!<n>Anseio muito\npela glória sem<n>precedentes que você\ncertamente<n>alcançará no futuro!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Eu também gostaria de agradecer<n>pelos seus\nesforços contínuos. Por<n>favor, não hesite em me\navisar se<n>houver algo em que eu possa ajudar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que tudo o que tinham<n>reservado era uma\nmontanha de<n>elogios! Estou muito agradecido, é\nclaro, mas algo ainda me incomoda.",
+            "choice_data_list": [
+                "O que foi aquele silêncio constrangedor?"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Uma surpresa! Naturalmente!",
+            "choice_data_list": [
+                "...Uma surpresa?"
+            ]
+        },
+        {
+            "name": "Diretora Akikawa",
+            "text": "Sim! Achei que criar um pouco de<n>suspense\ntornaria a recompensa<n>mais doce!"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "D-Desculpe. Eu tentei impedi-la..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "...Há uma ou duas coisas que eu<n>gostaria de\nquestionar, mas estou<n>feliz em saber que sou\nvalorizado."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mais tarde, conto para a <chrname> o<n>que\naconteceu e compartilhamos a<n>alegria!"
+        }
+    ]
+}

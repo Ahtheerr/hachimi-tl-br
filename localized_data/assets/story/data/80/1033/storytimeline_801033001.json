@@ -2,104 +2,104 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "I'm shopping at the mall when I see<n>Admire\nVega consoling a crying boy."
+            "text": "Estou fazendo compras no shopping<n>quando\nvejo Admire Vega<n>consolando um menino\nchorando."
         },
         {
             "name": "Admire Vega",
-            "text": "Hey, what happ—"
+            "text": "Ei, o que hou—"
         },
         {
             "name": "Boy",
-            "text": "Waaah!"
+            "text": "Buááá!"
         },
         {
             "name": "Admire Vega",
-            "text": "<i>Sigh...</i>",
+            "text": "<i>Suspiro...</i>",
             "choice_data_list": [
-                "What's wrong?",
-                "What's wrong?"
+                "O que houve?",
+                "O que houve?"
             ]
         },
         {
             "name": "Admire Vega",
-            "text": "That's what I'd like to know.",
+            "text": "Isso é o que eu gostaria de saber.",
             "choice_data_list": [
-                "Hi, are you lost?"
+                "Oi, você está perdido?"
             ]
         },
         {
             "name": "Boy",
-            "text": "Waaaaaah! I'm scared!"
+            "text": "Buááááá! Estou com medo!"
         },
         {
             "name": "Admire Vega",
-            "text": "He's been like this for a while now.<n>I've tried\ntalking to him, but he won't<n>stop crying.",
+            "text": "Ele está assim já faz um tempo. Eu<n>tentei falar\ncom ele, mas ele não para<n>de chorar.",
             "choice_data_list": [
-                "Let's work together!",
-                "Let's try getting him to calm down."
+                "Vamos trabalhar juntos!",
+                "Vamos tentar acalmá-lo."
             ]
         },
         {
             "name": "Admire Vega",
-            "text": "Huh? I said I've already tried<n>everyth—",
+            "text": "Hã? Eu disse que já tentei tud—",
             "choice_data_list": [
-                "Can you fetch someone from the information\nkiosk? I'll stay with the boy.",
-                "Can you fetch someone from the information\nkiosk? I'll stay with the boy."
+                "Você pode buscar alguém no balcão de\ninformações? Eu fico com o menino.",
+                "Você pode buscar alguém no balcão de\ninformações? Eu fico com o menino."
             ]
         },
         {
             "name": "Admire Vega",
-            "text": "...Okay."
+            "text": "...Tudo bem."
         },
         {
             "name": "Monólogo",
-            "text": "In just a few minutes, we<n>successfully get the\nmall staff to make<n>an announcement over the PA<n>\nsystem."
+            "text": "Em apenas alguns minutos,<n>conseguimos fazer\ncom que os<n>funcionários do shopping façam um\nanúncio pelo sistema de som."
         },
         {
             "name": "Boy",
-            "text": "Big siiis! I was so scared!"
+            "text": "Manaaa! Eu fiquei com tanto medo!"
         },
         {
             "name": "Girl",
-            "text": "And I told you not to go off on your<n>own! You'd\nbetter not let go of my<n>hand this time!",
+            "text": "E eu te disse para não sair por aí<n>sozinho! É\nmelhor você não soltar a<n>minha mão desta vez!",
             "choice_data_list": [
-                "I'm glad we found his family."
+                "Ainda bem que encontramos a família dele."
             ]
         },
         {
             "name": "Admire Vega",
-            "text": "...Me too."
+            "text": "...Eu também."
         },
         {
             "name": "Monólogo",
-            "text": "Seeing the boy evidently in a state of<n>panic from\nbeing lost, we pat him on<n>the back and try our\nbest to reassure<n>him."
+            "text": "Ao ver o menino evidentemente em<n>estado de\npânico por estar perdido,<n>nós damos tapinhas em\nsuas costas<n>e tentamos ao máximo tranquilizá-lo."
         },
         {
             "name": "Boy",
-            "text": "<i>...Sniffle.</i> My sister... I don't know<n>where she\nis."
+            "text": "<i>...Snif.</i> Minha irmã... Não sei onde<n>ela está."
         },
         {
             "name": "Admire Vega",
-            "text": "...! Oh."
+            "text": "...! Ah."
         },
         {
             "name": "Admire Vega",
-            "text": "Don't worry, I'm sure your sister is<n>also looking\nfor you. Where did you<n>two get separated?"
+            "text": "Não se preocupe, tenho certeza de<n>que sua irmã\ntambém está te<n>procurando. Onde vocês se\nsepararam?"
         },
         {
             "name": "Monólogo",
-            "text": "Later, after we get enough<n>information from the\nboy..."
+            "text": "Mais tarde, após obtermos<n>informações\nsuficientes do menino..."
         },
         {
             "name": "Boy",
-            "text": "Thank you! Bye bye!",
+            "text": "Obrigado! Tchau tchau!",
             "choice_data_list": [
-                "Good for him."
+                "Que bom para ele."
             ]
         },
         {
             "name": "Admire Vega",
-            "text": "...Yeah."
+            "text": "...É."
         }
     ]
 }

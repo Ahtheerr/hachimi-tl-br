@@ -1,0 +1,227 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "O artigo da Repórter Otonashi sobre<n>mim foi\nsurpreendentemente bem<n>recebido!"
+        },
+        {
+            "name": "Transeunte A",
+            "text": "Uau, então esse é o tipo de regime<n>que a\n<chrname> faz com o treinador<n>dela."
+        },
+        {
+            "name": "Transeunte B",
+            "text": "Ouvi todos aqueles boatos sobre<n>treinos\nexcessivamente brutais, mas<n>isso mostra uma\nimagem totalmente<n>diferente."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Conforme o artigo circula, aqueles<n>boatos\nestranhos sobre mim<n>começam a desaparecer\ngradualmente."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Os dias que <chrname> e eu<n>passamos com a\nRepórter Otonashi<n>terminaram num piscar de\nolhos..."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Trabalhando até tarde de novo? Está<n>pensando\nna sua agenda de<n>corridas?",
+            "choice_data_list": [
+                "Vejo que você também continua na ativa."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Sim, faço isso porque amo. Dito isto,<n>não estou\naqui hoje para fazer minha<n>cobertura habitual\nsobre você.",
+            "choice_data_list": [
+                "Hm?"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Acabei de receber a notícia — você foi\nselecionada para participar da<n>Twinkle Star\nClimax!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Parabéns!",
+            "choice_data_list": [
+                "Obrigado!"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Você finalmente conseguiu! Então,<n>como se\nsente?!",
+            "choice_data_list": [
+                "Eu tinha fé de que conseguiríamos entrar."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Oh? Gostei da confiança! Presumo<n>que não vá\nabrir mão do título de<n>\"maior\" para mais ninguém!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Gostaria de aproveitar esta<n>oportunidade para\ntirar uma foto sua.<n>Que tal uma lá na pista de\ntreino?"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Ótimo! Ficou perfeita, obrigada!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Certamente aproveitamos ao máximo<n>a pista\nvazia."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Consegui uma foto rara de um<n><i>treinador</i>\ncorrendo nela a toda<n>velocidade!",
+            "choice_data_list": [
+                "Na verdade, fiquei bem agitado quando você\ncomeçou a correr ao meu lado de repente."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Achei que essa seria a melhor forma<n>de imbuir a\nimagem com uma<n>sensação de realismo. Ufa...\nNão me<n>lembro da última vez que corri tanto.",
+            "choice_data_list": [
+                "Você é muito rápida."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Hehe. Você acha?"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "...Terminei minha reportagem por<n>hoje, então o\nque me diz de uma<n>conversa casual?",
+            "choice_data_list": [
+                "Sem objeções."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Obrigada. Vamos admirar a paisagem<n>da pista..."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Enquanto damos uma corridinha leve!",
+            "choice_data_list": [
+                "O quê?!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Fazemos como ela propõe e<n>continuamos nossa\nconversa<n>enquanto trotamos pela pista."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Sabe quando você elogiou minha<n>rapidez ali\natrás? Bem, lá no interior,<n>eu era conhecida por\nser rápida."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Eu tinha bastante orgulho da minha<n>rapidez\nquando era criança. Mas um<n>dia..."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Uma Umamusume foi transferida para<n>a minha\nsala.",
+            "choice_data_list": [
+                "Uma Umamusume, hein..."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Não precisa nem dizer, mas ela era<n>incrivelmente\nrápida! A diferença<n>entre nós era tamanha que\neu não<n>tinha esperança nem de encostar na\ncauda dela."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Então eu saí do atletismo. A própria<n>ideia de um\nhumano vencer uma<n>Umamusume era absurda!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Repórter Otonashi aumenta a<n>velocidade\nrapidamente. Exige tudo<n>de mim para\nacompanhá-la!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Se eu não podia competir com ela, eu<n>queria\nvê-la coroada como a maior!<n>Esse era o sonho\negoísta ao qual eu<n>me apeguei!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Ela era realmente incrível! Podia ser<n>apenas um\nclube de corrida infantil,<n>mas ela ainda terminava\nem primeiro<n>lugar repetidamente!"
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Mas então! <i>Arf... arf...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Depois de cruzar a linha de chegada,<n>a Repórter\nOtonashi para de repente."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "...Ela perdeu em uma corrida<n>importante. E por\ncausa disso, todos<n>se recusaram a reconhecer\nque ela<n>era a melhor corredora do clube."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "O destino dela mudou naquele dia. Ela<n>possuía\nhabilidade real e, em termos<n>de talento e\nresultados, era<n>provavelmente a melhor do\nclube..."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Mas no final, ela decidiu parar de<n>correr... Isso\nacontece muito,<n>suponho.",
+            "choice_data_list": [
+                "Acontece?"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Sim. Uma única derrota pode decidir o<n>destino de\nalguém. Pode fechar para<n>sempre um caminho\nque antes<n>estava aberto para você."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Mas mesmo agora, eu... não consigo<n>deixar de\nacreditar que ela era a<n>corredora mais rápida de\ntodo o<n>mundo.",
+            "choice_data_list": [
+                "Então é por isso que você criou a nova série de\ncorridas?"
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Suponho que sim... Embora esse não<n>seja o\núnico motivo, é claro."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Acho que é por causa dela que estou<n>usando\nminha posição como repórter<n>para mostrar ao\nmundo minha<n>definição de \"a maior\"."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Quero que o maior número possível<n>de pessoas\nveja — o momento em<n>que uma Umamusume\nverdadeiramente talentosa prova sua<n>força.",
+            "choice_data_list": [
+                "É por isso que você quer atrair um número\nenorme de espectadores."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Exato. Eu não pude realizar meu<n>sonho de\ninfância..."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Mas a Twinkle Star Climax é o meu<n>outro sonho.",
+            "choice_data_list": [
+                "Tenho certeza de que esta será uma série de\ncorridas incrível."
+            ]
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Eu também acho! Especialmente<n>agora que sei o\nque você trará para<n>ela."
+        },
+        {
+            "name": "Repórter Otonashi",
+            "text": "Mais uma vez, parabéns por ter<n>conseguido\nentrar. Estou tão<n>empolgada que quase parece\nque<n>sou <i>eu</i> quem vai correr!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O dia em que \"a maior\" será decidida<n>se\naproxima rapidamente. <chrname><n>e eu chegamos\naté aqui...",
+            "choice_data_list": [
+                "(Será que conseguiremos alcançar nosso\nsonho?)",
+                "(Será que conseguiremos alcançar nosso\nsonho?)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nosso sonho nasceu no dia em que<n>prometi que\ncorreria ao lado da<n><chrname>. Não há como voltar\natrás<n>agora."
+        }
+    ]
+}

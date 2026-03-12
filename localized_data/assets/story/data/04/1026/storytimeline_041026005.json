@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Mihono Bourbon",
-            "text": "Hora atual — dezessete horas. Cota<n>atingida com sucesso.\nIniciando agora<n>um breve momento de descanso<n>antes de\niniciar a próxima fase do<n>treino."
+            "text": "Hora atual — dezessete horas. Cota<n>atingida com sucesso. Iniciando agora<n>um breve momento de descanso<n>antes de iniciar a próxima fase do<n>treino."
         },
         {
             "name": "Umamusume Honesta",
@@ -10,19 +10,19 @@
         },
         {
             "name": "Monólogo",
-            "text": "Uma Umamusume corre até onde<n>Bourbon está\ndescansando."
+            "text": "Uma Umamusume corre até onde<n>Bourbon está descansando."
         },
         {
             "name": "Umamusume Honesta",
-            "text": "Ei, espero não estar atrapalhando<n>nada! Só acho muito\nincrível o quanto<n>você se esforça todos os dias!"
+            "text": "Ei, espero não estar atrapalhando<n>nada! Só acho muito incrível o quanto<n>você se esforça todos os dias!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Não há necessidade de preocupação.<n>Parece que você\ndeseja ter uma<n>discussão. Como posso ajudá-la?"
+            "text": "Não há necessidade de preocupação.<n>Parece que você deseja ter uma<n>discussão. Como posso ajudá-la?"
         },
         {
             "name": "Umamusume Honesta",
-            "text": "Ah, bem... Ouvi dizer que você só<n>corria sprints, certo? É tão\nlegal que<n>você consiga correr média distância<n>agora!"
+            "text": "Ah, bem... Ouvi dizer que você só<n>corria sprints, certo? É tão legal que<n>você consiga correr média distância<n>agora!"
         },
         {
             "name": "Monólogo",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Se me permite perguntar, qual é o<n>propósito desta\nconversa?"
+            "text": "Se me permite perguntar, qual é o<n>propósito desta conversa?"
         },
         {
             "name": "Umamusume Honesta",
@@ -38,11 +38,11 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Você me envolveu em uma conversa<n>durante meu\ndescanso.<n>Estatisticamente, esta ação sugere<n>um motivo\nsubjacente."
+            "text": "Você me envolveu em uma conversa<n>durante meu descanso.<n>Estatisticamente, esta ação sugere<n>um motivo subjacente."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Motivos comuns incluem perguntas,<n>transmissão de\ninformações e<n>verificação de fatos. Qual dos itens<n>acima\nmelhor se adapta ao seu<n>propósito?"
+            "text": "Motivos comuns incluem perguntas,<n>transmissão de informações e<n>verificação de fatos. Qual dos itens<n>acima melhor se adapta ao seu<n>propósito?"
         },
         {
             "name": "Umamusume Honesta",
@@ -50,11 +50,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "Enquanto a Umamusume luta para<n>encontrar uma resposta,\nseu rosto<n>começa a ficar rosado."
+            "text": "Enquanto a Umamusume luta para<n>encontrar uma resposta, seu rosto<n>começa a ficar rosado."
         },
         {
             "name": "Umamusume Honesta",
-            "text": "Eu só queria falar com você... Sinto<n>muito por tomar seu\ntempo! Vou indo<n>agora!"
+            "text": "Eu só queria falar com você... Sinto<n>muito por tomar seu tempo! Vou indo<n>agora!"
         },
         {
             "name": "Mihono Bourbon",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Perplexa, Mihono Bourbon observa a<n>aprendiz\nenvergonhada se afastar.",
+            "text": "Perplexa, Mihono Bourbon observa a<n>aprendiz envergonhada se afastar.",
             "choice_data_list": [
                 "...Ei, o que houve?",
                 "...Ei, o que houve?"
@@ -70,89 +70,89 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Minha conversa terminou<n>inesperadamente devido a um<n>\nparâmetro de \"motivo\"<n>insuficientemente definido.<n>\nAnalisando log de erro para identificar<n>a fonte do erro.",
+            "text": "Minha conversa terminou<n>inesperadamente devido a um<n>parâmetro de \"motivo\"<n>insuficientemente definido.<n>Analisando log de erro para identificar<n>a fonte do erro.",
             "choice_data_list": [
                 "Espere, o que é um parâmetro de motivo?"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Tenho atualizado meu banco de<n>dados com amostras de\nexpressões<n>faciais e inflexão vocal, mas estou<n>tendo\ndificuldade em implementá-las<n>em conversas."
+            "text": "Tenho atualizado meu banco de<n>dados com amostras de expressões<n>faciais e inflexão vocal, mas estou<n>tendo dificuldade em implementá-las<n>em conversas."
         },
         {
             "name": "Monólogo",
-            "text": "Sentindo-me perplexo, paro um<n>momento para pensar. Seria\neste o<n>jeito único dela de tentar melhorar<n>sua fala com as\npessoas?",
+            "text": "Sentindo-me perplexo, paro um<n>momento para pensar. Seria este o<n>jeito único dela de tentar melhorar<n>sua fala com as pessoas?",
             "choice_data_list": [
                 "Posso perguntar por que você está fazendo\nisso?"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Certamente. Fui incentivada por meus<n>pais a melhorar\nminhas funções de<n>\"sociabilidade\"."
+            "text": "Certamente. Fui incentivada por meus<n>pais a melhorar minhas funções de<n>\"sociabilidade\"."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "A maior parte dos meus anos de<n>formação foi gasta\ntreinando do<n>nascer ao pôr do sol com meu pai.<n>\nConsequentemente, raramente tive<n>oportunidades de\ninteragir com<n>minhas colegas."
+            "text": "A maior parte dos meus anos de<n>formação foi gasta treinando do<n>nascer ao pôr do sol com meu pai.<n>Consequentemente, raramente tive<n>oportunidades de interagir com<n>minhas colegas."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Assim que minha aceitação na<n>Academia Tracen foi\nconfirmada,<n>meus pais começaram a demonstrar<n>grande\npreocupação com minhas<n>limitadas experiências\ninterpessoais."
+            "text": "Assim que minha aceitação na<n>Academia Tracen foi confirmada,<n>meus pais começaram a demonstrar<n>grande preocupação com minhas<n>limitadas experiências interpessoais."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Em várias ocasiões, eles me<n>disseram para, e cito,\n\"priorizar o<n>envolvimento com minhas amigas e<n>colegas\nde classe\"."
+            "text": "Em várias ocasiões, eles me<n>disseram para, e cito, \"priorizar o<n>envolvimento com minhas amigas e<n>colegas de classe\"."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "É verdade que habilidades<n>comunicativas são essenciais\npara<n>entrevistas e engajamento com fãs.<n>Como\nUmamusume, aprimorar minha<n>\"sociabilidade\" é\nsimplesmente<n>inevitável.",
+            "text": "É verdade que habilidades<n>comunicativas são essenciais para<n>entrevistas e engajamento com fãs.<n>Como Umamusume, aprimorar minha<n>\"sociabilidade\" é simplesmente<n>inevitável.",
             "choice_data_list": [
                 "(...Hum?)"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Defini um conjunto de parâmetros<n>relacionados à\n\"sociabilidade\" e tenho<n>me esforçado para refiná-los ao me<n>\nenvolver em conversas."
+            "text": "Defini um conjunto de parâmetros<n>relacionados à \"sociabilidade\" e tenho<n>me esforçado para refiná-los ao me<n>envolver em conversas."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "No entanto, as estatísticas mostraram<n>uma melhoria limitada\nem relação aos<n>meus parâmetros físicos."
+            "text": "No entanto, as estatísticas mostraram<n>uma melhoria limitada em relação aos<n>meus parâmetros físicos."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Um estudo mostrou que perguntas<n>são boas maneiras de\ncomeçar, mas<n>elas apenas fizeram minha parceira<n>de\nconversa fugir. Neste ritmo, a falha<n>é certa.",
+            "text": "Um estudo mostrou que perguntas<n>são boas maneiras de começar, mas<n>elas apenas fizeram minha parceira<n>de conversa fugir. Neste ritmo, a falha<n>é certa.",
             "choice_data_list": [
                 "(Nossa, por onde eu começo...)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Posso notar que suas intenções são<n>boas, mas seus\nmétodos deixam<n>muito a desejar."
+            "text": "Posso notar que suas intenções são<n>boas, mas seus métodos deixam<n>muito a desejar."
         },
         {
             "name": "Monólogo",
-            "text": "Será que os pais dela também são<n>robóticos assim? Tenho\na sensação<n>de que Bourbon está interpretando as<n>\ninstruções deles de forma racional<n>demais.",
+            "text": "Será que os pais dela também são<n>robóticos assim? Tenho a sensação<n>de que Bourbon está interpretando as<n>instruções deles de forma racional<n>demais.",
             "choice_data_list": [
                 "Acho que o que seus pais queriam dizer era..."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Explico que seus pais provavelmente<n>só querem que ela se\ndivirta<n>passando tempo com as amigas. Em<n>resposta, sua\nexpressão se torna<n>mais confusa."
+            "text": "Explico que seus pais provavelmente<n>só querem que ela se divirta<n>passando tempo com as amigas. Em<n>resposta, sua expressão se torna<n>mais confusa."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Minhas desculpas, mas estou tendo<n>problemas de\ncompreensão. Não<n>possuo dados relativos a \"passar<n>\ntempo com amigas\".",
+            "text": "Minhas desculpas, mas estou tendo<n>problemas de compreensão. Não<n>possuo dados relativos a \"passar<n>tempo com amigas\".",
             "choice_data_list": [
                 "Hum..."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Reformulando minha explicação,<n>começo a falar sobre os\nbenefícios de<n>ter amigas, mas sou interrompido."
+            "text": "Reformulando minha explicação,<n>começo a falar sobre os benefícios<n>de ter amigas, mas sou interrompido."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Meu período de descanso terminou<n>há vinte segundos.\nDevo retornar ao<n>meu treino agora."
+            "text": "Meu período de descanso terminou<n>há vinte segundos. Devo retornar ao<n>meu treino agora."
         },
         {
             "name": "Monólogo",
@@ -160,11 +160,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "As habilidades de corrida de Mihono<n>Bourbon são sem\ndúvida<n>impressionantes, mas sua falta de<n>conexão com o\nmundo além da pista<n>me preocupa."
+            "text": "As habilidades de corrida de Mihono<n>Bourbon são sem dúvida<n>impressionantes, mas sua falta de<n>conexão com o mundo além da pista<n>me preocupa."
         },
         {
             "name": "Monólogo",
-            "text": "Enquanto observo sua figura cruzar o<n>campo, rezo para que\num dia ela<n>entenda o significado por trás das<n>palavras de\nseus pais."
+            "text": "Enquanto observo sua figura cruzar o<n>campo, rezo para que um dia ela<n>entenda o significado por trás das<n>palavras de seus pais."
         }
     ]
 }

@@ -2,72 +2,72 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "One day, as I'm walking by the<n>training track..."
+            "text": "Um dia, enquanto passo pela pista de\ntreinamento..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Ow! Geez, that hurt..."
+            "text": "Ai! Caramba, isso doeu..."
         },
         {
             "name": "Monólogo",
-            "text": "Daiwa Scarlet suddenly stops in the<n>middle of the\ntrack."
+            "text": "Daiwa Scarlet para de repente no<n>meio da pista."
         },
         {
             "name": "Monólogo",
-            "text": "I wonder if she injured herself<n>somewhere?",
+            "text": "Será que ela se machucou em algum<n>lugar?",
             "choice_data_list": [
-                "Are you okay?"
+                "Você está bem?"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Huh? Oh, it's nothing. I just popped a<n>blister,\nthat's all."
+            "text": "Hã? Oh, não é nada. Só estourei uma<n>bolha, só\nisso."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Do you happen to have any<n>bandages on you?"
+            "text": "Por acaso você tem algum curativo aí<n>com você?"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'd like to run some more, so I just<n>need to patch\nthis up real quick.",
+            "text": "Eu gostaria de correr mais um pouco,<n>então só\npreciso fazer um curativo<n>rápido.",
             "choice_data_list": [
-                "Want me to do it for you?",
-                "You should go to the infirmary, just in case!",
-                "You should go to the infirmary, just in case!"
+                "Quer que eu faça para você?",
+                "É melhor ir à enfermaria, só por precaução!",
+                "É melhor ir à enfermaria, só por precaução!"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'd like to run some more, so I just<n>need to patch\nthis up real quick.",
+            "text": "Eu gostaria de correr mais um pouco,<n>então só\npreciso fazer um curativo<n>rápido.",
             "choice_data_list": [
-                "Want me to do it for you?",
-                "You should go to the infirmary, just in case!",
-                "You should go to the infirmary, just in case!"
+                "Quer que eu faça para você?",
+                "É melhor ir à enfermaria, só por precaução!",
+                "É melhor ir à enfermaria, só por precaução!"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Oh, what a nice offer. How<n>considerate of you."
+            "text": "Ah, que oferta gentil. Quanta<n>consideração a sua."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "I'll take you up on that. Make sure to<n>get the\ntape on nice and tight!"
+            "text": "Eu aceito. Certifique-se de prender o\nesparadrapo bem firme!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hm, not bad. I think I can run on this.<n>Thanks. It\nstill hurts a little, but I guess<n>nothing can be done\nabout that."
+            "text": "Hm, nada mal. Acho que consigo<n>correr assim.\nObrigada. Ainda dói um<n>pouco, mas acho que não\nhá nada<n>que se possa fazer quanto a isso."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Look, I said that I'm fine. Honestly,<n>you're\nmaking a big deal out of<n>nothing."
+            "text": "Olha, eu disse que estou bem.<n>Honestamente,\nvocê está fazendo<n>tempestade em copo d'água."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "But... I suppose I'd be able to run<n>with more\npeace of mind if I get it<n>treated properly now..."
+            "text": "Mas... suponho que eu conseguiria<n>correr com\nmais tranquilidade se<n>recebesse o tratamento\nadequado<n>agora..."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Sigh...</i> Fine. I'll have the nurse<n>look at it."
+            "text": "<i>Suspiro...</i> Tá bom. Vou pedir para<n>a\nenfermeira dar uma olhada."
         }
     ]
 }

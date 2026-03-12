@@ -2,90 +2,90 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Trainer Kiryuin invites me out for a<n>slightly late\nNew Year's shrine visit."
+            "text": "A Treinadora Kiryuin me convida para<n>uma visita\nde Ano Novo ao santuário,<n>um pouco atrasada."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Thank you for coming, Trainer<n><username>!"
+            "text": "Obrigada por vir, Treinador<n><username>!"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Sorry for inviting you out so suddenly,<n>but...\nthere's something that I need to<n>share with you.",
+            "text": "Desculpe por te convidar assim tão<n>de repente,\nmas... há algo que preciso<n>compartilhar com\nvocê.",
             "choice_data_list": [
-                "What is it?"
+                "O que é?"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Well, there's always a Kiryuin family<n>gathering\nfor New Year's. It's mainly<n>a chance for us to\nexchange the latest<n>information, but..."
+            "text": "Bem, sempre há uma reunião da<n>família Kiryuin\nno Ano Novo. É<n>principalmente uma chance para\ntrocarmos as informações mais<n>recentes, mas..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "This year, my great-aunt<n>complimented me for\nthe first time."
+            "text": "Este ano, minha tia-avó me elogiou<n>pela primeira\nvez."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "She said I've become a good mentor."
+            "text": "Ela disse que me tornei uma boa<n>mentora."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "My great-aunt has an important role<n>in the URA,\nand she was once a skilled<n>trainer who brought\nhonor to the<n>Kiryuin family."
+            "text": "Minha tia-avó tem um papel<n>importante na URA e\njá foi uma<n>treinadora habilidosa que trouxe\nhonra à família Kiryuin."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "That's why... no matter how much the<n>people\naround me say what a good<n>job I'm doing, my\nfamily always tells<n>me I still have a lot to learn.",
+            "text": "É por isso que... não importa o quanto<n>as\npessoas ao meu redor digam que<n>estou fazendo\num bom trabalho,<n>minha família sempre me diz\nque<n>ainda tenho muito a aprender.",
             "choice_data_list": [
-                "And now they've recognized your hard work!"
+                "E agora eles reconheceram seu trabalho duro!"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Yeah! I was able to show them that<n>I'm worthy\nof the family name, even if<n>only a little bit."
+            "text": "Sim! Consegui mostrar a eles que<n>sou digna do\nnome da família, mesmo<n>que só um pouquinho."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "...And that's because of you, Trainer<n><username>.\nSo today, I'd like to thank<n>you.",
+            "text": "...E isso é por sua causa, Treinador<n><username>.\nSo hoje, eu gostaria de<n>te agradecer.",
             "choice_data_list": [
-                "Because of me?",
-                "Because of me?"
+                "Por minha causa?",
+                "Por minha causa?"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Yes. Your perspective has shown me<n>parts of\nmyself I couldn't see. With<n>you by my side, I've\nbeen able to<n>continue improving."
+            "text": "Sim. Sua perspectiva me mostrou<n>partes de mim\nque eu não conseguia<n>ver. Com você ao meu\nlado, consegui<n>continuar melhorando."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "I'm so grateful to have you as my<n>peer! Let's\ncontinue to push each<n>other to be the best\ntrainers that we<n>can be!",
+            "text": "Sou muito grata por ter você como<n>meu colega!\nVamos continuar<n>incentivando um ao outro para\nsermos os melhores treinadores que<n>pudermos\nser!",
             "choice_data_list": [
-                "Thank you! I feel the same!"
+                "Obrigado! Sinto o mesmo!"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Hehe. It seems we've managed to<n>get each\nother properly motivated for<n>the new year!"
+            "text": "Hehe. Parece que conseguimos nos<n>motivar\nadequadamente para o novo<n>ano!"
         },
         {
-            "name": "Male Barker",
-            "text": "Hey, you two! You seem like you've<n>got a lot of\nspirit! Why don't you try<n>putting your strength to\nthe test?"
+            "name": "Locutor",
+            "text": "Ei, vocês dois! Vocês parecem estar<n>com muita\ngarra! Por que não tentam<n>colocar sua força à\nprova?"
         },
         {
-            "name": "Male Barker",
-            "text": "By participating in the New Year's Tile<n>Smashing\nExtravaganza!",
+            "name": "Locutor",
+            "text": "Participando do Espetáculo de Quebra<n>de Telhas\nde Ano Novo!",
             "choice_data_list": [
-                "Tile smashing?!"
+                "Quebra de telhas?!"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Oh! That sounds like another great<n>source of\nmotivation!",
+            "text": "Oh! Isso soa como outra ótima fonte<n>de\nmotivação!",
             "choice_data_list": [
-                "You're gonna try it?!"
+                "Você vai tentar?!"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Yup! Thinking back, I used to have a<n>real\nfondness for karate!"
+            "text": "Sim! Pensando bem, eu costumava<n>ter um\nverdadeiro carinho pelo caratê!"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -93,11 +93,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "The sounds of smashing tiles and<n>Kiryuin's\nvigorous shouts echo<n>through the January sky."
+            "text": "O som de telhas quebrando e os<n>gritos vigorosos\nda Kiryuin ecoam<n>pelo céu de janeiro."
         },
         {
             "name": "Monólogo",
-            "text": "I get the feeling that my friendship<n>with Trainer\nKiryuin will continue to<n>grow from here."
+            "text": "Sinto que minha amizade com a<n>Treinadora\nKiryuin continuará<n>crescendo a partir daqui."
         }
     ]
 }

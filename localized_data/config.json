@@ -1,8 +1,9 @@
 {
     "ordinal_types": [],
     "months": [],
+    "line_width_multiplier": 1.6,
     "use_text_wrapper": true,
-        "wrapper_penalties": {
+    "wrapper_penalties": {
         "nline_penalty": 8,
         "overflow_penalty": 18,
         "short_last_line_fraction": 5,

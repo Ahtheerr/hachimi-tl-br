@@ -10,7 +10,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "O acampamento de verão anual da<n>Academia\nTracen começará em breve!",
+            "text": "O acampamento de verão anual da<n>Academia\nTracen começará em<n>breve!",
             "choice_data_list": [
                 "Acampamento de verão!"
             ],
@@ -42,7 +42,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Mas vai acabar antes que você<n>perceba! Vocês\nnão terão muito tempo<n>para descansar.",
+            "text": "Mas vai acabar antes que você<n>perceba! Vocês\nnão terão muito<n>tempo para descansar.",
             "choice_data_list": [
                 "Entendido!"
             ]
@@ -91,7 +91,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Começa daqui a dois turnos, no início<n>de julho,\nentão eu provavelmente<n>deveria começar a me\npreparar agora.",
+            "text": "Começa daqui a dois turnos, no início<n>de julho,\nentão eu provavelmente<n>deveria começar a me\npreparar<n>agora.",
             "color_text_info_list": [
                 "começa daqui a dois turnos no início de julho",
                 "começar a preparar agora"

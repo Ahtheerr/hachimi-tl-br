@@ -1,0 +1,251 @@
+{
+    "text_block_list": [
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hm hm hm! ♪ Onde será que eles<n>estão? Talvez já tenham chegado?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Encontro Matikanetannhauser por<n>acaso durante um passeio de fim de<n>semana pelo parque."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh, Treinador! Veio pegar um ar<n>fresco?",
+            "choice_data_list": [
+                "Sim!",
+                "Sim!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Mas que coincidência-zinha! Eu<n>mesma estou aqui esperando uns<n>amigos..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ah, olha eles ali! Pessoal! Oi!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Olho na direção em que ela está<n>acenando e vejo um grupo de<n>crianças sorridentes se aproximando<n>rapidamente."
+        },
+        {
+            "name": "Garota Enérgica",
+            "text": "Oi, Machitan!"
+        },
+        {
+            "name": "Garoto Ativo",
+            "text": "E aí, Machi! O que planejou para<n>hoje? Polícia e ladrão? Pega-pega?<n>Eu sou bem rápido, topo qualquer<n>coisa!",
+            "choice_data_list": [
+                "(Os amigos que ela mencionou são essas\ncrianças?)"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Vejamos então... Que tal um<n>pega-pega, nesse caso?<n>Preparem-se! Pedra, papel, tesoura,<n>pyoi!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Parece que eu sou o \"pega\"! Vou<n>pegar vocês, então é melhor<n>correrem!",
+            "choice_data_list": [
+                "(Enérgica como sempre.)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Começo a me sentir exausto só de<n>olhar. Mesmo depois de terminar a<n>brincadeira, Matikanetannhauser não<n>parece menos enérgica do que<n>quando começou."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ufa, isso foi divertido demais! Espero<n>que todos tenham chegado bem em<n>casa."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As crianças foram todas para casa<n>almoçar, deixando apenas eu e a<n>Tannhauser no parque."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Geh, verdade! Hora do almoço! Nada<n>bom, nada bom — quase esqueci!",
+            "choice_data_list": [
+                "Do quê?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh ho ho, agucei sua curiosidade, não<n>foi? Gostaria de vir junto, então?<n>Podemos dividir meio a meio!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu a sigo até chegarmos à rua de<n>compras. Está excepcionalmente<n>lotada hoje, e o ar está cheio de<n>gritos animados e o eco de sinetas."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Olá! Eu gostaria de tentar a sorte no<n>seu sorteio, senhora. Tenho um<n>monte de bilhetes!",
+            "choice_data_list": [
+                "(Entendi agora. Está rolando uma promoção de\nsorteio.)"
+            ]
+        },
+        {
+            "name": "Senhora do Centro Comercial",
+            "text": "Ora, se não é a Machitan! Com todo<n>esse pique de sempre, estou vendo!<n>Pode vir aqui para o sorteio."
+        },
+        {
+            "name": "Homem do Centro Comercial",
+            "text": "Eu sabia que veríamos você hoje,<n>Machitan!"
+        },
+        {
+            "name": "Homem do Centro Comercial",
+            "text": "Vejamos quantos bilhetes você tem<n>aí... Haha, você é uma das nossas<n>melhores clientes mesmo! Pode<n>puxar quantos seu coraçãozinho<n>desejar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Há dezenas de caixas decoradas<n>alinhadas em uma mesa montada<n>para o evento. Matikanetannhauser<n>coloca a mão em uma delas e puxa<n>vários bilhetes."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Lá vaaaaai!"
+        },
+        {
+            "name": "Homem do Centro Comercial",
+            "text": "Vejamos... Oof, é o quarto nível. Que<n>pena, mas você ganha um doce!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Mumu. Eu quero muito aquela<n>fantasia de Aranhinha, então não vou<n>parar agora. Tenho muitos outros<n>bilhetes de onde esse veio. Eu<n>consigo!",
+            "choice_data_list": [
+                "É isso aí, você consegue!",
+                "É isso aí, você consegue!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Certo, lá vai!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Hiyááá!"
+        },
+        {
+            "name": "Homem do Centro Comercial",
+            "text": "Hmm... Droga, quarto nível de novo.<n>Pode escolher outro doce."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Oh? Outro quarto nível. Sem<n>problemas! De novo, de novo, de<n>novo!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Que tal este?!"
+        },
+        {
+            "name": "Homem do Centro Comercial",
+            "text": "Que pena. Quarto nível."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Próximo! Toma essa!"
+        },
+        {
+            "name": "Homem do Centro Comercial",
+            "text": "Que pena! Outro quarto nível para<n>você!"
+        },
+        {
+            "name": "Homem do Centro Comercial",
+            "text": "Só resta um bilhete... O que vai ser,<n>Machitan?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Arf... arf... ofega... Gulp.</i> É, tudo<n>bem. Vamos nessa!"
+        },
+        {
+            "name": "Senhora do Centro Comercial",
+            "text": "Não se preocupe, querida! Você<n>consegue! Eu acredito!"
+        },
+        {
+            "name": "Homem do Centro Comercial",
+            "text": "Ela tem razão! Não tem como você<n>perder agora depois de todas essas<n>tentativas. Você consegue!",
+            "choice_data_list": [
+                "Você consegue, com certeza!"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Pessoal... Obrigada! Esta aqui vale<n>tudo... Lá vai!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Eeeeei!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O último bilhete é sorteado!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "...É o quarto nível."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "<i>Suspiro.</i> Desculpa, Treinador. Eu<n>estava planejando dividir a fantasia<n>de Aranhinha com você e tudo mais..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Espera, pensando bem, como<n>exatamente isso funcionaria? Bom,<n>tanto faz! Que tal voltarmos?"
+        },
+        {
+            "name": "Homem do Centro Comercial",
+            "text": "Ei, espere aí, Machitan!"
+        },
+        {
+            "name": "Homem do Centro Comercial",
+            "text": "Aqui está um agrado pela sua<n>persistência. Tem sorvete suficiente<n>aí para vocês dois, então podem<n>dividir!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Nossa, sério? Que legal! Valeu, tio. Eu<n>volto logo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto Tannhauser acena se<n>despedindo do pessoal na rua de<n>compras, percebo que ela não perdeu<n>nem um pingo de seu espírito alegre."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vou para a academia cedo no dia<n>seguinte para garantir que nossos<n>equipamentos estejam prontos para<n>o treino de força agendado."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ei, mun! Ei, mun! Ei, ei, mun!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas parece que a Tannhauser<n>chegou antes de mim por um bom<n>tempo."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Heh heh heh! Devo ir para a esteira<n>agora? Ou talvez para os halteres?<n>Acho que consigo ouvir as barras<n>chamando meu nome também.",
+            "choice_data_list": [
+                "O dia de ontem não te desanimou, hein?",
+                "O dia de ontem não te desanimou, hein?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ehehe, de jeito nenhum! Aposto que<n>eu conseguiria levantar esse peso, na<n>verdade. Mun!",
+            "choice_data_list": [
+                "Foi bom ver todos os seus amigos ontem?",
+                "Foi bom ver todos os seus amigos ontem?"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Pode apostar! Sempre sinto que<n>recarrego as baterias depois de<n>brincar com as crianças e fazer umas<n>compras."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ehehe, mal posso esperar pelo<n>próximo fim de semana. O que será<n>que vamos brincar? Hm hm hm! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Matikanetannhauser consegue fazer<n>amizade com quase qualquer pessoa<n>que conhece, e essas conexões<n>parecem dar a ela toda a energia de<n>que precisa."
+        }
+    ]
+}

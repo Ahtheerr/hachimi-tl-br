@@ -1,0 +1,147 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "O acampamento de verão do ano<n>clássico é um\nevento importante que<n>testa o limite de quanto\numa<n>Umamusume pode melhorar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O ônibus está prestes a partir para o\nacampamento, e todos estão se<n>acomodando\npara a viagem."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ei, Kita! Já decidiu com quem vai<n>sentar? Se não,\nvem comigo!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ah, não! Eu não poderia jamais<n>sentar do seu\nlado, Teio!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Que tal sentar do meu lado, então? Eu<n>divido\nminhas cenouras com você!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Não, obrigada! Eu agradeço a oferta,<n>Spe, mas...\nnão posso aceitar."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Por que não? Fizemos algo para te<n>chatear?"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Não, não é nada disso! Vocês não<n>fizeram nada\nde errado. Eu é que<n>estou sendo estranha.\nDesculpa...",
+            "choice_data_list": [
+                "O que houve, Kitasan?",
+                "O que houve, Kitasan?"
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "É que... é difícil andar com elas porque<n>eu me\nsinto inferior..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que a Kitasan Black ainda se<n>incomoda\ncom o brilho nato da Tokai<n>Teio e da Special\nWeek que<n>mencionamos antes."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Ei, Kita! Já almoçou?"
+        },
+        {
+            "name": "Vodka",
+            "text": "Se não, vem comer com a gente! Eu<n>peguei um\nmilho que nós, a galera<n>descolada, podemos\nsaborear!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Golshi, Vodka! Com certeza, eu vou<n>com vocês!",
+            "color_text_info_list": [
+                "Golshi",
+                "Vodka"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por outro lado, ela não parece se<n>incomodar com\na Gold Ship ou com a<n>Vodka, uma veterana que\nestá<n>sempre tentando ser descolada.",
+            "choice_data_list": [
+                "Você parece super à vontade com a Golshi e a\nVodka, Kitasan.",
+                "Você parece super à vontade com a Golshi e a\nVodka, Kitasan."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hm? Eh, acho que você tem razão.<n>Não sinto\nnenhuma necessidade<n>especial de manter\ndistância delas..."
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Mas por que será, hein? Afinal, as<n>duas são\ncorredoras incríveis..."
+        },
+        {
+            "name": "Gold Ship",
+            "text": "Claro que somos incríveis! Nossos<n>corações são\nmais turbinados que os<n>próprios motores!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Não sei se eu diria que somos<n>incríveis. Sinto que\nsomos mais como<n>rebeldes sem causa fora da\nlei..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Rebeldes... Vodka disse isso como um\ncomentário casual, mas sinto que a<n>resposta\npara a pergunta da Kitasan<n>Black está nesse\nsentimento.",
+            "choice_data_list": [
+                "Talvez seja por causa das personalidades\ndelas...",
+                "Talvez seja por causa das personalidades\ndelas..."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "O que você quer dizer com isso? O<n>que é por\ncausa das personalidades<n>delas?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Explico como cada Umamusume tem<n>uma certa\naura ao seu redor que se<n>reflete em suas\npersonalidades."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Algumas têm personalidades mais<n>padrões,\nenquanto outras se desviam<n>da norma — as\nexceções. Kitasan<n>Black provavelmente acha\nmais fácil<n>se aproximar das últimas. E se for o\ncaso...",
+            "choice_data_list": [
+                "Você deveria tentar conversar bastante com a\nGolshi e a Vodka neste verão."
+            ]
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Hein? Tá, acho que sim."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Aceno para ela com aprovação.<n>Tenho certeza de\nque ajudará se a<n>Kitasan Black receber\norientação de<n>uma variedade de veteranas\ndiferentes."
+        },
+        {
+            "name": "Vodka",
+            "text": "Ei, se você conseguir nos aguentar,<n>vamos\nandar com você o quanto<n>quiser!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Se precisar de alguém em quem se<n>espelhar,\nconte comigo! Vou cuidar<n>bem de você!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Obrigada, Vodka! Eu agradeço de<n>verdade!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Haha! Não esquenta! Vou te mostrar<n>as maneiras\nmais selvagens de se<n>divertir este verão!"
+        },
+        {
+            "name": "Gold Ship",
+            "text": "É isso aí! Vamos te ensinar direitinho!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Peraí, \"nós\"? Golshi, sua ideia de<n>diversão vai\n<i>muuuito</i> além de<n>selvagem..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Estou torcendo muito para que a<n>Kitasan Black\nconsiga se livrar desse<n>complexo de\ninferioridade neste<n>verão com a ajuda das\noutras<n>Umamusume."
+        }
+    ]
+}

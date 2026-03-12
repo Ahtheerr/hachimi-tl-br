@@ -84,15 +84,15 @@
         },
         {
             "name": "Tokai Teio",
-            "text": "You've got all these strengths that I<n>don't have.\nYou're patient and you<n>never give up, no matter\nwhat problem<n>you're facing."
+            "text": "You've got all these strengths that I<n>don't have.\nYou're patient and you<n>never give up, no matter\nwhat<n>problem you're facing."
         },
         {
             "name": "Tokai Teio",
-            "text": "I got all panicked 'cause I figured that<n>\npersistence of yours would lead you<n>to an\nanswer before me..."
+            "text": "I got all panicked 'cause I figured that\npersistence of yours would lead you<n>to an\nanswer before me..."
         },
         {
             "name": "Mejiro McQueen",
-            "text": "I... feel the same, actually. I assumed<n>you'd\nalready found an answer using<n>some unique\nmethod that never would<n>have occurred to me.",
+            "text": "I... feel the same, actually. I assumed<n>you'd\nalready found an answer using<n>some unique\nmethod that never<n>would have occurred to me.",
             "choice_data_list": [
                 "Aren't <i>those</i> your answers?"
             ]

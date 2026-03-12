@@ -6,7 +6,7 @@
         },
         {
             "name": "Funcionário da Loja",
-            "text": "Aqui está, um bilhete de sorteio<n>bônus! Obrigado\npor comprar conosco!"
+            "text": "Aqui está, um bilhete de sorteio<n>bônus! Obrigado\npor comprar<n>conosco!"
         },
         {
             "name": "Admire Vega",
@@ -14,14 +14,14 @@
         },
         {
             "name": "Atendente da Rifa",
-            "text": "Aproximem-se e testem a sorte no<n>nosso sorteio\nde Ano Novo! O grande<n>prêmio deste ano é uma\nviagem para<n>as fontes termais para duas<n>\npessoas!",
+            "text": "Aproximem-se e testem a sorte no<n>nosso sorteio\nde Ano Novo! O grande<n>prêmio deste ano é uma\nviagem para<n>as fontes termais para duas\npessoas!",
             "color_text_info_list": [
                 "viagem para as fontes termais para duas pessoas"
             ]
         },
         {
             "name": "Atendente da Rifa",
-            "text": "As vencedoras do primeiro prêmio<n>ganham um\nbife de hambúrguer de<n>cenoura de luxo! As\nvencedoras do<n>segundo prêmio ganham um\ncesto de<n>cenouras! E as vencedoras do<n>\nterceiro prêmio podem levar para<n>casa uma única\ncenoura!"
+            "text": "As vencedoras do primeiro prêmio<n>ganham um\nbife de hambúrguer de<n>cenoura de luxo! As\nvencedoras do<n>segundo prêmio ganham um\ncesto de<n>cenouras! E as vencedoras do\nterceiro prêmio podem levar para<n>casa uma única\ncenoura!"
         },
         {
             "name": "Atendente da Rifa",
@@ -37,7 +37,7 @@
         },
         {
             "name": "Atendente da Rifa",
-            "text": "Vocês podem ganhar uma viagem<n>para uma\nfonte termal com um cenário<n>incrível no interior! O\ncéu estrelado<n>com certeza vai ajudar vocês a<n>\nrelaxarem!"
+            "text": "Vocês podem ganhar uma viagem<n>para uma\nfonte termal com um<n>cenário incrível no interior! O\ncéu<n>estrelado com certeza vai ajudar<n>vocês a\nrelaxarem!"
         },
         {
             "name": "Admire Vega",
@@ -253,7 +253,7 @@
         },
         {
             "name": "Atendente da Rifa",
-            "text": "Temos uma vencedora do segundo<n>prêmio! É o\nseu dia de sorte! Você vai<n>para casa com um\ncesto de cenouras!"
+            "text": "Temos uma vencedora do segundo<n>prêmio! É o\nseu dia de sorte! Você vai<n>para casa com um\ncesto de<n>cenouras!"
         },
         {
             "name": "Monólogo",
@@ -323,7 +323,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ha ha ha! De fato, eu não deverei ter<n>problema\nem recrutar alguém para me<n>alimentar enquanto\nestou no meio dos<n>meus experimentos!"
+            "text": "Ha ha ha! De fato, eu não deverei ter<n>problema\nem recrutar alguém para<n>me alimentar enquanto\nestou no meio<n>dos meus experimentos!"
         },
         {
             "name": "Air Shakur",
@@ -451,7 +451,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "É a sua reação inabalável de sempre,<n>mas eu\nconsigo perceber que ela está<n>se sentindo mais\npra baixo do que o<n>normal."
+            "text": "É a sua reação inabalável de sempre,<n>mas eu\nconsigo perceber que ela<n>está se sentindo mais\npra baixo do<n>que o normal."
         }
     ]
 }

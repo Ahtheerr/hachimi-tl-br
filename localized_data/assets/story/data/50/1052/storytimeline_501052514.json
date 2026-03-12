@@ -34,7 +34,7 @@
         },
         {
             "name": "Repórter A",
-            "text": "Ah, entendi... Então, quer dizer que...<n>vocês têm\nmuitas lembranças juntas?"
+            "text": "Ah, entendi... Então, quer dizer que...<n>vocês têm\nmuitas lembranças<n>juntas?"
         },
         {
             "name": "Monólogo",
@@ -84,7 +84,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Nesse momento, penso em uma boa<n>maneira de\nacalmar os nervos da Rice<n>Shower e a energia\nda Haru Urara.",
+            "text": "Nesse momento, penso em uma boa<n>maneira de\nacalmar os nervos da<n>Rice Shower e a energia\nda Haru<n>Urara.",
             "choice_data_list": [
                 "Acalmá-las com lanchinhos.",
                 "Incentivá-las a ir brincar lá fora."
@@ -104,7 +104,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Ufa! Que delícia! Por que será que<n>eles tão mais\ngostosos que o normal?"
+            "text": "Ufa! Que delícia! Por que será que<n>eles tão mais\ngostosos que o<n>normal?"
         },
         {
             "name": "Rice Shower",
@@ -136,7 +136,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "O clima fica muito melhor quando a<n>entrevista\nrecomeça, e o repórter<n>consegue material mais\nque suficiente<n>para a reportagem especial."
+            "text": "O clima fica muito melhor quando a<n>entrevista\nrecomeça, e o repórter<n>consegue material mais\nque<n>suficiente para a reportagem especial."
         },
         {
             "name": "Haru Urara",
@@ -180,7 +180,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Alguns dias depois, o vídeo<n>espontâneo delas\nbrincando é usado<n>na reportagem especial. Isso\nse torna<n>um grande sucesso entre os fãs<n>\ndelas."
+            "text": "Alguns dias depois, o vídeo<n>espontâneo delas\nbrincando é usado<n>na reportagem especial. Isso\nse torna<n>um grande sucesso entre os fãs\ndelas."
         }
     ]
 }

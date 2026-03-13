@@ -1,143 +1,143 @@
 {
     "text_block_list": [
         {
-            "name": "",
-            "text": "放課後、校内を歩いていると、<n>音楽に合わせて踊るウマ娘を見かけた。"
+            "name": "Monologue",
+            "text": "Estou caminhando pela academia<n>depois da aula\nquando vejo alguém<n>dançando ao som de uma\nmúsica."
         },
         {
-            "name": "ナリタトップロード",
-            "text": "いちっ！ にっ！ さんっ！ ここでくるっと……！"
+            "name": "Narita Top Road",
+            "text": "Um! Dois! Três! Então aqui eu..."
         },
         {
-            "name": "ナリタトップロード",
-            "text": "ター……んっ――！",
+            "name": "Narita Top Road",
+            "text": "Giiiiro!",
             "choice_data_list": [
-                "わっ！？"
+                "Agh?!"
             ]
         },
         {
-            "name": "ナリタトップロード",
-            "text": "――っと！ すみませんっ！ ぶつかるところでした！",
+            "name": "Narita Top Road",
+            "text": "Ah! Perdão! Quase esbarrei em você!",
             "choice_data_list": [
-                "大丈夫、こちらこそごめん"
+                "Desculpe. Culpa minha por estar no caminho!"
             ]
         },
         {
-            "name": "ナリタトップロード",
-            "text": "いえ、とんでもありません！<n>私がちゃんと周りを見ていなかったんです。"
+            "name": "Narita Top Road",
+            "text": "Não precisa se desculpar! Eu é que<n>deveria estar\nprestando atenção ao<n>que me rodeia."
         },
         {
-            "name": "ナリタトップロード",
-            "text": "指先の動きに気をとられて<n>つい注意がおろそかになっていました……。",
+            "name": "Narita Top Road",
+            "text": "Eu estava focada demais nos<n>movimentos dos\nmeus dedos e<n>acabei sendo descuidada...",
             "choice_data_list": [
-                "細かい動きは集中力を使うもんな",
-                "細かい動きは集中力を使うもんね"
+                "É preciso muita concentração para aperfeiçoar\nmovimentos intrincados, né?",
+                "É preciso muita concentração para aperfeiçoar\nmovimentos intrincados, né?"
             ]
         },
         {
-            "name": "ナリタトップロード",
-            "text": "そ、そうなんです……！ 恥ずかしながら\n私、同時にあちこち意識するのが苦手で……。"
+            "name": "Narita Top Road",
+            "text": "S-sim! É um pouco embaraçoso de<n>admitir, mas\nnão sou muito boa em<n>dividir minha atenção\nentre as<n>coisas..."
         },
         {
-            "name": "ナリタトップロード",
-            "text": "うーん……どうすれば もっと繊細に踊れるのでしょうね……？",
+            "name": "Narita Top Road",
+            "text": "Hm... O que eu deveria fazer para<n>dançar com\nmais delicadeza, eu me<n>pergunto?",
             "choice_data_list": [
-                "練習あるのみ！",
-                "あえて曲のテンポを上げてみては？"
+                "A prática leva à perfeição!",
+                "E se você tentasse acelerar a música?"
             ]
         },
         {
-            "name": "ナリタトップロード",
-            "text": "近道はない……ということですね。<n>確かに努力なくして上達はありえません！"
+            "name": "Narita Top Road",
+            "text": "Você tem razão. Não há atalhos para<n>o\naprendizado. Eu não vou melhorar<n>se não me\nesforçar!"
         },
         {
-            "name": "ナリタトップロード",
-            "text": "よしっ！ 猛練習あるのみです！ ご教示ありがとうございました！"
+            "name": "Narita Top Road",
+            "text": "Certo! Hora de intensificar meus<n>treinos um\npouco. Obrigada pelo<n>conselho!"
         },
         {
-            "name": "",
-            "text": "――それから、仕事を終えて帰る途中……。",
+            "name": "Monologue",
+            "text": "Algum tempo depois, estou voltando<n>para casa\napós terminar meu trabalho<n>quando vejo alguém\nfamiliar.",
             "choice_data_list": [
-                "（まだ練習してたのか……！？）",
-                "（まだ練習してたの……！？）"
+                "(Ela ainda está praticando?!)",
+                "(Ela ainda está praticando?!)"
             ]
         },
         {
-            "name": "ナリタトップロード",
-            "text": "はぁっ、はぁっ……あれっ？"
+            "name": "Narita Top Road",
+            "text": "<i>Arf... Arf...</i> Hã?"
         },
         {
-            "name": "ナリタトップロード",
-            "text": "先ほどのトレーナーさん！ お疲れさまです！ 今お帰りですか？",
+            "name": "Narita Top Road",
+            "text": "Ah, oi! É você de novo! Você está indo<n>para casa\npor hoje?",
             "choice_data_list": [
-                "ああ……君は？",
-                "うん……貴方は？"
+                "Sim. E você?",
+                "Sim. E você?"
             ]
         },
         {
-            "name": "ナリタトップロード",
-            "text": "私は寮の門限ギリギリまでやろうかと！"
+            "name": "Narita Top Road",
+            "text": "Planejo praticar até pouco antes do<n>toque de\nrecolher!"
         },
         {
-            "name": "ナリタトップロード",
-            "text": "おかげさまで、少しですが上達したんですよ！",
+            "name": "Narita Top Road",
+            "text": "Sinto que meu trabalho duro valeu a<n>pena e já\nmelhorei um pouco!",
             "choice_data_list": [
-                "本当だ、上手になってる……！"
+                "Você tem razão! Sua dança parece melhor agora!"
             ]
         },
         {
-            "name": "ナリタトップロード",
-            "text": "ふふっ！ 私、また1つ成長できました。<n>もっともっと高みを目指しますよ！"
+            "name": "Narita Top Road",
+            "text": "Hehe! Posso ter melhorado um<n>pouco, mas ainda\ntenho um longo<n>caminho pela frente! Rumo a\nvoos<n>mais altos!"
         },
         {
-            "name": "",
-            "text": "そう爽やかに微笑み、ナリタトップロードは 練習に戻るのだった。"
+            "name": "Monologue",
+            "text": "Com um sorriso agradável, Narita Top<n>Road volta\nà sua prática."
         },
         {
-            "name": "ナリタトップロード",
-            "text": "えっ、テンポを上げるんですか？ どうして……。"
+            "name": "Narita Top Road",
+            "text": "Acelerar a música? Para quê?"
         },
         {
-            "name": "ナリタトップロード",
-            "text": "あっ、もしかして！ 速いのに慣れておけば、原曲はゆっくりに\n聴こえて集中できる……！ ってことですか？",
+            "name": "Narita Top Road",
+            "text": "Ah! Assim que eu me acostumar com<n>a\nvelocidade mais alta, tocá-la na<n>velocidade\nnormal fará com que<n>pareça mais lenta e,\nportanto, mais<n>fácil de acompanhar, certo?",
             "choice_data_list": [
-                "その通り！"
+                "Sim, exatamente!"
             ]
         },
         {
-            "name": "ナリタトップロード",
-            "text": "妙案ですね！ 早速試してみましょう！<n>よければ、手拍子をお願いできませんか？"
+            "name": "Narita Top Road",
+            "text": "Você é um gênio! Vou tentar agora<n>mesmo! Você\npoderia bater palmas<n>para marcar o tempo para\nmim, por<n>favor?"
         },
         {
-            "name": "ナリタトップロード",
-            "text": "――いちっ！ にっ！ さんっ！"
+            "name": "Narita Top Road",
+            "text": "Um! Dois! Três!"
         },
         {
-            "name": "ナリタトップロード",
-            "text": "っ――うわっ！",
+            "name": "Narita Top Road",
+            "text": "Eh? Opa!",
             "choice_data_list": [
-                "大丈夫！？"
+                "Você está bem?!"
             ]
         },
         {
-            "name": "ナリタトップロード",
-            "text": "ったた……大丈夫です！"
+            "name": "Narita Top Road",
+            "text": "Ai... Sim, estou bem!"
         },
         {
-            "name": "",
-            "text": "あまりよくない方法だったかもしれない。<n>無理をしないように、と言おうとした時――"
+            "name": "Monologue",
+            "text": "Talvez essa não tenha sido a melhor<n>ideia, afinal\nde contas. Estou prestes<n>a sugerir que ela vá\ncom calma, mas<n>ela começa a rir antes que eu\npossa<n>dizer qualquer coisa."
         },
         {
-            "name": "ナリタトップロード",
-            "text": "ふふふっ……！ 燃えてきましたっ……！"
+            "name": "Narita Top Road",
+            "text": "Hehehe! Agora eu realmente quero<n>acertar!"
         },
         {
-            "name": "ナリタトップロード",
-            "text": "これができるようになったら、 私はもっと成長できるはずです。"
+            "name": "Narita Top Road",
+            "text": "Tenho certeza de que o processo de<n>aprender a\nfazer isso<n>adequadamente me ajudará a\nmelhorar."
         },
         {
-            "name": "ナリタトップロード",
-            "text": "ですが、いきなりは無謀でしたね！<n>まずはステップだけ練習することにしますっ！"
+            "name": "Narita Top Road",
+            "text": "Foi bem imprudente da minha parte<n>mergulhar de\ncabeça, no entanto!<n>Acho que vou focar em\naprender os<n>passos primeiro!"
         }
     ]
 }

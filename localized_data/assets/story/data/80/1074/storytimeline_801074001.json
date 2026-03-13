@@ -1,101 +1,101 @@
 {
     "text_block_list": [
         {
-            "name": "モノローグ",
-            "text": "休日の朝、ダンススタジオの前を<n>通りかかると、メジロブライトを見かけた。"
+            "name": "Monologue",
+            "text": "Numa manhã de folga, passo pelo<n>estúdio de\ndança e vejo Mejiro<n>Bright lá dentro."
         },
         {
-            "name": "メジロブライト",
-            "text": "いっち、にい、さん、し～ よいしょ、よいしょ～♪",
+            "name": "Mejiro Bright",
+            "text": "Um, dois, três, quaaatro — upa, upa. ♪",
             "choice_data_list": [
-                "休日なのに自主レッスン中？偉いな！",
-                "休日なのに自主レッスン中？偉いね！"
+                "Praticando sozinha em um dia de folga?\nImpressionante!",
+                "Praticando sozinha em um dia de folga?\nImpressionante!"
             ]
         },
         {
-            "name": "メジロブライト",
-            "text": "あら～、お休みの日に早起きですのね～。<n>本日は、新しいダンスの振り付けを\n覚えようと決めておりまして。"
+            "name": "Mejiro Bright",
+            "text": "Ora, veja só. Pelo visto você também<n>acordou\ncedo esta manhã. Eu queria<n>ver se conseguia\ndecorar a<n>coreografia de uma nova dança hoje."
         },
         {
-            "name": "メジロブライト",
-            "text": "まずはウォーミングアップをして 体を温めているところですわ～。",
+            "name": "Mejiro Bright",
+            "text": "No momento, estou apenas me<n>preparando com\num aquecimento.",
             "choice_data_list": [
-                "練習熱心なんだね！"
+                "Você é realmente dedicada aos treinos!"
             ]
         },
         {
-            "name": "メジロブライト",
-            "text": "いえいえ～、わたくし他の皆さまよりも 振り付けを覚えるのが、\nゆ～っくりなものでして。"
+            "name": "Mejiro Bright",
+            "text": "Não, imagine. Eu sou apenas mais<n>lenta que as\noutras. Levo mais tempo<n>para decorar a minha\ncoreografia."
         },
         {
-            "name": "メジロブライト",
-            "text": "それでも、ウイニングライブをするからには、<n>よりよいものをお見せしたいのです。"
+            "name": "Mejiro Bright",
+            "text": "Mesmo assim, quero dar ao público<n>uma\nperformance adequada durante<n>meus shows de\nvitória."
         },
         {
-            "name": "メジロブライト",
-            "text": "わたくしも、誇り高くあるべきメジロ家の 一員なのですから～。"
+            "name": "Mejiro Bright",
+            "text": "Afinal de contas, eu <i>sou</i> um<n>membro da\ncélebre família Mejiro."
         },
         {
-            "name": "メジロブライト",
-            "text": "それでは、お互いに素敵な1日を<n>過ごしましょう。ごきげんよう～。"
+            "name": "Mejiro Bright",
+            "text": "Bem, então. Que tenhamos um dia<n>maravilhoso\nnós dois. Até logo."
         },
         {
-            "name": "モノローグ",
-            "text": "日が落ちてすぐ、トレーナー室に野暮用を\n思い出し、再びスタジオ前を通りかかると――"
+            "name": "Monologue",
+            "text": "Logo após o pôr do sol, lembro-me de<n>algumas\ncoisas pequenas que<n>preciso resolver no meu\nescritório. No<n>caminho de volta, passo pelo\nestúdio<n>de dança novamente."
         },
         {
-            "name": "メジロブライト",
-            "text": "いっち、にい、さん、し～ よいしょ、よいしょ～♪"
+            "name": "Mejiro Bright",
+            "text": "Um, dois, três, quaaatro — upa, upa. ♪"
         },
         {
-            "name": "メジロブライト",
-            "text": "あら～先ほどお見えになった<n>御方ですわね。ご機嫌いかがですか～？",
+            "name": "Mejiro Bright",
+            "text": "Oh? Você é o mesmo treinador que<n>passou por\naqui antes, não é? Tem<n>passado bem?",
             "choice_data_list": [
-                "クールダウン中？"
+                "Tenho sim, obrigado. Você está desacelerando\npara encerrar o dia?"
             ]
         },
         {
-            "name": "メジロブライト",
-            "text": "クールダウン、ですか……？ まぁ、もうこんな時間ですのね。"
+            "name": "Mejiro Bright",
+            "text": "Desacelerando? Puxa vida, já está<n>tão tarde\nassim?"
         },
         {
-            "name": "メジロブライト",
-            "text": "ついついウォーミングアップ しすぎてしまいましたわ～。",
+            "name": "Mejiro Bright",
+            "text": "Ops. Parece que eu me empolguei<n>fazendo meu\naquecimento.",
             "choice_data_list": [
-                "朝から今までずっと……！？"
+                "Você está se aquecendo desde hoje de manhã?!"
             ]
         },
         {
-            "name": "メジロブライト",
-            "text": "うふふ、新しく覚える振り付けですので、<n>準備は念入りにと思っておりまして。"
+            "name": "Mejiro Bright",
+            "text": "Hehe. Eu queria estar completamente<n>preparada,\njá que ia aprender uma<n>nova coreografia."
         },
         {
-            "name": "メジロブライト",
-            "text": "ですが、肝心のダンスの振り付けを<n>覚える時間が足りないかもしれませんわ。\nどういたしましょう～。",
+            "name": "Mejiro Bright",
+            "text": "Mas agora não tenho mais tempo<n>para dançar\nde fato. O que devo<n>fazer?",
             "choice_data_list": [
-                "気になる部分をしっかりやってみては？",
-                "全体をざっくり覚えてみては？"
+                "Você poderia focar nas partes que mais te\npreocupam.",
+                "Dê uma passada rápida na dança inteira."
             ]
         },
         {
-            "name": "メジロブライト",
-            "text": "なるほど、素敵なご提案ですわ～。 それでは、苦手な部分を\nしっかりとやることにいたしましょう～。"
+            "name": "Mejiro Bright",
+            "text": "Entendo. É uma ideia maravilhosa.<n>Pois bem,\nfarei exatamente isso e<n>focarei nas partes que\nacho mais<n>difíceis."
         },
         {
-            "name": "モノローグ",
-            "text": "と、ようやくダンスの練習を始めた メジロブライトなのだった。"
+            "name": "Monologue",
+            "text": "Com isso, Mejiro Bright finalmente<n>começa seu\nensaio."
         },
         {
-            "name": "メジロブライト",
-            "text": "なるほど～、たしかに1度、 しゅるる～っと全体の流れを把握\nするのが大事かもしれませんわね。"
+            "name": "Mejiro Bright",
+            "text": "É uma ótima sugestão. Familiarizar-se<n>com a\ncoreografia como um todo<n>nunca é uma má ideia."
         },
         {
-            "name": "メジロブライト",
-            "text": "さっそく試してみますわ～。 貴重なご助言に感謝いたします～。"
+            "name": "Mejiro Bright",
+            "text": "Vou tentar agora. Muito obrigada pelo<n>seu\natencioso conselho."
         },
         {
-            "name": "モノローグ",
-            "text": "と、ようやくダンスの練習を始めた メジロブライトなのだった。"
+            "name": "Monologue",
+            "text": "Com isso, Mejiro Bright finalmente<n>começa seu\nensaio."
         }
     ]
 }

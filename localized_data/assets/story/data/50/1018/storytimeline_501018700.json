@@ -1,0 +1,34 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Durante o treinamento, noto Air<n>Groove\ntropeçando por um momento.",
+            "choice_data_list": [
+                "Não dormiu bem a noite passada?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Pode-se dizer isso — fui dormir mais<n>tarde do que\npretendia. A lua estava<n>tão bonita que eu..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Não, não preciso falar disso. Esqueça<n>que eu\ndisse qualquer coisa.",
+            "choice_data_list": [
+                "Bem, agora eu estou curioso!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Tudo bem... Eu tentei ler sob a luz da<n>lua e...\nacabei perdendo<n>completamente a noção do\ntempo."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Mas esse é um problema causado<n>por mim\nmesma! Agora, vamos voltar<n>ao treinamento!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Voltamos ao treinamento, mas Air<n>Groove\ncontinua um pouco fora de<n>forma."
+        }
+    ]
+}

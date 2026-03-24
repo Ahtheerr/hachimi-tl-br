@@ -1,0 +1,37 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "O acampamento de verão finalmente<n>chegou ao\nfim..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Mais um ano, mais um acampamento<n>de verão\nprodutivo.",
+            "choice_data_list": [
+                "Não há de quê."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Sim, sim... Muito engraçado. <i>Não</i><n>foi isso que\neu quis dizer, e você<n>sabe disso!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Embora... eu estaria mentindo se<n>dissesse que\n<i>não</i> estou grata."
+        },
+        {
+            "name": "Air Groove",
+            "text": "A Tenno Sho de outono está logo ali.<n>Precisamos\nmanter nossa<n>determinação firme e—",
+            "choice_data_list": [
+                "Estou com você até o fim."
+            ],
+            "color_text_info_list": [
+                "Tenno Sho de outono"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "...Heh. Acho que eu nunca deveria ter<n>duvidado\nde você."
+        }
+    ]
+}

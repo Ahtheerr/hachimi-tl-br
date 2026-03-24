@@ -1,0 +1,278 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "O acampamento de treino de verão<n>anual começou. Embora eu tenha<n>planejado a rotina da Satono<n>Diamond para ser exigente, ela está<n>enfrentando tudo com entusiasmo."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "<i>Ufa!</i> Meu tempo melhorou<n>novamente. Também não estou tão<n>cansada — isso significa que meu<n>vigor também melhorou?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sim, o que significa que é o momento<n>perfeito para fortalecer ainda mais.<n>Pergunto a ela qual exercício prefere<n>fazer a seguir.",
+            "choice_data_list": [
+                "Corrida de longa distância ou natação de longa\ndistância?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Bem, como está calor lá fora, natação<n>parece..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Digo, hum... O que você acha?",
+            "choice_data_list": [
+                "...Vamos com natação!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Claro!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Definitivamente há algo errado. Ela<n>tem agido de forma um pouco<n>estranha desde o nosso passeio ao<n>parque de diversões."
+        },
+        {
+            "name": "Estudante Estiloso",
+            "text": "Espera, tem um festival acontecendo<n>hoje à noite?! Oh, eu <i>com<n>certeza</i> vou! Vamos todos juntos!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Um festival? Oh, parece divertido!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ah! Quero dizer, hum...",
+            "choice_data_list": [
+                "Quer ir comigo?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh! Tudo bem por você?!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Uau! Está tão animado! E olhe todas<n>essas barracas diferentes!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, o que é aquela ali? Eles estão<n>pescando... não peixinhos dourados,<n>mas bolinhas brilhantes?",
+            "choice_data_list": [
+                "Vamos tentar!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Sim!"
+        },
+        {
+            "name": "Dono da Barraca",
+            "text": "Cheguem mais, cheguem mais!<n>Pesquem o máximo de bolinhas<n>brilhantes que conseguirem!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hum, devemos usar uma tigela?",
+            "choice_data_list": [
+                "Não, você usa uma peneira de papel."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Peneira? Oh, você quer dizer aquela<n>pequena e redonda!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Mas o papel é tão fino. Como se faz<n>para não rasgar? Hum...",
+            "choice_data_list": [
+                "Aqui, eu te mostro."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, você não precisa —",
+            "choice_data_list": [
+                "Hup!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Uau! Isso foi incrível — você pegou<n>uma bem grande!",
+            "choice_data_list": [
+                "Estou apenas começando!",
+                "Estou apenas começando!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "U-hum, você está ficando bem<n>empolgado com isso.",
+            "choice_data_list": [
+                "Fico feliz quando você conta comigo.",
+                "Fico feliz quando você conta comigo."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Feliz? Você fala sério? Eu não estou<n>apenas te incomodando?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Treinador! Hum, eu-eu..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Eu quero ser sincera com você!",
+            "choice_data_list": [
+                "Hein?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Digo, hum... se eu for aberta sobre<n>como me sinto, isso seria um fardo<n>para você?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que a Satono Diamond tem se<n>contido por minha causa. Ela não<n>precisa fazer isso, no entanto,<n>porque...",
+            "choice_data_list": [
+                "Sua sinceridade é sua maior virtude.",
+                "Sua sinceridade é sua maior virtude."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Minha maior virtude?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(Oh. Então é assim que o Treinador<n>me vê...)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(Claro. Foi a mesma coisa naquela<n>época também.)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Seja honesto comigo. Nesse ritmo, eu<n>terei alguma chance?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Honestamente? Não chegaria... nem<n>perto."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Eu sabia..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "(Por mais direta que eu seja, você<n>sempre responde da mesma forma. É<n>assim que chegamos tão longe<n>juntos.)"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Não acredito que me esqueci de algo<n>tão importante."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Assim que nos afastamos da<n>agitação, Satono Diamond confessa o<n>que tem pesado em sua mente."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Sabe como eu não hesito em<n>expressar meus pensamentos ou<n>agir de acordo com eles? Percebi que<n>isso poderia ser falta de<n>consideração, então fiquei<n>preocupada."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Por isso achei que tinha que me<n>conter. Exatamente como no outro<n>dia...",
+            "choice_data_list": [
+                "Você quer dizer no parque de diversões?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Sim. A verdade é que fiquei<n>imensamente feliz com o prêmio que<n>você ganhou para mim. Eu queria<n>ganhar um para você também, para<n>que tivéssemos um par combinando..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Mas quando me ocorreu que você<n>poderia não querer, não consegui<n>dizer.",
+            "choice_data_list": [
+                "Então foi por isso..."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. Eu deveria apenas ter sido<n>sincera, não é?",
+            "choice_data_list": [
+                "Sempre há uma próxima vez."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Sim, com certeza! É uma promessa!<n>Vou pensar em algum lugar para<n>irmos!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "É melhor você se preparar. Já que<n>disse que a sinceridade era minha<n>maior virtude, não vou mais me<n>segurar!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Vou sugerir todo tipo de lugares<n>estranhos e coisas emocionantes<n>para fazer — e você virá comigo, não<n>virá?",
+            "choice_data_list": [
+                "Pode vir com tudo!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ehehe! Obrigada. Não há ninguém<n>com quem eu possa contar mais —<n>oh!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "...! Uau!",
+            "choice_data_list": [
+                "São lindas.",
+                "São lindas."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Sim... Realmente são!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Fogos de artifício continuam a<n>iluminar o céu noturno. Podemos<n>vê-los bem daqui, mas...",
+            "choice_data_list": [
+                "Vamos voltar para ter uma visão melhor!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ah, Treinador!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Não vá..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Satono Diamond me alcança e puxa<n>minha manga."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Eu quero assistir daqui, apenas nós<n>dois!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Então não vá. Fique comigo, só mais<n>um pouco."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ehehe. No momento, esses são os<n>meus sentimentos sinceros! Você não<n>se importa, não é, Treinador?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Satono Diamond me puxa para um<n>lugar na areia onde podemos sentar<n>lado a lado. Juntos, observamos os<n>fogos de artifício distantes<n>florescerem na noite."
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Um dia, decido observar Air Groove<n>enquanto ela\nfaz um treino de dança<n>sozinha."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Um, dois, três, quatro. Um, dois, três,<n>quatro!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "As habilidades de dança de Air<n>Groove são,\ncomo esperado, de<n>altíssimo nível. No entanto..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Há algo que você gostaria de dizer?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Se há algo em sua mente, fale. Você<n>não está se\ncontendo por medo,<n>está?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que a hesitação que estou<n>sentindo é\nclara como o dia para ela.",
+            "choice_data_list": [
+                "Sua dança poderia ter um pouco mais de energia.",
+                "Sua rotina poderia ter um pouco mais de\nsofisticação."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Oh? Bem, essa foi uma crítica ousada."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Muito bem, vou aceitar. Explique-se."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Explico quais aspectos da dança<n>poderiam ser\nexpressos com mais<n>energia e força."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmm... Seu raciocínio é<n>suficientemente sólido.",
+            "choice_data_list": [
+                "Que bom que fez sentido."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Nem tão rápido!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Preciso colocar seu conselho em<n>prática. Seu\ntrabalho é ficar aqui até<n>que seja executado\nadequadamente.",
+            "choice_data_list": [
+                "Suponho que você esteja certa.",
+                "Suponho que você esteja certa."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "É melhor manter os olhos fixos em<n>mim."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ao final da sessão, Air Groove coloca<n>muito mais\nforça em sua dança,<n>melhorando sua rotina."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Sofisticação? Essa não é uma<n>palavra que você\nusaria sem um bom<n>motivo."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Você precisa ser mais específico.<n>Presumo que\ntenha algo em mente."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Explico quais aspectos da dança<n>poderiam ser\nexpressos com mais<n>sutileza e graça."
+        },
+        {
+            "name": "Air Groove",
+            "text": "...Hmph. Entendo o que quer dizer.<n>Não é uma má\nideia.",
+            "choice_data_list": [
+                "Que bom que fez sentido."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Não fique satisfeito consigo mesmo<n>tão rápido,\nseu tolo!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Vou implementar seu conselho, e<n>espero uma\nanálise completa da<n>minha performance depois."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Seu trabalho é apontar qualquer falha<n>e me\najudar a alcançar a perfeição.<n>Não pisque!",
+            "choice_data_list": [
+                "Entendido."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Então vamos começar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ao final da sessão, Air Groove coloca<n>mais\nintenção em sua dança,<n>melhorando sua rotina."
+        }
+    ]
+}

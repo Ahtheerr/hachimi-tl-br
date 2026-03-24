@@ -1,0 +1,418 @@
+{
+    "text_block_list": [
+        {
+            "name": "Satono Diamond",
+            "text": "<i>Arf, arf...</i> Terminei... o exercício de<n>corrida...\nem ritmo constante...",
+            "choice_data_list": [
+                "Ótimo trabalho! Vá em frente e tire um minuto\npara respirar.",
+                "Ótimo trabalho! Vá em frente e tire um minuto\npara respirar."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Obrigada."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Hoje marca a metade do<n>acampamento de\nverão. Notei que os<n>movimentos de Satono\nDiamond se<n>tornaram consideravelmente mais\nlentos."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Treinar sob o sol escaldante esgota<n>muito o\nvigor. Todos esses dias<n>consecutivos de\ntrabalho duro devem<n>estar cobrando seu preço."
+        },
+        {
+            "name": "???",
+            "text": "Haaaaah!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Ufa, dez voltas completas! Elas estão\ncomeçando a ficar muito mais fáceis!"
+        },
+        {
+            "name": "Kitasan Black",
+            "text": "Beleza, hora de dobrar a carga e<n>partir pra mais\numa série!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "...Gostaria de começar o nosso<n>próximo\nexercício, por favor!",
+            "choice_data_list": [
+                "Você deveria descansar um pouco mais."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Não precisa! Vamos começar!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "<i>Arf, arf, arf...</i>",
+            "choice_data_list": [
+                "Este parece ser um bom momento para\nencerrarmos a nossa sessão matinal."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "M-mas ainda não concluímos tudo o<n>que estava\nprogramado..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Para neutralizar o seu apelo em<n>continuar, explico\nque ela não verá<n>nenhuma melhora significativa\nse<n>correr enquanto estiver fadigada. Na\nverdade, os seus tempos de volta<n>têm piorado."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Se eu parar toda vez que chegar ao<n>meu limite,\nnunca chegarei ao topo!<n>Devo me esforçar mais\npara ganhar<n>a força de que preciso para quebrar\na<n>maldição!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Além disso, a Kita também está<n>trabalhando\nduro! Não posso deixar<n>ela me vencer!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seu olhar suplicante recai sobre<n>Kitasan Black,\nque está encharcada<n>de suor enquanto começa\nsua<n>próxima série de treinamento a uma<n>certa\ndistância."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Kitasan Black treina quebrando os<n>seus limites\napenas com espírito e<n>garra, um método que\ntenho certeza<n>que não combinaria com a Satono\nDiamond."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Acho que você pode achar isso útil."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "É uma compilação dos meus dados<n>de\ntreinamento e gravações de<n>corrida que os meus\ninstrutores<n>anteriores reuniram."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "A família Satono sempre fez uso de<n>tecnologia de\nponta no treinamento,<n>então os dados devem ser\nconfiáveis."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Percebo que ela deve ter treinado em<n>ambientes\ncontrolados por toda a<n>vida. Ela deve estar se\ncansando tão<n>rápido porque não está\nacostumada a<n>se exercitar no calor.",
+            "choice_data_list": [
+                "Obrigado. Mas, por enquanto, vamos parar para\no almoço."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Tudo bem..."
+        },
+        {
+            "name": "???",
+            "text": "Ei, ei, eiii! Satono e treinador da<n>Satono!",
+            "color_text_info_list": [
+                "Satono"
+            ]
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Eu vou treinar com vocês!",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hã? Turbo?"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Nós vamos treinar em grupo! E vocês<n>estão\nconvidados!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Vá devagar, Turbo. Você a está<n>deixando\nconfusa. Permita-me<n>explicar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vendo a minha confusão, Satono<n>Diamond\nexplica que este grupo<n>havia organizado uma\nfesta de<n>boas-vindas para novos alunos."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Twin Turbo, Matikanetannhauser e<n>Daitaku\nHelios estão entre os rostos<n>que se juntam a\nIkuno Dictus e nos<n>cercam.",
+            "color_text_info_list": [
+                "Twin Turbo",
+                "Matikanetannhauser",
+                "Daitaku Helios",
+                "Ikuno Dictus"
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Gostaria de se juntar a nós para um<n>treinamento\nem grupo?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Um benefício do acampamento de<n>verão é que\nele nos permite treinar<n>em grandes grupos. Por\nque não<n>aproveitar tal oportunidade?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Entendo..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Bem, não precisa quebrar a cabeça<n>pensando\ndemais nisso. No ano<n>passado, a Teio e as\namigas dela<n>ajudaram a Kitasan no treinamento\ndela, e—",
+            "color_text_info_list": [
+                "Teio"
+            ]
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Não é justo que só a Teio seja super<n>legal! Eu\ntambém quero ser uma<n>aluna mais velha super\nlegal!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "De qualquer forma, seria irado se<n>você treinasse\ncom a gente."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Você vai topar, né? Qual é, você tem<n>que topar!\nPor favorzinhooo, por<n>favor, por favor?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Adoraríamos ter você se não for<n>contra a ideia."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hum... O que você acha, Treinador?",
+            "choice_data_list": [
+                "Que tipo de treinamento vocês vão fazer?",
+                "Que tipo de treinamento vocês vão fazer?"
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Estamos decidindo entre dois<n>exercícios\ndiferentes no momento."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ikuno Dictus analisa seus planos, os<n>quais\ncontêm exercícios razoáveis<n>para ganho de força\nque não<n>causarão esforço excessivo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não só isso, eles também parecem<n>divertidos e\ndevem ajudar a melhorar<n>o humor de Satono\nDiamond.",
+            "choice_data_list": [
+                "Adoraríamos nos juntar a vocês."
+            ]
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Iupiiii! Pode deixar tudo comigo,<n>Satono!\nConsidere-me a sua super<n>confiável mentora!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehehe! Conto com você então,<n>Turbo! ♪"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Agora que tudo tá resolvido, vamo<n>almoçar! ♪ O\nque eu devo comer?<n>Curry? Yakisoba? Ou talvez\nos dois!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Aeeeee! ☆ Por que não fazer um<n>banquete? Todo\nmundo pede pelo<n><i>menos</i> três pratos!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Não é um pouco cedo para o almoço?!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Vamos nos encontrar aqui novamente<n>depois de\nterminarmos de comer."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "E então, qual exercício de treinamento<n>o senhor\nacha melhor, Treinador?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Penso no tipo de treinamento que<n>melhor se\nadequaria à Satono<n>Diamond agora e decido que\nelas<n>deveriam...",
+            "choice_data_list": [
+                "Construir um túnel de areia.",
+                "Jogar vôlei suspenso usando balões de papel."
+            ]
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Então, construiremos um túnel de<n>areia.\nRecebemos permissão para<n>usar a área perto\ndas cabanas de<n>praia, então vamos para lá."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Um... Eu tenho uma pergunta.<n>Construir um túnel\nde areia realmente<n>conta como treinamento?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Com certeza! Afinal de contas, nós<n>vamos fazer\num túnel largo o<n>suficiente para podermos\npassar por<n>ele."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Teremos que cavar e cavar e cavar<n>bastante\npara conseguirmos areia o<n>suficiente para um\ntúnel assim."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Entendo... Isso parece ser um treino e<n>tanto!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ufa... Vocês acham que isso é<n>suficiente?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Parece bom pra mim! Cuidado pra<n>não cair\ndentro!"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "O mesmo vale para você,<n>Tannhauser. Tome\ncuidado.",
+            "color_text_info_list": [
+                "Tannhauser"
+            ]
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Uou! Você não tava brincando! Eu<n>realmente\ntenho que tomar cuidado..."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Vamo ver... Agora, a gente tem que<n>construir a\nfundação. Vamos ter que<n>jogar um montão de\nágua na areia e<n>depois pisar pra compactar."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Aí a gente tem que empilhar a areia<n>até a altura\ndo túnel, pisar pra<n>compactar, empilhar mais um\npouco,<n>enxaguar e repetir o processo! ♪"
+        },
+        {
+            "name": "Todos",
+            "text": "Eba! Conseguimos!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Uau! Dá pra atravessar ele andando<n>mesmo!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Nada mal pra um bando de amadoras,<n>não é?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ufaaa... A exaustão tá começando a<n>bater agora..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Foi muito trabalho braçal o que<n>fizemos. Tudo\naquilo de cavar, correr<n>de um lado para o outro\npara buscar<n>água do mar, e pisar para comprimir\na<n>areia..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Mesmo assim, eu me diverti muito!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Construir um túnel de areia se<n>mostrou eficaz em\nmelhorar tanto a<n>força quanto o humor de Satono\nDiamond."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Hehehe! Beleza, agora só falta uma<n>coisa pra\nfazer! VAMO DESTRUIR<n>EEELE!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "O quê?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Eu entendo como você se sente, mas<n>não seria\nseguro simplesmente<n>deixarmos um buraco no\nchão assim."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A existência do túnel de areia é fugaz<n>e\ndesaparece como uma miragem,<n>deixando a\ntodos nós uma lembrança<n>agridoce do\ntreinamento em grupo."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Vôlei suspenso? Balões de papel?"
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Sim. Usaremos um balão de papel em<n>vez de\numa bola. Você entenderá<n>assim que\ncomeçarmos a jogar."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Vamos começar o nosso primeiro<n>jogo! É Palmer\ne Helios contra Satono<n>e Turbo!",
+            "color_text_info_list": [
+                "Palmer",
+                "Helios"
+            ]
+        },
+        {
+            "name": "Palmer e Helios",
+            "text": "Uhhuuuuu! ☆"
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Siga a minha liderança, Satono!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Okaaay! ♪"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Lá vai o saque! Tooooma ESSA!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O balão de papel voa alto, permanece<n>flutuando\nsem peso no ar e... não<n>mostra nenhum sinal de\ndescer."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Beleeeza! Vem pra Turbo! Eu tô<n>pronta! Eu tô\nmuito, muito, muito<n>pronta! ...Uuugh, desce logo!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ele deve cair por aqui—oh não! O<n>vento mudou de\ndireção! Não vou<n>conseguir!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ah... Não consegui alcançar..."
+        },
+        {
+            "name": "Twin Turbo",
+            "text": "Dá um tempo! Esse balão é muuuuito<n>lerdo!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Vôlei suspenso... Então é daí que vem<n>o nome.\nUm balão de papel é muito<n>mais leve que uma\nbola de praia,<n>então fica mais tempo no ar."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "E se você não bater no balão com<n>força o\nsuficiente, ele não chegará ao<n>outro lado, então\nvocê precisa estar<n>sempre pronta e preparada."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Isso mesmo. Você tem que esperar\npacientemente até a hora certa e<n>calcular bem\nquanta força vai precisar<n>pra acertar o balão."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "O vento faz ele voar pra todo lado<n>também! Ele\ntá, tipo, literalmente<n>dando o maior trabalho pra\ngente.<n>Kkk! ☆"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ter que esperar pelo momento certo...<n>É\nexatamente como temos que<n>observar o\nmomento certo para<n>começar a arrancar com\ntudo durante<n>uma corrida."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Você precisa de moderação para<n>resistir à\ninfluência daqueles ao seu<n>redor e esperar o\nmomento certo para<n><i>você</i>. Este é um\ntreinamento<n>muito bom!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Aprender a ler calmamente o vento e<n>a\nvelocidade do balão caindo ajuda<n>Satono\nDiamond a liderar sua equipe<n>à vitória."
+        },
+        {
+            "name": "Ikuno Dictus",
+            "text": "Isso foi muito bem feito.<n>Especialmente você,\nSatono. Fiquei<n>muito impressionada com sua\nhabilidade de manter a calma, não<n>importa a\nsituação."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe! Eu só me deixei levar pelo<n>jogo porque\nestava tão divertido!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que o treinamento em grupo<n>ajudou\nSatono Diamond a melhorar a<n>sua paciência e\nseu humor."
+        }
+    ]
+}

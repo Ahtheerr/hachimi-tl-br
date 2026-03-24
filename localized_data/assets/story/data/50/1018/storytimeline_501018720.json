@@ -1,0 +1,566 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Um dia, levo <chrname> à enfermaria<n>para um\ncheck-up."
+        },
+        {
+            "name": "???",
+            "text": "Oh! Uma clien—quer dizer, uma<n>estudante! Olá!"
+        },
+        {
+            "name": "???",
+            "text": "Você está machucada? Doente?<n>Estressada?\nSeja o que for, eu trato<n>de tudo!",
+            "choice_data_list": [
+                "Quem é você?!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Bem, considerando que você está na<n>enfermaria\nda academia, eu diria que<n>isso me torna sua\nconfiável<n>enfermeira escolar! Sim, apenas uma\nfuncionária escolar comum!",
+            "choice_data_list": [
+                "...Não, você não é?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ahaha! Pelo visto não dá para te<n>enganar. Acho\nque devo começar me<n>apresentando."
+        },
+        {
+            "name": "???",
+            "text": "Ahem! Permita-me apresentar-me!"
+        },
+        {
+            "name": "???",
+            "text": "Eu sou a (provável) salvadora de<n>todas as\nUmamusume, a<n>(autoproclamada) acupunturista\nlendária com o toque de mestre..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "A única e exclusiva Sasami<n>Anshinzawa! Viu?\nSem<n>preocupações! ☆",
+            "choice_data_list": [
+                "..."
+            ],
+            "color_text_info_list": [
+                "Sasami Anshinzawa"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Tudo bem, permita-me escoltá-la para<n>fora das\ninstalações."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nossa! Você parece mesmo<n>preocupada! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não importa! Não importa! Já nos<n>apresentamos,\nentão deite-se e<n>deixe-me colocar essas agulhas\npara<n>trabalhar!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Deixar você fazer <i>o quê</i> agora?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Hahaha! Não precisa ter medo! Tudo<n>o que vou\nfazer é deslizar estas<n>agulhas extraordinárias\nprecisamente<n>nos seus pontos de chakra."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então voilà, presto! Algo indescritível<n>vai\nacontecer!",
+            "choice_data_list": [
+                "(Isso é indescritivelmente suspeito...)"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E deixe-me garantir, não há<n>absolutamente nada\nde suspeito<n>nisso tudo! Nunca saiu nada menos\nque perfeito!..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Para o meu mestre.",
+            "choice_data_list": [
+                "Pela o seu mestre?! E quanto a você?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não se aflija! Esta é a minha primeira<n>vez, então\ntecnicamente, eu nunca<n>falhei com um paciente\ntambém!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E não é como se eu não tivesse<n>experiência!\nPassei dez anos sob um<n>mestre lendário,\nbuscando bebi—quer<n>dizer, treinando!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Viu? Sem preocupações! ☆",
+            "choice_data_list": [
+                "(Precisamos cair fora daqui, agora!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não tem a menor chance de fazermos<n>isso. Pego\n<chrname> e vou em<n>direção à porta, quando..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E-espere! Onde você vai?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Você é <i>a</i> Air Groove, certo?! A<n>bela\nImperatriz! O ideal radiante para<n>todas as\nUmamusume!",
+            "choice_data_list": [
+                "Você já ouviu falar dela?"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Se eu já ouvi falar dela? É claro que<n>sim! Sou\numa grande fã!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "É exatamente por isso que estou<n>aqui! Para te\ndar meu apoio!<n>Deixe-me ajudar!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Apenas me dê uma chance! Por<n>favoooor!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Acho que é hora de chamar a<n>segurança."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Por favor! Por favorzinho com uma<n>cenoura em\ncima! Eu até deixo você<n>escolher qual chakra eu\nativo!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eu tenho <i>certeza</i> que não vou<n>errar!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem... quase certeza.",
+            "choice_data_list": [
+                "<i>Tem</i> certeza?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Digo, está mais para o lado do com<n>certeza! Isso\né <i>bom,</i> não é?<n>Enfim, não se apegue aos\ndetalhes!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Vamos direto ao que interessa! Qual<n>chakra devo\nativar? Você quer um<n>bônus nas suas\nhabilidades? Na sua<n>saúde? Ou talvez no seu\n<i>charme?</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto perigo no ar, mas imagino que<n>possa haver\n— e enfatizo o<n><i>possa</i> — uma chance de\nconseguir algo especial deste<n>tratamento."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O que devemos fazer?",
+            "choice_data_list": [
+                "Ativar o chakra da força.",
+                "Ativar o chakra da vitória.",
+                "Ativar o chakra da saúde.",
+                "Ativar o chakra do charme.",
+                "Isso é suspeito demais. Vamos parar enquanto\nainda podemos."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então você quer<n>que eu ative\no chakra da força?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Você está<n>pronta? Não\ntem volta depois!",
+            "choice_data_list": [
+                "Vá em frente.",
+                "Espere, segura um pouco."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Tudo bem, deixe comigo! Hora de<n>localizar esse\nchakra! Um, dois, três e<n>já!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, apenas relaxee... Viu? Sem<n>preocupações!\n☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee... cutuca!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Urgh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Picada Perfeita!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmm... entendo..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Eu não me sinto tão mal, na verdade.<n>Sinto um\ncerto fervor dentro de mim —<n>como se eu\npudesse superar<n>qualquer coisa!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> Você está brincando...<n>Funcionou\nmesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não pode ser! Não acredito! Eu sou<n>um gênio\ntotal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<chrname> está transbordando tanto<n>poder que\nela está quase<n>irreconhecível!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e valeu a pena! Este é<n>um grande\nsalto para alcançar nosso<n>objetivo!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ngh... Eu me sinto tão letárgica..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ainda assim, há uma estranha raiva<n>fervendo\ndentro de mim... Eu me sinto<n>péssima... e é tudo\npor causa de algo<n>tão absolutamente ridículo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição de <chrname> se deteriora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... é isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem, olhem só a hora! Eu preciso ir!<n>Tchau! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu deveria saber que não era para<n>testar nossa\nsorte. Não sou eu quem<n>está sofrendo, mas\nestou cheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então, você quer<n>que eu ative\no chakra da vitória?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Você está<n>pronta? Não\ntem volta depois!",
+            "choice_data_list": [
+                "Vá em frente.",
+                "Espere, segura um pouco."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Tudo bem, deixe comigo! Hora de<n>localizar esse\nchakra! Um, dois, três e<n>já!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, apenas relaxee... Viu? Sem<n>preocupações!\n☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee... cutuca!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Urgh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Picada Perfeita!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmm... entendo..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Eu não me sinto tão mal, na verdade.<n>Sinto uma\nferocidade em mim que<n>pode superar qualquer\ncoisa!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> Você está brincando...<n>Funcionou\nmesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não pode ser! Não acredito! Eu sou<n>um gênio\ntotal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Consigo sentir uma melhora enorme<n>nas\nhabilidades de <chrname>!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e valeu a pena! Este é<n>um grande\nsalto para alcançar nosso<n>objetivo!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ngh... Eu me sinto tão letárgica..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ainda assim, há uma estranha raiva<n>fervendo\ndentro de mim... Eu me sinto<n>péssima... e é tudo\npor causa de algo<n>tão absolutamente ridículo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição de <chrname> se deteriora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... é isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem, olhem só a hora! Eu preciso ir!<n>Tchau! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu deveria saber que não era para<n>testar nossa\nsorte. Não sou eu quem<n>está sofrendo, mas\nestou cheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então, você quer<n>que eu ative\no chakra da saúde?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Você está<n>pronta? Não\ntem volta depois!",
+            "choice_data_list": [
+                "Vá em frente.",
+                "Espere, segura um pouco."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Tudo bem, deixe comigo! Hora de<n>localizar esse\nchakra! Um, dois, três e<n>já!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, apenas relaxee... Viu? Sem<n>preocupações!\n☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee... cutuca!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Urgh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Picada Perfeita!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmm... entendo..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Eu não me sinto tão mal, na verdade.<n>Sinto uma\nferocidade em mim que<n>pode superar qualquer\ncoisa!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> Você está brincando...<n>Funcionou\nmesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não pode ser! Não acredito! Eu sou<n>um gênio\ntotal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O corpo inteiro de <chrname> está<n>irradiando um\nbrilho saudável! Ela é o<n>retrato absoluto da\nsaúde!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e valeu a pena! Este é<n>um grande\nsalto para alcançar nosso<n>objetivo!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ngh... Eu me sinto tão letárgica..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ainda assim, há uma estranha raiva<n>fervendo\ndentro de mim... Eu me sinto<n>péssima... e é tudo\npor causa de algo<n>tão absolutamente ridículo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição de <chrname> se deteriora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... é isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem, olhem só a hora! Eu preciso ir!<n>Tchau! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu deveria saber que não era para<n>testar nossa\nsorte. Não sou eu quem<n>está sofrendo, mas\nestou cheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então, você quer<n>que eu ative\no chakra do charme?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Você está<n>pronta? Não\ntem volta depois!",
+            "choice_data_list": [
+                "Vá em frente.",
+                "Espere, segura um pouco."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Tudo bem, deixe comigo! Hora de<n>localizar esse\nchakra! Um, dois, três e<n>já!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, apenas relaxee... Viu? Sem<n>preocupações!\n☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee... cutuca!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Urgh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Picada Perfeita!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmm... entendo..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Eu não me sinto tão mal, na verdade.<n>Sinto uma\nferocidade em mim que<n>pode superar qualquer\ncoisa!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> Você está brincando...<n>Funcionou\nmesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não pode ser! Não acredito! Eu sou<n>um gênio\ntotal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<chrname> está transbordando<n>charme! Ela com\ncerteza vai atrair<n>olhares por onde passar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e valeu a pena! Este é<n>um grande\nsalto para alcançar nosso<n>objetivo!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ngh... Eu me sinto tão letárgica..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ainda assim, há uma estranha raiva<n>fervendo\ndentro de mim... Eu me sinto<n>péssima... e é tudo\npor causa de algo<n>tão absolutamente ridículo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição de <chrname> se deteriora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... é isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem, olhem só a hora! Eu preciso ir!<n>Tchau! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu deveria saber que não era para<n>testar nossa\nsorte. Não sou eu quem<n>está sofrendo, mas\nestou cheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Ah, fala sério! Não seja assim!",
+            "choice_data_list": [
+                "Recusar.",
+                "Reconsiderar."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> processados!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! Fui descoberta!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, tô fora daqui! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Pare agora mesmo!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "O que diabos foi tudo aquilo?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Não temos tempo para sermos<n>atraídos pelo\naroma sedutor de<n>conversa fiada. Vamos\ncomeçar<n>nosso treinamento.",
+            "choice_data_list": [
+                "Boa ideia.",
+                "Boa ideia."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Estou curiosa sobre quem realmente<n>é essa tal\nde Anshinzawa, mas não<n>adianta ficar remoendo\nisso. Melhor<n>esquecer o dia de hoje e seguir em\nfrente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Mudou de ideia, é? Sem problemas,<n>acontece!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Vá em frente e me diga qual chakra<n>você quer\nque eu ative, então!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E então?! Não nos deixe em<n>suspense! Espere\num segundo... Há<n>quanto tempo estou aqui?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> processados!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! Fui descoberta!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, tô fora daqui! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Pare agora mesmo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A situação toma um rumo inesperado<n>antes que\neu possa tomar uma<n>decisão."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O que foi tudo aquilo? <chrname> e eu<n>nos\nolhamos confusos."
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "text_block_list": [
+        {
+            "name": "Narrador",
+            "text": "O Tenno Sho de outono está prestes a<n>começar!\nClaro, todos estão com a<n>atenção voltada para a\nbatalha entre<n>a Imperatriz, Air Groove, e a\nFront-Runner de Outro Mundo, Silence<n>Suzuka!"
+        },
+        {
+            "name": "Narrador",
+            "text": "As arquibancadas estão cheias de<n>empolgação!\nTodo mundo está na<n>ponta da cadeira!"
+        },
+        {
+            "name": "Fã Feminina",
+            "text": "Aposto que a Suzuka vai disparar na<n>frente e\ndeixar a Air Groove para<n>trás!"
+        },
+        {
+            "name": "Fã Masculino",
+            "text": "Eu estava na Sapporo Kinen, então<n>sei que a Air\nGroove vai ganhar essa!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Estou prestes a mandar Air Groove<n>para a pista."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Chegamos tão longe.",
+            "choice_data_list": [
+                "Agora tudo o que resta é correr.",
+                "Agora tudo o que resta é correr."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Sim. Agora só preciso dar tudo o que<n>tenho."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Air Groove."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Suzuka..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Desculpe por fazer você esperar."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Estou tão aliviada."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Aliviada com o quê?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Posso sentir seu poder novamente.<n>Você voltou a\nser a Air Groove que eu<n>conheço tão bem."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Na verdade... não exatamente."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ainda há algo diferente em você<n>agora."
+        },
+        {
+            "name": "Air Groove",
+            "text": "O que quer dizer?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Você parece mais rápida e mais<n>afiada do que na\núltima vez que<n>corremos. Parece que talvez\nconsiga<n>me ultrapassar."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Você está mais forte do que jamais<n>vi. É essa a\nsensação que tenho."
+        },
+        {
+            "name": "Air Groove",
+            "text": "..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Eu realmente gostei de correr na<n>Takarazuka\nKinen."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "E olhando para você agora... sinto<n>que posso\ncorrer ainda mais rápido<n>do que naquela vez."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Era exatamente isso que eu queria<n>ouvir,\nSuzuka."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Estou ansiosa para ver você correr<n>ainda mais\nrápido do que na<n>Takarazuka Kinen... antes que\neu a<n>ultrapasse e conquiste minha vitória."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ótimo. Mas não espere que eu caia<n>sem lutar."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Estou indo agora. Vamos fazer uma<n>boa corrida\nna pista."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Não se preocupe. Eu não estou mais<n>com medo.",
+            "choice_data_list": [
+                "Eu acredito em você."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Isso mesmo. Acredite em mim."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Eu sou a Imperatriz. Sou a desafiante<n>que\nimpulsiona todas as Umamusume<n>para frente."
+        },
+        {
+            "name": "Air Groove",
+            "text": "E... eu sou o seu ideal."
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Um dia, conforme a corrida de estreia<n>de Satono\nDiamond se aproxima..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Com licença.",
+            "choice_data_list": [
+                "McQueen?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Não pretendo me intrometer, mas há<n>algo que\nsenti que deveria saber."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "A estreia da Satono provavelmente<n>atrairá muita\natenção."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro McQueen mostra uma revista<n>com a\nmanchete chamativa \"A<n>Corrida de Estreia de\n500 Milhões de<n>Pontos RKST!\"",
+            "color_text_info_list": [
+                "RKST-Point"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "RKST — a sigla significa \"Rookie<n>Knowledge, Stats,\nand Talent\"<n>(Conhecimento, Atributos e Talento\nde Novata)."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Os pontos RKST são anunciados<n>anualmente em\njulho e referem-se<n>aos pontos de avaliação de\numa<n>Umamusume antes de sua estreia."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As pontuações são determinadas por\ntreinadores aposentados e críticos de<n>corrida que\nanalisam as habilidades<n>das Umamusume e\nconvertem suas<n>avaliações em valores\nnuméricos."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Satono Diamond obteve<n>impressionantes 230\nmilhões de<n>pontos, colocando-a entre as\nUmamusume de maior ranking na<n>história. Além\ndisso, ela tem atraído<n>grande atenção antes de\nsua estreia."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Outra Umamusume com uma<n>pontuação de\navaliação ainda maior<n>que a da Satono\nparticipará da<n>mesma corrida de estreia."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Outras Umamusume com pontuações<n>altas\ntambém estarão competindo.<n>Coletivamente, o\ntotal de pontos de<n>todas as corredoras excede\n500<n>milhões.",
+            "choice_data_list": [
+                "Então é por isso que está sendo chamada de \"A\nBatalha de 500 Milhões de Pontos\", hein?",
+                "Então é por isso que está sendo chamada de \"A\nBatalha de 500 Milhões de Pontos\", hein?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Suspeito que a atenção do público<n>continuará a\naumentar, mas a Satono<n>deve ficar bem. No\nentanto, desejei<n>informá-lo.",
+            "choice_data_list": [
+                "Obrigado pelo aviso. Seremos cuidadosos.",
+                "Obrigado pelo aviso. Seremos cuidadosos."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por mais autoconfiante e composta<n>que Satono\nDiamond costuma ser,<n>esta é sua corrida de\nestreia, então é<n>prudente ser excessivamente\ncauteloso."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ótimo. Com tantos olhos sobre ela, é<n>natural que\nsurjam opiniões<n>divergentes a seu respeito."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Treinador, vamos fazer de hoje um<n>dia\nexcelente!"
+        },
+        {
+            "name": "Repórter A",
+            "text": "Ei, a Satono Diamond está aqui!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Realmente há muitos repórteres por<n>aqui hoje..."
+        },
+        {
+            "name": "Repórter B",
+            "text": "Satono Diamond, poderia nos<n>conceder alguns\nminutos do seu<n>tempo, por favor?",
+            "choice_data_list": [
+                "Desculpe, estamos prestes a começar o treino..."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Está tudo bem, Treinador. Não me<n>importo com\numa entrevista curta."
+        },
+        {
+            "name": "Repórter B",
+            "text": "Muito obrigado! Sua próxima estreia<n>parece\ndestinada a ser um confronto<n>entre você e várias\noutras<n>Umamusume de alta pontuação. Quais\nsão seus pensamentos sobre isso?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, é isso que as pessoas estão<n>dizendo?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Fico radiante por receber tanta<n>atenção e\npretendo apresentar um<n>desempenho digno da\nminha<n>pontuação durante minha estreia."
+        },
+        {
+            "name": "Repórter B",
+            "text": "Você está sentindo alguma pressão?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Acredito que todas estejam."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Satono Diamond lida com as<n>perguntas com\nperfeição. Ela parece<n>totalmente imperturbável\ncom o<n>alarde em torno do confronto de alta\npontuação."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ufa... Desculpe a espera. Terminei por<n>agora.",
+            "choice_data_list": [
+                "Você está bem?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Bem, minha garganta está um pouco<n>seca.",
+            "choice_data_list": [
+                "Devo limitar as entrevistas para você?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Este período que antecede sua<n>estreia é crítico.\nSe pedirmos, tenho<n>certeza de que a Tazuna\npode limitar<n>o número de entrevistas que\nrecebemos."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Não, está tudo bem. Conceder<n>entrevistas é parte\nintegrante de ser<n>uma corredora."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Na verdade, é uma bênção se isso<n>deixar todos\nempolgados para a<n>minha estreia."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Tenho certeza de que minha família<n>também está\ngrata pela atenção!",
+            "choice_data_list": [
+                "Estar sob os holofotes não é um fardo?"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Hehe. Estou muito acostumada com<n>isso. Sou o\ncentro das atenções na<n>família Satono desde\npequena."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ocasionalmente, as pessoas me<n>bombardeavam\nem festas com<n>perguntas sobre meus tempos de\nvolta ou se eu planejava frequentar a<n>Academia\nTracen."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Outras Umamusume, incluindo minhas<n>parentes,\nfrequentemente tinham<n>inveja dos holofotes que\nme<n>seguiam. ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela não demonstra sinais de sentir<n>pressão.\nParece que ela realmente<n>está acostumada com\na atenção."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Oh, mas o senhor acha as entrevistas<n>irritantes?"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ficarei feliz em recusá-las se<n>estiverem\ninterferindo em nosso<n>treinamento.",
+            "choice_data_list": [
+                "Tudo bem! Não tenho queixas se você não tiver!",
+                "Tudo bem! Não tenho queixas se você não tiver!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "É ela quem está se preocupando<n>comigo, em vez\ndo contrário. Se ela<n>não se importa,\nprovavelmente é<n>melhor não remoer o assunto."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, o dia de sua corrida de<n>estreia chega..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Finalmente chegou a hora!",
+            "choice_data_list": [
+                "Você parece empolgada.",
+                "Você parece empolgada."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Estou sim. Quando penso em como<n>minhas\naventuras na Twinkle Series<n>estão finalmente\ncomeçando..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Não consigo evitar de sentir calafrios<n>e arrepios\npor todo o corpo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Satono Diamond não demonstra o<n>menor sinal de\nnervosismo. Em vez<n>disso, ela transborda\nentusiasmo.",
+            "choice_data_list": [
+                "Vá lá e mostre a eles que você veio para vencer!"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Com certeza! Satono Diamond,<n>partindo!"
+        }
+    ]
+}

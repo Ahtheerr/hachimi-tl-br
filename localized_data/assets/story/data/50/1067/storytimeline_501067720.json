@@ -1,0 +1,566 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Um dia, levo a <chrname> à enfermaria<n>para um\ncheck-up."
+        },
+        {
+            "name": "???",
+            "text": "Oh! Uma clien—digo, uma estudante!<n>Olá!"
+        },
+        {
+            "name": "???",
+            "text": "Está machucada? Doente?<n>Estressada? Seja o\nque for, eu trato<n>de tudo!",
+            "choice_data_list": [
+                "Quem é você?!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Bem, considerando que você está na<n>enfermaria\nda academia, eu diria que<n>isso faz de mim a sua\nenfermeira<n>escolar de confiança! Sim, apenas\numa funcionária comum da escola!",
+            "choice_data_list": [
+                "...Não, você não é."
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ahaha! Pelo visto não dá para<n>enganar vocês.\nAcho que devo<n>começar me apresentando."
+        },
+        {
+            "name": "???",
+            "text": "Ahem! Permitam-me apresentar!"
+        },
+        {
+            "name": "???",
+            "text": "Eu sou a (provável) salvadora de<n>todas as\nUmamusume, a<n>(autoproclamada) acupunturista\nlendária com o toque mágico..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "A única e original Sasami<n>Anshinzawa! Viu? Sem\npreocupações! ☆",
+            "choice_data_list": [
+                "..."
+            ],
+            "color_text_info_list": [
+                "Sasami Anshinzawa"
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "A senhora é muito estranha. Não<n>acredito que a\ntenha visto por aqui<n>antes."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nossa! Você parece mesmo<n>preocupada! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não importa! Não importa! Já nos<n>apresentamos,\nentão deite-se e<n>deixe-me colocar estas agulhas\npara<n>trabalhar!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "A senhora se refere a acupuntura?<n>Se for o caso,\neu gostaria de um<n>tempo para considerar."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Hahaha! Não precisa ter medo! Tudo<n>o que vou\nfazer é inserir estas<n>agulhas extraordinárias\nprecisamente<n>nos seus pontos de chakra."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então voilà, presto! Algo indescritível<n>acontecerá!",
+            "choice_data_list": [
+                "(Isso é indescritivelmente suspeito...)"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E deixem-me assegurar, não há<n>absolutamente\nnada de suspeito<n>nisso! Nunca deu nada menos\ndo que<n>perfeito!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "...Para o meu mestre.",
+            "choice_data_list": [
+                "Para o seu mestre?! E quanto a você?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não se aflijam! Esta é a minha<n>primeira vez,\nentão, tecnicamente, eu<n>também nunca falhei\ncom um<n>paciente!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E não é que eu não tenha<n>experiência! Passei\ndez anos sob a<n>tutela de um mestre lendário,\nbuscando bebi—digo, treinando!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Viu? Sem preocupações! ☆",
+            "choice_data_list": [
+                "(Precisamos dar o fora daqui, agora!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não tem a menor chance de fazermos<n>isso. Pego\na <chrname> e vou em<n>direção à porta, quando..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E-esperem! Onde vocês vão?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Você é a Satono Diamond, certo?! A<n>Umamusume\nque brilha como um<n>diamante e tem o poder de\nquebrar<n>azares!",
+            "choice_data_list": [
+                "Você já ouviu falar dela?"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Se eu já ouvi falar dela? É claro que<n>sim! Sou\numa grande fã!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "É exatamente por isso que estou<n>aqui! Para lhe\ndar o meu apoio!<n>Deixe-me ajudar!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Apenas me dê uma chance! Por<n>favoooor!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Se a senhora me conhece tão bem,<n>talvez não\nhaja problema em<n>confiar..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Por favor! Por favorzinho, com uma<n>cenoura em\ncima! Eu até deixo você<n>escolher qual chakra eu\nativo!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eu tenho <i>certeza</i> de que não vou<n>errar!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem... quase certeza.",
+            "choice_data_list": [
+                "<i>Quase</i> certeza?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Digo, está mais para o lado da<n>certeza! Isso é\n<i>bom,</i> não é?<n>Enfim, não se prendam aos\ndetalhes!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Vamos para a parte boa! Qual chakra<n>devo\nativar? Você quer um bônus nas<n>suas\nhabilidades? Na sua saúde? Ou<n>quem sabe no\nseu <i>charme?</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto o perigo no ar, mas imagino que<n>talvez — e\nenfatizo o <i>talvez</i> —<n>haja uma chance de\nconseguir algo<n>especial deste tratamento."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O que devemos fazer?",
+            "choice_data_list": [
+                "Ative o chakra da força.",
+                "Ative o chakra da vitória.",
+                "Ative o chakra da saúde.",
+                "Ative o chakra do charme.",
+                "Isso é suspeito demais. Vamos parar enquanto\nainda podemos."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então você quer<n>que eu ative\no chakra da força?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Não tem\nvolta depois!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espere, um momento."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Certo, deixe comigo! Hora de localizar<n>esse\nchakra! Lá vou eu, lá vou eu, o<n>chakra apareceu!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, apenas relaxeee... Viu? Sem\npreocupações! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee... cutuca!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ungh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Punção Perfeita!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Uau! Sinto como se minha visão<n>tivesse se\naberto de verdade — até o<n>sol parece mais\nbrilhante!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Talvez eu possa brilhar ainda mais<n>agora\ntambém!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arf...</i> Você está brincando...<n>Funcionou\nmesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não pode serrr! Eu não acredito! Eu<n>sou um\ngênio total!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A <chrname> está transbordando tanto<n>poder que\nestá quase irreconhecível!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nós arriscamos e valeu a pena! Este<n>é um\ngrande salto rumo ao nosso<n>objetivo!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ughhh... Minha visão... Está<n>escurecendo..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Não consigo manter meus olhos<n>abertos... Ngh...\nNão consigo brilhar<n>assim..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição da <chrname> deteriora<n>rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... Acho que é isso..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Ora, vejam só a hora! Eu preciso ir!<n>Tchauzinho!\n☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu deveria saber que não era boa<n>ideia testar a\nnossa sorte. Não sou eu<n>quem está sofrendo,\nmas estou cheio<n>de arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então, você quer<n>que eu ative\no chakra da vitória?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Não tem\nvolta depois!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espere, um momento."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Certo, deixe comigo! Hora de localizar<n>esse\nchakra! Lá vou eu, lá vou eu, o<n>chakra apareceu!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, apenas relaxeee... Viu? Sem\npreocupações! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee... cutuca!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ungh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Punção Perfeita!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Uau! Sinto como se minha visão<n>tivesse se\naberto de verdade — até o<n>sol parece mais\nbrilhante!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Talvez eu possa brilhar ainda mais<n>agora\ntambém!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arf...</i> Você está brincando...<n>Funcionou\nmesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não pode serrr! Eu não acredito! Eu<n>sou um\ngênio total!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Consigo sentir uma melhora enorme<n>nas\nhabilidades da <chrname>!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nós arriscamos e valeu a pena! Este<n>é um\ngrande salto rumo ao nosso<n>objetivo!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ughhh... Minha visão... Está<n>escurecendo..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Não consigo manter meus olhos<n>abertos... Ngh...\nNão consigo brilhar<n>assim..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condition da <chrname> deteriora<n>rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... Acho que é isso..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Ora, vejam só a hora! Eu preciso ir!<n>Tchauzinho!\n☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu deveria saber que não era boa<n>ideia testar a\nnossa sorte. Não sou eu<n>quem está sofrendo,\nmas estou cheio<n>de arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então, você quer<n>que eu ative\no chakra da saúde?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Não tem\nvolta depois!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espere, um momento."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Certo, deixe comigo! Hora de localizar<n>esse\nchakra! Lá vou eu, lá vou eu, o<n>chakra apareceu!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, apenas relaxeee... Viu? Sem\npreocupações! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee... cutuca!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ungh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Punção Perfeita!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Uau! Sinto como se minha visão<n>tivesse se\naberto de verdade — até o<n>sol parece mais\nbrilhante!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Talvez eu possa brilhar ainda mais<n>agora\ntambém!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arf...</i> Você está brincando...<n>Funcionou\nmesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não pode serrr! Eu não acredito! Eu<n>sou um\ngênio total!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O corpo inteiro da <chrname> está<n>irradiando um\nbrilho saudável! Ela é a<n>própria imagem da\nsaúde!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nós arriscamos e valeu a pena! Este<n>é um\ngrande salto rumo ao nosso<n>objetivo!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ughhh... Minha visão... Está<n>escurecendo..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Não consigo manter meus olhos<n>abertos... Ngh...\nNão consigo brilhar<n>assim..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição da <chrname> deteriora<n>rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... Acho que é isso..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Ora, vejam só a hora! Eu preciso ir!<n>Tchauzinho!\n☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu deveria saber que não era boa<n>ideia testar a\nnossa sorte. Não sou eu<n>quem está sofrendo,\nmas estou cheio<n>de arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então, você quer<n>que eu ative\no chakra do charme?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Não tem\nvolta depois!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espere, um momento."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Certo, deixe comigo! Hora de localizar<n>esse\nchakra! Lá vou eu, lá vou eu, o<n>chakra apareceu!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, apenas relaxeee... Viu? Sem\npreocupações! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee... cutuca!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ungh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Punção Perfeita!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Uau! Sinto como se minha visão<n>tivesse se\naberto de verdade — até o<n>sol parece mais\nbrilhante!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Talvez eu possa brilhar ainda mais<n>agora\ntambém!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arf...</i> Você está brincando...<n>Funcionou\nmesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não pode serrr! Eu não acredito! Eu<n>sou um\ngênio total!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A <chrname> está transbordando<n>charme! Ela\ncom certeza vai atrair<n>olhares por onde passar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nós arriscamos e valeu a pena! Este<n>é um\ngrande salto rumo ao nosso<n>objetivo!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Ughhh... Minha visão... Está<n>escurecendo..."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Não consigo manter meus olhos<n>abertos... Ngh...\nNão consigo brilhar<n>assim..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição da <chrname> deteriora<n>rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... Acho que é isso..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Ora, vejam só a hora! Eu preciso ir!<n>Tchauzinho!\n☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu deveria saber que não era boa<n>ideia testar a\nnossa sorte. Não sou eu<n>quem está sofrendo,\nmas estou cheio<n>de arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Ah, qual é! Não seja assim!",
+            "choice_data_list": [
+                "Recusar.",
+                "Reconsiderar."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> punidos!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! Fui descoberta!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, fui! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Pare logo aí!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Eu me pergunto o que teria<n>acontecido se\ntivéssemos escolhido<n>diferente."
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "É intrigante, mas a força é algo que<n>você deve\nadquirir por si mesma.<n>Contanto que eu não\nnegligencie meu<n>treino, não há problema!",
+            "choice_data_list": [
+                "Disse tudo.",
+                "Disse tudo."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Fico curioso sobre quem esse tal<n>personagem\nAnshinzawa realmente<n>é, mas não adianta ficar\nremoendo<n>isso. Melhor esquecer o dia de hoje\ne seguir em frente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Mudou de ideia, foi? Sem<n>preocupações,\nacontece!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Vá em frente e me diga qual chakra<n>você quer\nque eu ative, então!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E então?! Não nos deixe em<n>suspense! Espere\num segundo... Há<n>quanto tempo eu estou aqui?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> punidos!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! Fui descoberta!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, fui! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Pare logo aí!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A situação toma um rumo brusco<n>antes que eu\npossa tomar uma<n>decisão."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O que foi tudo aquilo? <chrname> e eu<n>nos\nentreolhamos perplexos."
+        }
+    ]
+}

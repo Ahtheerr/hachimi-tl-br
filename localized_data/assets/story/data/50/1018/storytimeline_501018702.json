@@ -1,0 +1,248 @@
+{
+    "text_block_list": [
+        {
+            "name": "???",
+            "text": "<i>Grrr...</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "...Hm?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto voltamos para a academia,<n>ouço um\nsom fraco e vagamente fofo.",
+            "choice_data_list": [
+                "Foi o seu estômago que roncou?",
+                "Foi o seu estômago que roncou?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Seu tolo! Fico chocada que você<n>sequer sugeriria\nisso. Você precisa<n>mandar examinar esses\nouvidos!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Aquilo claramente era um animal!",
+            "choice_data_list": [
+                "Ah, um animal..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Olho ao redor e encontro..."
+        },
+        {
+            "name": "Filhote",
+            "text": "<i>Nhém... Nhém...</i>"
+        },
+        {
+            "name": "Air Groove",
+            "text": "É um filhote..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "E está ferido. Parece que foi bicado...<n>Os corvos\npor aqui podem ser<n>bastante agressivos."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Sem coleira. Hmm...",
+            "choice_data_list": [
+                "Primeiro de tudo, devíamos cuidar desses\nferimentos!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Espere. Você tem boas intenções,<n>mas cuidados\nmédicos mal<n>administrados podem fazer mais\nmal<n>do que bem."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Vamos consultar um profissional<n>primeiro.\nAcredito que exista um lugar<n>aqui perto\nespecializado em cuidar de<n>animais\nabandonados."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Alô? Meu nome é Air Groove, e sou<n>estudante\nda Academia Tracen."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Encontrei um filhote ferido perto do<n>rio próximo à\nacademia. Ele não tem<n>coleira."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Logo alguém do grupo de proteção<n>animal chega\ne cuida do filhote."
+        },
+        {
+            "name": "Pessoal Veterinário",
+            "text": "Tudo pronto. Os ferimentos não são<n>tão graves.\nDevem cicatrizar em<n>pouco tempo."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Que alívio. Obrigado por vir tão rápido."
+        },
+        {
+            "name": "Pessoal Veterinário",
+            "text": "Não, nós que agradecemos por nos<n>chamar. Ei,\npequenino. Você também<n>deveria agradecer!"
+        },
+        {
+            "name": "Filhote",
+            "text": "Au au! Yap!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "E-espere! Calma! Você ainda não se<n>recuperou\ntotalmente!"
+        },
+        {
+            "name": "Filhote",
+            "text": "Au au!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Heh... Hahaha! Você é bem cheio de<n>energia, não\né?",
+            "choice_data_list": [
+                "(Uau... Um sorriso de verdade!)"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hm? Se tem algo a dizer, então diga.",
+            "choice_data_list": [
+                "Não! Nadinha...",
+                "Não! Nadinha..."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Você é um péssimo mentiroso, sabia?<n>Vá em\nfrente — fale logo!"
+        },
+        {
+            "name": "Pessoal Veterinário",
+            "text": "C-com licença? Desculpe interromper,<n>mas..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "De forma alguma! O que foi?"
+        },
+        {
+            "name": "Pessoal Veterinário",
+            "text": "Eu queria perguntar o que você<n>pretende fazer\ncom esse pequenino."
+        },
+        {
+            "name": "Pessoal Veterinário",
+            "text": "Veja bem, temo que no momento já<n>estamos\nlotados com outros animais<n>abandonados."
+        },
+        {
+            "name": "Pessoal Veterinário",
+            "text": "Você se importaria de cuidar dela até\nencontrarmos um bom lar?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "V-você quer que eu cuide dele?"
+        },
+        {
+            "name": "Pessoal Veterinário",
+            "text": "Eu sei que é um grande pedido, mas<n>ela parece\nter gostado bastante de<n>você!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmm... Infelizmente, a academia tem<n>uma política\nrígida de não permitir<n>animais de estimação."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Além disso, eu nunca tive um<n>cachorro antes...\nNão tenho certeza se<n>seria capaz."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As objeções de Air Groove fazem<n>sentido, mas\ndepois de ver como ela<n>sorriu momentos atrás,\ntenho<n>dificuldade em acreditar que ela\nrealmente pense assim. Decido me<n>intrometer.",
+            "choice_data_list": [
+                "Acho que tenho espaço suficiente no meu\napartamento...",
+                "Acho que tenho espaço suficiente no meu\napartamento...",
+                "Tenho certeza de que você consegue dar conta!",
+                "Tenho certeza de que você consegue dar conta!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "As objeções de Air Groove fazem<n>sentido, mas\ndepois de ver como ela<n>sorriu momentos atrás,\ntenho<n>dificuldade em acreditar que ela\nrealmente pense assim. Decido me<n>intrometer.",
+            "choice_data_list": [
+                "Acho que tenho espaço suficiente no meu\napartamento...",
+                "Acho que tenho espaço suficiente no meu\napartamento...",
+                "Tenho certeza de que você consegue dar conta!",
+                "Tenho certeza de que você consegue dar conta!"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "O quê?! Você considerou<n>adequadamente o\nsignificado do que<n>está dizendo?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Cuidar de um animal não é só<n>diversão, sabia!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Cachorros, especialmente, exigem<n>uma\nquantidade absurda de cuidado<n>e atenção. Você\nprecisa passear com<n>eles, treiná-los, escovar o\npelo..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "E você quer monopolizar tudo isso só<n>para si?!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "...Ah.",
+            "choice_data_list": [
+                "Ela é uma gracinha, não é?",
+                "Ela é uma gracinha, não é?"
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "Graaahhhh, chega!"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Eu não conseguiria dormir sabendo<n>que ela está\nnas mãos de alguém tão<n>irresponsável quanto\nvocê! Eu<n>mesma vou conseguir permissão\npara cuidar dela!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "E como se respondesse ao grito de<n>Air Groove,\no filhote late feliz aos pés<n>dela."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Você realmente acha isso?"
+        },
+        {
+            "name": "Air Groove",
+            "text": "Ngh... Isso é uma questão de vida ou<n>morte!\nPrecisamos levar isso a sério.",
+            "choice_data_list": [
+                "Eu estou."
+            ]
+        },
+        {
+            "name": "Air Groove",
+            "text": "E o que te deixa tão confiante?",
+            "choice_data_list": [
+                "Porque eu sou o seu treinador!",
+                "Porque eu sou o seu treinador!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu digo a Air Groove que, depois de<n>todo o\ntempo que passei com ela, sei<n>que ela é capaz\nde fazer qualquer<n>coisa que decidir fazer."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Hmph..."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Francamente, seu otimismo<n>interminável irrita\nmeus nervos. Mas<n>estarei à altura da estimativa\nque<n>você tem de mim."
+        },
+        {
+            "name": "Air Groove",
+            "text": "Venha, pequenina."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E como se respondesse ao chamado<n>de Air\nGroove, o filhote late<n>alegremente aos pés dela."
+        }
+    ]
+}

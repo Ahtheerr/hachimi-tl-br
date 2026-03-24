@@ -1,0 +1,26 @@
+{
+    "text_block_list": [
+        {
+            "name": "Satono Diamond",
+            "text": "Acho que vamos parar por agora, não<n>é?",
+            "choice_data_list": [
+                "Acho que já passei vergonha o suficiente..."
+            ]
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "N-não, você foi bem! Os controles são<n>bem\ndifíceis neste modelo!"
+        },
+        {
+            "name": "Satono Diamond",
+            "text": "Como a dificuldade parece um pouco<n>exagerada,\navisarei alguém na<n>empresa na próxima\noportunidade.",
+            "choice_data_list": [
+                "I-isso não é necessário!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Bem, isso foi decepcionante."
+        }
+    ]
+}

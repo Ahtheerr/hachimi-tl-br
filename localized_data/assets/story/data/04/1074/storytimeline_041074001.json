@@ -1,1 +1,245 @@
-{}
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "É um dia agradável, com os montes<n>de neve do inverno dando lugar aos<n>raios mornos de sol — os sinais<n>reveladores da primavera."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Uau..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vejo uma aluna da Academia Tracen<n>olhando vagamente para o céu.<n>Talvez ela também esteja<n>aproveitando o sol? Seja qual for o<n>caso, passo por ela e sigo com o meu<n>dia."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hm...",
+            "choice_data_list": [
+                "(Ela ainda está aqui?!)"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ah...",
+            "choice_data_list": [
+                "Bem..."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Ah, como vai? Tenho um lugar vago<n>aqui ao meu lado, se desejar. Daqui,<n>é possível ver com muita clareza.",
+            "choice_data_list": [
+                "Uh, ver o quê?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Olhe, está vendo aquela árvore ali? A<n>maioria das suas folhas já caiu, mas<n>ainda há uma folha resistindo perto<n>do topo."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ela está lá sozinha, balançando<n>suavemente com a brisa. Houve<n>algumas vezes em que pensei que<n>ela iria cair, mas ela continua lá firme<n>e forte..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela volta seu olhar para o céu mais<n>uma vez. Estranhamente fascinado,<n>de algum modo me vejo observando<n>a folha solitária junto com ela, em<n>silêncio."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Oscilando suavemente ao vento, a<n>folha de outono parece que será<n>levada a qualquer momento. E, no<n>entanto, ela permanece firmemente<n>presa ao galho, desafiando todas as<n>expectativas."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Ela é forte, não é?",
+            "choice_data_list": [
+                "É...",
+                "É..."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ah, eu não esperava uma resposta.<n>Minhas desculpas, não percebi que<n>você ainda estava aqui.",
+            "choice_data_list": [
+                "Eu só me perdi olhando a folha..."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "E foi por isso que me acompanhou?<n>Hehe."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Bright! Finalmente te encontrei —<n>espera, quem é esse?!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ei... você conhece essa pessoa? Não<n>me diga que estavam tentando<n>alguma gracinha —",
+            "choice_data_list": [
+                "Espere, eu sou um treinador da Academia\nTracen!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "É verdade, ele está até usando o<n>distintivo. Graças a Deus..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela ficará bem agora com a amiga<n>aqui, então aproveito a deixa para<n>sair e me despedir das duas."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Um treinador..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Algumas semanas depois, eu a vejo<n>novamente no campus. Mais uma<n>vez, ela está olhando vagamente para<n>o céu... Deve ser uma pessoa bem<n>tranquila.",
+            "choice_data_list": [
+                "(Vou deixá-la em paz.)"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Ah, se não é o Treinador Provisório!<n>Saudações.",
+            "choice_data_list": [
+                "Treinador Provisório?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "De fato. Eu estive procurando por<n>você. Acreditei que nos reuniríamos<n>algum dia."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "O tempo não está adorável hoje?<n>Tivemos um longo inverno este ano,<n>mas tenho certeza de que a<n>primavera está logo ali na esquina."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "O que me lembra, vi que o replantio<n>dos canteiros da escola já começou.<n>Estou ansiosa para ver uma<n>variedade de belas flores<n>desabrocharem.",
+            "choice_data_list": [
+                "...Er, o que você quis dizer com \"provisório?\""
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Treinador Provisório, de que tipo de<n>flores você gosta? Quanto a mim... eu<n>adoro quando flores pequenas são<n>arranjadas bem juntinhas."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Eu posso não saber todos os nomes<n>delas, mas vê-las se dando bem<n>umas com as outras é uma visão tão<n>reconfortante. Hehe...",
+            "choice_data_list": [
+                "H-hehe?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee... Ah, olhe só para aquilo. Até<n>as nuvens no céu estão se dando<n>bem."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela continua falando sobre tudo,<n>exceto a resposta para a minha<n>pergunta. Antes que eu perceba, sou<n>envolvido por sua aura calorosa e<n>aconchegante."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ah, isso me lembra. De hoje em<n>diante, você estaria disposto a<n>supervisionar minhas sessões de<n>treino?",
+            "choice_data_list": [
+                "Com certeza.",
+                "Com certeza."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Muito obrigada! ♪ Bem, então, vamos<n>indo.",
+            "choice_data_list": [
+                "...Espera, o quê?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Certo, antes de mostrar minha corrida<n>para você, preciso me alongar<n>adequadamente primeiro. Uaaaaah!",
+            "choice_data_list": [
+                "Hã?!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "De alguma forma, acabei me<n>envolvendo em observar o treino<n>dela! Enquanto ainda tento processar<n>tudo, ouço uma voz chamar de<n>repente."
+        },
+        {
+            "name": "Treinador Novato A",
+            "text": "Espera... aquela não é a Mejiro<n>Bright?! Ela é <i>da</i> família Mejiro,<n>e dizem que ela seguirá os passos da<n>geração da McQueen!",
+            "choice_data_list": [
+                "(Então ela é uma Mejiro...)",
+                "(Então ela é uma Mejiro...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "A ilustre família Mejiro produziu<n>inúmeras corredoras talentosas ao<n>longo dos anos. Mesmo agora, é<n>difícil passar um dia sem ver o nome<n>delas nas manchetes."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Para começar, vou correr 1.800<n>metros, certo?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "E eu acabei de conhecer uma<n>integrante dessa família — Mejiro<n>Bright. Embora eu tenha vindo aqui<n>por um capricho, minha nova<n>curiosidade me compele a ficar e<n>vê-la correr. Mas..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Iaaaa!"
+        },
+        {
+            "name": "Treinador Novato A",
+            "text": "Hein?! A largada dela é <i>tão</i> lenta<n>assim?! E ela não está acelerando<n>nada... Tá de brincadeira..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ufa, uuuu... Ah? Treinador Provisório?<n>Ah, devo ter passado muito da linha<n>de chegada."
+        },
+        {
+            "name": "Treinador Novato A",
+            "text": "...C-como posso dizer... A aceleração<n>dela na reta final também não foi<n>grande coisa. Ela pode até ser uma<n>Mejiro, mas acho que passo..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "É verdade que a corrida dela agora<n>pouco levantou algumas dúvidas.<n>Ainda assim, quando ela fez a última<n>curva, estava fazendo um excelente<n>uso de suas pernas longas. Sem<n>mencionar que...",
+            "choice_data_list": [
+                "(Tenho certeza de que aquilo não foi a extensão\ntotal das habilidades dela.)"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "O que você achou? Estou pensando<n>em entrar nas seletivas, então, se<n>não se importar, poderia<n>supervisionar minhas sessões de<n>treino até lá?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com mais algum tempo, estou<n>confiante de que posso descobrir<n>uma maneira de extrair todo o<n>potencial dela. Além disso, estou mais<n>preocupado com o que acontecerá se<n>eu deixá-la sozinha.",
+            "choice_data_list": [
+                "Com certeza! Até as seletivas, estamos juntos\nnessa!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee, muito obrigada. Já me<n>inscrevi para a próxima corrida, então<n>vamos fazer dela uma boa disputa,<n>certo?",
+            "choice_data_list": [
+                "...Espera. Você quer dizer a corrida da semana\nque vem?!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ah, era na semana que vem?<n>Primeiro o mais importante, vamos<n>fazer um chá da tarde. Você pode<n>aprender muito sobre alguém<n>conversando com uma boa xícara de<n>chá.",
+            "choice_data_list": [
+                "Que tal fazermos algum treino antes disso?!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, após uma série de eventos<n>inesperados, concordei em ajudar<n>Mejiro Bright a treinar até as<n>seletivas da semana que vem!"
+        }
+    ]
+}

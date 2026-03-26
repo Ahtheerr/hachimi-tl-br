@@ -1,0 +1,161 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Os raios de sol da tarde do início do<n>verão brilham através da janela do<n>meu escritório. Bem quando estou<n>prestes a encerrar o expediente, a<n>porta se abre."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Treinador, este é um bom momento?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Entrando pela porta está minha<n>aprendiz, Mejiro Bright. Se bem me<n>lembro, ela não poderia vir hoje por<n>causa de assuntos de família...",
+            "choice_data_list": [
+                "Você não estava de folga hoje?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "De fato. Na verdade, estou<n>aguardando uma escolta da mansão<n>da família para vir me buscar."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Enquanto isso, tudo bem se eu<n>esperar aqui no seu escritório?",
+            "choice_data_list": [
+                "Claro, sem problemas!",
+                "Claro, sem problemas!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Muito obrigada. Bem, então, não se<n>incomode comigo."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Entramos de vez no verão, não é?<n>Nosso próximo dia de folga com<n>certeza terá o clima perfeito para um<n>parque de diversões.",
+            "choice_data_list": [
+                "Clima de parque de diversões?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Sim. Outro dia, meu pai me enviou<n>ingressos..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Continuamos conversando<n>descontraidamente por um tempo. É<n>bom passar o tempo juntos assim,<n>mas...",
+            "choice_data_list": [
+                "Sua carona está bem atrasada...",
+                "Sua carona está bem atrasada..."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Está, não está? Ainda assim, eu me<n>considero bem habilidosa em deixar<n>as horas passarem, então acho que<n>esperarei por mais um pouquinho."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, mas você sai cedo do trabalho<n>hoje, não é? Você vai sair do<n>escritório?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Normalmente, eu encerro o<n>expediente mais cedo em dias que<n>não treinamos. Mas não vou expulsar<n>a Bright e deixá-la sozinha.",
+            "choice_data_list": [
+                "Ainda não. Afinal, você ainda está aqui."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Eu agradeço. Teehee, isso me lembra<n>daquela época."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "No inverno passado, também<n>deixamos o tempo passar juntos<n>assim, só nós dois."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Treinador, quando você está ao meu<n>lado, sinto como se..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Eu ficasse ainda mais<n>despreocupada do que o normal."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>DING-DONG, BING-BONG...</i>"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Hm? Ora... O sol já começou a se<n>pôr?",
+            "choice_data_list": [
+                "...Aconteceu algo com a sua escolta?",
+                "...Aconteceu algo com a sua escolta?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Esqueça sair cedo, a essa altura vou<n>começar a acumular horas extras."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hmm, é bem raro um motorista da<n>Mejiro ser ainda mais relaxado do<n>que eu."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Vou ligar para eles para verificar—Oh?<n>A tela ficou toda escura."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela coloca o celular para carregar.<n>Depois de algum tempo, o<n>smartphone acende mostrando<n>algumas chamadas perdidas."
+        },
+        {
+            "name": "Motorista dos Mejiro",
+            "text": "Com licença, Senhorita Bright. Devido<n>a circunstâncias inesperadas, os<n>planos de hoje foram adiados para<n>uma data posterior."
+        },
+        {
+            "name": "Motorista dos Mejiro",
+            "text": "Minhas sinceras desculpas, mas não<n>será mais necessário que a senhorita<n>saia dos terrenos da academia..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Nossa, esta mensagem é de três<n>horas atrás. O que significa que..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Treinador, eu posso ter feito você<n>esperar comigo todo este tempo em<n>vão."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Digo à Bright para não se preocupar.<n>Afinal, consegui terminar a papelada<n>de amanhã, e a culpa também é<n>minha por não ter pedido para ela<n>verificar as chamadas antes."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Se você está bem com isso, então<n>tudo bem. Ainda assim, posso ter me<n>deixado relaxar um pouco<n><i>demais</i> no seu escritório hoje."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Isso não quer dizer que conversar<n>com você hoje não tenha sido<n>agradável...",
+            "choice_data_list": [
+                "Eu também me diverti hoje.",
+                "Eu também me diverti hoje."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Teehee, é mesmo? Então ficamos<n>assim."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "...Mas está tudo bem mesmo como<n>as coisas estão?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O sol já se pôs há muito tempo, mas<n>estou feliz por ter passado o dia<n>junto com a Bright."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por um breve segundo, eu a vejo<n>incomumente pensativa. Sem dar<n>importância, eu a acompanho de volta<n>ao dormitório antes de encerrar o<n>expediente."
+        }
+    ]
+}

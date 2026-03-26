@@ -1,0 +1,322 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certa noite, enquanto Mejiro Bright e<n>eu\npasseamos pela cidade..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oooh, o que está acontecendo ali?<n>Tem muita\ngente. É algum tipo de<n>cerimônia?"
+        },
+        {
+            "name": "Funcionário da Loteria",
+            "text": "Aproximem-se e tentem a sorte na<n>nossa rifa de\nAno Novo! O grande<n>prêmio deste ano é uma\nviagem para<n>dois para as fontes termais!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Funcionário da Loteria",
+            "text": "Os vencedores do primeiro prêmio<n>levam um\nhambúrguer de cenoura de<n>luxo! Os vencedores\ndo segundo<n>prêmio levam um cesto de cenouras!\nE os vencedores do terceiro prêmio<n>podem levar\npara casa uma única<n>cenoura!"
+        },
+        {
+            "name": "Funcionário da Loteria",
+            "text": "Não deixem essa oportunidade<n>passar! Você aí, a\nUmamusume<n>quietinha lá no fundo! Gostaria de\ntentar?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Oh, eu posso? Com prazer."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Mas... com licença, Treinador. Não<n>precisamos de\nbilhetes para tentar a<n>rifa?",
+            "choice_data_list": [
+                "Tenho os cinco que precisamos bem aqui.",
+                "Tenho os cinco que precisamos bem aqui."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Nossa, eu deveria saber que você<n>viria\npreparado. Vamos tentar a sorte<n>cinco vezes,\nentão."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Na verdade, só podemos tentar uma<n>vez, mas\ndecido guardar isso para<n>mim por enquanto."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Agora, Treinador. Coloque sua mão<n>na minha e\nvamos girar esta mini<n>roda-gigante."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Eeee... girandooo. ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela gira a manivela em câmera super<n>lenta, mas\neventualmente, uma<n>bolinha cai..."
+        },
+        {
+            "name": "Funcionário da Loteria",
+            "text": "Minha nossa! Temos um vencedor do<n>grande\nprêmio! Venha pegar o bilhete<n>para sua viagem\npara as fontes<n>termais! Parabéns!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Céus. Que reviravolta incrível."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Pensar que ganharíamos uma fonte<n>termal... Eu\nnão possuo uma, mas já<n>fiz uso da que temos\nna propriedade<n>Mejiro antes.",
+            "choice_data_list": [
+                "Bem, não é <i>uma</i> fonte termal. É uma\n<i>viagem</i> para uma fonte termal.",
+                "Bem, não é <i>uma</i> fonte termal. É uma\n<i>viagem</i> para uma fonte termal."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uma fonte termal não é algo que você<n>ganharia\ncomo grande prêmio. Ainda<n>assim, o que\nconseguimos é bem<n>incrível."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Uma viagem para as fontes termais. ♪<n>Acho que\nseria do nosso interesse<n>irmos assim que\npudermos,<n>Treinador."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Se começarmos a nos preparar assim<n>que\nvoltarmos para o campus...<n>vejamos... acredito\nque estarei pronta<n>em..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Janeiro do ano que vem.",
+            "choice_data_list": [
+                "Uau, é um tempo de preparação bem longo...",
+                "Uau, é um tempo de preparação bem longo..."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "É mesmo? Mas é natural que leve<n>tanto tempo,\nconsiderando que<n>estarei correndo durante o\nmesmo<n>período."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Isso soa típico da Mejiro Bright. Se<n>ela estiver\nfazendo duas coisas ao<n>mesmo tempo, levará\num ano inteiro."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Hmm. Você tem algum plano para<n>daqui a um\nano?",
+            "choice_data_list": [
+                "Acho que não."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Isso significa que podemos ir nesta<n>viagem\njuntos. Que alívio."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Você poderia guardar o cupom até lá?<n>Estou\nansiosa por um banho quente<n>e relaxante nas\nfontes termais no ano<n>que vem."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A animação dela está estampada em<n>seu rosto.\nAs bochechas de Mejiro<n>Bright ficam rosadas,\ncomo se ela já<n>tivesse entrado na água quente."
+        },
+        {
+            "name": "Funcionário da Loteria",
+            "text": "Parece que temos outro vencedor do<n>primeiro\nprêmio! Parabéns! Você<n>ganhou um hambúrguer\nde cenoura<n>de luxo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Nossa, parece delicioso! Dá para<n>acreditar no\ntamanho disso?"
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Treinador, você me confiaria a tarefa<n>de\ncozinhá-lo?",
+            "choice_data_list": [
+                "...Você consegue?",
+                "...Você consegue?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Consigo. Para que fique melhor, você<n>tem que\ncozinhá-lo por muito tempo e<n>devagar para o\ncalor passar<n>corretamente."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Em outras palavras, eu tenho a<n>personalidade\nperfeita para<n>prepará-lo.",
+            "choice_data_list": [
+                "Diga-me como você vai cozinhá-lo na prática."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Essa é a questão. Vou aquecer<n>levemente uma\nfrigideira e depois<n>deixar o hambúrguer cozinhar\nem<n>fogo baixo..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Por cerca de duas horas. ♪",
+            "choice_data_list": [
+                "Isso vai queimar!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ah, vai? Não sou tão adepta à<n>precisão..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela decide deixar as tarefas<n>culinárias para mim.\nDe volta à<n>Academia Tracen, mais tarde\nsaboreamos um hambúrguer macio."
+        },
+        {
+            "name": "Funcionário da Loteria",
+            "text": "Temos um vencedor do segundo<n>prêmio! É o seu\ndia de sorte! Você vai<n>levar para casa um cesto\nde<n>cenouras!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ai, ai. Vai levar horas para descascar<n>tudo isso."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "No entanto, eu fiz um trabalho<n>esplêndido\ndescascando nabos<n>daikon antes.",
+            "choice_data_list": [
+                "Ah, então você é uma profissional em descascar.",
+                "Ah, então você é uma profissional em descascar."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Não tenho certeza se chegaria a tanto,<n>mas\nconsegui cortar a casca bem<n>fininha, acredito."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "No fim, o nabo daikon inteiro virou<n>uma loooonga\nfolha de casca.",
+            "choice_data_list": [
+                "Isso é incrível!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "O ritmo dela pode ser lento, mas você<n>nunca\npoderia chamá-la de sem<n>talento."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Se você quiser, tenho certeza de que<n>também\npoderia descascar as<n>cenouras da mesma\nforma...",
+            "choice_data_list": [
+                "Não se preocupe com isso. Podemos apenas\ncomê-las como estão.",
+                "Não se preocupe com isso. Podemos apenas\ncomê-las como estão."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seria uma perda de tempo descascar<n>todas. Em\nvez disso, apenas as<n>fervemos e comemos\nassim. Nunca<n>provei cenouras mais doces."
+        },
+        {
+            "name": "Funcionário da Loteria",
+            "text": "Vejam só! Você ganhou o terceiro<n>prêmio! Aqui\nestá sua cenoura!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Uma cenoura... Peço minhas<n>desculpas. Não\nconseguimos tirar um<n>prêmio decente por minha\ncausa."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Como só tem uma, não posso evitar<n>de querer\ncomê-la agora mesmo.",
+            "choice_data_list": [
+                "Que tal você comê-la enquanto caminhamos para\ncasa?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Receio que isso não vá funcionar. Não<n>sou\nadepta a caminhar e mastigar ao<n>mesmo tempo."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Sou simplesmente incapaz. Sempre<n>acabo\nparando no lugar...",
+            "choice_data_list": [
+                "Que tal relaxarmos ali então?"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Ah, este <i>é</i> um lugar agradável.<n>Podemos até\nver o pôr do sol aqui."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Vamos dividir a cenoura, Treinador.<n>Veja, ela tem\na mesma cor do sol!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mordiscamos nossas metades da<n>cenoura\nenquanto observamos o sol<n>se pôr no horizonte.\nA cenoura é<n>reconfortantemente doce."
+        },
+        {
+            "name": "Funcionário da Loteria",
+            "text": "Ooooh, que azar! Parece que você<n>tirou um em\nbranco! Pegue este<n>pacote de lenços como\nprêmio de<n>consolação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "<i>Suspiro...</i> Lenços. E mal tem<n>algum aqui\ndentro..."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Daria para gastar um pacote deste<n>tamanho num\ninstante. Treinador,<n>você concorda, sim?\nPrecisamos de<n>mais lenços?",
+            "choice_data_list": [
+                "Er, claro..."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Então, como um pedido de desculpas<n>por um\nprêmio tão indigno, farei com<n>que enviem mais\npara você da<n>propriedade Mejiro.",
+            "choice_data_list": [
+                "Obrigado. Isso ajudaria.",
+                "Obrigado. Isso ajudaria."
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Você receberá um caminhão<n>carregado.",
+            "choice_data_list": [
+                "Eu não preciso de tantos assim!"
+            ]
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "É mesmo? Mas não sei se algo a<n>menos\ncompensaria meu fracasso de<n>hoje..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela baixa a cabeça em desculpas.<n>Não acredito\nque uma rifinha pudesse<n>terminar em um tom tão\nsombrio..."
+        }
+    ]
+}

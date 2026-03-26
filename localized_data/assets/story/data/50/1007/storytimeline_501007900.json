@@ -1,29 +1,30 @@
 {
-    "title": "自己紹介",
     "text_block_list": [
         {
-            "text": "これから、トゥインクル・シリーズを\n担当ウマ娘と駆け抜ける日々が始まる。\nともに歩む彼女の名前は――",
+            "name": "Monologue",
+            "text": "A partir de hoje, eu e minha aprendiz<n>vamos\nencarar a Twinkle Series. A<n>Umamusume que se\njunta a mim<n>nesta jornada não é ninguém\nmenos<n>que...",
             "color_text_info_list": [
-                "トゥインクル・シリーズ"
+                "Twinkle Series"
             ]
         },
         {
-            "name": "ゴールドシップ",
-            "text": "待たせたな！　ゴールドシップ様だ！",
+            "name": "Gold Ship",
+            "text": "Finalmente eu cheguei! A única e<n>absoluta Gold\nShip!",
             "color_text_info_list": [
-                "ゴールドシップ"
+                "Gold Ship"
             ]
         },
         {
-            "name": "ゴールドシップ",
-            "text": "アタシの野望を手伝わせてやるよ！\n七つの海へ出て、八つ目を見つけよーぜ！"
+            "name": "Gold Ship",
+            "text": "Que bom ter você a bordo! Vamos<n>navegar pelos\nsete mares e descobrir<n>o oitavo nós mesmos!"
         },
         {
-            "name": "ゴールドシップ",
-            "text": "まずはクエストをこなさねーとな！\nどのレースを勝てば船の素材が\n手に入るのか、攻略サイト調べとけよ！"
+            "name": "Gold Ship",
+            "text": "Mas antes, tem umas quests pra<n>completar! E\neu vou contando contigo<n>pra caçar uns guias e\nver em quais<n>corridas dropam itens de navio!"
         },
         {
-            "text": "こうして、<chrname>との\nトゥインクル・シリーズへの挑戦が\n始まったのだった！"
+            "name": "Monologue",
+            "text": "E assim, <chrname> e eu damos<n>nossos\nprimeiros passos para<n>competir na Twinkle\nSeries!"
         }
     ]
 }

@@ -1,140 +1,140 @@
 {
     "text_block_list": [
         {
-            "name": "ナリタブライアン",
-            "text": "ほうっておけ。 私のミスだ。1人でなんとかする。"
+            "name": "Narita Brian",
+            "text": "Esqueça. Foi erro meu, então eu<n>mesma resolvo."
         },
         {
-            "name": "モノローグ",
-            "text": "トレーニングへ向かう途中。 大量の段ボール箱を前に、\n何かを言い合う声が聞こえてきた。",
+            "name": "Monólogo",
+            "text": "No caminho para os campos de<n>treinamento,\nouço indícios de uma<n>discussão. Ao me\naproximar, vejo<n>uma pilha enorme de caixas de\npapelão.",
             "choice_data_list": [
-                "何かトラブルか？",
-                "何かトラブル？"
+                "Tem algo errado?",
+                "Tem algo errado?"
             ]
         },
         {
-            "name": "ナリタブライアン",
-            "text": "……私が間違えて、 蹄鉄を1000個頼んじまったってだけだ。",
+            "name": "Narita Brian",
+            "text": "...Nada demais. Eu acidentalmente<n>encomendei\nmil pares de chuteiras.",
             "choice_data_list": [
-                "せ、1000個！？"
+                "Um mil?!"
             ]
         },
         {
-            "name": "スペシャルウィーク",
-            "text": "ブライアンさん！ 私たち、<n>一緒にトレーニングする仲じゃないですか！\nお力になりますっ！",
+            "name": "Special Week",
+            "text": "Mas Brian, somos todas da mesma<n>equipe! É\nclaro que ficaríamos felizes<n>em ajudar de\nqualquer maneira que<n>pudermos!",
             "choice_data_list": [
-                "俺も手伝う",
-                "私も手伝うよ"
+                "Eu vou ajudar também.",
+                "Eu vou ajudar também."
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "早速、手分けして蹄鉄の在庫処理にあたり――"
+            "name": "Monólogo",
+            "text": "E assim, corremos para reduzir o<n>excesso de\nchuteiras."
         },
         {
-            "name": "スペシャルウィーク",
-            "text": "『サイレンススズカ記念レース』開催中です！<n>参加賞に蹄鉄も配ってまーす！"
+            "name": "Special Week",
+            "text": "Corra, não ande, para se inscrever na<n>Corrida\nComemorativa Silence<n>Suzuka! Inscreva-se hoje\ne ganhe<n>um par de chuteiras!"
         },
         {
-            "name": "ウマ娘A",
-            "text": "え！？ あのスズカさんとレースできるの！？ あ、あの！<n>参加したいですっ！"
+            "name": "Estudante A",
+            "text": "Hein?! Podemos correr com <i>a</i><n>Suzuka?! Er,\ncom licença! Eu gostaria<n>de me inscrever!"
         },
         {
-            "name": "ライスシャワー",
-            "text": "『わ、わー！ この無料の蹄鉄……』<n>えっと……『すごい走りやすいでござる～！』"
+            "name": "Rice Shower",
+            "text": "N-nooossa! Não acredito que estas<n>chuteiras são\nde graça! Er... \"E são<n>tão fáceis de correr nelas!\""
         },
         {
-            "name": "ウマ娘B",
-            "text": "なんだろ……ちょっと胡散臭いけど、<n>タダなら試してみようかな……。"
+            "name": "Estudante B",
+            "text": "Hm... Parece um pouco suspeito, mas<n>acho que\nnão custa nada testar se<n>são de graça..."
         },
         {
-            "name": "メジロマックイーン",
-            "text": "安いですわよー！ 安いですわよー！<n>ブライアンさん愛用の蹄鉄が、無料ですわ！！"
+            "name": "Mejiro McQueen",
+            "text": "Peguem suas chuteiras aqui! Elas<n>estão com um\npreço bem razoável —<n>quero dizer, de graça!\n<i>E</i> elas<n>também são as favoritas da única e\ninigualável Narita Brian!"
         },
         {
-            "name": "ウマ娘C",
-            "text": "ブライアン先輩とお揃いってこと！？<n>お、恐れ多いけど……くださいっ！"
+            "name": "Estudante C",
+            "text": "Quer dizer que podemos usar as<n>mesmas\nchuteiras que a Brian?!<n>Nossa... Não sei se\nestarei à altura,<n>mas eu quero um par!"
         },
         {
-            "name": "モノローグ",
-            "text": "こうして少しずつではあるが、<n>順調に在庫ははけていったのだが――"
+            "name": "Monólogo",
+            "text": "Aos poucos, a montanha de chuteiras\nexcedentes diminui. No entanto..."
         },
         {
-            "name": "メジロマックイーン",
-            "text": "残り……503個……これは……。"
+            "name": "Mejiro McQueen",
+            "text": "Ainda nos restam... 503 pares. É<n>bastante..."
         },
         {
-            "name": "ナリタブライアン",
-            "text": "おい……もう充分だ。 これ以上、面倒に付き合う必要は――"
+            "name": "Narita Brian",
+            "text": "Ei... Já chega. Vocês não deveriam<n>gastar mais\ndo seu tempo<n>consertando meu erro—"
         },
         {
-            "name": "ウイニングチケット",
-            "text": "――これって、すごいよね！！<n>もう500個もなくなったってことでしょ！？\nすごいすごーーい！"
+            "name": "Winning Ticket",
+            "text": "Mas parando para pensar, estamos<n>indo bem!\nJá entregamos 500, certo?!<n>Não é incrível?!"
         },
         {
-            "name": "ナリタブライアン",
-            "text": "……！"
+            "name": "Narita Brian",
+            "text": "...!"
         },
         {
-            "name": "メジロマックイーン",
-            "text": "ええ！ これなら残りもすぐなくなりますわ！\n次はどう叩き売って差し上げようかしら。"
+            "name": "Mejiro McQueen",
+            "text": "Exatamente! Nesse ritmo,<n>reduziremos nosso\nestoque a zero<n>rapidinho! A questão é que tipo\nde<n>estratégia devemos adotar para<n>distribuir o\nresto."
         },
         {
-            "name": "ナリタブライアン",
-            "text": "……まったく。"
+            "name": "Narita Brian",
+            "text": "...Céus."
         },
         {
-            "name": "ナリタブライアン",
-            "text": "どうしてこう、暑苦しいんだ。 コイツらは。",
+            "name": "Narita Brian",
+            "text": "Por que estão todas ficando tão<n>empolgadas por\nminha causa?",
             "choice_data_list": [
-                "元気をもらえるよな",
-                "元気をもらえるよね",
-                "早速、次の作戦を考えよう！"
+                "A energia delas é contagiante, no entanto.",
+                "A energia delas é contagiante, no entanto.",
+                "Vamos bolar nossa próxima estratégia!"
             ]
         },
         {
-            "name": "ナリタブライアン",
-            "text": "どうしてこう、暑苦しいんだ。 コイツらは。",
+            "name": "Narita Brian",
+            "text": "Por que estão todas ficando tão<n>empolgadas por\nminha causa?",
             "choice_data_list": [
-                "元気をもらえるよな",
-                "元気をもらえるよね",
-                "早速、次の作戦を考えよう！"
+                "A energia delas é contagiante, no entanto.",
+                "A energia delas é contagiante, no entanto.",
+                "Vamos bolar nossa próxima estratégia!"
             ]
         },
         {
-            "name": "ナリタブライアン",
-            "text": "……過ぎるほどだがな。"
+            "name": "Narita Brian",
+            "text": "...Existe uma coisa chamada energia<n>demais."
         },
         {
-            "name": "？？？",
-            "text": "もしよかったら―― その蹄鉄、もらえないだろうか。"
+            "name": "???",
+            "text": "Se não houver problema, eu gostaria<n>de um par\ndessas chuteiras."
         },
         {
-            "name": "ナリタブライアン",
-            "text": "……そうだな。"
+            "name": "Narita Brian",
+            "text": "...Sim. Tudo bem."
         },
         {
-            "name": "？？？",
-            "text": "もしよかったら―― その蹄鉄、もらえないだろうか。"
+            "name": "???",
+            "text": "Se não houver problema, eu gostaria<n>de um par\ndessas chuteiras."
         },
         {
-            "name": "ナリタブライアン",
-            "text": "500個ある。 好きなだけ持って行け。"
+            "name": "Narita Brian",
+            "text": "Temos 500 pares sobrando. Leve<n>quantos\nquiser."
         },
         {
-            "name": "オグリキャップ",
-            "text": "うん……では、全部もらおう。",
+            "name": "Oguri Cap",
+            "text": "Claro. Então... vou levar todos.",
             "choice_data_list": [
-                "500個、全部を！？"
+                "Todos os 500?!"
             ]
         },
         {
-            "name": "オグリキャップ",
-            "text": "？ ああ、このくらいならすぐ使い終わる。 助かったよ。"
+            "name": "Oguri Cap",
+            "text": "...? Sim. Eu gasto chuteiras bem<n>rápido. Obrigada\npor me deixar ficar<n>com elas."
         },
         {
-            "name": "モノローグ",
-            "text": "……こうして無事に 蹄鉄の在庫処理ができたのだった！"
+            "name": "Monólogo",
+            "text": "E assim, as chuteiras restantes<n>tornam-se\npropriedade da Oguri Cap!"
         }
     ]
 }

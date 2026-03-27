@@ -1,127 +1,127 @@
 {
     "text_block_list": [
         {
-            "name": "ゴールドシップ",
-            "text": "おいおい、常識で考えろよ～！ レースっつったら持久力だろ？"
+            "name": "Gold Ship",
+            "text": "Opa, opa! Use o bom senso! No fim<n>das contas,\ncorrer é tudo uma<n>questão de Vigor."
         },
         {
-            "name": "メジロマックイーン",
-            "text": "……じょ、『常識』！？ 今そう仰いまして！？",
+            "name": "Mejiro McQueen",
+            "text": "B-bom senso?! Nunca imaginei que<n>ouviria essas\npalavras saindo da<n><i>sua</i> boca!",
             "choice_data_list": [
-                "ど、どうかしたのか？",
-                "ど、どうかしたの？"
+                "Est-está tudo bem?",
+                "Est-está tudo bem?"
             ]
         },
         {
-            "name": "スペシャルウィーク",
-            "text": "えっと、追加トレーニングがしたいねって 話をしていて……！"
+            "name": "Special Week",
+            "text": "Bem, veja só, queríamos fazer um<n>treino extra.\nMas..."
         },
         {
-            "name": "ウイニングチケット",
-            "text": "あ、そうだ！ トレーナーさんに決めてもらおうよ！\n『3つのうち、どれがいいですか』って！"
+            "name": "Winning Ticket",
+            "text": "Que tal isto? Vamos deixar este<n>Treinador decidir\nqual dos nossos<n>três planos de treino devemos\nseguir!"
         },
         {
-            "name": "モノローグ",
-            "text": "追加のトレーニング…… たしかに、時間はまだある。\n<chrname>のためにもなりそうだ。",
+            "name": "Monólogo",
+            "text": "Então elas querem que eu decida... É<n>verdade\nque tenho um tempo livre, e<n>isso <i>pode</i> ser\nútil para <chrname><n>a longo prazo.",
             "choice_data_list": [
-                "その3案って？"
+                "Quais são os três candidatos?"
             ]
         },
         {
-            "name": "ゴールドシップ",
-            "text": "『外周』だよ、外周！ 俺は絶対に……この大海原を制覇する！\n宝の地図はいらねぇ。必要なのは、持久力だ！"
+            "name": "Gold Ship",
+            "text": "Que maneira melhor de conquistar os<n>sete mares\ndo que correndo voltas?<n>Quem precisa de um\nmapa do tesouro<n>quando seu Vigor te levará até\no<n>objetivo?"
         },
         {
-            "name": "ウイニングチケット",
-            "text": "それより『スピード王選手権』だよ！<n>レースでバチバチッてしたらメラメラして……\nうおぉぉ～って元気になるでしょ！"
+            "name": "Winning Ticket",
+            "text": "Não, tem que ser uma corrida de<n>rapidez! Quando\nvocê pisa fundo e<n>seus motores estão na\nvelocidade<n>máxima, você recebe um impulso de\nenergia gigaaaante, tipo VRUUUUUM!"
         },
         {
-            "name": "スペシャルウィーク",
-            "text": "私は、『食べ放題トレーニング』がいいなと！<n>運動の後の食事って大事ですしっ！\n立派なトレーニングの1つだと思うんです！",
+            "name": "Special Week",
+            "text": "Eu proponho uma maratona de \"coma<n>o quanto\npuder\"! As refeições<n>pós-treino são tão\nimportantes quanto<n>o próprio treino! Caramba,\nacho que<n>comer <i>deveria</i> contar como\ntreino!",
             "choice_data_list": [
-                "外周、スタミナがつきそうだな",
-                "外周、スタミナがつきそうだね",
-                "スピード王選手権！",
-                "……休息にもなるし、食べ放題かな？"
+                "Correr voltas <i>ajuda</i> a aumentar o Vigor.",
+                "Correr voltas <i>ajuda</i> a aumentar o Vigor.",
+                "Uma corrida de rapidez parece uma ótima ideia!",
+                "...Um rodízio <i>seria</i> uma boa pausa."
             ]
         },
         {
-            "name": "スペシャルウィーク",
-            "text": "私は、『食べ放題トレーニング』がいいなと！<n>運動の後の食事って大事ですしっ！\n立派なトレーニングの1つだと思うんです！",
+            "name": "Special Week",
+            "text": "Eu proponho uma maratona de \"coma<n>o quanto\npuder\"! As refeições<n>pós-treino são tão\nimportantes quanto<n>o próprio treino! Caramba,\nacho que<n>comer <i>deveria</i> contar como\ntreino!",
             "choice_data_list": [
-                "外周、スタミナがつきそうだな",
-                "外周、スタミナがつきそうだね",
-                "スピード王選手権！",
-                "……休息にもなるし、食べ放題かな？"
+                "Correr voltas <i>ajuda</i> a aumentar o Vigor.",
+                "Correr voltas <i>ajuda</i> a aumentar o Vigor.",
+                "Uma corrida de rapidez parece uma ótima ideia!",
+                "...Um rodízio <i>seria</i> uma boa pausa."
             ]
         },
         {
-            "name": "メジロマックイーン",
-            "text": "ええ、それには私も同意です。 同意ですが……\n提案者が、常識の枠を超えた存在ですので。"
+            "name": "Mejiro McQueen",
+            "text": "Sim, você tem um ponto. No entanto...<n>Tenha em\nmente que a sugestão vem<n>de alguém que\nignora regularmente<n>os limites do bom senso."
         },
         {
-            "name": "ライスシャワー",
-            "text": "だ、大丈夫だよっ！ 真剣なお顔だし、<n>ゴールドシップさんの強さの\n秘密なんじゃないかなって……！"
+            "name": "Rice Shower",
+            "text": "E-eu tenho certeza de que vai ficar<n>tudo bem! Ela\nnão parece estar<n>brincando ou tirando onda com\na<n>gente. Talvez este seja o segredo<n>por trás\nda força da Gold Ship!"
         },
         {
-            "name": "サイレンススズカ",
-            "text": "……ええっと、ここは？"
+            "name": "Silence Suzuka",
+            "text": "...Er. Onde estamos?"
         },
         {
-            "name": "ゴールドシップ",
-            "text": "この山、UMA出るんだってよ。<n>とっ捕まえてひと稼ぎしようぜ！"
+            "name": "Gold Ship",
+            "text": "Fontes confiáveis dizem que há<n>avistamentos de\nUMAs nesta<n>montanha. Sabe, animais\nmisteriosos<n>não identificados! Vamos pegar um e\nfazer muito din-din!"
         },
         {
-            "name": "メジロマックイーン",
-            "text": "んもぉーー！！"
+            "name": "Mejiro McQueen",
+            "text": "Oh, pelo amor de Deus!"
         },
         {
-            "name": "モノローグ",
-            "text": "外周のはずが山登りとなったが……<n>トレーニングの参考にはなったのだった。"
+            "name": "Monólogo",
+            "text": "O que deveria ser algumas voltas em<n>um\nhipódromo torna-se uma trilha<n>montanha acima.\nNo entanto, serviu<n>como um tipo de treino."
         },
         {
-            "name": "ウイニングチケット",
-            "text": "ヤッターーー！！ ヤッタヤッタ～～～ッ！！ じゃあ距離決めよ！<n>じゃんけんで！"
+            "name": "Winning Ticket",
+            "text": "Uhuuu! Você fez a escolha certa!<n>Agora, vamos\ndecidir a distância com<n>pedra, papel ou tesoura!"
         },
         {
-            "name": "ナリタブライアン",
-            "text": "……この人数だぞ。多数決でいいだろ。"
+            "name": "Narita Brian",
+            "text": "...Com tanta gente aqui, não faria<n>mais sentido\nfazer uma votação?"
         },
         {
-            "name": "モノローグ",
-            "text": "こうして急遽行ったレースは、<n>目を見張る程のデッドヒートを見せ――"
+            "name": "Monólogo",
+            "text": "E assim começa a corrida de rapidez<n>de\nimproviso, que rapidamente se<n>transforma em\num empate técnico<n>impressionante entre as\ncompetidoras."
         },
         {
-            "name": "ライスシャワー",
-            "text": "えへへ、ほんとにメラメラで 体ぽかぽかだぁ……！"
+            "name": "Rice Shower",
+            "text": "Ehehe, isso realmente faz o sangue<n>bombear.\nSinto-me tão aquecida e<n>relaxada!"
         },
         {
-            "name": "ウイニングチケット",
-            "text": "だよねだよね！ メラメラ～～！！<n>次はダービーの距離でやってみようよ！！"
+            "name": "Winning Ticket",
+            "text": "Não é?! Nada como colocar fogo em si<n>mesma\npara começar a suar! Que tal<n>corrermos a\ndistância do Derby<n>agora?"
         },
         {
-            "name": "モノローグ",
-            "text": "その後も時間が許す限り、 希望の条件でレースを行ったのだった。"
+            "name": "Monólogo",
+            "text": "A equipe passa o resto da tarde<n>correndo o\nquanto o coração deseja."
         },
         {
-            "name": "スペシャルウィーク",
-            "text": "わぁーい！ スイーツ食べ放題券、<n>大事に取っておいてよかった～！"
+            "name": "Special Week",
+            "text": "Eba! Ainda bem que guardei estes<n>cupons de\nrodízio de sobremesas!"
         },
         {
-            "name": "サイレンススズカ",
-            "text": "ふふ、スぺちゃんの回数券、大活躍ね。"
+            "name": "Silence Suzuka",
+            "text": "Hehe, você tem uma pilha e tanto aí."
         },
         {
-            "name": "メジロマックイーン",
-            "text": "……し、仕方ありませんわね。<n>ご厚意を無下にするのは忍びありませんし。"
+            "name": "Mejiro McQueen",
+            "text": "Eu... eu suponho que, se foi isso que<n>a maioria\ndecidiu, seria falta de<n>educação da minha parte\n<i>não</i><n>participar."
         },
         {
-            "name": "スペ＆マックイーン",
-            "text": "ん～～～っ♪"
+            "name": "Spe e McQueen",
+            "text": "Mmm! ♪"
         },
         {
-            "name": "モノローグ",
-            "text": "たっぷり息抜きをして、 親睦まで深まったのだった！"
+            "name": "Monólogo",
+            "text": "A equipe faz uma pausa e aprofunda<n>seus laços\ncom um banquete de<n>doces deliciosos!"
         }
     ]
 }

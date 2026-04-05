@@ -6,14 +6,14 @@
         },
         {
             "name": "Monólogo",
-            "text": "Grande Inauguração do Aquário!<n>\"Bem ao lado\nda estação! Um espaço<n>tranquilo perfeito para\nrelaxar!\"",
+            "text": "Grande Inauguração do Aquário!<n>\"Bem ao lado da\nestação! Um espaço<n>tranquilo perfeito para\nrelaxar!\"",
             "choice_data_list": [
                 "Isso pode ser uma boa mudança de ares para\n<chrname>."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Não quero deixar essa oportunidade<n>passar.\nPego o panfleto e vou<n>procurá-la."
+            "text": "Não quero deixar essa oportunidade<n>passar. Pego\no panfleto e vou<n>procurá-la."
         },
         {
             "name": "Monólogo",
@@ -48,18 +48,18 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Bom trabalho, Meek. Você correu<n>muito bem\nhoje.",
+            "text": "Bom trabalho, Meek. Você correu<n>muito bem hoje.",
             "color_text_info_list": [
                 "Meek"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Ainda assim, você perdeu um pouco<n>o foco no\nfinal. Se não tivesse<n>perdido, acho que poderia\nter ido<n>ainda mais rápido."
+            "text": "Ainda assim, você perdeu um pouco<n>o foco no\nfinal. Se não tivesse<n>perdido, acho que poderia ter\nido<n>ainda mais rápido."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Tente se concentrar até a linha de<n>chegada. Eu\nsei que você consegue!"
+            "text": "Tente se concentrar até a linha de<n>chegada. Eu sei\nque você consegue!"
         },
         {
             "name": "Happy Meek",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Treinador Habilidoso A",
-            "text": "Aquela é a Aoi Kiryuin... Você sabia<n>que ela é a\nherdeira da família<n>Kiryuin? Eles já formaram\nmais<n>corredoras superestrelas do que eu\nposso contar..."
+            "text": "Aquela é a Aoi Kiryuin... Você sabia<n>que ela é a\nherdeira da família<n>Kiryuin? Eles já formaram\nmais<n>corredoras superestrelas do que eu<n>posso\ncontar..."
         },
         {
             "name": "Treinador Habilidoso A",
@@ -93,7 +93,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Eu sabia! Você é o Treinador<n><username>!",
+            "text": "Eu sabia! Você é o Treinador <username>!",
             "choice_data_list": [
                 "Hein? Eu?",
                 "Hein? Eu?"
@@ -113,7 +113,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "<i>Ufa...</i> Desculpe, não tive a<n>intenção de\nassustar ninguém. Vamos<n>tentar de novo, sim?"
+            "text": "<i>Ufa...</i> Desculpe, não tive a intenção<n>de assustar\nninguém. Vamos tentar<n>de novo, sim?"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -143,7 +143,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Talvez seja estranho, mas sempre<n>me senti\nmais próxima de você por<n>causa disso."
+            "text": "Talvez seja estranho, mas sempre<n>me senti mais\npróxima de você por<n>causa disso."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -178,7 +178,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Apesar das palavras da Treinadora<n>Kiryuin,\nHappy Meek continua me<n>encarando... ou, mais\nespecificamente, algo em minha mão.",
+            "text": "Apesar das palavras da Treinadora<n>Kiryuin, Happy\nMeek continua me<n>encarando... ou, mais\nespecificamente, algo em minha mão.",
             "choice_data_list": [
                 "Você está interessada neste panfleto?"
             ]
@@ -201,11 +201,11 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Hehe... Ela está realmente se<n>divertindo muito.\nEu nunca soube que<n>a Meek gostava tanto de\naquários."
+            "text": "Hehe... Ela está realmente se<n>divertindo muito. Eu\nnunca soube que<n>a Meek gostava tanto de\naquários."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Mas... você tem certeza de que<n><i>eu</i> deveria\nestar aqui?",
+            "text": "Mas... você tem certeza de que <i>eu</i><n>deveria estar\naqui?",
             "choice_data_list": [
                 "O que quer dizer?"
             ]
@@ -220,7 +220,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Então, tudo bem eu acompanhá-la?<n>Eu não\nestaria causando estresse a<n>ela, estaria?"
+            "text": "Então, tudo bem eu acompanhá-la?<n>Eu não estaria\ncausando estresse a<n>ela, estaria?"
         },
         {
             "name": "Monólogo",
@@ -277,7 +277,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Sim. Aprender tudo o que puder sobre<n>sua\naprendiz é praticamente o ponto<n>um do Manual\ndo Treinador."
+            "text": "Sim. Aprender tudo o que puder sobre<n>sua\naprendiz é praticamente o ponto<n>um do Manual do\nTreinador."
         },
         {
             "name": "Treinadora Kiryuin",

@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Diretora Akikawa",
-            "text": "Hahaha! Estava esperando por você,<n>Treinador\n<username>!"
+            "text": "Hahaha! Estava esperando por você,<n>Treinador <username>!"
         },
         {
             "name": "Diretora Akikawa",
@@ -10,11 +10,11 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Ouça bem! Tenho apenas um<n>conselho para\nvocê."
+            "text": "Ouça bem! Tenho apenas um<n>conselho para você."
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Acredite na força da sua aprendiz e<n>conquistem\na vitória juntos!",
+            "text": "Acredite na força da sua aprendiz e<n>conquistem a\nvitória juntos!",
             "choice_data_list": [
                 "Eu vou!"
             ]

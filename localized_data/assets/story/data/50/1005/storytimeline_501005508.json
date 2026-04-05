@@ -1,0 +1,28 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "A Fuji Kiseki está no meio do seu<n>aquecimento\npara a sessão de treino<n>de hoje, mas algo parece\nerrado."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Arf...</i> Estranho, meu corpo não tá<n>se movendo\ndo jeito que eu quero...",
+            "choice_data_list": [
+                "Tudo bem?",
+                "Tudo bem?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah, hum... Sim! Tô bem, não tem com<n>o que se\npreocupar."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Mas tudo bem se eu fizer uma<n>pausa? Tenho\ncerteza de que um<n>pouco de descanso é tudo de\nque eu<n>preciso!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Apesar da sua bravata, vejo que ela<n>está\nexausta. Devo fazer mudanças<n>na sua agenda de\ncorridas para que<n>ela possa descansar."
+        }
+    ]
+}

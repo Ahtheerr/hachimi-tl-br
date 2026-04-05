@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Enquanto voltamos de um passeio,<n>Mejiro\nBright para em frente à vitrine<n>de uma loja."
+            "text": "Enquanto voltamos de um passeio,<n>Mejiro Bright\npara em frente à vitrine<n>de uma loja."
         },
         {
             "name": "Mejiro Bright",
@@ -17,7 +17,7 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Ela pode ser um pouco tímida, mas<n>dá tudo de si\ne tem um coração de<n>ouro."
+            "text": "Ela pode ser um pouco tímida, mas<n>dá tudo de si e\ntem um coração de<n>ouro."
         },
         {
             "name": "Mejiro Bright",
@@ -36,7 +36,7 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Aquela boneca ali ficaria<n>deslumbrante em um\nvestido com<n>acabamento em renda scala... Oh,\nsão<n>todas tão adoráveis. Simplesmente<n>não\nconsigo me decidir. ♪",
+            "text": "Aquela boneca ali ficaria<n>deslumbrante em um\nvestido com<n>acabamento em renda scala... Oh, são\ntodas tão adoráveis. Simplesmente<n>não consigo\nme decidir. ♪",
             "choice_data_list": [
                 "Cada uma tem seu próprio charme.",
                 "Cada uma tem seu próprio charme."
@@ -48,7 +48,7 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Esta com os cílios curvados tem uma\npersonalidade extrovertida, enquanto<n>a com\nlábios amuados parece tímida.",
+            "text": "Esta com os cílios curvados tem uma\npersonalidade extrovertida, enquanto<n>a com lábios\namuados parece tímida.",
             "choice_data_list": [
                 "A Maki é do tipo tímida, não é?"
             ]
@@ -78,7 +78,7 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "M-mais importante! É surpreendente<n>ver\n<i>você</i> aqui, Bright! E<n>acompanhada, ainda por\ncima!"
+            "text": "M-mais importante! É surpreendente<n>ver <i>você</i>\naqui, Bright! E<n>acompanhada, ainda por cima!"
         },
         {
             "name": "Mejiro Bright",
@@ -86,7 +86,7 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "Ah, Maki... Ela é aquela com quem\ncostumávamos fazer festas de chá<n>quando\néramos pequenas?"
+            "text": "Ah, Maki... Ela é aquela com quem<n>costumávamos\nfazer festas de chá<n>quando éramos pequenas?"
         },
         {
             "name": "Mejiro Bright",
@@ -133,7 +133,7 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Aquela com os olhos vermelho-rubi<n>era <i>tão</i>\nencantadora! Mas a com<n>olhos azuis oceano\ntinha um ar de<n>irmã mais velha... Oh, mas então...\no<n>mesmo valia para a de olhos âmbar..."
+            "text": "Aquela com os olhos vermelho-rubi<n>era <i>tão</i>\nencantadora! Mas a com<n>olhos azuis oceano tinha\num ar de<n>irmã mais velha... Oh, mas então... o\nmesmo valia para a de olhos âmbar..."
         },
         {
             "name": "Mejiro Bright",
@@ -157,20 +157,11 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Nossa... Você me agracia com<n>palavras tão\ngentis. Obrigada."
+            "text": "Nossa... Você me agracia com<n>palavras tão gentis.\nObrigada."
         },
         {
             "name": "Mejiro Bright",
-            "text": "Hehe! Como costumo realizar essas<n>buscas\nsozinha, ter companhia foi<n>uma mudança de\nritmo<n>surpreendentemente agradável. Hoje<n>foi\nmuito divertido."
-        },
-        {
-            "name": "Mejiro Bright",
-            "text": "Tenho tantas coisas para contar para<n>a Maki\nquando chegar em casa! ♪",
-            "choice_data_list": [
-                "Tantas coisas? Tipo o quê?",
-                "Há mais nas bonecas do que apenas colecionar,\nnão há?",
-                "Há mais nas bonecas do que apenas colecionar,\nnão há?"
-            ]
+            "text": "Hehe! Como costumo realizar essas<n>buscas\nsozinha, ter companhia foi<n>uma mudança de ritmo\nsurpreendentemente agradável. Hoje<n>foi muito\ndivertido."
         },
         {
             "name": "Mejiro Bright",
@@ -183,11 +174,20 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Bem, primeiro, contarei a ela sobre a<n>Dober. Ela\nmencionou que estava<n>procurando uma xícara de\nchá, então<n>discutirei com a Maki qual delas dar\nde presente a ela."
+            "text": "Tenho tantas coisas para contar para<n>a Maki\nquando chegar em casa! ♪",
+            "choice_data_list": [
+                "Tantas coisas? Tipo o quê?",
+                "Há mais nas bonecas do que apenas colecionar,\nnão há?",
+                "Há mais nas bonecas do que apenas colecionar,\nnão há?"
+            ]
         },
         {
             "name": "Mejiro Bright",
-            "text": "Também gostaria de discutir uma<n>ideia de design\nque me ocorreu<n>enquanto eu procurava uma\nnova<n>amiga para ela. E então, por último..."
+            "text": "Bem, primeiro, contarei a ela sobre a<n>Dober. Ela\nmencionou que estava<n>procurando uma xícara de\nchá, então<n>discutirei com a Maki qual delas dar<n>de\npresente a ela."
+        },
+        {
+            "name": "Mejiro Bright",
+            "text": "Também gostaria de discutir uma<n>ideia de design\nque me ocorreu<n>enquanto eu procurava uma nova\namiga para ela. E então, por último..."
         },
         {
             "name": "Mejiro Bright",
@@ -215,7 +215,7 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Aguardo ansiosamente o dia em que<n>todos\npoderemos desfrutar de uma<n>festa de chá\njuntos."
+            "text": "Aguardo ansiosamente o dia em que<n>todos\npoderemos desfrutar de uma<n>festa de chá juntos."
         },
         {
             "name": "Monólogo",

@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Termino de escoltar <chrname> de<n>volta aos\ndormitórios após o treino<n>quando, de repente..."
+            "text": "Termino de escoltar<n><chrname> de volta\naos<n>dormitórios após o treino quando, de\nrepente..."
         },
         {
             "name": "Monólogo",
@@ -17,7 +17,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "S-Sinto muito, mas não! Vocês estão\nincomodando nossas alunas, então<n>eu\nagradeceria se saíssem da área!",
+            "text": "S-Sinto muito, mas não! Vocês estão<n>incomodando\nnossas alunas, então<n>eu agradeceria se saíssem\nda área!",
             "choice_data_list": [
                 "O que está acontecendo, Tazuna?"
             ]
@@ -46,7 +46,7 @@
         },
         {
             "name": "Repórter B",
-            "text": "Dizem que você a faz correr até tarde<n>da noite\ntodos os dias, ou a faz<n>sentar em cima de uma\npedra por<n>três dias seguidos, ou a faz dar\nvoltas andando de bananeira.",
+            "text": "Dizem que você a faz correr até tarde<n>da noite\ntodos os dias, ou a faz<n>sentar em cima de uma\npedra por<n>três dias seguidos, ou a faz dar<n>voltas\nandando de bananeira.",
             "choice_data_list": [
                 "Nada disso é verdade!"
             ]
@@ -57,11 +57,11 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "O tempo todo eu estive tentando dizer<n>a todos\nque esse artigo não passa de<n>calúnia!"
+            "text": "O tempo todo eu estive tentando dizer<n>a todos que\nesse artigo não passa de<n>calúnia!"
         },
         {
             "name": "Repórter C",
-            "text": "Então você afirma que tudo é<n>mentira? Este\nassunto envolve a<n>própria reputação da\nAcademia<n>Tracen!"
+            "text": "Então você afirma que tudo é<n>mentira? Este\nassunto envolve a<n>própria reputação da Academia\nTracen!"
         },
         {
             "name": "Diretora Akikawa",
@@ -77,7 +77,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Todos os membros da mídia, eu<n>suplico! Por\nfavor, tenham paciência<n>por enquanto!"
+            "text": "Todos os membros da mídia, eu<n>suplico! Por favor,\ntenham paciência<n>por enquanto!"
         },
         {
             "name": "Repórter B",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Felizmente, as palavras da Diretora<n>Akikawa\nconseguem convencer os<n>repórteres\nabertamente descontentes<n>a irem embora."
+            "text": "Felizmente, as palavras da Diretora<n>Akikawa\nconseguem convencer os<n>repórteres abertamente\ndescontentes<n>a irem embora."
         },
         {
             "name": "Monólogo",
@@ -93,11 +93,11 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "...Essencialmente, nosso foco em<n>conseguir a\ncooperação do máximo<n>de veículos de mídia\npossível fez com<n>que nosso controle de\nqualidade<n>ficasse para trás."
+            "text": "...Essencialmente, nosso foco em<n>conseguir a\ncooperação do máximo<n>de veículos de mídia\npossível fez com<n>que nosso controle de qualidade\nficasse para trás."
         },
         {
             "name": "Repórter Otonashi",
-            "text": "E agora, devido àquele artigo<n>fabricado que está\ncirculando, a<n>reputação do Treinador <username>\nfoi posta em dúvida."
+            "text": "E agora, devido àquele artigo<n>fabricado que está\ncirculando, a<n>reputação do Treinador <username> foi posta\nem<n>dúvida."
         },
         {
             "name": "Repórter Otonashi",
@@ -117,7 +117,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Uma vez que um mal-entendido<n>ganha o mundo,\né quase impossível<n>eliminá-lo de vez..."
+            "text": "Uma vez que um mal-entendido<n>ganha o mundo, é\nquase impossível<n>eliminá-lo de vez..."
         },
         {
             "name": "Diretora Akikawa",
@@ -133,11 +133,11 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Não há desculpas para este incidente.<n><i>Eu</i>\npermiti que as coisas<n>saíssem do controle!"
+            "text": "Não há desculpas para este incidente.<n><i>Eu</i>\npermiti que as coisas saíssem<n>do controle!"
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Mas simplesmente não podemos<n>fazer a\nTwinkle Star Climax acontecer<n>sem a cooperação\nde vocês!"
+            "text": "Mas simplesmente não podemos<n>fazer a Twinkle\nStar Climax acontecer<n>sem a cooperação de\nvocês!"
         },
         {
             "name": "Diretora Akikawa",
@@ -168,7 +168,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Esta corrida é para <i>todas</i> as<n>Umamusume\nque possuem as<n>habilidades dignas de serem\nchamadas de \"as maiores\"."
+            "text": "Esta corrida é para <i>todas</i> as<n>Umamusume que\npossuem as<n>habilidades dignas de serem\nchamadas de \"as maiores\"."
         },
         {
             "name": "Repórter Otonashi",
@@ -176,7 +176,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "O momento da vitória delas merece<n>ser\n<i>glorioso!</i> Quero que a<n>atmosfera seja\npositivamente<n>inebriante!"
+            "text": "O momento da vitória delas merece<n>ser <i>glorioso!</i>\nQuero que a<n>atmosfera seja positivamente\ninebriante!"
         },
         {
             "name": "Repórter Otonashi",
@@ -192,7 +192,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "...Por favor, permitam-me realizar uma\nreportagem."
+            "text": "...Por favor, permitam-me realizar uma<n>reportagem."
         },
         {
             "name": "Diretora Akikawa",
@@ -219,7 +219,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Suponho que, se for ela conduzindo a\nreportagem, não deve ser um fardo<n>muito grande\npara você.",
+            "text": "Suponho que, se for ela conduzindo a<n>reportagem,\nnão deve ser um fardo<n>muito grande para você.",
             "choice_data_list": [
                 "É verdade... Afinal, ela tem muito conhecimento."
             ]
@@ -234,7 +234,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Não se preocupe, eu mesma cuidarei<n>de toda\nesta reportagem, não importa<n>o que aconteça.\nMesmo que eu<n>quebre cada osso do meu corpo\ne<n>tenha que rastejar de barriga!"
+            "text": "Não se preocupe, eu mesma cuidarei<n>de toda esta\nreportagem, não importa<n>o que aconteça. Mesmo\nque eu<n>quebre cada osso do meu corpo e<n>tenha\nque rastejar de barriga!"
         },
         {
             "name": "Repórter Otonashi",
@@ -254,11 +254,11 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Tenho a firme convicção de que a<n>decisão final\ndeve recair sobre você,<n>parceiro da <chrname>!"
+            "text": "Tenho a firme convicção de que a<n>decisão final\ndeve recair sobre você,<n>parceiro da\n<chrname>!"
         },
         {
             "name": "Monólogo",
-            "text": "De repente, fico sem palavras. Um<n>ambiente de\ntreino estável ou apoio<n>público — o que seria\nmelhor para o<n>desenvolvimento da <chrname>?"
+            "text": "De repente, fico sem palavras. Um<n>ambiente de\ntreino estável ou apoio<n>público — o que seria\nmelhor para o<n>desenvolvimento da\n<chrname>?"
         },
         {
             "name": "Monólogo",
@@ -280,7 +280,7 @@
             "name": "Repórter Otonashi",
             "text": "Para ser sincera, estou até um pouco<n>surpresa\nque você tenha dado o ok.",
             "choice_data_list": [
-                "Não quero ficar no caminho do sonho de\nninguém."
+                "Não quero ficar no caminho do sonho de ninguém."
             ]
         },
         {
@@ -292,7 +292,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "C-Certo! Farei o meu melhor para<n>não\natrapalhar!"
+            "text": "C-Certo! Farei o meu melhor para<n>não atrapalhar!"
         },
         {
             "name": "Monólogo",
@@ -300,7 +300,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Sinto que também estaria virando as<n>costas para\no sonho que <chrname> e<n>eu juramos realizar."
+            "text": "Sinto que também estaria virando as<n>costas para\no sonho que<n><chrname> e eu juramos\nrealizar."
         },
         {
             "name": "Monólogo",

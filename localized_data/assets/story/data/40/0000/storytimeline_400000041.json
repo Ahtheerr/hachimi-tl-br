@@ -75,7 +75,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Espero que você passe um verão<n>proveitoso\ncom sua aprendiz! ♪"
+            "text": "Espero que você passe um verão<n>proveitoso com\nsua aprendiz! ♪"
         },
         {
             "name": "Monólogo",
@@ -83,7 +83,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Preciso prestar atenção à condição e<n>à energia\nda <chrname> antes disso.",
+            "text": "Preciso prestar atenção à condição e<n>à energia da\n<chrname><n>antes disso.",
             "color_text_info_list": [
                 "condição",
                 "energia"

@@ -180,8 +180,8 @@
             "name": "Monólogo",
             "text": "Todos os cronogramas que preparo,<n>todos os conselhos que dou — eles<n>não são destinados apenas a ela.",
             "choice_data_list": [
-                "Então tudo o que eu faço é para <i>vocês\nduas</i>.",
-                "Então tudo o que eu faço é para <i>vocês\nduas</i>."
+                "Então tudo o que eu faço é para <i>vocês duas</i>.",
+                "Então tudo o que eu faço é para <i>vocês duas</i>."
             ]
         },
         {
@@ -210,7 +210,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "(Talvez não fosse eu... mas <i>nós</i><n>o tempo todo.)",
+            "text": "(Talvez não fosse eu... mas <i>nós</i> o<n>tempo todo.)",
             "choice_data_list": [
                 "Ayabe?"
             ]

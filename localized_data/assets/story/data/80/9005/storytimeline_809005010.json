@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Desde que me tornei a cobaia de<n>acupuntura da\nSasami Anshinzawa,<n>eu me acostumei a seguir\nos<n>caprichos dela. Em um dia desses..."
+            "text": "Desde que me tornei a cobaia de<n>acupuntura da\nSasami Anshinzawa,<n>eu me acostumei a seguir os\ncaprichos dela. Em um dia desses..."
         },
         {
             "name": "???",
@@ -31,7 +31,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Vamos lá, <username>! Não estrague a<n>diversão!\n♪"
+            "text": "Vamos lá, <username>! Não estrague a diversão!<n>♪"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -55,7 +55,7 @@
         },
         {
             "name": "Acupunturista Anônimo B",
-            "text": "Que corrida incrível! Desejo dar a<n>elas a\nespetada que precisam para<n>realizar seus\nsonhos!"
+            "text": "Que corrida incrível! Desejo dar a<n>elas a espetada\nque precisam para<n>realizar seus sonhos!"
         },
         {
             "name": "Acupunturista Anônimo C",
@@ -79,7 +79,7 @@
         },
         {
             "name": "Umamusume Parceira de Treino A",
-            "text": "Hein?! Aquele é o treinador da<n><chrname>?!"
+            "text": "Hein?! Aquele é o treinador da\n<chrname>?!"
         },
         {
             "name": "Umamusume Parceira de Treino B",
@@ -115,18 +115,18 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Aquela espetada realmente<n>funcionou, não foi?\nEu mal conseguia<n>te distinguir de uma\nUmamusume de<n>verdade pelo jeito que você\ncorreu!"
+            "text": "Aquela espetada realmente<n>funcionou, não foi? Eu\nmal conseguia<n>te distinguir de uma Umamusume\nde<n>verdade pelo jeito que você correu!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Eita, o que houve? Você parece que<n>já esteve\nem dias muito melhores.",
+            "text": "Eita, o que houve? Você parece que<n>já esteve em\ndias muito melhores.",
             "choice_data_list": [
                 "M-meu corpo todo... está tão dolorido..."
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Oh, céus! Acho que quanto maiores<n>os\nresultados, maiores são os efeitos<n>colaterais..."
+            "text": "Oh, céus! Acho que quanto maiores<n>os resultados,\nmaiores são os efeitos<n>colaterais..."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -138,11 +138,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "Caso realmente alcancemos essa<n>possibilidade\nalgum dia, eu adoraria<n>correr ao lado de\n<chrname> mais uma<n>vez."
+            "text": "Caso realmente alcancemos essa<n>possibilidade\nalgum dia, eu adoraria<n>correr ao lado de\n<chrname><n>mais uma vez."
         },
         {
             "name": "Monólogo",
-            "text": "Caso realmente alcancemos essa<n>possibilidade\nalgum dia, eu adoraria<n>correr ao lado de\n<chrname> mais uma<n>vez."
+            "text": "Caso realmente alcancemos essa<n>possibilidade\nalgum dia, eu adoraria<n>correr ao lado de\n<chrname><n>mais uma vez."
         }
     ]
 }

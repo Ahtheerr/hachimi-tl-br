@@ -18,7 +18,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Suspiro.</i> Elas me fizeram correr<n>de um lado para o outro desde cedo...<n>Tenho que me preparar para o treino<n>agora também—",
+            "text": "<i>Suspiro.</i> Elas me fizeram correr de<n>um lado para o outro desde cedo...<n>Tenho que me preparar para o treino<n>agora também—",
             "choice_data_list": [
                 "Você parece cansada.",
                 "Você parece cansada."
@@ -117,14 +117,14 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Suspiro...</i> Isso demorou muito<n>mais do que eu pensei que<n>demoraria. Certo, vamos começar."
+            "text": "<i>Suspiro...</i> Isso demorou muito mais<n>do que eu pensei que demoraria.<n>Certo, vamos começar."
         },
         {
             "name": "Daiwa Scarlet",
             "text": "...Hã, o que foi? Por que você está me<n>encarando assim... Está bravo(a)? Eu<n>me sinto mal por ter feito você<n>esperar, sabe.",
             "choice_data_list": [
-                "Estou preocupado(a) que você esteja\nassumindo coisas demais sozinha.",
-                "Estou preocupado(a) que você esteja\nassumindo coisas demais sozinha."
+                "Estou preocupado(a) que você esteja assumindo\ncoisas demais sozinha.",
+                "Estou preocupado(a) que você esteja assumindo\ncoisas demais sozinha."
             ]
         },
         {

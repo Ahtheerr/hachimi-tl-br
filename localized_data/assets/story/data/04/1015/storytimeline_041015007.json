@@ -26,7 +26,7 @@
         },
         {
             "name": "T.M. Opera O",
-            "text": "<i>Arf, arf...</i> E então, Treinador?<n>Você se inspirou com o capricho do<n>meu treinamento aquático?",
+            "text": "<i>Arf, arf...</i> E então, Treinador? Você<n>se inspirou com o capricho do meu<n>treinamento aquático?",
             "choice_data_list": [
                 "Você mostrou muito espírito.",
                 "Você mostrou muito espírito."
@@ -118,8 +118,8 @@
             "name": "T.M. Opera O",
             "text": "Como um peixe aninhado entre as<n>anêmonas-do-mar, eu me balançarei<n>e me sincronizarei com as ondas em<n>uma dança elegante.",
             "choice_data_list": [
-                "Algumas anêmonas são venenosas, então\nvamos tomar cuidado com elas...",
-                "Algumas anêmonas são venenosas, então\nvamos tomar cuidado com elas..."
+                "Algumas anêmonas são venenosas, então vamos\ntomar cuidado com elas...",
+                "Algumas anêmonas são venenosas, então vamos\ntomar cuidado com elas..."
             ]
         },
         {
@@ -241,7 +241,7 @@
         },
         {
             "name": "T.M. Opera O",
-            "text": "Bem dito! Pois <i>eu</i> serei a<n>Soberana Centurial — aquela que<n>banhará o mundo com sua luz<n>esplêndida!"
+            "text": "Bem dito! Pois <i>eu</i> serei a Soberana<n>Centurial — aquela que banhará o<n>mundo com sua luz esplêndida!"
         },
         {
             "name": "Monólogo",

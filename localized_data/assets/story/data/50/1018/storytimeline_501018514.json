@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Tenho estado terrivelmente ocupada\nultimamente. Sei que isso é esperado,<n>já que\nestou treinando uma<n>Umamusume que participa\nda Twinkle<n>Series, mas mesmo assim...",
+            "text": "Tenho estado terrivelmente ocupada<n>ultimamente.\nSei que isso é esperado,<n>já que estou treinando\numa<n>Umamusume que participa da Twinkle\nSeries, mas mesmo assim...",
             "choice_data_list": [
                 "(Eu nem sequer consegui arrumar nada...)"
             ]
@@ -32,11 +32,11 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Entendo sua confusão, mas este é<n>um assunto\nde extrema urgência. Por<n>favor, responda-me."
+            "text": "Entendo sua confusão, mas este é<n>um assunto de\nextrema urgência. Por<n>favor, responda-me."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Perguntarei mais uma vez... Limpar<n>sua\nresidência seria uma tarefa que<n>valeria a pena?",
+            "text": "Perguntarei mais uma vez... Limpar<n>sua residência\nseria uma tarefa que<n>valeria a pena?",
             "choice_data_list": [
                 "Acho que sim..."
             ]
@@ -47,15 +47,15 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "E o mais importante, pertence a<n>alguém\nconfiável! Eu não poderia<n>esperar solução\nmelhor!"
+            "text": "E o mais importante, pertence a<n>alguém confiável!\nEu não poderia<n>esperar solução melhor!"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Você poderia me dar cinco minutos?<n>Apenas\ncinco minutos, e terei Air<n>Groove pronta na sua\ncasa."
+            "text": "Você poderia me dar cinco minutos?<n>Apenas cinco\nminutos, e terei Air<n>Groove pronta na sua casa."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Tenho certeza de que você já<n>percebeu, mas ela\nestará limpando<n>seu quarto! Por favor, espere\npor nós<n>lá!"
+            "text": "Tenho certeza de que você já<n>percebeu, mas ela\nestará limpando<n>seu quarto! Por favor, espere por\nnós<n>lá!"
         },
         {
             "name": "Monólogo",
@@ -86,7 +86,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Hm... Este lugar está muito mais<n>empoeirado do\nque parece. Mas nem<n>um único cisco escapará\nde mim...",
+            "text": "Hm... Este lugar está muito mais<n>empoeirado do\nque parece. Mas nem<n>um único cisco escapará de\nmim...",
             "choice_data_list": [
                 "(Sobre o que ela está resmungando?)",
                 "(Sobre o que ela está resmungando?)"
@@ -110,7 +110,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Em outras palavras, Air Groove tem<n>estado\n<i>extremamente</i><n>estressada ultimamente."
+            "text": "Em outras palavras, Air Groove tem<n>estado\n<i>extremamente</i> estressada<n>ultimamente."
         },
         {
             "name": "Symboli Rudolf",
@@ -121,15 +121,15 @@
         },
         {
             "name": "Air Groove",
-            "text": "Oh? Aquilo é mofo preto que vejo na<n>moldura da\njanela? Um simples pano<n>não será suficiente\npara derrotá-lo...<n>Hehehe... Ahahaha!"
+            "text": "Oh? Aquilo é mofo preto que vejo na<n>moldura da\njanela? Um simples pano<n>não será suficiente para\nderrotá-lo...<n>Hehehe... Ahahaha!"
         },
         {
             "name": "Air Groove",
-            "text": "Oh não, não há espaço para<n>compaixão no\ncampo de batalha!<n>Conheça minha arma\nsecreta...<n>bicarbonato de sódio!"
+            "text": "Oh não, não há espaço para<n>compaixão no campo\nde batalha!<n>Conheça minha arma secreta...\nbicarbonato de sódio!"
         },
         {
             "name": "Monólogo",
-            "text": "Air Groove parece estar se divertindo.<n>...Talvez\naté um pouco <i>demais</i>."
+            "text": "Air Groove parece estar se divertindo.<n>...Talvez até\num pouco <i>demais</i>."
         },
         {
             "name": "Symboli Rudolf",
@@ -137,15 +137,15 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Um dia encontrei ela limpando o chão<n>da sala do\nconselho estudantil. Cada<n>último cisco de poeira\n— erradicado.<n>Foi uma visão impressionante."
+            "text": "Um dia encontrei ela limpando o chão<n>da sala do\nconselho estudantil. Cada<n>último cisco de poeira —\nerradicado.<n>Foi uma visão impressionante."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Limpar é uma atividade que tem<n>resultados\npalpáveis, então imagino<n>que seja fácil sentir\numa sensação<n>de realização com isso."
+            "text": "Limpar é uma atividade que tem<n>resultados\npalpáveis, então imagino<n>que seja fácil sentir uma\nsensação<n>de realização com isso."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Depois perguntei a ela sobre isso,<n>mas parece\nque ela guarda pouca<n>memória do processo em\nsi."
+            "text": "Depois perguntei a ela sobre isso,<n>mas parece\nque ela guarda pouca<n>memória do processo em si."
         },
         {
             "name": "Symboli Rudolf",
@@ -169,7 +169,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Sinto-me muito melhor agora.<n>Obrigada,\nPresidente."
+            "text": "Sinto-me muito melhor agora.<n>Obrigada, Presidente."
         },
         {
             "name": "Air Groove",
@@ -177,7 +177,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Eu não disse nada... estranho...<n>enquanto\nlimpava, disse?"
+            "text": "Eu não disse nada... estranho...<n>enquanto limpava,\ndisse?"
         },
         {
             "name": "Symboli Rudolf",
@@ -200,7 +200,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Gosto do seu espírito! Muito bem,<n>soldado.\nPegue a solução de<n>bicarbonato de sódio!"
+            "text": "Gosto do seu espírito! Muito bem,<n>soldado. Pegue\na solução de<n>bicarbonato de sódio!"
         },
         {
             "name": "Air Groove",

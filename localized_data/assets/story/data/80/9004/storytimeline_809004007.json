@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Recebi alguns ingressos para um<n>parque de\ndiversões, então convido a<n>Treinadora Kiryuin\npara ir comigo."
+            "text": "Recebi alguns ingressos para um<n>parque de\ndiversões, então convido a<n>Treinadora Kiryuin para\nir comigo."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -13,11 +13,11 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Bem, afinal é um parque de<n>diversões! Eu sei\nque ela vai amar!"
+            "text": "Bem, afinal é um parque de<n>diversões! Eu sei que\nela vai amar!"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Por qual brinquedo devemos<n>começar? O\nprimeiro que você<n>escolhe é muito importante!"
+            "text": "Por qual brinquedo devemos<n>começar? O primeiro\nque você<n>escolhe é muito importante!"
         },
         {
             "name": "Monólogo",
@@ -36,14 +36,14 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Se uma Umamusume pedalasse o<n>mais rápido\nque pudesse, ela poderia<n>ser capaz de voar!",
+            "text": "Se uma Umamusume pedalasse o<n>mais rápido que\npudesse, ela poderia<n>ser capaz de voar!",
             "choice_data_list": [
                 "O-o quê?!"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Treinador <username>! Olhe para<n>aquele céu azul\nimenso!"
+            "text": "Treinador <username>! Olhe para aquele céu azul<n>imenso!"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -51,11 +51,11 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Isso poderia revolucionar todos os<n>meus\nregimes de treino até agora!"
+            "text": "Isso poderia revolucionar todos os<n>meus regimes\nde treino até agora!"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "E por que parar por aí? Que tal aquela\nmontanha-russa? Pense em como<n>seria incrível\nse fosse movida pelas<n>pernas de uma\nUmamusume!",
+            "text": "E por que parar por aí? Que tal aquela\nmontanha-russa? Pense em como<n>seria incrível se\nfosse movida pelas<n>pernas de uma Umamusume!",
             "choice_data_list": [
                 "Ei... escuta..."
             ]
@@ -69,7 +69,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Claro, sou o retrato da saúde! Digo,<n>não durmo\nhá alguns dias, mas isso<n>não é um problema!",
+            "text": "Claro, sou o retrato da saúde! Digo,<n>não durmo há\nalguns dias, mas isso<n>não é um problema!",
             "choice_data_list": [
                 "É um problemão!"
             ]
@@ -84,7 +84,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Sinto muito... Seus ingressos foram\ndesperdiçados por minha causa...",
+            "text": "Sinto muito... Seus ingressos foram<n>desperdiçados\npor minha causa...",
             "choice_data_list": [
                 "Por que você não tem dormido?"
             ]
@@ -140,7 +140,7 @@
             "name": "Treinadora Kiryuin",
             "text": "Hein? M-mas isso é...",
             "choice_data_list": [
-                "Nós dois somos treinadores na Academia\nTracen, não somos?"
+                "Nós dois somos treinadores na Academia Tracen,\nnão somos?"
             ]
         },
         {
@@ -168,11 +168,11 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "E-espere! Acabei de ter uma ótima<n>ideia de\ntreino!"
+            "text": "E-espere! Acabei de ter uma ótima<n>ideia de treino!"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Vamos alugar uma pista de corrida.<n>Podemos\nfazer você ter uma sessão<n>de corrida em\nparceria com um carro<n>de corrida, e—",
+            "text": "Vamos alugar uma pista de corrida.<n>Podemos\nfazer você ter uma sessão<n>de corrida em parceria\ncom um carro<n>de corrida, e—",
             "choice_data_list": [
                 "Acho melhor você apenas dormir agora."
             ]

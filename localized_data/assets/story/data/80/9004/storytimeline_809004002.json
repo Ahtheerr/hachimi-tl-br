@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Uma noite, acompanho <chrname> até<n>o dormitório\ndela após o treino do dia<n>durar mais do que o\nesperado. Logo<n>após nos despedirmos..."
+            "text": "Uma noite, acompanho<n><chrname> até o\ndormitório<n>dela após o treino do dia durar mais<n>do\nque o esperado. Logo após nos<n>despedirmos..."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Treinador <username>! Que bom ver<n>você! Está\nindo para casa agora?",
+            "text": "Treinador <username>! Que bom ver você! Está<n>indo para\ncasa agora?",
             "choice_data_list": [
                 "Sim!"
             ]
@@ -36,7 +36,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Conversamos sobre várias coisas no<n>caminho\nde volta para os dormitórios."
+            "text": "Conversamos sobre várias coisas no<n>caminho de\nvolta para os dormitórios."
         }
     ]
 }

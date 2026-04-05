@@ -6,7 +6,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Com licença? Treinador <username>?<n>Você está\naí?",
+            "text": "Com licença? Treinador <username>? Você está<n>aí?",
             "choice_data_list": [
                 "Estou aqui!"
             ]
@@ -32,7 +32,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Então, certamente, eles também<n>percebem o\nquão impactantes foram<n>esses últimos três anos."
+            "text": "Então, certamente, eles também<n>percebem o quão\nimpactantes foram<n>esses últimos três anos."
         },
         {
             "name": "Repórter Otonashi",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Uma grande foto de <chrname> adorna<n>a primeira\npágina."
+            "text": "Uma grande foto de<n><chrname> adorna a\nprimeira<n>página."
         },
         {
             "name": "Repórter Otonashi",
@@ -97,7 +97,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Depois de todas as entrevistas que<n>fiz até hoje,\nestou convencida de que<n>vocês dois são a luz\nque guiará o<n>mundo das corridas para frente.",
+            "text": "Depois de todas as entrevistas que<n>fiz até hoje,\nestou convencida de que<n>vocês dois são a luz que\nguiará o<n>mundo das corridas para frente.",
             "choice_data_list": [
                 "Então eu vou garantir que ela brilhe ainda mais!",
                 "Então eu vou garantir que ela brilhe ainda mais!"
@@ -120,11 +120,11 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Você quer fazer sua aprendiz brilhar<n>ainda mais!\nMesmo que isso<n>signifique que você será\napenas a<n>sombra por trás dela!"
+            "text": "Você quer fazer sua aprendiz brilhar<n>ainda mais!\nMesmo que isso<n>signifique que você será apenas\na<n>sombra por trás dela!"
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Dedicando todo o seu tempo a ela,<n>até todo o\nseu dinheiro, e levando-a<n>para corridas por toda\nparte para<n>perseguir seus sonhos!"
+            "text": "Dedicando todo o seu tempo a ela,<n>até todo o seu\ndinheiro, e levando-a<n>para corridas por toda parte\npara<n>perseguir seus sonhos!"
         },
         {
             "name": "Repórter Otonashi",
@@ -136,7 +136,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mas esta revista transmite seus<n>verdadeiros\nsentimentos. Terei<n>certeza de mostrá-la à\n<chrname><n>mais tarde!"
+            "text": "Mas esta revista transmite seus<n>verdadeiros\nsentimentos. Terei<n>certeza de mostrá-la à\n<chrname> mais tarde!"
         },
         {
             "name": "Repórter Otonashi",
@@ -159,11 +159,11 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Querida <chrname> e Treinador<n><username>."
+            "text": "Querida <chrname> e<n>Treinador <username>."
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Veja bem, o departamento editorial<n>recebeu um\nnúmero considerável de<n>cartas de fãs dos\nleitores<n>endereçadas aos dois."
+            "text": "Veja bem, o departamento editorial<n>recebeu um\nnúmero considerável de<n>cartas de fãs dos leitores\nendereçadas aos dois."
         },
         {
             "name": "Repórter Otonashi",
@@ -171,7 +171,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Esta é praticamente a primeira vez<n>que\ndedicamos várias páginas<n>apenas a cartas dos\nnossos leitores.",
+            "text": "Esta é praticamente a primeira vez<n>que dedicamos\nvárias páginas<n>apenas a cartas dos nossos\nleitores.",
             "choice_data_list": [
                 "Uau, obrigado!"
             ]
@@ -186,7 +186,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Este artigo transmite os verdadeiros<n>sentimentos\nda Repórter Otonashi.<n>Terei certeza de mostrá-la\nà<n><chrname> mais tarde!"
+            "text": "Este artigo transmite os verdadeiros<n>sentimentos\nda Repórter Otonashi.<n>Terei certeza de mostrá-la à\n<chrname> mais tarde!"
         },
         {
             "name": "Repórter Otonashi",
@@ -205,7 +205,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Uma reportagem especial intitulada<n>\"Buscando a\nGlória com <chrname> e<n>seu Treinador\"."
+            "text": "Uma reportagem especial intitulada<n>\"Buscando a\nGlória com<n><chrname> e seu Treinador\"."
         },
         {
             "name": "Repórter Otonashi",
@@ -217,7 +217,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Eu sabia que todos os nossos<n>leitores ficariam\nanimados em ver<n>uma reportagem especial\nsobre<n>vocês dois.",
+            "text": "Eu sabia que todos os nossos<n>leitores ficariam\nanimados em ver<n>uma reportagem especial sobre\nvocês dois.",
             "choice_data_list": [
                 "Não sei o que dizer."
             ]
@@ -228,7 +228,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Este artigo transmite os verdadeiros<n>sentimentos\nda Repórter Otonashi.<n>Terei certeza de mostrá-la\nà<n><chrname> mais tarde!"
+            "text": "Este artigo transmite os verdadeiros<n>sentimentos\nda Repórter Otonashi.<n>Terei certeza de mostrá-la à\n<chrname> mais tarde!"
         },
         {
             "name": "Repórter Otonashi",
@@ -247,22 +247,22 @@
         },
         {
             "name": "Monólogo",
-            "text": "Inclui cenas das minhas sessões de<n>treino com\n<chrname> junto com os<n>comentários\nentusiasmados de<n>Otonashi."
+            "text": "Inclui cenas das minhas sessões de<n>treino com\n<chrname> junto<n>com os comentários\nentusiasmados<n>de Otonashi."
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Mal posso esperar para ver até onde<n>essas\nduas podem chegar! ... E eu<n>quis dizer cada\npalavra.",
+            "text": "Mal posso esperar para ver até onde<n>essas duas\npodem chegar! ... E eu<n>quis dizer cada palavra.",
             "choice_data_list": [
                 "Não sei o que dizer."
             ]
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Hehe, pretendo continuar cobrindo o<n>caminho\nque vocês dois seguirão a<n>partir de agora."
+            "text": "Hehe, pretendo continuar cobrindo o<n>caminho que\nvocês dois seguirão a<n>partir de agora."
         },
         {
             "name": "Monólogo",
-            "text": "Este artigo transmite os verdadeiros<n>sentimentos\nda Repórter Otonashi.<n>Terei certeza de mostrá-la\nà<n><chrname> mais tarde!"
+            "text": "Este artigo transmite os verdadeiros<n>sentimentos\nda Repórter Otonashi.<n>Terei certeza de mostrá-la à\n<chrname> mais tarde!"
         }
     ]
 }

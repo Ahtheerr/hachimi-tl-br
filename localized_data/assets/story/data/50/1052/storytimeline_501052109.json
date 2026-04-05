@@ -18,7 +18,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "<i>Arf... arf.. ufa...</i> Eu quero<n>conhecer o Papai\nNoel!"
+            "text": "<i>Arf... arf.. ufa...</i> Eu quero conhecer o<n>Papai Noel!"
         },
         {
             "name": "Monólogo",
@@ -26,11 +26,11 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Nossa, nossa, NOSSA! Que legal! Uma<n>festa de\nfim de ano de verdade!"
+            "text": "Nossa, nossa, NOSSA! Que legal! Uma<n>festa de fim\nde ano de verdade!"
         },
         {
             "name": "Haru Urara",
-            "text": "Você arrumou tudo isso sozinho,<n>Treinador? Isso\né incrível! Ah, tá tão<n>fofo!",
+            "text": "Você arrumou tudo isso sozinho,<n>Treinador? Isso é\nincrível! Ah, tá tão<n>fofo!",
             "choice_data_list": [
                 "O Papai Noel me deu um presente para você\ntambém.",
                 "O Papai Noel me deu um presente para você\ntambém."
@@ -42,7 +42,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Eu tô <i>tão</i> feliz! Iupiii! Você acha<n>que ele sabe\no quanto eu tô feliz?",
+            "text": "Eu tô <i>tão</i> feliz! Iupiii! Você acha que<n>ele sabe o\nquanto eu tô feliz?",
             "choice_data_list": [
                 "Tenho certeza que sim."
             ]
@@ -73,7 +73,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "É super especial e super grande! Eu<n>tenho\ncerteza de que você vai gostar!",
+            "text": "É super especial e super grande! Eu<n>tenho certeza\nde que você vai gostar!",
             "choice_data_list": [
                 "O que é?"
             ]
@@ -88,7 +88,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Vai ser muito difícil, mas eu quero<n>ganhar isso\npra você!"
+            "text": "Vai ser muito difícil, mas eu quero<n>ganhar isso pra\nvocê!"
         },
         {
             "name": "Haru Urara",
@@ -96,7 +96,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Então você pode esperar só mais um\npouquinho?",
+            "text": "Então você pode esperar só mais um<n>pouquinho?",
             "choice_data_list": [
                 "Claro!",
                 "Claro!"
@@ -120,11 +120,11 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Então a Urara Noel tem um presente<n>pra\n<i>você</i> por ser um treinador tão<n>incrível!"
+            "text": "Então a Urara Noel tem um presente<n>pra <i>você</i>\npor ser um treinador tão<n>incrível!"
         },
         {
             "name": "Monólogo",
-            "text": "A Haru Urara me entrega dez vales<n>coloridos\ncom \"Eu Vou Ajudar Com<n>Qualquer Coisa!\"\nescritos neles."
+            "text": "A Haru Urara me entrega dez vales<n>coloridos com\n\"Eu Vou Ajudar Com<n>Qualquer Coisa!\" escritos\nneles."
         },
         {
             "name": "Haru Urara",
@@ -155,18 +155,18 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Não vai só guardar eles pra sempre,<n>beleza?\nVocê tem que usar eles!",
+            "text": "Não vai só guardar eles pra sempre,<n>beleza? Você\ntem que usar eles!",
             "choice_data_list": [
                 "Eu vou usar!"
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "Uhum, boa resposta! Beleza, vamos<n>começar\nessa festa!"
+            "text": "Uhum, boa resposta! Beleza, vamos<n>começar essa\nfesta!"
         },
         {
             "name": "Monólogo",
-            "text": "Depois disso, passo um tempo<n>maravilhoso com\na Haru Urara."
+            "text": "Depois disso, passo um tempo<n>maravilhoso com a\nHaru Urara."
         }
     ]
 }

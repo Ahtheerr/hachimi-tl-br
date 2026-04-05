@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Em um dia de folga, decido almoçar<n>fora do\ncampus para variar, e me<n>vejo incapaz de\ndecifrar um menu<n>escrito em língua estrangeira.",
+            "text": "Em um dia de folga, decido almoçar<n>fora do\ncampus para variar, e me<n>vejo incapaz de decifrar\num menu<n>escrito em língua estrangeira.",
             "choice_data_list": [
                 "(Não consigo entender nada disso...)"
             ]
@@ -17,7 +17,7 @@
         },
         {
             "name": "Sirius Symboli",
-            "text": "Você não consegue ler o cardápio,<n>né? Precisa\nde uma mãozinha?",
+            "text": "Você não consegue ler o cardápio,<n>né? Precisa de\numa mãozinha?",
             "choice_data_list": [
                 "Você se importaria?",
                 "Você se importaria?"
@@ -37,7 +37,7 @@
         },
         {
             "name": "Sirius Symboli",
-            "text": "Como quiser. Espero que isso<n>funcione para\nvocê."
+            "text": "Como quiser. Espero que isso<n>funcione para você."
         },
         {
             "name": "Monólogo",
@@ -91,7 +91,7 @@
         },
         {
             "name": "Sirius Symboli",
-            "text": "Bom que você está sendo honesto.<n>Agora,\nvamos começar com alguns<n>aperitivos..."
+            "text": "Bom que você está sendo honesto.<n>Agora, vamos\ncomeçar com alguns<n>aperitivos..."
         },
         {
             "name": "Monólogo",

@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Numa tarde de folga, estou<n>caminhando por um\ncafé ao ar livre<n>quando encontro um rosto\nfamiliar."
+            "text": "Numa tarde de folga, estou<n>caminhando por um\ncafé ao ar livre<n>quando encontro um rosto familiar."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Hein? Não pode ser... Treinador<n><username>?!"
+            "text": "Hein? Não pode ser... Treinador <username>?!"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -36,7 +36,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Isso mesmo! A Meek me disse que<n>este café\ntem uma comida incrível."
+            "text": "Isso mesmo! A Meek me disse que<n>este café tem\numa comida incrível."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -44,7 +44,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Como colega de profissão, fico<n>impressionado\ncom a dedicação dela,<n>então decido ajudá-la\ncom o seu<n>\"trabalho\"."
+            "text": "Como colega de profissão, fico<n>impressionado\ncom a dedicação dela,<n>então decido ajudá-la com\no seu<n>\"trabalho\"."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -52,11 +52,11 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Mas combinado com a calda de<n>frutas\nvermelhas, o sabor residual é\nsurpreendentemente leve."
+            "text": "Mas combinado com a calda de<n>frutas vermelhas,\no sabor residual é<n>surpreendentemente leve."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Agora este bolo brûlée... Ngh! Tão<n>rico... Tão\ndoce..."
+            "text": "Agora este bolo brûlée... Ngh! Tão<n>rico... Tão doce..."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -102,7 +102,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Treinador <username>... Sim, com<n>certeza!"
+            "text": "Treinador <username>... Sim, com certeza!"
         },
         {
             "name": "Monólogo",
@@ -110,7 +110,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Eu os como junto com a <chrname>."
+            "text": "Eu os como junto com a<n><chrname>."
         }
     ]
 }

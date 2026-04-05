@@ -6,7 +6,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Já que o seu objetivo é se tornar<n>uma corredora\nilustre capaz de<n>vencer corridas G1, buscar\ncorridas<n>G1 da categoria júnior parece ser\numa escolha apropriada.",
+            "text": "Já que o seu objetivo é se tornar<n>uma corredora\nilustre capaz de<n>vencer corridas G1, buscar\ncorridas<n>G1 da categoria júnior parece ser<n>uma\nescolha apropriada.",
             "choice_data_list": [
                 "Você tem alguma preferência para sua próxima\ncorrida?",
                 "Você tem alguma preferência para sua próxima\ncorrida?"
@@ -19,7 +19,7 @@
             "name": "Satono Diamond",
             "text": "Eu gostaria de tentar competir na<n>Tríplice Coroa\nClássica.",
             "choice_data_list": [
-                "Oh, eu pensei que você iria buscar uma corrida\nG1 da categoria júnior."
+                "Oh, eu pensei que você iria buscar uma corrida G1\nda categoria júnior."
             ]
         },
         {
@@ -32,7 +32,7 @@
         },
         {
             "name": "Satono Diamond",
-            "text": "Como você sabe, a família Satono se<n>esforça\npara apoiar as Umamusume<n>por meio de trabalho\nadministrativo e<n>filantrópico."
+            "text": "Como você sabe, a família Satono se<n>esforça para\napoiar as Umamusume<n>por meio de trabalho\nadministrativo e<n>filantrópico."
         },
         {
             "name": "Satono Diamond",
@@ -50,7 +50,7 @@
             "name": "Satono Diamond",
             "text": "Então, se possível, eu gostaria de<n>fazer os\npreparativos completos para<n>a Satsuki Sho.",
             "choice_data_list": [
-                "Então o nosso próximo objetivo é a Satsuki\nSho?"
+                "Então o nosso próximo objetivo é a Satsuki Sho?"
             ],
             "color_text_info_list": [
                 "Satsuki Sho"
@@ -96,7 +96,7 @@
         },
         {
             "name": "Satono Diamond",
-            "text": "Em algum momento, as pessoas<n>começaram a\nse referir a isso como a<n>\"maldição dos Satono\"."
+            "text": "Em algum momento, as pessoas<n>começaram a se\nreferir a isso como a<n>\"maldição dos Satono\"."
         },
         {
             "name": "Satono Diamond",
@@ -128,7 +128,7 @@
         },
         {
             "name": "Satono Diamond",
-            "text": "É por isso que devo estar à altura das<n>suas\nexpectativas. Esse é o meu<n>sonho! Não posso\nme dar ao luxo de<n>ter nenhuma dúvida!"
+            "text": "É por isso que devo estar à altura das<n>suas\nexpectativas. Esse é o meu<n>sonho! Não posso me\ndar ao luxo de<n>ter nenhuma dúvida!"
         },
         {
             "name": "Satono Diamond",
@@ -147,14 +147,14 @@
         },
         {
             "name": "Monólogo",
-            "text": "Se formos encarar a turnê da Tríplice<n>Coroa\nClássica, precisaremos nos<n>preparar não apenas\npara a Satsuki<n>Sho, mas também para as\ncorridas de<n>longa distância Japan Derby e\nKikuka<n>Sho.",
+            "text": "Se formos encarar a turnê da Tríplice<n>Coroa\nClássica, precisaremos nos<n>preparar não apenas\npara a Satsuki<n>Sho, mas também para as corridas\nde<n>longa distância Japan Derby e Kikuka<n>Sho.",
             "color_text_info_list": [
                 "Kikuka Sho"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Devemos ficar bem se começarmos<n>a nos\npreparar agora. Apenas<n>continuaremos fazendo\najustes para<n>a Satsuki Sho do ano que vem\nenquanto focamos em nossas<n>próximas\ncorridas."
+            "text": "Devemos ficar bem se começarmos<n>a nos\npreparar agora. Apenas<n>continuaremos fazendo\najustes para<n>a Satsuki Sho do ano que vem\nenquanto focamos em nossas<n>próximas corridas."
         },
         {
             "name": "Satono Diamond",
@@ -174,7 +174,7 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "Não pude assistir você pessoalmente,<n>mas vi\numa gravação dela! Foi tããão<n>emocionante!"
+            "text": "Não pude assistir você pessoalmente,<n>mas vi uma\ngravação dela! Foi tããão<n>emocionante!"
         },
         {
             "name": "Kitasan Black",
@@ -186,7 +186,7 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "Mas foi porque a sua corrida foi de<n>roer as\nunhas!"
+            "text": "Mas foi porque a sua corrida foi de<n>roer as unhas!"
         },
         {
             "name": "Satono Diamond",
@@ -198,7 +198,7 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "A sua expressão não tinha nada a<n>ver com o\njeito que você costuma<n>ficar durante os treinos\nde exibição e<n>corridas em dupla."
+            "text": "A sua expressão não tinha nada a<n>ver com o jeito\nque você costuma<n>ficar durante os treinos de\nexibição e<n>corridas em dupla."
         },
         {
             "name": "Kitasan Black",
@@ -238,7 +238,7 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "Hngh! Então eu <i>realmente</i> não<n>posso me\ndar ao luxo de perder! Não<n>quero dar um mau\nexemplo pra você!"
+            "text": "Hngh! Então eu <i>realmente</i> não<n>posso me dar ao\nluxo de perder! Não<n>quero dar um mau exemplo\npra você!"
         },
         {
             "name": "Kitasan Black",
@@ -246,7 +246,7 @@
         },
         {
             "name": "Satono Diamond",
-            "text": "Também darei o meu melhor nas<n>minhas\ncorridas! Só espere por mim<n>mais um pouco!"
+            "text": "Também darei o meu melhor nas<n>minhas corridas!\nSó espere por mim<n>mais um pouco!"
         },
         {
             "name": "Kitasan Black",
@@ -278,7 +278,7 @@
         },
         {
             "name": "Satono Diamond",
-            "text": "E eu sempre sonhei em alcançá-la e\nultrapassá-la."
+            "text": "E eu sempre sonhei em alcançá-la e<n>ultrapassá-la."
         },
         {
             "name": "Satono Diamond",

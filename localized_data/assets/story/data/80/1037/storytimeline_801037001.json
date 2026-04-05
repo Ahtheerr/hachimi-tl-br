@@ -10,7 +10,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Noto a Eishin Flash encarando todos<n>os pratos\nem exibição com uma<n>expressão preocupada.",
+            "text": "Noto a Eishin Flash encarando todos<n>os pratos em\nexibição com uma<n>expressão preocupada.",
             "choice_data_list": [
                 "O que aconteceu?",
                 "O que aconteceu?"
@@ -18,7 +18,7 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "O prato de minha preferência foi<n>subitamente\nremovido do cardápio<n>hoje devido a problemas\nde<n>abastecimento..."
+            "text": "O prato de minha preferência foi<n>subitamente\nremovido do cardápio<n>hoje devido a problemas de\nabastecimento..."
         },
         {
             "name": "Eishin Flash",
@@ -44,11 +44,11 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Talvez você esteja correto. Devo<n>usar esta\noportunidade para expandir<n>a variedade da\nminha seleção de<n>alimentos aqui."
+            "text": "Talvez você esteja correto. Devo<n>usar esta\noportunidade para expandir<n>a variedade da minha\nseleção de<n>alimentos aqui."
         },
         {
             "name": "Eishin Flash",
-            "text": "Dessa forma, poderei criar um<n>subplano para\nlidar com ocorrências<n>inesperadas como a que\naconteceu<n>hoje.",
+            "text": "Dessa forma, poderei criar um<n>subplano para lidar\ncom ocorrências<n>inesperadas como a que\naconteceu<n>hoje.",
             "choice_data_list": [
                 "Você também pode acabar descobrindo algo\ninesperadamente delicioso.",
                 "Você também pode acabar descobrindo algo\ninesperadamente delicioso."
@@ -64,7 +64,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Após me agradecer, Eishin Flash<n>volta a\nescolher um prato para comer."
+            "text": "Após me agradecer, Eishin Flash<n>volta a escolher\num prato para comer."
         },
         {
             "name": "Eishin Flash",
@@ -80,7 +80,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Após me agradecer, Eishin Flash<n>volta a\nescolher um prato para comer."
+            "text": "Após me agradecer, Eishin Flash<n>volta a escolher\num prato para comer."
         }
     ]
 }

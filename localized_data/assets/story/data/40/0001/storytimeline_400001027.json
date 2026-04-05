@@ -18,7 +18,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "DECLARAÇÃO! Prometo transformar<n>este ginásio\nem um centro inigualável<n>de excelência\nesportiva! Vou<n>aumentá-lo dez... não, cem vezes!"
+            "text": "DECLARAÇÃO! Prometo transformar<n>este ginásio\nem um centro inigualável<n>de excelência esportiva!\nVou<n>aumentá-lo dez... não, cem vezes!"
         },
         {
             "name": "Repórter Otonashi",
@@ -29,7 +29,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "CHOQUE! Essa interjeição digna da<n>Tazuna... Oh,\né você, Treinador<n><username>!"
+            "text": "CHOQUE! Essa interjeição digna da<n>Tazuna... Oh, é\nvocê, Treinador <username>!"
         },
         {
             "name": "Diretora Akikawa",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Mesmo sabendo que tem o respeito<n>de seus\ntreinadores, ela se recusa a<n>ceder em sua\nprópria melhoria!"
+            "text": "Mesmo sabendo que tem o respeito<n>de seus\ntreinadores, ela se recusa a<n>ceder em sua própria\nmelhoria!"
         },
         {
             "name": "Repórter Otonashi",
@@ -88,7 +88,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "E você! Treinador <username>! Vamos<n>fazer o\nnosso máximo para ajudar<n>cada Umamusume a\nbrilhar!",
+            "text": "E você! Treinador <username>! Vamos fazer o<n>nosso máximo\npara ajudar cada<n>Umamusume a brilhar!",
             "choice_data_list": [
                 "A-afirmativo!"
             ]
@@ -103,7 +103,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mas estou tão inspirado pela paixão<n>da diretora\nque volto a treinar a<n><chrname> com entusiasmo\nrenovado."
+            "text": "Mas estou tão inspirado pela paixão<n>da diretora\nque volto a treinar a<n><chrname> com\nentusiasmo<n>renovado."
         },
         {
             "name": "Diretora Akikawa",
@@ -119,7 +119,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "E-em outras palavras, você diria que<n>está\ncomprometida em dar às suas<n>alunas todo o\napoio de que elas<n>precisarem?"
+            "text": "E-em outras palavras, você diria que<n>está\ncomprometida em dar às suas<n>alunas todo o apoio\nde que elas<n>precisarem?"
         },
         {
             "name": "Repórter Otonashi",
@@ -127,7 +127,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "PRECISAMENTE! Por meio desta<n>juro apoiar a\nvida de todas as<n>Umamusume! Acredito\npiamente que<n>isso dará um artigo maravilhoso!",
+            "text": "PRECISAMENTE! Por meio desta<n>juro apoiar a\nvida de todas as<n>Umamusume! Acredito piamente\nque<n>isso dará um artigo maravilhoso!",
             "choice_data_list": [
                 "T-Tazunaaa!"
             ]
@@ -150,7 +150,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mas estou tão inspirado pela paixão<n>da diretora\nque volto a treinar a<n><chrname> com entusiasmo\nrenovado."
+            "text": "Mas estou tão inspirado pela paixão<n>da diretora\nque volto a treinar a<n><chrname> com\nentusiasmo<n>renovado."
         }
     ]
 }

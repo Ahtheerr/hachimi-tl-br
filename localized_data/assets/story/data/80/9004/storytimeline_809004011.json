@@ -6,18 +6,18 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Obrigada por vir, Treinador<n><username>!"
+            "text": "Obrigada por vir, Treinador <username>!"
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Desculpe por te convidar assim tão<n>de repente,\nmas... há algo que preciso<n>compartilhar com\nvocê.",
+            "text": "Desculpe por te convidar assim tão<n>de repente,\nmas... há algo que preciso<n>compartilhar com você.",
             "choice_data_list": [
                 "O que é?"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Bem, sempre há uma reunião da<n>família Kiryuin\nno Ano Novo. É<n>principalmente uma chance para\ntrocarmos as informações mais<n>recentes, mas..."
+            "text": "Bem, sempre há uma reunião da<n>família Kiryuin no\nAno Novo. É<n>principalmente uma chance para\ntrocarmos as informações mais<n>recentes, mas..."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -29,11 +29,11 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Minha tia-avó tem um papel<n>importante na URA e\njá foi uma<n>treinadora habilidosa que trouxe\nhonra à família Kiryuin."
+            "text": "Minha tia-avó tem um papel<n>importante na URA e\njá foi uma<n>treinadora habilidosa que trouxe<n>honra\nà família Kiryuin."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "É por isso que... não importa o quanto<n>as\npessoas ao meu redor digam que<n>estou fazendo\num bom trabalho,<n>minha família sempre me diz\nque<n>ainda tenho muito a aprender.",
+            "text": "É por isso que... não importa o quanto<n>as pessoas\nao meu redor digam que<n>estou fazendo um bom\ntrabalho,<n>minha família sempre me diz que<n>ainda\ntenho muito a aprender.",
             "choice_data_list": [
                 "E agora eles reconheceram seu trabalho duro!"
             ]
@@ -44,7 +44,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "...E isso é por sua causa, Treinador<n><username>.\nSo hoje, eu gostaria de<n>te agradecer.",
+            "text": "...E isso é por sua causa, Treinador <username>.<n>So hoje, eu\ngostaria de te agradecer.",
             "choice_data_list": [
                 "Por minha causa?",
                 "Por minha causa?"
@@ -52,7 +52,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Sim. Sua perspectiva me mostrou<n>partes de mim\nque eu não conseguia<n>ver. Com você ao meu\nlado, consegui<n>continuar melhorando."
+            "text": "Sim. Sua perspectiva me mostrou<n>partes de mim\nque eu não conseguia<n>ver. Com você ao meu lado,\nconsegui<n>continuar melhorando."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -78,7 +78,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Oh! Isso soa como outra ótima fonte<n>de\nmotivação!",
+            "text": "Oh! Isso soa como outra ótima fonte<n>de motivação!",
             "choice_data_list": [
                 "Você vai tentar?!"
             ]
@@ -97,7 +97,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Sinto que minha amizade com a<n>Treinadora\nKiryuin continuará<n>crescendo a partir daqui."
+            "text": "Sinto que minha amizade com a<n>Treinadora Kiryuin\ncontinuará<n>crescendo a partir daqui."
         }
     ]
 }

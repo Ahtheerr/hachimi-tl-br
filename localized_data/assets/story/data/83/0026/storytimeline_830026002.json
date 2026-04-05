@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Today Tracen is holding a cops and<n>robbers\ntournament. This event<n>allows elementary school\nstudents<n>aiming for Tracen to interact with\ncurrent students at the academy."
+            "text": "Today Tracen is holding a cops and<n>robbers\ntournament. This event<n>allows elementary school\nstudents<n>aiming for Tracen to interact with<n>current\nstudents at the academy."
         },
         {
             "name": "Tournament Chairperson",
@@ -14,15 +14,15 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "I'm a robber, so I just need to make<n>sure I don't\nget caught while the<n>clock is ticking, right? Piece\nof pie!"
+            "text": "I'm a robber, so I just need to make<n>sure I don't\nget caught while the<n>clock is ticking, right? Piece of\npie!"
         },
         {
             "name": "Tournament Chairperson",
-            "text": "Trainers and volunteers from the<n>shopping\ndistrict are here to ensure<n>that the team they've\nbeen assigned<n>to plays safely!"
+            "text": "Trainers and volunteers from the<n>shopping district\nare here to ensure<n>that the team they've been\nassigned<n>to plays safely!"
         },
         {
             "name": "Twin Turbo",
-            "text": "Hm? If you're here, that means...<n>you're a\nrobber too?!",
+            "text": "Hm? If you're here, that means...<n>you're a robber\ntoo?!",
             "choice_data_list": [
                 "I'm just here to keep an eye on things.",
                 "I'm just here to keep an eye on things."
@@ -42,11 +42,11 @@
         },
         {
             "name": "Ikuno Dictus",
-            "text": "Forgive my intrusion, but I'll be<n>offering my\nassistance to ensure that<n>the cops team\nemerges triumphant."
+            "text": "Forgive my intrusion, but I'll be<n>offering my\nassistance to ensure that<n>the cops team emerges\ntriumphant."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "Leave everything to me. I shall create<n>an\neffective team strategy that will<n>keep your\nstamina levels in mind."
+            "text": "Leave everything to me. I shall create<n>an effective\nteam strategy that will<n>keep your stamina levels in\nmind."
         },
         {
             "name": "Twin Turbo",
@@ -82,15 +82,15 @@
         },
         {
             "name": "Ikuno Dictus",
-            "text": "Let us calmly lie in wait and observe<n>the\nenemy's movements."
+            "text": "Let us calmly lie in wait and observe<n>the enemy's\nmovements."
         },
         {
             "name": "Monólogo",
-            "text": "I tell Twin Turbo that the cops are<n>going with\nIkuno Dictus's strategy of<n>minimal energy\nconsumption and<n>efficient arrests."
+            "text": "I tell Twin Turbo that the cops are<n>going with Ikuno\nDictus's strategy of<n>minimal energy consumption\nand<n>efficient arrests."
         },
         {
             "name": "Twin Turbo",
-            "text": "Whaaaaat?! The heck's with that?!\nBoooooriiiiing!"
+            "text": "Whaaaaat?! The heck's with that?!<n>Boooooriiiiing!"
         },
         {
             "name": "Twin Turbo",
@@ -162,7 +162,7 @@
         },
         {
             "name": "Elementary School Umamusume B",
-            "text": "Is this a special rule or something?<n>Should we\nrun away too?"
+            "text": "Is this a special rule or something?<n>Should we run\naway too?"
         },
         {
             "name": "Ikuno Dictus",
@@ -170,15 +170,15 @@
         },
         {
             "name": "Ikuno Dictus",
-            "text": "...It would be best to stop her as soon<n>as\npossible, but that would be a tough<n>task."
+            "text": "...It would be best to stop her as soon<n>as possible,\nbut that would be a tough<n>task."
         },
         {
             "name": "Twin Turbo",
-            "text": "Yahooooo! Wait up, punks! Ahahaha!<n>Now we're\n<i>really</i> playing cops<n>and robbers!"
+            "text": "Yahooooo! Wait up, punks! Ahahaha!<n>Now we're\n<i>really</i> playing cops and<n>robbers!"
         },
         {
             "name": "Monólogo",
-            "text": "With Twin Turbo somehow chasing<n>the cops, the\ncops and robbers<n>tournament descends into\nmayhem<n>and is eventually called to a\ntemporary halt."
+            "text": "With Twin Turbo somehow chasing<n>the cops, the\ncops and robbers<n>tournament descends into\nmayhem<n>and is eventually called to a<n>temporary\nhalt."
         },
         {
             "name": "Twin Turbo",
@@ -218,15 +218,15 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "What?! I-it's o-over?! But I didn't<n>even get to\nrun!"
+            "text": "What?! I-it's o-over?! But I didn't<n>even get to run!"
         },
         {
             "name": "Twin Turbo",
-            "text": "<i>Sob...</i> Awww, this suuuucks! But<n>I'll totally\nwin next tiiiiime!"
+            "text": "<i>Sob...</i> Awww, this suuuucks! But<n>I'll totally win\nnext tiiiiime!"
         },
         {
             "name": "Monólogo",
-            "text": "Twin Turbo bawls her eyes out as<n>she swears\nan oath to the setting<n>sun..."
+            "text": "Twin Turbo bawls her eyes out as<n>she swears an\noath to the setting<n>sun..."
         },
         {
             "name": "Twin Turbo",
@@ -258,7 +258,7 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "Now <i>that's</i> what I'm talkin'<n>about!"
+            "text": "Now <i>that's</i> what I'm talkin' about!"
         },
         {
             "name": "Twin Turbo",

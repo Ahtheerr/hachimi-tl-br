@@ -1,0 +1,314 @@
+{
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "Certa noite, enquanto caminhávamos<n>pelo centro\ncomercial..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ué, eu me pergunto qual é o motivo<n>de todo esse\nalvoroço ali."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Aproximem-se e tentem a sorte na<n>nossa rifa de\nAno Novo! O grande<n>prêmio deste ano é uma\nviagem para<n>fontes termais para dois!",
+            "color_text_info_list": [
+                "viagem para fontes termais"
+            ]
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Os ganhadores do primeiro prêmio<n>levam um bife\nde hambúrguer de<n>cenoura de luxo! Os\nganhadores do<n>segundo prêmio levam um\nalqueire<n>de cenouras! E os ganhadores do\nterceiro prêmio podem levar para<n>casa uma única\ncenoura!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Não deixem essa oportunidade<n>passar! Comprem\num bilhete agora e<n>girem para ter a chance de\nganhar!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ooh, então eles tão fazendo um<n>sorteio. Parece\ndivertido!"
+        },
+        {
+            "name": "",
+            "text": "O cupom que eles estão oferecendo<n>como grande\nprêmio é para uma<n>famosa fonte termal,\nnotoriamente<n>difícil de reservar datas."
+        },
+        {
+            "name": "",
+            "text": "Seria ótimo se eu pudesse ganhar e<n>dar de\npresente para a Fuji Kiseki, já<n>que ela tem\ntrabalhado tão duro..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Quer tentar a sorte? Na verdade, eu<n>tenho um\nbilhete de rifa comigo."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Já que estamos aqui e tudo mais, vai<n>em frente e\ndá uma chance!",
+            "choice_data_list": [
+                "Ah!"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Quase pego o bilhete, mas me sinto<n>mal porque\nela conseguiu o bilhete<n>com as próprias compras.\nEu o<n>empurro de volta para ela.",
+            "choice_data_list": [
+                "Acho que você é quem deve tentar."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hmm, tem certeza? Eu não me<n>importo com\nnenhum dos dois, mas..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ei, por que não tentamos juntos?<n>Podemos juntar\na nossa sorte. O que<n>acha?"
+        },
+        {
+            "name": "",
+            "text": "Diante da sugestão dela, seguramos<n>a manivela\nda urna juntos e damos<n>um bom giro!"
+        },
+        {
+            "name": "",
+            "text": "Uma pequena bolinha de plástico cai<n>da abertura\nda urna..."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Céus! Temos um ganhador do grande<n>prêmio!\nVenham pegar o cupom da<n>sua viagem para\nfontes termais!<n>Parabéns!"
+        },
+        {
+            "name": "",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "N-nós tiramos o grande prêmio?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Não acredito! Eu não esperava<n>ganhar o grande\nprêmio de verdade."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "A nossa sorte combinada deve ser<n>muito boa\nmesmo. Hehe."
+        },
+        {
+            "name": "",
+            "text": "Quero muito que a Fuji Kiseki use o<n>cupom para si\nmesma, então eu o<n>estendo para ela."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Você quer que eu fique com ele? Tem<n>certeza\nabsoluta?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Tava pensando que você poderia<n>usar para tirar\numas férias e<n>recarregar as energias.",
+            "choice_data_list": [
+                "Use-o para levar uma boa amiga com você."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "...Certo. Ok. Obrigada."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Bem... Gostaria de ir comigo, então?",
+            "choice_data_list": [
+                "Eu?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Você me disse pra ir com um bom<n>amigo, certo?\nVocê se encaixa<n>perfeitamente nessa categoria,\nentão<n>vamos juntos!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Digo, só se você quiser. Não quero<n>forçar você a\nnada.",
+            "choice_data_list": [
+                "Eu adoraria."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ótimo! Então tá combinado."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Dito isso, nós dois estamos muito<n>ocupados\nagora. Vamos fazer os<n>planos para isso depois\nque as<n>coisas se acalmarem, tá bom?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Vou preparar o melhor roteiro pra<n>você, então\nespere por isso! ♪"
+        },
+        {
+            "name": "",
+            "text": "Foi assim que acabei prometendo à<n>Fuji Kiseki\nque iríamos viajar juntos."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Parece que temos mais um ganhador<n>do primeiro\nprêmio! Parabéns! Vocês<n>ganharam um bife de\nhambúrguer de<n>cenoura de luxo!"
+        },
+        {
+            "name": "",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Uau, primeiro prêmio! Fomos muito<n>bem."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Mas esse bife de hambúrguer é bem<n>grande...\nQuer dividir comigo?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Podemos saborear enquanto<n>assistimos a um\nbom DVD juntos.<n>Vai ser divertido, eu prometo."
+        },
+        {
+            "name": "",
+            "text": "Naquela noite, a Fuji Kiseki e eu<n>preparamos um\njantar maravilhoso<n>com o bife de hambúrguer de\ncenoura<n>de luxo."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "O legal dessa peça é como as falas<n>são\ndescontraídas, apesar de serem<n>um comentário\nsubliminar sobre os<n>problemas sociais de sua\népoca."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Existem muitas interpretações sobre<n>o significado\ndas cores das fitas da<n>protagonista, e..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah, desculpa! Olha eu falando sem<n>parar. O show\ntá prestes a começar."
+        },
+        {
+            "name": "",
+            "text": "Naquela noite, tenho um raro<n>vislumbre de um lado\naté então<n>desconhecido da Fuji Kiseki<n>enquanto\nela encara, cativada, o que<n>está na tela."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Temos um ganhador do segundo<n>prêmio! É o dia\nde sorte de vocês!<n>Vocês vão para casa com um\nalqueire<n>de cenouras!"
+        },
+        {
+            "name": "",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Segundo prêmio, hein? Nada mal!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Mas... não sei se vamos conseguir<n>acabar com\ntudo isso. Pode ser difícil<n>só pra nós dois.",
+            "choice_data_list": [
+                "Por que não compartilhamos elas com as\nmoradoras do seu dormitório?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Boa ideia. Não temos nada além de<n>comilonas no\nRitto, então tenho<n>certeza de que elas vão adorar."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Já sei! Eu devia cozinhar tudo isso<n>antes de servir\npra todo mundo.",
+            "choice_data_list": [
+                "Eu vou ajudar."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Sério? Obrigada! Eu agradeço."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "O que vamos preparar, então?<n>Ensopado? Bife?\nAh, bolo pode ser<n>uma boa."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe. Cozinhar juntos é bem<n>divertido."
+        },
+        {
+            "name": "",
+            "text": "Com nossos esforços conjuntos,<n>preparamos um\nadorável banquete<n>de cenoura."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Ora, ora! Vocês ganharam o terceiro<n>prêmio! Aqui\nestá a cenoura de<n>vocês!"
+        },
+        {
+            "name": "",
+            "text": "Você obteve: <itemname>",
+            "choice_data_list": [
+                "Uma única cenoura!"
+            ],
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Que pena! Mas não há motivo para<n>ficarmos\ndecepcionados ainda."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Vou jogar um pouco de mágica nesta<n>cenoura e te\ndar um bom show. Pode<n>esperar na sua sala por\ncerca de uma<n>hora, por favor?"
+        },
+        {
+            "name": "",
+            "text": "Faço o que ela pede e espero por ela<n>na minha\nsala."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Obrigada por ser tão paciente. Todos<n>os meus\npreparativos mágicos estão<n>concluídos."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Aham! Agora, contemplem!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Aí vem a transformação de cenoura<n>do século!\nEm três, dois, um!"
+        },
+        {
+            "name": "",
+            "text": "A Fuji Kiseki conjura do nada um<n>prato fofinho de\narroz com omelete de<n>cenoura!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe. Gostou? Coma enquanto ainda<n>tá quente."
+        },
+        {
+            "name": "",
+            "text": "O arroz com omelete de cenoura que<n>ela fez está\ntão delicioso que quase<n>consigo acreditar que foi\nrealmente<n>conjurado por mágica."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Oohh, que azar! Parece que vocês<n>tiraram um em\nbranco! Levem este<n>pacote de lenços de papel\ncomo<n>prêmio de consolação."
+        },
+        {
+            "name": "",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Que pena... Acho que não tivemos<n>muita sorte\nhoje."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Uma pena. Eu queria muito ver seu<n>rosto se\niluminar de alegria..."
+        },
+        {
+            "name": "",
+            "text": "Ambos ficamos desanimados com o<n>resultado."
+        }
+    ]
+}

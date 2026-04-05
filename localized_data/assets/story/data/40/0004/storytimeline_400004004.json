@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Desde que me sentei à minha mesa<n>para\nelaborar um novo regime de<n>treino para\n<chrname>, as últimas<n>horas voaram. Estou\nprestes a fazer<n>uma pausa quando..."
+            "text": "Desde que me sentei à minha mesa<n>para elaborar\num novo regime de<n>treino para\n<chrname>, as<n>últimas horas voaram.\nEstou prestes<n>a fazer uma pausa quando..."
         },
         {
             "name": "Monólogo",
@@ -17,7 +17,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "É Etsuko Otonashi, da <i>Twinkle<n>Monthly</i>.\nVocê estaria disponível<n>para conversar no\nmomento?",
+            "text": "É Etsuko Otonashi, da <i>Twinkle<n>Monthly</i>. Você\nestaria disponível<n>para conversar no momento?",
             "choice_data_list": [
                 "Pode entrar."
             ]
@@ -28,7 +28,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Oh, você está trabalhando? Desculpe\nincomodá-lo.",
+            "text": "Oh, você está trabalhando? Desculpe<n>incomodá-lo.",
             "choice_data_list": [
                 "Sim, eu estava apenas pensando em um novo\nregime de treino."
             ]
@@ -72,7 +72,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Com esta forma de correr, creio que<n>usar travas\ndo tipo aro externo<n>aliviará parte da carga sobre\na<n>corredora."
+            "text": "Com esta forma de correr, creio que<n>usar travas\ndo tipo aro externo<n>aliviará parte da carga sobre a\ncorredora."
         },
         {
             "name": "Repórter Otonashi",
@@ -102,7 +102,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Sinto-me honrada em ouvir isso...<n>Mas estou\nmuito feliz sendo repórter."
+            "text": "Sinto-me honrada em ouvir isso...<n>Mas estou muito\nfeliz sendo repórter."
         },
         {
             "name": "Repórter Otonashi",
@@ -113,7 +113,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Oh! Você não precisa discutir as<n>revistas,\nRepórter Otonashi?"
+            "text": "Oh! Você não precisa discutir as<n>revistas, Repórter\nOtonashi?"
         },
         {
             "name": "Repórter Otonashi",
@@ -123,7 +123,7 @@
             "name": "Repórter Otonashi",
             "text": "Gostaria que você desse uma olhada<n>nestas\nrevistas e me dissesse o que<n>acha dos anúncios\nda Twinkle Star<n>Climax!",
             "choice_data_list": [
-                "Ah, estava me perguntando o que havia na\nbolsa."
+                "Ah, estava me perguntando o que havia na bolsa."
             ]
         },
         {
@@ -150,7 +150,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "No entanto, ainda temos muita lenha<n>para\nqueimar. O dia da inauguração<n>da série ainda\nestá um pouco longe..."
+            "text": "No entanto, ainda temos muita lenha<n>para queimar.\nO dia da inauguração<n>da série ainda está um\npouco longe..."
         },
         {
             "name": "Repórter Otonashi",
@@ -161,10 +161,10 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Bem, afinal de contas, esta série vai<n>determinar\nquem é a maior! Quero<n>aprender com seu\nexemplo, Treinador<n><username>, e me dedicar\ntotalmente<n>a esta causa!",
+            "text": "Bem, afinal de contas, esta série vai<n>determinar\nquem é a maior! Quero<n>aprender com seu\nexemplo, Treinador<n><username>, e me dedicar totalmente a\nesta<n>causa!",
             "choice_data_list": [
-                "Então eu também estou me dedicando\ntotalmente a isso?",
-                "Então eu também estou me dedicando\ntotalmente a isso?"
+                "Então eu também estou me dedicando totalmente\na isso?",
+                "Então eu também estou me dedicando totalmente\na isso?"
             ]
         },
         {
@@ -206,19 +206,19 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Ora veja! Mas eu entendo como você<n>se sente.\nUm artigo tão pequeno<n>deixa um pouco a\ndesejar."
+            "text": "Ora veja! Mas eu entendo como você<n>se sente.\nUm artigo tão pequeno<n>deixa um pouco a desejar."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Edição Especial sobre <chrname>, a<n>Maior\nUmamusume! Hehe, anseio por<n>ler isso algum\ndia. ♪"
+            "text": "Edição Especial sobre<n><chrname>, a\nMaior<n>Umamusume! Hehe, anseio por ler<n>isso\nalgum dia. ♪"
         },
         {
             "name": "Monólogo",
-            "text": "Tenho certeza de que <chrname> sairá<n>desta\nsérie como algo mais do que<n>uma mera\ncandidata."
+            "text": "Tenho certeza de que<n><chrname> sairá\ndesta série<n>como algo mais do que uma mera\ncandidata."
         },
         {
             "name": "Monólogo",
-            "text": "Durante nossa sessão de treino mais<n>tarde\nnaquele dia, estou<n>transbordando com ainda\nmais<n>motivação do que o habitual!"
+            "text": "Durante nossa sessão de treino mais<n>tarde\nnaquele dia, estou<n>transbordando com ainda mais\nmotivação do que o habitual!"
         }
     ]
 }

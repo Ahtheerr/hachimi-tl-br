@@ -1,0 +1,185 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Após vir observar uma aula de dança,<n>eu acabei\nsendo arrastado para um<n>treino de dança em\ndupla com a Sirius<n>Symboli!"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Huh... Até que você ficou menos inútil<n>nisso. Mas\nainda gira parecendo um<n>filhote de cervo.",
+            "choice_data_list": [
+                "A-ah, saquei...",
+                "A-ah, saquei..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por mais dura que pareça sua crítica,<n>eu não tenho\num bom<n>contra-argumento para dar. Pensando\nbem, talvez o comentário dela tenha<n>sido até...\ngentil, de certa forma? De<n>repente..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Posso interromper?",
+            "choice_data_list": [
+                "Symboli Rudolf?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Gostaria de ter uma dança com você.<n>Apenas\numa. O que me diz?",
+            "choice_data_list": [
+                "Hã, mas..."
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "...Dá pra ver claramente que estamos<n>ocupados. O\nque você tá tramando?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Sem segundas intenções aqui. Eu<n>simplesmente\nfiquei com vontade de<n>dançar."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Ah, faça-me o favor! Tá querendo<n>enganar quem?\nOu acho que a<n>Imperatriz não tem nada melhor pra\nfazer, então."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Ei, <i>você!</i>",
+            "choice_data_list": [
+                "E-eu?!"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Me escolhe como sua parceira. Eu<n>guio.",
+            "choice_data_list": [
+                "U-uou?!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Agora, vamos começar? Minha mão<n>é sua para\npegar.",
+            "choice_data_list": [
+                "Hããã?!"
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hmm... Ah! Vamos com essa faixa!<n>Essa música é\npra que uma pessoa<n>possa alternar entre duas\nparceiras!<n>Eeee <i>play!</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A música começa. Ambas as<n>Umamusume guiam\nde forma tão<n>magnífica que as estudantes que\nassistem dão gritinhos de<n>empolgação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sirius Symboli guia de forma bem<n>assertiva, mas\neu nunca sinto que<n>estou ficando para trás."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Puxado para o seu ritmo, é como se<n>eu estivesse\ndançando com um<n>redemoinho de chamas."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "A sua parceira de dança tá <i>aqui.</i><n>Para de olhar\npros lados. Levanta<n>esse rosto."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Symboli Rudolf, por outro lado, alinha<n>seu ritmo ao\nmeu e se move com<n>uma elegância graciosa."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto a vontade de ser levado pelo<n>seu fluxo de\nserenidade — quero me<n>render à sua correnteza\nde rio."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Você está ficando ansioso com os<n>olhares do\npúblico ao nosso redor?<n>Ignore-os. Neste\nmomento, eu sou a<n>sua parceira. Sua atenção\ndeve estar<n>fixada em mim."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Então você também é molenga na<n>pista de dança?\nMe dá um tempo."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Tente ouvir a música com mais<n>atenção. A\nexpressão não vem<n>apenas da ferocidade."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Centelhas começam a voar entre as<n>minhas duas\nparceiras, mesmo que<n>os olhos delas continuem\nfixos em<n>mim. O clima entre elas pode ser<n>hostil,\nmas por toda a sala..."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Elas são incríveis. Eu também quero<n>dançar\nassim!"
+        },
+        {
+            "name": "Umamusume C",
+            "text": "Eu sou a próxima! Dancem comigo<n>agora! Por\nfavooor!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu me pego imerso na empolgação<n>contagiante da\nsala."
+        },
+        {
+            "name": "Observadores",
+            "text": "Isso foi divino!",
+            "choice_data_list": [
+                "V-vocês duas foram incríveis..."
+            ]
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Acho que tô apaixonada... Quero<n>dançar como\nelas. Será que eu<n>aprendo se continuar fazendo\nas<n>aulas?!"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Digo o mesmo! Digo o mesmo! Foi<n><i>tão</i> legal\ncomo ela guiou o treinador<n>com todos aqueles\nmovimentos<n>fluidos."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...Ah. Sim, era isso o tempo todo."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "(Um calor que nasce do atrito...)"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "(É claro. Embora a gente possa bater<n>de frente,\nisso não nos leva a uma<n>paralisação. Nós duas\nestamos<n>sempre nos empenhando em seguir<n>em\nfrente.)"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "(O calor que geramos atrai outras<n>pessoas, de tal\nforma que pode nos<n>empurrar muito além do\nápice.)"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "(Embora nossos caminhos possam<n>nunca se\ncruzar, e embora nossos<n>destinos sejam\ndiferentes, com essa<n>paixão...)"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "(Talvez nós possamos guiar a grande<n>maioria\nrumo a novas possibilidades.)"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Nós duas fomos incríveis? ...Parece<n>que ainda não\ncaiu a ficha, né? Vem<n>cá, que vou te mostrar o que\neu<n>posso fazer mais uma vez.",
+            "choice_data_list": [
+                "Ai."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Heh. De fato. Eu farei com que você<n>compreenda\ncompletamente este<n>calor que guia as massas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com as centelhas entre elas<n>iluminando a sala,\nSymboli Rudolf e<n>Sirius Symboli estão diante de\nmim.<n>Atrás, uma multidão de Umamusume<n>com\nolhares de inveja observa."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E então me dou conta de que estou<n>cercado por\ntodos os lados."
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Temos nos preparado com cuidado<n>para a Arima\nKinen, e o esforço da<n>Seiun Sky tem dado frutos.\nUm dia..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ei, tem problema se eu chegar tarde<n>pro treino de\nhoje?",
+            "choice_data_list": [
+                "Você vai pedir permissão pra matar o treino?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Tsc, não é como se eu fosse pular o<n>treino. Que\npiada de mau gosto.",
+            "choice_data_list": [
+                "Desculpa. Por que você vai se atrasar?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Na verdade... O vovô vem pro campus<n>hoje."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ele tava falando o quanto queria<n>muito vir visitar,\nmesmo que fosse só<n>um pouquinho, então..."
+        },
+        {
+            "name": "???",
+            "text": "SKY!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hã?! Quem é—"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Pera aí, vovô?! Por que você chegou<n>tão cedo?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O avô da Sky entra de supetão na<n>minha sala com\numa risada gostosa e<n>um monte de cestas nos\nbraços."
+        },
+        {
+            "name": "Avô da Sky",
+            "text": "Hah-hahaa! Eu sabia que você nunca<n>ia me\napresentar ao seu treinador se<n>não fosse assim!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Egh, cê me conhece bem demais!",
+            "choice_data_list": [
+                "Ahn..."
+            ]
+        },
+        {
+            "name": "Avô da Sky",
+            "text": "Prazer em te conhecer! Eu sou o avô<n>da Sky.\nObrigado por cuidar bem dela!"
+        },
+        {
+            "name": "Avô da Sky",
+            "text": "Hahaah! Gostei do seu olhar! A Sky<n>deve tá mais\nfeliz que pinto no lixo de<n>ter você cuidando dela.\nVem cá, você!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "V-Vovô! Pera aí—arf."
+        },
+        {
+            "name": "Avô da Sky",
+            "text": "Minha Skyzinha preciosa! A melhor<n>neta do\nmundo todinho, isso sim!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ele a puxa para um abraço e<n>imediatamente\ncomeça a bagunçar o<n>cabelo dela."
+        },
+        {
+            "name": "Avô da Sky",
+            "text": "A propósito, trouxe presentes!<n>Escolhi todos eu\nmesmo lá na<n>fazenda. Trouxe tudo o que cê mais\ngosta, Sky."
+        },
+        {
+            "name": "Avô da Sky",
+            "text": "Fico feliz que você tá bem! Continue<n>assim, tá\nouvindo?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...",
+            "choice_data_list": [
+                "Como um furacão humano.",
+                "Como um furacão humano."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Exatamente! Ele é uma nuvem de<n>tempestade\nambulante! É agitado, não<n>consegue ficar parado,\ne — pra<n>colocar a cereja no bolo — ele é\n<i>barulhento</i>."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "E não tem um pingo de compostura.<n>Por isso eu\nnão queria que vocês<n>dois se conhecessem...",
+            "choice_data_list": [
+                "Mas você ainda o ama.",
+                "Mas você ainda o ama."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hã?",
+            "choice_data_list": [
+                "Seu rabo tava abanando."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "C-chega de falar do vovô! Vamos<n>começar o\ntreino logo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mais tarde, recebemos mais visitas<n>durante a\nnossa pausa."
+        },
+        {
+            "name": "Special Week",
+            "text": "Oie, Sei!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Trouxemos algo pra você beber."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ei, vocês duas! Que gentileza!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Mas cês não tão ocupadas? Eu<n>achava que\nvocês estariam atoladas<n>de coisas com a Arima\nKinen<n>chegando."
+        },
+        {
+            "name": "Special Week",
+            "text": "Tudo bem! Na verdade, eu me sinto—"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Spe, não caia nas armadilhas de<n>sempre dela."
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Tsc, então cês não vão<n>desembuchar? Tanto faz,\nentão."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "...Eu suponho que você esteja em<n>perfeita forma?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Se eu dissesse que não tô, cês<n>dariam uma colher\nde chá pra mim?<n>Hihi!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "De jeito nenhum. Se fosse o caso, eu<n>ficaria feliz\nem triunfar sobre você."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Eita... Eu sabia que você não tinha<n>coração!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Mas eu acredito totalmente que você<n>tá fazendo\num bom trabalho, Sei!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Tenho certeza que cê vai dar tudo de<n>si na última\ngrande corrida do ano.<n>Por isso eu também tô\ndando um duro<n>danado!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Eu estarei esperando por você no<n>Hipódromo de\nNakayama."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Aquelas duas acham que eu sou<n>muita coisa.",
+            "choice_data_list": [
+                "Bom, você é bem interessante.",
+                "Bom, você é bem interessante."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hum... Por algum motivo, isso não soa<n>como algo\nbom."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Mas e aí, vamos voltar a treinar ou...<n>a gente podia\nacabar mais cedo e ir<n>comer alguma coisa?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com o incentivo tanto de suas rivais<n>quanto do\nseu avô, o dia de hoje é<n>como lenha na fogueira\nem nossa<n>preparação para a Arima Kinen."
+        }
+    ]
+}

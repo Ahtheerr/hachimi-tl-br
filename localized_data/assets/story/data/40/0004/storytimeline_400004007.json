@@ -6,21 +6,21 @@
         },
         {
             "name": "Monólogo",
-            "text": "Uma delas é Little Cocon. Sempre fria<n>e com um\nar de cinismo, ela tem uma<n>língua um tanto\nafiada.",
+            "text": "Uma delas é Little Cocon. Sempre fria<n>e com um ar\nde cinismo, ela tem uma<n>língua um tanto afiada.",
             "color_text_info_list": [
                 "Little Cocon"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "A outra é Bitter Glasse, uma<n>corredora altamente\ncompetitiva que<n>ostenta uma força sobrenatural\ne se<n>delicia com treinos pesados.",
+            "text": "A outra é Bitter Glasse, uma<n>corredora altamente\ncompetitiva que<n>ostenta uma força sobrenatural e\nse<n>delicia com treinos pesados.",
             "color_text_info_list": [
                 "Bitter Glasse"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Ambas estão sob a tutela da minha<n>colega, a\nTreinadora Kashimoto.<n>Nunca considerei\nnenhuma delas<n>como sendo do tipo sociável, no\nentanto...",
+            "text": "Ambas estão sob a tutela da minha<n>colega, a\nTreinadora Kashimoto.<n>Nunca considerei nenhuma\ndelas<n>como sendo do tipo sociável, no<n>entanto...",
             "choice_data_list": [
                 "Olá."
             ]
@@ -31,7 +31,7 @@
         },
         {
             "name": "Bitter Glasse",
-            "text": "Ora, se não é o Treinador <username>!<n>Que\ncoincidência!",
+            "text": "Ora, se não é o Treinador <username>! Que<n>coincidência!",
             "choice_data_list": [
                 "É raro ver vocês duas juntas nos seus dias de\nfolga.",
                 "É raro ver vocês duas juntas nos seus dias de\nfolga."
@@ -43,7 +43,7 @@
         },
         {
             "name": "Bitter Glasse",
-            "text": "Calma, Little Cocon... Viemos aqui<n>hoje para\ntrocar informações."
+            "text": "Calma, Little Cocon... Viemos aqui<n>hoje para trocar\ninformações."
         },
         {
             "name": "Monólogo",
@@ -59,18 +59,18 @@
         },
         {
             "name": "Little Cocon",
-            "text": "Mas ela está constantemente<n>olhando\navaliações de sapatos,<n>roupas de ginástica e\ncoisas do tipo<n>por nossa causa."
+            "text": "Mas ela está constantemente<n>olhando avaliações\nde sapatos,<n>roupas de ginástica e coisas do tipo\npor nossa causa."
         },
         {
             "name": "Bitter Glasse",
-            "text": "Então achamos que seria legal se<n>pudéssemos\nfacilitar um pouco as<n>coisas para ela. Afinal,\nnosso terceiro<n>ano está chegando!",
+            "text": "Então achamos que seria legal se<n>pudéssemos\nfacilitar um pouco as<n>coisas para ela. Afinal, nosso\nterceiro<n>ano está chegando!",
             "choice_data_list": [
                 "O terceiro ano de vocês..."
             ]
         },
         {
             "name": "Bitter Glasse",
-            "text": "Sim. Nosso terceiro ano na Twinkle<n>Series,\nembora eu tenha certeza de<n>que você está bem\nciente disso."
+            "text": "Sim. Nosso terceiro ano na Twinkle<n>Series, embora\neu tenha certeza de<n>que você está bem ciente\ndisso."
         },
         {
             "name": "Little Cocon",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Little Cocon",
-            "text": "E quanto a você? Tem mesmo tempo<n>para ficar\nde bobeira por aqui?",
+            "text": "E quanto a você? Tem mesmo tempo<n>para ficar de\nbobeira por aqui?",
             "choice_data_list": [
                 "Eu?",
                 "Eu?"
@@ -98,7 +98,7 @@
         },
         {
             "name": "Bitter Glasse",
-            "text": "Haha, bem, é isso! Diga um oi para a<n><chrname>\npor nós!",
+            "text": "Haha, bem, é isso! Diga um oi para a\n<chrname> por nós!",
             "choice_data_list": [
                 "Terceiro ano, hein..."
             ]
@@ -151,7 +151,7 @@
         },
         {
             "name": "Happy Meek",
-            "text": "Ela está trabalhando duro para refinar<n>meu\nregime de treino do terceiro ano..."
+            "text": "Ela está trabalhando duro para refinar<n>meu regime\nde treino do terceiro ano..."
         },
         {
             "name": "Happy Meek",
@@ -169,7 +169,7 @@
         },
         {
             "name": "Happy Meek",
-            "text": "Além disso... sua parceira estava<n>trabalhando\nduro também...",
+            "text": "Além disso... sua parceira estava<n>trabalhando duro\ntambém...",
             "choice_data_list": [
                 "Hã?"
             ]
@@ -187,11 +187,11 @@
         },
         {
             "name": "Happy Meek",
-            "text": "Além disso... sua parceira estava<n>trabalhando\nduro também..."
+            "text": "Além disso... sua parceira estava<n>trabalhando duro\ntambém..."
         },
         {
             "name": "Monólogo",
-            "text": "Será que a <chrname> também está<n>tentando\nbolar um plano para o seu<n>terceiro ano?"
+            "text": "Será que a <chrname><n>também está\ntentando bolar um plano<n>para o seu terceiro ano?"
         },
         {
             "name": "Monólogo",
@@ -206,7 +206,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Os eventos desta noite me ajudaram<n>a perceber\na força do meu vínculo<n>com a <chrname>!"
+            "text": "Os eventos desta noite me ajudaram<n>a perceber a\nforça do meu vínculo<n>com a <chrname>!"
         }
     ]
 }

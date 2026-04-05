@@ -6,7 +6,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Toda a multidão celebra o momento<n>em que a\n<chrname> é coroada a<n>maior Umamusume!"
+            "text": "Toda a multidão celebra o momento<n>em que a\n<chrname> é<n>coroada a maior\nUmamusume!"
         },
         {
             "name": "Repórter Otonashi",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Eu preciso ouvir seus pensamentos!<n>Como se\nsente ao ver sua parceira<n>coroada como a\nmaior?!",
+            "text": "Eu preciso ouvir seus pensamentos!<n>Como se\nsente ao ver sua parceira<n>coroada como a maior?!",
             "choice_data_list": [
                 "Mesmo que eu fosse o único espectador aqui...",
                 "Mesmo que eu fosse o único espectador aqui..."
@@ -44,7 +44,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Hã? C-Claro que penso. A Twinkle<n>Star Climax\nfoi um sucesso<n>gigantesco e—",
+            "text": "Hã? C-Claro que penso. A Twinkle<n>Star Climax foi\num sucesso<n>gigantesco e—",
             "choice_data_list": [
                 "Você acredita na Umamusume que é a maior no\nseu coração."
             ]
@@ -95,7 +95,7 @@
         },
         {
             "name": "Espectador A",
-            "text": "Já estou empolgado! Espero que a<n>minha\nfavorita corra no próximo<n>Climax!"
+            "text": "Já estou empolgado! Espero que a<n>minha favorita\ncorra no próximo<n>Climax!"
         },
         {
             "name": "Espectador A",
@@ -126,34 +126,22 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Agora, Treinador <username>! Por<n>favor, diga\nalgumas palavras para<n>todos!",
+            "text": "Agora, Treinador <username>! Por favor, diga<n>algumas\npalavras para todos!",
             "choice_data_list": [
                 "A <chrname> é a maior!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "E assim, tanto no nome quanto na<n>realidade, a\n<chrname> se torna a<n>maior Umamusume."
+            "text": "E assim, tanto no nome quanto na<n>realidade, a\n<chrname> se<n>torna a maior Umamusume."
         },
         {
             "name": "Monólogo",
-            "text": "A prova de sua força reluz<n>brilhantemente, agora\ne sempre."
+            "text": "A prova de sua força reluz<n>brilhantemente, agora e\nsempre."
         },
         {
             "name": "Monólogo",
-            "text": "No entanto, mesmo que não<n>houvesse troféu,\nnem espectadores<n>nas arquibancadas..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Eu jamais pararia de acreditar no<n>meu sonho —\njamais pararia de<n>acreditar que ela é a maior."
-        },
-        {
-            "name": "Monólogo",
-            "text": "A prova de sua força reluz<n>brilhantemente, agora\ne sempre."
-        },
-        {
-            "name": "Monólogo",
-            "text": "No entanto, mesmo que não<n>houvesse troféu,\nnem espectadores<n>nas arquibancadas..."
+            "text": "No entanto, mesmo que não<n>houvesse troféu, nem\nespectadores<n>nas arquibancadas..."
         },
         {
             "name": "Monólogo",
@@ -161,23 +149,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "A prova de sua força reluz<n>brilhantemente, agora\ne sempre."
+            "text": "A prova de sua força reluz<n>brilhantemente, agora e\nsempre."
         },
         {
             "name": "Monólogo",
-            "text": "No entanto, mesmo que não<n>houvesse troféu,\nnem espectadores<n>nas arquibancadas..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Eu jamais pararia de acreditar no<n>meu sonho —\njamais pararia de<n>acreditar que ela é a maior."
-        },
-        {
-            "name": "Monólogo",
-            "text": "A prova de sua força reluz<n>brilhantemente, agora\ne sempre."
-        },
-        {
-            "name": "Monólogo",
-            "text": "No entanto, mesmo que não<n>houvesse troféu,\nnem espectadores<n>nas arquibancadas..."
+            "text": "No entanto, mesmo que não<n>houvesse troféu, nem\nespectadores<n>nas arquibancadas..."
         },
         {
             "name": "Monólogo",
@@ -185,11 +161,35 @@
         },
         {
             "name": "Monólogo",
-            "text": "A prova de sua força reluz<n>brilhantemente, agora\ne sempre."
+            "text": "A prova de sua força reluz<n>brilhantemente, agora e\nsempre."
         },
         {
             "name": "Monólogo",
-            "text": "No entanto, mesmo que não<n>houvesse troféu,\nnem espectadores<n>nas arquibancadas..."
+            "text": "No entanto, mesmo que não<n>houvesse troféu, nem\nespectadores<n>nas arquibancadas..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu jamais pararia de acreditar no<n>meu sonho —\njamais pararia de<n>acreditar que ela é a maior."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A prova de sua força reluz<n>brilhantemente, agora e\nsempre."
+        },
+        {
+            "name": "Monólogo",
+            "text": "No entanto, mesmo que não<n>houvesse troféu, nem\nespectadores<n>nas arquibancadas..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu jamais pararia de acreditar no<n>meu sonho —\njamais pararia de<n>acreditar que ela é a maior."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A prova de sua força reluz<n>brilhantemente, agora e\nsempre."
+        },
+        {
+            "name": "Monólogo",
+            "text": "No entanto, mesmo que não<n>houvesse troféu, nem\nespectadores<n>nas arquibancadas..."
         },
         {
             "name": "Monólogo",

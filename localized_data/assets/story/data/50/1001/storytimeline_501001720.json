@@ -1,0 +1,566 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Um dia, levo <chrname> à<n>enfermaria para\num check-up."
+        },
+        {
+            "name": "???",
+            "text": "Oh! Uma client―quer dizer, uma aluna!<n>Olá!"
+        },
+        {
+            "name": "???",
+            "text": "Tá machucada? Doente?<n>Estressada? Seja lá o\nque for, eu<n>trato tudo!",
+            "choice_data_list": [
+                "Quem é você?!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Bom, considerando que estamos na<n>enfermaria da\nacademia, diria que<n>isso faz de mim a sua\nenfermeira<n>escolar de confiança! Isso, apenas\numa funcionária comum da escola!",
+            "choice_data_list": [
+                "...Não, você não é?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ahahaha! Pelo visto não dá pra te<n>enganar. Acho\nmelhor começar me<n>apresentando."
+        },
+        {
+            "name": "???",
+            "text": "Ahem! Permitam-me me apresentar!"
+        },
+        {
+            "name": "???",
+            "text": "Eu sou a (provável) salvadora de<n>todas as\nUmamusume, a<n>(autoproclamada) lendária\nacupunturista com o toque mágico..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "A única e inigualável Sasami<n>Anshinzawa! Viu?\nSem<n>preocupações! ☆",
+            "choice_data_list": [
+                "..."
+            ],
+            "color_text_info_list": [
+                "Sasami Anshinzawa"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nossa! Parece bem preocupada! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não importa! Não importa! Já nos<n>apresentamos,\nentão deite aí e deixe<n>essas agulhas fazerem o\ntrabalho!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Agulhas?! O-o que você vai fazer com<n>isso?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Hahaha! Não precisa ter medo! Tudo<n>que vou\nfazer é espetar essas<n>agulhas extraordinárias\nprecisamente<n>nos seus pontos de chakra."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Daí voilà, abracadabra! Algo<n>indescritível vai\nacontecer!",
+            "choice_data_list": [
+                "(Isso é indescritivelmente suspeito...)"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E pode ter certeza, não tem<n>absolutamente nada\nde suspeito<n>nisso! Nunca deu nada menos que\nperfeito!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "...Pro meu mestre.",
+            "choice_data_list": [
+                "Pro seu mestre?! E pra você?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Relaxa! Essa é a minha primeira vez,<n>então\ntecnicamente eu também nunca<n>errei com nenhum\npaciente!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E não é como se eu não tivesse<n>experiência\nnenhuma! Passei dez<n>anos sob um mestre\nlendário,<n>buscando beb―quer dizer, treinando!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Viu? Sem preocupações! ☆",
+            "choice_data_list": [
+                "(Precisamos sair daqui agora!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nem a pau que vamos fazer isso.<n>Pego\n<chrname> e vou em<n>direção à porta,\nquando..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E-espera! Aonde vocês vão?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Você é a Special Week, né?! A<n>Umamusume\nabençoada com duas<n>mães amorosas, se\nesforçando pra<n>se tornar a melhor Umamusume\nde<n>todo o Japão pelo bem delas!",
+            "choice_data_list": [
+                "Você já ouviu falar dela?"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Se eu já ouvi falar? Claro que sim!<n>Sou uma\ngrande fã!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "É justamente por isso que estou<n>aqui! Pra te\napoiar! Me deixa te<n>ajudar!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Me dá só uma chance! Por favoooor!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Aaah... O que você acha, Treinador?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Por favor! Por favorzinho com uma<n>cenoura em\ncima! Eu até deixo você<n>escolher qual chakra eu\nativo!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Tenho <i>certeza</i> de que não vou<n>errar!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom... quase certeza.",
+            "choice_data_list": [
+                "<i>Quase</i> certeza?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Quer dizer, tá mais pro lado da<n>certeza! Isso é\n<i>bom,</i> não é? Enfim,<n>não se prenda aos\ndetalhes!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Vamos ao que interessa! Qual chakra<n>devo ativar?\nQuer um boost nas<n>habilidades? Na saúde? Ou\nquem<n>sabe no <i>charme?</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto cheiro de perigo no ar, mas acho<n>que talvez\n— e friso o <i>talvez</i> —<n>possa sair algo especial\ndesse<n>tratamento."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O que devemos fazer?",
+            "choice_data_list": [
+                "Ativar o chakra da força.",
+                "Ativar o chakra da vitória.",
+                "Ativar o chakra da saúde.",
+                "Ativar o chakra do charme.",
+                "Isso é suspeito demais. Vamos cair fora enquanto\npodemos."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendi, entendi. Então quer que eu<n>ative o chakra\nda força?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Tá pronta?<n>Depois não\ntem volta!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espera, calma aí."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Beleza, deixa comigo! Hora de<n>localizar esse\nchakra! Saindo, saindo,<n>fura-bolinho!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, só relaaaxa... Viu? Sem<n>preocupações! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee espeta!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ui!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Espetada Perfeita!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Treinador!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Vamos voltar a treinar agora mesmo!<n>Tô\ncomeçando a sentir que com<n>certeza posso me\ntornar a melhor do<n>Japão!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arfando...</i> Tá brincando... Realmente<n>funcionou?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não acrediiito! Nem eu tô acreditando!<n>Sou uma\ngênia total!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<chrname> está<n>transbordando tanta\nforça que está<n>quase irreconhecível!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e deu certo! Isso é um<n>grande salto\nrumo ao nosso objetivo!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Treinadorrrr..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Urgh... Não sei por quê, mas sinto que<n>não consigo\nmais fazer nada direito..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O estado de <chrname> se<n>deteriora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, né..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, olha só a hora! Preciso ir!<n>Tchau! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia ter pensado melhor antes<n>de tentar a\nsorte. Quem está sofrendo<n>não sou eu, mas estou\ncheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendi, entendi. Então quer que eu<n>ative o chakra\nda vitória?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Tá pronta?<n>Depois não\ntem volta!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espera, calma aí."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Beleza, deixa comigo! Hora de<n>localizar esse\nchakra! Saindo, saindo,<n>fura-bolinho!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, só relaaaxa... Viu? Sem<n>preocupações! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee espeta!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ui!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Espetada Perfeita!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Treinador!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Vamos voltar a treinar agora mesmo!<n>Tô\ncomeçando a sentir que com<n>certeza posso me\ntornar a melhor do<n>Japão!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arfando...</i> Tá brincando... Realmente<n>funcionou?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não acrediiito! Nem eu tô acreditando!<n>Sou uma\ngênia total!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Dá pra sentir uma melhora enorme<n>nas\nhabilidades de<n><chrname>!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e deu certo! Isso é um<n>grande salto\nrumo ao nosso objetivo!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Treinadorrrr..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Urgh... Não sei por quê, mas sinto que<n>não consigo\nmais fazer nada direito..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O estado de <chrname> se<n>deteriora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, né..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, olha só a hora! Preciso ir!<n>Tchau! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia ter pensado melhor antes<n>de tentar a\nsorte. Quem está sofrendo<n>não sou eu, mas estou\ncheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendi, entendi. Então quer que eu<n>ative o chakra\nda saúde?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Tá pronta?<n>Depois não\ntem volta!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espera, calma aí."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Beleza, deixa comigo! Hora de<n>localizar esse\nchakra! Saindo, saindo,<n>fura-bolinho!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, só relaaaxa... Viu? Sem<n>preocupações! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee espeta!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ui!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Espetada Perfeita!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Treinador!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Vamos voltar a treinar agora mesmo!<n>Tô\ncomeçando a sentir que com<n>certeza posso me\ntornar a melhor do<n>Japão!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arfando...</i> Tá brincando... Realmente<n>funcionou?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não acrediiito! Nem eu tô acreditando!<n>Sou uma\ngênia total!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O corpo inteiro de <chrname><n>está\nirradiando um brilho saudável!<n>Ela é a\npersonificação da saúde<n>perfeita!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e deu certo! Isso é um<n>grande salto\nrumo ao nosso objetivo!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Treinadorrrr..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Urgh... Não sei por quê, mas sinto que<n>não consigo\nmais fazer nada direito..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O estado de <chrname> se<n>deteriora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, né..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, olha só a hora! Preciso ir!<n>Tchau! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia ter pensado melhor antes<n>de tentar a\nsorte. Quem está sofrendo<n>não sou eu, mas estou\ncheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendi, entendi. Então quer que eu<n>ative o chakra\ndo charme?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Tá pronta?<n>Depois não\ntem volta!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espera, calma aí."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Beleza, deixa comigo! Hora de<n>localizar esse\nchakra! Saindo, saindo,<n>fura-bolinho!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, só relaaaxa... Viu? Sem<n>preocupações! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee espeta!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ui!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Espetada Perfeita!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Treinador!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Vamos voltar a treinar agora mesmo!<n>Tô\ncomeçando a sentir que com<n>certeza posso me\ntornar a melhor do<n>Japão!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arfando...</i> Tá brincando... Realmente<n>funcionou?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não acrediiito! Nem eu tô acreditando!<n>Sou uma\ngênia total!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<chrname> está<n>transbordando charme!\nCom certeza<n>vai virar cabeças por onde passar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e deu certo! Isso é um<n>grande salto\nrumo ao nosso objetivo!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Treinadorrrr..."
+        },
+        {
+            "name": "Special Week",
+            "text": "Urgh... Não sei por quê, mas sinto que<n>não consigo\nmais fazer nada direito..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O estado de <chrname> se<n>deteriora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, né..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, olha só a hora! Preciso ir!<n>Tchau! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia ter pensado melhor antes<n>de tentar a\nsorte. Quem está sofrendo<n>não sou eu, mas estou\ncheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Ah, qual é! Não faz assim!",
+            "choice_data_list": [
+                "Recusar.",
+                "Reconsiderar."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> processados!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Argh! Fui descoberta!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, é hora de vazar! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Pare aí!"
+        },
+        {
+            "name": "Special Week",
+            "text": "...E ela sumiu."
+        },
+        {
+            "name": "Special Week",
+            "text": "Hm, acho que o melhor jeito de<n>melhorar é com\nesforço constante,<n>né?",
+            "choice_data_list": [
+                "Com certeza.",
+                "Com certeza."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Estou curioso sobre quem essa tal<n>Anshinzawa\nrealmente é, mas não<n>adianta ficar remoendo isso.\nMelhor<n>esquecer o dia de hoje e seguir em\nfrente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Mudou de ideia, foi? Sem<n>preocupações,\nacontece!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Vai em frente e me diz qual chakra<n>quer que eu\native então!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E aí?! Não nos deixe no suspense!<n>Espera... Há\nquanto tempo eu tô<n>aqui?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> processados!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Argh! Fui descoberta!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, é hora de vazar! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Pare bem aí!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A situação muda drasticamente antes<n>que eu\nconsiga tomar uma decisão."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O que foi aquilo? <chrname><n>e eu nos\nentreolhamos sem entender<n>nada."
+        }
+    ]
+}

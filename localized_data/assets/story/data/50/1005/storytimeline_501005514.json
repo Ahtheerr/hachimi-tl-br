@@ -1,0 +1,336 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certo dia, saio para comprar umas<n>revistas\nquando, por acaso, vejo a<n>Fuji Kiseki e a Zenno\nRob Roy juntas.",
+            "choice_data_list": [
+                "Bem, vocês não são uma dupla improvável.",
+                "Bem, vocês não são uma dupla improvável."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe. Eu sou a irmã da Rob Roy<n>hoje.",
+            "choice_data_list": [
+                "Como é que é?",
+                "Como é que é?"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ah, bem... Tudo começou quando eu<n>cheguei aqui..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ainda tô meio longe da livraria... Ah,<n>espero que\nainda tenham cópias<n>autografadas do livro que eu\nquero..."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Argh... Estar num lugar tão chique é<n>demais pra\nmim!"
+        },
+        {
+            "name": "Golpista A (Mulher)",
+            "text": "Olá, mocinha! Gostaria de um pote da<n>sorte?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "O quê?! V-você tá falando comigo?<n>Desculpa, eu...\nEu tenho um<n>compromisso..."
+        },
+        {
+            "name": "Golpista A (Mulher)",
+            "text": "Ah, não seja assim! ♪ Olha, a nossa<n>loja é logo ali\nna esquina!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Aí está você, Rob Roy! Desculpa a<n>demora."
+        },
+        {
+            "name": "Golpista A (Mulher)",
+            "text": "Ah, então você tava esperando a sua<n>irmã! Por\nque vocês duas não vêm<n>dar uma olhada nas\nnossas<n>mercadorias?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Desculpa, mas temos que deixar uma<n>coisa que\nencontramos na delegacia.<n>Nossa mãe trabalha lá,\nentão ela vai<n>saber o que fazer com isso."
+        },
+        {
+            "name": "Golpista A (Mulher)",
+            "text": "A mãe de vocês é policial?! ...Aham.<n>Digo, que\npena que vocês tão<n>ocupadas, mas que seja! ♪"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "M-muito obrigada por isso... Eu não<n>sabia como\nsair daquela situação<n>sozinha..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Não foi nada! Mas o que você tá<n>fazendo aqui,\nafinal? Tem algum livro<n>que você quer que não dê\npara<n>encontrar em nenhum outro lugar?"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "É exatamente isso! Uma loja aqui<n>perto tá\nvendendo cópias<n>autografadas do novo livro do\nmeu<n>escritor de mistério favorito!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hã. Bem, tudo bem se eu te<n>acompanhar?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Também tem um livro que eu quero<n>comprar. E,\nalém disso, eu tô muito<n>preocupada em deixar a\nminha<n>querida <i>irmãzinha</i> ir lá sozinha."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Então, eu serei a guarda-costas<n>pessoal da Rob\nRoy até chegarmos à<n>livraria.",
+            "choice_data_list": [
+                "Nesse caso, eu serei o <i>seu</i> guarda-costas!",
+                "Nesse caso, eu serei o <i>seu</i> guarda-costas!",
+                "Vocês duas parecem irmãs mesmo!",
+                "Vocês duas parecem irmãs mesmo!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Então, eu serei a guarda-costas<n>pessoal da Rob\nRoy até chegarmos à<n>livraria.",
+            "choice_data_list": [
+                "Nesse caso, eu serei o <i>seu</i> guarda-costas!",
+                "Nesse caso, eu serei o <i>seu</i> guarda-costas!",
+                "Vocês duas parecem irmãs mesmo!",
+                "Vocês duas parecem irmãs mesmo!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Você pode mesmo me proteger?",
+            "choice_data_list": [
+                "Eu sou mais velho que você, sabia!",
+                "Eu sou mais velho que você, sabia!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe. Isso faz de você o meu irmão<n>mais velho\nsuperprotetor, então?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe. Isso faz de você a minha irmã<n>mais velha\nsuperprotetora, então?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Que divertido! Parece que as compras<n>tão ficando\ncada vez mais<n>emocionantes!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Felizmente, a livraria ainda tem cópias\nautografadas do livro que a Zenno<n>Rob Roy quer.",
+            "choice_data_list": [
+                "Ué, cadê a Fuji?"
+            ]
+        },
+        {
+            "name": "Golpista B (Mulher)",
+            "text": "Como eu disse, se você estrear na<n>nossa\nagência, com certeza vai ficar<n>rica e famosa! Eu\ngaranto!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Obrigada pela oferta, mas não tenho<n>intenção de\nmudar de carreira.",
+            "choice_data_list": [
+                "O que você quer com a minha irmã?"
+            ]
+        },
+        {
+            "name": "Golpista B (Mulher)",
+            "text": "Nossa! Você é o irmão dela? Eu só<n>tava\noferecendo à sua irmã a chance<n>de fazer sucesso\nno mundo do<n>entretenimento!"
+        },
+        {
+            "name": "Golpista A (Mulher)",
+            "text": "Nossa! Você é a irmã dela? Eu só<n>tava oferecendo\nà sua irmã a chance<n>de fazer sucesso no mundo\ndo<n>entretenimento!"
+        },
+        {
+            "name": "Golpista B (Mulher)",
+            "text": "Ela disse que prefere continuar nas<n>corridas a se\ntornar uma artista, mas<n>você não acha que ela se\nsairia<n>melhor no show business?",
+            "choice_data_list": [
+                "Não, na verdade não, porque eu respeito as\nvontades da minha irmã."
+            ]
+        },
+        {
+            "name": "Golpista B (Mulher)",
+            "text": "Ela disse que prefere continuar nas<n>corridas a se\ntornar uma artista, mas<n>você não acha que ela se\nsairia<n>melhor no show business?",
+            "choice_data_list": [
+                "Não, na verdade não, porque eu respeito as\nvontades da minha irmã."
+            ]
+        },
+        {
+            "name": "Golpista B (Mulher)",
+            "text": "Mas qual é! Olha só pra ela! Fica<n>claro que ela é\nmais adequada para<n>uma vida cheia de brilho e\nglamour,<n>não de suor e terra!",
+            "choice_data_list": [
+                "Diga o que quiser, mas o sonho dela é correr."
+            ]
+        },
+        {
+            "name": "Golpista B (Mulher)",
+            "text": "Argh... Tá bom. Não diga que eu não<n>tentei te dar\numa chance."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Uau! Nem acredito que você foi<n>abordada por um\nolheiro assim, Fuji!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Esses olheiros de talentos<n>geralmente são\ngolpistas. Não são<n>nada com o que se deslumbrar."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Além disso... Obrigada por defender o<n>meu sonho.\nFico feliz em ter um irmão<n>mais velho que me\napoia tanto.",
+            "choice_data_list": [
+                "Não tem de quê!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Além disso... Obrigada por defender o<n>meu sonho.\nFico feliz em ter uma irmã<n>mais velha que me\napoia tanto.",
+            "choice_data_list": [
+                "Não tem de quê!"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Hehe. Fico tão feliz que os meus<n>irmãos mais\nvelhos sejam pessoas<n>tão maravilhosas."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Hehe. Fico tão feliz que as minhas<n>irmãs mais\nvelhas sejam pessoas<n>tão maravilhosas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Depois disso, damos uma<n>passadinha em um\ncafé para<n>descansar e, em seguida, voltamos\npara casa. Já está totalmente escuro<n>quando\nchegamos à academia."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Muito obrigada por tudo hoje!<n>Prometo retribuir a\nbondade de vocês!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "É melhor eu ir também. Foi divertido<n>ter você como\nmeu irmão mais velho<n>hoje.",
+            "choice_data_list": [
+                "Eu posso ser o seu irmão mais velho quando\nvocê quiser.",
+                "Eu posso ser a sua irmã mais velha quando você\nquiser."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "É melhor eu ir também. Foi divertido<n>ter você como\nminha irmã mais velha<n>hoje.",
+            "choice_data_list": [
+                "Eu posso ser o seu irmão mais velho quando\nvocê quiser.",
+                "Eu posso ser a sua irmã mais velha quando você\nquiser."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe, obrigada. Mas serei a <i>sua</i><n>guarda-costas\nda próxima vez."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Saber que você estava lá para me<n>proteger hoje\nme deixou feliz, mas<n>também quero mostrar o\nmeu lado<n>legal."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "E isso vale em dobro quando tô me<n>exibindo pro\nmeu irmão mais velho."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "E isso vale em dobro quando tô me<n>exibindo pra\nminha irmã mais velha."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela pisca para mim de um jeito<n>travesso e eu rio.\nO que quer que ela<n>deseje ou sonhe, estarei lá\npara<n>garantir que se torne realidade."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Digo a elas que a cor dos cabelos e<n>dos olhos\ndelas são tão parecidas<n>que tenho certeza de que\nninguém<n>estranharia se dissessem que são\nirmãs."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Mas a Fuji é tão maravilhosa, e eu<n>não sou nada\nparecida com ela... Eu<n>não poderia me passar por\nirmã<n>dela..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Mas por que não? Eu adoraria ter<n>uma irmã como\nvocê. Todo dia seria<n>tão divertido!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Nós poderíamos conversar sobre<n>peças de teatro\njuntas. Afinal, você<n>sempre tem a análise de\nhistória mais<n>interessante!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "M-muito obrigada. Eu também me<n>divirto muito\nquando a gente<n>conversa."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Fico honrada em ouvir isso. Agora<n>venha,\nirmãzinha! Partiu pra livraria! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Como eu também estava indo para a<n>livraria,\nfomos todos juntos."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Ah, que bom que eu finalmente<n>consegui uma\ncópia! Obrigada a<n>vocês dois!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Não foi nada. A propósito, vocês por<n>acaso estão\nlivres depois daqui?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Os cinemas tão exibindo uma<n>transmissão ao vivo\nda peça em que<n>a minha mãe tá atuando, e eu\ntava<n>pensando se vocês gostariam de<n>assistir\ncomigo.",
+            "choice_data_list": [
+                "Claro! Parece divertido!",
+                "Claro! Parece divertido!"
+            ]
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Eu adoraria ir também!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nós vamos para o cinema e curtimos<n>a peça\njuntos."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A mãe da Fuji Kiseki continua tão<n>popular como\nsempre. A performance<n>dela, como sempre, cativa\nos<n>corações de todos que assistem."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah... Isso foi incrível. Queria poder<n>rever a parte\nem que eles fizeram um<n>juramento juntos."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "Eu também! Fiquei tão comovida com<n>a cena em\nque deram a entender que<n>o lobo do rio era a\nreencarnação da<n>falecida mãe da protagonista!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Espera, se o lobo do rio era a mãe...<n>Hm, isso\nmudaria totalmente o<n>significado daquela cena de\nluta..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Fuji Kiseki fica radiante e animada<n>enquanto\nfala sobre a peça. Ela<n>parece tão feliz por ter\nencontrado<n>uma alma gêmea na Zenno Rob Roy."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "H-hum, o que foi? Tem alguma coisa<n>no meu\nrosto?",
+            "choice_data_list": [
+                "Não, desculpa. Eu só tava pensando no quão bem\nvocês duas se dão."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Eu sinto o mesmo. Se não se<n>importar, Rob Roy,\neu adoraria assistir<n>a outra peça com você algum\ndia e<n>conversar sobre ela depois."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "A-ah, se não achar que serei um<n>incômodo, eu\nficaria encantada em ir<n>com você!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Elas pareciam uma dupla estranha no<n>começo,\nmas depois de um dia<n>juntas, fica claro que são\nirmãs em<n>tudo, menos no sangue."
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "text_block_list": [
+        {
+            "name": "Locutor",
+            "text": "A Fugitiva de Outro Mundo faz de<n>novo! Silence\nSuzuka chega em<n>primeiro lugar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Uooooo!</i>"
+        },
+        {
+            "name": "Espectador A",
+            "text": "Uau! Olha essa velocidade!"
+        },
+        {
+            "name": "Espectador B",
+            "text": "Nossa... Ela parecia invencível!"
+        },
+        {
+            "name": "Espectador C",
+            "text": "Ela é a melhor corredora da geração<n>dela! Talvez\naté de toda a história das<n>corridas!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Haa... Haa...</i>",
+            "choice_data_list": [
+                "Suzuka!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Treinador... E-eu consegui! Assumi a<n>liderança!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Eu vi... Eu vi a paisagem da liderança<n>no Tenno\nSho de outono!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Eu conseguia ouvir os batimentos de<n>todo mundo\ne, então, fui deixando<n>todas para trás... E o que me\nesperava ali era..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "A paisagem mais serena e bonita que<n>já vi numa\ncorrida!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Estou tão feliz por ter corrido hoje!<n>Ainda bem\nque eu pude!",
+            "choice_data_list": [
+                "Bem-vinda de volta, Suzuka!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Obrigada... Eu sabia que conseguiria<n>voltar até\nvocê."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim termina o Tenno Sho de<n>outono. Os\naplausos do público<n>ecoam por um bom tempo."
+        }
+    ]
+}

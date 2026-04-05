@@ -1,0 +1,181 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certo dia, durante a temporada de<n>festas de fim\nde ano, estou em uma<n>reunião com Silence Suzuka\nquando<n>ela percebe a neve caindo lá fora."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Ah!</i> Está nevando!",
+            "choice_data_list": [
+                "Você gosta de neve?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Sim, ela me lembra de casa. Neva<n>muito por lá."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "E... eu adoro o jeito como ela abafa o<n>som.",
+            "choice_data_list": [
+                "Você quer ir lá fora?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. Como eu imaginava, o ar está<n>tão fresco.\nAhh, parece que estou em<n>casa."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Correr na neve é uma sensação tão<n>boa.",
+            "choice_data_list": [
+                "Você fazia isso bastante?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Sim. Sabe, na verdade foi por causa<n>da neve que\neu passei a amar tanto<n>correr.",
+            "choice_data_list": [
+                "(A neve fez ela gostar de correr?)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Peço que ela me conte mais."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Quando eu era criança, fiquei<n>encantada com a\ntranquilidade<n>daquele campo nevado e decidi\ntentar<n>correr por ele."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Depois de um tempo, tudo o que eu<n>ouvia era o\nsom do meu próprio<n>coração. Havia tanto silêncio,\ne tudo o<n>que eu via era branco. Fiquei de<n>repente\ntocada pela beleza de tudo<n>aquilo."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Senti como se tivesse o mundo inteiro<n>só para\nmim."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Acho que foi aí que me apaixonei<n>tanto pela\ncorrida."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Cada Umamusume tem seu próprio<n>motivo para\ncorrer, mas o de Silence<n>Suzuka parece\nespecialmente único."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seu desejo de contemplar aquela<n>paisagem é\ngenuíno.",
+            "choice_data_list": [
+                "Vamos alcançar esse mundo juntos e\npermanecer nele pelo tempo que você quiser."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Juntos..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. Sim, vamos!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Decidimos fazer uma caminhada na<n>neve."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vendo-a olhar fixamente para a neve,<n>pergunto no\nque ela está pensando."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Toda essa neve... combina<n>perfeitamente com as\nfestas de fim<n>de ano, não acha?",
+            "choice_data_list": [
+                "Agora que você falou!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela parece refletir sobre algo ao ouvir<n>minha\nresposta. De repente, ela<n>avança pela neve."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe, bom, é bem a cara da época."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela se agacha e começa a esculpir<n>um coelhinho\nde neve.",
+            "choice_data_list": [
+                "Que fofo!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Eu costumava fazer isso de vez em<n>quando."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Não é nada de especial, mas... por<n>favor, pense\nnisso como meu<n>presente para você."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Boas festas, Treinador."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Este dia especial com Silence Suzuka<n>acabou se\ntornando uma lembrança<n>que vou guardar por\nmuito tempo."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe.",
+            "choice_data_list": [
+                "Do que você está rindo?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Eu estava pensando que aquele toco<n>ali parece\num bolo de tronco.",
+            "choice_data_list": [
+                "Ei, é mesmo!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Chegou essa época do ano de novo,<n>não é? Eu\nnem tinha parado para<n>pensar nisso até agora."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hm... Que tal comermos um bolo para<n>comemorar?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Se você quiser, talvez possamos<n>fazer um bolo de\ntronco juntos.",
+            "choice_data_list": [
+                "Parece ótimo!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vamos até a loja comprar os<n>ingredientes do bolo\ne levamos tudo<n>de volta para o meu escritório."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "A cobertura parece madeira para<n>você?",
+            "choice_data_list": [
+                "Sim, você leva muito jeito pra isso!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Obrigada!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe, isso é morango demais."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Este dia especial com Silence Suzuka<n>acabou se\ntornando uma lembrança<n>que vou guardar por\nmuito tempo."
+        }
+    ]
+}

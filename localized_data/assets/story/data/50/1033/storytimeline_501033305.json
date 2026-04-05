@@ -61,7 +61,7 @@
         },
         {
             "name": "Narrador",
-            "text": "Admire Vega garante uma vitória<n>esplêndida na\nprimeira corrida da<n>Tríplice Coroa Clássica!\nVocês viram<n>aqui, nesta primavera em\nNakayama!<n>Vejam como ela brilha como uma\nestrela!"
+            "text": "Admire Vega garante uma vitória<n>esplêndida na\nprimeira corrida da<n>Tríplice Coroa Clássica! Vocês\nviram<n>aqui, nesta primavera em Nakayama!\nVejam como ela brilha como uma<n>estrela!"
         },
         {
             "name": "Monólogo",
@@ -145,7 +145,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Será que nossa próxima corrida será<n>ainda\nmelhor do que —",
+            "text": "Será que nossa próxima corrida será<n>ainda melhor\ndo que —",
             "choice_data_list": [
                 "...!"
             ]
@@ -179,7 +179,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "No meu caminho para casa um dia,<n>minha\natenção de repente se volta<n>para o céu.",
+            "text": "No meu caminho para casa um dia,<n>minha atenção\nde repente se volta<n>para o céu.",
             "choice_data_list": [
                 "O tempo tem estado bem sombrio ultimamente.",
                 "O tempo tem estado bem sombrio ultimamente."
@@ -195,7 +195,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Os dias nublados continuam enquanto\ncomeçamos a treinar para o<n>Japanese Derby."
+            "text": "Os dias nublados continuam enquanto<n>começamos\na treinar para o<n>Japanese Derby."
         }
     ]
 }

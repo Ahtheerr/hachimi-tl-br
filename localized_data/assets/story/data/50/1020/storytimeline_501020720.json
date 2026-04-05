@@ -1,0 +1,566 @@
+{
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "Um dia, eu levo a <chrname><n>até a\nenfermaria para um check-up."
+        },
+        {
+            "name": "???",
+            "text": "Ah! Um clien―quer dizer, um aluno!<n>Olá!"
+        },
+        {
+            "name": "???",
+            "text": "Está machucado? Doente?<n>Estressado? Seja o\nque for, eu trato<n>de tudo!",
+            "choice_data_list": [
+                "Quem é você?!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Bem, considerando que você está na<n>enfermaria\nda academia, eu diria que<n>isso me torna a sua\nconfiável<n>enfermeira da escola! Sim, apenas a\nsua funcionária escolar comum!",
+            "choice_data_list": [
+                "...Não, você não é?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ahaha! Acho que não tem como te<n>enganar.\nSuponho que deva começar<n>dizendo o meu nome."
+        },
+        {
+            "name": "???",
+            "text": "Ahem! Permita-me apresentar!"
+        },
+        {
+            "name": "???",
+            "text": "Eu sou a (provável) salvadora de<n>todas as\nUmamusumes, a<n>(autoproclamada) lendária\nacupunturista com um toque mágico..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "A única Sasami Anshinzawa! Viu só?<n>Tudo\ntranquilo! ☆",
+            "choice_data_list": [
+                "..."
+            ],
+            "color_text_info_list": [
+                "Sasami Anshinzawa"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Uou... É como se você nem tentasse<n>esconder o\nquão picareta você é. É,<n>acho que eu não quero\nnada com<n>você."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Poxa! Você parece bem preocupada!<n>☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não importa! Não importa! Já nos<n>apresentamos,\nentão deite-se e<n>deixe-me colocar essas agulhas\npara<n>trabalhar!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ah, eu não preciso levar picada não."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Hahaha! Não precisa ter medo! Tudo<n>que vou\nfazer é colocar essas<n>agulhas extraordinárias\nexatamente<n>em seus pontos de chakra."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E então voilà, pronto! Algo<n>indescritível vai\nacontecer!",
+            "choice_data_list": [
+                "(Isso é indescritivelmente suspeito...)"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E garanto a você que não há<n>absolutamente nada\nde suspeito<n>nisso! Sempre saiu tudo\nperfeitamente!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "...Pro meu mestre.",
+            "choice_data_list": [
+                "Pro seu mestre?! E pra você?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não se preocupe! Esta é a minha<n>primeira vez,\nentão, tecnicamente, eu<n>nunca falhei com um\npaciente<n>também!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E não é como se eu não tivesse<n>experiência!\nPassei dez anos sob a<n>tutela de um mestre\nlendário,<n>buscando bebi—quero dizer, treinando!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Viu? Tudo tranquilo! ☆",
+            "choice_data_list": [
+                "(Nós precisamos dar o fora daqui, imediatamente!)"
+            ]
+        },
+        {
+            "name": "",
+            "text": "De jeito nenhum que nós vamos<n>fazer isso. Pego\na <chrname><n>e vou para a porta, quando..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E-espera! Aonde vocês estão indo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Você é a Seiun Sky, não é? A calmaria<n>antes da\ntempestade que rouba<n>vitórias de forma chocante!",
+            "choice_data_list": [
+                "Você já ouviu falar dela?"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Se eu já ouvi falar dela? É claro que<n>sim! Sou uma\ngrande fã!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "É exatamente por isso que estou<n>aqui! Para lhe\ndar o meu apoio!<n>Deixe-me ajudá-la!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Me dá só uma chance! Pooooor<n>favorzinho!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Bom, nesse caso... Vou deixar meu<n>treinador levar\nas agulhadas no meu<n>lugar."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Por favor! Por favorzinho, com uma<n>cenoura no\ntopo! Eu até deixo você<n>escolher qual chakra eu\nativo!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eu tenho <i>certeza</i> de que não vou<n>estragar tudo!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem... quase certeza.",
+            "choice_data_list": [
+                "<i>Quase</i> certeza?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Tipo, até que é certeza! Isso é <i>bom,</i><n>certo?\nEnfim, não se apegue aos<n>detalhes!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Vamos para a parte boa! Qual chakra<n>devo ativar?\nQuer um impulso nas<n>suas habilidades? Na sua\nsaúde? Ou<n>talvez no seu <i>charme?</i>"
+        },
+        {
+            "name": "",
+            "text": "Sinto o cheiro do perigo no ar, mas<n>imagino que\ntalvez haja—e eu<n>enfatizo <i>talvez</i>—uma chance\nde<n>conseguirmos algo especial com<n>esse\ntratamento."
+        },
+        {
+            "name": "",
+            "text": "O que deveríamos fazer?",
+            "choice_data_list": [
+                "Ative o chakra da força.",
+                "Ative o chakra da vitória.",
+                "Ative o chakra da saúde.",
+                "Ative o chakra do charme.",
+                "Isso é muito suspeito. Vamos parar enquanto\nainda podemos."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendi, entendi. Então você quer que<n>eu ative o\nchakra da força?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Estão<n>prontos? Não tem\nmais volta depois!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Pera, aguenta aí."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Muito bem, deixa comigo! Hora de<n>localizar esse\nchakra! Pique-esconde,<n>cadê você!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, é só relaaaxar... Viu? Tudo<n>tranquilo! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eeeee picada!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Miauuuti!"
+        },
+        {
+            "name": "",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh... ooooh?! Pode ser que isso<n>tenha... dado certo\nmesmo?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Mhm, mhm, isso aqui é muito bom.<n>Meu corpo tá\nlevinho e minha cabeça<n>tá bem mais clara!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arf...</i> Você tá brincando... Funcionou<n>mesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não a-cre-di-to! Não dá pra acreditar!<n>Sou uma\ngênia total!"
+        },
+        {
+            "name": "",
+            "text": "A <chrname> está<n>transbordando de tanto\npoder que ela<n>está quase irreconhecível!"
+        },
+        {
+            "name": "",
+            "text": "Nós arriscamos e valeu a pena! Este<n>é um grande\nsalto rumo ao nosso<n>objetivo!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nnngh!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Eu tô me sentindo... molenga e...<n>flutuante..."
+        },
+        {
+            "name": "",
+            "text": "A condição da <chrname> se<n>deteriora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, imagino..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nossa, olha a hora! Eu tenho que ir!<n>Tchauzinho! ☆"
+        },
+        {
+            "name": "",
+            "text": "Eu deveria saber que não podíamos<n>testar nossa\nsorte. Não sou eu quem<n>está sofrendo, mas me\nsinto cheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendi, entendi. Então, você quer<n>que eu ative o\nchakra da vitória?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Estão<n>prontos? Não tem\nmais volta depois!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Pera, aguenta aí."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Muito bem, deixa comigo! Hora de<n>localizar esse\nchakra! Pique-esconde,<n>cadê você!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, é só relaaaxar... Viu? Tudo<n>tranquilo! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eeeee picada!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Miauuuti!"
+        },
+        {
+            "name": "",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh... ooooh?! Pode ser que isso<n>tenha... dado certo\nmesmo?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Mhm, mhm, isso aqui é muito bom.<n>Meu corpo tá\nlevinho e minha cabeça<n>tá bem mais clara!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arf...</i> Você tá brincando... Funcionou<n>mesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não a-cre-di-to! Não dá pra acreditar!<n>Sou uma\ngênia total!"
+        },
+        {
+            "name": "",
+            "text": "Eu consigo sentir uma imensa<n>melhoria nas\nhabilidades da<n><chrname>!"
+        },
+        {
+            "name": "",
+            "text": "Nós arriscamos e valeu a pena! Este<n>é um grande\nsalto rumo ao nosso<n>objetivo!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nnngh!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Eu tô me sentindo... molenga e...<n>flutuante..."
+        },
+        {
+            "name": "",
+            "text": "A condição da <chrname> se<n>deteriora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, imagino..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nossa, olha a hora! Eu tenho que ir!<n>Tchauzinho! ☆"
+        },
+        {
+            "name": "",
+            "text": "Eu deveria saber que não podíamos<n>testar nossa\nsorte. Não sou eu quem<n>está sofrendo, mas me\nsinto cheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendi, entendi. Então, você quer<n>que eu ative o\nchakra da saúde?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Estão<n>prontos? Não tem\nmais volta depois!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Pera, aguenta aí."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Muito bem, deixa comigo! Hora de<n>localizar esse\nchakra! Pique-esconde,<n>cadê você!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, é só relaaaxar... Viu? Tudo<n>tranquilo! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eeeee picada!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Miauuuti!"
+        },
+        {
+            "name": "",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh... ooooh?! Pode ser que isso<n>tenha... dado certo\nmesmo?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Mhm, mhm, isso aqui é muito bom.<n>Meu corpo tá\nlevinho e minha cabeça<n>tá bem mais clara!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arf...</i> Você tá brincando... Funcionou<n>mesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não a-cre-di-to! Não dá pra acreditar!<n>Sou uma\ngênia total!"
+        },
+        {
+            "name": "",
+            "text": "O corpo inteiro da <chrname><n>está\nirradiando um brilho saudável!<n>Ela é a imagem\nabsoluta da saúde!"
+        },
+        {
+            "name": "",
+            "text": "Nós arriscamos e valeu a pena! Este<n>é um grande\nsalto rumo ao nosso<n>objetivo!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nnngh!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Eu tô me sentindo... molenga e...<n>flutuante..."
+        },
+        {
+            "name": "",
+            "text": "A condição da <chrname> se<n>deteriora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, imagino..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nossa, olha a hora! Eu tenho que ir!<n>Tchauzinho! ☆"
+        },
+        {
+            "name": "",
+            "text": "Eu deveria saber que não podíamos<n>testar nossa\nsorte. Não sou eu quem<n>está sofrendo, mas me\nsinto cheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendi, entendi. Então, você quer<n>que eu ative o\nchakra do charme?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Estão<n>prontos? Não tem\nmais volta depois!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Pera, aguenta aí."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Muito bem, deixa comigo! Hora de<n>localizar esse\nchakra! Pique-esconde,<n>cadê você!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, é só relaaaxar... Viu? Tudo<n>tranquilo! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eeeee picada!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Miauuuti!"
+        },
+        {
+            "name": "",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Oh... ooooh?! Pode ser que isso<n>tenha... dado certo\nmesmo?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Mhm, mhm, isso aqui é muito bom.<n>Meu corpo tá\nlevinho e minha cabeça<n>tá bem mais clara!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arf...</i> Você tá brincando... Funcionou<n>mesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não a-cre-di-to! Não dá pra acreditar!<n>Sou uma\ngênia total!"
+        },
+        {
+            "name": "",
+            "text": "A <chrname> está<n>transbordando charme!\nCom certeza<n>ela vai atrair os olhares de todos\naonde quer que vá!"
+        },
+        {
+            "name": "",
+            "text": "Nós arriscamos e valeu a pena! Este<n>é um grande\nsalto rumo ao nosso<n>objetivo!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Nnngh!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Eu tô me sentindo... molenga e...<n>flutuante..."
+        },
+        {
+            "name": "",
+            "text": "A condição da <chrname> se<n>deteriora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, imagino..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nossa, olha a hora! Eu tenho que ir!<n>Tchauzinho! ☆"
+        },
+        {
+            "name": "",
+            "text": "Eu deveria saber que não podíamos<n>testar nossa\nsorte. Não sou eu quem<n>está sofrendo, mas me\nsinto cheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Ah, qual é! Não seja assim!",
+            "choice_data_list": [
+                "Recusar.",
+                "Reconsiderar."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> processados!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! Me descobriram!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eita, tô vazando! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Pare bem aí!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Eu sabia que ela não tava armando<n>boa coisa.\nRejeitar ela foi a escolha<n>certa."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Além do mais, acho que uma<n>abordagem mais de\nboa combina<n>mais comigo.",
+            "choice_data_list": [
+                "Concordo.",
+                "Concordo."
+            ]
+        },
+        {
+            "name": "",
+            "text": "Fico curioso para saber quem<n>realmente é essa\npersonagem<n>Anshinzawa, mas não adianta ficar\nremoendo isso. É melhor esquecer o<n>dia de hoje e\nseguir em frente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Mudou de ideia, foi? Fica tranquilo,<n>acontece!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vá em frente e me diga qual<n>chakra quer\nque eu ative!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E então?! Não nos deixe nesse<n>suspense! Espera\naí um<n>segundinho... Há quanto tempo eu tô<n>aqui?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> processados!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! Me descobriram!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eita, tô vazando! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Pare bem aí!"
+        },
+        {
+            "name": "",
+            "text": "A situação toma um rumo brusco<n>antes que eu\nconsiga tomar uma<n>decisão."
+        },
+        {
+            "name": "",
+            "text": "O que foi que acabou de acontecer?\n<chrname> e eu nos<n>entreolhamos,\nperplexos."
+        }
+    ]
+}

@@ -10,7 +10,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "E, no entanto, estou insatisfeito com<n>este estilo\nde vida. Não há nada que<n>possa me ajudar a me\nlibertar desta<n>monotonia melancólica?"
+            "text": "E, no entanto, estou insatisfeito com<n>este estilo de\nvida. Não há nada que<n>possa me ajudar a me\nlibertar desta<n>monotonia melancólica?"
         },
         {
             "name": "???",
@@ -42,7 +42,7 @@
         },
         {
             "name": "???",
-            "text": "Permita-me me apresentar. <i>Eu</i><n>sou a única e\ninigualável..."
+            "text": "Permita-me me apresentar. <i>Eu</i> sou<n>a única e\ninigualável..."
         },
         {
             "name": "Cinderela",
@@ -88,11 +88,11 @@
         },
         {
             "name": "???",
-            "text": "<i>Arf...</i> Ufa... E-espera um<n>segundo... Preciso\nde água... Nós<n>tivemos que correr todo esse\ncaminho também, sabe?"
+            "text": "<i>Arf...</i> Ufa... E-espera um segundo...<n>Preciso de\nágua... Nós tivemos que<n>correr todo esse caminho\ntambém,<n>sabe?"
         },
         {
             "name": "???",
-            "text": "<i>Glub, glub...</i> Ahhh! Certo!<n>Prepare-se para\nficar boquiaberta,<n>Cinderela! Pois eu sou..."
+            "text": "<i>Glub, glub...</i> Ahhh! Certo!<n>Prepare-se para ficar\nboquiaberta,<n>Cinderela! Pois eu sou..."
         },
         {
             "name": "A Feiticeira",
@@ -107,18 +107,18 @@
         },
         {
             "name": "???",
-            "text": "Isso... não é tudo! <i>Ofego... Arf...</i><n>Tem a mim —\n<i>ofego</i> — e..."
+            "text": "Isso... não é tudo! <i>Ofego... Arf...</i> Tem<n>a mim —\n<i>ofego</i> — e..."
         },
         {
             "name": "Vodka, a Fada",
-            "text": "A m-mim, as fadas da... <i>ofego,<n>ofego...</i>\nfeiticeira! <i>Arf...</i> Ufa!",
+            "text": "A m-mim, as fadas da... <i>ofego,<n>ofego...</i> feiticeira!\n<i>Arf...</i> Ufa!",
             "choice_data_list": [
                 "Fadas?!"
             ]
         },
         {
             "name": "A Feiticeira",
-            "text": "Cinderela! Você veio todo esse<n>caminho\nsozinha? E logo quando eu<n>estava prestes a\najudá-la com minha<n>magia maravilhosa!"
+            "text": "Cinderela! Você veio todo esse<n>caminho sozinha?\nE logo quando eu<n>estava prestes a ajudá-la com\nminha<n>magia maravilhosa!"
         },
         {
             "name": "A Feiticeira",
@@ -152,14 +152,14 @@
             "name": "Cinderela",
             "text": "O que você acha, meu príncipe? Um<n>vestido lindo\nou sapatinhos de cristal,<n>qual eu devo escolher?",
             "choice_data_list": [
-                "Eu acho que você está perfeita do jeito que\nestá.",
-                "Eu acho que você está perfeita do jeito que\nestá.",
+                "Eu acho que você está perfeita do jeito que está.",
+                "Eu acho que você está perfeita do jeito que está.",
                 "Você deveria acentuar seus pontos fortes!"
             ]
         },
         {
             "name": "A Feiticeira",
-            "text": "Hããã?! Quer dizer que você não quer<n>nenhum\ndos dois?!"
+            "text": "Hããã?! Quer dizer que você não quer<n>nenhum dos\ndois?!"
         },
         {
             "name": "Monólogo",
@@ -191,7 +191,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Ela correu cem quilômetros por<n>terrenos\nperigosos. Esse tipo de<n>habilidade física\npoderosa é notável.<n>Ela tem um potencial\nilimitado!",
+            "text": "Ela correu cem quilômetros por<n>terrenos\nperigosos. Esse tipo de<n>habilidade física poderosa\né notável.<n>Ela tem um potencial ilimitado!",
             "choice_data_list": [
                 "Junte-se a mim e siga uma carreira como atleta!",
                 "Junte-se a mim e siga uma carreira como atleta!"

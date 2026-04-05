@@ -14,7 +14,7 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "<i>Suspiro...</i> Falhei de novo. Eu<n>estava tão\nperto de conseguir aquele<n>óleo aromático\ntambém...",
+            "text": "<i>Suspiro...</i> Falhei de novo. Eu estava<n>tão perto de\nconseguir aquele óleo<n>aromático também...",
             "choice_data_list": [
                 "Você está bem?"
             ]
@@ -43,7 +43,7 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "Parece que não vou conseguir<n>comprar um\npresente para ela no final<n>das contas...\n<i>Suspiro...</i>",
+            "text": "Parece que não vou conseguir<n>comprar um\npresente para ela no final<n>das contas... <i>Suspiro...</i>",
             "choice_data_list": [
                 "Por que não compra outra coisa?",
                 "Crie coragem e abra caminho!"
@@ -51,7 +51,7 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "A verdade é que uma parente minha<n>tem estado\nmuito exausta<n>ultimamente. Achei que dar um\nóleo<n>aromático para ela seria um bom<n>incentivo."
+            "text": "A verdade é que uma parente minha<n>tem estado\nmuito exausta<n>ultimamente. Achei que dar um óleo\naromático para ela seria um bom<n>incentivo."
         },
         {
             "name": "Mejiro Dober",
@@ -59,7 +59,7 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "Mas eu preciso voltar logo... O que eu<n>devo\nfazer...",
+            "text": "Mas eu preciso voltar logo... O que eu<n>devo fazer...",
             "choice_data_list": [
                 "Por que não compra outra coisa?",
                 "Crie coragem e abra caminho!"
@@ -79,15 +79,15 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "Hmph. Não é como se eu estivesse<n>seguindo\nseu conselho. Eu só lembrei<n>disso sobre ela por\nacaso... Adeus."
+            "text": "Hmph. Não é como se eu estivesse<n>seguindo seu\nconselho. Eu só lembrei<n>disso sobre ela por\nacaso... Adeus."
         },
         {
             "name": "Mejiro Dober",
-            "text": "O que a animaria... Ela pareceu amar<n>o Mont\nBlanc que eu fiz para ela da<n>última vez."
+            "text": "O que a animaria... Ela pareceu amar<n>o Mont Blanc\nque eu fiz para ela da<n>última vez."
         },
         {
             "name": "Mejiro Dober",
-            "text": "Isso pode funcionar! É importante<n>tentar mudar\nde perspectiva em<n>momentos como este."
+            "text": "Isso pode funcionar! É importante<n>tentar mudar de\nperspectiva em<n>momentos como este."
         },
         {
             "name": "Mejiro Dober",
@@ -95,11 +95,11 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "O que você está tentando dizer? Que<n>eu não\nestou levando isso a sério o<n>suficiente?"
+            "text": "O que você está tentando dizer? Que<n>eu não estou\nlevando isso a sério o<n>suficiente?"
         },
         {
             "name": "Mejiro Dober",
-            "text": "Abrir caminho? Será que isso vai dar<n>certo? Eu\nmal conseguia dar um<n>passo do jeito que\nestava."
+            "text": "Abrir caminho? Será que isso vai dar<n>certo? Eu\nmal conseguia dar um<n>passo do jeito que estava."
         },
         {
             "name": "Mejiro Dober",
@@ -119,7 +119,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mejiro Dober emerge triunfante com<n>o óleo\naromático na mão. Eu a ouço<n>murmurar:\n\"Espero que a McQueen<n>goste disso,\" antes de\nsair<n>apressada."
+            "text": "Mejiro Dober emerge triunfante com<n>o óleo\naromático na mão. Eu a ouço<n>murmurar: \"Espero\nque a McQueen<n>goste disso,\" antes de sair\napressada."
         }
     ]
 }

@@ -2,14 +2,14 @@
     "text_block_list": [
         {
             "name": "Haru Urara",
-            "text": "Ei, Treinador! Vamos brincar de \"\"mau\npresságio\"\" hoje!",
+            "text": "Ei, Treinador! Vamos brincar de \"\"mau<n>presságio\"\"\nhoje!",
             "choice_data_list": [
                 "O que é isso?"
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "A Fuku tava falando alguma coisa<n>sobre isso\nquando eu tava perto dos<n>armários de sapato!\n\"Sinais de mau<n>presságio! Façam uma visita a\num<n>santuário!\""
+            "text": "A Fuku tava falando alguma coisa<n>sobre isso\nquando eu tava perto dos<n>armários de sapato!\n\"Sinais de mau<n>presságio! Façam uma visita a um\nsantuário!\""
         },
         {
             "name": "Haru Urara",
@@ -25,7 +25,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Rice! É você! Qual é o problema? Você<n>tá\nencolhida assim porque tá olhando<n>pra umas\nformigas?"
+            "text": "Rice! É você! Qual é o problema? Você<n>tá encolhida\nassim porque tá olhando<n>pra umas formigas?"
         },
         {
             "name": "Rice Shower",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Dá azar ficar perto de mim, então eu<n>achei que\neu devia ficar agachada<n>assim..."
+            "text": "Dá azar ficar perto de mim, então eu<n>achei que eu\ndevia ficar agachada<n>assim..."
         },
         {
             "name": "Rice Shower",
@@ -100,7 +100,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Hã? Eu não sei por que, mas tudo<n>bem... De\nnada!"
+            "text": "Hã? Eu não sei por que, mas tudo<n>bem... De nada!"
         },
         {
             "name": "Monólogo",
@@ -120,7 +120,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Ah! O botão do meu sapato soltou e<n>saiu voando!\nIsso é <i>tão</i><n>engraçado! ♪"
+            "text": "Ah! O botão do meu sapato soltou e<n>saiu voando!\nIsso é <i>tão</i> engraçado!<n>♪"
         },
         {
             "name": "Rice Shower",

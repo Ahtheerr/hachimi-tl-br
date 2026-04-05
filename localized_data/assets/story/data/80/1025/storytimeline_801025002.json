@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Enquanto caminho pela academia à<n>noite, noto\num aroma fragrante vindo<n>em minha direção."
+            "text": "Enquanto caminho pela academia à<n>noite, noto um\naroma fragrante vindo<n>em minha direção."
         },
         {
             "name": "Manhattan Cafe",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "...Eu sei. Só estou terminando minha<n>bebida\nantes de voltar.",
+            "text": "...Eu sei. Só estou terminando minha<n>bebida antes\nde voltar.",
             "choice_data_list": [
                 "Estava tentando relaxar?",
                 "Estava tentando relaxar?",
@@ -28,7 +28,7 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "...Eu sei. Só estou terminando minha<n>bebida\nantes de voltar.",
+            "text": "...Eu sei. Só estou terminando minha<n>bebida antes\nde voltar.",
             "choice_data_list": [
                 "Estava tentando relaxar?",
                 "Estava tentando relaxar?",
@@ -52,8 +52,8 @@
             "name": "Manhattan Cafe",
             "text": "E eu realmente senti vontade de<n>apreciar seu\naroma hoje.",
             "choice_data_list": [
-                "Não é difícil dormir depois de beber café tão\ntarde?",
-                "Não é difícil dormir depois de beber café tão\ntarde?"
+                "Não é difícil dormir depois de beber café tão tarde?",
+                "Não é difícil dormir depois de beber café tão tarde?"
             ]
         },
         {
@@ -90,7 +90,7 @@
         },
         {
             "name": "Manhattan Cafe",
-            "text": "E é mais fácil tanto pensar... quanto<n>não pensar\nno escuro."
+            "text": "E é mais fácil tanto pensar... quanto<n>não pensar no\nescuro."
         },
         {
             "name": "Manhattan Cafe",

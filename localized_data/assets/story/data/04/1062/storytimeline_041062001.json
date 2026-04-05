@@ -87,7 +87,7 @@
         },
         {
             "name": "Estudante A",
-            "text": "<i>Arf... arf...</i> Ela vai <i>mesmo</i><n>fazer outra? Fala sério!"
+            "text": "<i>Arf... arf...</i> Ela vai <i>mesmo</i> fazer<n>outra? Fala sério!"
         },
         {
             "name": "Matikanetannhauser",
@@ -133,7 +133,7 @@
             "name": "Monólogo",
             "text": "O regime de Mihono Bourbon é<n>conhecido em toda a academia por<n>ser especialmente rigoroso. A maioria<n>das estudantes desiste após uma<n>corrida na rampa.",
             "choice_data_list": [
-                "(Ela realmente tem o que é preciso. Só precisa\nde um pouco mais de polimento...)"
+                "(Ela realmente tem o que é preciso. Só precisa de\num pouco mais de polimento...)"
             ]
         },
         {
@@ -150,7 +150,7 @@
         },
         {
             "name": "Matikanetannhauser",
-            "text": "Logo atrás, logo atrás, fica <i>logo...<n>atrás...</i> Haaa, cheguei<n><i>totalmente</i> no meu limite!"
+            "text": "Logo atrás, logo atrás, fica <i>logo...<n>atrás...</i> Haaa, cheguei <i>totalmente</i><n>no meu limite!"
         },
         {
             "name": "Matikanetannhauser",

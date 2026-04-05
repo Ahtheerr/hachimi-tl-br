@@ -6,7 +6,7 @@
         },
         {
             "name": "El Condor Pasa",
-            "text": "<i>Arf... arf...</i> Eu ainda não terminei!<n>Lá vou eu!"
+            "text": "<i>Arf... arf...</i> Eu ainda não terminei! Lá<n>vou eu!"
         },
         {
             "name": "Grass Wonder",
@@ -50,7 +50,7 @@
         },
         {
             "name": "El Condor Pasa",
-            "text": "<i>Suspiro.</i> Quer saber? Tá, que<n>seja do seu jeito! Chega de corrida<n>em dupla por hoje."
+            "text": "<i>Suspiro.</i> Quer saber? Tá, que seja<n>do seu jeito! Chega de corrida em<n>dupla por hoje."
         },
         {
             "name": "El Condor Pasa",
@@ -119,8 +119,8 @@
             "name": "Special Week",
             "text": "Hã? Como você sabe disso?",
             "choice_data_list": [
-                "Desculpe, eu meio que ouvi a conversa de\nvocês.",
-                "Desculpe, eu meio que ouvi a conversa de\nvocês."
+                "Desculpe, eu meio que ouvi a conversa de vocês.",
+                "Desculpe, eu meio que ouvi a conversa de vocês."
             ]
         },
         {

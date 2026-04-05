@@ -58,7 +58,7 @@
         },
         {
             "name": "Tokai Teio",
-            "text": "<i>Arf, arf...</i> Certo, hora de mostrar<n>do que eu sou capaz!"
+            "text": "<i>Arf, arf...</i> Certo, hora de mostrar do<n>que eu sou capaz!"
         },
         {
             "name": "Monólogo",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Tokai Teio",
-            "text": "<i>Arf, arf...</i> Nnngh, a última reta!<n>Não, eu ainda não acabei!"
+            "text": "<i>Arf, arf...</i> Nnngh, a última reta! Não,<n>eu ainda não acabei!"
         },
         {
             "name": "Symboli Rudolf",
@@ -175,8 +175,8 @@
             "name": "Tokai Teio",
             "text": "Hunf! Isso não é nada, confia em<n>mim. Eu preciso voltar a correr, então<n>me deixa em paz!",
             "choice_data_list": [
-                "Você não pode continuar se forçando desse\njeito!",
-                "Você não pode continuar se forçando desse\njeito!"
+                "Você não pode continuar se forçando desse jeito!",
+                "Você não pode continuar se forçando desse jeito!"
             ]
         },
         {

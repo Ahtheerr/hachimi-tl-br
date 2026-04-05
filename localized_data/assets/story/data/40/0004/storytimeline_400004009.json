@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Após completar nosso treino diário,<n><chrname> e\neu nos despedimos e<n>vamos para casa."
+            "text": "Após completar nosso treino diário,\n<chrname> e eu nos<n>despedimos e\nvamos para casa."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -42,7 +42,7 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Não há necessidade de preocupação.<n>Eu\nrealmente... <i>suspiro...</i> não<n>estou tão\ncansada...",
+            "text": "Não há necessidade de preocupação.<n>Eu\nrealmente... <i>suspiro...</i> não estou<n>tão cansada...",
             "choice_data_list": [
                 "O que aconteceu?"
             ]
@@ -57,11 +57,11 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Oh, olá. Sim, eu só pensei em verificar<n>a pista\numa última vez antes de<n>amanhã."
+            "text": "Oh, olá. Sim, eu só pensei em verificar<n>a pista uma\núltima vez antes de<n>amanhã."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Eu estava pensando em fazer o<n>mesmo! Bem,\nse estiver tudo bem<n>para você..."
+            "text": "Eu estava pensando em fazer o<n>mesmo! Bem, se\nestiver tudo bem<n>para você..."
         },
         {
             "name": "Riko Kashimoto",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Tenho certeza de que a equipe da<n>academia\ncuidará disso amanhã de<n>manhã, mas devemos\nter cuidado se<n>decidirmos fazer uma sessão\ncedo."
+            "text": "Tenho certeza de que a equipe da<n>academia\ncuidará disso amanhã de<n>manhã, mas devemos\nter cuidado se<n>decidirmos fazer uma sessão cedo."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -101,7 +101,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Você está bem, Treinadora<n>Kashimoto?\nE-estamos indo rápido<n>demais?!"
+            "text": "Você está bem, Treinadora<n>Kashimoto? E-estamos\nindo rápido<n>demais?!"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -143,11 +143,11 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Que patético... Trouxe vergonha para<n>mim\nmesma."
+            "text": "Que patético... Trouxe vergonha para<n>mim mesma."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "N-não seja boba! Mas... Er, ah...<n>Treinador\n<username>!",
+            "text": "N-não seja boba! Mas... Er, ah...<n>Treinador <username>!",
             "choice_data_list": [
                 "Sim?"
             ]
@@ -158,18 +158,18 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Você e sua parceira estavam em<n>perfeita\nsintonia. Eu realmente pude<n>notar o quanto\nvocês confiam um no<n>outro."
+            "text": "Você e sua parceira estavam em<n>perfeita sintonia.\nEu realmente pude<n>notar o quanto vocês confiam\num no<n>outro."
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Tenho que concordar nesse ponto.<n>Não se\nconsegue realizar esse tipo de<n>treino sem ter\numa fé inabalável um<n>no outro.",
+            "text": "Tenho que concordar nesse ponto.<n>Não se\nconsegue realizar esse tipo de<n>treino sem ter uma\nfé inabalável um<n>no outro.",
             "choice_data_list": [
                 "Sinto-me honrado em receber tais elogios!"
             ]
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Dito isto, não acredito que você nos<n>supere\nnessa frente. Eu também<n>percorri esta longa\njornada ao lado<n>das minhas parceiras."
+            "text": "Dito isto, não acredito que você nos<n>supere nessa\nfrente. Eu também<n>percorri esta longa jornada ao\nlado<n>das minhas parceiras."
         },
         {
             "name": "Riko Kashimoto",
@@ -195,7 +195,7 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "E quanto a você, Treinador<n><username>? Você\nacredita na sua<n>parceira?",
+            "text": "E quanto a você, Treinador <username>? Você<n>acredita na\nsua parceira?",
             "choice_data_list": [
                 "Acredito. E não tenho intenção de perder."
             ]
@@ -206,14 +206,14 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Treinadora Kiryuin, Treinador<n><username>, desejo\na ambos muita<n>sorte.",
+            "text": "Treinadora Kiryuin, Treinador <username>,<n>desejo a ambos\nmuita sorte.",
             "choice_data_list": [
                 "Certo! O mesmo para você!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Nesta noite, enquanto desejamos<n>sorte uns aos\noutros, renovo minha<n>fé na <chrname> e decido\ndar o meu<n>melhor!"
+            "text": "Nesta noite, enquanto desejamos<n>sorte uns aos\noutros, renovo minha<n>fé na <chrname> e\ndecido dar<n>o meu melhor!"
         }
     ]
 }

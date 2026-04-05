@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Uma tarde, enquanto me preparava<n>para o\ntreinamento com <chrname>..."
+            "text": "Uma tarde, enquanto me preparava<n>para o\ntreinamento com<n><chrname>..."
         },
         {
             "name": "Monólogo",
@@ -10,7 +10,7 @@
         },
         {
             "name": "???",
-            "text": "Com licença? Você é o Treinador<n><username>?",
+            "text": "Com licença? Você é o Treinador <username>?",
             "choice_data_list": [
                 "Er... Posso perguntar o seu nome?"
             ]
@@ -50,22 +50,22 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Vamos começar, então? Como você<n>deve saber,\no lançamento da URA<n>Finale pegou o mundo das\ncorridas<n>de surpresa."
+            "text": "Vamos começar, então? Como você<n>deve saber, o\nlançamento da URA<n>Finale pegou o mundo das\ncorridas<n>de surpresa."
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Poderia nos contar como isso afetou<n>a sua visão\ne a da sua aprendiz?"
+            "text": "Poderia nos contar como isso afetou<n>a sua visão e\na da sua aprendiz?"
         },
         {
             "name": "Monólogo",
-            "text": "É verdade que houve grandes<n>mudanças, mas\ndesde o dia em que<n>decidi caminhar ao lado de\n<chrname>,<n>minhas convicções sempre\npermaneceram as mesmas.",
+            "text": "É verdade que houve grandes<n>mudanças, mas\ndesde o dia em que<n>decidi caminhar ao lado de\n<chrname>, minhas<n>convicções sempre\npermaneceram<n>as mesmas.",
             "choice_data_list": [
                 "Vou continuar apoiando-a para que ela possa\nrealizar seus sonhos."
             ]
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Entendo. Em outras palavras, você<n>considera\nseu papel como treinador<n>sendo...",
+            "text": "Entendo. Em outras palavras, você<n>considera seu\npapel como treinador<n>sendo...",
             "choice_data_list": [
                 "Ajudar minha Umamusume a realizar seus\nsonhos!"
             ]
@@ -140,11 +140,11 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Mas hmmm... Que estranho! Parece<n>que você\nestá tendo dificuldades em<n>ganhar fãs."
+            "text": "Mas hmmm... Que estranho! Parece<n>que você está\ntendo dificuldades em<n>ganhar fãs."
         },
         {
             "name": "Diretora Akikawa",
-            "text": "NÃO SE PREOCUPE! Ainda há tempo<n>antes da\nURA Finale! Tenho certeza<n>de que você pode\nmudar a situação!"
+            "text": "NÃO SE PREOCUPE! Ainda há tempo<n>antes da URA\nFinale! Tenho certeza<n>de que você pode mudar a\nsituação!"
         },
         {
             "name": "Diretora Akikawa",
@@ -152,11 +152,11 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "ANTECIPAÇÃO! Aproveite ao máximo<n>cada\ncorrida que aparecer no seu<n>caminho e\nmostre-nos ótimos<n>resultados!"
+            "text": "ANTECIPAÇÃO! Aproveite ao máximo<n>cada corrida\nque aparecer no seu<n>caminho e mostre-nos\nótimos<n>resultados!"
         },
         {
             "name": "Diretora Akikawa",
-            "text": "ASSOMBROSO! Você também está<n>recebendo\nmais apoio do que eu<n>jamais poderia imaginar!"
+            "text": "ASSOMBROSO! Você também está<n>recebendo mais\napoio do que eu<n>jamais poderia imaginar!"
         },
         {
             "name": "Diretora Akikawa",
@@ -172,7 +172,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "GRATIDÃO! A assistência da mídia<n>será\nessencial, tanto para aumentar a<n>popularidade de\nnossas Umamusume<n>quanto para garantir o\nsucesso do<n>evento!"
+            "text": "GRATIDÃO! A assistência da mídia<n>será essencial,\ntanto para aumentar a<n>popularidade de nossas\nUmamusume<n>quanto para garantir o sucesso do\nevento!"
         },
         {
             "name": "Diretora Akikawa",

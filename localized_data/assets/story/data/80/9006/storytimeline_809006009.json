@@ -2,22 +2,22 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Um dia, após <chrname> e eu termos<n>alcançado\num marco..."
+            "text": "Um dia, após <chrname> e eu<n>termos\nalcançado um marco..."
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Boa noite, Treinador <username>. Você<n>tem\ntrabalhado tanto, apesar de já<n>estar tão tarde.",
+            "text": "Boa noite, Treinador <username>. Você tem<n>trabalhado tanto,\napesar de já estar<n>tão tarde.",
             "choice_data_list": [
                 "Igualmente!"
             ]
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Ham... Eu estava me perguntando,<n>mas... você\ntem planos para amanhã?"
+            "text": "Ham... Eu estava me perguntando,<n>mas... você tem\nplanos para amanhã?"
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Se não, eu esperava que<n>pudéssemos passar\num tempo<n>juntos e ter uma discussão amigável."
+            "text": "Se não, eu esperava que<n>pudéssemos passar um\ntempo<n>juntos e ter uma discussão amigável."
         },
         {
             "name": "Monólogo",
@@ -44,7 +44,7 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Quando afirmei que meu objetivo era<n>proteger a\nindependência das minhas<n>corredoras\ninexperientes, eu estava<n>apenas tentando\nparecer bem."
+            "text": "Quando afirmei que meu objetivo era<n>proteger a\nindependência das minhas<n>corredoras\ninexperientes, eu estava<n>apenas tentando parecer\nbem."
         },
         {
             "name": "Riko Kashimoto",
@@ -83,11 +83,11 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Você me lembra de como eu era há<n>muito tempo\n— apaixonada, honesta e<n>confiante em minhas\ncorredoras."
+            "text": "Você me lembra de como eu era há<n>muito tempo —\napaixonada, honesta e<n>confiante em minhas\ncorredoras."
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Essa semelhança era ainda mais<n>motivo pelo\nqual eu não conseguia<n>admitir que você era\nhabilidoso.",
+            "text": "Essa semelhança era ainda mais<n>motivo pelo qual\neu não conseguia<n>admitir que você era habilidoso.",
             "choice_data_list": [
                 "Isso significa que você reconhece agora?"
             ]
@@ -137,7 +137,7 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Acho que ouço Little Cocon e Bitter<n>Glasse. O\nque aquelas duas estão<n>fazendo, gritando em\npúblico desse<n>jeito?"
+            "text": "Acho que ouço Little Cocon e Bitter<n>Glasse. O que\naquelas duas estão<n>fazendo, gritando em público\ndesse<n>jeito?"
         },
         {
             "name": "Riko Kashimoto",

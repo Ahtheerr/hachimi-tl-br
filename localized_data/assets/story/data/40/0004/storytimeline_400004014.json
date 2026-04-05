@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "<chrname> obteve<n><achievement_name>."
+            "text": "<chrname> obteve <achievement_name>."
         },
         {
             "name": "Monólogo",
@@ -18,15 +18,15 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "O desempenho da <chrname> foi a<n>definição de\n<i>emocionante!</i><n>Positivamente tremendo!\nInovador!"
+            "text": "O desempenho da <chrname><n>foi a\ndefinição de <i>emocionante!</i><n>Positivamente\ntremendo! Inovador!"
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Muito bem! Sua grande conquista<n>ficará\nregistrada nos anais da<n>Academia Tracen — não,\nem <i>toda</i><n>a história das Umamusume!"
+            "text": "Muito bem! Sua grande conquista<n>ficará registrada\nnos anais da<n>Academia Tracen — não, em <i>toda</i> a\nhistória das Umamusume!"
         },
         {
             "name": "Monólogo",
-            "text": "A Diretora Akikawa me cobre de<n>elogios\nimensos, cara a cara! Parece<n>que alcançamos o\nmelhor resultado<n>possível!"
+            "text": "A Diretora Akikawa me cobre de<n>elogios imensos,\ncara a cara! Parece<n>que alcançamos o melhor\nresultado<n>possível!"
         }
     ]
 }

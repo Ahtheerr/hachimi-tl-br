@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "<chrname> obteve<n><achievement_name>."
+            "text": "<chrname> obteve <achievement_name>."
         },
         {
             "name": "Monólogo",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "O magnífico desempenho da<n><chrname> foi a\ndefinição de<n><i>ferocidade!</i> E valentia!"
+            "text": "O magnífico desempenho da<n><chrname>\nfoi a definição de<n><i>ferocidade!</i> E valentia!"
         },
         {
             "name": "Diretora Akikawa",

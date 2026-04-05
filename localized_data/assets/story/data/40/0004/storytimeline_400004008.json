@@ -6,7 +6,7 @@
         },
         {
             "name": "Transeunte A",
-            "text": "Uau, então esse é o tipo de regime<n>que a\n<chrname> faz com o treinador<n>dela."
+            "text": "Uau, então esse é o tipo de regime<n>que a\n<chrname> faz com o<n>treinador dela."
         },
         {
             "name": "Transeunte B",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Os dias que <chrname> e eu<n>passamos com a\nRepórter Otonashi<n>terminaram num piscar de\nolhos..."
+            "text": "Os dias que <chrname> e eu<n>passamos\ncom a Repórter Otonashi<n>terminaram num piscar\nde olhos..."
         },
         {
             "name": "Repórter Otonashi",
@@ -36,7 +36,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Acabei de receber a notícia — você foi\nselecionada para participar da<n>Twinkle Star\nClimax!"
+            "text": "Acabei de receber a notícia — você foi<n>selecionada\npara participar da<n>Twinkle Star Climax!"
         },
         {
             "name": "Repórter Otonashi",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Gostaria de aproveitar esta<n>oportunidade para\ntirar uma foto sua.<n>Que tal uma lá na pista de\ntreino?"
+            "text": "Gostaria de aproveitar esta<n>oportunidade para tirar\numa foto sua.<n>Que tal uma lá na pista de treino?"
         },
         {
             "name": "Repórter Otonashi",
@@ -77,7 +77,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Achei que essa seria a melhor forma<n>de imbuir a\nimagem com uma<n>sensação de realismo. Ufa...\nNão me<n>lembro da última vez que corri tanto.",
+            "text": "Achei que essa seria a melhor forma<n>de imbuir a\nimagem com uma<n>sensação de realismo. Ufa... Não\nme<n>lembro da última vez que corri tanto.",
             "choice_data_list": [
                 "Você é muito rápida."
             ]
@@ -110,7 +110,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Sabe quando você elogiou minha<n>rapidez ali\natrás? Bem, lá no interior,<n>eu era conhecida por\nser rápida."
+            "text": "Sabe quando você elogiou minha<n>rapidez ali atrás?\nBem, lá no interior,<n>eu era conhecida por ser\nrápida."
         },
         {
             "name": "Repórter Otonashi",
@@ -125,7 +125,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Não precisa nem dizer, mas ela era<n>incrivelmente\nrápida! A diferença<n>entre nós era tamanha que\neu não<n>tinha esperança nem de encostar na\ncauda dela."
+            "text": "Não precisa nem dizer, mas ela era<n>incrivelmente\nrápida! A diferença<n>entre nós era tamanha que eu\nnão<n>tinha esperança nem de encostar na<n>cauda\ndela."
         },
         {
             "name": "Repórter Otonashi",
@@ -137,7 +137,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Se eu não podia competir com ela, eu<n>queria\nvê-la coroada como a maior!<n>Esse era o sonho\negoísta ao qual eu<n>me apeguei!"
+            "text": "Se eu não podia competir com ela, eu<n>queria vê-la\ncoroada como a maior!<n>Esse era o sonho egoísta\nao qual eu<n>me apeguei!"
         },
         {
             "name": "Repórter Otonashi",
@@ -157,7 +157,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "O destino dela mudou naquele dia. Ela<n>possuía\nhabilidade real e, em termos<n>de talento e\nresultados, era<n>provavelmente a melhor do\nclube..."
+            "text": "O destino dela mudou naquele dia. Ela<n>possuía\nhabilidade real e, em termos<n>de talento e\nresultados, era<n>provavelmente a melhor do clube..."
         },
         {
             "name": "Repórter Otonashi",
@@ -179,7 +179,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Suponho que sim... Embora esse não<n>seja o\núnico motivo, é claro."
+            "text": "Suponho que sim... Embora esse não<n>seja o único\nmotivo, é claro."
         },
         {
             "name": "Repórter Otonashi",
@@ -213,15 +213,15 @@
         },
         {
             "name": "Monólogo",
-            "text": "O dia em que \"a maior\" será decidida<n>se\naproxima rapidamente. <chrname><n>e eu chegamos\naté aqui...",
+            "text": "O dia em que \"a maior\" será decidida<n>se aproxima\nrapidamente.<n><chrname> e eu chegamos\naté aqui...",
             "choice_data_list": [
-                "(Será que conseguiremos alcançar nosso\nsonho?)",
-                "(Será que conseguiremos alcançar nosso\nsonho?)"
+                "(Será que conseguiremos alcançar nosso sonho?)",
+                "(Será que conseguiremos alcançar nosso sonho?)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Nosso sonho nasceu no dia em que<n>prometi que\ncorreria ao lado da<n><chrname>. Não há como voltar\natrás<n>agora."
+            "text": "Nosso sonho nasceu no dia em que<n>prometi que\ncorreria ao lado da<n><chrname>. Não há\ncomo<n>voltar atrás agora."
         }
     ]
 }

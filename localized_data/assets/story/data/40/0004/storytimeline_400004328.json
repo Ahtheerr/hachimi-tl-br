@@ -50,9 +50,9 @@
         },
         {
             "name": "Monólogo",
-            "text": "Vega. É uma estrela linda que brilha\nintensamente.",
+            "text": "Vega. É uma estrela linda que brilha<n>intensamente.",
             "choice_data_list": [
-                "Me lembre... Que tipo de estrela é a Vega\nmesmo?"
+                "Me lembre... Que tipo de estrela é a Vega mesmo?"
             ]
         },
         {
@@ -107,7 +107,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Tenho estado bem sozinha até agora.<n>Não\npreciso de mais ninguém."
+            "text": "Tenho estado bem sozinha até agora.<n>Não preciso\nde mais ninguém."
         },
         {
             "name": "Admire Vega",
@@ -115,13 +115,13 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "Minha estrela favorita? ...Acho que eu<n>escolheria\na Spica."
+            "text": "Minha estrela favorita? ...Acho que eu<n>escolheria a\nSpica."
         },
         {
             "name": "Monólogo",
             "text": "Spica — uma estrela maravilhosa que<n>brilha com\num tom azul brilhante.",
             "choice_data_list": [
-                "Me lembre... Que tipo de estrela é a Spica\nmesmo?"
+                "Me lembre... Que tipo de estrela é a Spica mesmo?"
             ]
         },
         {
@@ -207,7 +207,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Em contraste com a frieza de suas<n>palavras,\nsinto um calor em sua voz,<n>como algo\nescorrendo das<n>profundezas de seu coração."
+            "text": "Em contraste com a frieza de suas<n>palavras, sinto\num calor em sua voz,<n>como algo escorrendo das\nprofundezas de seu coração."
         },
         {
             "name": "Silence Suzuka",

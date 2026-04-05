@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "<chrname> sofreu uma lesão grave!"
+            "text": "<chrname> sofreu uma lesão<n>grave!"
         },
         {
             "name": "Monólogo",
-            "text": "Devo fazê-la focar em melhorar ou<n>superar a\ndor...",
+            "text": "Devo fazê-la focar em melhorar ou<n>superar a dor...",
             "choice_data_list": [
                 "O tratamento deve vir primeiro.",
                 "A dor é fraqueza saindo do corpo!"
@@ -18,7 +18,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "<chrname> parece estar se sentindo<n>um pouco\ndeprimida porque não pode<n>fazer nenhum\nexercício..."
+            "text": "<chrname> parece estar se<n>sentindo um\npouco deprimida porque<n>não pode fazer nenhum\nexercício..."
         },
         {
             "name": "Monólogo",

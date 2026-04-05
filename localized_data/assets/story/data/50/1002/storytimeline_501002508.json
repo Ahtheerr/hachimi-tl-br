@@ -1,0 +1,42 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Ao voltar de uma corrida..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Suspiro...</i>",
+            "choice_data_list": [
+                "Está tudo bem?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hm? Ah, sim... Estou bem..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hum, por que pergunta?",
+            "choice_data_list": [
+                "Você acabou de suspirar."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Suspirei?! Eu nem percebi..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Desculpe por preocupá-lo. Vou<n>prestar atenção\npara não fazer de<n>novo..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Eu me sinto bem, de verdade. A<n>qualquer\nmomento, estou pronta para<n>dar tudo de mim."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Apesar do que ela diz, Silence Suzuka<n>está\nvisivelmente esgotada. Talvez<n>eu precise ajustar\no cronograma<n>para diminuir o ritmo de corridas\nnos<n>próximos dias."
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Special Week falta ao treino. Já é<n>noite quando\nfinalmente consigo falar<n>com ela."
+        },
+        {
+            "name": "Special Week",
+            "text": "Me desculpa muito por não ter ido ao<n>treino!"
+        },
+        {
+            "name": "Special Week",
+            "text": "É que a Suzuka tinha uma corrida<n>hoje, e eu\nqueria muito ver ela correr,<n>então...",
+            "choice_data_list": [
+                "Bom, suponho que assistir uma corrida também\najuda a aprender."
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Treinador! Obrigada por entender.",
+            "choice_data_list": [
+                "Você aprendeu alguma coisa com a corrida da\nSuzuka?",
+                "Você aprendeu alguma coisa com a corrida da\nSuzuka?"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Percebi que o método Fugitiva dela é<n>algo que\nninguém mais consegue<n>imitar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não consigo deixar de me perguntar<n>se ela\nrealmente aprendeu alguma<n>coisa se o método\nnão pode ser<n>imitado."
+        }
+    ]
+}

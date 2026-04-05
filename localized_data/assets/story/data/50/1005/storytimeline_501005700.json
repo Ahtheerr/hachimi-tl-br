@@ -1,0 +1,35 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Estamos acabando de voltar do<n>intervalo e tenho\numa reunião<n>marcada com a Fuji Kiseki. Eu entro\nna minha sala e encontro..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Zzz... Zzz...</i>"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hm?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "T-Treinador! Eu só tava descansando<n>os olhos, eu\njuro!",
+            "choice_data_list": [
+                "Você não consegue me enganar. Estava\nroncando."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Suspiro.</i> Desculpa por você ter me<n>visto nesse\nestado."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Uma das residentes tava inconsolável<n>de saudade\nde casa ontem à noite,<n>então fiquei ao lado dela\naté ela<n>dormir... <i>Aaaah.</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por causa disso, a própria Fuji Kiseki<n>não deve ter\ndormido direito. Ela<n>parece exausta."
+        }
+    ]
+}

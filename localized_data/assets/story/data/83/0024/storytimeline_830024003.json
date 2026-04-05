@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "I've come to the mall looking for a<n>few things,\nbut it's quite busy today.<n>Looks like there might\nbe some kind<n>of event going on..."
+            "text": "I've come to the mall looking for a<n>few things, but\nit's quite busy today.<n>Looks like there might be\nsome kind<n>of event going on..."
         },
         {
             "name": "Oguri Cap",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Oguri Cap smiles and waves at me.<n>That's true—I\ndid save her from a<n>persistent reporter in the\npast.",
+            "text": "Oguri Cap smiles and waves at me.<n>That's true—I\ndid save her from a<n>persistent reporter in the past.",
             "choice_data_list": [
                 "You look well.",
                 "You look well."
@@ -30,7 +30,7 @@
         },
         {
             "name": "Oguri Cap",
-            "text": "Thank you, I am. I'm happy to see<n>you here.\nMy—"
+            "text": "Thank you, I am. I'm happy to see<n>you here. My—"
         },
         {
             "name": "Reporter",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Super Creek",
-            "text": "And to think that this is the person<n>who taught\nyou how to do it."
+            "text": "And to think that this is the person<n>who taught you\nhow to do it."
         },
         {
             "name": "Oguri Cap",
@@ -202,11 +202,11 @@
         },
         {
             "name": "MC",
-            "text": "So, Oguri Cap, do you have any<n>words to mark\nthe release of your<n>plushie? Take it away!"
+            "text": "So, Oguri Cap, do you have any<n>words to mark the\nrelease of your<n>plushie? Take it away!"
         },
         {
             "name": "Oguri Cap",
-            "text": "Well, about that. Today, I want the<n><i>audience</i>\nto ask me questions."
+            "text": "Well, about that. Today, I want the<n><i>audience</i> to\nask me questions."
         },
         {
             "name": "MC",
@@ -218,7 +218,7 @@
         },
         {
             "name": "Audience",
-            "text": "Q-questions from us? Isn't this a talk<n>show?\nUm... What should we ask<n>her?"
+            "text": "Q-questions from us? Isn't this a talk<n>show? Um...\nWhat should we ask<n>her?"
         },
         {
             "name": "Girl",
@@ -250,7 +250,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Laughter fills the venue once again.<n>The talk\nshow perfectly encapsulates<n>Oguri Cap's\nlaid-back personality,<n>leading to its success."
+            "text": "Laughter fills the venue once again.<n>The talk show\nperfectly encapsulates<n>Oguri Cap's laid-back\npersonality,<n>leading to its success."
         }
     ]
 }

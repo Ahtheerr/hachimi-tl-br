@@ -14,7 +14,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Pois bem, tudo o que nos resta é<n>esperar. Estou bastante surpresa.<n>Jamais imaginei que alguém pediria<n>por um treinamento tão...<n><i>excêntrico</i> com tanto fervor."
+            "text": "Pois bem, tudo o que nos resta é<n>esperar. Estou bastante surpresa.<n>Jamais imaginei que alguém pediria<n>por um treinamento tão... <i>excêntrico</i><n>com tanto fervor."
         },
         {
             "name": "Mejiro McQueen",
@@ -26,7 +26,7 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "<i>Arf, arf...</i> Tão... pesado... Isso<n>deve ser mais difícil... do que carregar<n>santuários portáteis."
+            "text": "<i>Arf, arf...</i> Tão... pesado... Isso deve<n>ser mais difícil... do que carregar<n>santuários portáteis."
         },
         {
             "name": "Kitasan Black",
@@ -88,7 +88,7 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "McQueen, desculpa o atraso! Aqui<n>está... o seu gerador! <i>Arf, arf,<n>arf...</i>"
+            "text": "McQueen, desculpa o atraso! Aqui<n>está... o seu gerador! <i>Arf, arf, arf...</i>"
         },
         {
             "name": "Mejiro McQueen",
@@ -141,8 +141,8 @@
             "name": "Mejiro McQueen",
             "text": "Você deseja que a Kita passe por um<n>treinamento rigoroso, durante o qual<n>ela possa criar sua própria arma<n>secreta, correto? Assim como a<n>Bourbon fez?",
             "choice_data_list": [
-                "Exatamente! Vamos criar uma arma só para\nvocê, Kitasan!",
-                "Exatamente! Vamos criar uma arma só para\nvocê, Kitasan!"
+                "Exatamente! Vamos criar uma arma só para você,\nKitasan!",
+                "Exatamente! Vamos criar uma arma só para você,\nKitasan!"
             ]
         },
         {

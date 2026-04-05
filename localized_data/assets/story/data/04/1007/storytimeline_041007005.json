@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Uma Umamusume e seu trainer são<n>duas partes de um todo. Eles se<n>incentivam e se apoiam para alcançar<n>a vitória."
+            "text": "Uma Umamusume e seu treinador são<n>duas partes de um todo. Eles se<n>incentivam e se apoiam para alcançar<n>a vitória."
         },
         {
             "name": "Monólogo",
-            "text": "O papel do trainer é extrair todo o<n>potencial de uma Umamusume<n>através da prática diária rigorosa."
+            "text": "O papel do treinador é extrair todo o<n>potencial de uma Umamusume<n>através da prática diária rigorosa."
         },
         {
             "name": "Monólogo",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "E aí, Trainer! Espero que esteja<n>pronto pra saquear um templo<n>subaquático!",
+            "text": "E aí, treinador! Espero que esteja<n>pronto pra saquear um templo<n>subaquático!",
             "choice_data_list": [
                 "Opa, peraí! Hoje temos treino.",
                 "Opa, peraí! Hoje temos treino."
@@ -34,7 +34,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Enfim, parece que você quer mesmo<n>praticar hoje. Não esquenta, meu<n>bom trainer, eu entendo totalmente de<n>onde você vem.",
+            "text": "Enfim, parece que você quer mesmo<n>praticar hoje. Não esquenta, meu<n>bom treinador, eu entendo totalmente<n>de onde você vem.",
             "choice_data_list": [
                 "Entende?!",
                 "Entende?!"
@@ -97,7 +97,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Me segue, Trainer! Estou içando<n>nossas velas para Marte!"
+            "text": "Me segue, Treinador! Estou içando<n>nossas velas para Marte!"
         },
         {
             "name": "Monólogo",
@@ -138,8 +138,8 @@
             "name": "Gold Ship",
             "text": "Viver em harmonia com a natureza e<n>aguçar nossos sentidos na selva —<n>abra os olhos. Tá tudo conectado com<n>as corridas!",
             "choice_data_list": [
-                "Ah, então tudo isso é pra treinar seus instintos\nde corrida!",
-                "Ah, então tudo isso é pra treinar seus instintos\nde corrida!"
+                "Ah, então tudo isso é pra treinar seus instintos de\ncorrida!",
+                "Ah, então tudo isso é pra treinar seus instintos de\ncorrida!"
             ]
         },
         {
@@ -160,7 +160,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Uma Umamusume e um trainer são<n>duas partes de um todo... Devíamos<n>trabalhar <I>juntos</I> pra alcançar a<n>vitória!"
+            "text": "Uma Umamusume e um Treinador são<n>duas partes de um todo... Devíamos<n>trabalhar <I>juntos</I> pra alcançar a<n>vitória!"
         }
     ]
 }

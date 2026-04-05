@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Mayano Top Gun",
-            "text": "Rápido, pessoal, rápido! Temos que ir<n>naquele\ncafé super popular e dar um<n><i>lock on</i>\nnaquelas gelatinas de<n>café para adultos!"
+            "text": "Rápido, pessoal, rápido! Temos que ir<n>naquele\ncafé super popular e dar um<n><i>lock on</i> naquelas\ngelatinas de café<n>para adultos!"
         },
         {
             "name": "Biko Pegasus",
-            "text": "Não, vamos para a loja de<n>brinquedos, a loja de\nbrinquedos! Eu<n>sei que vocês vão amar o que\ntem<n>em promoção lá, tipo o veículo incrível<n>do\nCarrot Ranger!"
+            "text": "Não, vamos para a loja de<n>brinquedos, a loja de\nbrinquedos! Eu<n>sei que vocês vão amar o que tem\nem promoção lá, tipo o veículo incrível<n>do Carrot\nRanger!"
         },
         {
             "name": "Sweep Tosho",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Super Creek",
-            "text": "Lembrem-se, vocês não devem<n>correr, tudo\nbem? Umamusumes<n>podem alcançar\nvelocidades<n>consideráveis, mesmo quando\nestamos apenas trotando.",
+            "text": "Lembrem-se, vocês não devem<n>correr, tudo bem?\nUmamusumes<n>podem alcançar velocidades\nconsideráveis, mesmo quando<n>estamos apenas\ntrotando.",
             "choice_data_list": [
                 "É, está bem lotado aqui."
             ]
@@ -33,7 +33,7 @@
         },
         {
             "name": "Super Creek",
-            "text": "Hehe, estou tão orgulhosa de vocês<n>por\nrefletirem sobre suas ações. ♪<n>Vocês são ótimas\ncrianças. ♪ Calma,<n>calma. ♪"
+            "text": "Hehe, estou tão orgulhosa de vocês<n>por refletirem\nsobre suas ações. ♪<n>Vocês são ótimas crianças. ♪\nCalma,<n>calma. ♪"
         },
         {
             "name": "As Três \"Crianças\"",
@@ -45,7 +45,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Nós nos esbarramos na academia e,<n>após\ndescobrirmos que estávamos<n>indo para o\nmesmo lugar, decidimos<n>passar o dia juntas."
+            "text": "Nós nos esbarramos na academia e,<n>após\ndescobrirmos que estávamos<n>indo para o mesmo\nlugar, decidimos<n>passar o dia juntas."
         },
         {
             "name": "Biko Pegasus",
@@ -53,7 +53,7 @@
         },
         {
             "name": "Mayano Top Gun",
-            "text": "Não, o café vem primeiro! Você<n>entende o apelo\nmaduro dele, não<n>entende?! Vamos fazer um\n<i>touch<n>down</i> no café para comer gelatina\nde café!"
+            "text": "Não, o café vem primeiro! Você<n>entende o apelo\nmaduro dele, não<n>entende?! Vamos fazer um\n<i>touch<n>down</i> no café para comer gelatina<n>de\ncafé!"
         },
         {
             "name": "Monólogo",
@@ -95,19 +95,19 @@
         },
         {
             "name": "Monólogo",
-            "text": "Esperando distrair Sweep Tosho, olho<n>para\nSuper Creek, que responde com<n>um aceno sutil."
+            "text": "Esperando distrair Sweep Tosho, olho<n>para Super\nCreek, que responde com<n>um aceno sutil."
         },
         {
             "name": "Super Creek",
-            "text": "Você gostaria de uma daquelas<n>varinhas,\nSweep?"
+            "text": "Você gostaria de uma daquelas<n>varinhas, Sweep?"
         },
         {
             "name": "Sweep Tosho",
-            "text": "O quê?! N-não! Eu não preciso de algo<n>assim!\nSão para crianças!"
+            "text": "O quê?! N-não! Eu não preciso de algo<n>assim! São\npara crianças!"
         },
         {
             "name": "Super Creek",
-            "text": "Elas <i>são</i> muito fofas, mas<n>também são bem\nlegais, você não<n>acha? Na verdade, acho que eu\nmesma gostaria de uma."
+            "text": "Elas <i>são</i> muito fofas, mas também<n>são bem\nlegais, você não acha? Na<n>verdade, acho que eu\nmesma<n>gostaria de uma."
         },
         {
             "name": "Sweep Tosho",
@@ -157,7 +157,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Depois de provarem a gelatina de<n>café amarga,\nas três Umamusumes<n>sentem-se subitamente\ndesanimadas..."
+            "text": "Depois de provarem a gelatina de<n>café amarga, as\ntrês Umamusumes<n>sentem-se subitamente\ndesanimadas..."
         },
         {
             "name": "Super Creek",
@@ -196,7 +196,7 @@
         },
         {
             "name": "Sweep Tosho",
-            "text": "E-eu aceito, já que você insiste!<n>Tome, pode\nficar com a minha<n>gelatina de café!"
+            "text": "E-eu aceito, já que você insiste!<n>Tome, pode ficar\ncom a minha<n>gelatina de café!"
         },
         {
             "name": "Monólogo",
@@ -215,7 +215,7 @@
         },
         {
             "name": "Super Creek",
-            "text": "Todas estavam tão animadas e<n>falantes... Foi\nquase como se<n>fôssemos uma família de\nverdade.",
+            "text": "Todas estavam tão animadas e<n>falantes... Foi\nquase como se<n>fôssemos uma família de verdade.",
             "choice_data_list": [
                 "Família, né..."
             ]
@@ -230,7 +230,7 @@
         },
         {
             "name": "Super Creek",
-            "text": "Ora, céus, devemos nos apressar.<n>Não vamos\ndeixar nossas<n><i>crianças</i> esperando. Hehe. ♪"
+            "text": "Ora, céus, devemos nos apressar.<n>Não vamos\ndeixar nossas <i>crianças</i><n>esperando. Hehe. ♪"
         },
         {
             "name": "Super Creek",

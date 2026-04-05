@@ -1,0 +1,125 @@
+{
+    "text_block_list": [
+        {
+            "name": "Silence Suzuka",
+            "text": "Olá, Treinador. Vou fazer um exercício<n>leve antes\nde começarmos o treino<n>de hoje."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Já se passaram alguns dias do ano<n>novo e\nSilence Suzuka segue distante<n>como sempre.\nMesmo assim, tento<n>puxar conversa.",
+            "choice_data_list": [
+                "Alguma resolução de ano novo?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Resoluções de ano novo? Hm... Acho<n>que gostaria\nde correr muito mais.",
+            "choice_data_list": [
+                "Poderia ser mais específica?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Bom... Eu gosto de sentir como se<n>nada estivesse\nme segurando..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Então quero correr em muitas<n>corridas onde eu\ntenha a liberdade de<n>ser assim."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sua paixão é inconfundível, então<n>proponho uma\nideia. Na verdade, isso<n>já está na minha cabeça\nhá um bom<n>tempo.",
+            "choice_data_list": [
+                "O que acha de mirar nas Clássicas?",
+                "O que acha de mirar nas Clássicas?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vencer as Clássicas não é pouca<n>coisa, mas com\na demonstração de<n>velocidade que Suzuka deu na\nestreia, ela tem uma chance real."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "As Clássicas?!",
+            "choice_data_list": [
+                "Imagine só a paisagem na liderança dessas\ncorridas."
+            ],
+            "color_text_info_list": [
+                "Classics"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...Deve ser maravilhoso..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...Hehe. Claro que vou fazer isso."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Dito isso, acho que vou sair para<n>correr agora\nmesmo."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ah, mas se houver algo em que eu<n>deva focar\npara me preparar, ficarei<n>feliz em ter isso em\nmente.",
+            "choice_data_list": [
+                "Vamos focar em aumentar sua velocidade!",
+                "Vamos garantir que você esteja bem descansada\nprimeiro!",
+                "Primeiro o mais importante! Feliz Ano Novo!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Minha velocidade?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "É verdade que apenas as melhores<n>Umamusume\npodem correr nas<n>Clássicas."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Não vou conseguir assumir a<n>liderança se não\nestiver correndo no<n>máximo da minha agilidade...\nnão é?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Está certo, então. Quero me tornar<n>mais rápida."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com isso decidido, trabalhamos na<n>forma de\ncorrida e na velocidade de<n>Silence Suzuka."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Acha que eu deveria descansar?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Bom... Acho que eu poderia dar uma<n>caminhada. O\ntempo <i>está</i> muito<n>agradável hoje."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. Bom, vejo você no treino."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que ela conseguiu descansar<n>e relaxar o\nsuficiente, pois o treino<n>começa mais tranquilo do\nque o<n>habitual."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ah! Eu esqueci completamente!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Feliz Ano Novo! Que tenhamos mais<n>um ano\njuntos!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...Ah! Então era por isso que<n>perguntou sobre\nminhas resoluções."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Agora que Suzuka se lembrou do Ano<n>Novo,\ndecidimos visitar um templo<n>juntos."
+        }
+    ]
+}

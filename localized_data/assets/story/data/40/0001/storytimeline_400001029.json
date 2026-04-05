@@ -2,18 +2,18 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "<chrname> e eu estamos comprando<n>calçados\nquando encontramos a<n>Treinadora Kiryuin e a\nHappy Meek."
+            "text": "<chrname> e eu estamos<n>comprando\ncalçados quando<n>encontramos a Treinadora\nKiryuin e a<n>Happy Meek."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Oh, se não é o Treinador <username>!<n>Vocês\ntambém estão comprando<n>calçados?",
+            "text": "Oh, se não é o Treinador <username>! Vocês<n>também estão\ncomprando calçados?",
             "choice_data_list": [
                 "Vocês também?"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Com certeza! Afinal, uma<n>Umamusume de\nprimeira classe<n>precisa de equipamentos de\nprimeira<n>classe!"
+            "text": "Com certeza! Afinal, uma<n>Umamusume de primeira\nclasse<n>precisa de equipamentos de primeira\nclasse!"
         },
         {
             "name": "Monólogo",
@@ -33,11 +33,11 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Mas, de uma perspectiva de conforto,<n>os\ncalçados ao lado deles são o<n>caminho a seguir."
+            "text": "Mas, de uma perspectiva de conforto,<n>os calçados\nao lado deles são o<n>caminho a seguir."
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Este modelo tem excelente<n>amortecimento e\nreduz a tensão nas<n>pernas."
+            "text": "Este modelo tem excelente<n>amortecimento e reduz\na tensão nas<n>pernas."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -77,7 +77,7 @@
         },
         {
             "name": "Happy Meek",
-            "text": "Eu sei que ela só está pensando no<n>que é\nmelhor para mim... Ela trabalha<n>muito duro, sabe."
+            "text": "Eu sei que ela só está pensando no<n>que é melhor\npara mim... Ela trabalha<n>muito duro, sabe."
         },
         {
             "name": "Happy Meek",
@@ -109,7 +109,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "O mais importante é que os calçados<n>atendam\naos <i>seus</i> desejos.<n>Perguntar como você se\nsentia<n>deveria ter sido a primeira coisa que<n>eu\nfiz."
+            "text": "O mais importante é que os calçados<n>atendam aos\n<i>seus</i> desejos.<n>Perguntar como você se sentia\ndeveria ter sido a primeira coisa que<n>eu fiz."
         },
         {
             "name": "Happy Meek",
@@ -121,7 +121,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Obrigada por cuidar da Meek,<n>Treinador\n<username>."
+            "text": "Obrigada por cuidar da Meek,<n>Treinador <username>."
         },
         {
             "name": "Happy Meek",
@@ -129,11 +129,11 @@
         },
         {
             "name": "Happy Meek",
-            "text": "De agora em diante... vou dizer à<n>minha\ntreinadora o que eu quero<n>quando estivermos\nescolhendo<n>calçados."
+            "text": "De agora em diante... vou dizer à<n>minha treinadora\no que eu quero<n>quando estivermos escolhendo\ncalçados."
         },
         {
             "name": "Monólogo",
-            "text": "Após nos despedirmos da Treinadora<n>Kiryuin,\n<chrname> e eu escolhemos<n>um par de calçados\nque combina com<n>as preferências dela."
+            "text": "Após nos despedirmos da Treinadora<n>Kiryuin,\n<chrname> e eu<n>escolhemos um par de\ncalçados que<n>combina com as preferências dela."
         }
     ]
 }

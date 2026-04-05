@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Repórter Otonashi",
-            "text": "<username>! Tenho notícias incríveis<n>para\ncompartilhar!",
+            "text": "<username>! Tenho notícias incríveis para<n>compartilhar!",
             "choice_data_list": [
                 "Vamos ouvir."
             ]
@@ -17,7 +17,7 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Acabei de ouvir notícias excelentes<n>da URA. Você\njá deve ter recebido um<n>e-mail, mas achei\nmelhor avisar<n>pessoalmente de qualquer forma.",
+            "text": "Acabei de ouvir notícias excelentes<n>da URA. Você\njá deve ter recebido um<n>e-mail, mas achei melhor\navisar<n>pessoalmente de qualquer forma.",
             "color_text_info_list": [
                 "URA"
             ]
@@ -40,7 +40,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Cara <chrname>, temos o prazer de<n>informar que\nvocê foi selecionada<n>como a Melhor\nUmamusume do Ano<n>Clássico deste ano.",
+            "text": "Cara <chrname>, temos o<n>prazer de\ninformar que você foi<n>selecionada como a Melhor\nUmamusume do Ano Clássico deste<n>ano.",
             "choice_data_list": [
                 "Melhor Umamusume do Ano Clássico?!"
             ],
@@ -50,7 +50,7 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Sim. O prêmio vai para a Umamusume\nconsiderada como a de melhor<n>desempenho\ngeral ao longo do ano."
+            "text": "Sim. O prêmio vai para a Umamusume<n>considerada\ncomo a de melhor<n>desempenho geral ao longo do\nano."
         },
         {
             "name": "Riko Kashimoto",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Você foi soberba. Isso resume bem.<n>Como\ncolega desta academia, estou<n>orgulhosa."
+            "text": "Você foi soberba. Isso resume bem.<n>Como colega\ndesta academia, estou<n>orgulhosa."
         },
         {
             "name": "Riko Kashimoto",
@@ -84,7 +84,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mais tarde, <chrname> e eu juramos<n>continuar\ntrabalhando duro no ano<n>que vem também."
+            "text": "Mais tarde, <chrname> e eu<n>juramos\ncontinuar trabalhando duro<n>no ano que vem\ntambém."
         }
     ]
 }

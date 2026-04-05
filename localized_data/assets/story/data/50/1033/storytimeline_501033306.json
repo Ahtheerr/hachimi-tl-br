@@ -73,7 +73,7 @@
         },
         {
             "name": "T.M. Opera O",
-            "text": "Eu não lhes disse? <i>Eu</i> sou a<n>protagonista\ndeste conto!"
+            "text": "Eu não lhes disse? <i>Eu</i> sou a<n>protagonista deste\nconto!"
         },
         {
             "name": "Monólogo",
@@ -161,7 +161,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Será que nossa próxima corrida será<n>ainda\nmelhor do que —",
+            "text": "Será que nossa próxima corrida será<n>ainda melhor\ndo que —",
             "choice_data_list": [
                 "...!"
             ]
@@ -176,7 +176,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Estou vendo o espírito competitivo<n>dela surgir.\nEla está aprendendo a<n>gostar de competir com\nsuas rivais.",
+            "text": "Estou vendo o espírito competitivo<n>dela surgir. Ela\nestá aprendendo a<n>gostar de competir com suas\nrivais.",
             "choice_data_list": [
                 "(É certamente uma mudança para melhor.)"
             ]
@@ -195,7 +195,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "No meu caminho para casa um dia,<n>minha\natenção de repente se volta<n>para o céu.",
+            "text": "No meu caminho para casa um dia,<n>minha atenção\nde repente se volta<n>para o céu.",
             "choice_data_list": [
                 "O tempo tem estado bem sombrio ultimamente.",
                 "O tempo tem estado bem sombrio ultimamente."
@@ -211,7 +211,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Os dias nublados continuam enquanto\ncomeçamos a treinar para o<n>Japanese Derby."
+            "text": "Os dias nublados continuam enquanto<n>começamos\na treinar para o<n>Japanese Derby."
         }
     ]
 }

@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Vou à enfermaria visitar a <chrname>,<n>já que ela\nse machucou<n>recentemente... apenas para ver\numa<n>figura familiar já de pé ao lado da<n>cama\ndela."
+            "text": "Vou à enfermaria visitar a<n><chrname>, já\nque ela se<n>machucou recentemente... apenas\npara ver uma figura familiar já de pé<n>ao lado da\ncama dela."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -17,15 +17,15 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "E se não for uma acupunturista para<n>dar uma\nboa espetada nela, quem<n>será?!"
+            "text": "E se não for uma acupunturista para<n>dar uma boa\nespetada nela, quem<n>será?!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Eu até pesquisei pontos de chakra<n>que ajudam\na tratar lesões! Você tem<n>que me dar uma\nchance! Por favor!"
+            "text": "Eu até pesquisei pontos de chakra<n>que ajudam a\ntratar lesões! Você tem<n>que me dar uma chance!\nPor favor!"
         },
         {
             "name": "Monólogo",
-            "text": "Embora eu queira fazer tudo o que<n>puder pelo\nbem da <chrname>, não<n>parece seguro deixá-la\nnas mãos de<n>Sasami Anshinzawa."
+            "text": "Embora eu queira fazer tudo o que<n>puder pelo\nbem da<n><chrname>, não parece<n>seguro\ndeixá-la nas mãos de Sasami<n>Anshinzawa."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -33,14 +33,14 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "É o contrário! Estou fazendo<n>acupuntura pelo\nbem de toda a<n>espécie Umamusume!",
+            "text": "É o contrário! Estou fazendo<n>acupuntura pelo bem\nde toda a<n>espécie Umamusume!",
             "choice_data_list": [
                 "...Será possível? Você realmente se importa tanto\nassim com as Umamusume?!"
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "E eu ficaria radiante se o futuro delas\nenvolvesse mais agulhas...",
+            "text": "E eu ficaria radiante se o futuro delas<n>envolvesse\nmais agulhas...",
             "choice_data_list": [
                 "...Hein?"
             ]
@@ -55,7 +55,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "<i>Tum-tum! Cabrum! Zzzzt!<n>Vruuum!</i>"
+            "text": "<i>Tum-tum! Cabrum! Zzzzt! Vruuum!</i>"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -67,23 +67,23 @@
         },
         {
             "name": "Monólogo",
-            "text": "Exatamente como Sasami proclamou,<n><chrname>\nteve uma recuperação<n>completa e agora está\nmais forte do<n>que nunca!"
+            "text": "Exatamente como Sasami proclamou,\n<chrname> teve uma<n>recuperação\ncompleta e agora está<n>mais forte do que nunca!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Foi um grande sucesso! Acho que as\ninformações no Umatter podem ser<n>bem\nconfiáveis, afinal..."
+            "text": "Foi um grande sucesso! Acho que as<n>informações\nno Umatter podem ser<n>bem confiáveis, afinal..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Ah, a propósito, tomei a liberdade de<n>ativar\nalguns chakras extras que vão<n>aumentar a força\ndela! ☆"
+            "text": "Ah, a propósito, tomei a liberdade de<n>ativar alguns\nchakras extras que vão<n>aumentar a força dela! ☆"
         },
         {
             "name": "Monólogo",
-            "text": "Exatamente como Sasami proclamou,<n><chrname>\nse recuperou de sua lesão<n>e ficou mais forte!"
+            "text": "Exatamente como Sasami proclamou,\n<chrname> se recuperou de<n>sua lesão e\nficou mais forte!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Hum... Algo não parece estar muito<n>certo... É\nquase como se o tratamento<n>não estivesse\nfuncionando ou algo<n>assim..."
+            "text": "Hum... Algo não parece estar muito<n>certo... É quase\ncomo se o tratamento<n>não estivesse funcionando\nou algo<n>assim..."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -91,7 +91,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Ela pode não ter se curado de suas<n>lesões, mas\nestou apenas feliz que a<n><chrname> esteja sã e\nsalva."
+            "text": "Ela pode não ter se curado de suas<n>lesões, mas\nestou apenas feliz que a<n><chrname>\nesteja sã e<n>salva."
         }
     ]
 }

@@ -1,0 +1,346 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Silence Suzuka e eu estamos<n>voltando para casa\ndepois de um<n>passeio quando decidimos passar\npelo centro comercial."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Nossa, está tão lotado."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Cheguem mais e testem a sorte no<n>nosso sorteio\nde Ano-Novo! O prêmio<n>principal deste ano é uma\nviagem<n>para águas termais para duas<n>pessoas!",
+            "color_text_info_list": [
+                "viagem para águas termais"
+            ]
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Os vencedores do primeiro prêmio<n>levam um\nhambúrguer deluxe de<n>cenoura! Os do segundo\nprêmio<n>ganham um cesto de cenouras! E os<n>do\nterceiro prêmio podem levar uma<n>cenoura para\ncasa!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Não deixem essa chance passar!<n>Peguem um\nbilhete agora e girem a<n>roleta para tentar a sorte!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, então é um sorteio. Agora<n>entendo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Falando nisso, tenho quase certeza<n>de que\nrecebemos um bilhete mais<n>cedo, quando\nestávamos fazendo<n>compras.",
+            "choice_data_list": [
+                "Temos um bilhete, então por que não tentar?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Deram o bilhete para você, então<n>quem deveria\ntentar é você!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Trim-trim! Trim-trim!</i>"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Ora, mas veja só! Temos um sortudo<n>vencedor do\nprimeiro prêmio! Você<n>vai levar um hambúrguer\ndeluxe de<n>cenoura! Parabéns!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh... Esse sino me soa tão familiar..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe, isso meio que me traz<n>lembranças.",
+            "choice_data_list": [
+                "É mesmo?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Sim... Na minha cidade natal, havia<n>uma corridinha\nda qual participei<n>quando era criança."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ela se chamava Corridinha Infantil.<n>Era tão\npequena e informal que nem<n>havia uma linha de\nchegada de<n>verdade."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Em vez disso, um dos adultos tocava<n>um sininho\nde mão quando uma de<n>nós terminava."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Tinha exatamente o mesmo som<n>desse que o\natendente acabou de<n>tocar.",
+            "choice_data_list": [
+                "Então vamos ficar em primeiro e ouvir o sino de\nnovo!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ficar em primeiro? Você não quer<n>dizer \"ganhar o\nprimeiro prêmio\"?",
+            "choice_data_list": [
+                "Não! Você tem que ficar em primeiro igual na\nCorridinha Infantil!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. É mesmo?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Mas você tem certeza de que eu<n>posso usar o\nseu bilhete?",
+            "choice_data_list": [
+                "Claro!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Muito obrigada. Então, vou ficar em<n>primeiro!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela vai até o atendente, troca o bilhete<n>e gira a\nmanivela da roleta do sorteio."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uma pequena bolinha de plástico cai<n>da abertura\nda roleta..."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Mas que coisa! Temos um vencedor<n>do prêmio\nprincipal! Venha pegar o<n>cupom da sua viagem\npara águas<n>termais! Parabéns!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Ah!</i> Eu fiquei até acima do primeiro<n>lugar?!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Isso é possível numa corrida,<n>Treinador?!",
+            "choice_data_list": [
+                "Acho que é como bater um recorde?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Bater um recorde..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe, é um jeito divertido de pensar<n>nisso."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Mas o que devo fazer com este<n>cupom?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Eu só viajei de férias com a minha<n>família, então\nnão sei muito bem o<n>que fazer...",
+            "choice_data_list": [
+                "Você pode ir com uma amiga também. Que tal\nconvidar alguém?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, essa certamente é uma ideia..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Então... quem eu deveria convidar?<n>Afinal, férias\nassim são uma ocasião<n>tão especial..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hmm...",
+            "choice_data_list": [
+                "Você não precisa decidir agora.",
+                "Você não precisa decidir agora."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "É verdade. Nesse caso..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Você poderia guardar este cupom<n>para mim, por\nfavor?",
+            "choice_data_list": [
+                "Posso, mas por quê?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Se eu ficar com ele, vou me<n>preocupar o tempo\ntodo com quem<n>devo convidar."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Quando eu decidir, com certeza vou<n>buscá-lo com\nvocê. Poderia mantê-lo<n>em segurança até lá?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu faço como ela pediu e fico com o<n>cupom\nguardado em segurança."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Parece que temos mais um vencedor<n>do primeiro\nprêmio! Parabéns! Você<n>leva um hambúrguer\ndeluxe de<n>cenoura!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh! Fiquei em primeiro lugar! Hehe.",
+            "choice_data_list": [
+                "Parabéns!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Obrigada!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Mesmo que seja só um sorteio, fico<n>muito feliz\npor ter ficado em primeiro.",
+            "choice_data_list": [
+                "Bom, ele parece mesmo bem gostoso.",
+                "Bom, ele parece mesmo bem gostoso."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Realmente parece."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Mas é um pouco demais,<n>considerando que ainda\ntenho que<n>pensar no jantar no dormitório...<n>Então,\nvocê gostaria de dividir<n>comigo?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Fico mais do que feliz com isso, então<n>concordo\nem dividir o hambúrguer<n>com ela."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Temos um vencedor do segundo<n>prêmio! Hoje é\nseu dia de sorte!<n>Você vai levar um cesto de\ncenouras<n>para casa!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh... Quase consegui o primeiro lugar..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Mas, nossa, que quantidade incrível<n>de cenouras."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "O que devo fazer com tudo isso?",
+            "choice_data_list": [
+                "Por que você não divide com o pessoal do\ndormitório?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh! É uma boa ideia. Vou fazer isso."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe, a Spe vai ficar tão animada<n>quando vir isso."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu ajudo Silence Suzuka a levar as<n>cenouras de\nvolta para o dormitório."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Olha só! Você levou o terceiro prêmio!<n>Aqui está a\nsua cenoura!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh... Terceiro lugar..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Desculpe, Treinador. Acho que hoje<n>me faltou\nsorte para pegar o primeiro<n>lugar..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Talvez eu devesse ter pedido um<n>amuleto da sorte\npara a Fukukitaru<n>antes.",
+            "choice_data_list": [
+                "Um amuleto da sorte?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ao que parece, ela tem um feito para<n>aumentar a\nsua sorte ao tirar a sorte<n>e coisas do tipo."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Mas não posso dizer ao certo o<n>quanto ele\nfunciona."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Colocamos a cenoura do terceiro<n>prêmio na\nsacola de compras e<n>voltamos para a academia\nenquanto<n>observamos o sol se pôr no<n>horizonte."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Aaah, que pena! Para você, o prêmio<n>de\nconsolação: um pacote de lenços!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ah, não! Nem sequer fiquei entre os<n>três\nprimeiros!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Que desastre!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Treinador, precisamos começar a<n>treinar agora\nmesmo!",
+            "choice_data_list": [
+                "Está tudo bem! É só um sorteio!"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh, sim! V-você tem razão."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Sigh...</i> Desculpe, eu me empolguei<n>um pouco."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Silence Suzuka parece bem abatida<n>enquanto\nvoltamos para casa,<n>observando o sol se pôr no\nhorizonte."
+        }
+    ]
+}

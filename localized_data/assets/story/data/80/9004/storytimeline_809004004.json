@@ -14,7 +14,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Ah, com uma saudação, claro. \"Olá,<n>Treinador\n<username>. Bom trabalho<n>lá—\"",
+            "text": "Ah, com uma saudação, claro. \"Olá,<n>Treinador <username>.\nBom trabalho lá—\"",
             "choice_data_list": [
                 "Olá, Treinadora Kiryuin!"
             ]
@@ -53,7 +53,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Er... Nesse caso, você gostaria de me\nacompanhar agora?"
+            "text": "Er... Nesse caso, você gostaria de me<n>acompanhar\nagora?"
         },
         {
             "name": "Monólogo",
@@ -134,7 +134,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Tenho vergonha de dizer isso, mas...<n>eu não\ntenho nenhum hobby."
+            "text": "Tenho vergonha de dizer isso, mas...<n>eu não tenho\nnenhum hobby."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -161,7 +161,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Parece que nunca faço nada além de<n>estudar...\nFoi assim que passei minha<n>vida estudantil\ninteira, e mesmo<n>agora, eu..."
+            "text": "Parece que nunca faço nada além de<n>estudar... Foi\nassim que passei minha<n>vida estudantil inteira, e\nmesmo<n>agora, eu..."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -180,11 +180,11 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Brilha, brilha, estrelinha! ♪ Quero ver<n>você brilhar!\n♪"
+            "text": "Brilha, brilha, estrelinha! ♪ Quero ver<n>você brilhar! ♪"
         },
         {
             "name": "Monólogo",
-            "text": "A Kiryuin pode só conhecer músicas<n>infantis,\nmas a voz dela é<n>inegavelmente algo belo."
+            "text": "A Kiryuin pode só conhecer músicas<n>infantis, mas\na voz dela é<n>inegavelmente algo belo."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -203,7 +203,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Er, Treinador <username>... Se você<n>não se\nimportasse..."
+            "text": "Er, Treinador <username>... Se você não se<n>importasse..."
         },
         {
             "name": "Treinadora Kiryuin",

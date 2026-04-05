@@ -17,7 +17,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Oh, você já está aqui, Treinador<n><username>?! No\nmomento exato! Olhe<n>de perto!"
+            "text": "Oh, você já está aqui, Treinador <username>?!<n>No momento\nexato! Olhe de perto!"
         },
         {
             "name": "Diretora Akikawa",
@@ -46,7 +46,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Escuto maravilhado enquanto a<n>Diretora\nAkikawa explica<n>alegremente os diferentes\nprodutos<n>disponíveis."
+            "text": "Escuto maravilhado enquanto a<n>Diretora Akikawa\nexplica<n>alegremente os diferentes produtos\ndisponíveis."
         },
         {
             "name": "Diretora Akikawa",
@@ -108,11 +108,11 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Eu aprecio o sentimento, mas você<n>não\nconsegue fazer as coisas com<n>moderação?!"
+            "text": "Eu aprecio o sentimento, mas você<n>não consegue\nfazer as coisas com<n>moderação?!"
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Wahahaha! Nenhuma quantia de<n>dinheiro é\ngrande demais quando é<n>gasta para ajudar\nminhas amadas<n>alunas!"
+            "text": "Wahahaha! Nenhuma quantia de<n>dinheiro é grande\ndemais quando é<n>gasta para ajudar minhas\namadas<n>alunas!"
         },
         {
             "name": "Tazuna Hayakawa",
@@ -136,7 +136,7 @@
             "name": "Repórter Otonashi",
             "text": "Mas devo dizer — isso é incrível! A<n>Diretora\nAkikawa está disposta a<n>dedicar <i>todo</i> o seu\npatrimônio<n>pessoal às alunas!",
             "choice_data_list": [
-                "Na verdade, duvido que isso seja sequer perto\nde tudo..."
+                "Na verdade, duvido que isso seja sequer perto de\ntudo..."
             ]
         },
         {
@@ -149,14 +149,14 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "E o Treinador <username> sacrificará<n><i>tudo</i>\npara ajudar a realizar as<n>esperanças dela!",
+            "text": "E o Treinador <username> sacrificará <i>tudo</i><n>para ajudar a\nrealizar as esperanças<n>dela!",
             "choice_data_list": [
                 "..."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Como chegamos ao ponto em que<n><i>eu</i>\ntambém estou sacrificando<n>tudo?"
+            "text": "Como chegamos ao ponto em que<n><i>eu</i> também\nestou sacrificando<n>tudo?"
         },
         {
             "name": "Monólogo",

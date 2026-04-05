@@ -22,7 +22,7 @@
         },
         {
             "name": "Umamusume A",
-            "text": "E-ei! Isso parece que vai acabar mal!\nPrecisamos chamar um professor ou<n>algo assim!",
+            "text": "E-ei! Isso parece que vai acabar mal!<n>Precisamos\nchamar um professor ou<n>algo assim!",
             "choice_data_list": [
                 "...?"
             ]
@@ -33,7 +33,7 @@
         },
         {
             "name": "Umamusume B",
-            "text": "Ah, Treinador! Pode vir aqui um<n>segundo? Tem\num problemão<n>surgindo aqui!"
+            "text": "Ah, Treinador! Pode vir aqui um<n>segundo? Tem um\nproblemão<n>surgindo aqui!"
         },
         {
             "name": "Umamusume A",
@@ -59,7 +59,7 @@
         },
         {
             "name": "Sirius Symboli",
-            "text": "É, não se envolva. Vamos nessa,<n>Nakayama.\nHora de trocar o crupiê."
+            "text": "É, não se envolva. Vamos nessa,<n>Nakayama. Hora\nde trocar o crupiê."
         },
         {
             "name": "Nakayama Festa",
@@ -114,11 +114,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "O jogo é blackjack. O objetivo é<n>montar uma\nmão de cartas com um<n>valor total o mais próximo\npossível de<n>vinte e um sem ultrapassar."
+            "text": "O jogo é blackjack. O objetivo é<n>montar uma mão\nde cartas com um<n>valor total o mais próximo\npossível de<n>vinte e um sem ultrapassar."
         },
         {
             "name": "Monólogo",
-            "text": "Agora, eu tenho dezesseis. Parece<n>um pouco\nfraco, mas se eu pedir<n>outra carta, posso\nestourar."
+            "text": "Agora, eu tenho dezesseis. Parece<n>um pouco\nfraco, mas se eu pedir<n>outra carta, posso estourar."
         },
         {
             "name": "Monólogo",
@@ -163,7 +163,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Dezesseis contra duas mãos de vinte<n>e um.\nBem, lá se vai a vitória que eu<n>precisava tão\ndesesperadamente..."
+            "text": "Dezesseis contra duas mãos de vinte<n>e um. Bem,\nlá se vai a vitória que eu<n>precisava tão\ndesesperadamente..."
         },
         {
             "name": "Sirius Symboli",

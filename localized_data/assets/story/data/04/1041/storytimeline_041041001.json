@@ -116,7 +116,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Agora que mencionou, você<n><i>parece</i> mesmo familiar!",
+            "text": "Agora que mencionou, você <i>parece</i><n>mesmo familiar!",
             "choice_data_list": [
                 "Fico feliz que se lembre de mim."
             ]
@@ -213,7 +213,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Eu <i>nasci</i> para ser a<n>representante de classe! Por que<n>mais eu seria abençoada com tanto<n>talento e inteligência?!",
+            "text": "Eu <i>nasci</i> para ser a representante<n>de classe! Por que mais eu seria<n>abençoada com tanto talento e<n>inteligência?!",
             "choice_data_list": [
                 "(Err...)"
             ]

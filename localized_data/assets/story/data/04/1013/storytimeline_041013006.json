@@ -156,11 +156,11 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "<i>TRAZ ELES PRA CASA,<n>YU-TA-KA!</i>"
+            "text": "<i>TRAZ ELES PRA CASA, YU-TA-KA!</i>"
         },
         {
             "name": "Mejiro McQueen",
-            "text": "<i>TRAZ ELES PRA CASA,<n>YU-TA-KA!</i>"
+            "text": "<i>TRAZ ELES PRA CASA, YU-TA-KA!</i>"
         },
         {
             "name": "Monólogo",
@@ -178,8 +178,8 @@
             "name": "Mejiro McQueen",
             "text": "Se eu pudesse, iria assistir a um jogo<n>agora mesmo.",
             "choice_data_list": [
-                "Como você passou a gostar de assistir\nesportes?",
-                "Como você passou a gostar de assistir\nesportes?"
+                "Como você passou a gostar de assistir esportes?",
+                "Como você passou a gostar de assistir esportes?"
             ]
         },
         {
@@ -232,7 +232,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Nem uma palavra sobre isso chegará<n>aos outros alunos ou funcionários. E,<n>se possível, eu gostaria que<n><i>você</i> esquecesse<n>completamente também..."
+            "text": "Nem uma palavra sobre isso chegará<n>aos outros alunos ou funcionários. E,<n>se possível, eu gostaria que <i>você</i><n>esquecesse completamente<n>também..."
         }
     ]
 }

@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "While I'm waiting for <chrname> to<n>show up..."
+            "text": "While I'm waiting for<n><chrname> to show\nup..."
         },
         {
             "name": "Tosen Jordan",
-            "text": "Whoa, that looks really painful! What<n>happened\nto your nail, Flash?!"
+            "text": "Whoa, that looks really painful! What<n>happened to\nyour nail, Flash?!"
         },
         {
             "name": "Eishin Flash",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "And afterwards, we have a joint<n>dance lesson,\nso I won't be able to<n>tend to my nails until that is\nover."
+            "text": "And afterwards, we have a joint<n>dance lesson, so\nI won't be able to<n>tend to my nails until that is\nover."
         },
         {
             "name": "Tosen Jordan",
@@ -42,7 +42,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "The race between Tosen Jordan and<n>Eishin\nFlash looks as if it'll go down<n>to the wire."
+            "text": "The race between Tosen Jordan and<n>Eishin Flash\nlooks as if it'll go down<n>to the wire."
         },
         {
             "name": "Monólogo",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Tosen Jordan",
-            "text": "Seeeee? I told you that you gotta take<n>care of\nyour nails."
+            "text": "Seeeee? I told you that you gotta take<n>care of your\nnails."
         },
         {
             "name": "Eishin Flash",
@@ -125,7 +125,7 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "They're part of a secret strategy to<n>maximize\npower, since victory is<n>determined by the\nsmallest of<n>margins."
+            "text": "They're part of a secret strategy to<n>maximize\npower, since victory is<n>determined by the smallest\nof<n>margins."
         },
         {
             "name": "Tosen Jordan",
@@ -141,7 +141,7 @@
         },
         {
             "name": "Tosen Jordan",
-            "text": "...Yeah, something like that. I don't<n>mind if\nyou've got some respect for<n>me now, y'know."
+            "text": "...Yeah, something like that. I don't<n>mind if you've\ngot some respect for<n>me now, y'know."
         },
         {
             "name": "Eishin Flash",
@@ -153,11 +153,11 @@
         },
         {
             "name": "Tosen Jordan",
-            "text": "Whoa, for real? Those sound <i>so</i><n>chic. I'm\ntotes down!"
+            "text": "Whoa, for real? Those sound <i>so</i><n>chic. I'm totes\ndown!"
         },
         {
             "name": "Tosen Jordan",
-            "text": "...It's all about being chic, okay?<n>Don't forget\nthat."
+            "text": "...It's all about being chic, okay?<n>Don't forget that."
         },
         {
             "name": "Tosen Jordan",
@@ -165,11 +165,11 @@
         },
         {
             "name": "Eishin Flash",
-            "text": "Both practical and gorgeous... I see. A<n>lesson\nwell learned."
+            "text": "Both practical and gorgeous... I see. A<n>lesson well\nlearned."
         },
         {
             "name": "Tosen Jordan",
-            "text": "Hey, chill! It's not like I'm all passion<n>or\nwhatevs, you know? I just like to<n>do nails..."
+            "text": "Hey, chill! It's not like I'm all passion<n>or whatevs,\nyou know? I just like to<n>do nails..."
         },
         {
             "name": "Gold Ship",
@@ -177,7 +177,7 @@
         },
         {
             "name": "Tosen Jordan",
-            "text": "Ugh, what the... Where'd you come<n>from,\nGolshi?!"
+            "text": "Ugh, what the... Where'd you come<n>from, Golshi?!"
         },
         {
             "name": "Gold Ship",
@@ -201,7 +201,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Eishin Flash rescues Tosen Jordan,<n>who\ncomments that \"what goes<n>around <i>totes</i>\ncomes around.\""
+            "text": "Eishin Flash rescues Tosen Jordan,<n>who\ncomments that \"what goes<n>around <i>totes</i> comes\naround.\""
         }
     ]
 }

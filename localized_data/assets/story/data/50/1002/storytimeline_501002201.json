@@ -1,0 +1,27 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Hoje é o Yayoi Sho, mas algo parece<n>estar\nincomodando Silence Suzuka."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "...",
+            "choice_data_list": [
+                "Você está bem?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Oh... Sim, estou bem."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Está na hora de ir."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela está mais seca que o normal. Não<n>há dúvida\nde que algo abalou o seu<n>humor."
+        }
+    ]
+}

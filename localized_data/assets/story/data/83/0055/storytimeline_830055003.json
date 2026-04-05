@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Once again, our murder mystery<n>group has\nassembled to pin down the<n>culprit once and for\nall. Now, the last<n>we heard was..."
+            "text": "Once again, our murder mystery<n>group has\nassembled to pin down the<n>culprit once and for all.\nNow, the last<n>we heard was..."
         },
         {
             "name": "Special Week",
@@ -18,11 +18,11 @@
         },
         {
             "name": "Seiun Sky",
-            "text": "...Spe's telling the truth. I <i>was</i><n>walking\naround the inn holding<n>something."
+            "text": "...Spe's telling the truth. I <i>was</i><n>walking around\nthe inn holding<n>something."
         },
         {
             "name": "Grass Wonder",
-            "text": "Right. Last time, Sei admitted that<n>Spe's\nrevelation was true. Tell us,<n>Sei—do you have\nsome sort of<n>scheme up your sleeve?"
+            "text": "Right. Last time, Sei admitted that<n>Spe's revelation\nwas true. Tell us,<n>Sei—do you have some sort of\nscheme up your sleeve?"
         },
         {
             "name": "Seiun Sky",
@@ -50,7 +50,7 @@
         },
         {
             "name": "Seiun Sky",
-            "text": "That means Grass was the one who<n>had the\npoison to begin with, and she<n>spiked the meal.\nBut she knew<n>bringing poisoned food directly\nwoulda been way too obvious."
+            "text": "That means Grass was the one who<n>had the\npoison to begin with, and she<n>spiked the meal. But\nshe knew<n>bringing poisoned food directly<n>woulda\nbeen way too obvious."
         },
         {
             "name": "Seiun Sky",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Seiun Sky",
-            "text": "Oh, right. Before I forget. That sound<n>of\nsomething breaking was King<n>dropping the bowl\nafter eating the<n>poison."
+            "text": "Oh, right. Before I forget. That sound<n>of something\nbreaking was King<n>dropping the bowl after eating\nthe<n>poison."
         },
         {
             "name": "Seiun Sky",
@@ -78,15 +78,15 @@
         },
         {
             "name": "Seiun Sky",
-            "text": "Naturally, I decided to run and tell<n>everyone, but I\nfigured it'd be<n>dangerous to leave the bowl on\nthe<n>floor, so I swept it up and took it with<n>me."
+            "text": "Naturally, I decided to run and tell<n>everyone, but I\nfigured it'd be<n>dangerous to leave the bowl on the\nfloor, so I swept it up and took it with<n>me."
         },
         {
             "name": "Seiun Sky",
-            "text": "That must be when Spe saw me<n>booking it with\nthe broken bowl.<n>Nothing suspicious after all,\nright?"
+            "text": "That must be when Spe saw me<n>booking it with\nthe broken bowl.<n>Nothing suspicious after all, right?"
         },
         {
             "name": "Grass Wonder",
-            "text": "So that's what you're going with,<n>then? But you\nhave no proof that<n>what you're saying is the\ntruth,<n>correct?"
+            "text": "So that's what you're going with,<n>then? But you\nhave no proof that<n>what you're saying is the truth,\ncorrect?"
         },
         {
             "name": "Seiun Sky",
@@ -102,7 +102,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "I think back over everything that's<n>been\nrevealed so far. Who should I<n>cast my vote for?",
+            "text": "I think back over everything that's<n>been revealed\nso far. Who should I<n>cast my vote for?",
             "choice_data_list": [
                 "Seiun Sky is the culprit.",
                 "Grass Wonder is the culprit."
@@ -130,7 +130,7 @@
         },
         {
             "name": "Seiun Sky",
-            "text": "It smashed the original bowl of<n>chawanmushi\nand made a huge<n>racket, so I rushed to the\nkitchen for a<n>replacement. I had no idea the food\nin<n>the blue bowl had been poisoned."
+            "text": "It smashed the original bowl of<n>chawanmushi and\nmade a huge<n>racket, so I rushed to the kitchen for\na<n>replacement. I had no idea the food in<n>the blue\nbowl had been poisoned."
         },
         {
             "name": "Grass Wonder",
@@ -142,7 +142,7 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "But things aren't always as they<n>seem...\nUltimately, your explanation<n>wasn't consistent\nwith Spe's<n>statement about having been with\nme."
+            "text": "But things aren't always as they<n>seem...\nUltimately, your explanation<n>wasn't consistent\nwith Spe's<n>statement about having been with me."
         },
         {
             "name": "Seiun Sky",
@@ -158,15 +158,15 @@
         },
         {
             "name": "Monólogo",
-            "text": "The results are in, but the vote is<n>divided, so\nSeiun Sky is off the hook."
+            "text": "The results are in, but the vote is<n>divided, so Seiun\nSky is off the hook."
         },
         {
             "name": "El Condor Pasa",
-            "text": "So the game ends without us<n>knowing who did\nit? Maaan, what a<n>bummer..."
+            "text": "So the game ends without us<n>knowing who did it?\nMaaan, what a<n>bummer..."
         },
         {
             "name": "Seiun Sky",
-            "text": "I mean, that's why they call it a<n>murder\n<i>mystery.</i> The<n>ambiguity's part of the\nsuspense."
+            "text": "I mean, that's why they call it a<n>murder\n<i>mystery.</i> The ambiguity's<n>part of the suspense."
         },
         {
             "name": "Seiun Sky",
@@ -206,7 +206,7 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "Unfortunately, you've all been<n>deceived... by\nSei's lies.",
+            "text": "Unfortunately, you've all been<n>deceived... by Sei's\nlies.",
             "choice_data_list": [
                 "What?! She lied?!"
             ]

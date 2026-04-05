@@ -1,0 +1,268 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certo dia, após a Fuji Kiseki ter<n>acumulado uma\nsérie de vitórias..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Você se lembra daquela promessa<n>que fizemos\num tempo atrás?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Nós prometemos fazer uma viagem<n>para as\nfontes termais assim que<n>tivéssemos tempo,\nlembra?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela tira um cupom familiar de viagem<n>para fontes\ntermais de lugar nenhum."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Agora que as coisas se acalmaram,<n>por que não\nvamos? Prometo que<n>será uma viagem diferente\nde<n>qualquer outra que você já teve."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Decidimos a data da nossa viagem<n>na mesma\nhora, e..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O dia da nossa viagem para as fontes<n>termais\nchegou!",
+            "choice_data_list": [
+                "(Ai não, eu dormi demais!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Corro para o nosso ponto de<n>encontro, torcendo\npara não estar<n>muito atrasado."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah! Bom dia, Treinador! Por aqui!",
+            "choice_data_list": [
+                "Desculpa o atraso!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ahaha! Tudo bem. Eu já avisei a<n>pousada, então\npodemos ir com<n>calma."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Falando nisso, você já tomou café da<n>manhã? Eu\npedi uma comida para<n>viagem por via das\ndúvidas."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Podemos comer juntos no trem, se<n>você quiser.",
+            "choice_data_list": [
+                "Eu adoraria! Obrigado."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Fuji Kiseki atua como minha guia, e<n>nós\nchegamos à pousada em<n>segurança."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Relaxando nas fontes termais..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ei! Como foi o seu banho? Bem<n>relaxante, eu\nespero?",
+            "choice_data_list": [
+                "Foi fantástico."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Que ótimo. A água estava tão<n>gostosa, me\naqueceu até o fundo da<n>alma."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Aproveitando, toma. Beba um pouco<n>desta\ndeliciosa água da fonte. ♪",
+            "choice_data_list": [
+                "Ah, obrigado!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Fuji Kiseki continua sendo a guia e<n>anfitriã\nperfeita enquanto andamos<n>pela pousada."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Tem um lindo campo de flores logo ali<n>e ainda falta\num tempo para o jantar,<n>então por que não vamos\ndar uma<n>olhada?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe. Parece que você gostou<n>mesmo da comida."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Pode ficar com a minha parte<n>também!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Quando me dou por conta, ela me<n>puxa pela mão,\nme guiando por um<n>caminho de terra pelos\ncampos de<n>arroz."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Está escurecendo, então preste<n>atenção onde\npisa!",
+            "choice_data_list": [
+                "(Será que a Fuji está descansando?)",
+                "(Será que a Fuji está descansando?)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto como se estivesse apenas me<n>deixando\nlevar e permitindo que ela<n>cuide de mim o tempo\ntodo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Esta viagem era para ser relaxante<n>para nós dois\n— não posso deixar que<n>ela se esgote desse jeito!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "...?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "O que foi? Tá cansado?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Desculpa, não devia ter te arrastado<n>para uma\ncaminhada sem avisar.<n>Vamos voltar.",
+            "choice_data_list": [
+                "Não é isso."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "O que é, então?",
+            "choice_data_list": [
+                "Bem..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Digo a ela que quero que ela abaixe a<n>guarda e\nrelaxe um pouco em vez de<n>ficar se preocupando\ncomigo o tempo<n>todo."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ah, é só isso? Graças a Deus!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Não se preocupe. Eu tô fazendo isso<n>porque amo\nte fazer sorrir mais do<n>que qualquer coisa."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Poder ver você sorrir o dia todo tem<n>alimentado\ntanto o meu coração<n>quanto o meu corpo."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Mas... Bem... Se você quer mesmo<n>que eu relaxe\nmais, então..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela estala os dedos de forma<n>elegante."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Fiiiuuu!</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Um enorme fogo de artifício sobe aos<n>céus e\nexplode bem acima de nós!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Eu gostaria que você aproveitasse<n>essa viagem\ncom cada fibra do seu<n>ser.",
+            "choice_data_list": [
+                "Uau!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ahaha! Te peguei de surpresa? Não<n>fui eu que\npreparei isso, para falar a<n>verdade. Por acaso vai\nter um show<n>de fogos de artifício hoje."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Dizem que esse é um bom lugar<n>secreto para\nassistir."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Os fogos de artifício são lançados um<n>após o\noutro, desabrochando e<n>brilhando no céu.",
+            "choice_data_list": [
+                "Isso é muito daora!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Considerando o quão perfeito foi o<n>nosso timing,\nela deve ter me<n>chamado para caminhar só para\nver<n>esse show de fogos.",
+            "choice_data_list": [
+                "(O quanto ela pesquisou para o dia de hoje?)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Quando repenso no nosso dia juntos,<n>percebo\nque a Fuji Kiseki deve ter<n>preparado tudo com\nantecedência."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Fico feliz que esteja se divertindo!<n>Tem uns\nbancos lá pra gente sent—"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hm? O que foi? Você tá me<n>encarando tão\nintensamente.",
+            "choice_data_list": [
+                "Obrigado por tornar o dia de hoje tão memorável."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "...!",
+            "choice_data_list": [
+                "Sou grato por toda a dedicação que você teve\npara planejar isso.",
+                "Sou grato por toda a dedicação que você teve\npara planejar isso."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "É óbvio o quanto de coração e<n>esforço ela colocou\nnos preparativos<n>de hoje, desde o café da manhã\naté<n>o campo de flores e o show de fogos.",
+            "choice_data_list": [
+                "Eu tô tão feliz agora.",
+                "Eu tô tão feliz agora."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Um tom adorável de vermelho tinge<n>as bochechas\nda Fuji Kiseki<n>enquanto eu falo."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "A-ah. Bem... Fico feliz em ouvir isso. É<n>que..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Eu queria muito tornar o dia de hoje<n>especial.\nEspero não ter exagerado.",
+            "choice_data_list": [
+                "De jeito nenhum!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ufa... Que alívio."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Eu também quero te agradecer por<n>me agraciar\ncom esse seu sorriso<n>maravilhoso."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Um brinde a muitos mais dias de<n>sorrisos juntos."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto que a Fuji Kiseki e eu<n>formamos um laço\ninsubstituível<n>durante o nosso tempo juntos."
+        }
+    ]
+}

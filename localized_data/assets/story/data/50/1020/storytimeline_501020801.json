@@ -1,0 +1,271 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Um dia em meados de março,<n>encontro Seiun Sky\nperdida em<n>pensamentos. Não é algo que eu<n>veja\ncom frequência nela."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hm... Hmm...",
+            "choice_data_list": [
+                "Algo errado?",
+                "Algo errado?"
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ah, não é nada. Ou pelo menos, nada<n>demais."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Mas posso te pedir uma opinião<n>sobre uma\ncoisa?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seiun Sky se abre, revelando que<n>outro dia,\nquando ela convidou<n>Nishino Flower para ser seu\npar na<n>Ligne Droite..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nishino Flower pediu um tempo para<n>pensar."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Dá pra acreditar? Gaaah..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Parando pra pensar, talvez não tenha<n>sido uma\nboa ideia eu ter caído no<n>sono enquanto ela falava\noutro dia."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "E aquela vez que eu pulei do nada<n>enquanto ela\ncarregava flores só pra<n>dar um susto nela\nprovavelmente<n>também não ajudou muito..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela continua tagarelando como se<n>nada tivesse\nacontecido, mas eu<n>percebo pelo rosto dela que\nela está<n>chateada."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Eu achei que ela só pudesse dizer<n>sim ou não.\nNão fazia ideia de que<n>existia uma terceira opção."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O olhar preocupado dela sugere que<n>ela está se\nperguntando se Nishino<n>Flower a odeia.",
+            "choice_data_list": [
+                "Se ela fosse te recusar, acho que já teria feito\nisso."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Sério?",
+            "choice_data_list": [
+                "Deve ter um motivo para ela ter pedido um tempo.",
+                "Deve ter um motivo para ela ter pedido um tempo."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Então... não é porque ela me odeia?",
+            "choice_data_list": [
+                "Não, acho que não.",
+                "Não, acho que não."
+            ]
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Ok."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Você deve ter razão. Valeu, Treinador."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seiun Sky, voltando ao seu normal,<n>resmunga ao\nsair do meu escritório:<n>\"Nesse caso, vou precisar\nde mais<n>informações se quiser vencer essa\nguerra.\""
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Ai...</i> Dançar é tão difícil... Acho que<n>nunca vou\npegar o jeito disso."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hã? Aquela é a..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Hmm... Então eu seguro a flor aqui e<n>dobro o caule\nassim? Está certo?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Você está... fazendo uma coroa de<n>flores?"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Olá, Flower. Hehe, estou sim. É um<n>presente para\numa fada das flores."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Mas é mais difícil do que eu pensei.<n>Parece que\nmeu presente serve mais<n>pra uma lata de lixo."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Não! O que vale é a intenção. Tenho<n>certeza de\nque a pessoa que vai<n>receber ficará radiante, já\nque você<n>se esforçou tanto para fazer você\nmesma!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A expressão de conflito de Seiun Sky<n>se suaviza\nem um sorriso satisfeito."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Mas enfim, Flower, sobre a sua<n>resposta para a\nDroite..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Ah!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Você provavelmente está pensando<n>em dizer não,\nné?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "N-não, não é nada disso! Tenho<n>certeza de que\nseria muito divertido ir<n>à Droite com você!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "É que... você dança tão bem, que eu<n>queria tentar\nficar boa antes de<n>responder... Desculpe por ter\nfeito<n>você esperar tanto."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Ei... Deixa eu te contar uma coisa que<n>ouvi uma\nvez."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Um baile não é uma competição de<n>dança. É um\nlugar onde você cria<n>memórias."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Então, tipo..."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Você não precisa ser boa. Eu só<n>quero criar umas\nmemórias legais<n>juntas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seiun Sky coloca gentilmente sua<n>coroa de flores\nmalfeita na cabeça de<n>Nishino Flower."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "O que me diz, fada das flores?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hã... o quê?! Fada?!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Você mesma disse... O que vale é a<n>intenção."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Oh, eu... Isso..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "É... Você tem razão... Hehehe."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Alguns dias depois, vejo Nishino<n>Flower sorrindo\nenquanto vai para a<n>Droite junto com Seiun Sky."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Pesquisando na memória por<n>\"preocupações,\nNishino Flower\"... Um<n>resultado encontrado datado\nde<n>ontem à noite, 21:41."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Conteúdo determinado como<n>relevante. Iniciando\nreprodução."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "A Sky me convidou para a Droite,<n>mas ela dança\ntão bem..."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Eu não sou muito boa, então tenho<n>medo de\nenvergonhá-la."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "É por isso que estou praticando tanto.<n>Preciso\nmelhorar antes de dizer sim.<n>Fim da reprodução."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "...Ah, agora eu entendi."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Analisando expressão facial... Você<n>está se\nsentindo levemente surpresa."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "É... Isso está um pouco fora do que<n>eu esperava."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um pé aqui, e depois o outro assim...<n>Ah, eu nunca\nvou pegar o jeito disso."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Nesse ritmo, acho que é melhor eu<n>dizer não.\nMas..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Aí ela pode acabar indo com outra<n>pessoa."
+        },
+        {
+            "name": "???",
+            "text": "Ding-ding! Hora da curiosidade! Qual<n>é a coisa\nmais importante para se ter<n>num treino de dança?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hã? Ah! É você, Sky!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "A resposta ééé... diversão!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Então dance comigo, Flower, e você<n>só vai se\ndivertir."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seiun Sky pega a mão de Nishino<n>Flower e as\nconduz aos primeiros<n>movimentos de uma dança."
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Um, dois, vira... Agora um passo<n>grande. E vira..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "O-opa... Haha! Eu consegui!"
+        },
+        {
+            "name": "Seiun Sky",
+            "text": "Você aprendeu bem rápido, mas não<n>me\nsurpreende. Hmm, ok! Pronta para<n>girarmos\njuntas?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Uhuuu! ...Hehee! Isso é muito<n>divertido."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Alguns dias depois, vejo Nishino<n>Flower sorrindo\nenquanto vai para a<n>Droite junto com Seiun Sky."
+        }
+    ]
+}

@@ -14,7 +14,7 @@
         },
         {
             "name": "Gold City",
-            "text": "A questão é que eu não tenho nada.<n><i>Nada.</i> Um rosto bonito, uma<n>boneca boba. Essa sou eu."
+            "text": "A questão é que eu não tenho nada.<n><i>Nada.</i> Um rosto bonito, uma boneca<n>boba. Essa sou eu."
         },
         {
             "name": "Gold City",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Gold City",
-            "text": "Então eu vim para a Academia<n>Tracen. Para correr e correr, e me<n>tornar eu mesma. Para gravar a<n><i>eu</i> de verdade na memória de<n>todo mundo."
+            "text": "Então eu vim para a Academia<n>Tracen. Para correr e correr, e me<n>tornar eu mesma. Para gravar a <i>eu</i><n>de verdade na memória de todo<n>mundo."
         },
         {
             "name": "Gold City",
@@ -213,8 +213,8 @@
             "name": "Gold City",
             "text": "Por que eu não consigo<n>simplesmente... apertar em apagar?",
             "choice_data_list": [
-                "Você não precisa jogar fora a \"você\" de\nverdade.",
-                "Você não precisa jogar fora a \"você\" de\nverdade."
+                "Você não precisa jogar fora a \"você\" de verdade.",
+                "Você não precisa jogar fora a \"você\" de verdade."
             ]
         },
         {

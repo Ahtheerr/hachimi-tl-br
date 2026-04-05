@@ -21,11 +21,11 @@
         },
         {
             "name": "Atendente da Rifa",
-            "text": "As vencedoras do primeiro prêmio<n>ganham um\nbife de hambúrguer de<n>cenoura de luxo! As\nvencedoras do<n>segundo prêmio ganham um\ncesto de<n>cenouras! E as vencedoras do\nterceiro prêmio podem levar para<n>casa uma única\ncenoura!"
+            "text": "As vencedoras do primeiro prêmio<n>ganham um\nbife de hambúrguer de<n>cenoura de luxo! As\nvencedoras do<n>segundo prêmio ganham um cesto\nde<n>cenouras! E as vencedoras do<n>terceiro prêmio\npodem levar para<n>casa uma única cenoura!"
         },
         {
             "name": "Atendente da Rifa",
-            "text": "Não deixem essa oportunidade<n>passar! Peguem\num bilhete agora e<n>girem para ter a sua chance\nde<n>ganhar!",
+            "text": "Não deixem essa oportunidade<n>passar! Peguem\num bilhete agora e<n>girem para ter a sua chance de\nganhar!",
             "choice_data_list": [
                 "Isso deve fazer parte daquele evento de\nliquidação que está rolando.",
                 "Isso deve fazer parte daquele evento de\nliquidação que está rolando."
@@ -33,11 +33,11 @@
         },
         {
             "name": "Atendente da Rifa",
-            "text": "Ei, vocês dois! Vocês têm um bilhete!<n>Por que\nnão testam a sorte?"
+            "text": "Ei, vocês dois! Vocês têm um bilhete!<n>Por que não\ntestam a sorte?"
         },
         {
             "name": "Atendente da Rifa",
-            "text": "Vocês podem ganhar uma viagem<n>para uma\nfonte termal com um<n>cenário incrível no interior! O\ncéu<n>estrelado com certeza vai ajudar<n>vocês a\nrelaxarem!"
+            "text": "Vocês podem ganhar uma viagem<n>para uma fonte\ntermal com um<n>cenário incrível no interior! O céu\nestrelado com certeza vai ajudar<n>vocês a\nrelaxarem!"
         },
         {
             "name": "Admire Vega",
@@ -92,7 +92,7 @@
         },
         {
             "name": "Atendente da Rifa",
-            "text": "Minha nossa senhora! Temos aqui<n>uma\nvencedora do grande prêmio!<n>Venha pegar o\ncupom para a sua<n>viagem para as fontes\ntermais!<n>Parabéns!"
+            "text": "Minha nossa senhora! Temos aqui<n>uma\nvencedora do grande prêmio!<n>Venha pegar o\ncupom para a sua<n>viagem para as fontes termais!\nParabéns!"
         },
         {
             "name": "Monólogo",
@@ -132,15 +132,15 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Sendo honesta, eu não sei bem o que<n>quero\nfazer."
+            "text": "Sendo honesta, eu não sei bem o que<n>quero fazer."
         },
         {
             "name": "Admire Vega",
-            "text": "Será que eu realmente quero ir? Ou<n>eu só... Eu\nnão sei."
+            "text": "Será que eu realmente quero ir? Ou<n>eu só... Eu não\nsei."
         },
         {
             "name": "Admire Vega",
-            "text": "Mas não é como se ver um céu<n>estrelado\nespecial não me<n>interessasse."
+            "text": "Mas não é como se ver um céu<n>estrelado especial\nnão me<n>interessasse."
         },
         {
             "name": "Admire Vega",
@@ -217,8 +217,8 @@
             "name": "Admire Vega",
             "text": "Por que eu não incluiria?",
             "choice_data_list": [
-                "Aquele era o seu bilhete de sorteio, então\ndeveria ser seu.",
-                "Aquele era o seu bilhete de sorteio, então\ndeveria ser seu."
+                "Aquele era o seu bilhete de sorteio, então deveria\nser seu.",
+                "Aquele era o seu bilhete de sorteio, então deveria\nser seu."
             ]
         },
         {
@@ -229,7 +229,7 @@
             "name": "Admire Vega",
             "text": "Eu normalmente não como coisas<n>caras como\nesta.",
             "choice_data_list": [
-                "Mais um motivo para comemorar o seu sorteio\nde sorte!"
+                "Mais um motivo para comemorar o seu sorteio de\nsorte!"
             ]
         },
         {
@@ -249,7 +249,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Desfrutamos de uma refeição<n>completa com o\nbife de hambúrguer<n>como prato principal."
+            "text": "Desfrutamos de uma refeição<n>completa com o bife\nde hambúrguer<n>como prato principal."
         },
         {
             "name": "Atendente da Rifa",
@@ -319,7 +319,7 @@
         },
         {
             "name": "Air Shakur",
-            "text": "Poder comer com uma mão só<n>certamente é\nmais eficiente... o<n>equilíbrio nutricional dos\ningredientes<n>também tá perfeito."
+            "text": "Poder comer com uma mão só<n>certamente é mais\neficiente... o<n>equilíbrio nutricional dos ingredientes\ntambém tá perfeito."
         },
         {
             "name": "Agnes Tachyon",
@@ -331,7 +331,7 @@
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "Uau! Eles são tão coloridos! Posso<n>pegar um\npara comer enquanto leio?"
+            "text": "Uau! Eles são tão coloridos! Posso<n>pegar um para\ncomer enquanto leio?"
         },
         {
             "name": "Marvelous Sunday",
@@ -383,7 +383,7 @@
         },
         {
             "name": "Irmãs Jovens (Irmã Mais Velha)",
-            "text": "Mas não podemos fazer curry sem<n>uma\ncenoura... O que a mamãe vai<n>fazer?"
+            "text": "Mas não podemos fazer curry sem<n>uma cenoura...\nO que a mamãe vai<n>fazer?"
         },
         {
             "name": "Admire Vega",
@@ -395,15 +395,15 @@
         },
         {
             "name": "Irmãs Jovens (Irmã Mais Velha)",
-            "text": "Ah, hum... sim. Nossa mamãe pediu<n>para a gente\nir às compras."
+            "text": "Ah, hum... sim. Nossa mamãe pediu<n>para a gente ir\nàs compras."
         },
         {
             "name": "Irmãs Jovens (Irmã Mais Nova)",
-            "text": "<i>Snif...</i> É minha culpa! Eu estava<n>olhando para\nos doces e esqueci de<n>ajudar!"
+            "text": "<i>Snif...</i> É minha culpa! Eu estava<n>olhando para os\ndoces e esqueci de<n>ajudar!"
         },
         {
             "name": "Admire Vega",
-            "text": "Entendo... É admirável da sua parte<n>refletir sobre\no seu erro."
+            "text": "Entendo... É admirável da sua parte<n>refletir sobre o\nseu erro."
         },
         {
             "name": "Admire Vega",
@@ -423,11 +423,11 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Vocês duas se dão bem. ...Cuidado<n>com os\ncarros no caminho para casa."
+            "text": "Vocês duas se dão bem. ...Cuidado<n>com os carros\nno caminho para casa."
         },
         {
             "name": "Monólogo",
-            "text": "Admire Vega fala suavemente<n>enquanto entrega\na cenoura para as<n>duas irmãs que ainda estão\nde mãos<n>dadas apertadas."
+            "text": "Admire Vega fala suavemente<n>enquanto entrega a\ncenoura para as<n>duas irmãs que ainda estão de\nmãos<n>dadas apertadas."
         },
         {
             "name": "Atendente da Rifa",

@@ -1,0 +1,38 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Finalmente chegou a hora. Estamos a<n>instantes\nda corrida de estreia de<n>Silence Suzuka.",
+            "color_text_info_list": [
+                "estreia"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "<i>Inspira... expira...</i>",
+            "choice_data_list": [
+                "Está nervosa?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Não. Estou muito animada."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Por esta corrida, e pelo que vem<n>depois.",
+            "choice_data_list": [
+                "Eu também.",
+                "Eu também."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Sério?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. Bem, acho que está na hora."
+        }
+    ]
+}

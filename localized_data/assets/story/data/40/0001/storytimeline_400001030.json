@@ -6,7 +6,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "MAJESTOSO! INCRÍVEL! PARABÉNS!<n>Pensar que\na sua Umamusume seria<n>a única a conquistar a\ncoroa!",
+            "text": "MAJESTOSO! INCRÍVEL! PARABÉNS!<n>Pensar que a\nsua Umamusume seria<n>a única a conquistar a\ncoroa!",
             "choice_data_list": [
                 "Muito obrigado!"
             ]
@@ -41,7 +41,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Por favor, continue dando o seu<n>melhor para\najudar as Umamusume<n>a brilhar, no futuro e\nalém!",
+            "text": "Por favor, continue dando o seu<n>melhor para\najudar as Umamusume<n>a brilhar, no futuro e além!",
             "choice_data_list": [
                 "Deixe comigo!"
             ]
@@ -56,7 +56,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Encontro-me com a <chrname> e saio<n>do\nhipódromo."
+            "text": "Encontro-me com a<n><chrname> e saio do\nhipódromo."
         },
         {
             "name": "Monólogo",
@@ -64,7 +64,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Prometemos um ao outro que, não<n>importa quais\nnovos palcos ou rivais<n>estejam à frente,\ndaremos nosso<n>melhor juntos."
+            "text": "Prometemos um ao outro que, não<n>importa quais\nnovos palcos ou rivais<n>estejam à frente, daremos\nnosso<n>melhor juntos."
         },
         {
             "name": "Monólogo",
@@ -76,14 +76,14 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "ENTRANDO! Por favor, perdoe a<n>interrupção no\ntrabalho, Treinador<n><username>!",
+            "text": "ENTRANDO! Por favor, perdoe a<n>interrupção no\ntrabalho, Treinador <username>!",
             "choice_data_list": [
                 "Você quase me matou do coração..."
             ]
         },
         {
             "name": "Diretora Akikawa",
-            "text": "SURPRESO, NÃO ESTAVA? Esplêndido!\nExatamente a resposta que eu<n>esperava!"
+            "text": "SURPRESO, NÃO ESTAVA? Esplêndido!<n>Exatamente\na resposta que eu<n>esperava!"
         },
         {
             "name": "Diretora Akikawa",
@@ -145,7 +145,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "INCORRETO! Se você levar em conta a<n>seleção\ndos ingredientes, eu trabalho<n>nisso há <i>dois\nmeses!</i>"
+            "text": "INCORRETO! Se você levar em conta a<n>seleção dos\ningredientes, eu trabalho<n>nisso há <i>dois meses!</i>"
         },
         {
             "name": "Happy Meek",
@@ -153,7 +153,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Parabéns, Treinador <username>! Sua<n>aprendiz\nfez uma corrida incrível!"
+            "text": "Parabéns, Treinador <username>! Sua aprendiz<n>fez uma\ncorrida incrível!"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -203,7 +203,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "ENTRETANTO! A partir de hoje, eu o<n>confio a\nvocê, junto com o futuro das<n>Umamusume em\ntodos os lugares!",
+            "text": "ENTRETANTO! A partir de hoje, eu o<n>confio a você,\njunto com o futuro das<n>Umamusume em todos os\nlugares!",
             "choice_data_list": [
                 "Tem certeza de que mereço uma honra como\nesta?"
             ]
@@ -217,11 +217,11 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "VINDICAÇÃO! O brilho nos seus olhos,<n>a firmeza\ndo seu queixo! Eu sabia<n>que escolhi a pessoa\ncerta!"
+            "text": "VINDICAÇÃO! O brilho nos seus olhos,<n>a firmeza do\nseu queixo! Eu sabia<n>que escolhi a pessoa certa!"
         },
         {
             "name": "Diretora Akikawa",
-            "text": "TREINADOR <username>, eu imploro:<n>por favor,\ncontinue apoiando as<n>Umamusume desta\nacademia!"
+            "text": "TREINADOR <username>, eu imploro: por favor,<n>continue\napoiando as Umamusume<n>desta academia!"
         },
         {
             "name": "Monólogo",
@@ -232,7 +232,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Coloco o leque cuidadosamente no<n>meu bolso e\nprometo ao lado da<n><chrname> que não irei trair a\npaixão<n>da Diretora Akikawa!"
+            "text": "Coloco o leque cuidadosamente no<n>meu bolso e\nprometo ao lado da<n><chrname> que não\nirei trair a<n>paixão da Diretora Akikawa!"
         }
     ]
 }

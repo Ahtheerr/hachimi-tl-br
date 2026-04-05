@@ -1,0 +1,316 @@
+{
+    "text_block_list": [
+        {
+            "name": "Comentarista",
+            "text": "A Fuji Kiseki leva a vitória! Como<n>esperado, ela\nteve um desempenho<n>notável!"
+        },
+        {
+            "name": "Espectador A",
+            "text": "Ela só tá ficando cada vez melhor!<n>Você viu\naquela força explosiva dela?<n>Ela disparou do\npaddock como um<n>foguete!"
+        },
+        {
+            "name": "Espectador B",
+            "text": "Ah, eu já sei que ela vai ganhar a<n>Tríplice Coroa\nesse ano! Eu tô tão<n>animada!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "(Eles todos têm tanta fé em mim!)"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Perfeito!"
+        },
+        {
+            "name": "",
+            "text": "A corrida já acabou há muito tempo,<n>e eu estou\ndando uma caminhada<n>para ajudar na digestão\ndo jantar,<n>quando..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Haaaaah!"
+        },
+        {
+            "name": "",
+            "text": "Encontro a Fuji Kiseki treinando<n>sozinha.",
+            "choice_data_list": [
+                "O que você está fazendo aqui?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Oi, Treinador! Desculpa por sair de<n>fininho sem\ndizer nada!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Minha próxima corrida é o Satsuki<n>Sho — a\nprimeira corrida da Tríplice<n>Coroa Clássica."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "É uma corrida de grande visibilidade<n>mesmo entre\nas corridas clássicas,<n>amplamente divulgada e\ntransmitida<n>em todos os lugares."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Todo mundo tem grandes<n>expectativas sobre mim.\nQuando<n>penso no quanto esperam de mim,\nsimplesmente não consigo ficar<n>parada."
+        },
+        {
+            "name": "",
+            "text": "Parece que a pressão está pesando<n>sobre ela.\nNão posso deixá-la<n>carregar tudo sozinha.",
+            "choice_data_list": [
+                "Deixe-me me juntar a você.",
+                "Deixe-me me juntar a você."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Sério? Tem certeza? Mas você deve<n>estar\ncansado do dia de hoje...",
+            "choice_data_list": [
+                "Tenho certeza. Sou o seu treinador, não sou?",
+                "Tenho certeza. Sou o seu treinador, não sou?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe! É sim!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Obrigada. Vou aceitar a sua oferta,<n>então."
+        },
+        {
+            "name": "",
+            "text": "Nós treinamos até quase o toque de<n>recolher."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Arf... Arf...</i> Como foi o meu tempo?"
+        },
+        {
+            "name": "",
+            "text": "Olho para o cronômetro na minha<n>mão. É um bom\ntempo, perto do seu<n>recorde pessoal, mas..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hmm... Não é bom o bastante."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Para poder dar a todo mundo o show<n>que eles\nrealmente querem, não<n>basta eu simplesmente\ncorrer e<n>vencer."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Eu me pergunto se eu consigo ir além<n>da minha\nvelocidade máxima e<n>estender o meu limite só\nmais um<n>pouquinho."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Tenho certeza de que isso faria uma<n>corrida\nsurpreendente, mas..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Acho que tá tudo no ritmo. Vou ficar<n>um pouco\nmais e trabalhar para<n>descobrir os meus limites!"
+        },
+        {
+            "name": "",
+            "text": "Ela tenta, falha e tenta de novo<n>enquanto busca\nmirar mais alto e<n>melhorar.",
+            "choice_data_list": [
+                "(Eu deveria pará-la logo.)"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Ela treinou muito mais do que deveria<n>em um dia.\nBem quando eu levanto a<n>cabeça para dizer a ela\nque esta será<n>a sua última volta..."
+        },
+        {
+            "name": "",
+            "text": "Vejo ela passando por mim a uma<n>velocidade\ninacreditável.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Mais rápido! Eu tenho que correr...<n>mais rápido!"
+        },
+        {
+            "name": "",
+            "text": "Ela está correndo além da sua<n>velocidade\nmáxima. Areia voa para o<n>ar e o vento uiva."
+        },
+        {
+            "name": "",
+            "text": "Ela parece um foguete, disparando<n>para o espaço.\nNão. Ela parece mais<n>uma estrela cadente,\nbrilhando no céu<n>noturno."
+        },
+        {
+            "name": "",
+            "text": "Sob a lua atenta, Fuji Kiseki passa<n>em disparada\npela linha de chegada."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Raaaaah!"
+        },
+        {
+            "name": "",
+            "text": "É estranho. Não há ninguém ao nosso<n>redor, mas\nsinto como se pudesse<n>ouvir o som de uma\nmultidão<n>torcendo por ela."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "<i>Arf... Arf...</i> Como eu fui? Como eu<n>me saí?!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ei, você derrubou o cronômetro!",
+            "choice_data_list": [
+                "Hã?!"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Eu devo ter ficado tão hipnotizado<n>que nem\npercebi que o tinha deixado<n>cair!"
+        },
+        {
+            "name": "",
+            "text": "Mas não há dúvida de que a Fuji<n>Kiseki correu\nmais rápido do que<n>nunca naquele sprint final."
+        },
+        {
+            "name": "",
+            "text": "Se ela consegue correr tão rápido<n>assim, então\nganhar a Tríplice Coroa<n>não é um sonho tão\ndistante. Mas,<n>mais do que tudo...",
+            "choice_data_list": [
+                "(Aquele foi um sprint tão hipnotizante!)"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Naquele momento, parece mais claro<n>do que\nnunca que a Fuji Kiseki tem o<n>que é preciso para\nser uma<n>verdadeira artista."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "É uma corrida de grande visibilidade<n>mesmo entre\nas corridas clássicas,<n>amplamente divulgada e\ntransmitida<n>em todos os lugares."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Todo mundo tem grandes<n>expectativas sobre mim.\nQuando<n>penso no quanto esperam de mim,\nsimplesmente não consigo ficar<n>parada."
+        },
+        {
+            "name": "",
+            "text": "Ela parece nervosa em pisar em um<n>palco tão\ngrande, e me pergunto o<n>que posso fazer para\najudá-la."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe! Treinar na praia faz a gente<n>sentir que tá\nnum acampamento de<n>verão!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "O vento tá tão gostoso e fresco. Volto<n>já! Vou dar\numa volta rápida!"
+        },
+        {
+            "name": "",
+            "text": "Depois daquela conversa com a Fuji<n>Kiseki,\npesquisei áreas cênicas em<n>Kanto, encontrei uma\npraia famosa<n>por suas paisagens e a trouxe aqui\npara treinar."
+        },
+        {
+            "name": "",
+            "text": "Aparentemente, é particularmente de<n>tirar o fôlego\nbem perto do pôr do sol."
+        },
+        {
+            "name": "",
+            "text": "Eu também tenho mais um truque na<n>manga, por\nassim dizer.",
+            "choice_data_list": [
+                "(Eu vou fazer isso dar certo ou morrer tentando!)"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Na verdade, passei a noite toda<n>praticando um\ntruque de mágica para<n>ela.",
+            "choice_data_list": [
+                "(Aposto que ela vai ficar tão surpresa!)"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Enquanto repasso os exercícios e<n>ajudo a Fuji\nKiseki a treinar, espero<n>que ela consiga encontrar\num pouco<n>de paz e silêncio hoje."
+        },
+        {
+            "name": "",
+            "text": "As horas passam e, finalmente, o sol<n>começa a se\npôr."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Nossa, uau!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Olha, Treinador! A vista tá<n>deslumbrante... Parece\numa pintura!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "O oceano parece ouro derretido. Eu<n>não fazia ideia\nde que um pôr do sol<n>pudesse ser tão lindo!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Só de olhar já sinto que fui<n>revigorada, de corpo e\nalma!"
+        },
+        {
+            "name": "",
+            "text": "Mas essa não é a única surpresa<n>que tenho\nguardada para ela. Aponto<n>para o alto, para a\nprimeira estrela da<n>noite.",
+            "choice_data_list": [
+                "Contemplem, uma estrela digna da sua graça!",
+                "Contemplem, uma estrela digna da sua graça!"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Estendo o braço em um grande gesto<n>e me movo\ncomo se estivesse<n>colhendo a estrela do céu.\nEntão,<n>deslizo o broche em forma de estrela<n>que\neu tinha escondido na palma da<n>mão.",
+            "choice_data_list": [
+                "Vou tirá-la do seu poleiro como um presente pra\nvoc—opa!",
+                "Vou tirá-la do seu poleiro como um presente pra\nvoc—opa!"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Me atrapalho no último segundo e o<n>broche cai da\nminha mão,<n>interrompendo o truque subitamente."
+        },
+        {
+            "name": "",
+            "text": "Me agacho rapidamente para<n>recuperar o broche.\nEstou<n>envergonhado demais para olhar a<n>Fuji\nKiseki nos olhos."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Você me surpreendeu...",
+            "choice_data_list": [
+                "D-desculpa por isso!"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hehe! Pelo que você tá se<n>desculpando? Isso foi\ntão atencioso!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Eu não fazia ideia de que você tinha<n>planejado\ntanta coisa pra mim."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Você fez tudo isso por causa do<n>pânico que eu\ntava antes, não foi?<n>Desculpa por te preocupar."
+        },
+        {
+            "name": "",
+            "text": "Ela pega o broche coberto de areia da<n>minha mão."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "É lindo... É a estrela mais linda de<n>todas."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Então é essa a sensação de estar do<n>lado de\nquem recebe as coisas..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Obrigada."
+        },
+        {
+            "name": "",
+            "text": "Depois disso, aproveitamos juntos o<n>máximo do\nlindo pôr do sol."
+        },
+        {
+            "name": "",
+            "text": "A próxima corrida é o Satsuki Sho, e<n>quero estar lá\npara a Fuji Kiseki a<n>cada passo do caminho!"
+        }
+    ]
+}

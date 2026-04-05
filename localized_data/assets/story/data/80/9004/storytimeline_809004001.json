@@ -10,7 +10,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Ah, Treinador <username>! Que bom<n>ver você!",
+            "text": "Ah, Treinador <username>! Que bom ver você!",
             "choice_data_list": [
                 "Bom ver você também! Trabalhando em algo?"
             ]
@@ -49,7 +49,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Graças a isso, não vou preocupar<n>minha\naprendiz! Então não precisa se<n>preocupar\ncomigo também!"
+            "text": "Graças a isso, não vou preocupar<n>minha aprendiz!\nEntão não precisa se<n>preocupar comigo também!"
         },
         {
             "name": "Monólogo",
@@ -57,7 +57,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Oh, o que disse? Você está<n>interessado nos\nensinamentos da<n>minha família, Treinador\n<username>?"
+            "text": "Oh, o que disse? Você está<n>interessado nos\nensinamentos da<n>minha família, Treinador <username>?"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -69,7 +69,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Ah, e só para você saber... são cerca<n>de\nquarenta volumes no total. Quer<n>que eu traga o\nresto para você<n>amanhã?",
+            "text": "Ah, e só para você saber... são cerca<n>de quarenta\nvolumes no total. Quer<n>que eu traga o resto para\nvocê<n>amanhã?",
             "choice_data_list": [
                 "Er..."
             ]

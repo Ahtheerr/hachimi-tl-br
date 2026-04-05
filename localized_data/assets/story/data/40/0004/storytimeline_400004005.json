@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Sistema de Som da Academia",
-            "text": "Treinador <username>, por favor,<n>compareça à\nsala da diretora<n>imediatamente."
+            "text": "Treinador <username>, por favor, compareça à<n>sala da\ndiretora imediatamente."
         },
         {
             "name": "Monólogo",
@@ -50,11 +50,11 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Chamamos você aqui hoje para<n>expressar\nnossa gratidão a você,<n>Treinador!"
+            "text": "Chamamos você aqui hoje para<n>expressar nossa\ngratidão a você,<n>Treinador!"
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Exato! Sua aprendiz, <chrname>..."
+            "text": "Exato! Sua aprendiz,<n><chrname>..."
         },
         {
             "name": "Diretora Akikawa",
@@ -66,14 +66,14 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Sendo assim, estamos...<n>INCRIVELMENTE\ngratas! Esplêndido<n>trabalho, Treinador!",
+            "text": "Sendo assim, estamos...<n>INCRIVELMENTE gratas!\nEsplêndido<n>trabalho, Treinador!",
             "choice_data_list": [
                 "Muito obrigado!"
             ]
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Certo! Além disso... Expectativas!<n>Anseio muito\npela glória sem<n>precedentes que você\ncertamente<n>alcançará no futuro!"
+            "text": "Certo! Além disso... Expectativas!<n>Anseio muito\npela glória sem<n>precedentes que você certamente\nalcançará no futuro!"
         },
         {
             "name": "Tazuna Hayakawa",
@@ -107,7 +107,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mais tarde, conto para a <chrname> o<n>que\naconteceu e compartilhamos a<n>alegria!"
+            "text": "Mais tarde, conto para a<n><chrname> o que\naconteceu<n>e compartilhamos a alegria!"
         }
     ]
 }

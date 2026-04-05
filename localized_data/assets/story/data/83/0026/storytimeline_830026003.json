@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "The cops and robbers tournament,<n>suspended\ndue to Twin Turbo's<n>chaotic charge, resumes on\nanother<n>day."
+            "text": "The cops and robbers tournament,<n>suspended due\nto Twin Turbo's<n>chaotic charge, resumes on\nanother<n>day."
         },
         {
             "name": "Monólogo",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "Psh! This is sooo easy! They're<n><i>never</i>\ngonna catch me before the<n>time runs out!",
+            "text": "Psh! This is sooo easy! They're<n><i>never</i> gonna\ncatch me before the<n>time runs out!",
             "choice_data_list": [
                 "The game's almost over.",
                 "The game's almost over."
@@ -22,7 +22,7 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "Awww, whaaat?! But I've still got<n>gas in the\ntank! I'm gonna win<n>without even breaking a\nswe—"
+            "text": "Awww, whaaat?! But I've still got<n>gas in the tank!\nI'm gonna win<n>without even breaking a swe—"
         },
         {
             "name": "Robber Team Umamusume",
@@ -38,7 +38,7 @@
         },
         {
             "name": "Ikuno Dictus",
-            "text": "There won't be time for further<n>attempts, but if\nwe can capture the<n>last two people now, victory\nwill be<n>ours!"
+            "text": "There won't be time for further<n>attempts, but if we\ncan capture the<n>last two people now, victory will\nbe<n>ours!"
         },
         {
             "name": "Cop Team Umamusume",
@@ -82,15 +82,15 @@
         },
         {
             "name": "Lojista",
-            "text": "She torched everyone chasing her<n>with her red\nhot dash! That's Twin<n>Turbo for you!"
+            "text": "She torched everyone chasing her<n>with her red hot\ndash! That's Twin<n>Turbo for you!"
         },
         {
             "name": "Twin Turbo",
-            "text": "<i>Huff... Wheeze...</i> I-I've still... got<n>gas left... in\nthe tank..."
+            "text": "<i>Huff... Wheeze...</i> I-I've still... got<n>gas left... in the\ntank..."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "It appears she's expended all her<n>energy.\nNow's our chance!"
+            "text": "It appears she's expended all her<n>energy. Now's\nour chance!"
         },
         {
             "name": "Twin Turbo",
@@ -165,7 +165,7 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "Argh! Yes! Next time, I'll<n><i>definitely</i> escape!"
+            "text": "Argh! Yes! Next time, I'll <i>definitely</i><n>escape!"
         },
         {
             "name": "Twin Turbo",
@@ -176,7 +176,7 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "It doesn't matter... As long as I run...<n>as fast... as\nI can... till... the... end..."
+            "text": "It doesn't matter... As long as I run...<n>as fast... as I\ncan... till... the... end..."
         },
         {
             "name": "Ikuno Dictus",
@@ -204,7 +204,7 @@
         },
         {
             "name": "Ikuno Dictus",
-            "text": "So close, and yet victory eluded us... It<n>pains me\nto admit this, but you did<n>well."
+            "text": "So close, and yet victory eluded us... It<n>pains me to\nadmit this, but you did<n>well."
         },
         {
             "name": "Twin Turbo",
@@ -212,7 +212,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "The crowd showers the two racers<n>with\napplause as they praise each<n>other's\nperformance in the close<n>contest."
+            "text": "The crowd showers the two racers<n>with applause\nas they praise each<n>other's performance in the\nclose<n>contest."
         }
     ]
 }

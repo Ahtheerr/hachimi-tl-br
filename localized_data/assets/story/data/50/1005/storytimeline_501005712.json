@@ -1,0 +1,42 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Está na hora do treino, mas não vejo<n>nem sinal\nda Fuji Kiseki—isto é, até<n>que ela quase esbarra\nem mim."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Ai! Desculpa, não queria te assustar!<n>Eu tô meio\ncom pressa!",
+            "choice_data_list": [
+                "Para quê?"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Uma das minhas residentes tá com<n>febre e eu\ntava cuidando dela!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Preciso levar esse remédio pra ela o<n>quanto\nantes!",
+            "choice_data_list": [
+                "Pelo menos você não tá matando aula por\ndiversão..."
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Hã? Espera..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Temos treino hoje! Eu tinha<n>esquecido\ncompletamente!"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Desculpa. Fiquei tão preocupada em<n>cuidar da\nminha residente que isso<n>me fugiu da cabeça..."
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Eu preciso ser melhor que isso.<n>Prometo tomar\nmais cuidado da<n>próxima vez!"
+        }
+    ]
+}

@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "A Haru Urara e a Rice Shower são<n>escolhidas\npara uma reportagem<n>especial das \"Amigas\nUmamusume\"."
+            "text": "A Haru Urara e a Rice Shower são<n>escolhidas para\numa reportagem<n>especial das \"Amigas\nUmamusume\"."
         },
         {
             "name": "Repórter A",
-            "text": "Vocês poderiam me contar sobre<n>algum\nmomento que tenha marcado<n>vocês duas?"
+            "text": "Vocês poderiam me contar sobre<n>algum momento\nque tenha marcado<n>vocês duas?"
         },
         {
             "name": "Haru Urara",
@@ -42,7 +42,7 @@
         },
         {
             "name": "Repórter A",
-            "text": "Que tal a gente fazer uma pequena<n>pausa para\neu repensar a minha<n>abordagem? Quero obter o\nmelhor<n>material possível de vocês duas.",
+            "text": "Que tal a gente fazer uma pequena<n>pausa para eu\nrepensar a minha<n>abordagem? Quero obter o\nmelhor<n>material possível de vocês duas.",
             "choice_data_list": [
                 "Parece ótimo. Obrigado."
             ]
@@ -64,7 +64,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "M-me desculpa por ficar tão quieta. A<n>gente tem\ntantas lembranças juntas...<n>Mas eu não\nconsegui falar sobre<n>nenhuma delas..."
+            "text": "M-me desculpa por ficar tão quieta. A<n>gente tem\ntantas lembranças juntas...<n>Mas eu não consegui\nfalar sobre<n>nenhuma delas..."
         },
         {
             "name": "Rice Shower",
@@ -72,7 +72,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "O quê?! Não seja boba! Eu também<n>tô super\nfeliz, sabia!"
+            "text": "O quê?! Não seja boba! Eu também<n>tô super feliz,\nsabia!"
         },
         {
             "name": "Haru Urara",
@@ -84,7 +84,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Nesse momento, penso em uma boa<n>maneira de\nacalmar os nervos da<n>Rice Shower e a energia\nda Haru<n>Urara.",
+            "text": "Nesse momento, penso em uma boa<n>maneira de\nacalmar os nervos da<n>Rice Shower e a energia da\nHaru<n>Urara.",
             "choice_data_list": [
                 "Acalmá-las com lanchinhos.",
                 "Incentivá-las a ir brincar lá fora."
@@ -180,7 +180,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Alguns dias depois, o vídeo<n>espontâneo delas\nbrincando é usado<n>na reportagem especial. Isso\nse torna<n>um grande sucesso entre os fãs\ndelas."
+            "text": "Alguns dias depois, o vídeo<n>espontâneo delas\nbrincando é usado<n>na reportagem especial. Isso\nse torna<n>um grande sucesso entre os fãs<n>delas."
         }
     ]
 }

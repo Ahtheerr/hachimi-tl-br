@@ -6,7 +6,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Awww... It's raining <i>again?!</i> I'm<n>so sorry!\nThis is all my fault!",
+            "text": "Awww... It's raining <i>again?!</i> I'm so<n>sorry! This\nis all my fault!",
             "choice_data_list": [
                 "What's wrong?",
                 "What's wrong?"
@@ -42,7 +42,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "A botanical garden inside a<n>greenhouse springs\nto mind, but I'm<n>not sure it'd be wise to send\nthem off<n>in such heavy rain."
+            "text": "A botanical garden inside a<n>greenhouse springs to\nmind, but I'm<n>not sure it'd be wise to send them\noff<n>in such heavy rain."
         },
         {
             "name": "Haru Urara",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Haru Urara and the others run off into<n>the\ntorrential rain. Worried about how<n>they'll fare, I\ndecide to follow them."
+            "text": "Haru Urara and the others run off into<n>the torrential\nrain. Worried about how<n>they'll fare, I decide to\nfollow them."
         },
         {
             "name": "Rice Shower",
@@ -94,7 +94,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Yeah... I was wallowing so hard in my<n>sorrow\nthat I couldn't come up with<n>any other ideas."
+            "text": "Yeah... I was wallowing so hard in my<n>sorrow that\nI couldn't come up with<n>any other ideas."
         },
         {
             "name": "Rice Shower",
@@ -142,7 +142,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "I bet we'll all make some great<n>memories if we\ngo and play with the<n>dolphins!"
+            "text": "I bet we'll all make some great<n>memories if we go\nand play with the<n>dolphins!"
         },
         {
             "name": "Monólogo",
@@ -154,19 +154,19 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Oooh... I'm so sorry. I got all of you<n>splashed\nwith water!"
+            "text": "Oooh... I'm so sorry. I got all of you<n>splashed with\nwater!"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "Don't be sorry! That's what dolphin<n>shows are\nall about!"
+            "text": "Don't be sorry! That's what dolphin<n>shows are all\nabout!"
         },
         {
             "name": "Haru Urara",
-            "text": "Ahaha! That was so much fun! We<n>should go\nand see the dolphins again<n>sometime!"
+            "text": "Ahaha! That was so much fun! We<n>should go and\nsee the dolphins again<n>sometime!"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "For sure, Urara! I'd love to go again<n>with you\nboth."
+            "text": "For sure, Urara! I'd love to go again<n>with you both."
         },
         {
             "name": "Rice Shower",

@@ -14,7 +14,7 @@
         },
         {
             "name": "Mejiro Ryan",
-            "text": "Cara, você ficou durona assim em<n>apenas\n<i>um</i> verão? Uau."
+            "text": "Cara, você ficou durona assim em<n>apenas <i>um</i>\nverão? Uau."
         },
         {
             "name": "Mejiro McQueen",
@@ -33,7 +33,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Neste verão, Bright se propôs a<n>reforçar seu\nvigor com a maior<n>seriedade. E como resultado..."
+            "text": "Neste verão, Bright se propôs a<n>reforçar seu vigor\ncom a maior<n>seriedade. E como resultado..."
         },
         {
             "name": "Mejiro McQueen",
@@ -41,7 +41,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Eu tinha certeza de que ela era mais<n>adequada\npara corridas de média<n>distância como você,\nRyan, mas<n>parece que ela também tem aptidão\npara longas distâncias."
+            "text": "Eu tinha certeza de que ela era mais<n>adequada\npara corridas de média<n>distância como você, Ryan,\nmas<n>parece que ela também tem aptidão<n>para\nlongas distâncias."
         },
         {
             "name": "Mejiro Ryan",
@@ -72,7 +72,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "<i>Exatamente!</i> Não importa o que<n>faça, ela\nleva o tempo dela para fazer.<n>E ainda assim, ela\npegou o jeito da<n>corrida de longa distância\nassustadoramente rápido."
+            "text": "<i>Exatamente!</i> Não importa o que<n>faça, ela leva o\ntempo dela para fazer.<n>E ainda assim, ela pegou o\njeito da<n>corrida de longa distância\nassustadoramente rápido."
         },
         {
             "name": "Mejiro McQueen",
@@ -92,7 +92,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "O que poderia ter precipitado essa<n>mudança?\nSerá que a conexão<n>Mejiro permitiu que Bright\nganhasse<n>a aptidão de McQueen?"
+            "text": "O que poderia ter precipitado essa<n>mudança? Será\nque a conexão<n>Mejiro permitiu que Bright\nganhasse<n>a aptidão de McQueen?"
         },
         {
             "name": "Monólogo",
@@ -100,7 +100,7 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Com licença, Treinador. Aconteceu<n>alguma\ncoisa?",
+            "text": "Com licença, Treinador. Aconteceu<n>alguma coisa?",
             "choice_data_list": [
                 "Não, estou bem. Vamos continuar nos esforçando\npara a Kikuka Sho.",
                 "Não, estou bem. Vamos continuar nos esforçando\npara a Kikuka Sho."

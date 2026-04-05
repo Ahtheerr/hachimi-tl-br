@@ -2,15 +2,15 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Hoje marca o início do acampamento<n>de verão e,\ncom ele, o nosso<n>treinamento para o Tenno Sho\nde<n>outono!"
+            "text": "Hoje marca o início do acampamento<n>de verão e,\ncom ele, o nosso<n>treinamento para o Tenno Sho de\noutono!"
         },
         {
             "name": "Monólogo",
-            "text": "Minhas verificações preliminares<n>estão feitas, e\nos preparativos<n>especiais que organizei para o\ndia<n>estão todos prontos."
+            "text": "Minhas verificações preliminares<n>estão feitas, e\nos preparativos<n>especiais que organizei para o dia\nestão todos prontos."
         },
         {
             "name": "Monólogo",
-            "text": "Farei tudo o que puder para ajudar a<n>Admire\nVega a melhorar enquanto ela<n>avança para\nalcançar os desejos do<n>seu coração!",
+            "text": "Farei tudo o que puder para ajudar a<n>Admire Vega\na melhorar enquanto ela<n>avança para alcançar os\ndesejos do<n>seu coração!",
             "choice_data_list": [
                 "Vamos começar, então?"
             ]
@@ -36,7 +36,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Podemos começar o treino em vinte<n>minutos.\nTudo bem?",
+            "text": "Podemos começar o treino em vinte<n>minutos. Tudo\nbem?",
             "choice_data_list": [
                 "Espera... o quê?"
             ]
@@ -58,7 +58,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Com isso em mente, eu me apresso<n>em direção\nà sombra, conforme<n>instruído."
+            "text": "Com isso em mente, eu me apresso<n>em direção à\nsombra, conforme<n>instruído."
         }
     ]
 }

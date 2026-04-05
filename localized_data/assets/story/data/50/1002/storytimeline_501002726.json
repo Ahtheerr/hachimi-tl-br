@@ -1,0 +1,56 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certo dia, enquanto eu passeava com<n>Silence\nSuzuka..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ah! Aquelas são...",
+            "choice_data_list": [
+                "Algo chamou sua atenção?",
+                "Algo chamou sua atenção?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Aquelas pelúcias... A Spe estava<n>falando sobre\nelas outro dia."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela aponta para uma máquina de<n>garra cheia de\npelúcias de<n>Umamusume."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Ela disse que elas têm feito muito<n>sucesso\nultimamente. Algumas<n>amigas dela também têm."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Acho que ela gostaria de uma...",
+            "choice_data_list": [
+                "Se você quiser, eu posso tentar pegar uma.",
+                "Se você quiser, eu posso tentar pegar uma."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Não precisa! Eu só estava pensando<n>alto...",
+            "choice_data_list": [
+                "Não se preocupe. Deixa comigo.",
+                "Não se preocupe. Deixa comigo."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Bem, se você insiste..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Boa sorte."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não posso fracassar!"
+        }
+    ]
+}

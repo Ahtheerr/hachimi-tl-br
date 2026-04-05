@@ -14,7 +14,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Dano mínimo. Missão pode ser<n>retomada\nquando quiser. Aguardando<n>ordens do\ncomandante. <i>Bip, bip.</i>",
+            "text": "Dano mínimo. Missão pode ser<n>retomada quando\nquiser. Aguardando<n>ordens do comandante. <i>Bip,\nbip.</i>",
             "choice_data_list": [
                 "Reparos são a prioridade.",
                 "Vamos atualizar o seu sistema operacional!"
@@ -40,11 +40,11 @@
         },
         {
             "name": "Gold Ship",
-            "text": "<i>Aiai.</i> Ordem recebida. Priorizando<n>reparos...\n<i>Bip, bip, bip...</i>"
+            "text": "<i>Aiai.</i> Ordem recebida. Priorizando<n>reparos... <i>Bip,\nbip, bip...</i>"
         },
         {
             "name": "Monólogo",
-            "text": "Gold Ship não fica nada feliz em ter<n>que ficar de\nrepouso por alguns dias<n>e fica doida assim que\nse recupera<n>totalmente."
+            "text": "Gold Ship não fica nada feliz em ter<n>que ficar de\nrepouso por alguns dias<n>e fica doida assim que se\nrecupera<n>totalmente."
         },
         {
             "name": "Gold Ship",

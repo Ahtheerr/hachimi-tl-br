@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Assim que termino de dizer para o(a)<n><chrname>\nfazer uma pausa durante o<n>treino..."
+            "text": "Assim que termino de dizer para o(a)\n<chrname> fazer uma pausa<n>durante o\ntreino..."
         },
         {
             "name": "Super Creek",
@@ -40,7 +40,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mas primeiro terei que pensar no que<n>quero\npedir a ela...",
+            "text": "Mas primeiro terei que pensar no que<n>quero pedir\na ela...",
             "choice_data_list": [
                 "Você poderia me dar algumas dicas de treino?",
                 "Você gostaria de treinar com a gente?"
@@ -56,7 +56,7 @@
         },
         {
             "name": "Super Creek",
-            "text": "É importante se esforçar, mas ela não\nconseguirá aguentar se você for<n>rigoroso demais\ncom ela."
+            "text": "É importante se esforçar, mas ela não<n>conseguirá\naguentar se você for<n>rigoroso demais com ela."
         },
         {
             "name": "Super Creek",

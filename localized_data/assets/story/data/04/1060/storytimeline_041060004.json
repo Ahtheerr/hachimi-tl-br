@@ -29,7 +29,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Ai, ai, é bom você não ter<n><i>nenhuma</i> expectativa!"
+            "text": "Ai, ai, é bom você não ter <i>nenhuma</i><n>expectativa!"
         },
         {
             "name": "Monólogo",
@@ -248,7 +248,7 @@
             "name": "Nice Nature",
             "text": "Mas... bem, você sabe. Se você ainda<n>estiver disposto a me treinar, então—",
             "choice_data_list": [
-                "Tudo bem, vamos continuar dando o nosso\nmelhor então!"
+                "Tudo bem, vamos continuar dando o nosso melhor\nentão!"
             ]
         },
         {

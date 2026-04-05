@@ -1,0 +1,38 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Como acordei cedo, vou com calma<n>até a\nacademia para aproveitar ao<n>máximo o ar fresco\nda manhã."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Bom dia, Treinador. A manhã está<n>linda, não está?",
+            "choice_data_list": [
+                "Alguém parece estar animada hoje."
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Sim. Ontem tive um dia relaxante. Ou<n>talvez seja\npor causa do belo sonho<n>que tive esta noite...",
+            "choice_data_list": [
+                "Com o que você sonhou?"
+            ]
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Bem, no sonho, eu era o vento,<n>soprando por uma\nimensa planície..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Meu corpo era leve como o ar, e eu<n>podia voar por\nquanto tempo e até<n>onde quisesse."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hehe. Acho que hoje vou conseguir<n>correr como\no vento."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Silence Suzuka parece<n>completamente revigorada\ne<n>transbordando determinação e<n>energia."
+        }
+    ]
+}

@@ -66,7 +66,7 @@
         },
         {
             "name": "King Halo",
-            "text": "<i>Arf, arf...</i> Eu vou... provar que...<n>sou de primeira classe!"
+            "text": "<i>Arf, arf...</i> Eu vou... provar que... sou<n>de primeira classe!"
         },
         {
             "name": "Seiun Sky",
@@ -148,8 +148,8 @@
             "name": "King Halo",
             "text": "Hã?",
             "choice_data_list": [
-                "É por isso que eu quero recrutar uma corredora\nde primeira classe!",
-                "É por isso que eu quero recrutar uma corredora\nde primeira classe!"
+                "É por isso que eu quero recrutar uma corredora de\nprimeira classe!",
+                "É por isso que eu quero recrutar uma corredora de\nprimeira classe!"
             ]
         },
         {
@@ -160,8 +160,8 @@
             "name": "Treinador Veterano A",
             "text": "Você percebe que a pessoa na sua<n>frente é a King Halo, certo?",
             "choice_data_list": [
-                "Isso mesmo! Estou aqui pela King Halo e por\nmais ninguém!",
-                "Isso mesmo! Estou aqui pela King Halo e por\nmais ninguém!"
+                "Isso mesmo! Estou aqui pela King Halo e por mais\nninguém!",
+                "Isso mesmo! Estou aqui pela King Halo e por mais\nninguém!"
             ]
         },
         {

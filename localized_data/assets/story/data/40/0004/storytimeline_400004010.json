@@ -6,15 +6,15 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Desculpe pela ligação repentina, mas<n>há algo\nque preciso te contar agora<n>mesmo!"
+            "text": "Desculpe pela ligação repentina, mas<n>há algo que\npreciso te contar agora<n>mesmo!"
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Os esforços da <chrname> este ano<n>foram\nreconhecidos..."
+            "text": "Os esforços da <chrname><n>este ano\nforam reconhecidos..."
         },
         {
             "name": "Repórter Otonashi",
-            "text": "E ela foi selecionada como a Melhor\nUmamusume do Ano Junior!",
+            "text": "E ela foi selecionada como a Melhor<n>Umamusume\ndo Ano Junior!",
             "choice_data_list": [
                 "...!"
             ],
@@ -43,7 +43,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Desculpe incomodar, Treinador<n><username>, mas\nacabei de saber do<n>seu prêmio!"
+            "text": "Desculpe incomodar, Treinador <username>,<n>mas acabei de\nsaber do seu prêmio!"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -81,7 +81,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mais tarde, <chrname> e eu juramos<n>trabalhar\nduro e sermos os melhores<n>no ano que vem\ntambém."
+            "text": "Mais tarde, <chrname> e eu<n>juramos\ntrabalhar duro e sermos os<n>melhores no ano que\nvem também."
         }
     ]
 }

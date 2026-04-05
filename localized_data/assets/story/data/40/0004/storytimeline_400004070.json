@@ -2,14 +2,14 @@
     "text_block_list": [
         {
             "name": "Repórter Otonashi",
-            "text": "Um prazer ver você novamente! Aqui<n>é Etsuko\nOtonashi, da <i>Twinkle<n>Monthly</i>. Você estaria\nlivre agora?",
+            "text": "Um prazer ver você novamente! Aqui<n>é Etsuko\nOtonashi, da <i>Twinkle<n>Monthly</i>. Você estaria livre\nagora?",
             "choice_data_list": [
                 "Por que tanta formalidade de repente?"
             ]
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Hehe... Achei que seria apropriado,<n>dado que\nesta é a última corrida e<n>tudo o mais."
+            "text": "Hehe... Achei que seria apropriado,<n>dado que esta\né a última corrida e<n>tudo o mais."
         },
         {
             "name": "Repórter Otonashi",
@@ -24,11 +24,11 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Desculpe! Não quis desanimar um<n>momento tão\nimportante! Certo,<n>preciso me recompor e\nconduzir esta<n>entrevista!"
+            "text": "Desculpe! Não quis desanimar um<n>momento tão\nimportante! Certo,<n>preciso me recompor e conduzir\nesta<n>entrevista!"
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Como treinador de uma das principais\ncandidatas ao título de <i>maior</i><n>Umamusume,\nqual é a sua<n>perspectiva agora que nos\naproximamos da corrida final?!",
+            "text": "Como treinador de uma das principais<n>candidatas\nao título de <i>maior</i><n>Umamusume, qual é a sua\nperspectiva agora que nos<n>aproximamos da\ncorrida final?!",
             "choice_data_list": [
                 "Nós vamos vencer!"
             ]
@@ -54,7 +54,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Vou observar a <chrname> até o<n>primeiríssimo\nfim. Ao menos na<n>minha mente, ela já é a maior\nde<n>todas!"
+            "text": "Vou observar a <chrname><n>até o\nprimeiríssimo fim. Ao menos na<n>minha mente, ela\njá é a maior de<n>todas!"
         }
     ]
 }

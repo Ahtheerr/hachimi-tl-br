@@ -76,7 +76,7 @@
             "name": "Monólogo",
             "text": "Enquanto Fine Motion torce, algo me<n>chama a atenção.",
             "choice_data_list": [
-                "(Ela está com o mesmo brilho nos olhos que\nteve no outro dia...)"
+                "(Ela está com o mesmo brilho nos olhos que teve\nno outro dia...)"
             ]
         },
         {
@@ -125,7 +125,7 @@
         },
         {
             "name": "Fine Motion",
-            "text": "<i>Arf, arf...</i> Ainda não... Ainda não!<n>Eu tenho que poupar meu vigor, e<n>então...",
+            "text": "<i>Arf, arf...</i> Ainda não... Ainda não! Eu<n>tenho que poupar meu vigor, e então...",
             "choice_data_list": [
                 "...?!"
             ]
@@ -140,9 +140,9 @@
         },
         {
             "name": "Fine Motion",
-            "text": "<i>Arf, arf...</i> Agora! O último...<n>esforço! Iaaaah!",
+            "text": "<i>Arf, arf...</i> Agora! O último... esforço!<n>Iaaaah!",
             "choice_data_list": [
-                "(Ela está com aquele brilho nos olhos\nnovamente.)"
+                "(Ela está com aquele brilho nos olhos novamente.)"
             ]
         },
         {

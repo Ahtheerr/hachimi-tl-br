@@ -6,7 +6,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "<i>Arf, arf...</i> Ei, você! Viu algum<n>repórter passar\npor aqui?",
+            "text": "<i>Arf, arf...</i> Ei, você! Viu algum<n>repórter passar por\naqui?",
             "choice_data_list": [
                 "Alguém saiu às pressas em um táxi."
             ]
@@ -33,7 +33,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Depois de perseguir o repórter, Air<n>Groove\nparece um pouco cansada."
+            "text": "Depois de perseguir o repórter, Air<n>Groove parece\num pouco cansada."
         }
     ]
 }

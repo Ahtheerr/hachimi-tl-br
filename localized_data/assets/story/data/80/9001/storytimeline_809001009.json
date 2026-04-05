@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "<chrname> deu passos incríveis<n>nestes últimos\nanos, rendendo a nós<n>dois um descanso\nmerecido."
+            "text": "<chrname> deu passos<n>incríveis nestes\núltimos anos,<n>rendendo a nós dois um descanso\nmerecido."
         },
         {
             "name": "Monólogo",
-            "text": "Recebo um convite da Tazuna para<n>assistir a\numa corrida, então vou até<n>o hipódromo."
+            "text": "Recebo um convite da Tazuna para<n>assistir a uma\ncorrida, então vou até<n>o hipódromo."
         },
         {
             "name": "Tazuna Hayakawa",
@@ -21,7 +21,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Hehe, é verdade. Eu simplesmente<n>não\nconseguia esperar!"
+            "text": "Hehe, é verdade. Eu simplesmente<n>não conseguia\nesperar!"
         },
         {
             "name": "Tazuna Hayakawa",
@@ -29,14 +29,14 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "<i>Suspiro...</i> Hoje foi tão<n>emocionante quanto\nsempre! Mas é o<n>esperado de uma corrida G1!",
+            "text": "<i>Suspiro...</i> Hoje foi tão emocionante<n>quanto\nsempre! Mas é o esperado de<n>uma corrida G1!",
             "choice_data_list": [
                 "A paixão da multidão foi incrível!"
             ]
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Sim, exatamente! Eu juraria que o<n>chão estava\ntremendo com todos os<n>gritos em certo\nmomento!"
+            "text": "Sim, exatamente! Eu juraria que o<n>chão estava\ntremendo com todos os<n>gritos em certo momento!"
         },
         {
             "name": "Tazuna Hayakawa",
@@ -55,7 +55,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Eu realmente queria aproveitar esta\noportunidade para expressar minha<n>gratidão a\nvocê.",
+            "text": "Eu realmente queria aproveitar esta<n>oportunidade\npara expressar minha<n>gratidão a você.",
             "choice_data_list": [
                 "A mim?"
             ]
@@ -66,7 +66,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Você e a <chrname> varreram corrida<n>após corrida\nnestes últimos três<n>anos."
+            "text": "Você e a <chrname><n>varreram corrida\napós corrida nestes<n>últimos três anos."
         },
         {
             "name": "Tazuna Hayakawa",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Presenciei tantos momentos<n>milagrosos por\ncausa de vocês... É<n>como algo saído de um\nsonho."
+            "text": "Presenciei tantos momentos<n>milagrosos por causa\nde vocês... É<n>como algo saído de um sonho."
         },
         {
             "name": "Tazuna Hayakawa",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Ah, e por favor, continuem se<n>esforçando rumo\nao futuro! Sem<n>lesões, é claro!",
+            "text": "Ah, e por favor, continuem se<n>esforçando rumo ao\nfuturo! Sem<n>lesões, é claro!",
             "choice_data_list": [
                 "Nós iremos!"
             ]
@@ -101,7 +101,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mais tarde, nos encontramos com a<n><chrname> e\naproveitamos a próxima<n>corrida juntos."
+            "text": "Mais tarde, nos encontramos com a\n<chrname> e aproveitamos a<n>próxima\ncorrida juntos."
         }
     ]
 }

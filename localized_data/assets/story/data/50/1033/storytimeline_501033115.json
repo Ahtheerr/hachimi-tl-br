@@ -53,7 +53,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "É claro como o dia, as coisas estão<n>saindo do\nmeu controle. A Admire<n>Vega parece\ncompletamente<n>esgotada de energia.",
+            "text": "É claro como o dia, as coisas estão<n>saindo do meu\ncontrole. A Admire<n>Vega parece completamente\nesgotada de energia.",
             "choice_data_list": [
                 "Você está se esgotando!",
                 "Você está se esgotando!"
@@ -68,11 +68,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "Assuntos da saúde dela são a minha\nresponsabilidade, não importa quando<n>o\nproblema ocorra."
+            "text": "Assuntos da saúde dela são a minha\nresponsabilidade, não importa quando<n>o problema\nocorra."
         },
         {
             "name": "Monólogo",
-            "text": "O treinamento imprudente dela<n>apenas piorou os\nseus ossos<n>desalinhados. A perna esquerda\ndela<n>chegou ao seu limite.",
+            "text": "O treinamento imprudente dela<n>apenas piorou os\nseus ossos<n>desalinhados. A perna esquerda dela\nchegou ao seu limite.",
             "choice_data_list": [
                 "Vamos voltar para que possamos te tratar—"
             ]
@@ -90,7 +90,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Você me seguiria não importa por<n>qual caminho\neu fosse. Não foi o que<n>você disse?"
+            "text": "Você me seguiria não importa por<n>qual caminho eu\nfosse. Não foi o que<n>você disse?"
         },
         {
             "name": "Admire Vega",
@@ -129,11 +129,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "Ignorando os meus chamados, ela vai<n>embora. A\njulgar pela direção em que<n>ela está indo, acho\nque ela está indo<n>para as montanhas... mas o sol\njá se<n>pôs há muito tempo."
+            "text": "Ignorando os meus chamados, ela vai<n>embora. A\njulgar pela direção em que<n>ela está indo, acho que\nela está indo<n>para as montanhas... mas o sol já\nse<n>pôs há muito tempo."
         },
         {
             "name": "Monólogo",
-            "text": "Isso realmente me leva de volta à<n>primeira vez\nem que nos<n>conhecemos.",
+            "text": "Isso realmente me leva de volta à<n>primeira vez em\nque nos<n>conhecemos.",
             "choice_data_list": [
                 "Não vou perdê-la desta vez!"
             ]
@@ -248,7 +248,7 @@
         },
         {
             "name": "Irmã da Ayabe",
-            "text": "Eu podia perceber que <i>você</i><n>estava se\ndivertindo também! Nós<n>estávamos nos\ndivertindo<n><i>juntas!</i>"
+            "text": "Eu podia perceber que <i>você</i> estava<n>se\ndivertindo também! Nós<n>estávamos nos divertindo\n<i>juntas!</i>"
         },
         {
             "name": "Admire Vega",
@@ -268,11 +268,11 @@
         },
         {
             "name": "Irmã da Ayabe",
-            "text": "Ayabe... A verdade é que, tudo o que<n>você fez\npor mim, não compensa nem<n>uma única coisa."
+            "text": "Ayabe... A verdade é que, tudo o que<n>você fez por\nmim, não compensa nem<n>uma única coisa."
         },
         {
             "name": "Irmã da Ayabe",
-            "text": "Porque, para começo de conversa,<n>você nunca\nfez nada de errado."
+            "text": "Porque, para começo de conversa,<n>você nunca fez\nnada de errado."
         },
         {
             "name": "Irmã da Ayabe",
@@ -280,7 +280,7 @@
         },
         {
             "name": "Irmã da Ayabe",
-            "text": "Isso inclui a sensação de correr na<n>grama, a\nalegria de competir, os<n>momentos emocionantes\ncom as<n>nossas rivais e todas as nossas\noutras lembranças juntas!"
+            "text": "Isso inclui a sensação de correr na<n>grama, a\nalegria de competir, os<n>momentos emocionantes\ncom as<n>nossas rivais e todas as nossas<n>outras\nlembranças juntas!"
         },
         {
             "name": "Irmã da Ayabe",
@@ -300,7 +300,7 @@
         },
         {
             "name": "Irmã da Ayabe",
-            "text": "As nossas almas estão ligadas.<n>Sempre foi\ndesse jeito. Os nossos<n>destinos são os\nmesmos."
+            "text": "As nossas almas estão ligadas.<n>Sempre foi desse\njeito. Os nossos<n>destinos são os mesmos."
         },
         {
             "name": "Irmã da Ayabe",
@@ -387,7 +387,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Não consigo contar quantas vezes<n>chamei por\nela enquanto ela gemia<n>dormindo.",
+            "text": "Não consigo contar quantas vezes<n>chamei por ela\nenquanto ela gemia<n>dormindo.",
             "choice_data_list": [
                 "Ayabe! Eu fiquei tão preocupado com você..."
             ]
@@ -425,7 +425,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mas eu sei que não é nem uma<n>fração da dor\nque ela está sentindo<n>agora."
+            "text": "Mas eu sei que não é nem uma<n>fração da dor que\nela está sentindo<n>agora."
         }
     ]
 }

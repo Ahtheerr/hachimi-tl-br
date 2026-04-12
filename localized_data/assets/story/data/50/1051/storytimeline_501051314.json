@@ -1,0 +1,231 @@
+{
+    "text_block_list": [
+        {
+            "name": "Nishino Flower",
+            "text": "Uau! Isso sim é causar impacto! Por<n>isso que eu\namo sprint!"
+        },
+        {
+            "name": "Fã A",
+            "text": "Ei, você reparou? A corrida da Nishino<n>Flower\nparecia diferente do normal..."
+        },
+        {
+            "name": "Fã B",
+            "text": "Eu sempre achei que ela era rápida,<n>mas parece\nque agora ela tá com<n>mais força. É quase como se\nela<n>estivesse evoluindo..."
+        },
+        {
+            "name": "Fã B",
+            "text": "A diferença no jeito dela correr deve<n>ser óbvia\npra espectadores e críticos<n>de olho bom. Nosso\nvai-e-vem vai<n>continuar, mas agora...",
+            "choice_data_list": [
+                "Como foi isso?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ahm..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ainda tem algumas coisas que me<n>incomodam...\nmas eu acho que fiz o<n>melhor que eu podia.",
+            "choice_data_list": [
+                "Sim! Você causou um impacto enorme—eu quase\nsenti daqui!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sério? Que alívio...",
+            "choice_data_list": [
+                "Parece que você não tem problema nenhum com\nsprints.",
+                "Parece que você não tem problema nenhum com\nsprints."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Eu concordo. Acho que combinam<n>comigo."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Então a gente faz da minha próxima<n>corrida um\nsprint também?",
+            "choice_data_list": [
+                "A gente pode, mas..."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Idealmente, se ela conseguir correr<n>distâncias um\npouco maiores, ela<n>pode competir em mais\ncorridas<n>graduadas e melhorar a versatilidade."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Então, se ela continuar crescendo<n>tanto\nfisicamente quanto como atleta,<n>talvez seja uma\nboa ela tentar isso."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu anuncio a próxima corrida<n>objetivo da Nishino\nFlower na<n>coletiva de imprensa pós-corrida.",
+            "choice_data_list": [
+                "O próximo objetivo da Nishino Flower será a\nMilers Cup."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Oh! Uma corrida de milha?! Se ela vai<n>correr a\nMilers Cup, então a próxima<n>corrida depois disso\ndeve ser...",
+            "choice_data_list": [
+                "Também pretendemos que ela corra a G1 Yasuda\nKinen."
+            ],
+            "color_text_info_list": [
+                "Milers Cup"
+            ]
+        },
+        {
+            "name": "Repórter A",
+            "text": "Então ela <i>vai mesmo</i> atrás de uma<n>G1! Ela tem\nplanos de correr provas<n>de média distância no\nfuturo?",
+            "choice_data_list": [
+                "Não por enquanto."
+            ]
+        },
+        {
+            "name": "Repórter A",
+            "text": "Hm. Entendo... Bem, a Nishino Flower<n>tem ido\nmuito bem até aqui."
+        },
+        {
+            "name": "Repórter A",
+            "text": "Se ela continuar assim, eu tenho<n>certeza de que\nvocê e a Nishino<n>Flower serão reconhecidos e\npremiados pela URA!"
+        },
+        {
+            "name": "Repórter A",
+            "text": "...!",
+            "choice_data_list": [
+                "A gente nunca nem pensou em receber prêmios."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Haha. Desculpe trazer isso do nada.<n>Mas quando\nvocês <i>forem</i><n>premiados pela excelência, espero\nque deixem a mídia comemorar<n>junto!"
+        },
+        {
+            "name": "Repórter A",
+            "text": "S-sim, claro! Obrigada pelo apoio."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "E com isso, a coletiva chega ao fim.",
+            "choice_data_list": [
+                "Eu vou esperar lá fora."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Obrigada!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Um prêmio."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(É mesmo. É possível receber<n>prêmios por ir muito\nbem. Seria uma<n>honra tão grande...)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Aposto que o Treinador ia ficar nas<n>nuvens."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Eu talvez até consiga abrir caminho<n>pro futuro do\nTreinador... como seria<n>incrível...)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Eu talvez até consiga abrir caminho<n>pro futuro do\nTreinador... seria<n>incrível...)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe. Agora eu tenho um novo sonho<n>pra correr\natrás! ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ahá! Aí está você, Flower! Mandou<n>muito bem\nhoje!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ah, Baku—"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Eu vi sua coletiva! Então você vai<n>continuar\ncorrendo provas de milha,<n>é? Que objetivo\nmaravilhoso!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Eu também quero dominar todas as<n>categorias de\ncorrida, mas<n>infelizmente, no momento eu estou\nfocando na minha velocidade!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Até a gente se ver de novo na<n>Sprinters Stakes no\noutono! Até mais!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Bakushin O..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Lá vem ela e lá se vai, como um<n>furacão. Embora\nas efêmeras flores<n>de cerejeira deem nome a\nseu<n>destino, ela de fato abre seu próprio<n>caminho,\ninabalável."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Haha. Parece mesmo."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Então você vai encarar as milhas,<n>Flower?"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Sim. Eu quero aumentar aos poucos a<n>distância\nque eu consigo correr."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Aos poucos..."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "...Tão alto é o penhasco chamado<n>\"distância\", e tão\níngreme é sua<n>queda, que até tempestades se\nafastam, temerosas."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Zephyr?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Eu também correrei a Milers Cup. Em<n>sprints e\nmilhas, eu me tornarei o<n>vento e, então..."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Eu vou dominar na ponta até mesmo<n>nas provas\nde distâncias ainda<n>maiores e me tornar uma\ncampeã das<n>três distâncias."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "...!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Depois de ver sua coletiva, os<n>ventos das\nminhas emoções se<n>intensificaram."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Mas parece que enfim recobraram<n>um pouco de\ncalmaria..."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "...A Zephyr parecia diferente do<n>normal hoje."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Por quê será...",
+            "choice_data_list": [
+                "Talvez a gente descubra na Yomiuri Milers Cup.",
+                "Talvez a gente descubra na Yomiuri Milers Cup."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Por mais curioso que eu esteja com<n>a mudança\nna Yamanin Zephyr,<n>primeiro precisamos focar no\ntreino<n>pro nosso próximo objetivo."
+        }
+    ]
+}

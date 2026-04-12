@@ -1,157 +1,157 @@
 {
     "text_block_list": [
         {
-            "name": "モノローグ",
-            "text": "ニシノフラワーの担当トレーナーとなり、しばらくが経った。<n>\nトレーニングも順調で、充実した時間を過ごしていたある日のこと。"
+            "name": "Monólogo",
+            "text": "Já faz um tempo desde que me tornei<n>o Treinador da Nishino Flower. Tudo<n>está indo bem, e nosso tempo juntos<n>tem sido muito bem aproveitado. Até<n>que, um dia..."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "トレーナーさん、これよかったら……食べてくださいっ。",
+            "name": "Nishino Flower",
+            "text": "Treinador, se você quiser, eu trouxe<n>um bento pro almoço.",
             "choice_data_list": [
-                "……お弁当？"
+                "Você fez isso pra mim?"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "はい。実は昨日、お母さんからレシピを教わったんです！<n>\nそれで、トレーナーさんにも食べてもらいたいなって思って……！"
+            "name": "Nishino Flower",
+            "text": "Sim. Na verdade, minha mãe me<n>ensinou essa receita ontem. E eu<n>queria que você provasse também!"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "うん、そうなの。トレーナーさんが丁寧に教えてくれるから、<n>トレーニングがすっごく楽しくてね……！"
+            "name": "Nishino Flower",
+            "text": "Sim! O Treinador ensina direitinho,<n>bem detalhista! Eu tô me divertindo<n>tanto nos treinos!"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "毎日少しずつ、できることが増えていって……<n>もっともっとがんばろうって思えるんだよ。"
+            "name": "Nishino Flower",
+            "text": "Eu consigo fazer só um pouquinho<n>mais a cada dia, e isso me dá<n>vontade de me esforçar ainda mais."
         },
         {
-            "name": "フラワーの父親",
-            "text": "『トレーナーさんといい関係を築けているんだなぁ。<n>本当に、ありがたいことだよ』"
+            "name": "Pai da Flower",
+            "text": "Parece que você construiu uma boa<n>relação com o seu Treinador. Que<n>maravilha."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "うんっ。だからね、私トレーナーさんにお礼をしたくって……！<n>でも、なにをしたらいいかな？\n私にできることって……。"
+            "name": "Nishino Flower",
+            "text": "Uhum! Por isso eu quero fazer alguma<n>coisa pelo Treinador, mas não sei por<n>onde começar. Vocês têm algum<n>conselho?"
         },
         {
-            "name": "フラワーの母親",
-            "text": "『おおげさにすると遠慮されちゃうわよね。……あっ！<n>だったらこういうのはどう！？\nお礼ってことは言わないで――』"
+            "name": "Mãe da Flower",
+            "text": "Hmm. Fazer um alarde talvez não dê<n>certo... Ah! E se você fizer assim? Dá<n>pra oferecer como um gesto casual..."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "前にお弁当を作ったとき、喜んでくださったので……その……。<n>ご、ご迷惑でなければですが……！",
+            "name": "Nishino Flower",
+            "text": "Você gostou do último bento que eu<n>fiz, então... um, se você ainda não<n>tiver nada pra comer, claro—",
             "choice_data_list": [
-                "ありがとう！"
+                "Obrigado! Eu aceito!"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "あ……はいっ。"
+            "name": "Nishino Flower",
+            "text": "O-okay!"
         },
         {
-            "name": "モノローグ",
-            "text": "色とりどりの野菜と煮物。冷めても美味しい唐揚げ――<n>\nどれも優しい味付けで、ホッとするようなお弁当だ。"
+            "name": "Monólogo",
+            "text": "Um mix de legumes coloridos e<n>comidas no vapor salta aos olhos —<n>com frango frito e outras coisas que<n>continuam deliciosas mesmo sem<n>estarem saindo fumaça. Cada<n>mordida tem aquele gosto de comida<n>caseira que aquece o coração."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "どう……ですか？ お口に合いましたか……？",
+            "name": "Nishino Flower",
+            "text": "E-então... como tá? Você gostou?",
             "choice_data_list": [
-                "すごく美味しい！"
+                "Tá tudo uma delícia!"
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "毎日でも食べたくなる、そんな優しい味付けだと、<n>素直な感想を伝える。すると――"
+            "name": "Monólogo",
+            "text": "O tempero está na medida certa — eu<n>conseguiria comer algo assim todos<n>os dias. Eu digo exatamente isso pra<n>Nishino Flower."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "毎日……！ わっ、わかりました！<n>えへへ……気に入ってくれて、うれしいです。"
+            "name": "Nishino Flower",
+            "text": "Todos os dias?! E-entendido! Ehehe...<n>que bom que você gostou."
         },
         {
-            "name": "モノローグ",
-            "text": "満面の笑みだ。母親のレシピを褒められ、嬉しかったのだろう。<n>\nお弁当に舌鼓を打ちながら、改めて礼を伝えたのだった。"
+            "name": "Monólogo",
+            "text": "Ela abre um sorriso radiante por ver a<n>receita da mãe ser elogiada. Eu<n>agradeço mais uma vez e continuo<n>comendo com vontade."
         },
         {
-            "name": "モノローグ",
-            "text": "――翌日。"
+            "name": "Monólogo",
+            "text": "No dia seguinte..."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "今日のお弁当、お父さんの好物が入っているんです。<n>トレーナーさんのお口にも、合うといいなぁ……。"
+            "name": "Nishino Flower",
+            "text": "O bento de hoje é o favorito do meu<n>pai. Espero que você goste também."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "あっ。今日はお友だちと約束があるので、そろそろ行きますね。<n>それじゃ、失礼します！"
+            "name": "Nishino Flower",
+            "text": "Ah! Eu vou sair com umas amigas,<n>então te vejo mais tarde. Tchau!"
         },
         {
-            "name": "モノローグ",
-            "text": "お辞儀をして走り去っていくニシノフラワー。<n>\nお弁当自体はとても嬉しいが、作るのは大変ではないだろうか――",
+            "name": "Monólogo",
+            "text": "Com uma reverência, ela sai<n>correndo. Eu fico feliz com o bento,<n>mas também me pergunto se ela não<n>está se esforçando demais só pra<n>fazer isso.",
             "choice_data_list": [
-                "もしかして、昨日の……"
+                "Será que ela levou o que eu disse ontem ao pé da\nletra?"
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "『毎日でも食べたくなる』という感想に応えてくれたのだろうか。"
+            "name": "Monólogo",
+            "text": "Talvez ela tenha levado a sério<n>quando eu disse que podia comer a<n>comida dela todo dia."
         },
         {
-            "name": "モノローグ",
-            "text": "……ならばせめて食費だけでも渡そうと心に決めつつ、<n>トレーナー室で、お弁当を食べていると――"
+            "name": "Monólogo",
+            "text": "Se isso for virar rotina, o mínimo que<n>eu posso fazer é pagar os<n>ingredientes. Eu estou comendo o<n>bento na sala dos Treinadores<n>quando..."
         },
         {
-            "name": "先輩トレーナーA",
-            "text": "『お疲れ～！ 相変わらず頑張ってるかな？ 近況報告も兼ねて、<n>\nご飯でもどうかなって。行けそうなら校門前に集合で！』"
+            "name": "Treinadora Sênior A",
+            "text": "Ei! Trabalhando firme como sempre?<n>Tá livre pro almoço? Eu pensei que a<n>gente podia colocar o papo em dia. Se<n>você topar, vamos se encontrar no<n>portão principal!"
         },
         {
-            "name": "モノローグ",
-            "text": "以前、お世話になった先輩トレーナーからのメッセージだ。<n>\nお弁当でお腹は膨れつつあるのだが――断るわけにはいかない。",
+            "name": "Monólogo",
+            "text": "É uma das treinadoras sêniores que<n>me ajudaram muito no começo. Eu<n>já estou me sentindo cheio por causa<n>da refeição, mas também não quero<n>recusar o convite.",
             "choice_data_list": [
-                "今行きます、と……"
+                "Tá... eu vou."
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "お弁当を最後まで平らげ、校門前まで走ったのだった。"
+            "name": "Monólogo",
+            "text": "Eu enfio o resto da comida na boca e<n>disparo em direção ao portão da<n>academia."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "（……今日のお弁当はどうだったかな。お父さんの好きなもの、<n>\nトレーナーさんも気に入ってくれてたらいいなっ）"
+            "name": "Nishino Flower",
+            "text": "(Espero que o bento de hoje tenha<n>agradado. Eu sei que são as comidas<n>favoritas do pai, mas espero que o<n>Treinador goste também.)"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "（明日はなににしようかな？ お母さんに聞いたら、<n>きっとまた新しいお弁当のレシピを――）"
+            "name": "Nishino Flower",
+            "text": "(O que eu faço amanhã? Tenho<n>certeza de que a mãe vai ficar feliz<n>em compartilhar mais uma receita...)"
         },
         {
-            "name": "先輩トレーナーA",
-            "text": "大丈夫ー？ 君ってそんなに少食だったっけ？"
+            "name": "Treinadora Sênior A",
+            "text": "Você tá bem? Você quase não comeu<n>nada!"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "？ あれは……。"
+            "name": "Nishino Flower",
+            "text": "...? Aquilo ali não é..."
         },
         {
-            "name": "モノローグ",
-            "text": "食事をしながら、トレーニングやウマ娘との付き合い方など、<n>\nまた色々と勉強させてもらった。礼をしたいのだが――腹が、重い。",
+            "name": "Monólogo",
+            "text": "Eu aprendi bastante com minhas<n>colegas sobre treino e sobre como<n>melhorar a parceria com as<n>Umamusume. Eu queria agradecer<n>por terem me chamado pra almoçar,<n>mas meu estômago não aguenta<n>mais nada.",
             "choice_data_list": [
-                "お2人とも、今日は、ありが……うぷ……"
+                "Obrigado pelo... almoço, pessoal... <i>Urk.</i>"
             ]
         },
         {
-            "name": "先輩トレーナーB",
-            "text": "いやいや、無理して喋んなって。もしかして体調悪かったか？<n>ごめんな、急に誘って！",
+            "name": "Treinadora Sênior B",
+            "text": "Eita, não força pra falar. Você tá<n>ficando doente? Desculpa — se a<n>gente soubesse, nem tinha te<n>chamado.",
             "choice_data_list": [
-                "いえ、こちらこそすみません……"
+                "Não. Eu que tenho que pedir desculpas."
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "あ……。"
+            "name": "Nishino Flower",
+            "text": "Ah..."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……もしかして……。"
+            "name": "Nishino Flower",
+            "text": "...Será que..."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "…………。"
+            "name": "Nishino Flower",
+            "text": "..."
         }
     ]
 }

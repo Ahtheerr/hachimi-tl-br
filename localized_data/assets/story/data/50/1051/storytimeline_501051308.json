@@ -1,0 +1,209 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "<i>Huff... uff...</i> Ah..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Eu não consegui... completar os 2.400<n>metros\ninteiros..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Huff... huff... huff...</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Ufa."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Depois da corrida, a Nishino Flower<n>fica tão\nexausta que não consegue<n>nem se mexer, então\nfaço ela se<n>deitar um pouco.",
+            "choice_data_list": [
+                "Você se sente melhor agora?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sim. Desculpe..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Eu... sinto muito mesmo por não ter<n>vencido...",
+            "choice_data_list": [
+                "Você não precisa se desculpar.",
+                "Você não precisa se desculpar."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Mas... se eu tivesse me esforçado só<n>mais um\npouco, e treinado em vez de<n>descansar..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Se eu tivesse pensado mais na minha<n>condição\nfísica, hoje poderia ter sido<n>diferente...",
+            "choice_data_list": [
+                "Dar o seu melhor nunca é um erro."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Não posso dizer que ela estava em<n>sua melhor\ncondição ao encarar a<n>corrida de hoje, mas o\nmotivo da<n>derrota está em outro lugar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A próxima corrida dela, a Shuka Sho,<n>também é de\nmédia distância, como a<n>que ela acabou de correr.\nPorém,<n>considerando os resultados de hoje...",
+            "choice_data_list": [
+                "(2.400 metros é uma distância longa demais pra\nela... Se é pra falar...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu estava te observando correr daqui<n>de cima.\nVocê foi maravilhosamente<n>veloz, como uma\nrajada cortante."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Sim. E quando esse botão enfim<n>florescer, nós\nnos enfrentaremos na<n>pista."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Existem outras corridas em que a<n>Nishino Flower\npode aproveitar<n>melhor os talentos dela.",
+            "choice_data_list": [
+                "Sobre sua próxima corrida..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sim?",
+            "choice_data_list": [
+                "Vamos tirar a Shuka Sho do seu calendário."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Isso quer dizer..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Que eu não correspondi às suas<n>expectativas?",
+            "choice_data_list": [
+                "Não é nada disso.",
+                "Não é nada disso."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ela se esforçou muito na preparação<n>pra corrida\nde hoje. Com mais alguns<n>ajustes, correr a\nShuka Sho também<n>seria uma opção viável. Mas...",
+            "choice_data_list": [
+                "Eu acho que existe um palco em que você\nbrilharia ainda mais."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Brilhar ainda mais? Como assim?",
+            "choice_data_list": [
+                "Eu acho que você devia tentar correr sprints.",
+                "Eu acho que você devia tentar correr sprints."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Até que dá um alívio ouvir isso. Pra<n>falar a\nverdade, eu já sabia que<n>talvez as coisas\nchegassem a isso."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "A Japanese Oaks é uma corrida<n>importante, então\neu queria dar o meu<n>melhor nela..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Mas foi um pouco demais pra mim, e<n>teve\nmomentos em que tudo pareceu<n>difícil demais...",
+            "choice_data_list": [
+                "Obrigada por se esforçar tanto, Flower."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Snif...</i> Obrigada você também."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Eu tenho certeza de que eu posso<n>render ainda\nmelhor em sprints, então<n>vamos nessa!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Então... qual deve ser o meu<n>objetivo? Pensando\nna época do ano,<n>será que a gente mira numa\ncorrida<n>graduada no verão?",
+            "color_text_info_list": [
+                "corrida graduada"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "O raciocínio dela faz sentido. Correr<n>em uma das\nprovas de verão do<n>circuito de sprint é uma forma\nde<n>acostumá-la, mas ela pode mirar<n>ainda mais\nalto!",
+            "choice_data_list": [
+                "E a Sprinters Stakes?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Hã?! Mas isso não é uma corrida<n>G1?!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Você quer que eu corra isso logo<n>depois de mudar\nde rota? Sem falar<n>que vai ter competidoras do\nano<n>sênior participando...",
+            "color_text_info_list": [
+                "Ano sênior"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Essa vai ser a primeira vez que a<n>Nishino Flower\ncorre numa prova com<n>competidoras mais velhas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Comparada com elas, eu ainda sou<n>só uma\ncriança, não é...?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Será que eu vou ter alguma chance?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "A Nishino Flower sempre teve<n>insegurança por\nser muito mais nova<n>do que as outras corredoras,\nentão<n>eu entendo por que ela se preocupa<n>em\ncorrer contra Umamusume mais<n>velhas.",
+            "choice_data_list": [
+                "Você consegue.",
+                "Você consegue."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Do jeito que eu estou agora... não.",
+            "choice_data_list": [
+                "Por isso a gente tem o verão pra treinar."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "O acampamento de verão da<n>academia vai\ncomeçar em breve, e as<n>Umamusume costumam\nevoluir muito<n>durante esse período.",
+            "choice_data_list": [
+                "Eu vou estar bem aqui com você, então vamos\nficar melhores juntos!",
+                "Eu vou estar bem aqui com você, então vamos\nficar melhores juntos!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Treinador..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Tudo bem. Então eu vou seguir a<n>sua liderança!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "E assim, decidimos que nosso<n>próximo objetivo\nserá a G1 Sprinters<n>Stakes."
+        }
+    ]
+}

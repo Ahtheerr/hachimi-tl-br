@@ -1,238 +1,238 @@
 {
     "text_block_list": [
         {
-            "name": "保健室の先生",
-            "text": "――これからしばらくは、リハビリに集中することになると思う。<n>\n車を呼ぶから、念のため病院にも行きましょう。"
+            "name": "Enfermeira da Academia",
+            "text": "Você provavelmente vai precisar<n>focar na reabilitação por um tempo.<n>Vou mandar trazer um carro pra te<n>levar ao hospital, só por precaução."
         },
         {
-            "name": "保健室の先生",
-            "text": "本格化が始まったとはいえ、貴方の体はまだ未成熟なの。<n>\n無茶をすれば、すぐにその影響が出る。……わかるよね？"
+            "name": "Enfermeira da Academia",
+            "text": "Eu sei que você começou a treinar<n>pra valer, mas você ainda está em<n>fase de crescimento. Se forçar<n>demais vai cobrar um preço imediato<n>do seu corpo. Você sabe disso, não<n>sabe?"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……はい。"
+            "name": "Nishino Flower",
+            "text": "...Sim."
         },
         {
-            "name": "保健室の先生",
-            "text": "うん、いい子。大丈夫。ちゃんとリハビリすれば、<n>またトレーニングできるから。いまはゆっくり、ね？"
+            "name": "Enfermeira da Academia",
+            "text": "Ótimo. Vai ficar tudo bem — com a<n>reabilitação adequada, você vai voltar<n>a treinar antes do que imagina. Mas<n>por enquanto você precisa pegar<n>leve, certo?"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……っ、はい……。"
+            "name": "Nishino Flower",
+            "text": "...Sim, senhora."
         },
         {
-            "name": "セイウンスカイ",
-            "text": "…………。"
+            "name": "Seiun Sky",
+            "text": "..."
         },
         {
-            "name": "モノローグ",
-            "text": "ウマ娘たちのトレーニング時間中、ニシノフラワーを見つけた。<n>\n……脚をかばうような姿勢に、ケガをしたのだとすぐに気づく。"
+            "name": "Monólogo",
+            "text": "Durante um período de treino, eu<n>avisto Nishino Flower. Ela está<n>apoiando mais o peso em uma das<n>pernas; dá pra ver de primeira que<n>ela se machucou."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "あ……。",
+            "name": "Nishino Flower",
+            "text": "Ah...",
             "choice_data_list": [
-                "その脚は……"
+                "A sua perna tá bem?"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……トレーナーさん……。<n>わ、私……せっかく、あなたに……勇気を……。"
+            "name": "Nishino Flower",
+            "text": "Treinador... você disse que eu te dei<n>coragem... naquela hora..."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "なの、に……。"
+            "name": "Nishino Flower",
+            "text": "Mas... eu..."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……っ、ごめんなさい！"
+            "name": "Nishino Flower",
+            "text": "...Me desculpa!"
         },
         {
-            "name": "モノローグ",
-            "text": "目を潤ませ、走り出したニシノフラワー。"
+            "name": "Monólogo",
+            "text": "Com lágrimas nos olhos, Nishino<n>Flower sai correndo."
         },
         {
-            "name": "モノローグ",
-            "text": "ケガを負った脚で走るなんて……。<n>心配になり、すぐにその後を追いかけた。"
+            "name": "Monólogo",
+            "text": "Ela não devia estar correndo com a<n>perna machucada... preocupado, eu<n>corro atrás dela."
         },
         {
-            "name": "モノローグ",
-            "text": "小さな背中を追いかけて、辿り着いた場所。 そこでは――"
+            "name": "Monólogo",
+            "text": "Eu corro atrás daquela figura<n>pequena ao longe. Por fim, ela para."
         },
         {
-            "name": "モノローグ",
-            "text": "目を奪うような鮮やかで美しい花々が、辺りを彩っていた。"
+            "name": "Monólogo",
+            "text": "À minha frente, há um campo de<n>flores de tirar o fôlego,<n>desabrochando em cores vibrantes<n>até onde a vista alcança."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……追いかけてきてくれたんですね。<n>ごめんなさい、逃げちゃって……。",
+            "name": "Nishino Flower",
+            "text": "Você veio atrás de mim. Desculpa por<n>ter fugido...",
             "choice_data_list": [
-                "ここは……"
+                "Que lugar é esse?"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……私の大好きな場所です。"
+            "name": "Nishino Flower",
+            "text": "Este... é o meu lugar favorito."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "お花を見ると、いつも励まされます。<n>もっともっとがんばろうって。"
+            "name": "Nishino Flower",
+            "text": "Olhar pras flores daqui sempre me<n>anima. Elas me fazem sentir que eu<n>consigo continuar."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "どんなに小さな花でも、その姿は私に勇気をくれます。<n>\nだから……私もそうなりたくて、ここまで来ました。"
+            "name": "Nishino Flower",
+            "text": "Até as florzinhas mais pequenas me<n>enchem de coragem. Por isso... eu<n>quero ser igual a elas. Por isso eu<n>venho aqui."
         },
         {
-            "name": "フラワーの母親",
-            "text": "フラワーちゃんの走りを見ていたらね、なんだか自信が湧いて<n>\nきたの。私たちの宝物が、あんなに輝いているんだもの。"
+            "name": "Mãe da Flower",
+            "text": "É difícil de explicar, mas ver você<n>correr me deu uma coragem de<n>repente. Foi uma sensação tão forte...<n>ver o nosso tesourinho brilhando<n>daquele jeito."
         },
         {
-            "name": "フラワーの父親",
-            "text": "うん、うん。お父さんたち、勇気をもらったよ。<n>縮こまる必要なんてない、もっと胸を張ろうって。"
+            "name": "Pai da Flower",
+            "text": "Isso mesmo. Você deu coragem pra<n>gente. Não tem por que a gente se<n>esconder, nem se diminuir... a gente<n>tem é que erguer a cabeça."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "大切な人たちが、私に勇気をもらったって言ってくれたから。"
+            "name": "Nishino Flower",
+            "text": "As pessoas que eu amo me<n>disseram que eu dei coragem pra<n>elas."
         },
         {
-            "name": "サクラバクシンオー",
-            "text": "むむっ。であれば、もう1度勝負といきましょう！<n>今度こそ、きっちりかっちり勝利してみせます！"
+            "name": "Sakura Bakushin O",
+            "text": "Oho! Se é um veredito decisivo que<n>você deseja, então por que não<n>corremos de novo? E desta vez, eu<n>vou garantir que reste <i>zero</i> dúvida<n>sobre a vencedora!"
         },
         {
-            "name": "ヤマニンゼファー",
-            "text": "ふふ。花は風に舞いますから、目の前を隠されないよう、<n>やはり私自身が風にならなくては、ですね。"
+            "name": "Yamanin Zephyr",
+            "text": "Hehe. Quando as pétalas dançam na<n>brisa, às vezes elas encobrem a<n>visão. Nesse caso, acho que não me<n>resta escolha a não ser virar uma<n>ventania."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "力の差に打ちのめされても、がんばろうって思ってました。"
+            "name": "Nishino Flower",
+            "text": "Mesmo sabendo que eu estava muito<n>abaixo delas, eu ainda tentei dar o<n>meu melhor."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……なのに、ケガをして、しまいました。あんなに<n>\nむちゃをしたら……いけないって、わかっていたのに……。",
+            "name": "Nishino Flower",
+            "text": "Mas olha... no fim eu só acabei me<n>machucando. Eu sabia que eu tava<n>me forçando demais, mas mesmo<n>assim eu...",
             "choice_data_list": [
-                "そんなにも、無理をして……？"
+                "Por que você <i>foi</i> se forçar tanto assim?"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "まだ子ども、だけど……うくっ、がん、がんばれば……ひっく、<n>\nみんなに置いていかれないようにって……私、私……。"
+            "name": "Nishino Flower",
+            "text": "Eu ainda sou uma criança, mas...<n><i>Snif.</i> S-se... <i>Soluço</i> S-se eu me<n>esforçasse o bastante, eu achava<n>que conseguiria alcançar todo mundo.<n>Eu... eu..."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "夢、かなえ……たくって……う、あ……。<n>……っ、う……ふっ、えぇん……。"
+            "name": "Nishino Flower",
+            "text": "Eu queria... realizar o meu sonho...<n><i>Buá.</i>"
         },
         {
-            "name": "モノローグ",
-            "text": "頼りなさげな肩を震わせ、涙するニシノフラワー。<n>自分の不甲斐なさが悔しいのだろう。"
+            "name": "Monólogo",
+            "text": "Nishino Flower cai no choro, com<n>seus ombros pequenos tremendo. A<n>frustração de nunca se sentir o<n>bastante deve estar se acumulando<n>há um bom tempo."
         },
         {
-            "name": "モノローグ",
-            "text": "そんなことはないと否定するのは簡単だ。<n>だがそれよりも、今湧き出てきた気持ちは――"
+            "name": "Monólogo",
+            "text": "Seria fácil dizer a ela que não precisa<n>“alcançar” ninguém. Mas agora, o<n>sentimento que borbulha dentro de<n>mim é..."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "ごめっ、な……さ……私、こんな……。",
+            "name": "Nishino Flower",
+            "text": "<i>Buá.</i> E-eu... eu... me desculpa...",
             "choice_data_list": [
-                "君をスカウトしたい！",
-                "貴方をスカウトしたい！"
+                "Deixa eu ser seu Treinador!",
+                "Deixa eu ser seu Treinador!"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "え……。",
+            "name": "Nishino Flower",
+            "text": "Hã?",
             "choice_data_list": [
-                "君に勇気をもらった",
-                "貴方に勇気をもらった"
+                "Você me deu coragem também.",
+                "Você me deu coragem também."
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "もう1度、ニシノフラワーに伝える。<n>彼女の姿に励まされたこと、救われたこと。"
+            "name": "Monólogo",
+            "text": "Eu digo à Nishino Flower de novo<n>como as atitudes dela me animaram e<n>me deram esperança."
         },
         {
-            "name": "モノローグ",
-            "text": "だからこそ、彼女の夢は叶う。叶えられる。<n>自分だけじゃない、多くの人の花になれる。",
+            "name": "Monólogo",
+            "text": "E é por isso que ela pode — não, ela<n><i>vai</i> realizar o sonho dela. Ela vai<n>florescer como as flores, trazendo<n>sorrisos pra mim e pra todos ao redor<n>dela.",
             "choice_data_list": [
-                "夢を諦めたいんじゃないだろ？",
-                "夢を諦めたいんじゃないよね？"
+                "Você ainda não está pronta pra desistir do seu\nsonho, né?",
+                "Você ainda não está pronta pra desistir do seu\nsonho, né?"
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "もしそうなら、きっとここには来ないはずだ。<n>自分を励ましてくれる、花たちの前には。"
+            "name": "Monólogo",
+            "text": "Se ela tivesse desistido, ela nunca<n>teria vindo até aqui. Não teria buscado<n>conforto nas flores."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "私……私は……。",
+            "name": "Nishino Flower",
+            "text": "Eu... ahn...",
             "choice_data_list": [
-                "夢の手伝いをさせてほしい"
+                "Eu quero te ajudar a realizar seu sonho."
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……！"
+            "name": "Nishino Flower",
+            "text": "...!"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……わた、私……諦めたくないです……！<n>ううんっ、諦めてないです！"
+            "name": "Nishino Flower",
+            "text": "Eu... eu não quero desistir! Não, eu<n><i>não vou</i> desistir!"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "だって……勇気、もらってくれたんですよね？<n>私から……ちゃんと……。",
+            "name": "Nishino Flower",
+            "text": "Você disse que eu te dei coragem,<n>né? Você... falou sério mesmo?",
             "choice_data_list": [
-                "ああ！",
-                "うん！"
+                "Sim!",
+                "Sim!"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……っ、ありがとう……ございます……！<n>私、がんばります……だから、だからっ。"
+            "name": "Nishino Flower",
+            "text": "...! Obrigada! Eu... eu vou dar o meu<n>melhor, então... por favor..."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "よろしくお願いします！"
+            "name": "Nishino Flower",
+            "text": "Me ajude a realizar o meu sonho!"
         },
         {
-            "name": "モノローグ",
-            "text": "笑顔になったニシノフラワーと学園に戻る。<n>明日からは、力を合わせて夢へと向かうのだ。"
+            "name": "Monólogo",
+            "text": "Sorrindo de novo, Nishino Flower<n>volta pra academia. Amanhã, vamos<n>começar a trabalhar juntos pra<n>transformar o sonho dela em<n>realidade."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "それじゃ、今日はありがとうございましたっ。<n>私、教室に戻りますね。",
+            "name": "Nishino Flower",
+            "text": "Obrigada por tudo. Eu consigo ir pro<n>resto do caminho até a sala sozinha.",
             "choice_data_list": [
-                "脚のこともあるし、先に保健室へ……"
+                "Acho melhor a gente passar primeiro na\nenfermaria..."
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "あっ、それなら1人で行けますから、心配はいりませんっ。<n>\nトレーナーさんにも走らせちゃったし、これ以上ご迷惑は……。"
+            "name": "Nishino Flower",
+            "text": "Ah, eu vou ficar bem indo sozinha.<n>Por favor, não precisa se preocupar.<n>Eu fiz você correr atrás de mim, então<n>eu não teria coragem de pedir mais..."
         },
         {
-            "name": "セイウンスカイ",
-            "text": "あれーフラワーも、保健室に行くの？ ベッドはセイちゃんに<n>\n譲ってねー。ちょーど昼寝がしたくてさぁ。ふぁ～あ……。"
+            "name": "Seiun Sky",
+            "text": "Eeiii, Flower. Tá indo pra enfermaria<n>também? Espero que tenha cama pra<n>nós duas. Eu bem que queria tirar um<n>cochilo. <i>Bocejo.</i>"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "えっ、スカイさん？ ……保健室で寝るんですか？<n>\n珍しいですね。晴れた日は、いつも外でお昼寝してるのに……。"
+            "name": "Nishino Flower",
+            "text": "Hã? Você vai dormir na enfermaria,<n>Sky? Isso é raro. Num dia limpinho<n>assim, você sempre cochila lá fora..."
         },
         {
-            "name": "モノローグ",
-            "text": "『たまにはね』と、しれっとした顔をするセイウンスカイ。<n>\nだがほんの一瞬、ニシノフラワーの脚に視線がいき――",
+            "name": "Monólogo",
+            "text": "Com a maior cara de pau, Seiun Sky<n>diz que quer mudar de ares, mas o<n>olhar dela vai rapidinho pra perna da<n>Nishino Flower.",
             "choice_data_list": [
-                "……任せていい？"
+                "Acho que você tá em boas mãos."
             ]
         },
         {
-            "name": "セイウンスカイ",
-            "text": "んー？ なんのことだかー？"
+            "name": "Seiun Sky",
+            "text": "Hm? Como assim?"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "あっ、スカイさん、待ってくださいっ。<n>それじゃトレーナーさん、また明日……！"
+            "name": "Nishino Flower",
+            "text": "Ah, espera, Sky! Até amanhã,<n>Treinador!"
         },
         {
-            "name": "モノローグ",
-            "text": "ヒラヒラと手を振り、のんびりと歩くセイウンスカイ。<n>\nそれに合わせ歩くニシノフラワーを、穏やかな気持ちで見送った。"
+            "name": "Monólogo",
+            "text": "Seiun Sky sai andando, acenando um<n>tchau despreocupado. Nishino Flower<n>diminui pra acompanhar o passo dela.<n>Eu observo as duas irem embora e<n>solto um suspiro aliviado."
         }
     ]
 }

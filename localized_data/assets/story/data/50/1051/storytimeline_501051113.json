@@ -1,0 +1,325 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "A Hanshin Juvenile Fillies é a corrida<n>G1 que\ndecide as melhores<n>corredoras do ano júnior."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas quanto mais difícil a corrida,<n>mais exigente\nela é, e mais desgaste<n>ela causa no corpo de uma\ncorredora."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Como a Nishino Flower começou a<n>carreira de\ncorrida cedo e o corpo<n>dela não está tão\ndesenvolvido, a<n>corrida provavelmente a exaurirá\nainda mais que a sua estreia."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Preciso saber como cuidar dela direito<n>para que\nela possa continuar<n>competindo. Mas como sou\num<n>treinador novato, não tenho nem o\nconhecimento nem a experiência.<n>Então, para\nresolver isso...",
+            "choice_data_list": [
+                "Obrigado por se encontrar comigo hoje!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Aí está você! Estou pronto pra<n>começar. Você\nqueria conversar<n>sobre a manutenção do\ncondicionamento físico de uma<n>corredora, certo?\nTenho todas as<n>informações de que você precisa\nbem aqui!"
+        },
+        {
+            "name": "Treinador Sênior",
+            "text": "Também convidei algumas<n>ex-corredoras para se\njuntarem a<n>nós. Tenho certeza de que ouvir\nsobre as rotinas de treinamento delas<n>será uma\nboa referência para você.",
+            "choice_data_list": [
+                "Muito obrigado mesmo!"
+            ]
+        },
+        {
+            "name": "Treinador Sênior",
+            "text": "Ué? Espera, aquela não é..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Qual é o problema, Flower?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "(Ah, é a Agnes Tachyon. Ela faz<n>muitas pesquisas\ndifíceis, mas<n>conversar com ela é divertido.)",
+            "color_text_info_list": [
+                "Agnes Tachyon"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Bom, hum..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Hmm."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Sabe, eu já estava querendo falar<n>com você\nsobre o meu jaleco. Ele já<n>passou por tanta\ncoisa, basicamente<n>é um trapo agora."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Dá pena de olhar e pena de usar.<n>Poderia dar uma\nolhada nele para<n>mim?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "C-Claro! Vou fazer o meu melhor pra<n>ajudar!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Yaaah!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Arf... arf!</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Para nos prepararmos para a corrida<n>G1, aumentei\na intensidade do treino<n>da Nishino Flower. Agora,\naté a rotina<n>normal a deixa completamente\nexausta.",
+            "choice_data_list": [
+                "Vamos colocar um gelo em você, Flower!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ah, obrigada...",
+            "choice_data_list": [
+                "E eu fiz uma bebida cheia de vitaminas pra você!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "H-Hum, obrigada..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Eu uso o que aprendo com o<n>treinador sênior para\ncuidar da<n>Nishino Flower, mas ainda sinto que o\nmeu domínio dos fundamentos ainda<n>não está no\nponto."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Alguns dias depois, vou procurar<n>materiais de\nreferência sobre as<n>particularidades físicas e a\nanatomia<n>das Umamusume."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ler esses livros não vai ajudar você."
+        },
+        {
+            "name": "???",
+            "text": "O que eu quero dizer é que livros só<n>podem\nensinar até certo ponto. Você<n>deveria estar\nfocando mais em<n>tentativa e erro na prática em\nvez de<n>pura teoria.",
+            "choice_data_list": [
+                "Você é...",
+                "Você é..."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Agnes Tachyon. Apenas uma humilde\npesquisadora. Peço desculpas pela<n>intrusão\nabrupta, mas por acaso eu<n>me especializo em\npesquisas sobre o<n>corpo das Umamusume.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hm. Eu sabia."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Você é o treinador da Flower, não é?<n>Tem feito\nmuito por ela."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Como uma veterana, eu adoraria<n>fazer qualquer\ncoisa que eu pudesse<n>para ajudar minha caloura.\nMinhas<n>intenções são puras e boas, eu<n>garanto!",
+            "choice_data_list": [
+                "Por favor, me ensine tudo o que puder!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Não se preocupe. Vou te contar tudo o<n>que eu sei\npara ajudar a aliviar o<n>peso na Flower."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Tenho uma condição, mas é uma<n>coisinha de\nnada. Não é grande coisa.<n>Você simplesmente tem\nque tomar<n>uma certa bebida e depois fazer\nalguns... exercícios <i>leves</i> para mim.",
+            "choice_data_list": [
+                "Feito!"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "O Treinador está muito atrasado..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Tenho certeza de que a pessoa com<n>quem vi o\nTreinador conversando<n>outro dia era um treinador\nsênior.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ainda sou bem novato nisso, sabe."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ainda sou bem novato nisso, sabe."
+        },
+        {
+            "name": "Monólogo",
+            "text": "(Talvez o Treinador esteja<n>pesquisando mais por\nminha causa.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(É tudo culpa minha o Treinador estar<n>passando\npor tantas dificuldades, já<n>que eu sou tão\npequena...)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Desculpe fazer você esperar, Flower.<n>O seu\ntreinador exagerou um pouco<n>as coisas.",
+            "choice_data_list": [
+                "<i>Arf... arf...</i>"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Desculpe fazer você esperar, Flower.<n>O seu\ntreinador exagerou um pouco<n>as coisas.",
+            "choice_data_list": [
+                "<i>Arf... arf...</i>"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "O que foi, Treinador?! E o que você<n>está fazendo\naqui, Tachyon?",
+            "color_text_info_list": [
+                "Tachyon"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Bom, houve um pequeno<n>contratempo. Tudo que\neu queria<n>fazer era aumentar a quantidade de<n>um\ncerto ingrediente para ver como<n>isso afetaria a\nfunção cardiopulmonar<n>dele."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Era apenas um teste de exercício<n>leve. No entanto,\nparece que ele teve<n>a esplêndida e bem-vinda\nilusão de<n>que eu daria a ele mais conselhos\nquanto mais ele se esforçasse."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Era apenas um teste de exercício<n>leve. No entanto,\nparece que ela teve<n>a esplêndida e bem-vinda\nilusão de<n>que eu daria a ela mais conselhos\nquanto mais ela se esforçasse."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hehehe! Graças a esse meu novo<n>ratinho de\nlaboratório, eu obtive<n>resultados excelentes, de\nfato! E em<n>troca, forneci um monte de conselhos\npara te ajudar."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Para me ajudar?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Agora cabe a vocês dois fazerem<n>algumas\ntentativas e erros para ver o<n>que funciona. Eu\npreciso voltar para a<n>minha pesquisa."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Considere isso como um<n>agradecimento pela sua\najuda com o<n>meu jaleco."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "...Me desculpe.",
+            "choice_data_list": [
+                "Por que você está se desculpando?",
+                "Por que você está se desculpando?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Porque é minha culpa que você tenha<n>que passar\npor tudo isso..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ela parece pensar que, por causa do<n>seu tamanho\nmenor, meu trabalho é<n>mais difícil. Claro, isso\ntorna o<n>treinamento dela um caso mais único,\nmas no fim das contas...",
+            "choice_data_list": [
+                "Fico feliz em poder dar o meu melhor por você.",
+                "Fico feliz em poder dar o meu melhor por você."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Eu... sei exatamente como você se<n>sente."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Tudo bem."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Descanse um pouco, Treinador. Vou<n>pegar uma\nágua para você."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Eu vou correr assim que voltar, então<n>trate de não\ntirar os olhos de mim!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Haaaaah!",
+            "choice_data_list": [
+                "(Ela é tão rápida!)"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "A arrancada final da Nishino Flower<n>na reta é\nimpressionante de se ver.<n>Ela melhorou muito\ndesde o nosso<n>treino de ontem!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Arf... arf!</i>",
+            "choice_data_list": [
+                "Aqui, pega uma bebida!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ufa. Obrigada...",
+            "choice_data_list": [
+                "Você andou treinando em segredo?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Não. Mas..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Só de pensar no quanto você tem<n>trabalhado duro\npor mim já me<n>encheu de força!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Bom, foi o que pareceu, pelo menos."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Eu cresci e melhorei tanto por sua<n>causa,\nTreinador."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Então, obrigada, por se esforçar tanto<n>por mim. Eu\ndou muito valor a tudo o<n>que você está fazendo!",
+            "choice_data_list": [
+                "Flower..."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Mas você não é o único que quer<n>trabalhar duro.\nEu também quero,<n>então, hum..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Você poderia me contar o que<n>aprendeu hoje?",
+            "choice_data_list": [
+                "Claro!",
+                "Claro!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Estou além de nervoso para a nossa<n>primeira\ncorrida G1, mas enquanto eu<n>estiver com a\nNishino Flower, sei que<n>podemos superar isso\njuntos!"
+        }
+    ]
+}

@@ -1,0 +1,305 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certo dia, enquanto continuamos o<n>treino focado\nem curtas distâncias da<n>Nishino Flower em\npreparação para o<n>Sprinters Stakes..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Haaah!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Uau, a Flower tá mais rápida ainda?<n>Ela tá\nmirando no Sprinters Stakes,<n>né?",
+            "color_text_info_list": [
+                "Flower"
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Com uma Rapidez dessas, ela bate<n>de frente com\no ano sênior, tranquilo."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Ufa... Como eu fui, Treinador?",
+            "choice_data_list": [
+                "Você melhorou muito seu tempo!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "É? Mas eu senti que perdi um pouco<n>de Rapidez\nno final ali..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Talvez eu ainda não tenha Vigor<n>suficiente. Seria\numa boa ideia eu<n>fortalecer um pouco mais o meu\ncorpo, né?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Dá para perceber que a Nishino<n>Flower está sem\nconfiança. Parece<n>que ela ainda não superou seu\ndesempenho no Japanese Oaks."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A boa notícia é que ela está ficando<n>mais rápida a\ncada dia. Mas como eu<n>faço para ela perceber\nisso?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Aha! Eu sabia que foi por aqui!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Ora, ora! Quem foi que chamou por<n>mim?!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Bakushin O? Você disse que alguém<n>te chamou\naqui?",
+            "color_text_info_list": [
+                "Bakushin O"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hã? Eu jurava que ouvi alguém dizer<n>\"com uma\nrapidez dessas, ela bate<n>de frente com o ano\nsênior\"!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "E todo mundo sabe que Rapidez é<n>sinônimo de\nBakushin! Levante a<n>mão quem me chamou! Sem\ntimidez<n>agora!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Então, esta é a parada final ao longo<n>das\ncorrentes do vento... Por favor,<n>permitam-me\nacompanhá-las."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Você também tá aqui, Zephyr? Hum...",
+            "choice_data_list": [
+                "(Essa é... a chance perfeita!)",
+                "(Essa é... a chance perfeita!)"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sakura Bakushin O e Yamanin Zephyr<n>declararam\nque vão correr no<n>Sprinters Stakes. Em outras\npalavras,<n>elas são as rivais da Nishino Flower."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Essas duas já alcançaram grandes<n>resultados\nem corridas curtas e de<n>milha. Se a Nishino Flower\nconseguir<n>correr bem contra elas, com certeza\naumentará a confiança dela.",
+            "choice_data_list": [
+                "Tenho um favor a pedir a vocês duas..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Hyaaah! Hmph!"
+        },
+        {
+            "name": "Bakushin O e Zephyr",
+            "text": "(Elas são muito rápidas mesmo,<n>igualzinho eu\nimaginava! É como se<n>estivessem em um nível\ntotalmente<n>diferente... Mas!)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Eu quero alcançá-las! Raaahhh!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...!"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "<i>Arf... arf...</i>"
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Não acredito... Eu... ganhei mesmo?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ela passou voando como um<n>vendaval ardente..."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "Oh, uau! Essa foi uma Rapidez<n>impressionante!\nBelo Bakushin,<n>Flower!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "V-você acha? Obrigada! ♪"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Permitam-me expressar os meus<n>agradecimentos\ntambém. O Sprinters<n>Stakes se tornou ainda mais\nsedutor<n>agora."
+        },
+        {
+            "name": "Yamanin Zephyr",
+            "text": "O quêêê?! Peraí, vocês duas também<n>vão\nparticipar dessa corrida?!",
+            "choice_data_list": [
+                "Você não sabia disso?",
+                "Você não sabia disso?"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Não! Mas agora eu sei! E não vou<n>perder no\ngrande dia, com certeza!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Também não vou perder!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Nishino Flower concorda com forte<n>determinação.\nParece que ela<n>construiu um pouco de\nautoconfiança."
+        },
+        {
+            "name": "Monólogo",
+            "text": "É fim de tarde e concluímos nossa<n>sessão de\ntreino. O próximo passo,<n>devo...",
+            "choice_data_list": [
+                "Achar um jeito de construir Força pra corridas\ninclinadas.",
+                "Praticar a animação para dar uma motivada."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "O Sprinters Stakes será realizado no<n>Hipódromo\nNakayama. Nishino Flower<n>precisará de Força\npara superar a<n>ladeira íngreme logo antes da linha\nde<n>chegada.",
+            "choice_data_list": [
+                "(Mas uns conselhos viriam a calhar, no entanto...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Lá, lá, lááá! ♪ Hora do banho, do<n>banho..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Correto. Meu pai me orientou na<n>aplicação deste\nmétodo de<n>treinamento."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Hã? Aquela é a Bourbon com... o<n>Treinador?",
+            "color_text_info_list": [
+                "Bourbon"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Decidi me consultar com Mihono<n>Bourbon, pois\ntinha certeza de que<n>ela teria algo valioso a dizer\nsobre o<n>treino de Força.",
+            "color_text_info_list": [
+                "Mihono Bourbon"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "...Esses são os pontos-chave do<n>treinamento em\nrampas. No caso da<n>Flower, recomendo manter a\ncarga<n>física em 50%.",
+            "choice_data_list": [
+                "Entendi... Muito obrigado!"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Por favor, faça o seu melhor pela<n>Flower."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "(O Treinador ainda tá trabalhando<n>duro por minha\ncausa.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Então eu também tenho que..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "O que importa no final de uma corrida<n>é a força de\nvontade. O<n>encorajamento da multidão pode dar\numa faísca, então decido aprender os<n>melhores\nmétodos de torcida.",
+            "choice_data_list": [
+                "(Mas uns conselhos viriam a calhar, no entanto...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Lá, lá, lááá! ♪ Hora do banho, do<n>banho..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ao ouvir uma coisa dessas, ela vai<n>ficar a todo\nvapor!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Hã? Aquela é a Biko com... o<n>Treinador?",
+            "color_text_info_list": [
+                "Biko"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Decidi me consultar com Biko<n>Pegasus. Como ela\nestá sempre por<n>aí ajudando os outros, quis ouvir\na<n>opinião dela.",
+            "color_text_info_list": [
+                "Biko Pegasus"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "No calor da corrida, não tem nada que<n>supere\nouvir torcidas sinceras que<n>vêm do fundo do\ncoração!",
+            "choice_data_list": [
+                "Obrigado. Você foi uma grande ajuda!"
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Uma verdadeira heroína tá sempre a<n>postos e\npronta pra dar uma<n>ajudinha! Pode me chamar se\ntiver<n>num perrengue!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "(O Treinador ainda tá trabalhando<n>duro por minha\ncausa.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Então eu também tenho que..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Depois de pegar conselhos com<n>outras\nUmamusumes, faço uma<n>pausa e vou dar uma\ncaminhada lá<n>fora."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Aí está você, Treinador!",
+            "choice_data_list": [
+                "Flower?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Você tem um tempinho? Agora<n>mesmo?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hum, aqui está!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "De repente, Nishino Flower me<n>entrega um bolinho\nde arroz<n>quentinho e uma garrafa térmica com\nsopa de missô.",
+            "choice_data_list": [
+                "O que é tudo isso?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Um lanchinho noturno. O pessoal me<n>deu\npermissão para usar a cozinha."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Pensei que você estivesse com fome."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Hum, espero que você não ache<n>que estou\nsendo intrometida.",
+            "choice_data_list": [
+                "De jeito nenhum! Obrigado!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ehehe! Sei que tá calor lá fora hoje à<n>noite, mas\ncomida quentinha ainda<n>faz melhor pro estômago."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Eu vou dar tudo o que tenho<n>amanhã também.\nCom certeza vou<n>ganhar minha próxima corrida."
+        }
+    ]
+}

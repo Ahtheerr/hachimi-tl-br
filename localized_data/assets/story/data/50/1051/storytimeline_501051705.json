@@ -1,0 +1,187 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "No caminho de volta depois de um<n>passeio com a\nNishino Flower..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ah! Treinador, olha ali..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu sigo o olhar dela e vejo um<n>garotinho\nagachado na beira do rio."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Ele tá sozinho? Já já vai escurecer."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "U-um, Treinador. Posso ir ver se ele tá<n>bem?",
+            "choice_data_list": [
+                "Eu vou com você.",
+                "Eu vou com você."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Obrigada!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Entendi. Então você quebrou a<n>xícara favorita da\nsua mãe."
+        },
+        {
+            "name": "Garoto",
+            "text": "Uhum... Eu sei que ela vai ficar brava,<n>brava\ndemais comigo... então... então<n>eu... <i>Snif...</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Tá tudo bem. Você ficou com medo e<n>saiu de casa\nsem avisar ninguém,<n>né?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Aqui, olha só. Vou te mostrar uma<n>coisa legal."
+        },
+        {
+            "name": "Garoto",
+            "text": "Hã?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hup!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não sei de onde ela estava tirando,<n>mas a Nishino\nFlower puxa umas<n>bolinhas de malabares\npequenas e<n>joga elas pro alto."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Aí ela pega com graça e, rapidinho,<n>joga de novo\nem arcos altos e<n>lindos..."
+        },
+        {
+            "name": "Garoto",
+            "text": "U-uaaau! Você é artista de circo?!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe! Ainda não terminei!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Nishino Flower se mexe com<n>energia, girando e\npulando de um lado<n>pro outro, sem deixar as\nbolinhas<n>caírem um segundo sequer."
+        },
+        {
+            "name": "Garoto",
+            "text": "Isso foi incrível! Você deve ser uma<n>malabarista\nprofissional!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe! ♪ Que bom ver você sorrindo.<n>Então..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Vamos voltar pra casa e falar com<n>sua mãe? Se\nvocê ainda estiver com<n>medo, a gente vai junto e\npede<n>desculpas com você. Tenho certeza<n>de que\nela tá morrendo de<n>preocupação."
+        },
+        {
+            "name": "Garoto",
+            "text": "...Tá bom."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A gente tá prestes a acompanhar o<n>menino até a\ncasa dele quando..."
+        },
+        {
+            "name": "???",
+            "text": "Aí está você!"
+        },
+        {
+            "name": "Garoto",
+            "text": "M-mãe!"
+        },
+        {
+            "name": "Mãe do Garoto",
+            "text": "Ainda bem que você tá bem! Me<n>desculpe mesmo\npelo transtorno que<n>meu filho causou!",
+            "choice_data_list": [
+                "A gente só tá feliz de ver vocês juntos de novo."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...Você não tem algo pra dizer pra sua<n>mãe?"
+        },
+        {
+            "name": "Garoto",
+            "text": "...Verdade."
+        },
+        {
+            "name": "Garoto",
+            "text": "Mãe... me desculpa... mas eu quebrei<n>sua xícara."
+        },
+        {
+            "name": "Mãe do Garoto",
+            "text": "Seu bobo! Você é muito mais<n>importante pra mim\ndo que uma<n>xícara velha! Ai... eu quase enlouqueci\nde preocupação!"
+        },
+        {
+            "name": "Garoto",
+            "text": "<i>Snif...</i> Buaaaa!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A gente se despede deles e volta a<n>seguir\ncaminho até a academia."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Obrigada por vir comigo ajudar<n>aquele menino,\nTreinador."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Fico feliz que eles conseguiram se<n>acertar.",
+            "choice_data_list": [
+                "Você foi tão madura e confiável ali.",
+                "Seus malabares foram incríveis."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "E-eu não sei se foi tudo isso... Eu só<n>falei com ele\ncomo eu falaria com<n>qualquer pessoa."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Mas... fico feliz de saber que foi<n>assim que você\nme viu, Treinador."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O lado carinhoso da Nishino Flower<n>fica marcado\nem mim enquanto a<n>gente continua pelo caminho\nde volta."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Na verdade, eu tenho bastante<n>confiança nessa\nminha habilidade."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Quando eu era menor, a minha mãe<n>me animava\nfazendo malabares<n>sempre que eu chorava.",
+            "choice_data_list": [
+                "Então você usou o truque que a sua mãe te\nensinou.",
+                "Então você usou o truque que a sua mãe te\nensinou."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sim!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe! Da última vez que eu mostrei<n>pra ela, ela\nficou tão surpresa com o<n>quanto eu tinha\nmelhorado."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O talento escondido da Nishino Flower<n>fica\nmarcado em mim enquanto a<n>gente continua pelo\ncaminho de volta."
+        }
+    ]
+}

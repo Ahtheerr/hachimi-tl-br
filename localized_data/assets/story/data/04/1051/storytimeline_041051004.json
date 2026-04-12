@@ -1,256 +1,256 @@
 {
     "text_block_list": [
         {
-            "name": "ニシノフラワー",
-            "text": "よろしくお願いします、トレーナーさん！",
+            "name": "Nishino Flower",
+            "text": "Vamos dar o nosso melhor hoje,<n>Treinador!",
             "choice_data_list": [
-                "無理せずゆっくりやっていこう！"
+                "Vamos no seu ritmo, tá?"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "はい！ 治すこと優先……リハビリがんばるっ、ですね！"
+            "name": "Nishino Flower",
+            "text": "Sim! Primeiro eu preciso focar na<n>reabilitação!"
         },
         {
-            "name": "モノローグ",
-            "text": "リハビリ中で本格的なトレーニングには入れない。<n>しかし、やれることがないわけではない。むしろ――"
+            "name": "Monólogo",
+            "text": "Não dá pra fazer nenhum treino<n>pesado enquanto Nishino Flower está<n>em reabilitação, mas ainda tem muita<n>coisa que dá pra fazer. Se brincar,<n>nossos dias ficam é mais corridos."
         },
         {
-            "name": "先輩トレーナーA",
-            "text": "お、<username>！ なんだか元気になった？<n>よかった、心配してたんだよー。"
+            "name": "Treinadora Sênior A",
+            "text": "Ei, <username>! Você tá bem mais animado do<n>que da última vez que eu te vi! Que<n>bom! A gente tava preocupado com<n>você, sabia."
         },
         {
-            "name": "先輩トレーナーB",
-            "text": "落ち込んでたからさ、みんなで飯でもご馳走してやろうって――",
+            "name": "Treinadora Sênior B",
+            "text": "Você parecia bem pra baixo, então a<n>gente tava pensando em te levar pra<n>comer alguma coisa qualquer dia—",
             "choice_data_list": [
-                "先輩がた！！"
+                "Vocês!"
             ]
         },
         {
-            "name": "2人",
-            "text": "うわっ！ な、なに！？",
+            "name": "Treinadoras Sêniores",
+            "text": "Hã?! O-o que foi?!",
             "choice_data_list": [
-                "実は教えていただきたいことが……！"
+                "Tem uma coisa que eu quero pedir pra vocês!"
             ]
         },
         {
-            "name": "先輩トレーナーA",
-            "text": "足りないものを補いたい、か……よし、任せて！ 経験することも<n>\n大事だけど、先輩として伝えていくことも必要だと思うから！"
+            "name": "Treinadora Sênior A",
+            "text": "Você quer a nossa ajuda pra<n>preencher o que estiver faltando pra<n>você como Treinador? Nem precisa<n>pedir! Experiência é a melhor<n>professora, mas também tem coisa<n>que só dá pra aprender com colegas!"
         },
         {
-            "name": "先輩トレーナーB",
-            "text": "俺の担当した子で、同じケガをした子がいるんだ。<n>その時の資料が残ってるから、あとでコピーを渡すよ。",
+            "name": "Treinadora Sênior B",
+            "text": "Eu treinei alguém que se machucou<n>do mesmo jeito. Ainda tenho minhas<n>anotações antigas, então vou tirar<n>cópias pra você.",
             "choice_data_list": [
-                "お2人とも、ありがとうございます……！"
+                "Obrigada! Vocês salvaram minha vida!"
             ]
         },
         {
-            "name": "2人",
-            "text": "頑張れ、後輩！"
+            "name": "Treinadoras Sêniores",
+            "text": "Você consegue, novato!"
         },
         {
-            "name": "モノローグ",
-            "text": "先輩たちからのアドバイス、図書室の本、過去の資料――<n>\nありとあらゆるものから、リハビリのメニューを考えていく。"
+            "name": "Monólogo",
+            "text": "Usando os conselhos das minhas<n>treinadoras sêniores, livros que<n>peguei na biblioteca e anotações<n>antigas, eu começo a montar um<n>programa de reabilitação."
         },
         {
-            "name": "モノローグ",
-            "text": "それだけでは足りない、リハビリ後のことも<n>しっかりと考えていかないと――"
+            "name": "Monólogo",
+            "text": "E, por mais que a reabilitação seja<n>importante, eu também preciso<n>pensar no que vem depois. Eu tô<n>quebrando a cabeça quando ouço<n>uma batida na porta."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "トレーナーさん、お昼ご飯はもう食べましたか？",
+            "name": "Nishino Flower",
+            "text": "Você já almoçou, Treinador?",
             "choice_data_list": [
-                "え、もうそんな時間？"
+                "Hã? Já deu essa hora?"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "はい。実はもうちょっぴり過ぎてます。<n>それで、あの……これを、トレーナーさんに。"
+            "name": "Nishino Flower",
+            "text": "Sim! Na verdade, o almoço começou<n>há alguns minutinhos. Então, um... eu<n>fiz isso pra você."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "一緒に食べようと思って、作ってきたんです。<n>甘酢の肉団子は、ちょっと自信ありなんですよ。えへへ。",
+            "name": "Nishino Flower",
+            "text": "Eu estava esperando que a gente<n>comesse junto, então eu fiz almoço<n>pros dois. Eu sou muito boa fazendo<n>almôndegas ao molho agridoce de<n>vinagre. Ehehe.",
             "choice_data_list": [
-                "ありがとう、嬉しいよ"
+                "Obrigado. Mal posso esperar pra provar."
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "ふふっ、よかったぁ。他にも食べたいものがあったら、<n>教えてください。次のときの参考にします♪"
+            "name": "Nishino Flower",
+            "text": "Hehe, que bom que você gostou. Se<n>tiver mais alguma coisa que você<n>queira comer, pode me dizer. Eu faço<n>no nosso próximo almoço juntos. ♪"
         },
         {
-            "name": "モノローグ",
-            "text": "――そうして、リハビリの日々はあっという間に過ぎていき、<n>ついにトレーニング再開の日がやってきた！"
+            "name": "Monólogo",
+            "text": "O período de reabilitação da Nishino<n>Flower termina num piscar de olhos.<n>Agora, estamos prontos pra treinar<n>pra valer!"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "いよいよ、ですね……！ よろしくお願いします、トレーナーさ――"
+            "name": "Nishino Flower",
+            "text": "Finalmente podemos começar a<n>treinar! Eu tô pronta quando você<n>estiver—"
         },
         {
-            "name": "？？？",
-            "text": "ウェイ、ウェーイ！"
+            "name": "???",
+            "text": "Aêêê!"
         },
         {
-            "name": "ダイタクヘリオス",
-            "text": "併走、ウェーイ！ マジ短コース、爆逃げ決めてくし～！！"
+            "name": "Daitaku Helios",
+            "text": "Besties de corrida pra vida! Miga, a<n>gente <i>detona</i> nesses tiros!"
         },
         {
-            "name": "メジロパーマー",
-            "text": "マジ、それな～！"
+            "name": "Mejiro Palmer",
+            "text": "Você é braba demais por isso!"
         },
         {
-            "name": "サクラバクシンオー",
-            "text": "むっ。次は坂路ですか、いいでしょう！ どんな坂も壁も<n>乗り越えてみせますとも！\nなんせ学級委員長ですから！！"
+            "name": "Sakura Bakushin O",
+            "text": "Hmm! O próximo é tiro em subida, é?<n>Moleza! Como representante de<n>classe, eu vou superar qualquer<n>parede ou ladeira que aparecer no<n>meu caminho!"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "（みんなすごい……！ でも、私も今日からはっ）",
+            "name": "Nishino Flower",
+            "text": "(Todo mundo tá se esforçando tanto!<n>E a partir de hoje, eu vou me juntar<n>a elas!)",
             "choice_data_list": [
-                "まずは負荷の軽いダート練習から始めよう"
+                "Que tal começar de leve com uma corrida na pista\nde areia?"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "えっ……。"
+            "name": "Nishino Flower",
+            "text": "O quê?"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "…………。",
+            "name": "Nishino Flower",
+            "text": "...",
             "choice_data_list": [
-                "このメニューじゃ心配？"
+                "Você acha que eu tô pegando leve demais com\nvocê?"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……。いいえ！ トレーナーさんが作ってくれたメニュー、<n>\n私、信じてます。だからもう、焦ったりしませんっ。"
+            "name": "Nishino Flower",
+            "text": "...De jeito nenhum! Você montou<n>esse programa só pra mim, e eu<n>confio em você. Então eu não vou me<n>precipitar me comparando com todo<n>mundo."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "あらためて、よろしくお願いします！"
+            "name": "Nishino Flower",
+            "text": "Bem, vamos começar!"
         },
         {
-            "name": "モノローグ",
-            "text": "そうしてトレーニングは開始され、<n>順調に本来の走りを取り戻していったニシノフラワー。"
+            "name": "Monólogo",
+            "text": "E assim, Nishino Flower começa o<n>treinamento. Aos poucos, ela<n>consegue voltar a correr no ritmo de<n>antes do machucado."
         },
         {
-            "name": "モノローグ",
-            "text": "このまま彼女のために全力を尽くそうと学び続けていた、<n>\nある日のこと――学園で、模擬レースが開催された。"
+            "name": "Monólogo",
+            "text": "Eu também continuo meus estudos,<n>pra ser o Treinador que ela merece.<n>Até que, um dia, a academia anuncia<n>que vai fazer treinos-teste."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "も、模擬レース……うう、緊張します……。"
+            "name": "Nishino Flower",
+            "text": "Um treino-teste... ai. Eu fico tão<n>nervosa."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "（あのときは、全然追いつけなくて……苦しかったけど）"
+            "name": "Nishino Flower",
+            "text": "(A última vez que eu corri, eu não<n>consegui acompanhar, por mais que<n>eu tentasse. A lembrança daquele dia<n>ainda dói.)"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "（でも、でも……トレーナーさんと一緒にがんばってきたから、<n>きっと、前みたいな走りには――……？）",
+            "name": "Nishino Flower",
+            "text": "(Mas... mas eu venho me esforçando<n>muito com o Treinador. Dessa vez eu<n>vou me sair melhor—)",
             "choice_data_list": [
-                "だだっ、大丈夫、大丈夫！"
+                "V-você vai se sair muito bem lá!"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……トレーナーさん、震えてます。 緊張しているんですか？",
+            "name": "Nishino Flower",
+            "text": "Você tá tremendo, Treinador. Tá<n>nervoso também?",
             "choice_data_list": [
-                "ちっとも！？"
+                "De jeito nenhum!"
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "……裏返った声では、説得力は皆無だ。<n>だが、いかに緊張していようとも、彼女への信頼は揺るがない。",
+            "name": "Monólogo",
+            "text": "Meu tom de voz tremido deve estar<n>longe de ser tranquilizador. Mas, por<n>mais nervosa que a situação seja, a<n>minha confiança na Nishino Flower<n>não vacila.",
             "choice_data_list": [
-                "今のフラワーなら勝てる……！"
+                "Eu sei que você consegue ganhar!"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "！ トレーナーさん……。"
+            "name": "Nishino Flower",
+            "text": "...! Treinador..."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……すぅ、はー……。"
+            "name": "Nishino Flower",
+            "text": "<i>Inspire, expire.</i>"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "――はい！ 行ってきます！"
+            "name": "Nishino Flower",
+            "text": "Certo! Deixa comigo!"
         },
         {
-            "name": "モノローグ",
-            "text": "※SE用のダミーテキストです。"
+            "name": "Monólogo",
+            "text": ""
         },
         {
-            "name": "モノローグ",
-            "text": "『今のフラワーなら勝てる……！』"
+            "name": "Monólogo",
+            "text": "Eu sei que você consegue ganhar!"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "（震えた声……でも、はっきりと言い切ってくれた。<n>勝てるって。今の私なら勝てるって）"
+            "name": "Nishino Flower",
+            "text": "(A voz do Treinador estava tremendo,<n>mas eu ouvi aquelas palavras alto e<n>claro. Eu consigo ganhar. Meu treino<n><i>vai</i> valer a pena.)"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "（だから、私も応える。<n>信じてくれたトレーナーさんへ、勇気を送るの）"
+            "name": "Nishino Flower",
+            "text": "(O Treinador acredita em mim, então<n>eu vou fazer tudo o que eu puder pra<n>compartilhar a minha coragem com<n>ele.)"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "（大丈夫、大丈夫です。そうやって、励ますように。<n>私の走りで、伝えなきゃ）"
+            "name": "Nishino Flower",
+            "text": "(\"Tá tudo bem. Vai dar tudo certo.\" É<n>isso que eu quero transmitir<n>correndo.)"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "（お父さんやお母さんが笑ってくれた――あのときみたいに！）"
+            "name": "Nishino Flower",
+            "text": "(Eu quero ver o Treinador feliz. Igual<n>aquele dia em que a mamãe e o papai<n>sorriram tão radiantes!)"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "はぁぁああああ！！"
+            "name": "Nishino Flower",
+            "text": "Hyaaaaah!"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "（たくさんの人たちの勇気となれるように……！）"
+            "name": "Nishino Flower",
+            "text": "(Eu quero dar coragem pra muitas<n>pessoas!)"
         },
         {
-            "name": "実況係のウマ娘",
-            "text": "……ゴォォオオル！ 1着はニシノフラワー！<n>ニシノフラワーです！！"
+            "name": "Narradora Umamusume",
+            "text": "Eee acabou a corrida! É Nishino<n>Flower! Nishino Flower fica em<n>primeiro lugar!"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "トレーナーさん！",
+            "name": "Nishino Flower",
+            "text": "Treinador!",
             "choice_data_list": [
-                "おめでとう、おめでとう！！"
+                "Você conseguiu! Parabéns!"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "はいっ、はい！ ありがとうございます！<n>私、私……これからもっと、もっと……！",
+            "name": "Nishino Flower",
+            "text": "Consegui, né? Obrigada! Eu... eu vou<n>fazer ainda melhor da próxima vez,<n>então—",
             "choice_data_list": [
-                "君のトレーナーとして、頑張るぞ！！",
-                "貴方のトレーナーとして、頑張るよ！！"
+                "E eu vou me esforçar ainda mais pra ser o\nTreinador que você merece!",
+                "E eu vou me esforçar ainda mais pra ser o\nTreinador que você merece!"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "……っ！ トレーナーさぁあん！"
+            "name": "Nishino Flower",
+            "text": "Ah, Treinador!"
         },
         {
-            "name": "モノローグ",
-            "text": "歓声の中で、ニシノフラワーは笑う。それはいつか一緒に見た、<n>\n花々の姿を思い出させるような笑顔だった。"
+            "name": "Monólogo",
+            "text": "No meio dos aplausos, Nishino Flower<n>abre um grande sorriso. A expressão<n>dela me lembra aquele campo de<n>flores que vimos juntos."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "（私のトレーナーさんは、とっても一生懸命な人です。<n>がんばり屋さんで、つい無理をしてしまう人）"
+            "name": "Nishino Flower",
+            "text": "(Treinador, você sempre dá tudo de<n>si. Você se esforça muito — às vezes<n>até demais.)"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "（――だからいつか、GⅠで1着になって、<n>あなたに勝利をプレゼントしたいです）"
+            "name": "Nishino Flower",
+            "text": "(Por isso, um dia eu quero ganhar o<n>primeiro lugar numa corrida G1. Eu<n>quero te dar de presente uma vitória.)"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "（がんばり屋さんのトレーナーさんへ。<n>いつも支えてくれて、ありがとう）"
+            "name": "Nishino Flower",
+            "text": "(Obrigada, Treinador, por sempre<n>apoiar os meus sonhos.)"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "（勇気をもらってくれて、ありがとうって）"
+            "name": "Nishino Flower",
+            "text": "(Obrigada por aceitar a coragem que<n>eu compartilhei com você.)"
         }
     ]
 }

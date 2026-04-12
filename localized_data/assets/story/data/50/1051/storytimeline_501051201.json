@@ -1,0 +1,224 @@
+{
+    "text_block_list": [
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Blá-blá-blá... Bzz-bzz...</i>"
+        },
+        {
+            "name": "Espectadores",
+            "text": "É o dia da Hanshin Juvenile Fillies, e<n>o público\nestá muito mais exaltado do<n>que o normal para\nesta corrida G1."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Me pergunto como vai ser essa<n>corrida! Cara, não\nvejo a hora!"
+        },
+        {
+            "name": "Fã A",
+            "text": "Várias das Umamusume nessa<n>corrida estão\nmirando a Tríplice Tiara,<n>e temos um elenco\nseriamente bom<n>de corredoras incríveis esse ano."
+        },
+        {
+            "name": "Fã A",
+            "text": "Muitas vezes, quem ganha essa aqui<n>acaba\nsendo a estrela do seu ano<n>clássico! Essa é uma\ncorrida que a<n>gente tem que ficar de olho!",
+            "color_text_info_list": [
+                "ano clássico"
+            ]
+        },
+        {
+            "name": "Fã B",
+            "text": "Nossa... Todo mundo está tão<n>empolgado."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Não acredito que vou fazer parte<n>disso... Tenho\ncerteza de que até<n>meus pais estão surpresos\ncom o<n>tamanho da multidão.",
+            "choice_data_list": [
+                "P-pois é...",
+                "P-pois é..."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Estou maravilhado com a altura das<n>expectativas\npara esta corrida G1. Só<n>de pensar na Nishino\nFlower correndo<n>neste ambiente supercarregado,\nme<n>dá um nervosismo enorme."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Me preocupo se ela conseguiu<n>espantar todo o\nseu cansaço antes<n>de hoje. Se não conseguiu e\nacabar<n>se machucando..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Qual o problema, Treinador?",
+            "choice_data_list": [
+                "P-por que não vamos para a sala de espera?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hm? Tudo bem!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Com licença! Passando! Vamos lá,<n>continuem\nandando!"
+        },
+        {
+            "name": "Funcionário do Hipódromo A",
+            "text": "C-certo!"
+        },
+        {
+            "name": "Funcionário do Hipódromo B",
+            "text": "Não são apenas os espectadores.<n>Todo o\nhipódromo parece tremer com<n>a antecipação\nnervosa."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Todos parecem tão ocupados...<n>Espero que\nesteja tudo bem."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Felizmente, a Nishino Flower não<n>parece nem um\npouco afetada. Logo<n>em seguida..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Fique bem de olho em mim, Treinador.<n>Eu\nfinalmente cheguei neste palco, e<n>pretendo vencer,\nnão importa o que<n>aconteça!"
+        },
+        {
+            "name": "Umamusume Corredora A",
+            "text": "Não fique muito afobada lá fora. Você<n>é a\nUmamusume mais forte com a<n>qual já trabalhei, e\nsei que você vai<n>se sair bem. Você acredita em\nmim,<n>não é?"
+        },
+        {
+            "name": "Treinador A",
+            "text": "Eu acredito! Até logo!"
+        },
+        {
+            "name": "Umamusume Corredora A",
+            "text": "...",
+            "choice_data_list": [
+                "(Se ao menos eu tivesse tanta experiência...)",
+                "(Se ao menos eu tivesse tanta experiência...)"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "No seu ano júnior, todas as<n>Umamusume têm\nmais ou menos o<n>mesmo nível de experiência.\nPortanto,<n>a experiência de seus treinadores é o\nque pode fazer toda a diferença."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Se ao menos eu tivesse a conhecido<n>quando eu\ntinha mais experiência<n>como treinador..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por que eu tinha que ficar pronta pra<n>correr tão\ncedo?",
+            "choice_data_list": [
+                "Flower? O que foi?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ah, bom, hum..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Estão todas muito mais confiantes<n>que eu. Elas\nsão tão incríveis e<n>legais."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Comparada a elas, eu ainda sou só<n>uma criança,\nnão sou?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sou menor e mais fraca do que todas<n>as outras...\nEu só não acho que tenha<n>confiança para correr\ncom elas...",
+            "choice_data_list": [
+                "(Eu sou um idiota!)",
+                "(Eu sou um idiota!)"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "A Umamusume mais importante do<n>mundo para\nmim está aqui parada,<n>ansiosa e inquieta. Mesmo\nse eu<n>fosse um treinador experiente, o meu\nfracasso em notar a sua ansiedade<n>seria uma\ntremenda falha."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu cresci e melhorei tanto por sua<n>causa,\nTreinador."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "A Nishino Flower reconhece meus<n>esforços, e a\npessoa que sabe<n>melhor do que qualquer um o\nquanto<n>ela se esforça e o quão habilidosa ela<n>é...\nsou eu.",
+            "choice_data_list": [
+                "Eu acredito em você!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Hã?",
+            "choice_data_list": [
+                "Você tem um brilho especial em você.",
+                "Você tem um brilho especial em você."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "É verdade que ela não é tão<n>desenvolvida\nfisicamente quanto as<n>outras corredoras, mas\nisso é porque<n>ela pulou alguns anos e se\nmatriculou<n>na Academia Tracen mais cedo. Não é\nqualquer um que consegue fazer<n>isso."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Só isso já é prova de que ela tem<n>mais do que o\nsuficiente para superar<n>qualquer desvantagem!",
+            "choice_data_list": [
+                "Você consegue. Eu acredito em você!",
+                "Você consegue. Eu acredito em você!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "...!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "É... Tem razão. Você acredita."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Obrigada. Ouvir isso me encoraja<n>muito. Eu... me\nsinto muito melhor."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Treinador... Eu vou vencer hoje."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "E vou fazer isso por você!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Você consegue. Eu acredito em você!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você consegue. Eu acredito em você!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "(A voz do Treinador estava<n>tremendo... Mas não é\npara menos.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Esta também é a primeira corrida G1<n>do\nTreinador... Acho que nós dois<n>estamos\nnervosos.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Mas aqui estou eu, pensando<n>apenas em mim\nmesma...)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Por que tem que ser agora? Eu queria<n>ter ficado\npronta para correr depois<n>de crescer mais e ficar\nmais alta. O<n>Treinador tem se esforçado tanto,\nmas olhe para mim."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Mas essa não é a hora de pensar<n>nisso. Quero\nque o Treinador se sinta<n>mais confiante. Foi por\nisso que eu<n>escolhi correr hoje! Por isso que...)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Eu quero vencer."
+        }
+    ]
+}

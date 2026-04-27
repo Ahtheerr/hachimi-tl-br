@@ -1,0 +1,51 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "A Nice Nature não apareceu pro treino.\nPreocupado, vou procurá-la."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Aaaah! Eu sei que acontece toda vez,<n>mas eu não\naguento de ansiedade<n>por aquele bordão!"
+        },
+        {
+            "name": "Dono da Loja de Eletrodomésticos",
+            "text": "Pode crer, Natie! Essa é a melhor<n>parte do\n<i>Esquadrão Classe C.</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Encontro a Nice Nature assistindo<n>atentamente a\num programa na TV de<n>mostruário da loja de\neletrodomésticos."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah! Olha a van! Lá vem ela! Será que<n>ele vai tirar o\ncharu—"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Qu—Treinador! O que você tá fazendo<n>aqui?",
+            "choice_data_list": [
+                "...Eu tenho pena do otário que não tá usando o\nagasalho de treino!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Haha, parece bem o tipo de coisa que<n>diriam no\nprograma. Mas por que<n>você tá falando de\nagasalho de...<n>treino..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "AAAAH! A gente tinha treino hoje!",
+            "choice_data_list": [
+                "Tome mais cuidado da próxima vez.",
+                "Tome mais cuidado da próxima vez."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "E-entendido! Eu vou me sair melhor<n>de agora em\ndiante..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Adoro quando um plano dá certo! ...Na<n>próxima,\nespero."
+        }
+    ]
+}

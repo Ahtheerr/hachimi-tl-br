@@ -1,0 +1,192 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Eu vou à área comercial comprar<n>umas coisas na\nminha folga, quando..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Então esse é o vestido novo da<n>Boutique Cherie?"
+        },
+        {
+            "name": "Lojista",
+            "text": "Sim, nosso orgulho e paixão! Não é<n>lindo? É uma\ncombinação de estampa<n>de cobra e oncinha! Tem\naté a cara<n>de uma cobra e um leopardo nele!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hummm... é, bem chamativo. Mas eu<n>admito que\ntem lá o seu charme<n>maduro."
+        },
+        {
+            "name": "Lojista",
+            "text": "Gostou, Natie? Eu te dou um<n>desconto! E ainda te\ndou de brinde<n>uma bolsinha com estampa de tigre!",
+            "color_text_info_list": [
+                "Natie"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Acho que eu não tô pronta pra essa<n>combinação\nainda... Digo, só você<n>consegue arrasar com isso."
+        },
+        {
+            "name": "Lojista",
+            "text": "Não seja assim, Natie! Qualquer uma<n>pode fazer\nfuncionar—é só vestir! É<n>assim que roupas\nfuncionam!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Uau! É esse o tipo de papo de<n>vendedora que eu\nespero da<n>vendedora nível sessenta e seis da\nBoutique Cherie, Kimie!"
+        },
+        {
+            "name": "Lojista",
+            "text": "Ahaha, é <i>essa</i> a idade que cê acha<n>que eu\ntenho? Continua fazendo<n>piadinha assim que eu\nte obrigo a<n>comprar."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hehe, por favor, não faz isso!",
+            "choice_data_list": [
+                "Nature!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hã?! Treinador?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "O que você tá fazendo aqui? Ah,<n>peraí. É a área\ncomercial, então você<n>veio comprar, dã."
+        },
+        {
+            "name": "Lojista",
+            "text": "Isso aí. Você é a única pessoa jovem<n>que passa\npor aqui só pra jogar<n>conversa fora."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Como assim? Essa área comercial é<n>o lugar mais\nbadalado do momento."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Olha essa seleção incrível também,<n>Treinador!\nEsse lugar tem a maior<n>seleção de estampas de\nanimais do<n>mundo!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, Kimie! Cê consegue arranjar<n>alguma coisa\nespecial pro meu<n>treinador?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "E faz ser super intimidador! Eu não<n>quero\nninguém mexendo com o meu<n>treinador!",
+            "choice_data_list": [
+                "Hã..."
+            ]
+        },
+        {
+            "name": "Lojista",
+            "text": "Qual é, Natie. Não provoca muito o seu<n>treinador."
+        },
+        {
+            "name": "Lojista",
+            "text": "Você não tá no meio das compras?<n>Por que você\nnão vai junto, Natie?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nããão, tô cansada demais. Sem<n>chance de eu\nacompanhar o pique de<n>um jovem."
+        },
+        {
+            "name": "Lojista",
+            "text": "Você é nova demais pra esse tipo de<n>reclamação!\nAgora para de enrolar e<n>vai curtir o seu encontro!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Beleza, bel—hã?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "P-pera, não! Não é um encontro, tá<n>legal?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Depois disso, a Nice Nature me<n>mostra a área\ncomercial, e eu compro<n>o que vim buscar."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Aaaai, a gente andou um monte<n>mesmo! Minhas\ncostas tão me<n>matando.",
+            "choice_data_list": [
+                "Obrigado por me mostrar o lugar."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Que nada, não esquenta. Eu não fiz<n>nada de mais."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Tudo o que eu fiz foi jogar conversa<n>fora com o\npessoal da área comercial."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Mas caramba, eles claramente não<n>tão ocupados\no bastante, já que todo<n>mundo teve tempo de\nficar me<n>zoando sobre eu estar num encontro."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Embora suas palavras sejam<n>afiadas, a\nexpressão da Nice Nature é<n>gentil quando ela fala\ndas pessoas da<n>área comercial."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Dá pra ver que todos eles a adoram.<n>E, além\ndisso, dá pra ver que são<n>pessoas com quem ela\npode contar.",
+            "choice_data_list": [
+                "Você adora mesmo eles, né?",
+                "Você adora mesmo eles, né?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "E-eu adoro, mas... por que você tinha<n>que dizer\nisso em voz alta?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Me dá um pouco de vergonha...",
+            "choice_data_list": [
+                "Eles parecem ser a sua família.",
+                "Eles parecem ser a sua família."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Acho que sim."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Digo, com certeza. Eles devem ser<n>mais\nintrometidos do que os meus<n>próprios pais."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Mas mesmo assim... eles torcem por<n>mim, não\nimporta o que aconteça."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Tipo, quem é que faria isso? Torcer<n>pra <i>mim?!</i>\nChega a ser engraçado,<n>pra falar a verdade."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Eles se importam taaanto comigo."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "E eu fico muuuito motivada quando<n>eles torcem\npor mim."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Gyah, o que é que eu tô falando?!<n>Que vergonha!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Três, dois, um e—apagou! Acabei de<n>apagar a sua\nmemória."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Beleza, vamos pra casa."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Nice Nature fica com vergonha e me<n>apressa pra\nvoltar pra academia."
+        }
+    ]
+}

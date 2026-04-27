@@ -1,0 +1,455 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certa noite, enquanto caminhamos<n>pelo centro\ncomercial..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, lá vamos nós de novo. Me dá um<n>segundinho."
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Venham tentar a sorte na nossa rifa<n>de Ano Novo!\nO prêmio principal deste<n>ano é uma viagem para\nas águas<n>termais com acompanhante!",
+            "color_text_info_list": [
+                "viagem para as águas termais"
+            ]
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Os vencedores do primeiro prêmio<n>levam um\nhambúrguer de cenoura de<n>luxo! Os do segundo\nprêmio, um cesto<n>de cenouras! E os do terceiro\nprêmio<n>podem levar pra casa uma única<n>cenoura!"
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Ah, Natie, você por aqui! Vai tentar a<n>sorte de novo\neste ano?!",
+            "color_text_info_list": [
+                "Natie"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Claro! Pode chorar à vontade, mas<n>não vou te\nconsolar depois de levar o<n>prêmio principal!"
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Hehe, você parece bem animada.<n>Vamos ter uma\ndisputa limpa e justa!<n>Não vou pegar leve!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "É assim que eu gosto... pera, como<n>assim? Por\nacaso você costuma<n>roubar nisso?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "De qualquer forma, eu não sou a<n>mesma Nature\nde antes! Eu fui no<n>santuário umas cem vezes\nesse ano!<n>Eu definitivamente vou ganhar!",
+            "choice_data_list": [
+                "V-Você tá bem empenhada nisso..."
+            ],
+            "color_text_info_list": [
+                "Nature"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Bom, eu <i>tenho</i> que me animar. É<n>isso — o ano\nem que eu..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Finalmente me livro do título<n>desonroso de\n\"Colecionadora de<n>Terceiro Lugar\"!",
+            "choice_data_list": [
+                "Colecionadora de Terceiro Lugar?"
+            ]
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "A Natie participa dessa rifa todos os<n>anos desde\nque nos conhecemos..."
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Mas não importa quantas vezes ela<n>tente, ela\nsempre tira o terceiro<n>prêmio. Isso até virou o\nassunto da<n>cidade por um tempo, de tão\nimpressionante! Mas essa conversa<n>já deu uma\nesfriada hoje em dia."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Três, três, três! O número três me<n>persegue pra\ntodo lado que eu vou!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Mas isso acaba hoje. Com esse<n>lindo bilhete de\nrifa que eu purifiquei<n>no santuário umas cem\nvezes..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Eu vou invocar toda a sorte do<n>mundo e ganhar o\nprêmio<n>principaaaal! Águas termais, aí vou<n>eu!",
+            "choice_data_list": [
+                "(Ela endoidou de vez...)"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Gire comigo, Treinador! Nós vamos<n>quebrar a\nmaldição!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seguro a alavanca junto com a Nice<n>Nature, que\nparece cheia de todos os<n>tipos de frustrações e\naté inimizade, e<n>giro a máquina de sorteio."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uma bolinha de plástico cai da<n>abertura da\nmáquina..."
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Minha nossa! Temos uma ganhadora<n>do prêmio\nprincipal! Venha pegar seu<n>cupom para a viagem\npras águas<n>termais! Parabéns!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Arf!</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "O que... o que você acabou de..."
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Natie... Você ganhou. O prêmio<n>principal, o cupom\npara a viagem pras<n>águas termais... É todo seu!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Tre... T-Treinador... E-E-Eu ganhei o<n>prêmio\nprincipal!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "E é pras <i>águas termais!</i> Meu lugar<n>favorito! Dá\npra acreditar?!",
+            "choice_data_list": [
+                "Parabéns!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah! Digo... ahem. Desculpe, sou velha<n>demais pra\nme deixar levar assim."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Mas nossa. Os deuses finalmente<n>decidiram\nmostrar um pouco de pena<n>de mim."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "De qualquer forma, conte pra todo<n>mundo sobre\nisso, tá bom? Diga a<n>eles que a Nature levou o\nprêmio<n>principal."
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "É claro! Vou colocar na primeira<n>página do jornal\ndo bairro também!"
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Já tenho a manchete perfeita. \"Natie<n>se Redime e\nParte Para o Paraíso das<n>Águas Termais com o\nTreinador!\""
+        },
+        {
+            "name": "Nice Nature",
+            "text": "É—pera aí!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "O-O quuue?! Eu e o T-Treinador?!<n>Numa via—"
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Ah, não é isso que vocês vão fazer?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "I-Isso é r-ridículo! Por que eu iria pras<n>águas\ntermais com o meu treinador?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Gah!",
+            "choice_data_list": [
+                "Bom, o prêmio é seu..."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "N-não, Treinador, não foi isso que eu<n>quis dizer! O\nque eu tava tentando<n>dizer era..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ahhh! Quer saber de uma coisa?! Fica<n>com ele!",
+            "choice_data_list": [
+                "Hã?!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Quer dizer, não é como se eu<n>quisesse ir pras\náguas termais,<n>mesmo. Eu só queria me livrar\ndaquele título idiota!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Agora que consegui, posso dar o<n>cupom pra você."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Vá aproveitar quando você quiser.<n>Sério... Eu tô de\nboa."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Bom! Acho que vou comprar o melhor<n>contrafilé\npra celebrar a minha vitória<n>antes de ir pra casa!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "...Eu decido guardar o cupom por<n>enquanto."
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Parece que temos outra ganhadora<n>do primeiro\nprêmio! Parabéns! Você<n>leva um hambúrguer de\ncenoura de<n>luxo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Isso! Nós ganhamos o primeiro<n>prêmio, Treinador!",
+            "choice_data_list": [
+                "Você conseguiu!",
+                "Você conseguiu!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Tô tão feliz. Eu não aguentava mais<n>ser a\n\"Colecionadora de Terceiro<n>Lugar\"."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "O que me diz disso, Vovô?!"
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Tá bom, você venceu. Foi ótimo, Natie!<n>Com essa\nsorte toda, vai ser troféu<n>atrás de troféu!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hum, pera lá..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Não é bem assim que funciona... Ter<n>sorte não\nsignifica que eu posso<n>vencer..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Né, Treinador?",
+            "choice_data_list": [
+                "Isso mesmo.",
+                "Isso mesmo."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Hã?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Pera, por que eu tô decepcionada—",
+            "choice_data_list": [
+                "A Nature vai vencer porque ela tem o que é\npreciso."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...!"
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Haha, isso aí! Minhas desculpas!"
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Fico feliz que você tenha um treinador<n>tão incrível,\nNatie!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Chega desse tipo de papo! Vamos,<n>Treinador!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Agora que temos um hambúrguer<n>delicioso,\nvamos voltar e ligar a<n>churrasqueira!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Eu preparo pra você."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mais tarde, nós aproveitamos um<n>delicioso\nhambúrguer preparado do<n>jeitinho que a Nice\nNature gosta."
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Temos uma ganhadora do segundo<n>prêmio! É o\nseu dia de sorte! Vai<n>voltar pra casa com um cesto\nde<n>cenouras!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Hnnng, foi quase! Mas acho que não<n>é tão ruim."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Pelo menos eu escapei do terceiro<n>prêmio. É, vou\nconsiderar como<n>vitória!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "De qualquer forma... Nunca imaginei<n>que um cesto\nfosse tão grande. Você<n>não tá sendo muito\ngeneroso não?"
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Bom, a rifa é a atração principal<n>desse centro\ncomercial! Temos que<n>apostar tudo em coisas\nassim se<n>quisermos..."
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Viralizar, era isso? Natie, você deveria<n>tirar uma\nfoto disso e postar na sua<n>rede sociável também."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Você quis dizer \"redes sociais\". É<n>tocante ver você\nse esforçando tanto<n>pra acompanhar as\nnovidades, Vovô."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Treinador, tenho um favor a pedir.",
+            "choice_data_list": [
+                "O que foi?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Pode tirar uma foto pra mim?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Eu quero registrar essa quantidade<n>absurda de\ncenouras, junto comigo e<n>com o velhote."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Não é como se eu tivesse alguma<n>influência nem\nnada, mas eu pelo<n>menos posso contar pras\nminhas<n>amigas sobre isso.",
+            "choice_data_list": [
+                "Pode deixar!"
+            ]
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Natie... você é uma garota tão boa. Eu<n>ainda me\nlembro de quando você era<n>só uma pirralhinha..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Você não me conhecia quando eu era<n>criança,\nbobo. Qual é, sorria pra<n>câmera!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, eu tiro uma foto da Nice<n>Nature com um\ngrande sorriso,<n>segurando um monte de cenouras."
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Olha só! Você ganhou o terceiro<n>prêmio! Aqui está\nsua cenoura!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "..."
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Você estendeu o seu recorde,<n>infelizmente. Sinto\nmuito, mas é a<n>vida."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "...Bom, eu fiz isso de novo. Tenho que<n>aceitar a\nderrota."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Tô começando a suspeitar que isso<n>seja algum\ntipo de superpoder a<n>esse ponto. Será que eu\ndeveria me<n>doar pra um laboratório?"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Tô sóôô brincando. É só um jogo, né?<n>Valeu pela\ncenoura."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Uma doçura a cada mordida! Dizem<n>que as\ncenouras frescas são as<n>melhores!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "É, isso aí, já tô me sentindo<n>rejuvenescida! Ha ha\nha!"
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "...Ela está frustrada."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, apesar de seus desejos, a<n>Nice Nature\nmais uma vez defende<n>seu título de\n\"Colecionadora de<n>Terceiro Lugar\"."
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Ahhh, que azar! Parece que você tirou<n>um em\nbranco! Pegue esse pacote de<n>lenços como\nprêmio de consolação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Lenços? Eu não sei nem o que dizer."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Acho que isso é o mais prático, o que<n>não é tão\nruim, mas..."
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Você até disse que foi pro santuário<n>umas cem\nvezes. Fico meio triste de<n>não ter conseguido ver\num milagre<n>também."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "V-Você pode parar? Fico meio com<n>peso na\nconsciência. Mas mais do<n>que tudo..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "É super constrangedor! Por que eu fui<n>dizer todas\naquelas coisas no calor<n>do momento?!"
+        },
+        {
+            "name": "Funcionário da Rifa",
+            "text": "Você invocou toda a sorte do mundo..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah! Para! Esquece o que eu disse!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "As pessoas do centro comercial<n>provocam a Nice\nNature, deixando-a<n>exausta."
+        }
+    ]
+}

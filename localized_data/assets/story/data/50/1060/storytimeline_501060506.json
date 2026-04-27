@@ -1,0 +1,118 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Dou uma passada no estúdio de<n>dança para\npegar umas coisas que<n>esqueci, só para\nencontrá-lo ocupado."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Arf, arf...</i>"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "<i>Suspiro...</i> Essa coreografia é bem<n>difícil. Não\ntem nada de especial nela,<n>mas ainda assim é\ncomplicada..."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ah, e aí, Treinador. Não percebi que<n>você estava\naí."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nice Nature está treinando duro, mas<n>percebo algo\nsobre a coreografia...",
+            "choice_data_list": [
+                "Essa dança não é para as posições laterais?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Isso? É... Tenho a sensação de que<n>vou dançar\nnessas partes muitas<n>vezes."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Então não faz sentido focar nelas<n>quando tô\ntreinando?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A atitude derrotista dela em relação<n>ao seu próprio\npotencial me pega de<n>surpresa, e fico sem\npalavras.",
+            "choice_data_list": [
+                "Respeitar a escolha dela.",
+                "Recomendar que treine para o centro."
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Ué... Achei que você fosse mandar eu<n>treinar pra\nposição central."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Nice Nature sabe o que funciona<n>melhor para\nela. Prefiro respeitar os<n>sentimentos dela do que\napressá-la."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas também não quero negar o<n>potencial dela. É\npor isso...",
+            "choice_data_list": [
+                "Ao mesmo tempo, vamos fazer dessa a\napresentação mais cativante de todas!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Você e essa sua lábia...",
+            "choice_data_list": [
+                "Você consegue, Nature!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Tá bom, tá bom. Valeu.",
+            "choice_data_list": [
+                "Quer saber, vamos dançar juntos!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Não precisa."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O tom de voz diz que ela está<n>incomodada, mas a\nexpressão dela<n>suaviza um pouco."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Posição central, é? Imaginei que você<n>fosse dizer\nisso."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela tem o potencial para chegar em<n>primeiro lugar,\nmas o mais importante<n>é que não quero que ela\ndesista logo<n>de cara.",
+            "choice_data_list": [
+                "Eu <i>sei</i> que você consegue vencer!",
+                "Eu <i>sei</i> que você consegue vencer!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "É, tá bom...",
+            "choice_data_list": [
+                "Só temos que nos esforçar! Vamos lá!"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Tá bem, tá bem. Se você tá dizendo."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Não sei o quão boa vai ficar minha<n>dança,\nconsiderando o quão tarde tô<n>começando."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Mas, ei, se você acredita em mim,<n>então talvez...",
+            "choice_data_list": [
+                "O que você disse?"
+            ]
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Nadaaa!"
+        }
+    ]
+}

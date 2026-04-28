@@ -1,0 +1,52 @@
+{
+    "text_block_list": [
+        {
+            "name": "Espectador de Chapéu",
+            "text": "Ei, você viu quem vai correr hoje?"
+        },
+        {
+            "name": "Espectador de Camisa",
+            "text": "Eu vi! É aquela Umamusume do<n>exterior, né?"
+        },
+        {
+            "name": "Espectador de Chapéu",
+            "text": "Não, ela não! Tô falando daquela que<n>apareceu na\nTV outro dia! Sou muito<n>fã dela."
+        },
+        {
+            "name": "Espectador de Camisa",
+            "text": "Na TV? Espera, você não tá falando<n>da... Mentira,\nela tá aqui?!"
+        },
+        {
+            "name": "Espectador de Camisa",
+            "text": "Ah, isso me traz lembranças! Eu<n>costumava\nacompanhar todas as<n>corridas da Special Week,\nentão eu<n>via ela também. Eu tava justamente\npensando que faz um tempo que não<n>escuto falar\ndela."
+        },
+        {
+            "name": "Espectador de Chapéu",
+            "text": "Do que você tá falando? Ela tá na<n>boca do povo\nagora! Espera, ela é<n>mesmo do mesmo ano que a\nSpe?!"
+        },
+        {
+            "name": "Espectador de Chapéu",
+            "text": "Ahaha. De qualquer forma, eu<n>sempre achei ela\nmeio excêntrica,<n>mas parece que ela é bem\nincrível!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ei, ficou sabendo? Tem uma<n>corredora convidada\ndo exterior na<n>Yasuda Kinen de hoje."
+        },
+        {
+            "name": "King Halo",
+            "text": "Não que isso importe para mim.",
+            "choice_data_list": [
+                "De qualquer forma, você vai vencer.",
+                "De qualquer forma, você vai vencer."
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Ohohoho! Isso mesmo! Ninguém pode<n>ficar no\nmeu caminho!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Vou deixar todas comendo poeira!"
+        }
+    ]
+}

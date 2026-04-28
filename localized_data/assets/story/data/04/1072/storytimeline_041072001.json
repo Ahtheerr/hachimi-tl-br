@@ -1,1 +1,258 @@
-{}
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Após uma tarde de compras, começo<n>a caminhar para casa enquanto o sol<n>faz o mesmo para se pôr. Estou<n>passando pela beira do rio quando..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Hah!",
+            "choice_data_list": [
+                "O quê?!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "O grito ressoa em meus ouvidos,<n>como o estalo agudo de uma lâmina<n>manejada com maestria. Meus pés<n>param, e minha cabeça se volta<n>inconscientemente para a fonte."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Inspira... Expira...</i>",
+            "choice_data_list": [
+                "Se não me engano, aquela é a Yaeno Muteki."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Hup! ...Hah! ...Sei! ...Tah!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Cada soco, cada chute... Cada<n>movimento dela corta o ar da noite<n>com clareza, pontuado por aquela<n>mesma voz retumbante e estrondosa."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Expira...</i> Keh... HYAH!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Expira...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Estou tão fascinado que mal percebo<n>que estou encarando. A forma dela<n>equilibra perfeitamente ferocidade e<n>compostura... Dá para ver que ela<n>dedicou incontáveis horas refinando<n>sua arte, e isso... é lindo.",
+            "choice_data_list": [
+                "(É quase como se ela estivesse dançando...)"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Perdoe-me. Poderia me conceder uma<n>palavra?",
+            "choice_data_list": [
+                "Hã? Ah! Uh, s-sim!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Notei que você ostenta um distintivo<n>da Academia Tracen. Precisa de algo<n>comigo, Treinador?",
+            "choice_data_list": [
+                "Não, uh... Eu estava apenas passando e fiquei\ncativado pela sua postura. Desculpe..."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Você realmente... Ahem. Isso é um<n>elogio alto demais para alguém tão<n>inexperiente quanto eu."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Mesmo agora, meu coração não<n>estava livre de distrações. Os testes<n>de amanhã não saem da minha<n>mente, não importa o quanto eu tente<n>me recompor através do treinamento."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ainda assim, embora eu seja uma<n>amadora, aplicarei todas as minhas<n>habilidades na corrida. Seria uma<n>honra vê-lo lá, se sua agenda<n>permitir.",
+            "choice_data_list": [
+                "A-a honra seria toda minha!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por que estou sendo tão formal? Sinto<n>como se estivesse falando com um<n>sábio mestre de artes marciais, não<n>com uma estudante!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "E então, do nada—"
+        },
+        {
+            "name": "Umamusume Arruaceira A",
+            "text": "Ei, ei, EI! Quem você pensa que <i>é</i>?<n>Não precisamos de nenhuma<n>princesinha da academia infestando o<n>nosso território!"
+        },
+        {
+            "name": "Umamusume Arruaceira A",
+            "text": "Se quiser usar o nosso lugar, vai ter<n>que pagar e fazer valer o nosso<n>tempo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "...Viro a cabeça e vejo duas<n>delinquentes caminhando<n>folgadamente em nossa direção."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Nosso território, você diz? Pelo que<n>me recordo, este campo faz parte do<n>parque público."
+        },
+        {
+            "name": "Umamusume Arruaceira A",
+            "text": "Cala a boca! Você sabe muito bem o<n>que eu quis dizer, sua sabichona! Ei,<n>chefa, essa Umamusume tá se<n>achando!"
+        },
+        {
+            "name": "Umamusume Arruaceira B",
+            "text": "...É, ela tá se achando sim. Mas por<n>quanto tempo ela vai conseguir<n>manter essa pose de superior? Só<n>estou dizendo, se não quiser<n>problemas, pague ou volte a brincar<n>de pega-pega no parquinho da sua<n>escola."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A \"chefa\" da dupla encara Yaeno<n>Muteki com um olhar intimidador...<n>Mas eu não posso deixar que ela<n>saia impune dessa!",
+            "choice_data_list": [
+                "Ei, vocês, parem com isso agora mesmo!",
+                "Ei, vocês, parem com isso agora mesmo!"
+            ]
+        },
+        {
+            "name": "Umamusume Arruaceira A",
+            "text": "Que diabos?! Fica fora disso!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "HAH!"
+        },
+        {
+            "name": "Dupla de Arruaceiras",
+            "text": "Ah?! <i>Gulp...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O grito de Yaeno Muteki choca a<n>dupla como um raio. Elas ficam<n>estáticas e olham para ela com os<n>olhos arregalados."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "E então... pretendem insistir neste<n>assunto?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sua voz é leve e calma, como a<n>superfície tranquila de um lago. Ao<n>mesmo tempo, porém, há uma<n>profundidade fria e insondável nela."
+        },
+        {
+            "name": "Umamusume Arruaceira B",
+            "text": "...Nada, a gente já está indo. Já vi que<n>estamos em desvantagem."
+        },
+        {
+            "name": "Umamusume Arruaceira A",
+            "text": "Hã? Chefa, espera! N-não me deixa<n>aqui sozinhaaa!",
+            "choice_data_list": [
+                "(Lá se vão elas...)"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Peço desculpas por elevar meu tom<n>de voz. Pensei apenas em resolver a<n>situação atual, mas sinto muito se te<n>assustei.",
+            "choice_data_list": [
+                "Ah, eu estou bem. Muito obrigado!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Estou simplesmente impressionado<n>com a maneira como ela demonstrou<n>tanto poder bruto sem deixar sua<n>compostura vacilar por um segundo.<n>Não havia nem sombra de raiva em<n>seu rosto!",
+            "choice_data_list": [
+                "Isso foi tão incrível!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Você me lisonjeia."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Agora estou <i>realmente</i> curioso<n>para ver como é a corrida dela. Eu me<n>despeço por aquela noite,<n>transbordando de animação para os<n>testes de amanhã."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E, ao chegar o dia seguinte, essa<n>animação só aumenta. Vou para a<n>pista assistir à corrida da Yaeno<n>Muteki e começo a olhar ao redor."
+        },
+        {
+            "name": "Treinador Experiente",
+            "text": "Aquela ali, a Super Creek — ela foi<n>incrível lá fora! Já deixou uma<n>impressão fortíssima em todo mundo."
+        },
+        {
+            "name": "Treinador Veterano",
+            "text": "A Oguri Cap também se destacou.<n>Entendo por que a chamam de \"A<n>Besta\". Ela ainda é bruta, mas com<n>certeza há uma verdadeira joia<n>escondida ali."
+        },
+        {
+            "name": "Treinador Veterano",
+            "text": "Há tantas corredoras promissoras<n>nestes testes desta vez. Teremos<n>corridas selvagens quando esta<n>geração chegar às grandes pistas."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Eu também estou aqui. Desta vez,<n>eu provarei meu valor. Colherei os<n>frutos do meu treinamento e<n>conquistarei a glória hoje — eu juro!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Arfando...</i>"
+        },
+        {
+            "name": "Corredora",
+            "text": "...Tudo bem, lá vou eu. Haaaah!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ah! Você não vai... me ultrapassar!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Haaaaah!"
+        },
+        {
+            "name": "Corredora",
+            "text": "Hehe, ela caiu direitinho!",
+            "choice_data_list": [
+                "(Espere um pouco!)"
+            ]
+        },
+        {
+            "name": "Treinador Veterano",
+            "text": "Yaeno Muteki... Parece que ela<n>mordeu a isca. Se não recuperar a<n>lucidez rápido, vai queimar toda a sua<n>energia antes da arrancada final."
+        },
+        {
+            "name": "Treinador Experiente",
+            "text": "Pensar que ela cometeria o mesmo<n>erro novamente... Ela tinha tanto<n>potencial, mas se não consegue<n>manter a calma nas corridas, este é o<n>fim."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não consigo acreditar no que vejo. A<n>Yaeno Muteki que vi ontem era tão<n>composta. Ela manejava o espírito<n>ardente dentro de si como uma<n>lâmina temperada, mantendo-a<n>silenciosa em sua bainha até o<n>momento do golpe! Mas agora..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Eu juro... vou continuar... avançando!<n>Hraaaaah!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Arf... arf...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela avança com uma ferocidade<n>selvagem. Incapaz de temperar as<n>chamas dentro de si, Yaeno Muteki<n>queima sua energia e perde a corrida."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Arf... arf...</i>"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Como pude... deixar isso acontecer<n>de novo?!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Amadora! Eu continuo cometendo<n>erros tão... tão amadores! Não<n>conseguirei conter o incêndio dentro<n>de mim desta forma!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Consigo ver a frustração estampada<n>em seu rosto e, no entanto, não<n>consigo encontrar as palavras para<n>falar. Silenciosamente, sem poder<n>fazer nada, eu a assisto partir..."
+        }
+    ]
+}

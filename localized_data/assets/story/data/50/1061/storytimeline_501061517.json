@@ -1,0 +1,39 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Fazendo uma pausa nos treinos, a<n>King Halo e eu\nseguimos para o<n>parque."
+        },
+        {
+            "name": "King Halo",
+            "text": "...Que dia de ventania.",
+            "choice_data_list": [
+                "Isso te incomoda?"
+            ]
+        },
+        {
+            "name": "King Halo",
+            "text": "Sim. Eu não sou muito fã de como os<n>ventos\nfortes levantam nuvens de<n>areia."
+        },
+        {
+            "name": "King Halo",
+            "text": "A areia entra em todo lugar, grudando<n>nas minhas\nroupas e no meu cabelo.<n>Além disso, me faz\nespirr—"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Vuuuuuuush!</i>"
+        },
+        {
+            "name": "King Halo",
+            "text": "...Atchim!"
+        },
+        {
+            "name": "King Halo",
+            "text": "Ugh, falando no redemoinho de<n>poeira!"
+        },
+        {
+            "name": "King Halo",
+            "text": "<i>Suspiro...</i> É por isso que eu detesto<n>areia..."
+        }
+    ]
+}

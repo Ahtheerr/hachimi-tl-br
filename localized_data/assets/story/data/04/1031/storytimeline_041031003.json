@@ -1,259 +1,259 @@
 {
     "text_block_list": [
         {
-            "name": "モノローグ",
-            "text": "こうしてスタートしたアイネスフウジンとの仮契約期間。せっかく<n>\n任せてくれたのだから、できる限りのことはしたい。とはいえ――",
+            "name": "Monólogo",
+            "text": "Treinador temporário ou não, estou<n>determinado a aproveitar ao máximo<n>essa oportunidade pra mostrar<n>minhas habilidades como treinador.<n>Dito isso...",
             "choice_data_list": [
-                "（独りよがりにはなりたくない）"
+                "(Isso não é sobre mim.)"
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "無理をさせてケガを生む可能性もある。押しつけるのではなく、<n>\n彼女にも選択肢を……そんな思いで慎重にメニューを集めた。"
+            "name": "Monólogo",
+            "text": "Isso é sobre a Ines Fujin. Preciso ter<n>cuidado pra não forçá-la demais ou<n>fazê-la se sentir encurralada. Com<n>isso em mente, crio cuidadosamente<n>um regime de treinamento."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "って、量すごくない！？"
+            "name": "Ines Fujin",
+            "text": "Uou, isso é treinamento pra caramba!"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "こっちがスピードアップ強化メニューで、<n>\nこっちがスタミナ強化に主軸を置いたトレーニングメニューで……。"
+            "name": "Ines Fujin",
+            "text": "Essa série é toda sobre rapidez, e<n>essa outra é focada no vigor..."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "スタートダッシュだけでもこんなに！？<n>あっはっは、気合い入りすぎなの～！"
+            "name": "Ines Fujin",
+            "text": "Isso não é um pouco de exagero?!<n>Haha, acho que você tá se<n>empolgando até demais!"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "はー、笑った。……でもさ、キミの気持ちはわかったけど、<n>\nまさかこれ全部、種目別競技大会までにやりきるつもりなの？",
+            "name": "Ines Fujin",
+            "text": "Heh... Essa me fez rir. De qualquer<n>forma, entendo seu entusiasmo, mas<n>será que a gente consegue terminar<n>tudo isso antes do grande dia?",
             "choice_data_list": [
-                "全部やる必要はないんだ",
-                "全部やる必要はないよ"
+                "Você não precisa fazer tudo.",
+                "Você não precisa fazer tudo."
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "様々なトレーニングをしながら彼女の走りを知り、<n>それに合わせて今何が必要なのかを精査していきたい。"
+            "name": "Monólogo",
+            "text": "Ao testar diferentes métodos de<n>treinamento, eu posso entender<n>melhor onde ela realmente precisa<n>melhorar."
         },
         {
-            "name": "モノローグ",
-            "text": "そのために行うトレーニング自体は、数点の候補から<n>\n負荷を考えつつ彼女に選んでほしい。……そう伝えた。"
+            "name": "Monólogo",
+            "text": "Então coloco as cartas na mesa e<n>digo que ela tá livre para tomar as<n>próprias decisões."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "えっ、あたしが？"
+            "name": "Ines Fujin",
+            "text": "Hã? Você quer que eu escolha?"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "……そっか、わかった！ それじゃあ、どれにしよっかな～。<n>キミが大変そうなやつにしちゃおっかな～♪"
+            "name": "Ines Fujin",
+            "text": "Bom... beleza então! Vamos ver...<n>Talveeez eu escolha aquele que vai<n>fazer <i>você</i> ralar mais! ♪"
         },
         {
-            "name": "モノローグ",
-            "text": "そんな調子でアイネスフウジンとのトレーニングは始まった！"
+            "name": "Monólogo",
+            "text": "E assim, nosso treinamento começa!"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "ふー、全身使ってるって感じなの。 けど、まだまだ！<n>まだまだ足りないの！"
+            "name": "Ines Fujin",
+            "text": "Ufa, meu corpo inteiro tá queimando!<n>Mas ainda não acabei! Tenho que<n>continuar forçando!"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "はぁ、はぁ……。 ああー、ちょっと……タンマ！"
+            "name": "Ines Fujin",
+            "text": "<i>Arf, arf...</i> E-espera... Tempo!"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "ぜー……はー……ぜー……。"
+            "name": "Ines Fujin",
+            "text": "<i>Arf... ufa... arf...</i>"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "はー……もう立てないの……。 ……はは、気持ちいー。"
+            "name": "Ines Fujin",
+            "text": "Uuuuufa... Não consigo mais ficar de<n>pé... Hehe, isso é tããão Buooooono..."
         },
         {
-            "name": "モノローグ",
-            "text": "用意したメニューを選んでもらい、サポートに徹しつつ<n>走り方を観察する日々は続いていった――"
+            "name": "Monólogo",
+            "text": "Dia após dia, ela escolhe um plano de<n>exercícios diferente, e dia após dia,<n>eu a ajudo a completá-lo. Até que,<n>finalmente..."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "え！？ あたしに向いてる走り方がわかったの！？<n>どんなのどんなの～！？"
+            "name": "Ines Fujin",
+            "text": "Sério?! Você descobriu qual é o meu<n>melhor estilo de corrida?! Conta, me<n>conta!"
         },
         {
-            "name": "モノローグ",
-            "text": "ここ数日見ていてわかった。彼女はたとえトレーニングであっても、<n>\n『走る』となればとにかくがむしゃらになるウマ娘のようだ。"
+            "name": "Monólogo",
+            "text": "Ficou claro ao vê-la treinar—ela é o<n>tipo de corredora que dá tudo de si,<n>mesmo nos treinos."
         },
         {
-            "name": "モノローグ",
-            "text": "倒れこんでしまうまで力を全て出し切ることができる。<n>\nこれは案外、やろうと思ってできることではない。ならば――",
+            "name": "Monólogo",
+            "text": "Ela se esforça a ponto de desmaiar;<n>não é qualquer uma que consegue<n>fazer isso. Então devemos usar isso<n>a favor dela.",
             "choice_data_list": [
-                "消耗戦を仕掛けよう"
+                "Nós vamos transformar a corrida em uma batalha\nde resistência."
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "序盤にハイペースを演出してリードを作る。<n>\n逃げながら道中1度息を入れて、最後の直線は溜めた脚で逃げ切る。"
+            "name": "Monólogo",
+            "text": "Começar com força, assumir a<n>liderança cedo, recuperar o fôlego<n>antes do sprint final e depois queimar<n>tudo até a linha de chegada... A<n>estratégia perfeita para ela."
         },
         {
-            "name": "モノローグ",
-            "text": "焦らずペースを保つことができれば、全ての力を出し切れる<n>\n思い切りのよさが、後続が迫る局面で大きな武器になるだろう。"
+            "name": "Monólogo",
+            "text": "Contanto que ela mantenha a calma e<n>um ritmo constante, sua velocidade<n>explosiva será seu trunfo para a<n>vitória."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "そっか……脚さえ残せたら後は気持ちの問題だもん。"
+            "name": "Ines Fujin",
+            "text": "Entendi... Guardar gás suficiente no<n>tanque e depois mandar ver..."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "前はなにがあっても譲らないって気持ちを持っていられたら……<n>\nううん、あたしは持ち続けられる自信がある。だから……勝てる！"
+            "name": "Ines Fujin",
+            "text": "Se eu conseguir manter a liderança e<n>nunca recuar... Não, eu <i>sei</i> que<n>consigo. É por isso que—eu vou<n>vencer!"
         },
         {
-            "name": "モノローグ",
-            "text": "そしてまた時は経ち、最後の調整を控えた大切な最終日――"
+            "name": "Monólogo",
+            "text": "É nosso último dia de treinamento<n>antes do grande evento..."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "えー！ 今日は1日中、降水確率100％！？<n>トレーニングできないんじゃ……！",
+            "name": "Ines Fujin",
+            "text": "Mentira! Chuva?! O dia todo?! Como<n>a gente vai treinar agora?!",
             "choice_data_list": [
-                "だ、大丈夫だ！",
-                "だ、大丈夫！"
+                "N-não se preocupe!",
+                "N-não se preocupe!"
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "トレセン学園には、屋内トレーニング施設がたくさんある。<n>\n予約が埋まっていなければ、そこでできることがあるはずだ。"
+            "name": "Monólogo",
+            "text": "A Academia Tracen tem várias<n>instalações de treinamento cobertas.<n>Desde que não estejam todas<n>lotadas, a gente tá de boa."
         },
         {
-            "name": "モノローグ",
-            "text": "そんな一縷の望みにかけて、屋内ジムやプールへ足を運んだが――"
+            "name": "Monólogo",
+            "text": "Digo a mim mesmo que tudo vai dar<n>certo enquanto vamos para a<n>academia e para a piscina, mas..."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "あちゃー。 まさか、ジムもプールも予約でいっぱいなんて。",
+            "name": "Ines Fujin",
+            "text": "Que pena... Tá tudo completamente<n>lotado.",
             "choice_data_list": [
-                "こちらの確認不足で、ごめんな……",
-                "こちらの確認不足で、ごめんね……"
+                "Desculpa... Eu devia ter me preparado melhor...",
+                "Desculpa... Eu devia ter me preparado melhor..."
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "大切な最終日、まさかトレーナー室に<n>こもらせてしまうことになるとは……。"
+            "name": "Monólogo",
+            "text": "Não acredito que estamos trancados<n>na minha sala logo no dia de hoje..."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "……トレーナー。<n>アイネスお姉ちゃんがとっておきの魔法の言葉、教えてあげよっか。"
+            "name": "Ines Fujin",
+            "text": "...Ei, Treinador. Quer ouvir um feitiço<n>especial que vai te animar rapidinho?"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "『まずは落ち着いて、次は前向きに。<n>それが終わったら、やることを1つずつ決めていこう！』",
+            "name": "Ines Fujin",
+            "text": "Respira, um e dois—aproveita a vista e<n>depois. Feito isso, com lucidez, faça o<n>que pode, um por vez!",
             "choice_data_list": [
-                "！"
+                "...!"
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "どう？ 小さい頃からお母さんによく言われてきた言葉でね、<n>\n今でも前向きになりたい時は心の中で唱えてるんだ。"
+            "name": "Ines Fujin",
+            "text": "Gostou? É uma coisa que a minha<n>mãe sempre me dizia desde que eu<n>era criança. Agora é o feitiço que eu<n>sempre uso quando tô me sentindo<n>pra baixo!"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "トレーナーも、心の中で唱えてみて。<n>そしたら絶対、落ち着いてくるの！"
+            "name": "Ines Fujin",
+            "text": "Você devia tentar. É só repetir essas<n>palavras e garanto que seus ombros<n>vão ficar mais leves."
         },
         {
-            "name": "モノローグ",
-            "text": "からかうような言葉とは裏腹に、真っすぐこちらを見てくる瞳。<n>\n随分心配させてしまっていたことにようやく気づく。",
+            "name": "Monólogo",
+            "text": "Pode parecer que ela tá me zoando,<n>mas seus olhos são sinceros—ela tá<n>genuinamente tentando me animar.",
             "choice_data_list": [
-                "ありがとう。……いいお母さんなんだな",
-                "ありがとう。……いいお母さんなんだね"
+                "Obrigado. Sua mãe deve ser uma pessoa\nmaravilhosa.",
+                "Obrigado. Sua mãe deve ser uma pessoa\nmaravilhosa."
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "うん、そうなの！ うちのお母さん――家族はみんなすごいの！<n>\n優しくて、大切なことをたくさん知っててね。"
+            "name": "Ines Fujin",
+            "text": "Sim! Na verdade, minha família toda é<n>incrível! Eles são super gentis e<n>super inteligentes!"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "トレセン学園に来られたのも、家族のおかげなんだよ。",
+            "name": "Ines Fujin",
+            "text": "Na real, sem eles, eu não estaria<n>nessa escola!",
             "choice_data_list": [
-                "背中を押してくれたのか？",
-                "背中を押してくれたの？"
+                "Foram eles que te incentivaram a se inscrever?",
+                "Foram eles que te incentivaram a se inscrever?"
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "そうなの。……背中を押すっていっても、<n>うちの家庭だとちょっとだけ難しいことでね。"
+            "name": "Ines Fujin",
+            "text": "É... Mas provavelmente não foi uma<n>decisão fácil pra eles."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "うちのお母さん体が弱くて。妹たちはまだ小さくて手がかかったし、<n>\n家のことも手伝いたかったから、中学は普通の学校に行ってたの。"
+            "name": "Ines Fujin",
+            "text": "Minha mãe fica doente com muita<n>frequência. Quando minhas irmãs<n>eram menores, eu precisava ajudar<n>mais em casa, então acabei indo pra<n>uma escola de ensino fundamental<n>normal."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "走ることは好きだったよ。一応、小学校からずっとクラブチームに<n>\n入ってたし。でも、それも中学でやめるつもりだったんだ。"
+            "name": "Ines Fujin",
+            "text": "Eu ainda amava correr, claro. Poxa,<n>eu tava na equipe de atletismo desde<n>a escola primária. Mas eu planejava<n>parar assim que terminasse o ensino<n>fundamental."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "だからね……トレセン学園は高等部からも入れるって<n>知ってはいたけど、そのつもりはなかったの――"
+            "name": "Ines Fujin",
+            "text": "É por isso que... mesmo sabendo que<n>poderia entrar na Tracen no ensino<n>médio, eu nunca considerei isso de<n>verdade."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "（明日でクラブチームのレースも最後かー。高校は商業系<n>\n行きたいし……ってことは、もうレースに出ることもなくなるよね）"
+            "name": "Ines Fujin",
+            "text": "(Amanhã é o último campeonato de<n>atletismo, né... Como vou para um<n>ensino médio profissionalizante, acho<n>que essa vai ser minha última<n>corrida...)"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "…………。"
+            "name": "Ines Fujin",
+            "text": "..."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "っふー！ 切り替え切り替え！<n>どうせ数か月走らないでいれば、どうでもよくなるの！"
+            "name": "Ines Fujin",
+            "text": "Não! Pensamentos positivos! Tenho<n>certeza que vou superar isso depois<n>de um tempo!"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "そんな時お母さんがね、ちょっと分厚い紙を渡してきたんだ。<n>\n見てみたら……トレセン学園高等部への入学願書だったの。"
+            "name": "Ines Fujin",
+            "text": "Foi aí que minha mãe me entregou<n>um monte de papéis. Para minha<n>surpresa, era uma inscrição para a<n>academia."
         },
         {
-            "name": "アイネスの母親",
-            "text": "家のことはもう大丈夫。妹たちだって大きくなったわ。<n>\nあなたにはあなたの好きなことに目いっぱい打ち込んでほしいの。"
+            "name": "Mãe da Ines",
+            "text": "As coisas em casa estão bem agora,<n>e suas irmãs conseguem se cuidar<n>sozinhas. Vá correr atrás dos seus<n>sonhos e faça o que você ama."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "お母さん……。"
+            "name": "Ines Fujin",
+            "text": "Mãe..."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "そんな言葉に背中を押されて、あたしは自分の気持ちに向き合えた。<n>本当はまだ走りたいんじゃない？\nって自分に聞くことができて――"
+            "name": "Ines Fujin",
+            "text": "Ela me encorajou a encarar meus<n>verdadeiros sentimentos. Eu não<n>queria parar—eu queria continuar<n>correndo."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "トレセン学園へ行くって未来が、あたしの中に登場し始めたの。<n>\n……ちゃんと決意するのにはもう少しかかったんだけどね！",
+            "name": "Ines Fujin",
+            "text": "Foi aí que eu finalmente me permiti<n>ter esperança... Talvez eu <i>pudesse</i><n>ir para a academia! Mas eu levei um<n>tempinho a mais pra realmente tomar<n>coragem de ir com tudo!",
             "choice_data_list": [
-                "そうだったのか",
-                "そうだったんだ"
+                "Fico feliz que tenha dado tudo certo.",
+                "Fico feliz que tenha dado tudo certo."
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "うん！ お母さんはそうやってきっかけを作ってくれたし……<n>\n入学決まったらお父さんが入学金をかき集めてきてくれて――"
+            "name": "Ines Fujin",
+            "text": "Sim! A mãe me deu o empurrão que<n>eu precisava. E quando fui aceita, o<n>pai juntou cada centavo para pagar<n>as mensalidades."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "今、妹たちはあたしに代わってお母さんのサポートをしてくれるし。<n>\n家族のおかげで、あたしはここにいられてるんだよ！"
+            "name": "Ines Fujin",
+            "text": "Minhas irmãs estão ajudando em<n>casa agora também. Então, se estou<n>aqui, devo tudo a eles!"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "――家族が観に来てくれるみたいで。せっかくだから、<n>\n学園でがんばってるよ、成長してるよって姿を見せたいの。"
+            "name": "Ines Fujin",
+            "text": "Minha família vai estar lá, e eu quero<n>muito mostrar os frutos do meu<n>trabalho duro pra eles!"
         },
         {
-            "name": "モノローグ",
-            "text": "あの時はさらっとした雰囲気で話していたが……<n>\nアイネスフウジンにとって家族はとても大切な存在のようだ。",
+            "name": "Monólogo",
+            "text": "Pelo jeito que ela fala da família, é<n>claro que ela os valoriza demais.",
             "choice_data_list": [
-                "（だったら――）"
+                "(Nesse caso...)"
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "なんとしてでも、明日の種目別競技大会は結果を残さなくては<n>\nいけない。そんな使命感に頬を張られたような気がした。",
+            "name": "Monólogo",
+            "text": "A determinação toma conta de<n>mim—temos que ter sucesso no<n>Tracen Meet de qualquer jeito.",
             "choice_data_list": [
-                "明日は絶対、家族に立派な姿を見せよう！"
+                "Com certeza vamos dar orgulho pra sua família\namanhã!"
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "……！ ふふっ、うんうん、いい顔になったね！<n>それでこそあたしのトレーナーなの♪\nって、まだ仮だっけ。"
+            "name": "Ines Fujin",
+            "text": "...Hehe. Sim, sim! Esse é o espírito!<n>Bem o que eu esperava do meu<n>treinador! ♪ Bom, treinador<n>temporário!"
         }
     ]
 }

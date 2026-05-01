@@ -1,169 +1,169 @@
 {
     "text_block_list": [
         {
-            "name": "モノローグ",
-            "text": "季節は初夏となり、<n>アイネスフウジンとの二人三脚にも少しずつ慣れてきた。"
+            "name": "Monólogo",
+            "text": "O início do verão chegou e, pouco a<n>pouco, estou pegando o ritmo como<n>treinador."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "はあああああっ！！",
+            "name": "Ines Fujin",
+            "text": "Haaaaah!",
             "choice_data_list": [
-                "いいぞ！その調子！",
-                "いいね！その調子！"
+                "Você consegue! Continue assim!",
+                "Você consegue! Continue assim!"
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "まだまだ！ お姉ちゃんの底力、見せてあげるのっ！！"
+            "name": "Ines Fujin",
+            "text": "Tô só começando! Deixa eu te<n>mostrar do que eu sou <i>realmente</i><n>capaz!"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "タイムは変わらずかぁ……。<n>仕掛けるタイミング、ちょっと遅かったかも。",
+            "name": "Ines Fujin",
+            "text": "Nenhuma mudança no meu tempo,<n>hein... Acho que pisei fundo no<n>acelerador um pouquinho tarde<n>demais.",
             "choice_data_list": [
-                "もう1回走ってみるか？",
-                "もう1回走ってみる？"
+                "Quer dar mais uma volta?",
+                "Quer dar mais uma volta?"
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "いいのっ！？"
+            "name": "Ines Fujin",
+            "text": "Eu posso?!"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "あ、けど……うーん、やっぱやめとくの。"
+            "name": "Ines Fujin",
+            "text": "Ah, mas... Hmmm, acho que vou parar<n>por aqui."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "そろそろ終了時間だし、やることもあるし…… うん！<n>また明日がんばればいいの！"
+            "name": "Ines Fujin",
+            "text": "Já tá quase no fim do dia, e eu ainda<n>tenho umas coisas pra fazer... É,<n>vamos continuar amanhã!"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "それじゃ、器具の片づけしておくね～。 お疲れ様、トレーナー！"
+            "name": "Ines Fujin",
+            "text": "Vou guardar os equipamentos. A<n>gente se vê mais tarde, Treinador!"
         },
         {
-            "name": "モノローグ",
-            "text": "……と、爽やかに送り出されたが、<n>トレーニングを続けなくて本当によかったのだろうか？"
+            "name": "Monólogo",
+            "text": "Ela sai correndo com um sorriso, mas<n>eu não consigo me livrar de uma<n>pulga atrás da orelha..."
         },
         {
-            "name": "モノローグ",
-            "text": "気のせいでなければ、彼女はまだ走りたそうに見えた。<n>\nそれよりも優先しなければならないこととは一体――"
+            "name": "Monólogo",
+            "text": "Pode ser só impressão minha, mas<n>tenho certeza de que ela quer<n>continuar correndo. O que poderia ser<n>mais importante que isso?"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "あれっ？ もう帰ってるかと思ってたの。",
+            "name": "Ines Fujin",
+            "text": "Hm? Achei que você já tivesse ido<n>embora a uma hora dessas.",
             "choice_data_list": [
-                "ちょっと仕事をしていこうかと思って"
+                "Eu queria terminar uma coisinha."
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "そっか、じゃあ机周りは後でお片づけするとして～……。"
+            "name": "Ines Fujin",
+            "text": "Beleeza, então acho que vou limpar a<n>sua área depois."
         },
         {
-            "name": "モノローグ",
-            "text": "言うが早いか、アイネスフウジンは慣れた手つきで<n>トレーナー室の掃除を始めた。"
+            "name": "Monólogo",
+            "text": "Como se estivesse no piloto<n>automático, ela começa a limpar a<n>minha sala como se já tivesse feito<n>isso um milhão de vezes."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "んしょっと……あっ、コピー用紙もう切れそうなの！<n>帰りに事務員さんのとこ寄ってかないと。"
+            "name": "Ines Fujin",
+            "text": "Vamos ver... Ah, a gente tá quase<n>sem papel pra impressora! É melhor<n>eu dar uma passada na sala de<n>suprimentos antes de voltar."
         },
         {
-            "name": "アイネスフウジン",
-            "text": "あらら、もうホコリ溜まっちゃってるの～。 フキフキっと♪"
+            "name": "Ines Fujin",
+            "text": "Eita, quantas bolotas de poeira! Tô<n>indo pegar vocês! ♪"
         },
         {
-            "name": "モノローグ",
-            "text": "振り返ってみれば、トレーナー室はいつも綺麗で、<n>消耗品にも困らなかった。",
+            "name": "Monólogo",
+            "text": "Pensando bem, a sala está sempre<n>limpa e os suprimentos nunca<n>acabam...",
             "choice_data_list": [
-                "君がいつも手入れしてくれてたのか！？",
-                "貴方がいつも手入れしてくれてたの！？"
+                "Você tem cuidado da sala esse tempo todo?!",
+                "Você tem cuidado da sala esse tempo todo?!"
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "だって～散らかってると気になっちゃうんだもん！<n>共用スペースは綺麗にしてたいでしょ？"
+            "name": "Ines Fujin",
+            "text": "Eu não consegui evitar—bagunça me<n>dá agonia! Eu quero manter nosso<n>espaço compartilhado nos trinques,<n>sabe?"
         },
         {
-            "name": "モノローグ",
-            "text": "彼女の厚意はありがたいが、トレーナーとしては<n>部屋の手入れよりもトレーニングを優先してほしい。",
+            "name": "Monólogo",
+            "text": "Não é que eu não agradeça, mas eu<n>preferiria que ela usasse esse tempo<n>pra correr na pista.",
             "choice_data_list": [
-                "ごめん、これからは俺がやるよ！",
-                "ごめん、これからは私がやるよ！"
+                "Desculpe! Eu cuido da limpeza de agora em\ndiante!",
+                "Desculpe! Eu cuido da limpeza de agora em\ndiante!"
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "俺がって……トレーナーが1人で？ 手伝わなくても大丈夫？？",
+            "name": "Ines Fujin",
+            "text": "Quer dizer... sozinho? Sem nenhuma<n>ajuda?",
             "choice_data_list": [
-                "ああ、君の走れる時間を増やしたいから",
-                "うん、貴方の走れる時間を増やしたいから"
+                "Sim, eu não quero tomar o seu tempo de corrida.",
+                "Sim, eu não quero tomar o seu tempo de corrida."
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "私がって……トレーナーが1人で？ 手伝わなくても大丈夫？？",
+            "name": "Ines Fujin",
+            "text": "Quer dizer... sozinho? Sem nenhuma<n>ajuda?",
             "choice_data_list": [
-                "ああ、君の走れる時間を増やしたいから",
-                "うん、貴方の走れる時間を増やしたいから"
+                "Sim, eu não quero tomar o seu tempo de corrida.",
+                "Sim, eu não quero tomar o seu tempo de corrida."
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "そう？ じゃあ、お手並み拝見なの♪"
+            "name": "Ines Fujin",
+            "text": "Sério? Bom... vamos ver do que você<n>é capaz, então! ♪"
         },
         {
-            "name": "モノローグ",
-            "text": "そして、気合いを入れて掃除に取り組もうとしたものの――"
+            "name": "Monólogo",
+            "text": "É só uma faxina. O quão difícil pode<n>ser?"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "あ、雑巾はあっちだよ！<n>箒とちりとりは向こう。部屋の隅に立てかけてあるの！"
+            "name": "Ines Fujin",
+            "text": "Ah, o pano de pó tá logo ali! E se tiver<n>procurando a vassoura e a pá de lixo,<n>elas ficam lá no canto!"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "それはこっちの棚！ バラバラにしたらまずいからまとめてね～。"
+            "name": "Ines Fujin",
+            "text": "Isso vai nessa prateleira! É melhor<n>deixar tudo bem juntinho e<n>organizado!"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "その備品なら、向こうに予備がおいてあるの。<n>なくなったら事務員さんに言えばオッケーなの！",
+            "name": "Ines Fujin",
+            "text": "Você pode achar os reservas daquilo<n>lá ali. Se acabar, é só pedir mais pro<n>cara dos suprimentos!",
             "choice_data_list": [
-                "お、思ったより大変だ……！",
-                "お、思ったより大変……！"
+                "I-isso é muito mais difícil do que eu pensava!",
+                "I-isso é muito mais difícil do que eu pensava!"
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "ふふっ、がんばれがんばれ～♪"
+            "name": "Ines Fujin",
+            "text": "Hehe, você consegue, você<n>consegue! ♪"
         },
         {
-            "name": "モノローグ",
-            "text": "こうして、アイネスフウジンの助言を受けつつ、<n>ひと通りの作業を終えたのだが――",
+            "name": "Monólogo",
+            "text": "Com a orientação da Ines Fujin, de<n>alguma forma consigo terminar a<n>faxina. Mas...",
             "choice_data_list": [
-                "結局ほぼアイネスに頼ってしまった……！！"
+                "Eu acabei dependendo de você pra quase tudo..."
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "ふっふっふ、恐れ入ったか♪<n>これが家で鍛えたお姉ちゃんパワーなの！"
+            "name": "Ines Fujin",
+            "text": "Hehehe... Impressionado? Esse é o<n>resultado de anos mergulhada até o<n>pescoço em tarefas de casa! ♪"
         },
         {
-            "name": "アイネスフウジン",
-            "text": "っていうか、任せっぱなしはやっぱ悪いし、2人でやろうよ？<n>\nここ、キミとあたしの共同スペースなんだし。",
+            "name": "Ines Fujin",
+            "text": "Enfim, me sinto mal de fazer você<n>fazer todo o trabalho pesado, então<n>vamos fazer juntos de agora em<n>diante. Afinal, esse é nosso cantinho<n>especial!",
             "choice_data_list": [
-                "はい……"
+                "Sim, senhora..."
             ]
         },
         {
-            "name": "アイネスフウジン",
-            "text": "もー、しょげないの！ お茶淹れといたから一緒に飲も？"
+            "name": "Ines Fujin",
+            "text": "Caramba, tira essa cara de enterro!<n>Vem cá, eu fiz um chazinho, então<n>vamos dar uma pausa."
         },
         {
-            "name": "モノローグ",
-            "text": "アイネスフウジンを助けるつもりが、<n>結局、姉に助けられる弟のような状況になってしまったのだった。"
+            "name": "Monólogo",
+            "text": "Eu queria provar que ela poderia<n>depender de mim, mas no fim das<n>contas, foi ela quem me salvou como<n>um cavaleiro de armadura brilhante."
         },
         {
-            "name": "モノローグ",
-            "text": "アイネスフウジンを助けるつもりが、<n>結局、姉に助けられる妹のような状況になってしまったのだった。"
+            "name": "Monólogo",
+            "text": "Eu queria provar que ela poderia<n>depender de mim, mas no fim das<n>contas, foi ela quem me salvou como<n>um cavaleiro de armadura brilhante."
         }
     ]
 }

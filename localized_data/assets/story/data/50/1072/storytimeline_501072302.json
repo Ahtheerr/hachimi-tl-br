@@ -1,0 +1,452 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "A Yaeno Muteki e eu viemos ao<n>centro comercial\ncomprar algumas<n>necessidades diárias quando\ndeparamos com uma multidão mais à<n>frente."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Parece que algo está acontecendo<n>logo à frente."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Venham todos e tentem a sorte no<n>nosso sorteio\nde Ano-Novo! O grande<n>prêmio deste ano são\nférias nas<n>fontes termais para dois!",
+            "choice_data_list": [
+                "férias nas fontes termais"
+            ]
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "O primeiro lugar ganha um bife de<n>hambúrguer de\ncenoura de luxo! O<n>segundo lugar ganha um\ncaixote de<n>cenouras! E o terceiro lugar pode<n>levar\npara casa uma única cenoura!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Não deixem essa oportunidade<n>passar! Peguem\nseu bilhete agora e<n>girem a roleta para ter a\nchance de<n>ganhar!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Ah, um sorteio."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Opa, olá! Vocês dois estão indo para<n>casa? Antes\ndisso, por acaso vocês<n>não teriam um bilhete de\nsorteio aí<n>com vocês, teriam?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Um bilhete de sorteio? De fato, eu<n>tenho. Recebi\num mais cedo."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Maravilha! Cheguem mais, então!",
+            "choice_data_list": [
+                "Vai lá tentar a sorte, Yaeno!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hmm... Eu não gostaria de<n>desperdiçar o bilhete,\nmas...",
+            "choice_data_list": [
+                "Mas?",
+                "Mas?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Quando eu era criança, certa vez<n>destruí uma\nmáquina de sorteio em<n>um acesso de fúria por\nnão conseguir<n>aceitar os resultados."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Depois disso, fui proibida de<n>participar de\nquaisquer outros<n>sorteios locais."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Como ainda não estou acostumada<n>com eles,\nestou... um tanto nervosa<n>sobre como irei reagir!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Por favor, você poderia girar a<n>manivela comigo?",
+            "choice_data_list": [
+                "Sem problema!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Eu lhe agradeço. Pois bem..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Yaeno Muteki e eu damos um giro<n>suave na\nmáquina de sorteio."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uma pequena bola de plástico cai pela<n>abertura da\nroleta..."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Macacos me mordam! Temos uma<n>vencedora do\nprêmio principal!<n>Venham pegar o cupom para as\nsuas<n>férias nas fontes termais! Parabéns!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "choice_data_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "O prêmio principal!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "HNGH! ...Ufa."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Quão fortuito.",
+            "choice_data_list": [
+                "Ah, qual é! Você tem que se animar mais do que\nisso!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Não farei isso! Não há maior sinal de<n>imaturidade\ndo que se deixar levar<n>pela emoção."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Devo manter a compostura em todos<n>os\nmomentos!",
+            "choice_data_list": [
+                "Você não precisa suprimir a sua alegria!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Explico que, contanto que ela não<n>saia correndo\ndesenfreadamente ou<n>algo assim, não tem\nproblema<n>demonstrar o quanto está feliz."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "É-é mesmo? Então não há problema<n>se eu libertar\nesse deleite que estou<n>sentindo?",
+            "choice_data_list": [
+                "Sim! Vamos celebrar juntos!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Vamos!",
+            "choice_data_list": [
+                "Hip! Hip!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "URRAAAAA!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Gostaria que você usasse este<n>cupom.",
+            "choice_data_list": [
+                "Hã? Mas você o ganhou com o seu bilhete de\nsorteio...",
+                "Hã? Mas você o ganhou com o seu bilhete de\nsorteio..."
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Estive lhe observando enquanto<n>caminha e notei\nque seus<n>movimentos estão um tanto rígidos,\nespecialmente no pescoço, nos<n>ombros e na\nlombar."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Suspeito que esteja sofrendo de<n>rigidez muscular,\ncaso no qual<n>recomendo ir a uma fonte termal\npara<n>se recuperar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela está certa. Meus ombros e<n>costas <i>estão</i>\nparecendo rígidos,<n>mas quando aponto que ela\ntambém<n>deve estar cansada..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Absurdo. Eu sou a própria imagem da<n>saúde.\nGraças à sua orientação,<n>sequer um traço de\nfadiga perdura<n>em meu corpo.",
+            "choice_data_list": [
+                "Claro, mas você com certeza ainda poderia\naproveitar uma pausa.",
+                "Claro, mas você com certeza ainda poderia\naproveitar uma pausa."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu argumentaria que é especialmente<n>importante\nque alguém como a Yaeno<n>Muteki, que mantém\npadrões<n>militantemente altos para si mesma,<n>faça\npausas."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hmm... treinar em uma fonte termal<n>poderia ser\numa mudança de ares<n>revigorante."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Felizmente, o cupom é para duas<n>pessoas, então\nque tal o seguinte?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Assim que nossa agenda abrir um<n>espaço, por\nque não vamos nós dois<n>juntos?",
+            "choice_data_list": [
+                "Parece um ótimo plano!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Então está decidido. Deixarei o<n>cupom sob seus\ncuidados."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Hehe. Mal posso esperar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, a Yaeno Muteki e eu<n>bolamos um plano\ndivertido para o<n>futuro!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Parece que temos mais uma<n>vencedora do\nprimeiro lugar!<n>Parabéns! Você leva um bife de\nhambúrguer de cenoura de luxo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "choice_data_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "E-este bife de hambúrguer de<n>cenoura!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Treinador."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Arroz.",
+            "choice_data_list": [
+                "...O quê?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Precisamos de arroz."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Já comi este bife de hambúrguer<n>antes em casa.\nAlguém deu um à<n>minha família como presente de\nfim<n>de ano."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "O suculento molho demi-glace<n>combina\nexcepcionalmente bem com<n>arroz! Nós repetimos\nnossos pratos<n>tão rápido que ficamos sem arroz\nantes que pudéssemos perceber!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Levar este bife de hambúrguer de<n>cenoura de luxo\nsozinho não será o<n>suficiente."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Vamos comprar um pouco de arroz e<n>voltar\ndepressa!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A pedido da Yaeno Muteki,<n>compramos um saco\nde arroz antes<n>de ir para casa."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>...Nham, nham, nham.</i>",
+            "choice_data_list": [
+                "Não consigo parar de comer! Isso está tão bom!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Não é maravilhoso? Como se pode<n>chamar esta\ncombinação de bife de<n>hambúrguer de cenoura de\nluxo e<n>arroz se não de pura bênção?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Vida longa ao molho demi-glace!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Graças à Yaeno Muteki, tenho a<n>chance de me\ndeliciar com a suprema<n>combinação de bife de\nhambúrguer<n>de cenoura de luxo e arroz!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Temos uma vencedora do segundo<n>lugar! É o seu\ndia de sorte! Você vai<n>para casa com um caixote\nde<n>cenouras!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "choice_data_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "O quê?! São tantas!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "De forma alguma conseguiremos<n>terminar todas\nelas sendo só nós<n>dois."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Perdoe-me por lhe impor uma<n>pergunta tão boba,\nmas..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Como não estou familiarizada com os<n>detalhes de\ncomo amizades<n>funcionam, há algo que eu\ngostaria de<n>confirmar com você."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Seria considerado rude oferecer às<n>minhas\ncolegas refeições feitas com<n>estas cenouras?",
+            "choice_data_list": [
+                "De forma alguma!",
+                "De forma alguma!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Sério? Então acho que prepararei<n>alguns pratos\npara a Chiyono O e a<n>Ardan."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Mmm! Que delícia!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Muito obrigada pelo banquete caseiro<n>de\ncenouras, Yaeno!"
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Tudo estava deleitável. Gostei em<n>especial do\nsabor refrescante do<n>arroz de cenoura."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...! F... Fico feliz que ambas tenham<n>apreciado a\nrefeição."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Cenouras são altamente nutritivas,<n>então quando\nadquiri tal fartura delas,<n>pensei em vocês duas na\nmesma<n>hora."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Sei que foi presunçoso, mas espero<n>que me\nperdoem por aparecer tão de<n>repente com tantas."
+        },
+        {
+            "name": "Mejiro Ardan",
+            "text": "Puxa vida... Você não tem do que se<n>desculpar,\nYaeno. Muito obrigada por<n>isto. Hehehe. Fico\nimensamente feliz<n>por você pensar em nós com\ntanto<n>carinho."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Eu também! É exatamente isso que<n>querem dizer\nquando dizem: \"Mostre<n>humanidade ao seu\ninimigo e uma<n>cenoura para a sua rival!\""
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Hmm? Por que sinto que já ouvi<n>algo\nsemelhante antes?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Provérbios interessantes à parte, a<n>Yaeno Muteki\nparece mais do que<n>satisfeita por as duas terem\ngostado<n>dos pratos de cenoura que ela<n>preparou."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Mas olhem só para isto! Você ganhou<n>o terceiro\nlugar! Aqui está a sua<n>cenoura!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "choice_data_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Hmm, uma única cenoura..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Creio que farei picles disto. Picles são<n>ótimos para\nrepor os níveis de sódio<n>e são perfeitos para\npetiscar durante<n>as pausas dos treinos."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Eles também rendem um bom almoço<n>quando\nservidos com bolinhos de<n>arroz.",
+            "choice_data_list": [
+                "É uma ótima ideia!",
+                "É uma ótima ideia!"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Assim creio que seja, se me permite<n>dizer."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Bastou um olhar para o brilho desta<n>cenoura para\nme convencer a fazer<n>picles dela."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Gostaria de provar um pouco assim<n>que estiver\npronto? Trarei para a<n>nossa próxima sessão de\ntreinamento."
+        },
+        {
+            "name": "Monólogo",
+            "text": "No dia seguinte, a Yaeno Muteki e eu<n>comemos a\ncenoura em conserva.<n>Está uma delícia, com a\nquantidade<n>exata de sal!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Ahhh, que azar! Parece que você tirou<n>uma em\nbranco! Leve este pacote de<n>lenços de papel\ncomo prêmio de<n>consolação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "choice_data_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "..."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "...Entendo. Isso deve ter sido um<n>teste.",
+            "choice_data_list": [
+                "Um teste?"
+            ]
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Sim. Por acaso não estava testando<n>para ver se\neu seria capaz de aceitar<n>com calma até o mais\namargo dos<n>resultados no sorteio?"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "O quê?! Por que eu sequer cogitaria<n>fazer tal\ncoisa?!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Heh. Você não precisa tentar<n>esconder a verdade.\nSei que estou<n>meramente colhendo o que plantei\nhá<n>muito, muito tempo."
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Mostrarei a você o quão capaz sou<n>de suportar\neste desfecho humilhante<n>com total compostura!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "<i>Inspira... Expira...</i>"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Lenços de papel... Que prêmio mais<n>perfeito e\nuniversalmente utilitário<n>alguém poderia pedir?"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Heh... Contemple! Fui capaz de<n>transformar um\núnico bilhete de<n>sorteio em <i>todo este</i> papel!"
+        },
+        {
+            "name": "Yaeno Muteki",
+            "text": "Se isso não é a definição de boa<n>sorte, então o\nque é? E não apenas<n>isso..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu não diria que a Yaeno Muteki está\nperfeitamente recomposta, mas ela<n>consegue se\nmanter razoavelmente<n>calma, demonstrando\napenas uma<n>pitada de decepção."
+        }
+    ]
+}

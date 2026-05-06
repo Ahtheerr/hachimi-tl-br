@@ -1,0 +1,35 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "O dia da estreia de Tokai Teio<n>finalmente chegou..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ei, quanto tempo falta? Minha corrida<n>vai começar\nlogo?",
+            "choice_data_list": [
+                "Você não está nervosa?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmm, talvez? Meu coração tá<n>batendo bem\nrápido."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Mas também é porque eu só quero<n>correr logo de\numa vez! ...Eu acho!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "De qualquer forma, não é uma coisa<n>ruim. Então\nnão se preocupa comigo!",
+            "choice_data_list": [
+                "Vai lá e domina tudo!",
+                "Vai lá e domina tudo!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Sim! Lá vou eu! A lenda da Teio<n>começa agora!"
+        }
+    ]
+}

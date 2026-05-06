@@ -1,0 +1,329 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certo dia, com o verão se<n>aproximando..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Urgh... Será que tem mesmo algo tão<n>especial no\njeito que a McQueen<n>corre?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Recentemente, Tokai Teio tem<n>assistido a\ngravações das corridas<n>de Mejiro McQueen\nantes do treino."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela parece estar tentando descobrir o<n>que\nMcQueen tem que falta a ela.",
+            "choice_data_list": [
+                "Já descobriu?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hmm... Dá pra ver que ela é forte,<n>mas não é\ncomo se fosse<n>toda-poderosa nem nada."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ah, tanto faz—vamos pra próxima.<n>Tenho um\nmonte de corridas dela pra<n>assistir, então preciso\npassar por<n>elas mais rápido."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "...Ah.",
+            "choice_data_list": [
+                "O que foi?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ah, n-não é nada... Essa é só a<n>corrida em que ela\nme venceu."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "...Não preciso assistir a isso. Afinal, eu<n>já vi de\nperto."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Depois de assistir a mais alguns<n>replays, Tokai\nTeio começa o treino<n>do dia."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Ofeg... Ofeg...</i>"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "E aí? Meu tempo foi bom?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Para falar a verdade, apesar de ter<n>perdido para\nMejiro McQueen, Tokai<n>Teio tem corrido muito\nbem.",
+            "choice_data_list": [
+                "Você foi ótima."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hehe, eu sabia!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Então por que a Presi acha que a<n>McQueen vai\nvencer, e não eu?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ugh, tanto faz. Não importa. Preciso<n>focar no meu\ntreino!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ei, você pode marcar meu tempo em<n>mais uma\nvolta? Quero fazer ainda<n>mais rápido!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com o coração ainda firme, Tokai<n>Teio continua\ntreinando sem perder<n>sua atitude positiva."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Essa é a força dela, seu forte. O que<n>será que\npoderia estar faltando?"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Uau... McQueen, você é incrível!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Ofeg... Ofeg...</i>"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Você corre tão rápido, McQueen!"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "É igual ao que todo mundo anda<n>dizendo. Você\nvoltou a ser como<n>antes!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Isso não é verdade. Agora sou uma<n>corredora\ncompletamente diferente."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Com licença, vou fazer mais uma<n>volta."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Agora que ela mencionou... Desde<n>aquela\nsequência de derrotas, a<n>atitude dela mudou\ncompletamente."
+        },
+        {
+            "name": "Umamusume B",
+            "text": "É, a intensidade dela está em outro<n>nível."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As outras alunas têm razão. No ano<n>passado,\napesar de ser considerada<n>a melhor corredora,\nMcQueen sofreu<n>uma sequência terrível de\nderrotas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sua recente mudança de atitude<n>parece ter vindo\ndessas derrotas."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "De todo modo, sou diferente de quem<n>eu era\nantes."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Todos verão minha ascensão. Da<n>terra aos céus\nacima..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pela entrevista dela, pude sentir sua<n>determinação\nde escalar de volta<n>desde o fundo do poço."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nesse caso, talvez o que realmente<n>falte a Tokai\nTeio seja..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ufa! Terminei! Então, que tempo eu<n>fiz? Treinador?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ei, você nem iniciou o cronômetro!<n>Que diabos\nvocê tá fazendo?!",
+            "choice_data_list": [
+                "Teio, você está frustrada por ter perdido?",
+                "Teio, você está frustrada por ter perdido?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Hã? Que interrogatório repentino é<n>esse?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ah, você quer dizer contra a<n>McQueen? É, claro.\nEu fiquei suuuper<n>irritada."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Mas eu não posso ficar de cabeça<n>baixa pra\nsempre, sabe? Tenho que<n>superar a Presi!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "...Enfim, esquece isso! Tenta marcar<n>meu tempo\nde verdade desta vez,<n>tá?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Embora a força de não ceder à<n>frustração seja\numa das melhores<n>qualidades da Teio, parece que\nela<n>também virou seu ponto fraco."
+        },
+        {
+            "name": "Monólogo",
+            "text": "No dia seguinte..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Tá, hora de assistir a mais corridas<n>da McQueen!\nVocê pode preparar o<n>treino enquanto eu faço\nisso,<n>Treinador!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Como de costume, Teio passa por<n>aqui para\nassistir a replays antigos<n>da McQueen, mas desta\nvez há uma<n>corrida específica que quero mostrar\na ela."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "O-o que é isso?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ei, isso não é quando eu perdi pra<n>ela?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Olha, eu já disse, eu já vivi isso. Não<n>preciso ver\nde novo!",
+            "choice_data_list": [
+                "Você realmente viu a força dela?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "O-o quê? Do que você tá falando?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Nós corremos juntas. Claro que eu vi<n>tudo...",
+            "choice_data_list": [
+                "Tem certeza que sua frustração não te cegou?",
+                "Tem certeza que sua frustração não te cegou?"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "...?!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Eu não tô mais frustrada! Uma<n>derrota não é\nnada—vou vencer a<n>próxima e compensar\nrapidinho!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Além disso, não posso deixar a<n>frustração me\nsegurar!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Se eu me entregar a ela, então isso<n>quer dizer que\neu era fraca de<n>verdade!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Tenho que ficar boa o bastante pra<n>superar a\nPresi. Tenho que ser <i>mais<n>forte!</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Minhas palavras parecem ter tocado<n>num ponto\nsensível, o que prova que<n>ainda há muita\nfrustração dentro dela."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela só está tentando escondê-la para<n>ser \"forte\".",
+            "choice_data_list": [
+                "A frustração é uma fonte poderosa de motivação!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Frustração... motiva as pessoas?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "M-mas, quer dizer, como eu disse...<n>eu não...",
+            "choice_data_list": [
+                "Reconheça essa dor e fique mais forte!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Mas eu...",
+            "choice_data_list": [
+                "Vou estar bem do seu lado!",
+                "Vou estar bem do seu lado!"
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Treinador..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "É hora de começar o treino..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Ofeg... Ofeg... Ofeg...</i>"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "E agora, Treinador? Tentei focar no<n>meu passo\ndesta vez.",
+            "choice_data_list": [
+                "Você melhora a cada tentativa.",
+                "Você melhora a cada tentativa."
+            ]
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Muito bem! Vou dar mais uma volta!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hmm... Seu espírito parece<n>marcadamente\ndiferente hoje."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ah, Presi!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Desculpa, obrigada por vir me ver,<n>mas preciso ir\ntreinar!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Oh?"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Eu não quero perder nunca mais.<n>Também não\nquero sentir essa<n>frustração nunca mais!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Então, lá vou eu! Mantém esse<n>cronômetro\nrodando, Treinador!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hmm... Entendo. Parece que Teio<n>finalmente\ncompreendeu o que é<n>importante.",
+            "choice_data_list": [
+                "Ela vai ficar ainda mais forte."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "De fato. Que essa frustração a<n>impulsione ainda\nmais alto, Teio!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tokai Teio pega a dor em seu<n>coração,\ntransforma-a em poder e<n>começa a correr mais\numa vez."
+        }
+    ]
+}

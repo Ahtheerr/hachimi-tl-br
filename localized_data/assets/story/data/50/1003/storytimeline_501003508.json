@@ -1,0 +1,35 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Depois da corrida, Tokai Teio solta<n>um suspiro\nprofundo."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Ei, Treinador! Eu tô morrendo de<n>fome aqui!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Quero bife de cenoura-da-neve com<n>suco de\ncenoura orgânica, e quero<n><i>agora!</i>",
+            "choice_data_list": [
+                "Isso vai ser impossível..."
+            ]
+        },
+        {
+            "name": "",
+            "text": "O quê?! Nããão! Mas eu tô com<n>taaanta fome! Qual\nééé!"
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "E não esquece..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Eu me esforcei muito! Me elogia!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Teio está agindo de forma mimada.<n>Provavelmente\né o cansaço batendo.<n>Enquanto isso, devo\nreconsiderar seu<n>calendário de corridas."
+        }
+    ]
+}

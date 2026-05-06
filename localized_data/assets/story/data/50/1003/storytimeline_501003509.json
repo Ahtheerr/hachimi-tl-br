@@ -1,0 +1,32 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Depois da corrida, Tokai Teio volta<n>para a sala de\nespera. No entanto, ela<n>não parece estar como de\ncostume."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "<i>Suspiro...</i>",
+            "choice_data_list": [
+                "Está tudo bem?",
+                "Está tudo bem?"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Não sei..."
+        },
+        {
+            "name": "Tokai Teio",
+            "text": "Eu me divirto correndo, e fico super<n>feliz quando\nvenço e me elogiam..."
+        },
+        {
+            "name": "",
+            "text": "Mas eu simplesmente não consigo<n>parar de\nsuspirar. O que tem de<n>errado comigo?"
+        },
+        {
+            "name": "",
+            "text": "Provavelmente é por causa de muitas<n>corridas\nseguidas. Devo reconsiderar<n>o calendário de\ncorridas dela."
+        }
+    ]
+}

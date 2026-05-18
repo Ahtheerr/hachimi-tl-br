@@ -1,0 +1,32 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "O dia finalmente chegou. Maruzensky<n>e Grass\nWonder vão correr uma<n>contra a outra na Yasuda\nKinen..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Respira fundo, respira fundo...",
+            "choice_data_list": [
+                "Você está realmente concentrada, hein?",
+                "Você está realmente concentrada, hein?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Com certeza! A Grass pode ser uma<n>atleta mais\nnova e fofinha, mas a<n>habilidade dela correndo é\nferoz."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe! Mas adversárias assim é que<n>fazem uma\ncorrida divertida!",
+            "choice_data_list": [
+                "Vá mostrar do que você é capaz!",
+                "Vá mostrar do que você é capaz!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Sim, vou curtir trazer a vitória para<n>casa!"
+        }
+    ]
+}

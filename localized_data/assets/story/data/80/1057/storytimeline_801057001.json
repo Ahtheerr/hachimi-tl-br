@@ -1,107 +1,107 @@
 {
     "text_block_list": [
         {
-            "name": "",
-            "text": "まだ日も昇りきっていない明朝。<n>目が覚め、寝つけなくなってしまったので\n散歩をしていると――"
+            "name": "Monólogo",
+            "text": "Acordo bem cedo uma manhã,<n>enquanto ainda\nestá escuro lá fora.<n>Está difícil voltar a dormir,\nentão<n>decido dar uma volta em vez disso."
         },
         {
-            "name": "ミスターシービー",
-            "text": "……あれ。キミ、学園のトレーナー？ どうしたの、こんな早くに。",
+            "name": "Mr. C.B.",
+            "text": "...Ah. Você é um dos treinadores da<n>academia. O\nque faz acordado a essa<n>hora?",
             "choice_data_list": [
-                "君こそ、一体何を……？",
-                "貴方こそ、一体何を……？"
+                "Eu que deveria te perguntar isso.",
+                "Eu que deveria te perguntar isso."
             ]
         },
         {
-            "name": "ミスターシービー",
-            "text": "お散歩！ すごくいい夜だったし。",
+            "name": "Mr. C.B.",
+            "text": "Ora, dando uma volta! A noite estava<n>tão\nagradável.",
             "choice_data_list": [
-                "この時間は、校則違反じゃなかったか？",
-                "この時間は、校則違反じゃなかった？"
+                "Você sabe que é contra as regras da academia\nestar fora a essa hora, não sabe?",
+                "Você sabe que é contra as regras da academia\nestar fora a essa hora, não sabe?"
             ]
         },
         {
-            "name": "ミスターシービー",
-            "text": "まぁ、それはそうなんだけど。"
+            "name": "Mr. C.B.",
+            "text": "Claro que sei."
         },
         {
-            "name": "ミスターシービー",
-            "text": "始めはすぐに帰るつもりだったんだよ。<n>少しだけ夜風に当たって寝ようって。"
+            "name": "Mr. C.B.",
+            "text": "Eu só queria respirar um pouco do ar<n>fresco da\nnoite antes de voltar."
         },
         {
-            "name": "ミスターシービー",
-            "text": "でも……この道。 遠くまで街灯が点々とついててね。<n>道しるべみたいだったんだ。"
+            "name": "Mr. C.B.",
+            "text": "Mas... olha bem para essa rua. Vê até<n>onde os\npostes de luz vão? São tipo<n>uma série de guias."
         },
         {
-            "name": "ミスターシービー",
-            "text": "それで、ここをどこまでもどこまでも<n>歩いたらどうなるだろうって思った。"
+            "name": "Mr. C.B.",
+            "text": "Comecei a imaginar aonde levavam e<n>o que\naconteceria se eu os seguisse<n>até o finalzinho."
         },
         {
-            "name": "ミスターシービー",
-            "text": "そこからは光を数えながら歩いた。<n>きれいだったよ。空は広くて静かだった。"
+            "name": "Mr. C.B.",
+            "text": "Então, lá fui eu, contando as luzes no<n>caminho. O\ncéu estava vasto e<n>silencioso. Estava lindo."
         },
         {
-            "name": "ミスターシービー",
-            "text": "流星群が来ていたのかな。暗い街の上に<n>流れ星がたくさん見えた。そうするうち――"
+            "name": "Mr. C.B.",
+            "text": "Acho que até rolou uma chuva de<n>meteoros... Vi\ntantas estrelas<n>cadentes passando por cima da\ncidade escura. Aí, de repente..."
         },
         {
-            "name": "ミスターシービー",
-            "text": "お腹が鳴ったんだ！ 爪も痛くって、<n>もう朝だった。それで戻ってきたら、\nキミに見つかったってわけ！<n>あはは！",
+            "name": "Mr. C.B.",
+            "text": "Meu estômago roncou que foi uma<n>beleza! Meus\npés estavam doendo, e<n>já era de manhã. Então\nfiz meu<n>caminho de volta, e você me<n>encontrou!\nHahaha!",
             "choice_data_list": [
-                "ということは、ひと晩中！？"
+                "Então você passou a noite inteira fora?!"
             ]
         },
         {
-            "name": "ミスターシービー",
-            "text": "一応、内緒にしておいてね、 怒られるのは退屈だから。"
+            "name": "Mr. C.B.",
+            "text": "Vamos manter isso em segredo entre<n>nós. Levar\nbronca é <i>tão</i> chato."
         },
         {
-            "name": "ミスターシービー",
-            "text": "と、そんなことより、 早く朝ご飯を食べたいんだった。"
+            "name": "Mr. C.B.",
+            "text": "Enfim, chega de papo. Um café da<n>manhã cairia\nmuito bem agora."
         },
         {
-            "name": "ミスターシービー",
-            "text": "そうだ、キミも一緒にどう？<n>せっかくの縁だし、キミの話も聞かせてよ。"
+            "name": "Mr. C.B.",
+            "text": "Ah, quer vir comigo? Já que o destino<n>nos uniu, eu\nadoraria ouvir o que te<n>fez acordar tão cedo."
         },
         {
-            "name": "ミスターシービー",
-            "text": "あっちにあるファミレスでさ。<n>朝メニューの卵かけご飯がおいしいんだ。",
+            "name": "Mr. C.B.",
+            "text": "Aquela lanchonete ali faz um arroz<n>com ovo\ncaprichado pro café da<n>manhã.",
             "choice_data_list": [
-                "帰って休むよう説得する",
-                "朝ご飯に付き合う"
+                "Convencê-la a voltar e dormir.",
+                "Ir tomar café da manhã com ela."
             ]
         },
         {
-            "name": "ミスターシービー",
-            "text": "『帰って寝たほうがいい』か。<n>キミ、ルドルフみたいなこと言うね！"
+            "name": "Mr. C.B.",
+            "text": "Voltar e dormir? Você tá parecendo a<n>Rudolf!"
         },
         {
-            "name": "ミスターシービー",
-            "text": "この前も、徹夜で学園に行ったら、<n>1時間近く生徒会室で説教されて――"
+            "name": "Mr. C.B.",
+            "text": "A última vez que passei a noite inteira<n>fora, tomei\num sermão de quase uma<n>hora na sala do\nconselho estudantil."
         },
         {
-            "name": "ミスターシービー",
-            "text": "……うぅん、あの淡々とした調子、ダメだな。<n>思い出すだけで……ふわぁ……！"
+            "name": "Mr. C.B.",
+            "text": "Ugh... Foi a coisa mais chata do<n>mundo. Não dá pra\nmim. Só de pensar<n>nisso já me dá—<i>uaaah...</i>"
         },
         {
-            "name": "ミスターシービー",
-            "text": "んん……、少しだけその辺で…… おやすみ。"
+            "name": "Mr. C.B.",
+            "text": "Ngh... Acho que vou... ali um<n>pouquinho... Boa\nnoite..."
         },
         {
-            "name": "ミスターシービー",
-            "text": "うん、それじゃついてきて！"
+            "name": "Mr. C.B.",
+            "text": "Beleza. Vem comigo, então!"
         },
         {
-            "name": "ミスターシービー",
-            "text": "――あはは、寝つけなくって散歩か。<n>じゃあキミも今日は眠い1日になりそうだね。"
+            "name": "Mr. C.B.",
+            "text": "Haha. Você saiu pra dar uma volta<n>porque não\nconseguia voltar a<n>dormir? Pelo visto nós dois\ntemos um<n>longo e sonolento dia pela frente."
         },
         {
-            "name": "ミスターシービー",
-            "text": "それにしてもやっぱり、 お腹が温まると、眠気が……。"
+            "name": "Mr. C.B.",
+            "text": "Mas sabe, agora que minha barriga<n>tá quentinha e\ncheia, eu tô meio..."
         },
         {
-            "name": "ミスターシービー",
-            "text": "……。 ……すぅ～……。"
+            "name": "Mr. C.B.",
+            "text": "<i>Zzz...</i>"
         }
     ]
 }

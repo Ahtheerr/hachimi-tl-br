@@ -1,0 +1,49 @@
+{
+    "text_block_list": [
+        {
+            "name": "Maruzensky",
+            "text": "Treinador! Treinador! Ah, que<n>desastre, que horror!",
+            "choice_data_list": [
+                "O que aconteceu?!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Treinador! Treinador! Ah, que<n>desastre! Que\nhorror!",
+            "choice_data_list": [
+                "O que aconteceu?!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Eu estava pesquisando uma coisa no<n>meu\ntelefone, e de repente apareceu<n>um troço\nesquisito!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Alguma coisa sobre vírus e minhas<n>informações\npessoais... O que vai<n>acontecer comigo?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Olho o telefone dela, e é apenas um<n>anúncio\npop-up.",
+            "choice_data_list": [
+                "Não tem problema nenhum. Pode relaxar."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Sério? Você tem certeza?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ufa, ainda bem... Isso me deixou toda<n>zureta."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Eu sei que deveria aprender a usar<n>esse treco\ndireito, mas é tão difícil<n>entender. <i>Suspiro...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Toda essa preocupação parece ter<n>deixado\nMaruzensky realmente<n>esgotada..."
+        }
+    ]
+}

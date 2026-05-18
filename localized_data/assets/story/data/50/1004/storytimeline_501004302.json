@@ -1,0 +1,422 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Eu e Maruzensky vamos fazer<n>compras juntos\ncerto dia..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hmm... Estas cebolinhas parecem<n>maravilhosas."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Com licença! Posso levar algumas<n>destas junto\ncom o repolho?"
+        },
+        {
+            "name": "Vendedor de Verduras",
+            "text": "Você com certeza tem um bom olho<n>para\nhortaliças! Leve também um<n>bilhete de sorteio de\nbrinde!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Um brinde? Você está distribuindo<n>para todo\nmundo, não está?"
+        },
+        {
+            "name": "Vendedor de Verduras",
+            "text": "Hahaha! Você me pegou!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Desculpa te deixar esperando,<n>Treinador! ♪",
+            "choice_data_list": [
+                "Terminou suas compras?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Desculpa te deixar esperando,<n>Treinador! ♪",
+            "choice_data_list": [
+                "Terminou suas compras?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Sim, está tudo certinho!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Mas vamos aproveitar o dia mais um<n>pouquinho!\nSabe, aquela senhora me<n>contou uma coisa\ninteressante..."
+        },
+        {
+            "name": "Funcionário do Sorteio",
+            "text": "Chegue mais e tente a sorte no<n>nosso sorteio de\nAno-Novo! O grande<n>prêmio deste ano é uma\nviagem para<n>águas termais para duas pessoas!",
+            "color_text_info_list": [
+                "viagem para águas termais"
+            ]
+        },
+        {
+            "name": "Funcionário do Sorteio",
+            "text": "Quem ganhar o primeiro prêmio leva<n>um\nhambúrguer de cenoura de luxo! O<n>segundo\nprêmio é uma cesta de<n>cenouras! E quem ganhar\no terceiro<n>leva uma cenoura para casa!"
+        },
+        {
+            "name": "Funcionário do Sorteio",
+            "text": "Não deixe essa oportunidade passar!<n>Pegue um\nbilhete agora e gire para<n>tentar ganhar!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Tcharam! Vamos tentar juntos?",
+            "choice_data_list": [
+                "Ah, entendi! Você quer participar do sorteio?",
+                "Ah, entendi! Você quer participar do sorteio?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Isso mesmo! Ganhei um bilhete da<n>moça da\nmercearia! Não dá para<n><i>não</i> usar, né?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "E, se eu ganhar, pensei em te<n>recompensar por\nter vindo comigo<n>hoje te dando o prêmio!",
+            "choice_data_list": [
+                "Você acha mesmo que vai ganhar?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "E, se eu ganhar, pensei em te<n>recompensar por\nter vindo comigo<n>hoje te dando o prêmio!",
+            "choice_data_list": [
+                "Você acha mesmo que vai ganhar?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ousa duvidar de mim? Haha! Bom,<n>mal posso\nesperar para ver sua<n>reação quando eu ganhar o\ngrande<n>prêmio! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Sem mais delongas, permita-me<n>mostrar a\nlendária sorte Maruzen!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Vamos lá, grande prêmio! Quero ver<n>esse grande\nprêmio!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Maruzensky cantarola enquanto gira<n>a manivela\nda roleta do sorteio."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uma bolinha de plástico cai pela<n>abertura da urna..."
+        },
+        {
+            "name": "Funcionário do Sorteio",
+            "text": "Santo nabo! Temos uma vencedora<n>do grande\nprêmio! Venha pegar o<n>cupom da sua viagem para\náguas<n>termais! Parabéns!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "O quê?! Não acredito!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Treinador, você ouviu?! Eu ganhei o<n>grande\nprêmio!",
+            "choice_data_list": [
+                "Isso é incrível!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Treinador, você ouviu?! Eu ganhei o<n>grande\nprêmio!",
+            "choice_data_list": [
+                "Isso é incrível!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Eu sei, né?!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Então, toma! Este prêmio irado é todo<n>seu,\nTreinador!",
+            "choice_data_list": [
+                "Tem certeza?",
+                "Tem certeza?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Então, toma! Este prêmio irado é todo<n>seu,\nTreinador!",
+            "choice_data_list": [
+                "Tem certeza?",
+                "Tem certeza?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Claro!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto culpa em receber algo assim só<n>por fazer\ncompras com a<n>Maruzensky. Além disso, foi ela\nquem ganhou.",
+            "choice_data_list": [
+                "Não, não posso aceitar isto.",
+                "Não, não posso aceitar isto."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ah, qual é. Você não precisa ser tão<n>sério o tempo\ntodo!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hmm... Beleza! Então que tal<n>transformarmos isso\nem um<n>encontro?",
+            "choice_data_list": [
+                "...Um encontro?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Sim, igual ao passeio de compras de<n>hoje! Você\nvem comigo na viagem<n>para as águas termais!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Sim, igual ao passeio de compras de<n>hoje! Você\nvem comigo na viagem<n>para as águas termais!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Mas este ano estou megaocupada..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Então que tal na próxima primavera?<n>Tenho\ncerteza de que teremos um<n>tempo livre aí.",
+            "choice_data_list": [
+                "Bom, nesse caso..."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Fechado, meu chegado! Eu te<n>convido quando\ndeixar tudo acertado!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Vou fazer essa viagem ser divertida<n>pra chuchu,\nentão esteja pronto para<n>curtir muito!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "E foi assim que acabei prometendo ir<n>numa\nviagem para águas termais<n>com Maruzensky no\nano que vem."
+        },
+        {
+            "name": "Funcionário do Sorteio",
+            "text": "Parece que temos outra vencedora do<n>primeiro\nprêmio! Parabéns! Você<n>ganhou um hambúrguer\nde cenoura<n>de luxo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Aí sim! Como se houvesse qualquer<n>dúvida! ♪",
+            "choice_data_list": [
+                "Mandou bem, Maruzensky!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ehehe!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Heh... Desculpa, eu me empolguei um<n>pouco, né?",
+            "choice_data_list": [
+                "Você ganhou o primeiro prêmio, então pode ficar\nfeliz."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Lembre-se de que foi você quem<n>disse isso\nquando eu exagerar ainda<n><i>mais</i>! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Lembre-se de que foi você quem<n>disse isso\nquando eu exagerar ainda<n><i>mais</i>! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Cof, cof..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Que tal comermos este hambúrguer<n>no almoço\njuntos?",
+            "choice_data_list": [
+                "Parece ótimo!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Que tal comermos este hambúrguer<n>no almoço\njuntos?",
+            "choice_data_list": [
+                "Parece ótimo!"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe! Fico feliz em ver que você<n>também sabe se\nsoltar um<n>pouquinho! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe! Fico feliz em ver que você<n>também sabe se\nsoltar um<n>pouquinho! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "E foi assim que eu e Maruzensky<n>acabamos\ndividindo um hambúrguer<n>de cenoura de luxo no\nnosso próximo<n>almoço."
+        },
+        {
+            "name": "Funcionário do Sorteio",
+            "text": "Temos uma vencedora do segundo<n>prêmio! Hoje\né seu dia de sorte!<n>Você vai para casa com uma\ncesta de<n>cenouras!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Uau! Isso é cenoura pra chuchu!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Mas ter tantas cenouras assim é<n>meio demais,\nmesmo para nós dois...<n>Afinal, cenouras estragam\nrápido.",
+            "choice_data_list": [
+                "Que tal dividir com todo mundo, então?",
+                "Que tal dividir com todo mundo, então?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Mas ter tantas cenouras assim é<n>meio demais,\nmesmo para nós dois...<n>Afinal, cenouras estragam\nrápido.",
+            "choice_data_list": [
+                "Que tal dividir com todo mundo, então?",
+                "Que tal dividir com todo mundo, então?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Oooh, ideia supimpa, tortilha! ♪"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ei, quem está com fome?! Venham<n>pegar\ncenouras!"
+        },
+        {
+            "name": "As Duas",
+            "text": "<i>Ebaaa!</i>"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Hehe! Todo mundo ficou<n>animadíssimo depois de\ndevorar<n>aquelas cenouras!",
+            "choice_data_list": [
+                "Aqui, pegue uma também."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ora, obrigada! ♪ Mas não esqueça a<n>sua,\nTreinador!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ora, obrigada! ♪ Mas não esqueça a<n>sua,\nTreinador!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu e Maruzensky pegamos uma<n>cenoura para\ncada um."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Elas são levemente salgadas e têm<n>uma robustez\nque cai<n>agradavelmente em nossos corpos\ncansados."
+        },
+        {
+            "name": "Funcionário do Sorteio",
+            "text": "Olha só! Você ganhou o terceiro<n>prêmio! Aqui está\nsua cenoura!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ahh, que droga!",
+            "choice_data_list": [
+                "Bom, pelo menos você ganhou <i>alguma coisa,</i>\nné?"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "É, acho que um pouquinho de sorte é<n>melhor do\nque nenhuma."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Mas uma única cenoura não dá um<n>grande\npresente... Hmm..."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ah, já sei! Vou usar isto e as<n>cebolinhas que\ncomprei mais cedo<n>para fazer um refogado!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "É a receita secreta da minha mãe,<n>então vai ficar o\nbicho! Você vai amar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mais tarde, saboreamos um refogado<n>delicioso\nfeito com a cenoura que<n>Maruzensky ganhou no\nsorteio."
+        },
+        {
+            "name": "Funcionário do Sorteio",
+            "text": "Opa, essa não deu — que azar! Aqui<n>está este\npacote de lenços como<n>prêmio de consolação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "<i>Que furada!</i> Não acredito!"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ai... Desculpa, Treinador. Minha sorte<n>Maruzen me\ndeixou na mão hoje...",
+            "choice_data_list": [
+                "Tudo bem. Às vezes se ganha, às vezes se perde."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ai... Desculpa, Treinador. Minha sorte<n>Maruzen me\ndeixou na mão hoje...",
+            "choice_data_list": [
+                "Tudo bem. Às vezes se ganha, às vezes se perde."
+            ]
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ahh, eu queria ganhar algo legal para<n>você... Que\nmico..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com os ombros caídos de<n>Maruzensky, deixamos\na rua<n>comercial."
+        }
+    ]
+}

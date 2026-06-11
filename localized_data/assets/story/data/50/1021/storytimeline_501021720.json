@@ -1,0 +1,566 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Um dia, eu levo Tamamo Cross até a<n>enfermaria\npara um check-up."
+        },
+        {
+            "name": "???",
+            "text": "Oh! Um pacien― quero dizer, uma<n>estudante! Olá!"
+        },
+        {
+            "name": "???",
+            "text": "Você tá machucada? Doente?<n>Estressada? Seja\nlá o que for, eu<n>trato de tudo!",
+            "choice_data_list": [
+                "Quem é você?!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Bom, considerando que estamos na<n>enfermaria da\nacademia, eu diria que<n>isso faz de mim sua\nconfiável<n>enfermeira escolar! Isso mesmo, só\numa funcionária escolar<n>perfeitamente comum!",
+            "choice_data_list": [
+                "...Não você não é?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ahaha! Pelo visto não dá pra te<n>enganar. Acho que\ndevo começar me<n>apresentando."
+        },
+        {
+            "name": "???",
+            "text": "Ahem! Permitam-me me apresentar!"
+        },
+        {
+            "name": "???",
+            "text": "Eu sou a (provável) salvadora de<n>todas as\nUmamusume, a<n>(autoproclamada) lendária\nacupunturista de toque mágico..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "A única e incomparável Sasami<n>Anshinzawa! Viu?\nSem<n>preocupações! ☆",
+            "choice_data_list": [
+                "..."
+            ],
+            "color_text_info_list": [
+                "Sasami Anshinzawa"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Essa mulher tá passando uma<n>energia muito\nsuspeita. Bora cair fora<n>daqui, Treinador!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nossa! Você parece bem preocupada!<n>☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Mas sem problemas! Sem<n>problemas! Já nos\napresentamos,<n>então deite-se e deixe essas\nagulhas<n>fazerem seu trabalho!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Umas agulhas? Só isso? Parece<n>tranquilo... SÓ QUE\nNÃO!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Hahaha! Não precisa ficar com medo!<n>Tudo o que\nvou fazer é inserir essas<n>agulhas extraordinárias\nprecisamente<n>nos seus pontos de chakra."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Aí voilà, presto! Alguma coisa<n>indescritível vai\nacontecer!",
+            "choice_data_list": [
+                "(Isso é indescritivelmente suspeito...)"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E posso garantir que não há<n>absolutamente nada\nsuspeito nisso!<n>Nunca deu menos que\nperfeitamente<n>certo!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "...Pro meu mestre.",
+            "choice_data_list": [
+                "Pro seu mestre?! E quanto a você?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não se preocupe! Como é minha<n>primeira vez,\ntecnicamente eu nunca<n>falhei com um paciente\ntambém!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E não é como se eu não tivesse<n>experiência!\nPassei dez anos sob um<n>mestre lendário,\nbuscando bebi―<n>quero dizer, treinando!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Viu? Sem preocupações! ☆",
+            "choice_data_list": [
+                "(Precisamos sair daqui AGORA!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não tem a menor chance de fazermos<n>isso. Eu\npego a Tamamo Cross e vou<n>em direção à porta,\nquando..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E-espera! Aonde vocês vão?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Você é a Tamamo Cross, não é?! A<n>pequena\nporém poderosa<n>Umamusume também conhecida\ncomo Relâmpago Branco!",
+            "choice_data_list": [
+                "Você já ouviu falar dela?"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Ouvi falar? Claro que ouvi! Sou uma<n>grande fã!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "É exatamente por isso que eu estou<n>aqui! Pra te\ndar meu apoio! Me deixa<n>ajudar você!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Só me dá uma chance! Poooor<n>favooor!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Nem ferrando! Mas caramba, ela tá<n>insistindo\ndemais..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Por favorzinho! Por favooor com uma<n>cenourinha\nno topo! Eu até deixo<n>você escolher qual chakra\nquer<n>ativar!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eu tenho <i>certeza</i> de que não vou<n>estragar tudo!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom... quase certeza.",
+            "choice_data_list": [
+                "<i>Quase</i> certeza?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Quer dizer, é mais certeza do que<n>dúvida! Isso é\n<i>bom,</i> né? Enfim, não<n>vamos nos prender aos\ndetalhes!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Vamos logo pra parte boa! Qual<n>chakra você quer\nativar? Quer<n>aumentar suas habilidades? Sua\nsaúde? Ou talvez seu <i>charme?</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto perigo no ar, mas imagino que<n>talvez — e eu\nenfatizo <i>talvez</i> —<n>exista uma chance de\nconseguirmos<n>algo especial com esse tratamento."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O que devemos fazer?",
+            "choice_data_list": [
+                "Ativar o chakra da força.",
+                "Ativar o chakra da vitória.",
+                "Ativar o chakra da saúde.",
+                "Ativar o chakra do charme.",
+                "Isso é suspeito demais. Melhor parar enquanto dá\ntempo."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então você quer<n>que eu ative o\nchakra da força?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Depois disso\nnão tem volta!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espera, segura aí."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Certo, deixa comigo! Hora de localizar<n>esse\nchakra! Uni-duni-tê!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, só relaaxe... Viu? Sem<n>preocupações! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E... espetada!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Nãoooooo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Q-que diabos tá acontecendo?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Minha alma tá literalmente<n>esquentando aqui! Tô\nme sentindo<n>mais quente que panela de baiacu\nfervendo!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> Tá brincando... Funcionou<n>mesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nããão acredito! Não consigo acreditar!<n>Eu sou um\ngênio completo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tamamo Cross está transbordando<n>tanta força\nque ela quase parece<n>outra pessoa!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Assumimos um risco e valeu a pena!<n>Isso é um\ngrande passo rumo ao<n>nosso objetivo!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Q-que diabos tá acontecendo?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Não tô me sentindo muito bem,<n>Treinador... Tô\ncomeçando a ver<n>estrelas aqui..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O estado da Tamamo Cross piora<n>rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... é isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, olha só a hora! Preciso ir!<n>Tchauzinho! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia saber que não dava pra<n>contar com a\nsorte. Não sou eu quem<n>está sofrendo, mas\nmesmo assim<n>estou cheio de arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então você quer<n>que eu ative o\nchakra da vitória?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Depois disso\nnão tem volta!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espera, segura aí."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Certo, deixa comigo! Hora de localizar<n>esse\nchakra! Uni-duni-tê!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, só relaaxe... Viu? Sem<n>preocupações! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Aaand poke!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Nãoooooo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Q-que diabos tá acontecendo?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Minha alma tá literalmente<n>esquentando aqui! Tô\nme sentindo<n>mais quente que panela de baiacu\nfervendo!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> Tá brincando... Funcionou<n>mesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nããão acredito! Não consigo acreditar!<n>Eu sou um\ngênio completo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Consigo sentir uma melhora enorme<n>nas\nhabilidades da Tamamo Cross!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Q-que diabos tá acontecendo?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Não tô me sentindo muito bem,<n>Trainer... Tô\ncomeçando a ver estrelas<n>aqui..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O estado da Tamamo Cross piora<n>rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... é isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, olha só a hora! Preciso ir!<n>Tchauzinho! ☆"
+        },
+        {
+            "name": "",
+            "text": "Eu devia saber que não dava pra<n>contar com a\nsorte. Não sou eu quem<n>está sofrendo, mas\nmesmo assim<n>estou cheio de arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então você quer<n>que eu ative o\nchakra da saúde?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Depois disso\nnão tem volta!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espera, segura aí."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "All right, leave it to me! Time to locate<n>that chakra!\nOllie, ollie, oxen free!"
+        },
+        {
+            "name": "",
+            "text": "Agora, só relaaxe... Viu? Sem<n>preocupações! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E... espetada!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Nãoooooo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Q-que diabos tá acontecendo?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Minha alma tá literalmente<n>esquentando aqui! Tô\nme sentindo<n>mais quente que panela de baiacu\nfervendo!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> Tá brincando... Funcionou<n>mesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nããão acredito! Não consigo acreditar!<n>Eu sou um\ngênio completo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O estado da Tamamo Cross piora<n>rapidamente."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Assumimos um risco e valeu a pena!<n>Isso é um\ngrande passo rumo ao<n>nosso objetivo!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Q-que diabos tá acontecendo?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Não tô me sentindo muito bem,<n>Trainer... Tô\ncomeçando a ver estrelas<n>aqui..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O estado da Tamamo Cross piora<n>rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... é isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, olha só a hora! Preciso ir!<n>Tchauzinho! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia saber que não dava pra<n>contar com a\nsorte. Não sou eu quem<n>está sofrendo, mas\nmesmo assim<n>estou cheio de arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então você quer<n>que eu ative o\nchakra do charme?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Depois disso\nnão tem volta!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espera, segura aí."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Certo, deixa comigo! Hora de localizar<n>esse\nchakra! Uni-duni-tê!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, só relaaxe... Viu? Sem<n>preocupações! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E... espetada!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Nãoooooo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Q-que diabos tá acontecendo?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Minha alma tá literalmente<n>esquentando aqui! Tô\nme sentindo<n>mais quente que panela de baiacu\nfervendo!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> Tá brincando... Funcionou<n>mesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nããão acredito! Não consigo acreditar!<n>Eu sou um\ngênio completo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tamamo Cross está transbordando<n>charme! Ela\ncertamente vai chamar<n>atenção por onde passar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Assumimos um risco e valeu a pena!<n>Isso é um\ngrande passo rumo ao<n>nosso objetivo!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Q-que diabos tá acontecendo?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Não tô me sentindo muito bem,<n>Trainer... Tô\ncomeçando a ver estrelas<n>aqui..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O estado da Tamamo Cross piora<n>rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... é isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, olha só a hora! Preciso ir!<n>Tchauzinho! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia saber que não dava pra<n>contar com a\nsorte. Não sou eu quem<n>está sofrendo, mas\nmesmo assim<n>estou cheio de arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Ah, qualé! Não sejam assim!",
+            "choice_data_list": [
+                "Decline.",
+                "Reconsider."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Vocês aí! Espero que saibam que<n>invasores\n<i>serão</i> processados!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! Fui descoberta!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, tô caindo fora! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Volta aqui!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ela era estranha mesmo, hein?<n>Espero não\ntoparmos com ela de<n>novo..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Além disso, eu nem preciso mexer<n>com esse papo\nde chakra. Eu já sou<n>a melhor!",
+            "choice_data_list": [
+                "Concordo.",
+                "Concordo."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Fico curioso sobre quem essa tal de<n>Anshinzawa\nrealmente é, mas não<n>adianta ficar remoendo isso.\nMelhor<n>esquecer o que aconteceu hoje e<n>seguir\nem frente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Mudou de ideia, foi? Sem problemas,<n>acontece!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vá em frente e me diga qual<n>chakra quer\nque eu ative!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então?! Não nos deixem na<n>expectativa! Pera aí...\nQuanto tempo<n>eu tô aqui?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Vocês aí! Espero que saibam que<n>invasores\n<i>serão</i> processados!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! Fui descoberta!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, tô caindo fora! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Volta aqui!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A situação muda completamente<n>antes que eu\nconsiga tomar uma<n>decisão."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Que diabos foi isso tudo? Tamamo<n>Cross e eu\ntrocamos olhares,<n>completamente perplexos."
+        }
+    ]
+}

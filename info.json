@@ -1,0 +1,23 @@
+{
+  "name": "Translation Repo Name",
+  "description": "Translation Repo Description",
+  // plaintext changelog
+  "changelog_url": "https://example.com/CHANGELOG.txt",
+  // or markdown changelog
+  "changelog_url": "https://example.com/CHANGELOG.md",
+  "homepage": "https://github.com/TLRepoOwner/TLRepoName",
+  "links": [
+    ["button_name", "https://url.com"]
+    ["button_name2", "https://url.com"]
+  ],
+  "maintainer": "maintainer_name",
+  // web page of the list of contributors 
+  "contributors": "https://example.com/contributors-list.html"
+  // OR names of each contributors inside of a txt URL separated by newlines
+  "contributors": "https://example.com/contributors.txt"
+  // OR JSON array of the contributors' names
+  "contributors": ["contributor1", "contributor2", "contributor3"],
+  // Language of the translation repo
+  // List of valid languages: https://developers.google.com/workspace/admin/directory/v1/languages
+  "language": "en"
+}

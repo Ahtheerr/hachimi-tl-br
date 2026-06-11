@@ -1,23 +1,9 @@
 {
-  "name": "Translation Repo Name",
-  "description": "Translation Repo Description",
-  // plaintext changelog
-  "changelog_url": "https://example.com/CHANGELOG.txt",
-  // or markdown changelog
+  "name": "Hachimi-tl-br",
+  "description": "UmaTL's Brazilian translation repository for Umamusume: Pretty Derby in Hachimi format.",
   "changelog_url": "https://example.com/CHANGELOG.md",
-  "homepage": "https://github.com/TLRepoOwner/TLRepoName",
-  "links": [
-    ["button_name", "https://url.com"]
-    ["button_name2", "https://url.com"]
-  ],
-  "maintainer": "maintainer_name",
-  // web page of the list of contributors 
-  "contributors": "https://example.com/contributors-list.html"
-  // OR names of each contributors inside of a txt URL separated by newlines
-  "contributors": "https://example.com/contributors.txt"
-  // OR JSON array of the contributors' names
-  "contributors": ["contributor1", "contributor2", "contributor3"],
-  // Language of the translation repo
-  // List of valid languages: https://developers.google.com/workspace/admin/directory/v1/languages
-  "language": "en"
+  "homepage": "https://github.com/Ahtheerr/hachimi-tl-br",
+  "maintainer": "Ahtheerr",
+  "contributors": ["0Mateus", "BrunaFcf", "hd_monteiro", "KiodoC", "leviath4n00", "lorenzo_rrc", "umacuriosidades", "whateverdante1"],
+  "language": "pt-BR"
 }

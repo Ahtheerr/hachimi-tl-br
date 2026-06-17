@@ -1,0 +1,252 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Depois de um dia divertido de<n>passeio, pergunto à\nMejiro Palmer se<n>tem mais algum lugar onde ela\ngostaria de ir antes de voltarmos."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Que tal a gente mudar um pouco hoje<n>e ir a um\nlugar que <i>você</i> queira ir,<n>Treinador?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Você tá sempre ocupado, então acho<n>que uma\nfolguinha ia te fazer bem!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "E é assim que acabamos passeando<n>pela cidade,\nmas não vamos muito<n>longe antes de..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Ah!</i> Abriram uma loja de golfe<n>nova aqui!\nNossaaa, aquele taco<n>parece que faz a bola voar\nlonge!",
+            "choice_data_list": [
+                "Quer entrar?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Não, tudo bem. Posso dar uma olhada<n>depois.\nAfinal de contas, a gente tá no<n>meio do nosso\npasseio agora!",
+            "choice_data_list": [
+                "(Ué?)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Normalmente, ela aceitaria na hora e<n>entraria\ncorrendo na loja, mas tem<n>algo de estranho nela\nhoje. E esse<n>comportamento esquisito continua."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Qual filme eu quero ver?<n>Sinceramente, todos os\nque estão em<n>cartaz parecem mega interessantes,\nentão escolhe você!",
+            "choice_data_list": [
+                "Então que tal assistirmos ao filme em destaque\ndo mês?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Vejamos... Ah, vai ser o <i>Labirintos<n>de Arte de\nDar Nó no Cérebro</i>! É<n>sempre bom experimentar\ncoisas<n>novas!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "N-nossa... É-ééé..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eles não estavam brincando sobre a<n>parte de \"dar\nnó no cérebro\". Não<n>entendi quase nada do filme.\nProvavelmente era para quem<n>entende muito de\narte."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ufa! Que filmaço! Foi tão... tão chique!",
+            "choice_data_list": [
+                "Chique é uma forma de dizer.",
+                "\"Chique\" é uma forma de dizer."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Com certeza! O visual foi bem<n>marcante! As\ncoisas sempre causam<n>um impacto bem maior\nquando estão<n>na telona!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Se tem algo me incomodando? Hm...<n>Agora que\nvocê falou..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Minhas tacadas de golfe andam<n>saindo meio\ntortas ultimamente, mas<n>é só isso mesmo."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "E você? Tem alguma coisa te<n>preocupando\nultimamente? Pode<n>desabafar comigo, seja o que\nfor!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sempre que tento perguntar o que há<n>de errado,\nela desconversa e joga a<n>pergunta de volta para\nmim. Por fim,<n>terminamos o nosso passeio."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Bom! Chegamos no meu dormitório. O<n>dia passou\nvoando, né?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Obrigada pelo dia divertido! Você<n>curtiu também?",
+            "choice_data_list": [
+                "Gostei, mas..."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hm? Parece que tem algo te<n>incomodando de\nverdade. Vai,<n>desembucha! Tô aqui para ouvir!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Sou toda ouvidos para o que quer que<n>esteja te\npreocupando!",
+            "choice_data_list": [
+                "Você se divertiu de verdade hoje?",
+                "Você se divertiu de verdade hoje?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hã?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Claro que sim! Nada me deixa mais<n>feliz do que\nver você se divertindo!",
+            "choice_data_list": [
+                "O mesmo vale para mim.",
+                "O mesmo vale para mim."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ué... Não entendi o que você tá<n>querendo dizer.",
+            "choice_data_list": [
+                "Você se divertiu <i>de verdade</i>?",
+                "Você se divertiu <i>de verdade</i>?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Sim, com certeza! Ou melhor, acho<n>que tô mais\naliviada do que tudo por<n>não ter te dado nenhum\ntrabalho!",
+            "choice_data_list": [
+                "O quê? Você nunca me dá trabalho!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Não, mas tipo, dou sim! E dei! Lembra<n>do outro\ndia?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Você tava planejando adiantar o seu<n>trabalho,\nmas largou tudo só para me<n>ajudar a vender\naquele leite todo."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "E não foi só essa vez. Você tá<n>sempre colocando\nas minhas<n>vontades e necessidades na frente\ndas suas."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Fico feliz e super agradecida por você<n>sempre me\napoiar, de verdade! Mas<n>tipo..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Não quero que você continue me<n>priorizando se\nisso significar deixar<n>as suas próprias vontades e\nnecessidades de lado."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Então... é! Por isso decidi tomar mais<n>cuidado com\nisso daqui em diante!",
+            "choice_data_list": [
+                "Palmer..."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Acho que você já leu meus<n>pensamentos, né?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Eu tava mesmo tentando agir<n>naturalmente e tal,\nmas o seu sexto<n>sentido não é brincadeira!",
+            "choice_data_list": [
+                "Você não precisa se preocupar comigo.",
+                "Você não precisa se preocupar comigo."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hã?",
+            "choice_data_list": [
+                "Te apoiar é a minha razão de viver.",
+                "Te apoiar é a minha razão de viver.",
+                "Vamos continuar agindo como sempre.",
+                "Vamos continuar agindo como sempre."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hã?",
+            "choice_data_list": [
+                "Te apoiar é a minha razão de viver.",
+                "Te apoiar é a minha razão de viver.",
+                "Vamos continuar agindo como sempre.",
+                "Vamos continuar agindo como sempre."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Treinador..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ah... É, entendi. Quer dizer, mesmo<n>quando..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Pera, para tudo. O que você acabou<n>de dizer?",
+            "choice_data_list": [
+                "Ué, \"Te apoiar é a minha razão de viver\"?",
+                "Ué, \"Te apoiar é a minha razão de viver\"?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Isso aí! Você tem noção do que<n>acabou de falar?",
+            "choice_data_list": [
+                "Ter noção... de quê, exatamente?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ahaha! Cara, você é tão desligado às<n>vezes! Não\nque isso seja ruim."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Enfim, vou entrar agora! Até amanhã!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto vejo Mejiro Palmer voltar<n>correndo\npara o dormitório, só posso<n>torcer para que ela\ntenha entendido o<n>que tentei dizer."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Treinador..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hehe! É, nós dois estávamos agindo\nsuperesquisitos hoje, né?",
+            "choice_data_list": [
+                "Acho que deveríamos ser apenas nós mesmos."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "É, tô contigo nessa!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Chega de pisar em ovos! Você é você<n>e eu sou\neu. Agora quero ouvir um<n>\"Weeei!\" bem forte!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Finalmente, a Mejiro Palmer de<n>sempre está de\nvolta. Que alívio."
+        }
+    ]
+}

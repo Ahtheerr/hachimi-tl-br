@@ -1,0 +1,361 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Mejiro Palmer e eu estamos a<n>caminho de casa\napós uma corrida,<n>quando..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Tem um monte de gente ali na frente...<n>Cê acha\nque tá rolando uma<n>liquidação ou algo assim?"
+        },
+        {
+            "name": "Atendente da Rifa",
+            "text": "Venham todos e tentem a sorte na<n>nossa rifa de\nAno Novo! O grande<n>prêmio deste ano é uma\nviagem para<n>as fontes termais para duas\npessoas!",
+            "color_text_info_list": [
+                "viagem para as fontes termais"
+            ]
+        },
+        {
+            "name": "Atendente da Rifa",
+            "text": "Os vencedores do primeiro prêmio<n>ganham um\nbife de hambúrguer de<n>cenoura deluxe! Os do\nsegundo<n>prêmio ganham um caixote de<n>cenouras!\nE os do terceiro prêmio<n>podem levar pra casa uma\núnica<n>cenoura!"
+        },
+        {
+            "name": "Atendente da Rifa",
+            "text": "Não deixem essa oportunidade<n>passar! Por que\nnão tentam a sorte?<n>Sim, <i>você</i> mesma, de\ncabelo preso!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ah, uma rifa! Não tem como eu dizer<n>não se você\ntá pedindo! Bora lá!",
+            "choice_data_list": [
+                "Você tem um bilhete?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Mas é claro que sim! Eu ganhei um<n>quando\npaguei no campo de golfe<n>mais cedo."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Eu sou tipo aquelas pessoas que<n><i>precisam</i> ter\ntodos os bilhetes e<n>cartões de fidelidade comigo o\ntempo<n>todo. Haha..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Hábitos tão mundanos e cotidianos<n>como esse\npodem não ser típicos de<n>uma dama nobre, mas\nsão super<n>típicos da Mejiro Palmer."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Vamo puxar a alavanca juntos!<n>Segura firme!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hora de começar a festa! Me dá um<n>prêmio bom!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Animados, Mejiro Palmer e eu<n>giramos a\nalavanca juntos."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uma pequena bola de plástico cai da<n>abertura do\nsorteador..."
+        },
+        {
+            "name": "Atendente da Rifa",
+            "text": "Minha nossa! Temos uma vencedora<n>do grande\nprêmio! Venha pegar o seu<n>cupom para a viagem\npara as fontes<n>termais! Parabéns!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "F-Fontes termais?! Mentiraaa! Eu<n>realmente\nganhei o prêmio principal?!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Caraca! Não achei que entrar na<n>emoção fosse\nrealmente me dar a<n>festa das fontes termais."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Eita, a minha energia de festeira tá<n>saindo de\ncontrole! Eu preciso me<n>acalmaaar. Inspiraaaa,\nexpiraaaa...",
+            "choice_data_list": [
+                "Parabéns! Isso é muito da hora!",
+                "Parabéns! Isso é muito da hora!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "S-Sim, valeu... Tô mega feliz, mas tipo,<n>também me\nsinto meio pressionada<n>agora."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Se eu vou, tenho que fazer direito.<n>Agora tenho\nque pesquisar umas<n>coisas da região, fazer um\nitinerário...",
+            "choice_data_list": [
+                "Você não precisa fazer tudo isso."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Não... preciso? Mas sempre que a<n>família Mejiro\nsai, sou praticamente<n>sempre eu que faço todo o\ntrabalho<n>de preparação..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela não vai conseguir relaxar se fizer<n>tudo isso.\nEntão...",
+            "choice_data_list": [
+                "Você está proibida de fazer qualquer trabalho\nlogístico. Seu único trabalho lá vai ser se divertir."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Uau, quer dizer que eu posso só<n>curtir, zero\ntrabalho?! Pô, isso é muito<n>top. Mas... eu posso\nmesmo?"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Digo, eu sempre fiz <i>alguma coisa</i><n>pra esse tipo\nde passeio, então acho<n>que não vou conseguir só\nficar de<n>boa..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Eu tenho que fazer alguma coisa pra<n>pelo menos\nnão me sentir culpada...<n>Ah, já sei!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Que tal eu fazer dessa viagem uma<n>recompensa\npra mim mesma se eu<n>mandar bem na Twinkle\nSeries? Acho<n>que assim eu posso relaxar de boa.",
+            "choice_data_list": [
+                "É, vai nessa.",
+                "É, vai nessa."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Então tá combinado! Vou ralar muito<n>pra poder\nfazer a festa nas fontes<n>termais depois!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Aí siiim! Agora eu tô no hype de novo!<n>Beleeza!\nBora lá!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro Palmer está ardendo de<n>motivação. Agora\nela tem um ótimo<n>objetivo para mirar depois de\nsua<n>grande corrida!"
+        },
+        {
+            "name": "Atendente da Rifa",
+            "text": "Parece que temos outra vencedora do<n>primeiro\nprêmio! Parabéns! Você<n>ganhou um bife de\nhambúrguer de<n>cenoura deluxe!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Uuuh! Que achado! Parece bem<n>suculento!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Esse hambúrguer parece bom, mas o<n>molho que\nvem com ele parece um<n>pouco forte demais pro\nmeu paladar."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Cê acha de boa se eu mesma<n>temperar?",
+            "choice_data_list": [
+                "Que tal colocar um pouco de sal?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "É, pode ser... mas só sal pode ficar<n>meio sem\ngraça."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ah, já sei! Deixa eu usar a sua<n>cozinha."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Se você topar, eu vou ser nossa chef<n>hoje à\nnoite!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Tsssh!</i>"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Prontinhooo! Aqui, prova um pouco.<n>Eu temperei\nsó com um pouco de<n>shoyu e cebola."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por insistência dela, eu dou uma<n>mordida..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "E aí? Como tá?",
+            "choice_data_list": [
+                "Tem um sabor bem refrescante! Eu gostei!"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Haha! Né?! Não é nada chique, mas é<n>bem\nsaudável já que tem pouco<n>sódio."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Acho que também vou querer um<n>pouco. Fiz um\npouco de arroz e sopa<n>também, então fica à\nvontade!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro Palmer transforma seu bife de\nhambúrguer deluxe em um banquete<n>improvisado\ncompleto."
+        },
+        {
+            "name": "Atendente da Rifa",
+            "text": "Temos uma vencedora do segundo<n>prêmio! É o\nseu dia de sorte! Você vai<n>pra casa com um\ncaixote de<n>cenouras!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Oooh, nada mal! Olha quantas a gente<n>ganhou!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Hm... Eu teria trazido um carrinho ou<n>algo assim\nse eu soubesse que a<n>gente ia ganhar tudo isso.",
+            "choice_data_list": [
+                "Carrinho? Você quer dizer carro?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Não, eu digo um carrinho de golfe.<n>Seria bem mais\nfácil levar tudo isso<n>de volta pro dormitório se a\ngente<n>tivesse um."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Não que eu tenha um carrinho de<n>golfe ou um\ncarro, né. Pode apostar<n>que eu ia dar uns rolês\ndirigindo o<n>tempo todo se eu tivesse."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Bom, não adianta ficar aqui sonhando<n>com os\n\"se\", \"quem sabe\" e<n>\"poderia\". Vou ter que\ncarregar tudo<n>sozinha mesmo!",
+            "choice_data_list": [
+                "Eu ajudo! Nós dois podemos carregar."
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Tem certeza? Eu sou do tipo que faz<n>tudo\nsozinha..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Mas já que cê tá oferecendo, acho<n>que vou\naceitar. Vamo carregar<n>juntos!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Levamos as cenouras de volta para o<n>meu\nescritório e decidimos cozinhar<n>uma por uma."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "<i>Nhom!</i> Hm... Mm..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Huum! Elas tão tão doces e<n>deliciosas!\nEspecialmente depois de<n>ralar tanto pra carregar\nelas até aqui!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Come você também, Treinador! Cê<n>tem que ser\npago direito pelo seu<n>trabalho."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela insiste, então eu experimento<n>uma. Assim\ncomo a Mejiro Palmer<n>disse, o sabor fica extra\ndelicioso<n>depois de todo aquele trabalho<n>pesado."
+        },
+        {
+            "name": "Atendente da Rifa",
+            "text": "Ora, ora, vejam só! Você ganhou o<n>terceiro\nprêmio! Aqui está sua<n>cenoura!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Aaaa, só uma? Poxa, eu achei que a<n>gente tinha\ncolocado uma energia boa<n>nisso."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Bom, que seja. Cenouras dão sorte<n>na minha\nopinião.",
+            "choice_data_list": [
+                "Como assim?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Dá uma olhada de perto. O formato te<n>lembra o\nquê?",
+            "choice_data_list": [
+                "Ahn... um foguete?"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Aah, cê acertou! É um foguete! E um<n>foguete\nsignifica uma largada de<n>foguete."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Eu costumo ganhar minhas corridas<n>disparando\ndos portões igual a um<n>foguete e depois\nmacetando na fuga."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Não é um jeito ruim de ver a coisa,<n>né?! É isso\nque eu chamo de<n>pensamento positivo!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Bora comer ela no caminho de casa."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O prêmio não é lá grande coisa, mas a<n>Mejiro\nPalmer não parece muito<n>incomodada com isso."
+        },
+        {
+            "name": "Atendente da Rifa",
+            "text": "Ohhh, que falta de sorte! Parece que<n>você tirou\numa em branco! Pegue<n>este pacote de lenços\ncomo prêmio<n>de consolação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Nossa... Mentira..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Ei, Treinador... Só tem uma coisa a se<n>fazer num\nmomento desses."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Quando você se depara com uma<n>realidade com a\nqual simplesmente<n>não consegue lidar, tudo o que\nvocê<n>tem que fazer é..."
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Fugiirrrr! Eu não vi nada! Nada! Eu<n>não aceito!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Lenço nenhum aqui! Naaada!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela afirma não ter visto nada, mas a<n>Mejiro\nPalmer ainda parece bem<n>chateada."
+        }
+    ]
+}

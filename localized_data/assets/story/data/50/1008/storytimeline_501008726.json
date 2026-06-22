@@ -1,0 +1,55 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certo dia, enquanto eu saía com<n>Vodka..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Treinador! Olha!",
+            "choice_data_list": [
+                "O que foi?",
+                "O que foi?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Ali! Olha aquela máquina de garra!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vodka aponta para uma máquina de<n>garra cheia\nde pelúcias de<n>Umamusume."
+        },
+        {
+            "name": "Vodka",
+            "text": "Eu não sabia que faziam coisas<n>assim! Isso é tão\nirado!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Tem tantas! E capturaram mesmo as\ncaracterísticas de todo mundo!"
+        },
+        {
+            "name": "Vodka",
+            "text": "...Mas não vai entender errado. Não<n>tem como eu\nme interessar por<n>pelúcias!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela pode dizer isso, mas Vodka<n>parece claramente\ninteressada na<n>máquina de garra.",
+            "choice_data_list": [
+                "Eu poderia tentar."
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Sério?! ...Ah, hum, quer dizer..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Se você quer tanto... eu pego qualquer<n>pelúcia que\nvocê ganhar, então pode<n>tentar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Agora não tem como eu falhar!"
+        }
+    ]
+}

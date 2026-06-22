@@ -1,0 +1,31 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Estou na academia cedo numa<n>manhã, ainda\nbocejando sozinho,<n>quando avisto Daiwa Scarlet."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Bom dia, Treinador. Sou a primeira a<n>chegar na\nescola de novo!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Uma aluna exemplar sempre dorme<n>cedo e acorda\ncedo. Tive meu sono<n>de beleza ontem à noite, e\nagora<n>minha pele está impecável!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Enquanto isso, <i>alguém</i> não para de<n>bocejar.\nFoi dormir tarde demais?",
+            "choice_data_list": [
+                "Eu estava trabalhando no nosso programa de\ntreino..."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ah? E-entendi..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Então hoje você vai dormir cedo,<n>ouviu? Não\nposso deixar você<n>desabar em cima de mim!"
+        }
+    ]
+}

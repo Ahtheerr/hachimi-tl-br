@@ -1,0 +1,31 @@
+{
+    "text_block_list": [
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Bocejo...</i> Mmm..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ack! A-aquilo não foi um bocejo! Eu<n>só estava,\nhum... fazendo exercícios<n>de respiração profunda!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Isso me lembra que tenho quase<n>certeza de que\nela mencionou uma<n>prova chegando.",
+            "choice_data_list": [
+                "Você passou a noite estudando?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Grr! Por que você acerta na mosca<n>nas horas\nmais esquisitas?!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Bem, você não vai me pegar<n>bocejando uma\nsegunda vez! Pode<n>olhar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Fiel à palavra, ela não boceja de<n>novo, embora eu\nperceba que isso<n>exige muito esforço."
+        }
+    ]
+}

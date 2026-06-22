@@ -1,0 +1,566 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certo dia, levo <chrname> à<n>enfermaria\npara um exame."
+        },
+        {
+            "name": "???",
+            "text": "Ah! Uma clien―quer dizer, uma aluna!<n>Olá!"
+        },
+        {
+            "name": "???",
+            "text": "Está machucada? Doente?<n>Estressada? Seja o\nque for, eu trato<n>tudo!",
+            "choice_data_list": [
+                "Quem é você?!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Bem, considerando que você está na<n>enfermaria\nda academia, eu diria que<n>isso faz de mim sua\nconfiável<n>enfermeira escolar! Isso, só uma\nfuncionária comum da escola!",
+            "choice_data_list": [
+                "...Não, você não é?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ahaha! Acho que não consigo<n>enganar você.\nSuponho que devo<n>começar me apresentando."
+        },
+        {
+            "name": "???",
+            "text": "Ahem! Permitam que eu me<n>apresente!"
+        },
+        {
+            "name": "???",
+            "text": "Eu sou a (provável) salvadora de<n>todas as\nUmamusume, a<n>acupunturista lendária\n(autoproclamada) com o toque<n>mágico..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "A única e inigualável Sasami<n>Anshinzawa! Viu?\nSem pânico! ☆",
+            "choice_data_list": [
+                "..."
+            ],
+            "color_text_info_list": [
+                "Sasami Anshinzawa"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nossa! Você parece bem preocupada!<n>☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não importa! Não importa! Já fomos<n>devidamente\napresentadas, então<n>deite-se e deixe minhas\nagulhas<n>trabalharem!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "O quê? De onde saiu isso? O que<n>você vai fazer\ncomigo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Hahaha! Não precisa se assustar!<n>Tudo que vou\nfazer é inserir estas<n>agulhas extraordinárias\nprecisamente<n>nos seus pontos de chakra."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então voilà, presto! Algo indescritível<n>vai\nacontecer!",
+            "choice_data_list": [
+                "(Isso é indescritivelmente suspeito...)"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E eu garanto que não há<n>absolutamente nada de\nsuspeito<n>nisso! Nunca deu nada menos que\nperfeitamente certo!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "...Para o meu mestre.",
+            "choice_data_list": [
+                "Para o seu mestre?! E para você?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não se aflija! Esta é minha primeira<n>vez, então\ntecnicamente eu também<n>nunca falhei com uma\npaciente!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E não é como se eu não tivesse<n>experiência!\nPassei dez anos sob a<n>tutela de um mestre\nlendário,<n>buscando bebi—quer dizer, treinando!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Viu? Sem pânico! ☆",
+            "choice_data_list": [
+                "(Precisamos dar o fora daqui, urgente!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não tem como fazermos isso. Pego\n<chrname> e sigo para a<n>porta, quando..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E-espera! Aonde vocês vão?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Você é Daiwa Scarlet, não é? A<n>Umamusume que\nnunca aceita menos<n>que o primeiro lugar? A futura\nnúmero<n>um?",
+            "choice_data_list": [
+                "Você já ouviu falar dela?"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Se já ouvi falar dela? Claro que sim!<n>Sou uma\ngrande fã!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "É exatamente por isso que estou<n>aqui! Para dar\nmeu apoio! Deixe-me<n>ajudar!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Me dê só uma chance! Por favooor!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "O que fazemos, Treinador? Ela é<n>definitivamente\nsuspeita, mas..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Por favor! Por favorzinho com<n>cenoura em cima!\nAté deixo você<n>escolher qual chakra eu ativo!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Tenho <i>certeza</i> de que não vou<n>errar!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem... quase certeza.",
+            "choice_data_list": [
+                "<i>Quase</i> certeza?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Quero dizer, está mais para certeza!<n>Isso é <i>bom,</i>\nnão é? Enfim, não se<n>prendam aos detalhes!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Vamos ao que interessa! Qual chakra<n>devo ativar?\nQuerem um aumento nas<n>suas habilidades? Na\nsua saúde? Ou<n>talvez no seu <i>charme?</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto cheiro de perigo no ar, mas<n>imagino que\ntalvez—e enfatizo<n><i>talvez</i>—exista uma chance de\ntirar<n>algo especial deste tratamento."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O que devemos fazer?",
+            "choice_data_list": [
+                "Ativar o chakra da força.",
+                "Ativar o chakra da vitória.",
+                "Ativar o chakra da saúde.",
+                "Ativar o chakra do charme.",
+                "Isso é suspeito demais. Vamos parar enquanto\nainda dá."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então você quer<n>que eu ative o\nchakra da força?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Depois não\ntem volta!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espera, calma."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Muito bem, deixe comigo! Hora de<n>localizar esse\nchakra! Saiam, saiam,<n>onde estiverem!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, é só relaxaaaar... Viu? Sem<n>pânico! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee picadinha!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ai!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Treinador!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Estou pronta para treinar! Deixe-me<n>mostrar do\nque uma corredora<n>número um é capaz de\nverdade!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> Só pode ser brincadeira...<n>Funcionou\nmesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não é possííível! Não acredito! Eu sou<n>um gênio\ntotal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<chrname> está<n>transbordando tanto\npoder que mal<n>parece a mesma!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e deu certo! Este é um<n>grande salto\nrumo ao nosso objetivo!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "T-Treinador..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Urp... Estou me sentindo... muito<n>tonta..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição de <chrname><n>piora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem, olha só a hora! Tenho que ir<n>andando!\nTchau! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia ter desconfiado antes de<n>testar nossa\nsorte. Não sou eu quem<n>está sofrendo, mas estou\ncheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então você quer<n>que eu ative o\nchakra da vitória?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Depois não\ntem volta!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espera, calma."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Muito bem, deixe comigo! Hora de<n>localizar esse\nchakra! Saiam, saiam,<n>onde estiverem!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, é só relaxaaaar... Viu? Sem<n>pânico! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee picadinha!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ai!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Treinador!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Estou pronta para treinar! Deixe-me<n>mostrar do\nque uma corredora<n>número um é capaz de\nverdade!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> Só pode ser brincadeira...<n>Funcionou\nmesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não é possííível! Não acredito! Eu sou<n>um gênio\ntotal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Consigo sentir uma enorme melhora<n>nas\nhabilidades de<n><chrname>!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e deu certo! Este é um<n>grande salto\nrumo ao nosso objetivo!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "T-Treinador..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Urp... Estou me sentindo... muito<n>tonta..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição de <chrname><n>piora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem, olha só a hora! Tenho que ir<n>andando!\nTchau! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia ter desconfiado antes de<n>testar nossa\nsorte. Não sou eu quem<n>está sofrendo, mas estou\ncheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então você quer<n>que eu ative o\nchakra da saúde?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Depois não\ntem volta!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espera, calma."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Muito bem, deixe comigo! Hora de<n>localizar esse\nchakra! Saiam, saiam,<n>onde estiverem!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, é só relaxaaaar... Viu? Sem<n>pânico! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee picadinha!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ai!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Treinador!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Estou pronta para treinar! Deixe-me<n>mostrar do\nque uma corredora<n>número um é capaz de\nverdade!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> Só pode ser brincadeira...<n>Funcionou\nmesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não é possííível! Não acredito! Eu sou<n>um gênio\ntotal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O corpo inteiro de <chrname><n>está\nirradiando um brilho saudável!<n>Ela é a imagem\nperfeita da saúde!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e deu certo! Este é um<n>grande salto\nrumo ao nosso objetivo!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "T-Treinador..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Urp... Estou me sentindo... muito<n>tonta..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição de <chrname><n>piora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem, olha só a hora! Tenho que ir<n>andando!\nTchau! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia ter desconfiado antes de<n>testar nossa\nsorte. Não sou eu quem<n>está sofrendo, mas estou\ncheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendo, entendo. Então você quer<n>que eu ative o\nchakra do charme?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Está pronta?<n>Depois não\ntem volta!",
+            "choice_data_list": [
+                "Pode ir.",
+                "Espera, calma."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Muito bem, deixe comigo! Hora de<n>localizar esse\nchakra! Saiam, saiam,<n>onde estiverem!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, é só relaxaaaar... Viu? Sem<n>pânico! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eee picadinha!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ai!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perfuração Perfeita!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Treinador!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Estou pronta para treinar! Deixe-me<n>mostrar do\nque uma corredora<n>número um é capaz de\nverdade!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> Só pode ser brincadeira...<n>Funcionou\nmesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não é possííível! Não acredito! Eu sou<n>um gênio\ntotal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<chrname> está<n>transbordando charme!\nEla com<n>certeza vai chamar atenção por onde\npassar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e deu certo! Este é um<n>grande salto\nrumo ao nosso objetivo!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "T-Treinador..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Urp... Estou me sentindo... muito<n>tonta..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A condição de <chrname><n>piora\nrapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então... É isso, eu acho..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bem, olha só a hora! Tenho que ir<n>andando!\nTchau! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia ter desconfiado antes de<n>testar nossa\nsorte. Não sou eu quem<n>está sofrendo, mas estou\ncheio de<n>arrependimento."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Aaah, qual é! Não seja assim!",
+            "choice_data_list": [
+                "Recusar.",
+                "Reconsiderar."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> processados!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! Fui descoberta!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, tô fora daqui! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Pare aí mesmo!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...E lá se foi ela. Eu sabia que ela<n>estava tramando\ncoisa errada.<n>Fizemos bem em recusar."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Além disso, o lugar de número um<n>não significa\nnada se eu não chegar<n>lá de forma justa!",
+            "choice_data_list": [
+                "Concordo.",
+                "Concordo."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Estou curioso sobre quem essa tal<n>Anshinzawa\nrealmente é, mas não<n>adianta ficar remoendo isso.\nMelhor<n>esquecer o que aconteceu hoje e<n>seguir\nem frente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Mudou de ideia, foi? Sem pânico,<n>acontece!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então pode me dizer qual chakra quer<n>que eu\native!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E então?! Não nos deixe em<n>suspense! Espera\num segundo... Faz<n>quanto tempo que estou aqui?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> processados!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! Fui descoberta!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, tô fora daqui! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Pare aí mesmo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A situação dá uma guinada brusca<n>antes que eu\nconsiga tomar uma<n>decisão."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O que foi tudo aquilo?<n><chrname> e eu\nnos<n>entreolhamos, perplexos."
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Na manhã do meu dia de folga, vejo<n>Daiwa\nScarlet em frente à farmácia."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Gah! Treinador?! Pare aí mesmo! Não<n>chegue\nperto de mim!",
+            "choice_data_list": [
+                "Hã? Por que não?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Urgh... Bem... É que... eu estou com<n>uma espinha\nna testa."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "E olha que fiz questão de vir bem<n>cedinho para\nnão encontrar ninguém<n>conhecido... Que sorte a\nminha."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Enfim, é isso. Tchau!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Daiwa Scarlet parece estar sofrendo<n>com\nproblemas de pele..."
+        }
+    ]
+}

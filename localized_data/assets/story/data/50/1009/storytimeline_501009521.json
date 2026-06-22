@@ -1,0 +1,32 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Estou indo para minha sala certa<n>manhã quando\nvejo Daiwa Scarlet."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ngh... Você pega a frequência<n>relativa... e então,\npara obter a<n>acumulada... você... você, hã...\n<i>Bocejo...</i>",
+            "choice_data_list": [
+                "O que você está fazendo?",
+                "O que você está fazendo?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ah! B-bom di—"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ah... é só você. Não está vendo que<n>estou\nestudando? Tenho uma prova...<n>chegando..."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Bocejo...</i> Alunas exemplares...<n>precisam tirar\nnota máxima... Não<n>tenho tempo... para... dormir..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que ela mal dormiu.<n>Provavelmente devo\naliviar um pouco<n>sua carga de trabalho."
+        }
+    ]
+}

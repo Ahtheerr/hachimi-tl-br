@@ -1,0 +1,35 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "O treino ainda não começou, mas<n>Vodka não\nparece muito bem..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Arghhh... Aiii...",
+            "choice_data_list": [
+                "Devemos cancelar o treino?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "N-não! Não podemos fazer isso!<n>Como se eu\nfosse fazer algo tão<n>patético!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Sem dor, sem ganho! Isso é que é<n>irado!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Hora de ir direto pro treino! Consigo<n>superar isso\nnuma boa!"
+        },
+        {
+            "name": "Vodka",
+            "text": "Nghhh! M-minha cabeça!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vodka sofre para aguentar suas<n>dores de cabeça\nlancinantes durante<n>toda a nossa sessão de\ntreino."
+        }
+    ]
+}

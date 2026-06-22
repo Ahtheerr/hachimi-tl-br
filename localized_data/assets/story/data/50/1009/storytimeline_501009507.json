@@ -1,0 +1,38 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certo dia, Daiwa Scarlet recebe uma<n>carta de fã."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "A-ah? Uma carta de fã? Para mim?",
+            "choice_data_list": [
+                "Você parece feliz."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hehe! Se quer saber, deveriam estar<n>chegando\npilhas dessas!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "A futura número um jamais ficaria<n>toda animada\nsó por uma carta.",
+            "choice_data_list": [
+                "Você está com um sorriso <i>enorme</i>."
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "V-você está vendo coisas! Vamos,<n>está na hora de\ntreinar!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "...Vou dar orgulho a todos os meus<n>fãs\nadoradores."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Daiwa Scarlet fica de ótimo humor o<n>dia inteiro."
+        }
+    ]
+}

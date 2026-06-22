@@ -1,0 +1,58 @@
+{
+    "text_block_list": [
+        {
+            "name": "Locutor",
+            "text": "Finalmente chegou o grande dia,<n>pessoal! A\nprimeira corrida da Tríplice<n>Tiara!"
+        },
+        {
+            "name": "Locutor",
+            "text": "Qual das corredoras de hoje<n>conquistará os\nlouros de sakura e<n>subirá os degraus rumo ao\ntrono da<n>Rainha?"
+        },
+        {
+            "name": "Comentarista",
+            "text": "Vimos faíscas voarem entre Vodka e<n>Daiwa\nScarlet durante o Tulip Sho, e<n>isso pode muito bem\nacontecer de<n>novo hoje!"
+        },
+        {
+            "name": "Comentarista",
+            "text": "Será um duelo entre as duas estrelas<n>em\nascensão da turnê da Tiara. É<n>uma corrida que\nvocê não vai querer<n>perder!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "<i>Suspiro...</i>",
+            "choice_data_list": [
+                "Está nervosa?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Hmph! Claro que não. Se quer saber,<n>estou\nempolgada."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Quando eu vencer esta corrida, vou<n>estar ainda\nmais perto do topo."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Sem falar que ela também vai correr.",
+            "choice_data_list": [
+                "Ela quem?"
+            ]
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "A Vodka, óbvio!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Só pra deixar claro: eu não me<n>importo nem um\npouco com ela!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "A primeira Tiara já tem o meu nome!<n>Eu vou ser a\nnúmero um!"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Muito bem, então. Hora de tomar o<n>trono!"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "A discussão deixa um impacto<n>duradouro em\nDaiwa Scarlet, cujo<n>desempenho na pista começa\na<n>despencar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sua corrida reflete a ansiedade em<n>seu coração.\nAo ver a condição dela,<n>decido...",
+            "choice_data_list": [
+                "Inscrevê-la no Japanese Oaks.",
+                "Inscrevê-la no Derby Japonês."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Decido me manter no caminho que<n>Daiwa Scarlet\nescolheu e me<n>preparar para o Japanese Oaks,\nmirando a conquista da turnê da<n>Tiara."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Preparo-me para inscrevê-la no<n>Derby Japonês,\nonde ela enfrentará<n>Vodka.",
+            "color_text_info_list": [
+                "Japanese Derby"
+            ]
+        }
+    ]
+}

@@ -1,148 +1,148 @@
 {
     "text_block_list": [
         {
-            "name": "モノローグ",
-            "text": "今日は、以前タイキシャトルに誘われた<n>映画撮影の手伝いに来ている。"
+            "name": "Monólogo",
+            "text": "Hoje, voltei ao set para ajudar no<n>filme da Taiki\nShuttle."
         },
         {
-            "name": "タイキシャトル",
-            "text": "いよいよクライマックスの撮影デスネ！ 見せ場のアクション、\nパーフェクトに決めてみせマ～～～ス！"
+            "name": "Taiki Shuttle",
+            "text": "Finalmente vamos filmar o clímax<n>cheio de ação!\nPode apostar que vou<n>mandar bem nessa\nperformance!"
         },
         {
-            "name": "監督",
-            "text": "ようやくここまで来ました！<n>重要なこの場面……絶対に成功させて――"
+            "name": "Diretor",
+            "text": "Chegamos longe, pessoal! Hoje é<n>um dia muito\nimportante no set, então<n>vamos dar o nosso\nmelhor e fazer<n>tudo certi—"
         },
         {
-            "name": "監督",
-            "text": "あ、雨……！？ まずい！<n>みんな、セットをいったん撤収しよう……！"
+            "name": "Diretor",
+            "text": "Isso é... chuva?! Só pode ser<n>brincadeira! Pessoal,\nrápido, guardem<n>o set!"
         },
         {
-            "name": "撮影スタッフA",
-            "text": "なんとか止んだけど、またいつ降るか。<n>この足場でアクションは厳しそうだよね……。"
+            "name": "Membro da Equipe de Câmera A",
+            "text": "Parece que deu uma acalmada por<n>enquanto, mas\npode voltar a chover.<n>Vai ser difícil filmar uma cena\nde ação<n>nessas condições."
         },
         {
-            "name": "撮影スタッフB",
-            "text": "延期……も、厳しいよね？ スケジュールも予算もギリギリだしさ。",
+            "name": "Membro da Equipe de Câmera B",
+            "text": "Vai ser ainda pior se tivermos que<n>adiar a\nfilmagem. Estamos no limite<n>tanto do prazo quanto\ndo orçamento.",
             "choice_data_list": [
-                "（だいぶまずい状況だな……）",
-                "（だいぶまずい状況だけど……）"
+                "(As coisas estão ficando bem feias...)",
+                "(As coisas estão ficando bem feias...)"
             ]
         },
         {
-            "name": "監督",
-            "text": "……タイキさん、みなさん。 ワンテイクだけ、お願いできますか。\n一撃が勝負を分かつ、この決闘のシーン――"
+            "name": "Diretor",
+            "text": "Certo, pessoal. Vamos ter que fazer<n>isso em uma\ntomada. É uma cena de<n>ação em que um único\ndisparo faz<n>toda a diferença..."
         },
         {
-            "name": "監督",
-            "text": "まさに、一発撮りで仕留めましょう……！"
+            "name": "Diretor",
+            "text": "Então vamos usar <i>nosso</i> único<n>disparo pra\nacertar em cheio!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "グレイト！ 雨上がりの決闘シーン、 クールですね！<n>みんな、撮影再開デス！",
+            "name": "Taiki Shuttle",
+            "text": "Um duelo sob o céu de tempestade!<n>Awesome!\nBora rodar as câmeras,<n>pessoal!",
             "choice_data_list": [
-                "了解です……！"
+                "Entendido!"
             ]
         },
         {
-            "name": "撮影スタッフ",
-            "text": "本番カウントダウン行きます……！ 10秒前、9、8、7――"
+            "name": "Membro da Equipe de Câmera",
+            "text": "Lá vamos nós! Gravando em dez,<n>nove, oito,\nsete..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "（伸るか反るかの一発勝負。……オゥ、<n>脚がピリッとしてきマシタ。この感覚は――）"
+            "name": "Taiki Shuttle",
+            "text": "(É tudo ou nada. Heh... Minhas<n>pernas tão\ncomeçando a formigar.<n>Conheço bem essa\nsensação...)"
         },
         {
-            "name": "タイキシャトル",
-            "text": "フフッ、ゲートインの時みたいデス。<n>強敵を前に、脚【リボルバー】を回す。"
+            "name": "Taiki Shuttle",
+            "text": "Heheh. É igual entrar no starting gate.<n>Ficar diante\nde um adversário forte e<n>girar o tambor do\nrevólver."
         },
         {
-            "name": "タイキシャトル",
-            "text": "Seize the day―― 今を、全力で、夢中で――"
+            "name": "Taiki Shuttle",
+            "text": "Eu só preciso aproveitar o dia. Estar<n>no agora,\ncom tudo que tenho, focada<n>no que tá na minha\nfrente..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "この挑戦を楽しみまショウ……！"
+            "name": "Taiki Shuttle",
+            "text": "Hora de avançar e curtir o desafio!"
         },
         {
-            "name": "撮影スタッフ",
-            "text": "アクションッ！"
+            "name": "Membro da Equipe de Câmera",
+            "text": "Ação!"
         },
         {
-            "name": "モノローグ",
-            "text": "（バキュウゥン！ バキュウウウン！）"
+            "name": "Monólogo",
+            "text": "<i>Bang! Bang!</i>"
         },
         {
-            "name": "撮影スタッフ",
-            "text": "すごい……。 タイキさんの表情……。",
+            "name": "Membro da Equipe de Câmera",
+            "text": "Ah, uau... Olha a expressão da Taiki...",
             "choice_data_list": [
-                "（凄まじい集中力……）"
+                "(Ela tá mesmo na zona...)"
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "鬼気迫る表情で演じるタイキシャトル。<n>泥を跳ね散らし、駆け回る彼女の姿に\nただただ圧倒されていた、その時――",
+            "name": "Monólogo",
+            "text": "A lama voa enquanto Taiki Shuttle<n>avança pela\ncena com uma<n>expressão de determinação feroz\nno<n>rosto, quando de repente...",
             "choice_data_list": [
-                "（あ、危ないっ……！）"
+                "(Ah, não!)"
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "ふいに、タイキシャトルが深い泥濘に<n>脚を踏み入れ、大きくよろめく。 だが――"
+            "name": "Monólogo",
+            "text": "Taiki Shuttle pisa numa poça funda de<n>lama e\ncambaleia com força. Porém..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "Yee-haw！！",
+            "name": "Taiki Shuttle",
+            "text": "Yeehaw!",
             "choice_data_list": [
-                "（立て直した！？なんてパワーだ……！）",
-                "（立て直した！？なんてパワー……！）"
+                "(Ela se segurou?! Que força absurda!)",
+                "(Ela se segurou?! Que força absurda!)"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "アハハッ！ ますます楽しくなってきマシタ！<n>ビッグハートで、仕留めマーーース！"
+            "name": "Taiki Shuttle",
+            "text": "Hahaha! Quase queria poder curtir<n>isso pra\nsempre! Mas receio que<n>este seja o fim da linha!"
         },
         {
-            "name": "モノローグ",
-            "text": "（バキュウウウン！）"
+            "name": "Monólogo",
+            "text": "<i>Bang!</i>"
         },
         {
-            "name": "敵役のガンマン",
-            "text": "う、うう……ば、バカな……。 貴様、足を取られたはず、じゃ――"
+            "name": "Ator Pistoleiro Inimigo",
+            "text": "Hrngh... Ngh... M-maldita seja... Achei<n>que tinha te\npegado direitinho ali..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "Hands up, crook. You're finished."
+            "name": "Taiki Shuttle",
+            "text": "Mãos ao alto, malandro. Cê tá<n>acabado."
         },
         {
-            "name": "監督",
-            "text": "……～～～ッ！ カットおおおッ！"
+            "name": "Diretor",
+            "text": "...! Cooorta!"
         },
         {
-            "name": "モノローグ",
-            "text": "『今、この瞬間』に賭けた、タイキシャトル。\n彼女の凄まじい気迫と集中力に圧倒された……<n>そんな撮影だった。そして――"
+            "name": "Monólogo",
+            "text": "Concentrando todo o seu ser no<n>agora, Taiki\nShuttle entrega uma<n>atuação de cair o queixo. E,\ncom isso,<n>as filmagens são concluídas."
         },
         {
-            "name": "映画祭の司会",
-            "text": "今年度の学生映画祭、 栄えあるグランプリ作品は――\nエントリーNo.2『ヤスダ牧場の決斗』です！"
+            "name": "Apresentador do Festival de Cinema",
+            "text": "E o prêmio de melhor filme estudantil<n>deste ano\nvai para... a inscrição<n>número dois, <i>Duelo no\nCurral<n>Yasuda</i> !"
         },
         {
-            "name": "タイキシャトル",
-            "text": "イエーーーーーーース！！ カントク、やりまシタ！！"
+            "name": "Taiki Shuttle",
+            "text": "Yeeeeesss! Parabéns, Diretor!"
         },
         {
-            "name": "監督",
-            "text": "や、やったっ……！！ やりましたね、タイキさんっ……！！",
+            "name": "Diretor",
+            "text": "C-conseguimos! Conseguimos<n>mesmo, Taiki!",
             "choice_data_list": [
-                "今度こそ本当におめでとう！"
+                "Parabéns de verdade desta vez!"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "オーライ！ こうしちゃいられまセン！<n>今晩はダンス＆ミートパーティーです～！！"
+            "name": "Taiki Shuttle",
+            "text": "All right! Não consigo me segurar!<n>Hoje à noite vai\nter festa com dança<n>e churrasco brisket!"
         },
         {
-            "name": "モノローグ",
-            "text": "明るくハッピーなタイキシャトルが隠し持つ<n>強さや激しさ――撮影を通じて、彼女の\n新たな一面を知ることができたのだった。"
+            "name": "Monólogo",
+            "text": "Por trás da energia alegre de Taiki<n>Shuttle existe\numa Umamusume de<n>força e intensidade. Fico\nfeliz por ter<n>participado do filme e visto um novo\nlado dela."
         }
     ]
 }

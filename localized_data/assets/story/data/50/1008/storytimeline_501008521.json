@@ -1,0 +1,35 @@
+{
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "A Vodka está no meu escritório,<n>supostamente\ncom algum pedido."
+        },
+        {
+            "name": "",
+            "text": "Escuta só, Treinador. Eu só dormi<n>quatro horas\nontem à noite!",
+            "choice_data_list": [
+                "O quê? Por quê?"
+            ]
+        },
+        {
+            "name": "Vodka",
+            "text": "Eu fiquei acordada treinando os<n>braços, e aí\nacabou ficando tarde pra<n>caramba."
+        },
+        {
+            "name": "Vodka",
+            "text": "Bom, quatro horas talvez não sejam<n>o bastante\npra alguns, mas pra mim é<n>mais que suficiente..."
+        },
+        {
+            "name": "Vodka",
+            "text": "<i>Booocejo...</i>"
+        },
+        {
+            "name": "Vodka",
+            "text": "Ah! Isso não foi porque eu tô com<n>sono nem nada!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Desde então, Vodka tem ficado<n>acordada até tarde\npara se gabar de<n>que não precisa dormir..."
+        }
+    ]
+}

@@ -10,6 +10,7 @@
 !Changelog.md
 !*.py
 !*.json
+!.github/workflows/*.yml
 !*.diff.png
 !.gitattributes
 !.gitignore

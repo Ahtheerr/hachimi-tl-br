@@ -1,0 +1,20 @@
+# Bloquear tudo por padrão
+*
+
+# Permitir a navegação em diretórios
+!*/
+
+# Permitir extensões e arquivos específicos
+!icon.png
+!README.md
+!Changelog.md
+!*.py
+!*.json
+!*.diff.png
+!.gitattributes
+!.gitignore
+
+# Manter arquivos de cache e sistema ignorados
+__pycache__/
+*.py[cod]
+.DS_Store

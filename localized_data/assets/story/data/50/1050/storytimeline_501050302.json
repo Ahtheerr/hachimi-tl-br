@@ -1,0 +1,446 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One day, as we're walking through<n>the shopping\ndistrict on the way<n>home..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Geez, that's loud..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with<n>our New\nYear's raffle! This year's<n>grand prize is a hot\nspring vacation<n>for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot<n>hamburger\nsteak! Second-prize<n>winners get a bushel of\ncarrots! And<n>third-prize winners can take home a\nsingle carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you<n>by! Get a ticket\nnow and spin for your<n>chance to win!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I received a raffle ticket earlier when I<n>bought\nsomething, which is perfect<n>because...",
+            "choice_data_list": [
+                "We gotta give this a try, Taishin!",
+                "We gotta give this a try, Taishin!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Why don't you just do it yourself?<n>I'm gonna\nhead home."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Those things are always rigged so<n>you don't\nactually win anything."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "That grand prize is nothing but a pipe<n>dream."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Oho! I see you've got your eyes on<n>the grand\nprize, miss! That's the<n>spirit! Dream big or go\nhome!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh?! I wasn't even—",
+            "choice_data_list": [
+                "That grand prize is ours!",
+                "That grand prize is ours!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh! Shut your piehole, dummy!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Narita Taishin spins the lever of the<n>raffle machine\nwith a somewhat<n>puckered expression."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A small plastic ball drops from the<n>tumbler's\nopening..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves<n>a\ngrand-prize winner! Come and get<n>the coupon for\nyour hot spring<n>vacation! Congratulations!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh? Seriously?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I actually won the hot spring trip?",
+            "choice_data_list": [
+                "Congratulations!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oh, uh, thanks..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Narita Taishin is so surprised that all<n>she can\nmanage is a genuine show<n>of gratitude."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Here. This belongs to you since it<n>was your raffle\nticket.",
+            "choice_data_list": [
+                "But you're the one who won the prize. You should\nget to enjoy it."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Fine."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ah, so that's why you're asking<n>which of us\nwould like to join you on<n>a trip."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Oooh, wow! A trip to a hot spring? I'd<n><i>love</i> to—"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Now, hold on, Ticket."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Bwah?!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You really need to be more sensitive<n>to your\nfriends' feelings."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "My apologies, Taishin. The two of us<n>will be busy\nfor the foreseeable<n>future, so I'm afraid we can't\ngo with<n>you."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "There's much to do after the Twinkle<n>Series as\nwell."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Besides, I'm sure there's someone<n>who would\nmake a far more fitting<n>travel companion."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "A what now? Who are you even<n>talking about?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Which would be more embarrassing<n>for you?\nHaving everyone spell it out<n>or having to figure it\nout yourself?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Nnngh!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I hate it when you do that, Hayahide."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe, do you? I love how awkward<n>you are,\nthough."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Later, Narita Taishin barges into my<n>office, rushes\nup to me, and shoves<n>the vacation ticket into my\nhands."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Shelve this."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "If I can't find anyone to go with me<n>by the\nexpiration date, then...",
+            "choice_data_list": [
+                "Then?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Then nothing! Anyway!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Just shelve it for now!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "And that's how I end up holding onto<n>the ticket for\nthe hot spring vacation."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize<n>winner!\nCongratulations! You get one<n>deluxe carrot\nhamburger steak!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Geez, it's enormous..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Right?! It's big enough to satisfy<n>even the\nhungriest Umamusume! And<n>I know how much\nyou guys like to<n>eat!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(This is way too much for me...)"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Oh, I know."
+        },
+        {
+            "name": "Monólogo",
+            "text": "That night, while I'm working in my<n>office..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Good, you're here. You have dinner<n>yet?",
+            "choice_data_list": [
+                "Not yet."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah? You better not tell me you<n>don't like\nBolognese."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Pre-cooked hamburger steaks are<n>just ground\nmeat once you smash<n>them up... So, yeah.",
+            "choice_data_list": [
+                "You made this with that carrot hamburger steak?!",
+                "You made this with that carrot hamburger steak?!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah. Is that a crime?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "The raffle ticket was yours, so you<n>should have a\nshare of this too."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Anyway, hurry up and eat before it<n>goes cold."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(I couldn't bring myself to cut the<n>hamburger\nsteak in half and share it<n>all chummy-like, but this...\nThis, I can<n>do.)"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Together, we eat the special<n>Bolognese pasta that\nTaishin made,<n>and it's absolutely delicious."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's<n>your lucky\nday! You're going home<n>with a bushel of carrots!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Holy crap, that's an insane amount of<n>carrots.\nWhat the hell am I supposed<n>to do with all these?"
+        },
+        {
+            "name": "",
+            "text": "Ugh... I guess there's only one thing I<n>can do."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Whoooaaa! I've never seen so many<n>carrots!"
+        },
+        {
+            "name": "",
+            "text": "I can understand how it would've<n>been a struggle\nfor you two to finish<n>this alone."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Hey, hey! Are we really allowed to<n>take as much\nas we want?!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Yeah, but don't come crying to me if<n>you eat too\nmany and get sick."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Woohoo! It's carrot party tiiiime!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Of course you aren't listening..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "In any case, I'll happily take some as<n>well."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "This is actually a lifesaver. I was<n>having trouble\nthinking of side dishes<n>to include in Brian's lunch."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I only won them because I used my<n>trainer's\nraffle ticket, so don't thank<n>me.",
+            "choice_data_list": [
+                "But you were the one who suggested that we\nshare them, Taishin."
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "<i>Thank you,</i> Taishin! I always knew<n>you were\nsuper nice at heart!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ughhh, stop that! I'm not nice at all!",
+            "choice_data_list": [
+                "You're super-duper nice, Taishin."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You looking to get punted into the<n>sun?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "With our lucky raffle prize, we hold a<n>delightful\ncarrot party together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won<n>third prize!\nHere's your carrot!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You heard 'em. Here."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Narita Taishin tosses the carrot at me."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "That came from your raffle ticket, so<n>it's yours."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Anyway, it's almost time for dinner,<n>so let's go\nhome and—"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Grumble...</i>"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...",
+            "choice_data_list": [
+                "...Are you hungry?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Can it.",
+            "choice_data_list": [
+                "Do you want the carrot?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Not even! I'm not hungry, and I don't<n>want the\ncarrot!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Gruuumble!</i>"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Urrrgh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I offer the carrot to Narita Taishin<n>again, and she\nsnatches it from me<n>without a word."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you<n>pulled a blank\none! Take this pack of<n>tissues as a consolation\nprize."
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Tissues...",
+            "choice_data_list": [
+                "That's too bad.",
+                "That's too bad."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "It's not like I care. It was your raffle<n>ticket."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Besides, it's not like we <i>can't</i> go<n>to a hot\nspring without winning some<n>ticket at a raffle."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You being all sorry for me is what's<n>making this\nawkward.",
+            "choice_data_list": [
+                "O-oh. Sorry.",
+                "O-oh. Sorry."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Anyway, let's go home. You can<n>have the tissues."
+        },
+        {
+            "name": "",
+            "text": "Narita Taishin rushes off, but her<n>expression is\ntinged with frustration<n>as she brushes past me."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "text_block_list": [
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Yawn...</i>",
+            "choice_data_list": [
+                "Didn't get enough sleep?",
+                "Didn't get enough sleep?"
+            ]
+        },
+        {
+            "name": "",
+            "text": "No... It's just been hard falling asleep<n>lately.",
+            "choice_data_list": [
+                "Are you okay?! Don't overwork yourself!",
+                "Are you okay?! Don't overwork yourself!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Geez, no need to freak out! And quit<n>babying me."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "It happens a lot, anyway. Either I'm<n>not feeling so\nhot or I'm pissed off<n>about something and can't\nsleep."
+        },
+        {
+            "name": "",
+            "text": "...Ugh, why are we even talking about<n>this? Talk\nabout kicking me while I'm<n>already down."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Narita Taishin seems deprived of<n>sleep... I should\ngo easy on her."
+        }
+    ]
+}

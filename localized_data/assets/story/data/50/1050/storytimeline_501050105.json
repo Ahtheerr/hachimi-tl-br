@@ -2,7 +2,11 @@
     "text_block_list": [
         {
             "name": "Narita Taishin",
+<<<<<<< HEAD
             "text": "<i>Suspiro...</i> (Lá vamos nós de novo.)"
+=======
+            "text": "<i>Sigh...</i> (It's that time of year again.)"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
         },
         {
             "name": "???",
@@ -10,6 +14,7 @@
         },
         {
             "name": "Narita Taishin",
+<<<<<<< HEAD
             "text": "Hã?"
         },
         {
@@ -34,10 +39,37 @@
             "choice_data_list": [
                 "Parece que você vai ter um acampamento de\nverão divertido!",
                 "Parece que você vai ter um acampamento de\nverão divertido!"
+=======
+            "text": "Huh?"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "You wanna plan out a day to train<n>together?!"
+        },
+        {
+            "name": "",
+            "text": "Yeah! Urara's just way too hyper all<n>the time, so\nwe really need someone<n>to keep things chill!\nWhaddya think?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hey, hey! I was in the middle of<n>saying how we\nshould swim to that<n>island over there and have an\nadventure!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-you can, um, come too if you want,<n>Taishin...\nB-but only if you want!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Uh...",
+            "choice_data_list": [
+                "Seems like you're in for a fun summer camp!",
+                "Seems like you're in for a fun summer camp!"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Narita Taishin",
+<<<<<<< HEAD
             "text": "Ah, <i>fala sério...</i>"
         },
         {
@@ -47,6 +79,17 @@
         {
             "name": "Monólogo",
             "text": "Meu terceiro acampamento de verão<n>com Narita\nTaishin começa hoje!"
+=======
+            "text": "Oh, come <i>on...</i>"
+        },
+        {
+            "name": "",
+            "text": "Geez."
+        },
+        {
+            "name": "",
+            "text": "My third summer camp with Narita<n>Taishin begins\ntoday!"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
         }
     ]
 }

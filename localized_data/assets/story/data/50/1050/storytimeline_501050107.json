@@ -2,6 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
+<<<<<<< HEAD
             "text": "Como é Dia de São Valentim amanhã,<n>decido dar\num presente para Narita<n>Taishin.",
             "choice_data_list": [
                 "Mas o que eu deveria dar para ela, já que ela não\ngosta de doces?"
@@ -38,10 +39,16 @@
             "text": "Espera, isso é sério mesmo para<n>mim?",
             "choice_data_list": [
                 "É claro!"
+=======
+            "text": "Since it's Valentine's Day tomorrow,<n>I decide to\ngive Narita Taishin a<n>present.",
+            "choice_data_list": [
+                "But what should I get her since she doesn't like\ncandy?"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "",
+<<<<<<< HEAD
             "text": "...Hã. Tá bom."
         },
         {
@@ -55,19 +62,74 @@
         {
             "name": "Narita Taishin",
             "text": "Ei... Você está aí?",
+=======
+            "text": "I end up picking out some cookies<n>coated in bitter\nchocolate and head<n>back."
+        },
+        {
+            "name": "",
+            "text": "Hm? What's that?",
+            "choice_data_list": [
+                "Happy Valentine's Day, Taishin!"
+            ]
+        },
+        {
+            "name": "",
+            "text": "What? Oh... That's today?",
+            "choice_data_list": [
+                "Did you forget?"
+            ]
+        },
+        {
+            "name": "",
+            "text": "No... Well, maybe. Kind of."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I don't really exchange chocolate<n>with friends or\nanything."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hang on, is that seriously for me?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "",
+            "text": "...Huh. Okay."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Uh... Thanks, I guess."
+        },
+        {
+            "name": "",
+            "text": "That night, while I'm relaxing in my<n>room, there's\na knock at the door."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hey... You in there?",
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             "choice_data_list": [
                 "Taishin?!"
             ]
         },
         {
             "name": "Narita Taishin",
+<<<<<<< HEAD
             "text": "Você já jantou? Se não, eu trouxe<n>comida para\nvocê",
             "choice_data_list": [
                 "Ah, obrigado... Espera, o quê?!"
+=======
+            "text": "Have you had dinner yet? If not, I<n>brought you\nsome food.",
+            "choice_data_list": [
+                "Oh, thanks... Wait, what?!"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Monólogo",
+<<<<<<< HEAD
             "text": "Encaro Taishin confuso e percebo<n>que ela está\nsegurando um recipiente<n>cheio de curry seco."
         },
         {
@@ -75,24 +137,46 @@
             "text": "Ainda não comi, então estou<n>morrendo de fome, e\naceito a comida<n>feliz. Mesmo assim...",
             "choice_data_list": [
                 "(Por que ela trouxe comida do nada?!)"
+=======
+            "text": "I stare at Taishin in confusion and<n>notice that\nshe's holding a container<n>filled with a dry curry\ndish."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I haven't eaten yet, so I'm starving,<n>and I happily\naccept the food. Still...",
+            "choice_data_list": [
+                "(Why'd she suddenly bring me food?!)"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Monólogo",
+<<<<<<< HEAD
             "text": "E não só isso...",
             "choice_data_list": [
                 "Isso está muito gostoso!"
+=======
+            "text": "And not only that...",
+            "choice_data_list": [
+                "This is really tasty!"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "",
+<<<<<<< HEAD
             "text": "Por que você está agindo como se<n>isso fosse uma\nsurpresa enorme?",
             "choice_data_list": [
                 "Porque eu não sabia que você cozinhava tão bem!"
+=======
+            "text": "Why are you acting like it's some<n>kind of huge\nshock?",
+            "choice_data_list": [
+                "Because I didn't know you were such a good\ncook!"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Narita Taishin",
+<<<<<<< HEAD
             "text": "Não é nada demais. Eu só aprendi a<n>cozinhar\nporque minha família tem um<n>negócio. Meus pais\nestavam<n>ocupados demais para cuidar de mim."
         },
         {
@@ -100,17 +184,31 @@
             "text": "Você não precisa fazer tanto alarde. É<n>só um curry\nseco...",
             "choice_data_list": [
                 "Mas tá muito bom!"
+=======
+            "text": "Not really. I just learned how to cook<n>since my\nfamily runs a business. My<n>parents were too busy\nto look after<n>me."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You don't have to make such a big<n>deal about it.\nIt's just a dry curry...",
+            "choice_data_list": [
+                "But it's really good!"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Monólogo",
+<<<<<<< HEAD
             "text": "Não estou mentindo nem exagerando.<n>O curry tem\numa doçura suave e um<n>sabor profundo que me\nfaz pensar se<n>não tem algum ingrediente secreto.",
+=======
+            "text": "I'm not lying or exaggerating. The<n>curry has a\nmellow sweetness and<n>depth to it that makes me\nwonder if it<n>has some secret ingredient.",
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             "choice_data_list": [
                 "(Hm?)"
             ]
         },
         {
             "name": "Narita Taishin",
+<<<<<<< HEAD
             "text": "Bom, acho que é melhor do que ouvir<n>que tem\ngosto horrível."
         },
         {
@@ -130,10 +228,32 @@
             "text": "Estou com tanta fome e o curry está<n>tão incrível\nque termino o prato sem<n>perceber.",
             "choice_data_list": [
                 "Obrigado! Estava ótimo!"
+=======
+            "text": "Well, I guess that's better than being<n>told it tastes\ndisgusting."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Anyway, I've got a curfew to keep.<n>Later."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Narita Taishin runs off as if desperate<n>to leave."
+        },
+        {
+            "name": "Monólogo",
+            "text": "The taste of the curry leaves a<n>lingering hint of\nsweetness in my<n>mouth."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I'm so hungry and the curry is so<n>amazing that I\nclean my plate before<n>realizing it.",
+            "choice_data_list": [
+                "Thanks! That was great!"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Narita Taishin",
+<<<<<<< HEAD
             "text": "É, é, sem problema."
         },
         {
@@ -149,10 +269,28 @@
             "text": "Você sabe aquela coisa que você<n>disse sobre eu\nacreditar em mim<n>mesma?",
             "choice_data_list": [
                 "Huh? Oh, sim!"
+=======
+            "text": "Yeah, yeah, no problem."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A brief silence hangs in the air."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Say..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You know that thing you said about<n>me believing in\nmyself?",
+            "choice_data_list": [
+                "Huh? Oh, yeah!"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Monólogo",
+<<<<<<< HEAD
             "text": "Uma vez eu disse a ela que<n>acreditaria nela pelo\ntempo que fosse<n>necessário, até que ela também\nacreditasse em si mesma."
         },
         {
@@ -170,19 +308,45 @@
         {
             "name": "Narita Taishin",
             "text": "O que você faria?",
+=======
+            "text": "I once told her that I'd believe in her<n>as long as\nnecessary until she<n>believed in herself too."
+        },
+        {
+            "name": "Monólogo",
+            "text": "And I would believe in her even if it<n>took a lifetime."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Well... Hypothetically speaking..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What if I said that I believe in myself<n>now?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What would you do?",
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             "choice_data_list": [
                 "Hmm?"
             ]
         },
         {
             "name": "Narita Taishin",
+<<<<<<< HEAD
             "text": "Você desistiria porque fez o seu<n>trabalho, e é\nisso? Você iria embora?",
             "choice_data_list": [
                 "Bom..."
+=======
+            "text": "Would you call it quits because<n>you've done your\njob, and that's it?<n>You're gone?",
+            "choice_data_list": [
+                "Well..."
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Monólogo",
+<<<<<<< HEAD
             "text": "Eu não diria exatamente com essas<n>palavras,\nmas acho que se ela<n>ganhou confiança em si\nmesma,<n>então isso já é o bastante."
         },
         {
@@ -208,6 +372,33 @@
         {
             "name": "",
             "text": "O sabor do curry deixa um toque de<n>amargor na\nminha boca."
+=======
+            "text": "I wouldn't say it in so many words,<n>but I guess if\nshe's gained<n>confidence in herself, then that's\nenough."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I open my mouth to speak, but she<n>interrupts me\nbefore I can get the<n>words out."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "No, don't say anything."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Not yet. I don't want to hear it."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Sorry. I'm going back."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Narita Taishin runs off as if desperate<n>to leave."
+        },
+        {
+            "name": "",
+            "text": "The taste of the curry leaves a hint of<n>bitterness in\nmy mouth."
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
         }
     ]
 }

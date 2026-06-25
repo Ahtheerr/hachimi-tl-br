@@ -2,22 +2,36 @@
     "text_block_list": [
         {
             "name": "Monólogo",
+<<<<<<< HEAD
             "text": "O acampamento de verão começa<n>hoje, e vamos\ntreinar pesado em um<n>acampamento perto da\npraia<n>enquanto estivermos aqui."
         },
         {
             "name": "Monólogo",
             "text": "É a oportunidade perfeita para<n>aprimorar as\nhabilidades de Narita<n>Taishin antes do Kikuka Sho,\nmas..."
+=======
+            "text": "Summer camp begins today, and<n>we'll be training\nhard at a<n>campground near the beach while\nwe're here."
+        },
+        {
+            "name": "Monólogo",
+            "text": "It's the perfect opportunity to polish<n>up Narita\nTaishin's abilities before the<n>Kikuka Sho, but..."
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
         },
         {
             "name": "Narita Taishin",
             "text": "<i>Siiigh...</i>",
             "choice_data_list": [
+<<<<<<< HEAD
                 "V-você tá bem?",
                 "V-você tá bem?"
+=======
+                "Y-you okay?",
+                "Y-you okay?"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Narita Taishin",
+<<<<<<< HEAD
             "text": "Tô bem..."
         },
         {
@@ -49,6 +63,39 @@
             "text": "Eu estava me perguntando por que<n>você estava\ncorrendo de um lado<n>para o outro. Era só para\nencontrar<n>um lugar assim?",
             "choice_data_list": [
                 "Isso mesmo! Eu esperava que pudesse te ajudar\na relaxar!"
+=======
+            "text": "I'm fine..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "It's just... As it is, I already don't get<n>much time to\nmyself living in the<n>dorms."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "But at summer camp, I have negative<n>alone time,\nand that's depressing as<n>hell."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Now that she mentions it, I can see<n>why this\nenvironment would be<n>stressful for her."
+        },
+        {
+            "name": "Monólogo",
+            "text": "It won't do for Narita Taishin to<n>continue this way,\nso I start thinking<n>about how to cheer her up."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Whoa, there's seriously no one here.<n>I had no\nidea this place existed."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh. This might be a decent spot to<n>nap since it's\nso quiet."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I was wondering why you were<n>running around\neverywhere. Was it<n>just to find a place like this?",
+            "choice_data_list": [
+                "Yep! I was hoping it could help you relax!"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
@@ -57,13 +104,20 @@
         },
         {
             "name": "Narita Taishin",
+<<<<<<< HEAD
             "text": "Olha, eu passo por isso todo ano,<n>então não perca\nseu tempo se<n>preocupando. Eu consigo treinar\nperfeitamente bem sem você<n>exagerar desse\njeito.",
             "choice_data_list": [
                 "Mas não foi por isso que eu—"
+=======
+            "text": "Look, I go through this every year, so<n>don't waste\nyour time stressing out. I<n>can train perfectly well\nwithout you<n>being so extra.",
+            "choice_data_list": [
+                "But that's not why I—"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Narita Taishin",
+<<<<<<< HEAD
             "text": "Tá, tá. Tanto faz. Deixa pra lá."
         },
         {
@@ -71,6 +125,15 @@
             "text": "Enfim, não temos treino para fazer?<n>Vamos\ncomeçar ou não?",
             "choice_data_list": [
                 "Sim, claro! Vou preparar tudo!"
+=======
+            "text": "Yeah, yeah. Whatever. Just leave it."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Anyway, don't we have training to<n>do? Are we\ngonna get started or not?",
+            "choice_data_list": [
+                "Yes, of course! I'll get everything ready!"
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
@@ -79,11 +142,19 @@
         },
         {
             "name": "Narita Taishin",
+<<<<<<< HEAD
             "text": "Ah, droga."
         },
         {
             "name": "Narita Taishin",
             "text": "É tão difícil encontrar o momento certo<n>para\nagradecer..."
+=======
+            "text": "Agh, damn it."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "It's so freakin' hard to find the right<n>time to say\nthanks..."
+>>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
         }
     ]
 }

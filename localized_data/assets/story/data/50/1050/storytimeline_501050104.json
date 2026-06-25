@@ -1,0 +1,355 @@
+{
+    "text_block_list": [
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Huff, puff!</i>"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Cough! Hack!</i>",
+            "choice_data_list": [
+                "Taishin, você está bem?!",
+                "Taishin, você está bem?!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Aff, para de fazer escândalo por<n>qualquer coisa.\nFoi só uma<n>tossidinha."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Enfim, sobre o meu treinamento..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Tá ficando chato. Já consigo passar<n>pelo\nprograma inteiro só na memória<n>muscular.",
+            "choice_data_list": [
+                "Hmm, você tem razão..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Se o nosso objetivo é vencer a<n>Kikuka Sho, então\nela vai precisar<n>evoluir bastante."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hm?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Speee! Vamos fazer tiros de corrida<n>na praia\njuntas!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Tickezo! Você me assustou! Hum,<n>tem certeza de\nque quer correr<n>comigo?",
+            "color_text_info_list": [
+                "Tickezo"
+            ]
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Absoluta certeza!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Se treinarmos juntas, podemos tirar a<n>força uma\nda outra ao <i>máximo,</i> e<n>eu vou conseguir correr\nmais rápido<n>do que nuncaaaa!"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Vamos lá, bora! Uhuuuu!"
+        },
+        {
+            "name": "Special Week",
+            "text": "Ah, isso faz muito sentido, Tickezo!<n>Certo, tô\ndentro! Uhuuuu!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Aff, essa empolgação transbordando<n>me dá até\nenjoo."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Mas... Sei lá..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Narita Taishin fica em silêncio depois<n>disso. Acho\nque sei o que ela está<n>tentando dizer."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tenho certeza de que treinar com<n>alguém ajudaria\na quebrar a<n>monotonia que ela está sentindo.",
+            "choice_data_list": [
+                "Quer que eu procure alguém para treinar com\nvocê?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Como se você fosse conseguir<n>encontrar alguém."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Você viu o que a Ticket estava<n>aprontando, e a\nHayahide disse que<n>queria treinar sozinha neste\nverão.",
+            "color_text_info_list": [
+                "Ticket",
+                "Hayahide"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Não venha chorando para mim se as<n>pessoas\nrirem quando você pedir<n>para treinarem com uma\nbaixinha.",
+            "choice_data_list": [
+                "Ninguém faria isso.",
+                "Ninguém faria isso."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Narita Taishin não só foi muito bem na<n>Satsuki Sho\ne na Derby Japonêsa,<n>como também é uma das\ntrês<n>melhores corredoras das corridas<n>Classicas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu digo a ela que não há ninguém na<n>Academia\nTracen que duvide das<n>suas habilidades.",
+            "color_text_info_list": [
+                "Tracen Academy"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Faz o que quiser..",
+            "choice_data_list": [
+                "Certo, então vou procurar alguém!",
+                "Certo, então vou procurar alguém!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com isso, saio correndo pela praia,<n>tentando\nencontrar um ou dois<n>possíveis parceiros de treino\npara<n>Narita Taishin."
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Espera, você quer que a gente faça<n>treino de\nforça quebrando melancias?<n>Não me diga que\nvamos fazer isso<n>com as próprias mãos, haha."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ahaha! Claro que não! Podemos usar<n>um bastão!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Bom, isso parece muito mais uma<n>brincadeira\ntípica de verão do que um<n>treino de verdade."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Meu Deus, Rice, você é incrível! Você<n>trouxe\ntantos pneus!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "-S-sim! Eu puxei um monte para cá<n>porque, bem,\nquero trabalhar para ter<n>mais coragem!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Certo, qual escolher...",
+            "choice_data_list": [
+                "Treino de força quebrando melancias.",
+                "Treino de coragem puxando pneus."
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hã? Quebrar melancias? Como<n>exatamente isso é\num tre—"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Bem-vinda, Taishin! Eu vou começar,<n>então estou\ncontando com você para<n>me guiar enquanto eu\nestiver<n>vendada!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Eu</i> vou guiar?! Isso sim é ser<n>jogada na\nfogueira...",
+            "choice_data_list": [
+                "Só finja que está controlando um personagem em\num videogame!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Quem te perguntou?!"
+        },
+        {
+            "name": "Nice Nature",
+            "text": "Pronto! A venda já está colocada,<n>então vamos\ncomeçar!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Urgh!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Dois passos para a direita! Agora<n>três para\nfrente... Não, isso foi longe<n>demais! Volte um passo\ne meio!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "E então... ATAQUE!"
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Muito obrigada, Taishin! Suas<n>instruções foram\nmuito fáceis de<n>seguir!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ah... De nada."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ah, a Nature preparou a melancia ali<n>para a gente\ncomer. Vamos!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "(Nossa... a melancia foi reduzida a<n>pedaços... Não\nteria sido melhor<n>simplesmente cortá-la\nnormalmente?)"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Nhac.</i>"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hã."
+        },
+        {
+            "name": "Matikanetannhauser",
+            "text": "Ahaha, estranho, não é? A melancia<n>ficou meio\ntorta, mas está mais<n>gostosa do que o normal."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hm..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "É."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Narita Taishin acaba tendo um verão<n>relativamente\nagradável."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "T-tem certeza de que quer se juntar<n>a nós,\nTaishin?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eu posso acabar t-te amaldiçoando<n>com azar... se\ntreinarmos juntas..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Que lógica é essa? Enfim, sou eu<n>quem está\npedindo para treinar com<n>vocês."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Então, acho que... Posso?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh! C-claro! Adoraríamos ter você<n>conosco!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hup!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O treinamento corre bem, e Narita<n>Taishin colhe os\nbenefícios."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah, olhem só! Estão vendendo<n>raspadinha!\nTreinamos bastante,<n>então vamos nos\nrecompensar com<n>uma sobremesa!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ooh, raspadinha! Será que tem sabor<n>maçã?",
+            "choice_data_list": [
+                "Esperem aí! Vou comprar para vocês três!",
+                "Esperem aí! Vou comprar para vocês três!"
+            ]
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Ah, puxa. Me desculpem! O<n>movimento foi enorme\nhoje e eu<n>fiquei sem gelo! Estou esperando<n>uma\nnova entrega chegar agora<n>mesmo."
+        },
+        {
+            "name": "Shopkeeper",
+            "text": "Ops, é o telefone. Alô? O quê?! Você<n>está bem\nperto, mas houve um<n>acidente?!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah não! Isso é péssimo! Todo mundo<n>está\nesperando pelo gelo — é melhor<n>irmos ajudar!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Espera... Está falando sério?!"
+        },
+        {
+            "name": "Truck Driver",
+            "text": "Droga, não acredito que acabei<n>entrando no\nacostamento..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah, minha nossa... O-o que vamos<n>fazer? Se ao\nmenos eu não tivesse<n>querido raspadinha!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Beleza! Tudo o que precisamos fazer<n>é levantar o\nseu caminhão, certo?<n>Conseguimos!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "-S-sim! Hum, n-nós damos conta!"
+        },
+        {
+            "name": "Truck Driver",
+            "text": "O quê?! Esse negócio está carregado<n>de\nmercadorias! Eu sei que vocês<n>são Umamusume,\nmas mesmo<n>assim..."
+        },
+        {
+            "name": "Truck Driver",
+            "text": "Vocês são tão pequeninas! Não<n>posso pedir que\nlevantem um<n>caminhão."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Tch..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Saiam da frente. Urara, Rice — vamos<n>nessa."
+        },
+        {
+            "name": "Truck Driver",
+            "text": "O quê?! Espera, vocês vão se<n>machuca—"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hup... YAAAHHH!"
+        },
+        {
+            "name": "Truck Driver",
+            "text": "C-caramba! Inacreditável!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Graças aos esforços combinados<n>delas,\nconseguem finalmente a tão<n>merecida raspadinha."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Você foi tão incrível, Taishin!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hã?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "S-sim! Você foi tão incrível... e<n>corajosa!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "O-O que deu em vocês duas?"
+        }
+    ]
+}

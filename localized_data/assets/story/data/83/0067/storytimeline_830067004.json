@@ -1,174 +1,174 @@
 {
     "text_block_list": [
         {
-            "name": "モノローグ",
-            "text": "ある日、学園内を歩いていると、 何かを捜している<n>トウカイテイオーを見かけた。",
+            "name": "Monólogo",
+            "text": "Certo dia, enquanto caminho pelos<n>terrenos da\nacademia, avisto Tokai<n>Teio. Ela parece estar\nprocurando<n>alguma coisa.",
             "choice_data_list": [
-                "何か捜し物？"
+                "Você perdeu alguma coisa?"
             ]
         },
         {
-            "name": "トウカイテイオー",
-            "text": "まあね。実はさっき――"
+            "name": "Tokai Teio",
+            "text": "Meio que sim? É meio complicado..."
         },
         {
-            "name": "ツルマルツヨシ",
-            "text": "あれーっ？ ここにもない……<n>確か、この辺りも通ったって言ってたし……。"
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Hã? Aqui também não tá... E ela disse<n>que já\nprocurou ali..."
         },
         {
-            "name": "ツルマルツヨシ",
-            "text": "もしかして、ペン回しをしてたら<n>飛んで行って木の上にあるとか……よし！"
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Talvez ela tenha girado a caneta com<n>tanta força\nque ela voou igual uma<n>hélice até uma árvore...\nCerto! Vou dar<n>uma olhada!"
         },
         {
-            "name": "トウカイテイオー",
-            "text": "ストーーーーップ！ 『よし』じゃないよツルちゃん！<n>何してんのさっ！？"
+            "name": "Tokai Teio",
+            "text": "Paaaara! Como assim, \"certo\",<n>Tsuru?! Por que\nvocê tá tentando<n>subir nessa árvore?"
         },
         {
-            "name": "ツルマルツヨシ",
-            "text": "あ、テイオーちゃん！ 後輩がペンを落としたらしくて！\n捜すの手伝ってあげてるんだっ！"
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Ah, Teio! Uma das alunas mais novas<n>disse que\nperdeu a caneta, então eu<n>tava ajudando a\nprocurar!"
         },
         {
-            "name": "トウカイテイオー",
-            "text": "ツルちゃんってばお人好しなうえに、<n>なーんか危なっかしいんだから。\nちょっと放っておけないんだよねー。",
+            "name": "Tokai Teio",
+            "text": "A Tsuru sempre ajuda amigas em<n>apuros, o que\né ótimo, mas às vezes<n>ela inventa umas ideias\nmalucas. Não<n>dá pra deixar ela sozinha.",
             "choice_data_list": [
-                "あれ？そのツルマルツヨシはどこに――"
+                "Hã? Falando nisso, cadê a Tsurumaru Tsuyoshi?"
             ]
         },
         {
-            "name": "ツルマルツヨシ",
-            "text": "はぁ、はぁ……校舎をぐるっと周ったけど、<n>全然見つかんないよーっ！！"
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "<i>Huff, huff...</i> Dei uma corridinha em<n>volta do\nprédio, mas nada!"
         },
         {
-            "name": "ツルマルツヨシ",
-            "text": "っと、とっとっ……わ、私の目も、<n>回り始めちゃったかも～っ……！？"
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "A-ah... Ai, ai... T-tô sentindo outra<n>tontura\nchegando!"
         },
         {
-            "name": "トウカイテイオー",
-            "text": "もー！ ツルちゃんってばまた頑張りすぎ！<n>ほら、一旦落ち着いて！"
+            "name": "Tokai Teio",
+            "text": "Opa! Você tá se esforçando demais!<n>Vem, foca um\npouquinho na<n>respiração, tá?"
         },
         {
-            "name": "ツルマルツヨシ",
-            "text": "あ、あはは～っ、面目ない……！"
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Ah... Haha! Desculpa!"
         },
         {
-            "name": "ツルマルツヨシ",
-            "text": "でも困ってる後輩がいたら、 先輩としてがんばりたいんだよねっ！\n粉骨……バクシン、って感じでさ！"
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "É que, se eu vejo uma aluna mais<n>nova\nprecisando de ajuda, eu quero<n>fazer o que posso!\nDar aquele<n>minutinho extra por elas, sabe?"
         },
         {
-            "name": "？？？",
-            "text": "力の限り進みたいという気持ちはわかるが、<n>正確には『粉骨砕身』だな。"
+            "name": "???",
+            "text": "Creio que você quis dizer \"fazer um<n>esforço\nextra\". Mas admiro seu<n>desejo de se empenhar\nao máximo."
         },
         {
-            "name": "テイオー＆ツルマル",
-            "text": "カイチョー！？ 会長！？"
+            "name": "Teio e Tsurumaru",
+            "text": "Presi?! Presidente Rudolf?!"
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "ぜひ私にも協力させてほしい。 困っている後輩を助けるのが、\n先輩の役割――なのだろう？"
+            "name": "Symboli Rudolf",
+            "text": "Permitam-me juntar-me à busca.<n>Afinal, não é\ndever de uma veterana<n>ajudar suas kouhais\nquando elas<n>precisam?"
         },
         {
-            "name": "エアグルーヴ",
-            "text": "次の予定は、生徒会室での押印作業。<n>明日に回しても問題はないかと。"
+            "name": "Air Groove",
+            "text": "Estávamos voltando para a sala do<n>conselho\nestudantil para assinar<n>alguns documentos, mas\neles podem<n>esperar até amanhã."
         },
         {
-            "name": "モノローグ",
-            "text": "後輩を助けるのが先輩の役目ならば、<n>生徒を助けるのはトレーナーの役目だ。",
+            "name": "Monólogo",
+            "text": "Se é dever das veteranas ajudar<n>suas kouhais,\nentão é dever de um<n>treinador apoiar as alunas.",
             "choice_data_list": [
-                "俺も手伝うよ",
-                "私も手伝うよ"
+                "Vou ajudar.",
+                "Vou ajudar."
             ]
         },
         {
-            "name": "ウマ娘A",
-            "text": "……みなさん！ ありがとうございましたっ！\n私のためにここまでしてもらって、本当に！"
+            "name": "Umamusume A",
+            "text": "Muito obrigada, pessoal! Nem sei<n>dizer o quanto\nsou grata por vocês<n>terem ido tão longe para me\najudar!"
         },
         {
-            "name": "ツルマルツヨシ",
-            "text": "すーっごく大事なペンなんだよねっ？ もうなくしちゃダメだよ！<n>ばいば――"
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Essa caneta é suuuuperimportante<n>pra você, né?\nCuida bem dela de<n>agora em diante, tá? Tchau..."
         },
         {
-            "name": "ツルマルツヨシ",
-            "text": "――ゲホゲホッ！！ だ、大事なところでむせたぁっ！"
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "<i>Cof, cof!</i> U-ufa. Isso é que é acabar<n>com o\nclima!"
         },
         {
-            "name": "トウカイテイオー",
-            "text": "もー、そんな慌てなくても大丈夫だって。<n>すごく大事に抱えてたし……\nツルちゃんの気持ちはちゃんと伝わってるよ！"
+            "name": "Tokai Teio",
+            "text": "Aaah, você não precisa se culpar. Do<n>jeito que ela\ntava segurando aquela<n>caneta... Tenho certeza de\nque ela<n>entendeu o recado!"
         },
         {
-            "name": "トウカイテイオー",
-            "text": "この天才にして頭脳明晰の<n>テイオー様が言うんだから、間違いないっ！"
+            "name": "Tokai Teio",
+            "text": "Confia em mim: eu sou uma<n>supergênia com a\nmente afiada como<n>uma lâmina, então sei do que\ntô<n>falando!"
         },
         {
-            "name": "ツルマルツヨシ",
-            "text": "ふふっ、そっか！ そうだよね！ ありがと、テイオーちゃん！"
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Hehe, você acha? Ah, olha eu<n>perguntando isso,\nclaro que você tá<n>certa! Valeu, Teio!"
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "ふふっ……。",
+            "name": "Symboli Rudolf",
+            "text": "Hehe...",
             "choice_data_list": [
-                "どうかしたのか？",
-                "どうかしたの？"
+                "Achou graça em algo?",
+                "Achou graça em algo?"
             ]
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "いやなに、 今見ているこの光景がなんとも眩しくてな。"
+            "name": "Symboli Rudolf",
+            "text": "Ah, é apenas que estou ofuscada<n>pelo brilho da\nfranqueza delas."
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "困っている生徒を見かければ手を貸し、<n>共に困難に立ち向かい解消する……。"
+            "name": "Symboli Rudolf",
+            "text": "Elas viram uma aluna em<n>necessidade e\nestenderam a mão,<n>trabalhando juntas para\nsolucionar o<n>problema."
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "この学園には、多くの心優しき生徒、<n>そしてトレーナーがいる……。"
+            "name": "Symboli Rudolf",
+            "text": "Esta academia é abençoada por<n>tantas alunas e\ntreinadores de bom<n>coração..."
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "輝かしき未来の一端を、垣間見たようだ。",
+            "name": "Symboli Rudolf",
+            "text": "Sinto como se tivesse vislumbrado o<n>futuro\nluminoso que nos aguarda.",
             "choice_data_list": [
-                "俺もいい学びになった",
-                "私もいい学びになったよ",
-                "早くその未来を見たいな",
-                "早くその未来を見たいね"
+                "Este encontro também me ensinou uma lição.",
+                "Este encontro também me ensinou uma lição.",
+                "Espero poder ver esse futuro luminoso se\nconcretizar em breve.",
+                "Espero poder ver esse futuro luminoso se\nconcretizar em breve."
             ]
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "輝かしき未来の一端を、垣間見たようだ。",
+            "name": "Symboli Rudolf",
+            "text": "Sinto como se tivesse vislumbrado o<n>futuro\nluminoso que nos aguarda.",
             "choice_data_list": [
-                "俺もいい学びになった",
-                "私もいい学びになったよ",
-                "早くその未来を見たいな",
-                "早くその未来を見たいね"
+                "Este encontro também me ensinou uma lição.",
+                "Este encontro também me ensinou uma lição.",
+                "Espero poder ver esse futuro luminoso se\nconcretizar em breve.",
+                "Espero poder ver esse futuro luminoso se\nconcretizar em breve."
             ]
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "君もそうか。 この件では私も得るものが多かった。<n>改めて2人へ感謝するとしよう。"
+            "name": "Symboli Rudolf",
+            "text": "Estamos de acordo. Eu também<n>extraí muito desta\nexperiência. Devo<n>isso às duas."
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "――ありがとう。"
+            "name": "Symboli Rudolf",
+            "text": "Obrigada."
         },
         {
-            "name": "テイオー＆ツルマル",
-            "text": "……うんっ！ ……はいっ！"
+            "name": "Teio e Tsurumaru",
+            "text": "Imagina! É isso aí!"
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "ああ、まったくだ。"
+            "name": "Symboli Rudolf",
+            "text": "Concordo plenamente."
         },
         {
-            "name": "トウカイテイオー",
-            "text": "ねえねえ！ いま『速く』って言った！？ これから走るの？"
+            "name": "Tokai Teio",
+            "text": "Ei, eu ouvi você dizer que ainda tá<n>claro o\nbastante pra correr? A gente<n>vai correr agora?!"
         },
         {
-            "name": "ツルマルツヨシ",
-            "text": "はいはいっ！！ ツヨシ、いつでも走れます！<n>いつもストレッチしてますからっ！！"
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Ooh, sim! Eu também tô pronta pra<n>correr, já que\ntô sempre em dia com<n>os alongamentos!"
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "あははっ！ ――それもまたよし、だな！"
+            "name": "Symboli Rudolf",
+            "text": "Haha! Pois bem, quem sou eu para<n>recusar?"
         }
     ]
 }

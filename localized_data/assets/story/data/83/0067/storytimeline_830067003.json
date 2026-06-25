@@ -1,57 +1,57 @@
 {
     "text_block_list": [
         {
-            "name": "",
-            "text": "今日はもう少しトレーニングができそうだ。<n>せっかくなので、コースにいた生徒たちにも\n声をかけてみると――"
+            "name": "Monólogo",
+            "text": "Ainda há tempo para mais um pouco<n>de treino\nhoje. Pergunto às alunas<n>reunidas na pista o que\nelas<n>gostariam de fazer."
         },
         {
-            "name": "トウカイテイオー",
-            "text": "はいはいっ！ ボク併走トレーニングしたい！<n>せっかくカイチョーがいるんだもん、\n一緒に走らないと！"
+            "name": "Tokai Teio",
+            "text": "Ooh! Eu quero correr em dupla! A<n>Presi também tá\naqui, então não tem<n>chance melhor pra correr com\nela!"
         },
         {
-            "name": "ツルマルツヨシ",
-            "text": "あのっ、今日は体の調子がいいんですっ！<n>なので、このチャンスを逃さず、\n走りのテクニックを限界まで探求したく！"
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Hum, hoje eu tô me sentindo bem,<n>então quero\naproveitar pra aprimorar<n>minha técnica de corrida\no máximo<n>possível!"
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "ふむ……体を動かすトレーニングもいいが、 どうだろう？<n>読書尚友――皆で本に触れ、\n知見を高め合うというのは。"
+            "name": "Symboli Rudolf",
+            "text": "Hm... Atividade física é benéfica, mas<n>que tal\nbuscarmos a sabedoria das<n>grandes corredoras?\nAo ler sobre<n>seus feitos, podemos elevar nosso\nconhecimento coletivo."
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "実は新しい技法書が 図書室に入ったという話を聞いていてね。"
+            "name": "Symboli Rudolf",
+            "text": "A propósito, ouvi dizer que um novo<n>manual foi\nacrescentado ao acervo<n>da biblioteca."
         },
         {
-            "name": "",
-            "text": "どの提案も魅力的だが、<n>みんなで追加トレーニングをするなら……。",
+            "name": "Monólogo",
+            "text": "Todas as propostas me parecem<n>boas. Mas, se\neu fosse escolher algo<n>que pudéssemos fazer\njuntos...",
             "choice_data_list": [
-                "読書で走りの知識を深めようか",
-                "やっぱり併走かな！",
-                "しっかりテクニックを磨いていこう"
+                "Vamos ler sobre como melhorar nossa corrida.",
+                "Uma boa corrida firme é o melhor caminho!",
+                "Devemos polir nossa técnica até ela reluzir!"
             ]
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "決まりだな。では皆、<n>体を冷やさないよう着替えてから集まろうか。"
+            "name": "Symboli Rudolf",
+            "text": "Então está decidido. Todas, vão se<n>trocar.\nEncontramo-nos lá fora<n>depois. Lembrem-se de\nse agasalhar,<n>certo?"
         },
         {
-            "name": "シンボリルドルフ",
-            "text": "韋編三絶、共に高め合うとしよう。"
+            "name": "Symboli Rudolf",
+            "text": "Que a leitura nos conduza a<n>patamares mais\nelevados."
         },
         {
-            "name": "トウカイテイオー",
-            "text": "さっすが、わかってる～！<n>みんなで走ったほうが絶対楽しいもんね！"
+            "name": "Tokai Teio",
+            "text": "Aí sim, falou tudo! Correr é muito<n>mais divertido\ncom companhia!"
         },
         {
-            "name": "トウカイテイオー",
-            "text": "そうと決まれば――早く早く！<n>カイチョー相手だって、負けないんだからね！"
+            "name": "Tokai Teio",
+            "text": "Vambora! Tá esperando o quê? Se<n>quiser me\nvencer, é melhor se mexer<n>logo, Presi!"
         },
         {
-            "name": "ツルマルツヨシ",
-            "text": "やったあ！ 私、いつ体調崩すとも<n>限らないので、こういうの貴重なんですっ！"
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Eba! Não sei quanto tempo essa fase<n>saudável\nvai durar, então quero<n>aproveitar bem!"
         },
         {
-            "name": "ツルマルツヨシ",
-            "text": "今日はとことん――げぇっほ、ゴホッ！ 失礼しました！<n>体調に注意しつつとことん！\nトレーニングしたいと思います！"
+            "name": "Tsurumaru Tsuyoshi",
+            "text": "Vou colocar tudo que tenho em—<i>cof,<n>cof!</i>\nDesculpa! Quero dizer, vou dar<n>tudo de mim sem\nexagerar!"
         }
     ]
 }

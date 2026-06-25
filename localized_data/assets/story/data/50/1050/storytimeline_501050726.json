@@ -1,0 +1,54 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One day, while I'm out with Narita<n>Taishin..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hang on.",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Nothing special... Just take a look over<n>there."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I turn in the direction Narita Taishin is<n>pointing and\nsee a claw machine filled<n>with Umamusume\nplushies."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "They're apparently all the rage right<n>now. Not that\nI'm interested or<n>anything."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I sometimes see 'em dangling from<n>other\npeople's bags and stuff,<n>though.",
+            "choice_data_list": [
+                "Do you want one for your bag too?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Excuse me? Were you even<n>listening? I'm not\nintere—",
+            "choice_data_list": [
+                "But look how well-made they are!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Sigh...</i> Do whatever you feel like.<n>Just don't\ndrag me into it."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "If you want one so badly, get it<n>yourself. I mean, if\nyou <i>can.</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "text_block_list": [
+        {
+            "name": "Narita Taishin",
+            "text": "Huh, you actually pulled it off. Guess<n>they didn't\nrig this machine."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What're you gonna do with all of<n>those anyway?",
+            "choice_data_list": [
+                "Think you can take them all home?",
+                "Think you can take them all home?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Huh? No, and I don't want them."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Use 'em to decorate your office or<n>something.\nYou're the one who won<n>them.",
+            "choice_data_list": [
+                "Come on, just take them!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Sigh...</i> Fine. I'll take <i>one.</i>"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "...Hmm."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I guess it's pretty cute."
+        },
+        {
+            "name": "Monólogo",
+            "text": "That couldn't have gone better!"
+        }
+    ]
+}

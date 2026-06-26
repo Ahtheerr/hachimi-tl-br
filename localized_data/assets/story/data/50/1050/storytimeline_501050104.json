@@ -8,18 +8,12 @@
             "name": "Narita Taishin",
             "text": "<i>Cough! Hack!</i>",
             "choice_data_list": [
-<<<<<<< HEAD
                 "Taishin, você está bem?!",
                 "Taishin, você está bem?!"
-=======
-                "Taishin, are you okay?!",
-                "Taishin, are you okay?!"
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Narita Taishin",
-<<<<<<< HEAD
             "text": "Aff, para de fazer escândalo por<n>qualquer coisa.\nFoi só uma<n>tossidinha."
         },
         {
@@ -31,28 +25,11 @@
             "text": "Tá ficando chato. Já consigo passar<n>pelo\nprograma inteiro só na memória<n>muscular.",
             "choice_data_list": [
                 "Hmm, você tem razão..."
-=======
-            "text": "Ugh, quit making a scene over<n>everything. It was\njust a little cough."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Anyway, about my training..."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "It's getting old. I can practically go<n>through the\nwhole menu on muscle<n>memory alone.",
-            "choice_data_list": [
-                "Hmm, you do have a point..."
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Monólogo",
-<<<<<<< HEAD
             "text": "Se o nosso objetivo é vencer a<n>Kikuka Sho, então\nela vai precisar<n>evoluir bastante."
-=======
-            "text": "If our goal is to win the Kikuka Sho,<n>then she'll\nhave to really level up."
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
         },
         {
             "name": "Narita Taishin",
@@ -60,26 +37,17 @@
         },
         {
             "name": "Winning Ticket",
-<<<<<<< HEAD
             "text": "Speee! Vamos fazer tiros de corrida<n>na praia\njuntas!"
         },
         {
             "name": "Special Week",
             "text": "Tickezo! Você me assustou! Hum,<n>tem certeza de\nque quer correr<n>comigo?",
-=======
-            "text": "Speee! Let's do some sprints on the<n>beach\ntogether!"
-        },
-        {
-            "name": "Special Week",
-            "text": "Tickezo! You scared me! Um, are you<n>sure you\nwant to run with me?",
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             "color_text_info_list": [
                 "Tickezo"
             ]
         },
         {
             "name": "Winning Ticket",
-<<<<<<< HEAD
             "text": "Absoluta certeza!"
         },
         {
@@ -111,56 +79,15 @@
             "text": "Tenho certeza de que treinar com<n>alguém ajudaria\na quebrar a<n>monotonia que ela está sentindo.",
             "choice_data_list": [
                 "Quer que eu procure alguém para treinar com\nvocê?"
-=======
-            "text": "Super sure!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "If we train together, we can draw out<n>each other's\nstrength to the <i>max,</i><n>and I'll be able to run\nfaster than<n>everrr!"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "C'mon, let's do this! Wooooo!"
-        },
-        {
-            "name": "Special Week",
-            "text": "Oh, that makes so much sense,<n>Tickezo! Okay, I'm\non board!<n>Wooooo!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Ugh, that overflowing enthusiasm<n>makes me sick."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "But... I dunno..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Narita Taishin goes silent after that. I<n>think I know\nwhat she's trying to<n>say."
-        },
-        {
-            "name": "Monólogo",
-            "text": "I'm sure training with someone<n>would help break\nthe monotony<n>she's feeling.",
-            "choice_data_list": [
-                "Want me to look for someone you can train with?"
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Narita Taishin",
-<<<<<<< HEAD
             "text": "Como se você fosse conseguir<n>encontrar alguém."
         },
         {
             "name": "Narita Taishin",
             "text": "Você viu o que a Ticket estava<n>aprontando, e a\nHayahide disse que<n>queria treinar sozinha neste\nverão.",
-=======
-            "text": "Like you'd be able to find anyone."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "You saw what Ticket was getting up<n>to, and\nHayahide said she wanted to<n>train on her own this\nsummer.",
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             "color_text_info_list": [
                 "Ticket",
                 "Hayahide"
@@ -168,56 +95,33 @@
         },
         {
             "name": "Narita Taishin",
-<<<<<<< HEAD
             "text": "Não venha chorando para mim se as<n>pessoas\nrirem quando você pedir<n>para treinarem com uma\nbaixinha.",
             "choice_data_list": [
                 "Ninguém faria isso.",
                 "Ninguém faria isso."
-=======
-            "text": "Don't come crying to me if people<n>scoff at you\nwhen you ask them to<n>train with a pipsqueak.",
-            "choice_data_list": [
-                "No one would do that.",
-                "No one would do that."
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Monólogo",
-<<<<<<< HEAD
             "text": "Narita Taishin não só foi muito bem na<n>Satsuki Sho\ne na Derby Japonêsa,<n>como também é uma das\ntrês<n>melhores corredoras das corridas<n>Classicas."
         },
         {
             "name": "Monólogo",
             "text": "Eu digo a ela que não há ninguém na<n>Academia\nTracen que duvide das<n>suas habilidades.",
-=======
-            "text": "Not only did Narita Taishin do great at<n>the Satsuki\nSho and Japanese Derby,<n>she's one of the top\nthree racers<n>running the Classics."
-        },
-        {
-            "name": "Monólogo",
-            "text": "I tell her how there's no one in<n>Tracen Academy\nwho doubts her<n>skills.",
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             "color_text_info_list": [
                 "Tracen Academy"
             ]
         },
         {
             "name": "Narita Taishin",
-<<<<<<< HEAD
             "text": "Faz o que quiser..",
             "choice_data_list": [
                 "Certo, então vou procurar alguém!",
                 "Certo, então vou procurar alguém!"
-=======
-            "text": "Do whatever you want...",
-            "choice_data_list": [
-                "Okay, then I'll go find someone!",
-                "Okay, then I'll go find someone!"
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Monólogo",
-<<<<<<< HEAD
             "text": "Com isso, saio correndo pela praia,<n>tentando\nencontrar um ou dois<n>possíveis parceiros de treino\npara<n>Narita Taishin."
         },
         {
@@ -246,41 +150,10 @@
             "choice_data_list": [
                 "Treino de força quebrando melancias.",
                 "Treino de coragem puxando pneus."
-=======
-            "text": "With that, I run around the beach,<n>trying to find a\npotential training<n>partner or two for Narita Taishin."
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Wait, you want us to do strength<n>training by\nwhacking watermelons?<n>Don't tell me we have to\ndo this with<n>our bare hands, haha."
-        },
-        {
-            "name": "Matikanetannhauser",
-            "text": "Ahaha! Of course not! We can use a<n>bat!"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "Well, that sounds a whole lot like a<n>regular ol'\nsummertime game than<n>actual training."
-        },
-        {
-            "name": "Haru Urara",
-            "text": "Omigosh, Rice, you're awesome! You<n>brought so\nmany tires!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Y-yeah! I pulled a whole bunch over<n>because, well,\nI want to work on<n>being more gutsy!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Okay, which one to pick...",
-            "choice_data_list": [
-                "Power training by splitting watermelons.",
-                "Guts training by pulling tires."
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Narita Taishin",
-<<<<<<< HEAD
             "text": "Hã? Quebrar melancias? Como<n>exatamente isso é\num tre—"
         },
         {
@@ -292,24 +165,10 @@
             "text": "<i>Eu</i> vou guiar?! Isso sim é ser<n>jogada na\nfogueira...",
             "choice_data_list": [
                 "Só finja que está controlando um personagem em\num videogame!"
-=======
-            "text": "Huh? Watermelon-splitting? How<n>exactly is that\ntrain—"
-        },
-        {
-            "name": "Matikanetannhauser",
-            "text": "Welcome, Taishin! I'll start us off, so<n>I'm counting\non you to guide me<n>while I'm blindfolded!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "<i>I'm</i> the guide?! Talk about getting<n>thrown into\nthe deep end...",
-            "choice_data_list": [
-                "Just pretend you're controlling a character in a\nvideo game!"
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Narita Taishin",
-<<<<<<< HEAD
             "text": "Quem te perguntou?!"
         },
         {
@@ -347,45 +206,6 @@
         {
             "name": "Monólogo",
             "text": "<i>Nhac.</i>"
-=======
-            "text": "Who asked you?!"
-        },
-        {
-            "name": "Nice Nature",
-            "text": "There! The blindfold's on, so let's get<n>started!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Urk!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Take two steps to the right! Then<n>three steps\nforward... No, that's too<n>far! Backtrack a step and\na half!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "And then... ATTACK!"
-        },
-        {
-            "name": "Matikanetannhauser",
-            "text": "Thank you so much, Taishin! Your<n>instructions\nwere really easy to<n>follow!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Uh... Sure thing."
-        },
-        {
-            "name": "Matikanetannhauser",
-            "text": "Oh, Nature's prepped the watermelon<n>over there\nfor us to eat. Let's go!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "(Geez, the watermelon's bashed to<n>smithereens...\nWouldn't it have been<n>better just to cut it\nnormally?)"
-        },
-        {
-            "name": "Monólogo",
-            "text": "<i>Chomp.</i>"
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
         },
         {
             "name": "Narita Taishin",
@@ -393,19 +213,11 @@
         },
         {
             "name": "Narita Taishin",
-<<<<<<< HEAD
             "text": "Hã."
         },
         {
             "name": "Matikanetannhauser",
             "text": "Ahaha, estranho, não é? A melancia<n>ficou meio\ntorta, mas está mais<n>gostosa do que o normal."
-=======
-            "text": "Huh."
-        },
-        {
-            "name": "Matikanetannhauser",
-            "text": "Ahaha, strange, isn't it? The<n>watermelon's a little\nwonky-looking,<n>but it tastes better than normal."
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
         },
         {
             "name": "Narita Taishin",
@@ -413,7 +225,6 @@
         },
         {
             "name": "Narita Taishin",
-<<<<<<< HEAD
             "text": "É."
         },
         {
@@ -439,33 +250,6 @@
         {
             "name": "Rice Shower",
             "text": "Oh! C-claro! Adoraríamos ter você<n>conosco!"
-=======
-            "text": "Yeah."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Narita Taishin ends up having a<n>relatively nice\nsummer."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "A-are you sure you want to join us,<n>Taishin?"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I might end up c-cursing you with bad<n>luck... if we\ntrain together..."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "What kind of logic is that? Anyway,<n>I'm the one\nasking if I can train with<n>you."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "So, I guess... Could I?"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Oh! S-sure! We'd love to have you!"
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
         },
         {
             "name": "Narita Taishin",
@@ -473,7 +257,6 @@
         },
         {
             "name": "Monólogo",
-<<<<<<< HEAD
             "text": "O treinamento corre bem, e Narita<n>Taishin colhe os\nbenefícios."
         },
         {
@@ -486,25 +269,10 @@
             "choice_data_list": [
                 "Esperem aí! Vou comprar para vocês três!",
                 "Esperem aí! Vou comprar para vocês três!"
-=======
-            "text": "The training goes well, and Narita<n>Taishin reaps\nthe benefits."
-        },
-        {
-            "name": "Haru Urara",
-            "text": "Oh, lookie! They're selling shaved ice!<n>We trained\nhard, so let's reward<n>ourselves with dessert!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Ooh, shaved ice! I wonder if they<n>have apple\nflavor?",
-            "choice_data_list": [
-                "Hang tight! I'll buy some for the three of you!",
-                "Hang tight! I'll buy some for the three of you!"
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
             ]
         },
         {
             "name": "Shopkeeper",
-<<<<<<< HEAD
             "text": "Ah, puxa. Me desculpem! O<n>movimento foi enorme\nhoje e eu<n>fiquei sem gelo! Estou esperando<n>uma\nnova entrega chegar agora<n>mesmo."
         },
         {
@@ -542,45 +310,6 @@
         {
             "name": "Truck Driver",
             "text": "Vocês são tão pequeninas! Não<n>posso pedir que\nlevantem um<n>caminhão."
-=======
-            "text": "Ah, shucks. I'm sorry! Business was<n>booming\ntoday, and I'm plum out of<n>ice! I'm waiting on a\nnew delivery to<n>come now."
-        },
-        {
-            "name": "Shopkeeper",
-            "text": "Oops, it's the phone. Hello? What?!<n>You're really\nclose, but there's been<n>an accident?!"
-        },
-        {
-            "name": "Haru Urara",
-            "text": "Oh no! Not good! Everyone's waiting<n>for the\nice—we'd better go help!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Wait... Are you serious?!"
-        },
-        {
-            "name": "Truck Driver",
-            "text": "Dang it, I can't believe I ran off into<n>the shoulder..."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Oh, gosh... Wh-what do we do? If only<n>I hadn't\nwanted shaved ice!"
-        },
-        {
-            "name": "Haru Urara",
-            "text": "Okie-dokie! All we've gotta do is pick<n>up your\ntruck, right? We can do it!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Y-yeah! Um, w-we've got this!"
-        },
-        {
-            "name": "Truck Driver",
-            "text": "What?! This thing's loaded with<n>cargo! I know\nyou're all<n>Umamusume, but still..."
-        },
-        {
-            "name": "Truck Driver",
-            "text": "You're all so petite! I can't be asking<n>you to pick\nup a truck."
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
         },
         {
             "name": "Narita Taishin",
@@ -588,19 +317,11 @@
         },
         {
             "name": "Narita Taishin",
-<<<<<<< HEAD
             "text": "Saiam da frente. Urara, Rice — vamos<n>nessa."
         },
         {
             "name": "Truck Driver",
             "text": "O quê?! Espera, vocês vão se<n>machuca—"
-=======
-            "text": "Out of our way. Urara, Rice—let's do<n>this."
-        },
-        {
-            "name": "Truck Driver",
-            "text": "What?! Wait, you'll hurt yourse—"
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
         },
         {
             "name": "Narita Taishin",
@@ -608,7 +329,6 @@
         },
         {
             "name": "Truck Driver",
-<<<<<<< HEAD
             "text": "C-caramba! Inacreditável!"
         },
         {
@@ -630,29 +350,6 @@
         {
             "name": "Narita Taishin",
             "text": "O-O que deu em vocês duas?"
-=======
-            "text": "Wh-whoa! Unbelievable!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Thanks to their combined efforts, they<n>manage to\nget some well-earned<n>shaved ice."
-        },
-        {
-            "name": "Haru Urara",
-            "text": "You were so cool, Taishin!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Huh?"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Y-yeah! You were so cool... and bold!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Wh-what's gotten into you two?"
->>>>>>> be0530c84c640a94eda367e204c5dd44750ce5ed
         }
     ]
 }

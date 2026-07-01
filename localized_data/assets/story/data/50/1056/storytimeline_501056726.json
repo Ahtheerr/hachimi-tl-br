@@ -1,0 +1,48 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One day, while out and about with\nMatikanefukukitaru..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Look over there, Trainer! What else<n>could that be\nbut a lucky omen!",
+            "choice_data_list": [
+                "What's up?",
+                "What's up?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Matikanefukukitaru points toward a<n>claw machine\nfilled with Umamusume<n>plushies."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Today's horoscope said my lucky<n>item is a\nplushie!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "The great Shiraoki wanted this<n>encounter to\nhappen, guiding me here<n>to this very spot!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I just know super-ultra-mega-great<n>fortune will\ncome my way if a certain<n>lucky trainer wins one\nfor me!",
+            "choice_data_list": [
+                "You really want one, huh?",
+                "You really want one, huh?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Of course! I have great faith that<n>you'll reel in a\nwhole bunch!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I can see it already! You'll be hauling<n>them in by\nthe boatload! You'll be the<n>envy of all the other\ntrainers!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "There's no way I can fail now!"
+        }
+    ]
+}

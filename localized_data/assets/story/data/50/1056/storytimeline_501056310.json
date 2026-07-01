@@ -1,0 +1,54 @@
+{
+    "text_block_list": [
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wait... I lost? How could that be?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "What could have happened? Wasn't<n>luck working\nin my favor? Just...<n>what?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "This can't be right. It has to be a trick.<n>I mean, this\ncan't really be<n>happening. I have a destiny..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "What's going on, Trainer? I must still<n>be asleep.\nThis is all just a terrible<n>nightmare, <i>right?!</i>",
+            "choice_data_list": [
+                "It's real."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "It can't be real! I thought I'd been<n>reborn... This\nmeans I haven't<n>changed one bit..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Where has my luck gone?! Is it in<n>hibernation or\nsomething?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Wake up! Please, I'm begging you!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "If the gods have deserted me, then<n>what should I...\nI... Waaaah!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Um... Fukukitaru?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A worried Silence Suzuka tries<n>comforting her, but\nI gently turn her<n>down, sensing this isn't the right\ntime. Matikanefukukitaru continues to<n>cry."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I tell her that our next goal is the<n>Takarazuka\nKinen. She doesn't<n>respond.",
+            "color_text_info_list": [
+                "Takarazuka Kinen"
+            ]
+        }
+    ]
+}

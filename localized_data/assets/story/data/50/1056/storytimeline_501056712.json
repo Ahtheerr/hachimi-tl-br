@@ -1,0 +1,44 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Matikanefukukitaru doesn't show up<n>for training,\nso I go and look for her..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "The omen to beware of lightning...<n>again?! But\nwhy? It's so sunny<n>outside...",
+            "choice_data_list": [
+                "You're busy with divining, I see...",
+                "You're busy with divining, I see..."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Trainer?!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Upon closer inspection... Th-those<n>clouds look kind\nof menacing, right?",
+            "choice_data_list": [
+                "Aren't you forgetting something? Starts with a <i>t,</i>\nends with a <i>raining...</i>",
+                "Aren't you forgetting something? Starts with a <i>t,</i>\nends with a <i>raining...</i>"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ohhh!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ah... haha. Hahahaha..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "I'm sooooo sorry!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I give her a storm of a scolding so<n>this doesn't\nhappen again."
+        }
+    ]
+}

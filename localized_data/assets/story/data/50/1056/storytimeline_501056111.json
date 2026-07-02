@@ -2,6 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
+<<<<<<< Updated upstream
             "text": "Great aspirations have been realized<n>and\nboundless blessings have come<n>our way. Since\nshe took on the<n>challenge of the Twinkle Series,\nMatikanefukukitaru has achieved<n>considerable\nsuccess."
         },
         {
@@ -17,10 +18,28 @@
             "text": "I bet you Mati-can't live without me,<n>right? You\nmust have been dying to<n>see me again. Well, it's\nyour lucky<n>day!",
             "choice_data_list": [
                 "D-do you need something?"
+=======
+            "text": "Grandes aspirações se realizaram, e<n>bênçãos\nsem fim chegaram até nós.<n>Desde que aceitou o\ndesafio da<n>Twinkle Series, Matikanefukukitaru\nconquistou um enorme sucesso."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com nossa montanha-russa de três<n>anos\nchegando ao fim, só agora<n>consigo tirar esse\nenorme peso dos<n>ombros. Justo quando estou\nprestes<n>a respirar aliviado..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Tcharam! Você nem precisou chamar<n>meu nome, e\naqui estou eu! A<n>felicidade está sempre logo ali na\nesquina!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Aposto que Mati-cê não consegue<n>viver sem mim,\nné? Aposto que<n>estava morrendo de saudades.\nBem,<n>hoje é o seu dia de sorte!",
+            "choice_data_list": [
+                "V-você precisa de alguma coisa?"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Don't be so cold, Trainer! You're my<n>destined\npartner! You should look<n>overjoyed when you see\nme!"
         },
         {
@@ -56,10 +75,48 @@
             "text": "It's not just the arcade that's<n>heavenly. The\ncustomer service is<n>too.",
             "choice_data_list": [
                 "It seems like we're stretching the meaning of\n\"sacred sites\" here..."
+=======
+            "text": "Não seja tão frio, Treinador! Você é o<n>meu\nparceiro predestinado! Devia<n>ficar radiante quando\nme vê!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Enfim, hoje eu gostaria de levá-lo<n>para conhecer\nalguns lugares<n>sagrados como forma de\nagradecer<n>por tudo o que fez por mim."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Para garantir que muitas bênçãos<n>continuem\nchegando até você, vou<n>compartilhar um pouco da\nminha boa<n>sorte! O que acha?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Decido aceitar o convite dela."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ah, olha! Está vendo aquela estátua<n>do gato da\nsorte na frente daquele<n>bar?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Antigamente era um tanuki, mas<n>pintaram por\ncima. É justamente isso<n>que torna essa visão tão\nrara. Que<n>maravilha espiritual!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Isto aqui é um fliperama celestial.<n>Ganhar o prêmio\nprincipal na máquina<n>de garra é fácil demais."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "E, se você acabar gastando uma<n>fortuna sem\nganhar nada, os<n>funcionários, tão gentis quanto\natenciosos, acabam lhe dando o<n>prêmio mesmo\nassim."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Não é só o fliperama que é celestial. O<n>atendimento\ntambém é.",
+            "choice_data_list": [
+                "Acho que estamos forçando um pouco o\nsignificado de \"lugares sagrados\"..."
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Agh! Okay, let me show you one<n>more! This last\nsacred site outclasses<n>all the rest. Trust me!"
         },
         {
@@ -68,10 +125,21 @@
             "choice_data_list": [
                 "Isn't this the one we always come to?",
                 "Isn't this the one we always come to?"
+=======
+            "text": "Aaah! Certo, então vou te mostrar<n>mais um! Este\núltimo lugar sagrado<n>supera todos os outros. Pode\nconfiar!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Você reconhece este santuário?",
+            "choice_data_list": [
+                "Não é o santuário onde sempre viemos?",
+                "Não é o santuário onde sempre viemos?"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Uh-huh. However, turns out this very<n>shrine is\nactually the strongest sacred<n>site there is."
         },
         {
@@ -79,10 +147,20 @@
             "text": "I learned a new myth recently.",
             "choice_data_list": [
                 "Oh yeah?"
+=======
+            "text": "Isso mesmo. Mas acontece que este<n>santuário é,\nna verdade, o lugar<n>sagrado mais poderoso de\ntodos."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Recentemente, conheci uma nova<n>lenda.",
+            "choice_data_list": [
+                "Ah é?"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "",
+<<<<<<< Updated upstream
             "text": "Long, long ago, there was a girl who<n>came to this\nshrine."
         },
         {
@@ -165,10 +243,76 @@
             "text": "Just so you know, this isn't goodbye<n>for us. The\nstring of fate tying us<n>together is made of steel!",
             "choice_data_list": [
                 "That's fine, but... aren't you going to draw a\nfortune slip?"
+=======
+            "text": "Há muito, muito tempo, uma garota<n>veio a este\nsantuário."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ela queria que seus desejos se<n>realizassem, mas\nnão fazia ideia de<n>por onde começar. Estava\ncompletamente perdida."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Foi então que um mensageiro dos<n>deuses\napareceu diante dela. Sua<n>missão era transformar\nos desejos<n>daquela garota em realidade."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "O mensageiro concedeu a ela um<n>poder milagroso.\nCom ele, ela podia<n>saltar pela Via Láctea e segurar\nas<n>estrelas nas palmas das mãos."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Incrível, não acha? Você não acha<n>que uma lenda\ndessas transforma<n>este lugar no maior dos\nlugares<n>sagrados?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ao que parece, a garota ficou muito<n>grata por esse\npresente. Pelo menos,<n>é assim que a história diz."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que Fukukitaru me trouxe até<n>aqui para\nexpressar sua gratidão."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Na minha opinião, aquilo pelo qual ela<n>realmente\nera grata..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Não tinha nada a ver com o desejo<n>dela ter se\nrealizado.",
+            "choice_data_list": [
+                "Pelo quê, então?"
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Pelo tempo que passou ao lado do<n>mensageiro!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Às vezes ela vencia, às vezes perdia.<n>Às vezes as\ncoisas davam certo, às<n>vezes não..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Mas, acontecesse o que<n>acontecesse, ela sempre\nera feliz. Do<n>fundo do m—"
+        },
+        {
+            "name": "Matikane-nem-um-pouco-sutíl.",
+            "text": "Dela! Quero dizer, dela! Estou falando<n>da garota,\nnão de mim!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Acabei me atrapalhando um pouco na<n>história,\nmas você entendeu a ideia,<n>não foi?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Então, o que acha? Podemos<n>considerar este\nsantuário o melhor<n>lugar sagrado de todos?",
+            "choice_data_list": [
+                "Com certeza!",
+                "Com certeza!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Monólogo",
+<<<<<<< Updated upstream
             "text": "It's not like her to come to a shrine<n>and not draw\na fortune slip."
         },
         {
@@ -176,10 +320,39 @@
             "text": "I'll give it a miss for today.",
             "choice_data_list": [
                 "But..."
+=======
+            "text": "Talvez um \"lugar sagrado\" não<n>precise ter um\npoder especial por si<n>só."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Às vezes, um encontro por acaso<n>acaba se\ntornando uma parte<n>preciosa da vida de alguém.\nAs<n>vitórias e dificuldades de<n>Matikanefukukitaru\ntransformaram<n>este santuário em um lugar\nverdadeiramente especial."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Enfim, vamos? Era só isso que eu<n>queria te\ncontar!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Só para constar, isto não é uma<n>despedida para\nnós. O fio do destino<n>que nos une é feito de aço!",
+            "choice_data_list": [
+                "Tudo bem, mas... você não vai tirar um omikuji?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não é do feitio dela visitar um<n>santuário sem tirar\num omikuji."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hoje eu vou passar.",
+            "choice_data_list": [
+                "Mas..."
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "I'm fine, really. Why don't we go and<n>get some\nsweet red bean soup?"
         },
         {
@@ -193,6 +366,21 @@
         {
             "name": "Matikanefukukitaru",
             "text": "(There's someone beside me to<n>share my\nhappiness with!)"
+=======
+            "text": "Está tudo bem, de verdade. Que tal<n>irmos tomar\num oshiruko?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "(A verdade é que... eu não preciso<n>testar a minha\nsorte para saber a<n>resposta.)"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "(Hoje é o meu dia de sorte. Quer<n>dizer...)"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "(Há alguém ao meu lado para<n>compartilhar essa\nfelicidade comigo!)"
+>>>>>>> Stashed changes
         }
     ]
 }

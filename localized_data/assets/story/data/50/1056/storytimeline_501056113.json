@@ -2,6 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
+<<<<<<< Updated upstream
             "text": "The Derby draws closer. One night,<n>after another\nhard session of diligent<n>training..."
         },
         {
@@ -17,39 +18,79 @@
             "text": "Oh, Trainer! I-I-I-I saw it! I-it's right<n>over there!",
             "choice_data_list": [
                 "A ghost?!"
+=======
+            "text": "A Derby está cada vez mais próximo.<n>Certa noite,\napós mais um intenso dia<n>de treinamento..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "AAAAAAAAAAAAAH!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Esse foi o grito de um pombo<n>possuído por um\ndemônio? Não, foi<n>Matikanefukukitaru! Corro até a\nsala<n>de aula e encontro..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ah, Treinador! E-e-e-eu vi! E-está<n>bem ali!",
+            "choice_data_list": [
+                "Um fantasma?!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Worse! Have a look, if you dare! Right<n>there on the\nwall, in the list of Derby<n>entrants!"
         },
         {
             "name": "Matikanefukukitaru",
             "text": "A name I never thought I'd see...<n>Look, it says...\n<i>Silence Suzuka!</i>",
+=======
+            "text": "Pior! Olhe, se tiver coragem! Bem ali<n>na parede, na\nlista de participantes da<n>Derby!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Um nome que eu nunca imaginei ver...<n>Olha, está\nescrito... <i>Silence Suzuka!</i>",
+>>>>>>> Stashed changes
             "color_text_info_list": [
                 "Silence Suzuka"
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Aiiieee! Her name is so bright my<n>eyes can hardly\ntake it!",
             "choice_data_list": [
                 "Hey, get a grip!"
+=======
+            "text": "Aaaahhh! O nome dela brilha tanto<n>que meus\nolhos mal conseguem<n>suportar!",
+            "choice_data_list": [
+                "Ei, se acalma!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "R-right... Sorry. I was just so<n>surprised."
         },
         {
             "name": "Matikanefukukitaru",
             "text": "Trainer, let's pray together! As I am, I<n>don't have\nthe confidence to race<n>against the likes of Suzuka!",
+=======
+            "text": "T-tem razão... Desculpe. É que eu<n>fiquei muito\nsurpresa."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Treinador, vamos rezar juntos! Do<n>jeito que\nestou, não tenho confiança<n>para correr contra\nalguém como a<n>Suzuka!",
+>>>>>>> Stashed changes
             "color_text_info_list": [
                 "Suzuka"
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "O gods, hear my supplication! Grant<n>me a divine\nshield against Suzuka's<n>piercing light!"
         },
         {
@@ -59,12 +100,24 @@
         {
             "name": "Silence Suzuka",
             "text": "What are you praying for, Fukukitaru?",
+=======
+            "text": "Ó deuses, escutem minha súplica!<n>Concedam-me\num escudo divino<n>contra o brilho avassalador da\nSuzuka!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Um poder tão extraordinário pode<n>trazer maldições\nterríveis. Então, eu<n>lhes imploro..."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Pelo que você está rezando,<n>Fukukitaru?",
+>>>>>>> Stashed changes
             "color_text_info_list": [
                 "Fukukitaru"
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Isn't it obvious? I'm praying not to<n>be consumed\nby your all-powerful—"
         },
         {
@@ -120,10 +173,68 @@
             "text": "I'm just happy to see that you're<n>feeling better.",
             "choice_data_list": [
                 "Why don't you both pray for victory together?"
+=======
+            "text": "Não é óbvio? Estou rezando para não<n>ser\nconsumida pelo seu poder<n>absolu..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Aaaahhh! Suzuka?! O que você está<n>fazendo\naqui?! Veio acabar comigo de<n>uma vez por todas?!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Hum... Eu só vim rezar, assim como<n>você."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Quero dar o meu melhor na Derby."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Dar o seu melhor...? Mas por que<n>alguém como\nvocê precisaria rezar<n>por uma coisa dessas?"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Acho que todas nós sentimos a<n>mesma coisa\nquando a Derby se<n>aproxima."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Não queremos ser derrotadas por<n>essa corrida\nmonstruosa... Ela<n>intimida qualquer uma."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Sabe, é como quando sua rival, de<n>repente, parece\nimpossível de vencer.<n>Mas não há motivo para\nentrar em<n>pânico."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "É perfeitamente natural sentir medo."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Sentir medo é... natural?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Bem, se até alguém como você pode<n>sentir\nmedo..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Então faz sentido eu estar<n>apavorada. Por algum\nmotivo, ouvir<n>isso me faz sentir um pouco melhor."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Muito obrigada, Suzuka!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Só fico feliz em ver que você está se<n>sentindo\nmelhor.",
+            "choice_data_list": [
+                "Por que vocês duas não rezam pela vitória\njuntas?"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Together? Yeah, good idea! Thank<n>you!"
         },
         {
@@ -147,15 +258,48 @@
             "text": "If she has the same great blessing as<n>me, then\nher natural ability will surely<n>seal her victory!",
             "choice_data_list": [
                 "Oh no! What should we do?!"
+=======
+            "text": "Juntas? É mesmo, ótima ideia!<n>Obrigada!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Então, Suzuka, já que estamos aqui,<n>vamos rezar\njuntas!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Depois de terminarem suas orações,<n>Silence\nSuzuka vai embora."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ufa! Ainda bem que tudo terminou<n>bem. Que alívio\ntira um peso das<n>minhas cos—"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Espera! Ah, não! Já que rezamos<n>juntas, isso não\nsignifica que a<n>Suzuka recebeu a mesma\nquantidade<n>de sorte que eu?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Se ela tiver a mesma Grande Fortuna<n>que eu,\nentão o talento natural dela<n>certamente garantirá\nsua vitória!",
+            "choice_data_list": [
+                "Ah, não! O que vamos fazer?!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "We've got no choice but to ask for<n>divine\nintervention!"
         },
         {
             "name": "Matikanefukukitaru",
             "text": "O gods, hear me! Grant me the<n>greatest, best,\nmost supremely<n>sublime blessing that Umakind\nhas<n>known or will ever know!"
+=======
+            "text": "Não temos escolha a não ser pedir<n>outra\nintervenção divina!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ó deuses, escutem-me!<n>Concedam-me a maior,\nmelhor, mais<n>suprema e sublime bênção que\nqualquer Umamusume já recebeu ou<n>receberá!"
+>>>>>>> Stashed changes
         }
     ]
 }

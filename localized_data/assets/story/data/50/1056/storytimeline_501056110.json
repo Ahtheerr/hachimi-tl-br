@@ -2,7 +2,11 @@
     "text_block_list": [
         {
             "name": "Monólogo",
+<<<<<<< Updated upstream
             "text": "I've spent three years with<n>Matikanefukukitaru. It\nwas long in<n>essence, and yet, the time went by in\na flash. Today, everything comes to a<n>close."
+=======
+            "text": "Está na hora de irmos conquistá-la<n>nós mesmos."
+>>>>>>> Stashed changes
         },
         {
             "name": "Matikanefukukitaru",
@@ -10,14 +14,22 @@
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "This is just the perfect time to wrap<n>things up!\nGetting to finish with a New<n>Year's shrine visit is\njust perfect!",
             "choice_data_list": [
                 "You're right about that.",
                 "You're right about that."
+=======
+            "text": "Este é simplesmente o momento<n>perfeito para\nencerrar tudo! Terminar<n>o ano com uma visita ao\nsantuário no<n>Ano-Novo é perfeito!",
+            "choice_data_list": [
+                "Você tem razão.",
+                "Você tem razão."
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Right! We're always on the same<n>page, always in\nsync—like dancers or<n>synchronized swimmers."
         },
         {
@@ -66,6 +78,56 @@
         {
             "name": "Monólogo",
             "text": "...I guess she has two wishes."
+=======
+            "text": "Exatamente! Estamos sempre em<n>sintonia,\nsempre na mesma<n>frequência... como dançarinos\nou<n>nadadores de nado sincronizado."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Enfim, vamos fazer nossa oração.<n>Agora deixa eu\npegar umas moedas<n>para a caixa de oferendas..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Espera, aaaaah! Não tenho nenhuma<n>moeda\ncomigo! Treinador, pode me<n>emprestar algumas?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Matikanefukukitaru continua<n>exatamente a\nmesma de sempre:<n>fazendo um estardalhaço por\nqualquer coisa, mas sendo tão<n>cativante que é\nimpossível ficar bravo<n>com ela..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Junto as mãos e faço uma oração<n>para que ela\ncontinue alcançando o<n>sucesso."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "O que você pediu? Pode me contar. É<n>só\nsussurrar.",
+            "choice_data_list": [
+                "Segredo."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ah, isso não vale! Por que você não<n>pode me\ncontar? Aff!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Bem, eu escolho ser completamente<n>sincera!\nAfinal, só existe uma coisa<n>que eu desejo."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Meu desejo é que você receba muita<n>boa sorte!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Matikanefukukitaru tem apenas um<n>desejo. E\nesse desejo é por mim."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Também desejo que você me conte<n>o que pediu!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "...Acho que, na verdade, ela tem dois<n>desejos."
+>>>>>>> Stashed changes
         }
     ]
 }

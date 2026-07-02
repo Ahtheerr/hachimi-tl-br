@@ -2,6 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
+<<<<<<< Updated upstream
             "text": "The holiday season is upon us once<n>again. It\ncomes and goes faster than<n>a runner in the\nSatsuki Sho..."
         },
         {
@@ -17,10 +18,43 @@
             "text": "Ack, I've ripped it! But at least it's<n>loose!",
             "choice_data_list": [
                 "Burglar?!"
+=======
+            "text": "O natal chegou mais uma vez. Ele vai<n>e volta mais\nrápido que uma<n>corredora na Satsuki Sho..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Argh! Quem foi que sugeriu que eu<n>entrasse pela\nchaminé? Isso aqui é<n>estreito demais!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Aff, meu saco de presentes ficou<n>preso. Vou ter\nque dar um<n>empurrãozinho para resolver isso!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ah?! Rasguei ele! Mas pelo menos<n>consegui\nsoltar!",
+            "choice_data_list": [
+                "Ladrão"
+            ]
+        },
+        {
+            "name": "Matikanefurtotaru",
+            "text": "Ho ho, acertou! Agora passe todo o<n>seu ouro!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "...Espera aí. É natal, não é? Acho que<n>já não faz\nsentido esconder isso..."
+        },
+        {
+            "name": "Mati-papai Noel-Fuku",
+            "text": "Eu sou a Mati-papai Noel-Fuku! Vim<n>trazer\npresentes para todas as boas<n>meninas e bons\nmeninos!",
+            "choice_data_list": [
+                "Desculpe. Pode repetir o seu nome?"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Hyuck hyuck, indeed I am! Now, hand<n>over yer\ngold!"
         },
         {
@@ -53,12 +87,32 @@
         {
             "name": "",
             "text": "Let's take a look... Great fortune!<n>Congratulations!\nPulling great fortune<n>is a gift in itself!",
+=======
+            "text": "Ai... Será que não dá para evitar isso?<n>Não é como\nse eu tivesse falado<n>errado da primeira vez..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "E-enfim, tenho um presente para<n>você. Coloque a\nmão no saco e puxe<n>o que quiser."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Vou distribuir presentes no estilo<n>omikuji! O que\nvocê tirar será o seu<n>presente, combinado?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Coloco a mão no saco e pego a<n>primeira coisa que\nencontro..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Vejamos... Grande Fortuna!<n>Parabéns! Tirar uma\nGrande Fortuna<n>já é um presente por si só!",
+>>>>>>> Stashed changes
             "choice_data_list": [
                 "..."
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Oh, are you not happy? Guess I'll<n>have to make\nthis right. Here, take<n>this!"
         },
         {
@@ -103,10 +157,57 @@
             "choice_data_list": [
                 "I don't mind at all.",
                 "I don't mind at all."
+=======
+            "text": "Ah, você não ficou feliz? Então vou<n>consertar isso.\nTome, fique com isto!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Tcharam! Dentro da caixa há uma<n>árvore festiva\nde mil anos! Quer<n>dizer... uma réplica de plástico\ndela."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "É um ótimo prêmio. Vá em frente,<n>abra!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Desembrulho o presente e abro a<n>caixa..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Nããão! A estrela do topo da árvoreee!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A estrela se quebrou e caiu.<n>Provavelmente\naconteceu quando ela<n>ficou presa na chaminé."
+        },
+        {
+            "name": "Mati-Noel...?",
+            "text": "Aaaah... Só me resta pedir<n>desculpas... Que tipo de\nMati-Noel eu<n>sou...?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hum, Treinador. Pode vir aqui fora<n>comigo por um\ninstante?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Com licença! Vocês têm cola e fita<n>adesiva, por\nfavor?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Só um minutinho... Vou consertar isso<n>já. Aaaah,\nque vergonha..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Eu queria que a comemoração de<n>hoje tivesse\num clima um pouco<n>mais sagrado. Isso é tão\ndeprimente...",
+            "choice_data_list": [
+                "Eu não me importo, tá tudo bem.",
+                "Eu não me importo, tá tudo bem."
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Trainer! <i>Sniff...</i> You're so kind!"
         },
         {
@@ -130,10 +231,36 @@
             "text": "Doesn't it look like there's a real star<n>on top of it\nnow? How romantic is<n>that!",
             "choice_data_list": [
                 "I want to have a proper star on top."
+=======
+            "text": "Treinador! <i>Sniff...</i> Você é tão gentil!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Já que está sendo tão gentil, posso<n>pedir mais um\nfavor? Quando<n>voltarmos, pode me ajudar a colar\na<n>estrela de volta?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Mas pode ser depois de comermos o<n>bolo das\nfestas. Hehe."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Apesar dos contratempos, nós nos<n>divertimos\ntentando consertar a<n>árvore juntos.\nEstranhamente,<n>acabou sendo uma comemoração\nmuito acolhedora."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Certo, plano B! Hora de usar minha<n>arma secreta!\nVamos, Treinador,<n>levante a árvore bem alto em\ndireção<n>ao céu!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Não parece que agora ela tem uma<n>estrela de\nverdade no topo? Não ficou<n>romântico?",
+            "choice_data_list": [
+                "Eu queria uma estrela de verdade no topo."
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Ack! My little illusion wasn't good<n>enough for\nyou? I thought I really<n>turned on the charm there..."
         },
         {
@@ -141,10 +268,20 @@
             "text": "I guess I'd better use the star that fell<n>off, huh?\n<i>Sigh...</i>",
             "choice_data_list": [
                 "Why don't you use the star that you'll win at the\nArima Kinen?"
+=======
+            "text": "Ah! Minha pequena ilusão não foi<n>suficiente para\nvocê? Achei que tinha<n>sido bem convincente..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Acho que vou ter mesmo que usar a<n>estrela que\ncaiu, né? <i>Suspiro...</i>",
+            "choice_data_list": [
+                "Por que não usar a estrela que você vai\nconquistar na Arima Kinen?"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Huh? The Arima Kinen? That's still<n>coming... up..."
         },
         {
@@ -152,10 +289,20 @@
             "text": "Ah, I see what you did there! That<n>was actually\npretty cool. Seems I'm<n>no match for you.",
             "choice_data_list": [
                 "Promise me you'll get that star?"
+=======
+            "text": "Hã? A Arima Kinen? Ela ainda vai<n>acon... te... cer..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ah, já entendi o que você quis dizer!<n>Essa foi boa.\nParece que não consigo<n>competir com você.",
+            "choice_data_list": [
+                "Promete que vai conquistar essa estrela?"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Oh, Trainer... Y-yeah, I'll do it. By the<n>way..."
         },
         {
@@ -169,6 +316,21 @@
         {
             "name": "Monólogo",
             "text": "We still don't have the star we need<n>for the tree.\nIt's time to go and win it<n>for ourselves."
+=======
+            "text": "Ah, Treinador... S-sim, eu vou. Aliás..."
+        },
+        {
+            "name": "Matikanefukitaru",
+            "text": "Você está muito elegante hoje,<n>sabia? Só de olhar\npara você meu<n>coração já está disparado..."
+        },
+        {
+            "name": "Matikane-sentindo-o-calor",
+            "text": "Meu rosto está tão vermelho que vou<n>acabar\nvirando a<n>Matikane-sentindo-o-calor. Espera,\nmas estamos bem no meio do<n>inverno. Será que\nestraguei outra<n>piada?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ainda não temos a estrela que falta<n>para colocar\nno topo da árvore."
+>>>>>>> Stashed changes
         }
     ]
 }

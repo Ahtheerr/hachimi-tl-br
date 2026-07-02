@@ -2,6 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
+<<<<<<< Updated upstream
             "text": "One day, after Matikanefukukitaru<n>has a number\nof victories under her<n>belt..."
         },
         {
@@ -70,10 +71,81 @@
             "choice_data_list": [
                 "I certainly did!",
                 "I certainly did!"
+=======
+            "text": "Um dia, depois que<n>Matikanefukukitaru já\nacumulou<n>várias vitórias..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Treinadooor! Trago boas notícias!<n>Boas novas!\nMúsica para os seus<n>ouvidos!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "O grande momento finalmente<n>chegou! Olhe este\nomikuji,<n>recém-tirado e recém-aberto!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela me entrega um omikuji novinho<n>em folha."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Lembra quando ganhamos aquele<n>sorteio, mas os\ndeuses disseram<n>para esperarmos um ano? Sabe,\no da<n>viagem às fontes termais?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Pois bem, um ano se passou, então<n>tirei outro\nomikuji."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "E nele está escrito: \"Meh, por que<n>não fazer a\nviagem?\""
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "É uma mensagem bem direta pra um<n>omikuji, não\nacha?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não sei dizer se isso é comum ou<n>não, mas\nparece que os deuses<n>finalmente nos deram sua\nbênção."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "E, quando o destino chama, devemos<n>atender!\n...Tudo bem, esse destino<n>nos chamou há quase\num ano, mas<n>antes tarde do que nunca!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Não precisamos mais nos preocupar<n>com a\nTwinkle Series, então vamos<n>finalmente fazer\nessa viagem de<n>sorte para as fontes termais!\nUhuu!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Encha sua mala de lanches e vamos<n>cair na\nestrada! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com as malas abarrotadas de<n>guloseimas,\npartimos para nossa<n>viagem às fontes termais."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto relaxamos nas águas<n>termais dos\ndeuses..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Aaah... A água estava maravilhosa.<n>Este lugar\ndeve ser o que chamam<n>de paraíso."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Você percebeu a auspiciosa cor<n>dourada do banho\nde enxofre?<n>Louvados sejam os céus!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Treinador, você também conseguiu<n>relaxar\nbastante?",
+            "choice_data_list": [
+                "Com certeza!",
+                "Com certeza!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Hoho! Your face certainly tells me<n>you're all\nloosened up! Now then..."
         },
         {
@@ -81,10 +153,20 @@
             "text": "Let's take it up a notch! Time to get<n>this happy\nbonanza started!",
             "choice_data_list": [
                 "Bonanza?!"
+=======
+            "text": "Hoho! Dá para ver pela sua<n>expressão que você\nestá totalmente<n>relaxado! Agora então..."
+        },
+        {
+            "name": "",
+            "text": "Vamos elevar o nível! Está na hora de<n>começar a\ngrande festança da<n>felicidade!",
+            "choice_data_list": [
+                "Festança?!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Of course! We're not here just to get<n>all toasty in\nthe hot spring, you know!"
         },
         {
@@ -134,12 +216,64 @@
         {
             "name": "Matikanefukukitaru",
             "text": "For my next impression... The<n>deadpan Suzuka\nafter she becomes a<n>god!",
+=======
+            "text": "Claro! Você não achou que viemos<n>aqui só para\nficar de molho nas<n>águas termais, achou?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Claro! Você não achou que viemos<n>aqui só para\nficar de molho nas<n>águas termais, achou?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hoje vamos deixar as pistas de lado<n>e celebrar\ntodo o nosso esforço com<n>uma grande\ncomemoração!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Quero dar uma festa tão incrível que<n>até os\ndeuses fiquem nas nuvens!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Entendeu, Treinador?! Hoje à noite<n>vamos fazer a\nreunião mais feliz de<n>todas, cheia de chá e muita\ncantoria!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela está realmente empolgada com<n>isso... Será\nque ela queria fazer uma<n>festa desde o começo?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A \"Oráculo da Felicidade\" realmente<n>sabe\ncomemorar. Ou talvez este seja<n>apenas um lado\ndela que eu nunca<n>tinha conhecido."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Com licença! Vamos querer um barco<n>de sushi e\num de cada item especial<n>do cardápio!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "E agora, um pouco de entretenimento<n>para\nacompanhar a refeição.<n>Treinador, permita-me\napresentar<n>meu show solo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto começo a saborear o<n>banquete,\nMatikanefukukitaru inicia<n>uma sequência de\nimitações."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Minha primeira imitação... Uma<n>Umamusume que\nficou para trás na<n>corrida, mas continua dando\ntudo de<n>si!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Nããão!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Minha próxima imitação... Suzuka com<n>aquela\nexpressão impassível depois<n>de virar uma deusa!",
+>>>>>>> Stashed changes
             "color_text_info_list": [
                 "Suzuka"
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "I hope your wish comes true. Okay...<n>bye."
         },
         {
@@ -159,15 +293,44 @@
             "text": "<i>Yaaawn...</i> And now, for impression<n>number\nsixty-four... The god of war,<n>Bishamonten... after\nfalling into a<n>pond...",
             "choice_data_list": [
                 "Do you want to stop for a bit and eat something?"
+=======
+            "text": "Espero que seu desejo se realize.<n>Certo... tchau."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "E agora, minha terceira imitação...<n>Uma leitura de\ntarô das Umamusume!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hã?! Eu nem sabia que \"A Sprinter\"<n>fazia parte do\nbaralho de tarô!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Matikanefukukitaru dispara uma<n>imitação atrás da\noutra, algumas<n>hilárias, outras completamente\nincompreensíveis."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Bocejo...</i> E agora, a imitação<n>número sessenta\ne quatro...<n>Bishamonten, o deus da guerra...\ndepois de cair num lago...",
+            "choice_data_list": [
+                "Você não quer parar um pouco para comer alguma\ncoisa?"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "...Hmm? Oh, yeah. I guess I got a little<n>carried\naway there."
         },
         {
             "name": "Matikanefukukitaru",
             "text": "But first... I think it's time for a nap..."
+=======
+            "text": "...Hum? Ah, é mesmo. Acho que<n>acabei me\nempolgando demais."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Mas antes... Acho que está na hora<n>de tirar um\ncochilo..."
+>>>>>>> Stashed changes
         },
         {
             "name": "Matikanefukukitaru",
@@ -175,6 +338,7 @@
         },
         {
             "name": "Monólogo",
+<<<<<<< Updated upstream
             "text": "Worn out from a day of extreme fun,<n>she nods off\non the spot."
         },
         {
@@ -182,10 +346,20 @@
             "text": "I notice something slip out of her hand<n>while I'm\nlooking for a place for her<n>to sleep.",
             "choice_data_list": [
                 "What's this?"
+=======
+            "text": "Exausta depois de um dia repleto de<n>diversão, ela\nadormece ali mesmo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto procuro um lugar para ela<n>descansar,\npercebo que algo<n>escorrega de sua mão.",
+            "choice_data_list": [
+                "O que é isso?"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Monólogo",
+<<<<<<< Updated upstream
             "text": "It's a joke book containing every<n>single one of\nher impressions."
         },
         {
@@ -219,6 +393,41 @@
         {
             "name": "Monólogo",
             "text": "I sense that Matikanefukukitaru and I<n>have\nformed an irreplaceable bond<n>during our time\ntogether."
+=======
+            "text": "É um caderno de piadas contendo<n>todas as\nimitações que ela faz."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela escreveu tanto material... A<n>caligrafia é um\npouco desajeitada, e<n>dá para ver que muitas\npartes foram<n>apagadas e reescritas inúmeras\nvezes."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Zzz...</i> Treinador... Ainda temos muita<n>diversão\npela frente..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Muito obrigada... por tudo o que você<n>fez por\nmim... na Twinkle Series...<n><i>Zzz...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Durante todo esse tempo, achei que a<n>\"Oráculo da\nFelicidade\" só queria<n>fazer uma grande festa."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas, na verdade, tudo o que ela<n>queria era\ndemonstrar sua gratidão..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "<i>Zzz... Ronco... Zzz...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Encontro um lugar confortável para a<n>maior deusa\nda sorte descansar e a<n>cubro com um cobertor."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto que, durante todo esse tempo,\nMatikanefukukitaru e eu construímos<n>um vínculo\ninsubstituível."
+>>>>>>> Stashed changes
         }
     ]
 }

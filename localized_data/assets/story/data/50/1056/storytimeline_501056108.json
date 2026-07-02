@@ -2,6 +2,7 @@
     "text_block_list": [
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Today's the Fan Fest... That is,<n>today's the day\nmy life ends..."
         },
         {
@@ -52,10 +53,63 @@
             "text": "I'm not gonna catch a break here, am<n>I?! What\nshould I do, Trainer?",
             "choice_data_list": [
                 "Why don't you just tell them?"
+=======
+            "text": "Hoje é o Fan Fest... Quer dizer, hoje<n>é o dia em\nque a minha vida acaba..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Não posso simplesmente dizer aos<n>meus fãs para\nse divertirem e<n>esquecerem o que aconteceu. Isso\nnão vai resolver nada."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Eu realmente estraguei tudo no Kinko<n>Sho com a\nforma como agi. Meus<n>antigos fãs vão me\nbombardear com<n>perguntas até não sobrar mais\nnada<n>de mim...",
+            "choice_data_list": [
+                "Você está pensando demais nisso..."
             ]
         },
         {
             "name": "Matikanefukukitaru",
+            "text": "T-talvez você tenha razão. Pensando<n>bem, esta\ntambém é uma<n>oportunidade."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Pelo menos, quero pedir desculpas a<n>eles. Depois\ndisso, poderei viver<n>tranquilamente em algum\ncanto<n>esquecido do mundo das<n>Umamusume."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Depois que todos os outros eventos<n>terminam,\ncomeça a sessão de<n>encontro com os fãs. Logo\nchega a<n>vez de Matikanefukukitaru subir ao\npalco."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "C-como devo interpretar toda essa<n>agitação? Pelo\nmenos ninguém tá<n>gritando comigo, eu acho..."
+        },
+        {
+            "name": "Host",
+            "text": "Matikanefukukitaru, você poderia nos<n>dizer qual é\no seu objetivo para esta<n>primavera?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ugh... Já vão direto ao ponto assim?!<n>Meu\nobjetivo para a primavera..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "É comer biscoitos de arroz<n>tranquilamente na\nvaranda enquanto<n>tomo um chá. Bem calminha."
+        },
+        {
+            "name": "Host",
+            "text": "Ahaha, entendo... E qual é o seu<n>próximo objetivo\ndepois disso?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Eu não vou ter um minuto de paz,<n>vou!? O que eu\nfaço, Treinador?",
+            "choice_data_list": [
+                "Por que não diz a verdade?"
+>>>>>>> Stashed changes
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "What?! Are you serious?! Are you<n>seriously\nserious? Uuugh... If this<n>goes sideways, it's on\nyou..."
         },
         {
@@ -124,10 +178,81 @@
             "choice_data_list": [
                 "I'm happy for you.",
                 "I'm happy for you."
+=======
+            "text": "O quê?! Tá falando sério?! Muito sério<n>mesmo?!\nAaaah... Se isso der errado,<n>a culpa é sua..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Na verdade, eu gostaria de fazer um<n>anúncio!\nNesta primavera, meu<n>objetivo... ou melhor, meu\nsonho é..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Correr a Takarazuka Kinen!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Aaaah! Não acredito que eu disse<n>isso!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "E-esperem, não joguem coisas em<n>mim! Vamos\nmanter o local limpinho!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "E-espera... O que está acontecendo?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "As pessoas... estão aplaudindo?<n>M-mas por quê?"
+        },
+        {
+            "name": "Fan A",
+            "text": "Parece um ótimo objetivo,<n>Matikanefukukitaru!\nVocê consegue!"
+        },
+        {
+            "name": "Fan B",
+            "text": "É melhor realizar esse sonho, hein!<n>Eu vou torcer\npor você!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Por que vocês estão sendo tão gentis<n>comigo?\nDepois da minha atuação no<n>Kinko Sho... Foi um\ndesastre."
+        },
+        {
+            "name": "Fan A",
+            "text": "Eu achei aquilo hilário! Foi tão ruim<n>que acabou\nficando bom. Você foi<n>adorável... do seu próprio\njeito."
+        },
+        {
+            "name": "Fan B",
+            "text": "Todo mundo passa por isso. Aquela<n>sensação de\nachar que já ganhou... e<n>acabar quebrando a cara.\nAchei bem<n>fácil me identificar."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Se identificar? Então isso significa<n>que vocês\nainda não desistiram de<n>mim?"
+        },
+        {
+            "name": "Fan A",
+            "text": "Nós não vamos desistir de você.<n>Afinal, você se\nesforçou tanto no<n>Kikuka Sho."
+        },
+        {
+            "name": "Fan B",
+            "text": "Vou continuar ao seu lado nos bons e<n>nos maus\nmomentos. Vou votar em<n>você para a Takarazuka\nKinen, ouviu?<n>Então trate de se classificar para a\ncorrida!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "U-uau... Vocês todos são... deuses?<n>Budas? Não\nacredito que existam<n>pessoas com tanta\ncompaixão no<n>coração..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Treinador! Eu tô chorando, tô<n>suando... Todo tipo\nde líquido está<n>saindo de mim! Não acredito nisso...",
+            "choice_data_list": [
+                "Fico feliz por você.",
+                "Fico feliz por você."
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Matikanefukukitaru",
+<<<<<<< Updated upstream
             "text": "Thank you... Thank you! I'm going to<n>give this\nanother go."
         },
         {
@@ -153,6 +278,33 @@
         {
             "name": "Monólogo",
             "text": "Her gods may have abandoned her,<n>but her fans\nwere there to pick up the<n>pieces. In the end,\nMatikanefukukitaru manages to<n>secure a spot in\nthe Takarazuka<n>Kinen."
+=======
+            "text": "Obrigada... Muito obrigada! Vou tentar<n>de novo."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Assim como naquela vez em que<n>escalei\ndesesperadamente aquele<n>penhasco para\nimplorar por boa sorte."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Pessoal, me desculpem pelo que<n>aconteceu. Eu\nperdi o rumo!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Prometo me esforçar mais daqui para<n>frente.\nComo prova, vou realizar o<n>ritual sagrado e fazer\n108<n>agachamentos! Então, por favor,<n>peguem\nleve comigo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O local é tomado por risadas<n>calorosas.\nMatikanefukukitaru acaba<n>garantindo uma vaga\nna Takarazuka<n>Kinen."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Vou voltar ao básico e recomeçar do<n>zero. Sei que\nàs vezes decepciono<n>vocês, mas continuem\ncuidando de<n>mim!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Talvez os deuses tenham<n>abandonado\nMatikanefukukitaru, mas<n>seus fãs estavam lá\npara ampará-la.<n>No fim das contas, ela consegue\ngarantir uma vaga na Takarazuka<n>Kinen."
+>>>>>>> Stashed changes
         }
     ]
 }

@@ -2,42 +2,42 @@
     "text_block_list": [
         {
             "name": "Matikanefukukitaru",
-            "text": "It's time for the Sapporo Kinen,<n>Trainer!"
+            "text": "Chegou a hora da Sapporo Kinen,<n>Treinador!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Hm? There's a decorative tree over<n>in the corner...",
+            "text": "Hm? Tem uma árvore decorativa ali<n>no canto...",
             "choice_data_list": [
-                "It's a lilac tree.",
-                "It's a lilac tree."
+                "É um lilás.",
+                "É um lilás."
             ]
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "The name has a nice ring to it and all,<n>but what's it\ndoing here?"
+            "text": "O nome é bonito e tudo mais, mas o<n>que ela está\nfazendo aqui?"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Oh, it says here that the lilac is the<n>official tree of\nSapporo."
+            "text": "Ah, está escrito aqui que o lilás é a<n>árvore símbolo\nde Sapporo."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Ooh! This is a very auspicious omen!"
+            "text": "Ooh! Isso é um presságio<n>extremamente\nauspicioso!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "What are the chances that this lilac<n>would be\nblooming now?! Lilac has<n>the same amount of\nletters as<n>\"lucky\", and they both start with <i>l</i>.\nThis has to mean something!",
+            "text": "Quais eram as chances de um lilás<n>estar\nflorescendo justamente<n>agora?! \"Lilás\" e \"sorte\"\ntêm o<n>mesmo número de letras, e ambos\ncomeçam com <i>l</i> no inglês, lucky!<n>Isso só pode\nsignificar alguma coisa!",
             "choice_data_list": [
-                "Um, sure..."
+                "Hum... Claro..."
             ]
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "O great gods of the north, I humbly<n>accept this\nblessing."
+            "text": "Ó grandes deuses do norte, aceito<n>humildemente\nesta bênção."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Grant us good fortune. And, if<n>possible, some of\nthat famous<n>Sapporo lamb barbecue too."
+            "text": "Concedam-nos boa sorte. E, se<n>possível, um\npouco daquele famoso<n>churrasco de cordeiro de\nSapporo<n>também."
         }
     ]
 }

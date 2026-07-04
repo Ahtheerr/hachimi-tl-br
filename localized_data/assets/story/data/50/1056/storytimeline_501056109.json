@@ -16,7 +16,11 @@
             "name": "Matikanefukukitaru",
             "text": "Ah?! Rasguei ele! Mas pelo menos<n>consegui\nsoltar!",
             "choice_data_list": [
+<<<<<<< HEAD
                 "Um ladrão?!"
+=======
+                "Ladrão"
+>>>>>>> 4a5086219af0a2b8fe92274afe56717ffb0bb6eb
             ]
         },
         {
@@ -28,8 +32,13 @@
             "text": "...Espera aí. É natal, não é? Acho que<n>já não faz\nsentido esconder isso..."
         },
         {
+<<<<<<< HEAD
             "name": "Mati-papai Noel-taru",
             "text": "Eu sou a Mati-papai Noel-taru! Vim<n>trazer\npresentes para todas as boas<n>meninas e bons\nmeninos!",
+=======
+            "name": "Mati-papai Noel-Fuku",
+            "text": "Eu sou a Mati-papai Noel-Fuku! Vim<n>trazer\npresentes para todas as boas<n>meninas e bons\nmeninos!",
+>>>>>>> 4a5086219af0a2b8fe92274afe56717ffb0bb6eb
             "choice_data_list": [
                 "Desculpe. Pode repetir o seu nome?"
             ]

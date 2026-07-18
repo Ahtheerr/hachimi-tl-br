@@ -2,252 +2,252 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Matikanefukukitaru drags me off by<n>the hand one\nday."
+            "text": "Matikanefukukitaru me arrasta pela<n>mão certo dia."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Trainer, today we're going mountain<n>climbing. I\ncan't move mountains, but<n>I can sure move these\nlegs!",
+            "text": "Treinador, hoje vamos escalar uma<n>montanha.\nTalvez eu não consiga<n>mover montanhas, mas\ncom certeza<n>consigo mover estas pernas!",
             "choice_data_list": [
-                "Why are we going mountain climbing all of a\nsudden?"
+                "Por que vamos escalar uma montanha do nada?"
             ]
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Well you see, I heard something<n>through the\ngrapevine."
+            "text": "Bem, acontece que ouvi um boato."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "If you dial a certain phone number<n>from a mystical\nspot, you can earn<n>yourself some good luck...\nallegedly!"
-        },
-        {
-            "name": "",
-            "text": "So, my plan is to scale this famous<n>spiritual\nmountain and call that<n>number!"
-        },
-        {
-            "name": "",
-            "text": "Let's get to it! Neither rocks nor roots<n>are going to\nstop me!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "We head up the mountain, though it<n>turns out it's\nnot rocks or roots that<n>we have to worry about."
-        },
-        {
-            "name": "Ghost",
-            "text": "Mwahaha! So you dare to show your<n>face! You\nwill not leave this place<n>alive!"
-        },
-        {
-            "name": "",
-            "text": "Save meee... Please, save meee..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Ignoring the horrifying wailing, we<n>trek onward.\nThis certainly is a<n>spiritual mountain... in the sense\nthat it<n>seems to be full of spirits."
+            "text": "Se você ligar para um certo número<n>de telefone de\num lugar místico,<n>dizem que ganha muita sorte...\nsupostamente!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "You're looking pretty pale, Trainer.<n>Running low on\noxygen?",
-            "choice_data_list": [
-                "You don't hear that?",
-                "You don't hear that?"
-            ]
+            "text": "Então, meu plano é escalar esta<n>famosa\nmontanha espiritual e ligar<n>para esse número!"
         },
         {
-            "name": "",
-            "text": "Don't hear what? Oh, the birds? They<n>sound kinda\ncute, huh? Chirp chirp!",
+            "name": "Matikanefukukitaru",
+            "text": "Vamos nessa! Nem pedras nem<n>raízes vão me\nimpedir!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Subimos a montanha, mas<n>descobrimos que não\nsão pedras<n>nem raízes com que devemos nos\npreocupar."
+        },
+        {
+            "name": "Fantasma",
+            "text": "Mwahaha! Então você ousou mostrar<n>a cara!\nVocê não sairá vivo deste<n>lugar!"
+        },
+        {
+            "name": "Fantasma",
+            "text": "Salve-meee... Por favor, salve-meee..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ignorando os lamentos aterrorizantes,<n>seguimos\nem frente pela trilha. Esta<n>realmente é uma\nmontanha<n>espiritual... no sentido de parecer<n>estar\ncheia de espíritos."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Você está bem pálido, Treinador. Está<n>ficando sem\noxigênio?",
             "choice_data_list": [
-                "You're not picking up on any spirits?",
-                "You're not picking up on any spirits?"
+                "Você não está ouvindo isso?",
+                "Você não está ouvindo isso?"
             ]
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Spirits? Maybe... Maybe not. I can't<n>really tell..."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "No use sweating the details though!<n>Just go with\nthe flow!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "As crazy for all things spiritual as she<n>is, it\ndoesn't look like she has even a<n>hint of a sixth\nsense."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Phew. All right, I guess this spot will<n>do."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Let's not waste any time. Now,<n>where's that\nlucky number?"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "M-my goodness! Just as I was<n>getting ready to\ndial, my phone<n>started ringing!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Trainer! What if this call is coming<n>from the lucky\nnumber?"
-        },
-        {
-            "name": "",
-            "text": "Hm, maybe it's best to pick up? We<n>are on a\nlucky mountain, after all. We<n>can't get any unlucky\ncalls here."
-        },
-        {
-            "name": "Monólogo",
-            "text": "I'm not as optimistic, seeing what's<n>been lurking\nup here. Time to make a<n>decision.",
+            "text": "Ouvindo o quê? Ah, os passarinhos?<n>Até que eles\ntêm um canto bonitinho,<n>né? Piu, piu!",
             "choice_data_list": [
-                "Go ahead and pick it up.",
-                "I don't think you should answer..."
+                "Você não está percebendo nenhum espírito?",
+                "Você não está percebendo nenhum espírito?"
             ]
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Okay! Hehe, I guess the owner of this<n>lucky\nnumber just couldn't resist<n>giving me a ring."
+            "text": "Espíritos? Talvez... talvez não. Não sei<n>dizer muito\nbem..."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Hi, is this Luck E. Pearson speaking?"
+            "text": "Mas não adianta esquentar a cabeça<n>com\ndetalhes! É só deixar acontecer!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por mais obcecada que seja por tudo<n>que envolva\no sobrenatural, parece<n>que ela não tem nem um\npingo de<n>sexto sentido."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ufa. Certo, acho que esse lugar<n>serve."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Não vamos perder tempo. Agora,<n>onde está aquele\nnúmero da sorte?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "M-minha nossa! Bem na hora em que<n>eu ia ligar,\nmeu celular começou a<n>tocar!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Treinador! E se esta ligação for<n>justamente do\nnúmero da sorte?"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Hm, talvez seja melhor atender?<n>Afinal, estamos\nnuma montanha da<n>sorte. Não tem como receber\numa<n>ligação azarada aqui."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu não compartilho desse otimismo,<n>considerando\no que anda rondando<n>este lugar. Hora de decidir.",
+            "choice_data_list": [
+                "Atende então.",
+                "Acho melhor não atender..."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Tá bom! Hehe, acho que o dono<n>desse número da\nsorte simplesmente<n>não resistiu e resolveu me\nligar."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Alô, estou falando com Mash Q.<n>Sorte?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "No, this is Taiki Shuttle."
+            "text": "Não, aqui é a Taiki Shuttle."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Oh, it's you, Taiki... My phone shows<n>this as an\nunknown number. Are you<n>using a pay phone or\nsomething?"
+            "text": "Ah, é você, Taiki... Meu celular<n>mostrou como\nnúmero desconhecido.<n>Você está usando um\ntelefone público<n>ou algo assim?"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "You see, I was just about to call this<n>number that\nbrings you happiness."
+            "text": "É que eu estava prestes a ligar para<n>um número\nque traz felicidade."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "A number that brings you happiness?<n>The heck is\nthat? Wait..."
-        },
-        {
-            "name": "",
-            "text": "You sure you ain't got your boots on<n>backwards?\n'Cause I've only heard<n>of numbers that'll curse\nya if ya call<n>'em. Hehe..."
-        },
-        {
-            "name": "",
-            "text": "Cursed numbers... Really? Wait...<n>Could it be that I\nheard wrong?!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "T-Taiki, I-I'm gonna hang up now!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Trainer... This can't be...",
-            "choice_data_list": [
-                "I think you got it wrong.",
-                "I think you got it wrong."
-            ]
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Eeeyikes! I don't want to be cursed!<n>Save meee!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Matikanefukukitaru hurtles down the<n>mountain at\na pace that would leave a<n>marathon runner pale\nand wheezy."
+            "text": "Um número que traz felicidade? Que<n>papo é esse?\nEspera..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Howdy, you two. Where were you<n>guys?"
+            "text": "Você não calçou as botas ao<n>contrário, não?\nPorque eu só conheço<n>número que amaldiçoa\nquem liga pra<n>ele. Hehe..."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "What do you mean? I told you before<n>when we\nwere talking on the phone."
+            "text": "Números amaldiçoados... Sério?<n>Espera... Será que\neu ouvi errado?!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Anyway, thanks for the heads-up!"
+            "text": "T-Taiki, e-eu vou desligar agora!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "If you hadn't told me about that<n>cursed number\nthing, I would've<n>been in a real pickle."
+            "text": "Treinador... Isso não pode ser...",
+            "choice_data_list": [
+                "Acho que você entendeu errado.",
+                "Acho que você entendeu errado."
+            ]
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Eeeyikes! Eu não quero ser<n>amaldiçoada!\nSocorroooooo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Matikanefukukitaru desce a<n>montanha numa\nvelocidade que<n>deixaria até um maratonista sem\nfôlego."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "What heads-up? What're you talking<n>about? We\ndidn't talk on the phone!"
-        },
-        {
-            "name": "",
-            "text": "You know what I'm talking about,<n>silly! You called\nme earlier... on a pay...<n>phone..."
+            "text": "Howdy, vocês dois. Onde estavam?"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "But why would you do that when<n>you've got your\nown phone right...<n>there? Oh..."
+            "text": "Como assim? Eu falei pra você<n>quando\nestávamos conversando no<n>telefone."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Enfim, obrigada pelo aviso!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Se você não tivesse me contado<n>sobre aquele\nnúmero amaldiçoado, eu<n>teria me metido numa\nbela enrascada."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Que aviso? Do que você está<n>falando? A gente\nnem conversou por<n>telefone!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Claro que conversou, sua boba! Você<n>me ligou\nmais cedo... de um telefone...<n>público..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Mas por que faria isso se você tem<n>seu próprio\ncelular bem... aí? Ah..."
         },
         {
             "name": "Monólogo",
-            "text": "Just who was it that called? Whoever<n>it was, all\nthat running around on the<n>mountain seems to\nhave done<n>Fukukitaru some good."
-        },
-        {
-            "name": "",
-            "text": "But, why? I don't see any reason not<n>to answer..."
+            "text": "Quem foi que ligou, afinal? Seja quem<n>for, toda\naquela correria pela<n>montanha parece ter feito\nbem para a<n>Fukukitaru."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Wait! That sound...",
+            "text": "Mas... por quê? Não vejo motivo para<n>não\natender..."
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Espera! Esse barulho...",
             "choice_data_list": [
-                "What's up?",
-                "What's up?"
+                "O que foi?",
+                "O que foi?"
             ]
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Hey, my screen's cracked!"
+            "text": "Ei, a tela do meu celular rachou!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "That can't be a good sign... I'm<n>sensing that\nsomething bad is about<n>to happen..."
+            "text": "Isso não parece ser um bom sinal...<n>Estou\nsentindo que alguma coisa<n>ruim vai acontecer..."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Wh-wh-wh-what if this is...",
+            "text": "S-s-s-será que isso é...",
             "choice_data_list": [
-                "Let's head back."
+                "Vamos voltar."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I tell her about all the sinister things I<n>saw on the\nmountain."
+            "text": "Conto a ela sobre todas as coisas<n>sinistras que vi\nna montanha."
         },
         {
-            "name": "",
-            "text": "Ugwah! I-I had no idea! Eek,<n>somebody heeelp!"
+            "name": "Matikanefukukitaru",
+            "text": "Ughaa! E-eu não fazia ideia!<n>Socorrooo!"
         },
         {
             "name": "Monólogo",
-            "text": "Matikanefukukitaru books it down the<n>mountain\nas fast as she can."
+            "text": "Matikanefukukitaru dispara<n>montanha abaixo o\nmais rápido que<n>consegue."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Trainer, listen to this. I actually talked<n>it over with\nTaiki afterwards..."
+            "text": "Treinador, escuta só. Depois eu<n>conversei com a\nTaiki sobre isso..."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Apparently, that phone number<n>wasn't lucky at all.\nIt was cursed.",
+            "text": "Aparentemente, aquele número de<n>telefone não\nera da sorte coisa<n>nenhuma. Era amaldiçoado.",
             "choice_data_list": [
-                "Did your phone take the hit for you?"
+                "Foi o seu celular que recebeu a maldição no seu\nlugar?"
             ]
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Looks like it."
+            "text": "Parece que sim."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Ohhh, thank you, my sweet phone.<n>May you rest\nin perfect peace. And<n>also..."
+            "text": "Aaaah, muito obrigada, meu querido<n>celular. Que\nvocê descanse em paz. E<n>também..."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "May your repairs go quickly. It's<n>really\ninconvenient without you."
+            "text": "Que o conserto fique pronto logo. É<n>muito\ninconveniente ficar sem você."
         },
         {
             "name": "Monólogo",
-            "text": "I guess she's going to pretend her<n>phone isn't\ncursed and keep using it."
+            "text": "Acho que ela vai fingir que o celular<n>não está\namaldiçoado e continuar<n>usando mesmo assim."
         }
     ]
 }

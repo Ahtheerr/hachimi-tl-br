@@ -2,26 +2,26 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Matikanefukukitaru doesn't show up<n>for training,\nso I go and look for her..."
+            "text": "A Matikanefukukitaru não aparece<n>para o treino,\nentão vou procurá-la..."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "The omen to beware of lightning...<n>again?! But\nwhy? It's so sunny<n>outside...",
+            "text": "O presságio para tomar cuidado com<n>raios... de\nnovo?! Mas por quê? Está<n>um sol desses lá fora...",
             "choice_data_list": [
-                "You're busy with divining, I see...",
-                "You're busy with divining, I see..."
+                "Vejo que você está ocupada fazendo\nadivinhações...",
+                "Vejo que você está ocupada fazendo\nadivinhações..."
             ]
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Trainer?!"
+            "text": "Treinador?!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Upon closer inspection... Th-those<n>clouds look kind\nof menacing, right?",
+            "text": "Olhando melhor... A-aquelas nuvens<n>parecem meio\nameaçadoras, não<n>parecem?",
             "choice_data_list": [
-                "Aren't you forgetting something? Starts with a <i>t,</i>\nends with a <i>raining...</i>",
-                "Aren't you forgetting something? Starts with a <i>t,</i>\nends with a <i>raining...</i>"
+                "Não está esquecendo de alguma coisa? Começa\ncom <i>t</i> e termina com <i>reino...</i>",
+                "Não está esquecendo de alguma coisa? Começa\ncom <i>t</i> e termina com <i>reino...</i>"
             ]
         },
         {
@@ -34,11 +34,11 @@
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "I'm sooooo sorry!"
+            "text": "Me desculpeeeee!"
         },
         {
             "name": "Monólogo",
-            "text": "I give her a storm of a scolding so<n>this doesn't\nhappen again."
+            "text": "Dou uma tempestade de broncas<n>nela para que\nisso não volte a<n>acontecer."
         }
     ]
 }

@@ -1,0 +1,229 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "<i>Toc, toc, toc, toc!</i>"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Vamos, depressa! Por aqui!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "As seletivas estão prestes a<n>começar, mas Copano Rickey sente<n>uma mudança estranha no ambiente.<n>Ela corre para dentro do prédio e, ao<n>subir as escadas aos saltos..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Clique!</i>"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ótimo! Daqui, eu consigo...",
+            "choice_data_list": [
+                "Por que estamos no terraço?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Porque, quando queremos enxergar o<n>quadro todo, o melhor é observar de<n>cima, como um pássaro! É o feng shui<n>geográfico em ação!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Deixe-me ver se consigo encontrar a<n>causa dessa perturbação no qi..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ah, ali! Naquele canto! Tem um monte<n>de treinadores reunidos no mesmo<n>lugar. Mas por quê?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Será por causa das reformas na<n>pista? Ah, já sei! A próxima corrida<n>tem muitas Fugitivas, então eles<n>devem querer assistir à disputa por<n>posição. As duas coisas só<n>coincidiram!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Treinador, não é seguro elas<n>correrem assim! Temos que impedir a<n>corrida!",
+            "choice_data_list": [
+                "Não podemos fazer isso. Além do mais, não\nchegaríamos lá a tempo."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ah... E se gritarmos?! Não sei se<n>acreditariam na gente pelo telefone."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Pelo menos, a perturbação não<n>parece que vai piorar. Tomara que os<n>cinco elementos afastem o infortúnio<n>por tempo suficiente para elas<n>terminarem..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A corrida começa..."
+        },
+        {
+            "name": "Corredora A",
+            "text": "Ei, corre direito! Você não está<n>olhando?! Sai da frente!"
+        },
+        {
+            "name": "Corredora B",
+            "text": "É você que tem que sair! Argh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A corrida termina sem<n>desclassificações nem quedas, mas,<n>como Copano Rickey previu, foi bem<n>turbulenta."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ufa, ainda bem que nada terrível<n>aconteceu. Por sorte, não foi tão<n>grave.",
+            "choice_data_list": [
+                "Como você soube que havia algo errado? Foi\ninstinto?",
+                "Como você soube que havia algo errado? Foi\ninstinto?"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Instinto? De jeito nenhum! Feng shui<n>não é uma coisa vaga dessas! É uma<n>disciplina muito bem estabelecida!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Lembra quando observamos tudo do<n>terraço? Foi aí que percebi."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Na direção Qian... ou seja, a noroeste,<n>um grupo de treinadores havia se<n>reunido para assistir à corrida."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "A presença deles atraiu a atenção<n>das corredoras para a direção Qian, e,<n>quando o qi de todas entra no<n>domínio de uma competição em que é<n>tudo ou nada..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "É natural que as corredoras deixem<n>passar pequenos detalhes, como<n>fazer a curva à frente sem o devido<n>cuidado ou até esbarrar em outra<n>corredora."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Em outras palavras, é preciso estar<n>sempre atento às viradas<n>desfavoráveis e aos limites dos oito<n>trigramas."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Consegui enxergar tudo isso graças<n>ao feng shui. E não só eu: qualquer<n>pessoa com o conhecimento certo<n>poderia ter previsto o que<n>aconteceria."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Feng shui não é superstição. É uma<n>prática milenar aperfeiçoada ao longo<n>de mais de 3.000 anos: o estudo da<n>sorte ambiental!",
+            "choice_data_list": [
+                "Então é um estudo?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Achei que ela fosse apenas<n>supersticiosa, mas talvez eu<n>estivesse errado. Ela fundamentou o<n>que disse, e suas previsões até se<n>concretizaram."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Talvez Copano Rickey, obcecada por<n>feng shui, seja muito mais sensata<n>do que imaginei. Quem sabe? Ela<n>pode esconder um potencial ilimitado."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Viu? Agora entende como o feng shui<n>é incrível, não é? Ele permite<n>enxergar o futuro! Aposto que está<n>louco para contar para todo mundo!",
+            "choice_data_list": [
+                "Não sei se eu iria tão longe...",
+                "Não sei se eu iria tão longe..."
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "O quê?! Você é osso duro de roer,<n>hein?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Então vou dar uma última cartada!<n>Vou correr na próxima prova, então<n>fique de olho em mim!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Vou mostrar o poder do feng shui em<n>ação! ☆ Depois disso, você não vai<n>mais conseguir negar. Será a melhor<n>prova de todas!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "O qi da terra está sempre comigo.<n>Quando entro de verdade no ritmo da<n>corrida, consigo até ouvir a voz dela!<n>Lá vou eu! Rickey! ☆ Lucky! ☆ Grande<n>vitória!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Fico pensando na tal voz da terra<n>enquanto ela parte para correr na<n>seletiva seguinte: uma prova de<n>milha na Grama."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "(Começou! Certo, nenhum problema<n>até agora, e a formação está como<n>esperado. Se eu imaginar os oito<n>trigramas sobre a pista, fica fácil<n>saber minha posição.)"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Por enquanto, vou manter este ritmo.<n>☆"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "(Aqui! Logo antes da última curva! É<n>agora que a leitura faz toda a<n>diferença. Preciso prestar atenção ao<n>qi ao meu redor...)"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Agora só preciso ouvir a voz da terra<n>e correr na direção do fluxo do qi..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Então, para onde ela vai me guiar<n>hoje?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Espera, o quê? Hã?! O que está<n>acontecendo?!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hoje eu não consigo ouvir a voz da<n>terra! Não, isso não pode estar<n>acontecendo! Aaaaah!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Copano Rickey perde a corrida e não<n>consegue demonstrar o poder do<n>feng shui que havia anunciado com<n>tanta confiança."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Não, estou falando sério,<n>normalmente não é assim! A voz da<n>terra sempre me guia até a linha de<n>chegada em primeiro lugar!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Alguma coisa estava estranha hoje.<n>O equilíbrio dos elementos? A<n>influência do vento? Talvez a<n>confusão da corrida anterior tenha me<n>desconcentrado."
+        },
+        {
+            "name": "???",
+            "text": "Rickey, você estava uma bagunça lá...<n>Mas acho que era inevitável. Até<n>previsível."
+        },
+        {
+            "name": "???",
+            "text": "Você precisa parar de falar sem parar<n>sobre feng shui. Acorda e põe toda<n>essa energia no treino!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ah, Tarumae... Então você viu minha<n>corrida, não é?",
+            "choice_data_list": [
+                "Ah, e quem seria você?",
+                "Ah, e quem seria você?"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Olá! Sou Hokko Tarumae, amiga da<n>Rickey. Sou de Tomakomai, onde atuo<n>como idol local."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "A Rickey vive insistindo para eu<n>seguir o feng shui e, sinceramente, já<n>estou cansada. Espero que ela caia<n>na real e pare logo."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Quer dizer que você ainda não<n>acredita em mim? Feng shui <i>é</i><n>poderoso de verdade! Dito isso..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Eu não sei o que deu errado hoje.<n>Aaaah, não consigo entender!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Copano Rickey lamenta a derrota ao<n>lado de Hokko Tarumae. Será que há<n>mesmo alguma verdade no feng<n>shui? E, se há, por que não funcionou<n>para ela hoje?"
+        }
+    ]
+}

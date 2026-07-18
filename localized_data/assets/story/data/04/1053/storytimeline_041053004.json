@@ -1,0 +1,232 @@
+{
+    "text_block_list": [
+        {
+            "name": "Bamboo Memory",
+            "text": "<i>Arf, arf...</i> E então, Instrutor?! Como<n>eu fui?!"
+        },
+        {
+            "name": "Instrutor Veterano",
+            "text": "...Preciso admitir que você se saiu<n>muito melhor do que imaginei ser<n>possível."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Convidamos o instrutor da turma para<n>observar uma volta na grama.<n>Bamboo esperava que isso o<n>convencesse de que seria seguro,<n>mas ele mantém uma expressão<n>rígida e indecifrável."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "N-não é? Então, hum... Sei que isso<n>vai contra sua recomendação, mas<n>mesmo assim! Acho mesmo que<n>estou em condições de correr na<n>grama no Torneio da Tracen!"
+        },
+        {
+            "name": "Instrutor Veterano",
+            "text": "...Essa corrida demonstrou<n>claramente sua força. Agora vejo o<n>quanto você é apaixonada pela<n>grama. No entanto..."
+        },
+        {
+            "name": "Instrutor Veterano",
+            "text": "Também gostaria de ouvir a <i>sua</i><n>opinião, Treinador. Tem confiança de<n>que conseguirá manter Bamboo<n>Memory segura e bem-sucedida na<n>grama?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não consigo evitar uma hesitação. Se<n>transferir Bamboo cedo demais, isso<n>pode afetar o restante de sua<n>carreira. Sei disso, mas... Mas!",
+            "choice_data_list": [
+                "Ela está pronta. Tenho confiança de que Bamboo\npode competir bem na grama."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "...Ah! ISSO! Estou pronta! Vou ficar<n>perfeitamente bem!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Essa é uma escolha que cabe a<n>Bamboo, não a mim. Ela quer correr<n>na grama, então farei tudo ao meu<n>alcance para apoiá-la."
+        },
+        {
+            "name": "Instrutor Veterano",
+            "text": "Entendo. Você tem sorte, Bamboo.<n>Parece que encontrou um excelente<n>parceiro."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Isso!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com isso resolvido, inscrevemos<n>Bamboo na corrida de 1.600 metros<n>na grama do Torneio da Tracen—o<n>objetivo pelo qual ela tanto se<n>esforçou."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Chegamos ao Torneio debaixo de<n>uma chuva torrencial, mas, felizmente,<n>o tempo abre à tarde."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uaaaaah!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(Não posso dizer que estou surpresa,<n>mas dói um pouco a Oguri não ter me<n>reconhecido.)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Oguri! Bom dia! Que tenhamos uma<n>ótima disputa hoje!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Ah, você vai correr na mesma prova<n>que eu? Boa sorte."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Quando ela sair da pista hoje, vai<n>saber o meu nome—eu juro."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Bang!</i>"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(Lembre-se do plano—fique logo atrás<n>da Oguri! Nada de assumir a liderança<n>ainda, mesmo que pareça tentador!)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(É só manter o ritmo! Não perca a<n>calma! E não esqueça o que o<n>Treinador disse!)"
+        },
+        {
+            "name": "Locutor",
+            "text": "Bamboo Memory normalmente<n>dispara na frente, mas hoje está<n>ficando perto do fundo do pelotão!<n>Será que está sendo cautelosa em<n>sua primeira corrida na grama?",
+            "choice_data_list": [
+                "(Ela está exatamente onde quer estar!)",
+                "(Ela está exatamente onde quer estar!)"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Espera, por que você me parou? Eu<n>tinha largado super bem!",
+            "choice_data_list": [
+                "Exatamente por isso. Não quero que você acelere\ncom tudo logo na largada."
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hmmm... Mas não é justamente a<n>melhor hora para dar tudo de si e<n>disparar na frente? É na largada que<n>tenho mais energia!",
+            "choice_data_list": [
+                "Bem, você cuidaria das unhas desse jeito?\nJogaria o óleo de qualquer maneira e pronto?",
+                "Bem, você cuidaria das unhas desse jeito?\nJogaria o óleo de qualquer maneira e pronto?"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Claro que não. Eu sempre faço igual<n>à minha Rotina em Chamas! Etapa<n>por etapa, um pouco a cada di—"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Ah. Espera! Também preciso encarar<n>as corridas etapa por etapa, não é?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A maior força de Bamboo é a paixão<n>ardente com que persegue seus<n>sonhos. Quero que ela esconda essa<n>força—que engane as rivais e então<n>passe voando por elas no final."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(Trabalhamos por isso dia após dia.<n>Foi avançando aos poucos que<n>cheguei até aqui! Então agora—)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(Agora só preciso acreditar! Acredito<n>no Treinador! Nos meus sonhos! E<n>em mim mesma!)"
+        },
+        {
+            "name": "Locutor",
+            "text": "O pelotão da frente continua bastante<n>compacto enquanto as corredoras<n>contornam a quarta curva! Elas estão<n>quase entrando na reta final—oh?!",
+            "choice_data_list": [
+                "Mostra do que é capaz, Bamboo!"
+            ]
+        },
+        {
+            "name": "Locutor",
+            "text": "Bamboo Memory dispara por fora!<n>Que velocidade incrível! Ela não<n>estava sofrendo na grama—estava<n>apenas esperando o momento certo!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...?!"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "(Vamos, vamos! Preciso alcançá-la!<n>Vou chegar até minha rival—e então<n>ultrapassá-la!)"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "TYAAAAAAAH!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Estou parado pouco antes da linha de<n>chegada. Uma rajada ensurdecedora<n>de vento sopra quando Bamboo<n>passa disparada por mim."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E, naquele instante, poderia jurar que<n>Bamboo Memory estava à frente de<n>Oguri Cap."
+        },
+        {
+            "name": "Locutor",
+            "text": "É Oguri? Ou Bamboo?! Parece que foi<n>Oguri! E <i>foi</i> Oguri Cap, cruzando a<n>linha de chegada em primeiro!"
+        },
+        {
+            "name": "Locutor",
+            "text": "Bamboo Memory fica em segundo<n>por apenas um focinho! Que chegada<n>de tirar o fôlego! Em terceiro lugar,<n>temos—"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "<i>Arf... Arf...</i> AAAAAGH! Não acredito<n>que perdi!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Você é... Bamboo Memory, não é?"
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Hm? U-uau! Oguri! Você correu muito<n>bem! Mas, hum, como sabia meu<n>nome?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Com o locutor gritando desse jeito,<n>seria difícil não lembrar... E... foi uma<n>corrida incrível. Espero correr com<n>você novamente."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "É... É CLARO! Eu prometo—você ainda<n>vai ouvir falar muito de mim, Oguri!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Bamboo continua sendo sua versão<n>alegre e esportiva de sempre durante<n>o restante do Torneio da Tracen, mas,<n>assim que voltamos ao meu<n>escritório, ela solta um suspiro<n>sufocado."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Treinador, eu...",
+            "choice_data_list": [
+                "Você lutou de forma incrível!",
+                "Você lutou de forma incrível!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "<i>Snif... Buá!</i> É que—é tão, <i>tão</i><n>frustrante!",
+            "choice_data_list": [
+                "Nós vamos vencê-la da próxima vez!"
+            ]
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Isso! Vamos mesmo! E você vai estar<n>comigo como meu treinador, não vai?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Assinto enquanto sustento seu olhar.<n>Vamos derrotar Oguri Cap na Twinkle<n>Series!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nossa jornada juntos está apenas<n>começando, mas, conhecendo<n>Bamboo, não faltarão batalhas em<n>chamas pelo caminho."
+        },
+        {
+            "name": "Bamboo Memory",
+            "text": "Então estou ansiosa por isso,<n>Treinador!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com o fogo que carrega no coração,<n>ela queimará todos os obstáculos em<n>seu caminho."
+        }
+    ]
+}

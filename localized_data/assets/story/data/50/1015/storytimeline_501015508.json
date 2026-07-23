@@ -1,0 +1,30 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "T.M. Opera O seems tired, so I<n>suggest we go for a\nwalk. Soon<n>enough, we're stopped by a few\nfans."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hehe! Thank you for your gracious<n>support! I shall\nreturn all your favor<n>with... an opera of gratitude!",
+            "choice_data_list": [
+                "Wait, right now?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Huff... Puff...</i> D-did you see their<n>beaming\nfaces? My brilliance has<n>come through once\nagain!",
+            "choice_data_list": [
+                "Isn't it exhausting to perform an opera each time\nyou want to thank your fans?"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Noblesse oblige. Even in the most<n>inclement of\nweather, the sun must<n>rise to bring light to the\nworld."
+        },
+        {
+            "name": "",
+            "text": "On top of her races, her efforts to<n>please her fans\nare taking a toll on<n>her. Maybe I should adjust her\nracing<n>schedule."
+        }
+    ]
+}

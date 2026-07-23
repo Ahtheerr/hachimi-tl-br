@@ -1,0 +1,194 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "The Lucky Umamusume Race is about<n>to start!\nEvery New Year, this tradition<n>attracts many\nfleet-footed runners,<n>and this year is no different."
+        },
+        {
+            "name": "MC",
+            "text": "Looks like we have a guest runner<n>from Tracen\nAcademy this year as<n>well. Let's give her a huge\nround of<n>applause, everyone!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha ha! Rejoice, one and<n>all! For this\nyear, the one and only<n>T.M. Opera O is gracing the\nstage!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "How fortuitous you are to be in my<n>presence, for\ntoday, you shall bear<n>witness to the moment that\nI—blessed<n>as I am—become the Lucky\nUmamusume!"
+        },
+        {
+            "name": "Fan A",
+            "text": "Whoa! It's T.M. Opera O! This might<n>be the year a\nguest runner wins first<n>place!"
+        },
+        {
+            "name": "Fan B",
+            "text": "Yeah, that's not happening. Guest<n>runners are\nalways marked by all of<n>the runners, putting them\nat a<n>disadvantage. Plus they aren't used<n>to the\ncourse..."
+        },
+        {
+            "name": "Fan B",
+            "text": "Besides, <i>she's</i> here again this<n>year! From what\nI heard, she's been<n>training for this race\nspecifically. Oooh,<n>I just know she's going to give\nus a<n>good show!",
+            "choice_data_list": [
+                "(I wonder who they're talking about...)"
+            ]
+        },
+        {
+            "name": "Semi-Pro Umamusume",
+            "text": "Hmph! Sorry to rain on the parade, but<n>you might\nas well forfeit, because<n>victory is going to be mine\nagain this<n>year!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Well, now! She must be quite skillful<n>to be so\nconfident!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "A worthy opponent takes the stage...<n>Very well! I\nnever hold back in a race,<n>and this one will be no\nexception!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sparks fly between the two<n>contenders! The sharp\ncrack of the<n>starter pistol echoes in the chilly\nwinter air."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Under the watchful eyes of the crowd<n>lined up\nalong the route, the leader of<n>the pack comes into\nview..."
+        },
+        {
+            "name": "MC",
+            "text": "At the head of the pack is last year's<n>Lucky\nUmamusume! Can she hold<n>onto her lead?! It\nlooks like T.M.<n>Opera O is hot on her heels!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Pant, pant...</i> I have you now, my<n>worthy\nopponent!"
+        },
+        {
+            "name": "Umamusume Child",
+            "text": "Gyah! Ow! My toe..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hm?! Are you all right?"
+        },
+        {
+            "name": "Umamusume Child",
+            "text": "<i>Sniff...</i> It hurts, but... I'm fine. So go!<n>You're\ngonna lose if you don't hurry<n>up and run!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "...!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hehehehe... Haaah ha ha ha ha!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "You're worrying about others even in<n>the midst of\nyour own pain? What a<n>beautiful, noble heart you\nhave!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "But fret not. It will take more than a<n>brief pause to\nsnatch victory's crown<n>from my brow!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Trainer! I leave this child in your<n>capable hands!",
+            "choice_data_list": [
+                "Got it!"
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hup!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "YAAAH!"
+        },
+        {
+            "name": "MC",
+            "text": "Wait, what's this?! T.M. Opera O has<n>taken the\nlead! She's broken straight<n>through the pack with\na powerful<n>burst of speed!"
+        },
+        {
+            "name": "MC",
+            "text": "And with a huge lead, T.M. Opera O<n>clinches the\nrace and becomes this<n>year's Lucky\nUmamusume! We've<n>just witnessed the\nascension of the<n>Centurial Lucky Umamusume!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha ha! Everyone! Say<n>hello to this\nyear's Lucky<n>Umamusume—yours truly!"
+        },
+        {
+            "name": "Umamusume Child",
+            "text": "Wow! You were amazing! I wanna be<n>able to run\njust like you someday!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Is that right? Well, that's a most<n>worthy and\nnatural goal, given my<n>outstanding comeback!",
+            "choice_data_list": [
+                "You were truly incredible!",
+                "You were truly incredible!"
+            ]
+        },
+        {
+            "name": "Semi-Pro Umamusume",
+            "text": "Not only did she stop to help a child,<n>but she even\nwon the race... I've<n>been utterly defeated. It looks\nlike I<n>have a ways to go..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "You put up a valiant fight. A<n>protagonist shines\nonly vis-à-vis a<n>worthy rival. You deserve the\naward<n>for the best supporting role!"
+        },
+        {
+            "name": "Spectators",
+            "text": "Wooooo! Congratulations, Centurial<n>Lucky\nUmamusume!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Come one, come all for a high five<n>from me! Allow\nme to share my luck<n>with everyone!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Haaah ha ha ha ha! Haaaaah ha ha<n>ha ha!"
+        },
+        {
+            "name": "MC",
+            "text": "Will you look at that! It's T.M. Opera<n>O! T.M. Opera\nO has made her way to<n>the front! Aaaaand the two\nof them<n>cross the finish line simultaneously!"
+        },
+        {
+            "name": "MC",
+            "text": "A performance worthy of the fastest<n>semi-pro!\nShe didn't give an inch this<n>year either, folks! And\ncoming in at a<n>close second is T.M. Opera O!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ngh! I was a mere step away from<n>victory... Is this\nyet another ordeal one<n>must face to become the\ntop star?!"
+        },
+        {
+            "name": "Umamusume Child",
+            "text": "Opera O... You were so cool! I've<n>never seen\nanyone run like you do!"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Is that right? Hehe! If I was able to<n>put a smile on\nyour face, then it was<n>all worth it! I must commend\nmyself<n>on a job well done!"
+        },
+        {
+            "name": "Semi-Pro Umamusume",
+            "text": "...I won. <i>I'm</i> this year's Lucky<n>Umamusume,\nbut..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Congratulations on your win! Your<n>display of\nstrength was worthy of<n>illuminating my grand\nstage!"
+        },
+        {
+            "name": "Semi-Pro Umamusume",
+            "text": "Oh, come on... You're too earnest for<n>your own\ngood. You helped that kid<n>and still managed to\nmake an<n>amazing play for first place... You're<n>so\ncool it almost hurts."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Hehe. But of course I am! I'm<n>guessing by your\nwords that you too<n>have fallen for my charms."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "To think I would be able to capture<n>hearts even in\ndefeat... Goodness!<n>Does my glamour know no\nlimit?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The title of Lucky Umamusume has<n>slipped\nthrough T.M. Opera O's<n>fingers, but her gallantry\nensures that<n>she gleams brighter than any star in\nthe sky!"
+        }
+    ]
+}

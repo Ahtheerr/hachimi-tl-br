@@ -1,0 +1,42 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "I tell Mihono Bourbon about our plans<n>regarding\ntraining and promo concerts<n>leading up to the\nGrand Concert.",
+            "color_text_info_list": [
+                "Mihono Bourbon"
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Orders received.",
+            "choice_data_list": [
+                "I'm asking what you think, not ordering you.",
+                "I'm asking what you think, not ordering you."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "...What I think?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Light Hello described the Grand<n>Concert as a\nstage for runners to<n>convey their gratitude."
+        },
+        {
+            "name": "Monologue",
+            "text": "That's why, if Bourbon's going to<n>perform, I want\nher to do it because<n>she <i>wants</i> to, not because I\n\"order\"<n>her to.",
+            "choice_data_list": [
+                "If you want, you can observe first before deciding."
+            ]
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "..."
+        },
+        {
+            "name": "Monologue",
+            "text": "If there ever comes a day when she<n>wants to\nperform of her own volition,<n>then we'll talk about\ngetting her up on<n>stage."
+        }
+    ]
+}

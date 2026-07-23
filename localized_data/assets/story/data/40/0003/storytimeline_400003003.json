@@ -1,0 +1,261 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "We're making steady progress on<n>our plans to\nbring back the Grand<n>Concert."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Please stop by and check out our<n>concert! All are\nwelcome! ☆"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Oh, that was my last flyer. Gotta go<n>get—"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Here you are!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Whoa, thank you!"
+        },
+        {
+            "name": "Dance Instructor",
+            "text": "Well then, let's get started on that<n>special lesson\nyou asked for.",
+            "choice_data_list": [
+                "Thank you for doing this!"
+            ]
+        },
+        {
+            "name": "Dance Instructor",
+            "text": "Don't mention it. Now then—"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Oh, almost forgot! I went ahead and<n>sent you the\ndance videos you asked<n>for."
+        },
+        {
+            "name": "Dance Instructor",
+            "text": "Ah, great! I really wanted to take<n>inspiration from\nthat group for the<n>choreography."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Phew...",
+            "choice_data_list": [
+                "Looks like you could use a rest."
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ahaha... I'm fine. I'm hardly going<n>above and\nbeyond."
+        },
+        {
+            "name": "Light Hello",
+            "text": "After all, offering this kind of support<n>is about all I\ncan do."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "So, the outdoor stage is free right<n>now, and I was\nthinking... Could we<n>try an impromptu concert?!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Of course! Let's give it a go!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Thank you all for coming!"
+        },
+        {
+            "name": "Monologue",
+            "text": "..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Aaand no one's here. So much for<n>stardom...",
+            "choice_data_list": [
+                "Well, this was just a test run."
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Gah... I'll never give up! Not till I make<n>everyone's\nhearts throb!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "I wasn't expecting... <i>this...</i>",
+            "choice_data_list": [
+                "Hello?"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Huh? O-oh, yeah, you're right! Let's<n>make our\nnext concert bigger!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Falco's performance was<n>impeccable, but we still\nfailed to<n>gather a crowd. It must be because I\nhaven't done enough to promote our<n>project...",
+            "color_text_info_list": [
+                "Falco"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Wait, what? No, no, this is totally<n>different!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "...You think so?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "I know so! See, what happened is I<n>failed to get\nacross just how fun<n>concerts can be!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "It sucks, yeah, but we just have to<n>put our heads\ntogether and think<n>about how we can steal\neveryone's<n>hearts at the real concert!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "A concert that'll steal people's<n>hearts..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "That includes you too, Trainer!",
+            "choice_data_list": [
+                "Right. Let's put our thinking caps on!",
+                "Right. Let's put our thinking caps on!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "After wrapping up the impromptu<n>concert, we take\nsome time to<n>discuss next steps. Then, on the\nway<n>home..."
+        },
+        {
+            "name": "Light Hello",
+            "text": "...",
+            "choice_data_list": [
+                "Anxious?"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Oh, s-sorry! We'll do better next time!<n>Next time,\nI'll..."
+        },
+        {
+            "name": "Light Hello",
+            "text": "I'll..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Growl...</i>",
+            "choice_data_list": [
+                "How about we grab a bite to eat?"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ahaha... That would be lovely, if you<n>don't mind."
+        },
+        {
+            "name": "Light Hello",
+            "text": "...",
+            "choice_data_list": [
+                "Thanks for all your hard work on the project."
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "What? No, I should be thanking you!<n>Really, I don't\nknow what I'd do<n>without you two."
+        },
+        {
+            "name": "Light Hello",
+            "text": "They really are tricky, aren't they?<n>Concerts.",
+            "choice_data_list": [
+                "Not your forte?"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ahaha... Well, actually, um..."
+        },
+        {
+            "name": "Light Hello",
+            "text": "I... don't have a whole lot of<n>experience with them."
+        },
+        {
+            "name": "Light Hello",
+            "text": "I couldn't tell you what it takes to<n>make a concert\na success... or even<n>what a successful concert\nlooks like,<n>really.",
+            "choice_data_list": [
+                "Then what drew you to the Grand Concert?"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "...I want to create something that<n><i>everyone</i> on\nstage can enjoy with<n>a smile."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Even those backstage, where no<n>spotlight\nshines..."
+        },
+        {
+            "name": "Light Hello",
+            "text": "...Yes, that's why I'm doing this. And<n>I need to\nwork harder to make it a<n>reality!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "I intend to put all of myself into this\nproject—everything I've learned from<n>my work up\nuntil now!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Thank you for inviting me to share a<n>meal with\nyou! I'll get the bill."
+        },
+        {
+            "name": "Light Hello",
+            "text": "I know what I need to do now—study<n>up on how to\nmake a concert that'll<n>capture people's hearts,\nlike Falco<n>said!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Before I can get a word in, Light Hello<n>pays the bill\nand dashes out of the<n>restaurant, still looking a\nlittle on edge."
+        },
+        {
+            "name": "Monologue",
+            "text": "A few days later, we're at the school<n>gates,\nhanding out flyers for our first<n>concert."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh? Grand Concert... concert... Yes,<n>that's it!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "T-Tachyon?!",
+            "color_text_info_list": [
+                "Tachyon"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I can't believe I've overlooked<n>something so\nsimple! Concerts! Why,<n>I've hardly incorporated\nthem into the<n>research at all!"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Crowd density, conformity... the<n>\"wave\" even.\nSomething here could<n>hold the potential to affect\nboth brain<n>matter and bodily stimulation."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Hehehe... I look forward to the first<n>day of\nobservations. And on the big<n>day, I might like to\nbring <i>her</i> along<n>as well..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "..."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...W-wait a second. So does that mean<n>you're\ngonna help us?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "All in all, preparations for our first<n>concert are\ngoing smoothly."
+        }
+    ]
+}

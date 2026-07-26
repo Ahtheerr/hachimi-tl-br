@@ -4,9 +4,14 @@
   "zip_dir": "hachimi-tl-br-main/localized_data",
   "files": [
     {
-      "path": "assets/atlas/daily/Daily_tex.diff.png",
-      "hash": "683b995553dc81e65b46c6e4cada36982b987a43cb7000afca0bcdbd0ea139d9",
-      "size": 19906
+      "path": "assets/atlas/circle/circle.diff.png",
+      "hash": "8028139d2f761291194e2fbad2ab34d39cb29cc26f63e8551e8f1a3833412a8d",
+      "size": 781508
+    },
+    {
+      "path": "assets/atlas/common/common.diff.png",
+      "hash": "772c6a664428632a93f2789698a29f3b907125fe51533f7434ad26db8bbb1f42",
+      "size": 1574340
     },
     {
       "path": "assets/atlas/daily/daily.diff.png",
@@ -14,14 +19,9 @@
       "size": 10611
     },
     {
-      "path": "assets/atlas/daily/daily.json",
-      "hash": "24edce47e9796ca5027852ad31f5beebc380de9f4dcfd42bc19f9d1f5c4bfec4",
-      "size": 151
-    },
-    {
-      "path": "assets/atlas/home/Home.diff.png",
-      "hash": "e28704441de016b25fbf30fd57479f1e06e58463e05fd6908cd5f5fa1ab104ee",
-      "size": 664558
+      "path": "assets/atlas/home/home.diff.png",
+      "hash": "10ad52d23e0ff44f4741b6f0d409ada1934659f5ddba767536410f08a4e3f70e",
+      "size": 657750
     },
     {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1001001.json",

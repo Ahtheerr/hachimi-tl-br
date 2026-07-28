@@ -10,8 +10,8 @@
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "772c6a664428632a93f2789698a29f3b907125fe51533f7434ad26db8bbb1f42",
-      "size": 1574340
+      "hash": "945258c451080a26972e2b920b8a68775a3e445eeca4bb93ddd360a66b27b2ce",
+      "size": 1582884
     },
     {
       "path": "assets/atlas/daily/daily.diff.png",
@@ -22,6 +22,21 @@
       "path": "assets/atlas/home/home.diff.png",
       "hash": "10ad52d23e0ff44f4741b6f0d409ada1934659f5ddba767536410f08a4e3f70e",
       "size": 657750
+    },
+    {
+      "path": "assets/atlas/photostudio/photostudio.diff.png",
+      "hash": "4d976e95c074b7a8f3f1f64fc38980e6bbfa7a4d83da081baf4c8be9705ab725",
+      "size": 49393
+    },
+    {
+      "path": "assets/atlas/single/single.diff.png",
+      "hash": "802fa01f45b8c94af16385df7546aec66ac51886a0d29053c2fa2dbde11df855",
+      "size": 598966
+    },
+    {
+      "path": "assets/atlas/singlemodescenariolive/singlemodescenariolive.diff.png",
+      "hash": "5f1310cb39e30cac1f09de60a0a3fd496191955373505b873e3f3b98a8d08321",
+      "size": 1264711
     },
     {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1001001.json",
@@ -1769,6 +1784,11 @@
       "size": 3
     },
     {
+      "path": "assets/lyrics/m1053_lyrics.json",
+      "hash": "a6d8cab8564be1b9308705ba8d1e4d21325458e663c01760c712ac68c98ef70d",
+      "size": 2810
+    },
+    {
       "path": "assets/lyrics/m1054_lyrics.json",
       "hash": "441a3ca0a81662ff0f15b19c488cf3a242c667849d02db720790edc172bcb94d",
       "size": 1386
@@ -1777,6 +1797,11 @@
       "path": "assets/lyrics/m9051_lyrics.json",
       "hash": "e5c6fab699f593814f398315da0608bd15db5bfd4c221e4664c82fd65515cb07",
       "size": 544
+    },
+    {
+      "path": "assets/photostudio/photostudio.diff.png",
+      "hash": "4d976e95c074b7a8f3f1f64fc38980e6bbfa7a4d83da081baf4c8be9705ab725",
+      "size": 49393
     },
     {
       "path": "assets/race/storyrace/text/storyrace_020000001.json",

@@ -1,0 +1,28 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "As I'm setting up for the day's<n>early-morning\ntraining, I'm greeted by<n>a familiar voice."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Good morning, Trainer. I thought I<n>might find you\nhere.",
+            "choice_data_list": [
+                "Morning. You're up early.",
+                "Morning. You're up early."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "I slept well last night, so I thought I<n>might come\nand pay you a visit."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Well, more precisely, I thought I might<n>lie in wait\nand surprise you."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "But it seems even the Emperor<n>cannot outdo you\nwhen it comes to<n>early starts."
+        }
+    ]
+}

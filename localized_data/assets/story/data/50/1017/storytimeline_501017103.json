@@ -1,0 +1,146 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Hoje começa o acampamento de<n>verão, onde as\nUmamusume treinam<n>para aprimorar suas\nhabilidades."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ou, pelo menos, deveria começar..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas Symboli Rudolf ainda não deixou<n>a academia."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hishi Amazon e Fuji Kiseki. Os<n>relatórios de\nsituação de vocês, por<n>favor.",
+            "choice_data_list": [
+                "(Se bem me lembro... elas são as líderes dos\ndormitórios Miho e Ritto.)"
+            ],
+            "color_text_info_list": [
+                "Hishi Amazon",
+                "Fuji Kiseki"
+            ]
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Todos as moradoras do Dormitório<n>Miho estão\npresentes. Elas<n>embarcaram no ônibus que\nacabou<n>de partir.",
+            "color_text_info_list": [
+                "Miho"
+            ]
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Todos as residentes do Dormitório<n>Ritto também\njá partiram. Exceto uma<n>aluna que informou estar\ndoente esta<n>manhã.",
+            "color_text_info_list": [
+                "Ritto Dormitory"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Excelente. Presumo que a estudante<n>esteja\nrecebendo os cuidados<n>adequados?"
+        },
+        {
+            "name": "Fuji Kiseki",
+            "text": "Sim. Deixei-a aos cuidados da equipe<n>da\nacademia."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Então está tudo em ordem. Obrigada<n>pelo\nexcelente trabalho de vocês.<n>Podem ir encontrar\nos demais alunos."
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Pode deixar. Só não vai se atrasar,<n>presidente!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Muito bem, Treinador. Desculpe por<n>fazê-lo\nesperar."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Assim que terminarmos a última<n>conferência,\ntambém poderemos<n>partir.",
+            "choice_data_list": [
+                "Hoje não vai liderar a marcha?",
+                "Hoje não vai liderar a marcha?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Acredito que Air Groove tem tudo sob<n>controle."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Além disso, quero verificar como está<n>a aluna que\nprecisou ficar para trás.",
+            "choice_data_list": [
+                "Mas e se você perder o início do acampamento?"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Já pensei em uma forma de evitar<n>isso. A\npropósito..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "O nome \"Supercarro\" lhe soa familiar?",
+            "choice_data_list": [
+                "(Estou com um péssimo pressentimento...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "E o meu pressentimento estava<n>certíssimo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>VRUUUUUM! SCCCREEEECH!</i>"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Obrigada por nos trazer, Maruzensky.<n>Sem você,\nnão teríamos chegado a<n>tempo."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Imagina! Eu sempre adoro tirar minha<n>belezinha\npara dar uma volta!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O \"plano\" da Symboli Rudolf acabou<n>sendo pedir à\nMaruzensky que nos<n>levasse até o acampamento\nem seu<n>precioso carro esportivo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Infelizmente, Maruzensky tem certa<n>fama de\ndirigir como uma louca... e a<n>fama é mais do que\nmerecida."
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Ei, Rudolf?"
+        },
+        {
+            "name": "Maruzensky",
+            "text": "Seu treinador está com uma cara<n>meio pálida. Está\ntudo bem?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Claro. Imagino que sua direção<n>frequentemente\ndeixe as pessoas<n>sem palavras de tão\nimpressionadas."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Não é mesmo, Treinador? As<n>habilidades da\nMaruzensky ao<n>volante estão em outro nível, não\nestão?",
+            "choice_data_list": [
+                "É... certamente são...",
+                "É... certamente são..."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Se quiser, também posso pedir que<n>ela nos leve\nde volta na volta de—",
+            "choice_data_list": [
+                "N-não precisa, estou bem!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Depois de alguns solavancos pelo<n>caminho, o\nacampamento de verão<n>finalmente começa."
+        }
+    ]
+}

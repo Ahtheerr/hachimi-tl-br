@@ -1,0 +1,35 @@
+{
+    "text_block_list": [
+        {
+            "name": "Symboli Rudolf",
+            "text": "May I ask what you thought of my<n>running today?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "For the most part, she was as<n>confident as ever\non the track..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "But now that I think about it, she<n>might have\nlooked a little tired.",
+            "choice_data_list": [
+                "You seemed to be struggling a bit."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "So you thought the same... Perhaps I<n>should start\npaying more attention to<n>my body's needs and\ngive myself<n>some rest."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Not that you're at fault, of course.<n>We've both\nbeen pushing ourselves<n>a little too hard of late."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "We must both strive to keep one<n>another at the\ntop of our game."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Symboli Rudolf has a point. It might be<n>wise to\nrethink our schedule."
+        }
+    ]
+}

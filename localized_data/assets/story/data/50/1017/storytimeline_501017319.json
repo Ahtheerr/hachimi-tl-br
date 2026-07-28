@@ -1,0 +1,34 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "With all of Symboli Rudolf's races<n>over, now is as\ngood a time as any to<n>reflect on her achievements."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Judging purely by number of<n>accolades, my record\nis not as<n>incontestable as I might have hoped.",
+            "choice_data_list": [
+                "But everyone still knows you're the Emperor."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "That's... kind of you to say."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "If I have achieved that much, I can call<n>my imperial\ncampaign a success."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "These victories will fuel me to pursue<n>even greater\nfeats.",
+            "choice_data_list": [
+                "You did good."
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "As did you, Trainer. Thank you."
+        }
+    ]
+}

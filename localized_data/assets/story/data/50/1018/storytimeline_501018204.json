@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Narrador",
-            "text": "Recebemos o outono aqui no<n>Hipódromo de Quioto\ncom a última<n>corrida da série Tríplice Tiara — a\nShuka Sho!"
+            "text": "Recebemos o outono aqui no<n>Hipódromo de Quioto\ncom a última<n>corrida da série Tríplice Tiara — a<n>Shuka\nSho!"
         },
         {
             "name": "Narrador",
-            "text": "A largada da corrida está a poucos<n>instantes!\nQuem emergirá coberta de<n>glória?"
+            "text": "A largada da corrida está a poucos<n>instantes! Quem\nemergirá coberta de<n>glória?"
         },
         {
             "name": "Monólogo",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Antes de começar a corrida, há algo<n>que desejo\nlhe dizer.",
+            "text": "Antes de começar a corrida, há algo<n>que desejo lhe\ndizer.",
             "choice_data_list": [
                 "O que foi?"
             ]

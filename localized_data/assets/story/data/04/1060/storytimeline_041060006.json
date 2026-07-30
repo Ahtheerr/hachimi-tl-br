@@ -121,7 +121,7 @@
             "name": "Nice Nature",
             "text": "Tipo, a roupa só parecia fofa porque a<n>modelo que estava usando era fofa,<n>entende?",
             "choice_data_list": [
-                "Tenho certeza de que você ficaria tão fofa quanto."
+                "Tenho certeza de que você ficaria tão fofa\nquanto."
             ]
         },
         {
@@ -161,11 +161,11 @@
         },
         {
             "name": "Nice Nature",
-            "text": "<i>Suspiro.</i> Eu <i>quase</i> fui<n>convencida a experimentar."
+            "text": "<i>Suspiro.</i> Eu <i>quase</i> fui convencida a<n>experimentar."
         },
         {
             "name": "Nice Nature",
-            "text": "Eu não esperava que <i>você</i> fosse<n>se aliar à loja contra mim, Treinador.",
+            "text": "Eu não esperava que <i>você</i> fosse se<n>aliar à loja contra mim, Treinador.",
             "choice_data_list": [
                 "Eu ainda insisto, você vai ficar uma fofura nisso."
             ]

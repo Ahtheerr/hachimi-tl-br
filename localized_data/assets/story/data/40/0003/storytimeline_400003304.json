@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monologue",
-            "text": "One day, I drop by Nakayama<n>Racecourse and\nspot a pair of familiar<n>faces."
+            "text": "One day, I drop by Nakayama<n>Racecourse and spot\na pair of familiar<n>faces."
         },
         {
             "name": "Reporter Otonashi",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Well, it's a place I always dreamed<n>of, and one\nmy grandmother held<n>fondly in her memories."
+            "text": "Well, it's a place I always dreamed<n>of, and one my\ngrandmother held<n>fondly in her memories."
         },
         {
             "name": "Light Hello",
@@ -29,7 +29,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "I have an interview with <i>Turbo Turf<n>WEB</i> in\neight minutes, then <i>The<n>Nakayama Sleuth</i>\ntwenty-five<n>minutes after that, and in fifty\nminutes, um...",
+            "text": "I have an interview with <i>Turbo Turf<n>WEB</i> in eight\nminutes, then <i>The<n>Nakayama Sleuth</i> twenty-five\nminutes<n>after that, and in fifty minutes, um...",
             "choice_data_list": [
                 "Sounds like a bit much..."
             ]
@@ -70,7 +70,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Her voice sounds hoarse. It must be<n>worn out\nafter so many interviews.",
+            "text": "Her voice sounds hoarse. It must be<n>worn out after\nso many interviews.",
             "choice_data_list": [
                 "I'll pick up some cough drops while I'm at it."
             ]
@@ -108,7 +108,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Written on the wrapping paper in neat<n>letters are\nmy and<n><chrname>'s names along<n>with\na big \"Thank you!\""
+            "text": "Written on the wrapping paper in neat<n>letters are\nmy and <chrname>'s names along<n>with a big \"Thank you!\""
         },
         {
             "name": "Light Hello",
@@ -140,7 +140,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "...I had no idea it would take so long.<n>Sorry to eat\nup so much of your time."
+            "text": "...I had no idea it would take so long.<n>Sorry to eat up\nso much of your time."
         },
         {
             "name": "Light Hello",
@@ -163,7 +163,7 @@
         },
         {
             "name": "Monologue",
-            "text": "The passion and persistence Light<n>Hello\ndemonstrates in her work<n>continues to amaze\nme..."
+            "text": "The passion and persistence Light<n>Hello\ndemonstrates in her work<n>continues to amaze me..."
         }
     ]
 }

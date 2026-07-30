@@ -72,7 +72,7 @@
         },
         {
             "name": "Gold City",
-            "text": "Ah, mas não vá <i>realmente</i> agir<n>como meu guardião, tá? Só fique de<n>boca fechada e finja que pertence ao<n>lugar."
+            "text": "Ah, mas não vá <i>realmente</i> agir como<n>meu guardião, tá? Só fique de boca<n>fechada e finja que pertence ao<n>lugar."
         },
         {
             "name": "Gold City",
@@ -216,8 +216,8 @@
             "name": "Gold City",
             "text": "Por que não consigo simplesmente<n>jogar tudo fora? Eu só quero me<n>livrar disso, por favor!",
             "choice_data_list": [
-                "Você não precisa jogar fora a \"você\" de verdade.",
-                "Você não precisa jogar fora a \"você\" de verdade."
+                "Você não precisa jogar fora a \"você\" de\nverdade.",
+                "Você não precisa jogar fora a \"você\" de\nverdade."
             ]
         },
         {
@@ -236,7 +236,7 @@
         },
         {
             "name": "Gold City",
-            "text": "...Não, você <i>não</i> acabou de dizer<n>isso. O quê, você acha que é tipo meu<n>cúmplice agora? Aham, tá bom!",
+            "text": "...Não, você <i>não</i> acabou de dizer isso.<n>O quê, você acha que é tipo meu<n>cúmplice agora? Aham, tá bom!",
             "choice_data_list": [
                 "Não, eu acho que sou seu treinador!",
                 "Não, eu acho que sou seu treinador!"
@@ -251,14 +251,14 @@
         },
         {
             "name": "Gold City",
-            "text": "...Idiota. Idiota, idiota, idiota. Você é<n><i>tão</i> teimoso, e mico, e<n>estranhamente arrogante!",
+            "text": "...Idiota. Idiota, idiota, idiota. Você é <i>tão</i><n>teimoso, e mico, e estranhamente<n>arrogante!",
             "choice_data_list": [
                 "Não posso negar isso."
             ]
         },
         {
             "name": "Gold City",
-            "text": "<i>Suspiro...</i> Sinceramente, o que você<n>é afinal? Ah é, você é meu<n>\"treinador\"."
+            "text": "<i>Suspiro...</i> Sinceramente, o que você é<n>afinal? Ah é, você é meu \"treinador\"."
         },
         {
             "name": "Gold City",

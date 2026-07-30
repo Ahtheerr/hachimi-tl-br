@@ -13,18 +13,18 @@
         },
         {
             "name": "Monólogo",
-            "text": "Um dia, no caminho de volta de um<n>passeio,\nsomos abordados por<n>algumas crianças\nconhecidas."
+            "text": "Um dia, no caminho de volta de um<n>passeio, somos\nabordados por<n>algumas crianças conhecidas."
         },
         {
             "name": "Garota Alegre",
-            "text": "Eu sabia que eram vocês! Vocês são<n>os heróis\nque ajudaram a Doto!",
+            "text": "Eu sabia que eram vocês! Vocês são<n>os heróis que\najudaram a Doto!",
             "choice_data_list": [
                 "Ah, são as crianças de quando estávamos\nprocurando pela lâmina lendária."
             ]
         },
         {
             "name": "Pai/Mãe do Centro Infantil A",
-            "text": "Ah, sim! Ouvi dizer que você ajudou a<n>Opera O a\nse preparar para a<n>apresentação dela!"
+            "text": "Ah, sim! Ouvi dizer que você ajudou a<n>Opera O a se\npreparar para a<n>apresentação dela!"
         },
         {
             "name": "Pai/Mãe do Centro Infantil B",
@@ -44,7 +44,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Apesar de parecer bastante<n>hesitante, Admire\nVega se junta ao<n>churrasco."
+            "text": "Apesar de parecer bastante<n>hesitante, Admire Vega\nse junta ao<n>churrasco."
         },
         {
             "name": "Funcionário do Centro Infantil B",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Não sei como isso vai funcionar. Mas<n>eu disse\nque faria, então..."
+            "text": "Não sei como isso vai funcionar. Mas<n>eu disse que\nfaria, então..."
         },
         {
             "name": "???",
@@ -92,7 +92,7 @@
         },
         {
             "name": "Narita Top Road",
-            "text": "Não se preocupe! Você está com<n>sorte — eu\nestava planejando<n>comprar muita coisa hoje!"
+            "text": "Não se preocupe! Você está com<n>sorte — eu estava\nplanejando<n>comprar muita coisa hoje!"
         },
         {
             "name": "Admire Vega",
@@ -100,7 +100,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "(Estamos custando muito tempo e<n>esforço para\nela. Não bastaria dar<n>apenas um \"obrigada\".)"
+            "text": "(Estamos custando muito tempo e<n>esforço para ela.\nNão bastaria dar<n>apenas um \"obrigada\".)"
         },
         {
             "name": "Narita Top Road",
@@ -132,7 +132,7 @@
         },
         {
             "name": "Meisho Doto",
-            "text": "M-mas! Eu não poderia... Que tal algo<n>além de\numa bebida? Um sorvete, ou<n>uma cenoura\ngrelhada? Ou talvez..."
+            "text": "M-mas! Eu não poderia... Que tal algo<n>além de uma\nbebida? Um sorvete, ou<n>uma cenoura grelhada? Ou\ntalvez..."
         },
         {
             "name": "Admire Vega",
@@ -159,20 +159,11 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Acho que entendo um pouco como a<n>Doto se\nsentiu antes."
+            "text": "Acho que entendo um pouco como a<n>Doto se sentiu\nantes."
         },
         {
             "name": "Admire Vega",
-            "text": "Às vezes você quer fazer algo mais<n>do que\napenas dizer obrigada."
-        },
-        {
-            "name": "Admire Vega",
-            "text": "Existem sentimentos que não podem<n>ser\nexpressos apenas com palavras.",
-            "choice_data_list": [
-                "Nesse caso, você tem que caprichar na comida!",
-                "Nesse caso, você tem que caprichar na comida!",
-                "Nós realmente aprendemos muito hoje."
-            ]
+            "text": "Às vezes você quer fazer algo mais<n>do que apenas\ndizer obrigada."
         },
         {
             "name": "Admire Vega",
@@ -185,7 +176,16 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Isso vale para você também. Trate de<n>não\nqueimar nada."
+            "text": "Existem sentimentos que não podem<n>ser\nexpressos apenas com palavras.",
+            "choice_data_list": [
+                "Nesse caso, você tem que caprichar na comida!",
+                "Nesse caso, você tem que caprichar na comida!",
+                "Nós realmente aprendemos muito hoje."
+            ]
+        },
+        {
+            "name": "Admire Vega",
+            "text": "Isso vale para você também. Trate de<n>não queimar\nnada."
         },
         {
             "name": "Funcionário do Centro Infantil",
@@ -205,7 +205,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Dizer isso em voz alta é um pouco<n>embaraçoso,\nno entanto...",
+            "text": "Dizer isso em voz alta é um pouco<n>embaraçoso, no\nentanto...",
             "choice_data_list": [
                 "Qual é, não precisa ser assim!"
             ]

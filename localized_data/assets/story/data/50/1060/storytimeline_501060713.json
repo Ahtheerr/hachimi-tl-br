@@ -6,7 +6,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "...Bom, uma coisinha de nada como<n>essa sara\nnum piscar de olhos."
+            "text": "...Bom, uma coisinha de nada como<n>essa sara num\npiscar de olhos."
         },
         {
             "name": "Nice Nature",
@@ -25,7 +25,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "É sério, eu tô super de boa agora!<n><i>Por favor</i>,\npara de se preocupar<n>comigo.",
+            "text": "É sério, eu tô super de boa agora! <i>Por<n>favor</i>, para\nde se preocupar comigo.",
             "choice_data_list": [
                 "Mas eu estou preocupado com você...",
                 "...Tudo bem. Eu acredito em você, Nature!"
@@ -44,11 +44,11 @@
         },
         {
             "name": "Nice Nature",
-            "text": "<i>Suspiro...</i> Então é tudo sem querer.<n>O que eu\nvou fazer com você?"
+            "text": "<i>Suspiro...</i> Então é tudo sem querer. O<n>que eu vou\nfazer com você?"
         },
         {
             "name": "Nice Nature",
-            "text": "Tá bom, tá bom, eu desisto. Não quero<n>passar\nmais vergonha."
+            "text": "Tá bom, tá bom, eu desisto. Não quero<n>passar mais\nvergonha."
         },
         {
             "name": "Monólogo",

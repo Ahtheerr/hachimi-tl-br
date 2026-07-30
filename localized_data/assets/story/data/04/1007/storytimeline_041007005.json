@@ -26,7 +26,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Tem um esplendor antigo nas<n>profundezas! E você tá dizendo que a<n>nobre busca pelo desconhecido<n><I>não</I> é treino?!"
+            "text": "Tem um esplendor antigo nas<n>profundezas! E você tá dizendo que a<n>nobre busca pelo desconhecido <I>não</I> é<n>treino?!"
         },
         {
             "name": "Gold Ship",
@@ -138,8 +138,8 @@
             "name": "Gold Ship",
             "text": "Viver em harmonia com a natureza e<n>aguçar nossos sentidos na selva —<n>abra os olhos. Tá tudo conectado com<n>as corridas!",
             "choice_data_list": [
-                "Ah, então tudo isso é pra treinar seus instintos de\ncorrida!",
-                "Ah, então tudo isso é pra treinar seus instintos de\ncorrida!"
+                "Ah, então tudo isso é pra treinar seus instintos\nde corrida!",
+                "Ah, então tudo isso é pra treinar seus instintos\nde corrida!"
             ]
         },
         {

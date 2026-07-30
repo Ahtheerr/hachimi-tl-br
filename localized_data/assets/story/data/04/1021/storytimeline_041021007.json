@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Tamamo Cross",
-            "text": "<i>Arf, arf, arf...</i> Beleza, foram dez<n>voltas.",
+            "text": "<i>Arf, arf, arf...</i> Beleza, foram dez voltas.",
             "choice_data_list": [
                 "Então terminamos o treino desta manhã. Bom\ntrabalho."
             ]
@@ -157,7 +157,7 @@
             "name": "Tamamo Cross",
             "text": "Agora <i>isso</i> sim é uma compra que<n>vale a pena! Dois doteyaki pelo preço<n>de um! Parece que tô em casa!",
             "choice_data_list": [
-                "Vou querer uma tigela de tendão de boi cozido, por\nfavor."
+                "Vou querer uma tigela de tendão de boi cozido,\npor favor."
             ]
         },
         {
@@ -268,7 +268,7 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "Claro que não! Acha que essa<n>orgulhosa corredora de Naniwa ia<n>pagar <i>preço de tabela</i> por algo?!<n>Não toco em nada se não for<n>pechincha!",
+            "text": "Claro que não! Acha que essa<n>orgulhosa corredora de Naniwa ia<n>pagar <i>preço de tabela</i> por algo?! Não<n>toco em nada se não for pechincha!",
             "choice_data_list": [
                 "É isso aí, orgulho da terra natal!"
             ]

@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Haru Urara",
-            "text": "Ufa! Foi divertido! Eu tava voando<n>pela pista\ndessa vez!",
+            "text": "Ufa! Foi divertido! Eu tava voando<n>pela pista dessa\nvez!",
             "choice_data_list": [
                 "Você acabou de correr numa corrida bem\nprestigiosa. Como você está se sentindo?"
             ]
@@ -13,7 +13,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Foi tão animado, igualzinho a sempre!<n>Tinha\nalguma outra coisa?"
+            "text": "Foi tão animado, igualzinho a sempre!<n>Tinha alguma\noutra coisa?"
         },
         {
             "name": "Monólogo",
@@ -69,7 +69,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "A Haru Urara parece não levar<n><i>nada</i> a sério. Me\npergunto o quão<n>focada ela realmente vai\ncompetir..."
+            "text": "A Haru Urara parece não levar <i>nada</i> a<n>sério. Me\npergunto o quão focada ela<n>realmente vai\ncompetir..."
         }
     ]
 }

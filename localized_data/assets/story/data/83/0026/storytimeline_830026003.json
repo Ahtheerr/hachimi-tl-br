@@ -10,11 +10,11 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "<i>Huff... Huff...</i> Hehe, I got away<n>again!"
+            "text": "<i>Huff... Huff...</i> Hehe, I got away again!"
         },
         {
             "name": "Twin Turbo",
-            "text": "Psh! This is sooo easy! They're<n><i>never</i> gonna\ncatch me before the<n>time runs out!",
+            "text": "Psh! This is sooo easy! They're<n><i>never</i> gonna catch\nme before the time<n>runs out!",
             "choice_data_list": [
                 "The game's almost over.",
                 "The game's almost over."
@@ -38,7 +38,7 @@
         },
         {
             "name": "Ikuno Dictus",
-            "text": "There won't be time for further<n>attempts, but if we\ncan capture the<n>last two people now, victory will\nbe<n>ours!"
+            "text": "There won't be time for further<n>attempts, but if we\ncan capture the<n>last two people now, victory will be\nours!"
         },
         {
             "name": "Cop Team Umamusume",
@@ -50,7 +50,7 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "C'mon, my little minion! You've gotta<n>get away\ntoo!"
+            "text": "C'mon, my little minion! You've gotta<n>get away too!"
         },
         {
             "name": "Robber Team Umamusume",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Ikuno Dictus",
-            "text": "This is a straight path hemmed in by<n>trees and a\npond. There is no escape<n>route... You <i>will</i> be\ncaught!"
+            "text": "This is a straight path hemmed in by<n>trees and a\npond. There is no escape<n>route... You <i>will</i> be caught!"
         },
         {
             "name": "Twin Turbo",
@@ -86,7 +86,7 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "<i>Huff... Wheeze...</i> I-I've still... got<n>gas left... in the\ntank..."
+            "text": "<i>Huff... Wheeze...</i> I-I've still... got gas<n>left... in the\ntank..."
         },
         {
             "name": "Ikuno Dictus",
@@ -106,7 +106,7 @@
         },
         {
             "name": "Spectators",
-            "text": "Ahhhhh! GOOOOO! Get away from<n>them, Twin\nTurbo!"
+            "text": "Ahhhhh! GOOOOO! Get away from<n>them, Twin Turbo!"
         },
         {
             "name": "Ikuno Dictus",
@@ -126,11 +126,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "And the side that scrapes through to<n>victory is...\nthe robbers!"
+            "text": "And the side that scrapes through to<n>victory is... the\nrobbers!"
         },
         {
             "name": "Twin Turbo",
-            "text": "Hehehe! What'd I tell ya? We won!<n>Bet you're\nreal glad you were a<n>robber!",
+            "text": "Hehehe! What'd I tell ya? We won!<n>Bet you're real\nglad you were a<n>robber!",
             "choice_data_list": [
                 "I was just keeping an eye on things!",
                 "I was just keeping an eye on things!"
@@ -150,7 +150,7 @@
         },
         {
             "name": "Ikuno Dictus",
-            "text": "No. You did not fall victim to me, but to<n>the\ncombined efforts of the whole cop<n>team."
+            "text": "No. You did not fall victim to me, but to<n>the combined\nefforts of the whole cop<n>team."
         },
         {
             "name": "Cop Team",

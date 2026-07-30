@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Após completar nosso treino diário,\n<chrname> e eu nos<n>despedimos e\nvamos para casa."
+            "text": "Após completar nosso treino diário,<n><chrname> e eu nos\ndespedimos e vamos para<n>casa."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -24,7 +24,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Outra treinadora da Academia Tracen,<n>a rigorosa\nmas talentosa Riko<n>Kashimoto, se aproxima de\nnós<n>parecendo um pouco exausta.",
+            "text": "Outra treinadora da Academia Tracen,<n>a rigorosa\nmas talentosa Riko<n>Kashimoto, se aproxima de nós\nparecendo um pouco exausta.",
             "color_text_info_list": [
                 "Riko Kashimoto"
             ]
@@ -53,7 +53,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Olá, Treinadora Kashimoto! Terminou<n>seu treino\npor hoje?"
+            "text": "Olá, Treinadora Kashimoto! Terminou<n>seu treino por\nhoje?"
         },
         {
             "name": "Riko Kashimoto",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Tenho certeza de que a equipe da<n>academia\ncuidará disso amanhã de<n>manhã, mas devemos\nter cuidado se<n>decidirmos fazer uma sessão cedo."
+            "text": "Tenho certeza de que a equipe da<n>academia\ncuidará disso amanhã de<n>manhã, mas devemos ter\ncuidado se<n>decidirmos fazer uma sessão cedo."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -97,7 +97,7 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "A areia aqui está... <i>arf...</i> boa. Não<n>deve haver\nproblemas... Ufa..."
+            "text": "A areia aqui está... <i>arf...</i> boa. Não deve<n>haver\nproblemas... Ufa..."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -124,7 +124,7 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "<i>Arf... arf...</i> A... a grama por aqui<n>ainda está\nadequada!"
+            "text": "<i>Arf... arf...</i> A... a grama por aqui ainda<n>está\nadequada!"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -177,14 +177,14 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Eu também! Eu te cobri de elogios<n>agora há\npouco, mas me recuso a<n>acreditar que minha\nMeek perderia!",
+            "text": "Eu também! Eu te cobri de elogios<n>agora há pouco,\nmas me recuso a<n>acreditar que minha Meek\nperderia!",
             "color_text_info_list": [
                 "Meek"
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "A Meek é quem está lá correndo —<n>ela é quem\nestá dando tudo de si.<n>Uma vez que aqueles\nportões de<n>largada se abrem, tudo o que posso\nfazer é assistir!"
+            "text": "A Meek é quem está lá correndo —<n>ela é quem está\ndando tudo de si.<n>Uma vez que aqueles portões de\nlargada se abrem, tudo o que posso<n>fazer é\nassistir!"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -195,7 +195,7 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "E quanto a você, Treinador <username>? Você<n>acredita na\nsua parceira?",
+            "text": "E quanto a você, Treinador <username>? Você<n>acredita na sua\nparceira?",
             "choice_data_list": [
                 "Acredito. E não tenho intenção de perder."
             ]
@@ -206,14 +206,14 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "Treinadora Kiryuin, Treinador <username>,<n>desejo a ambos\nmuita sorte.",
+            "text": "Treinadora Kiryuin, Treinador <username>, desejo<n>a ambos\nmuita sorte.",
             "choice_data_list": [
                 "Certo! O mesmo para você!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Nesta noite, enquanto desejamos<n>sorte uns aos\noutros, renovo minha<n>fé na <chrname> e\ndecido dar<n>o meu melhor!"
+            "text": "Nesta noite, enquanto desejamos<n>sorte uns aos\noutros, renovo minha<n>fé na <chrname> e decido dar o meu\nmelhor!"
         }
     ]
 }

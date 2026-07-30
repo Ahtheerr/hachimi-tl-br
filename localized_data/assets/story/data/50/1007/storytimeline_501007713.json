@@ -6,7 +6,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "<i>Bip-bip-bip...</i> Dano detectado.<n>Golshiroid,\niniciando escaneamento.",
+            "text": "<i>Bip-bip-bip...</i> Dano detectado.<n>Golshiroid, iniciando\nescaneamento.",
             "choice_data_list": [
                 "O-o que foi?!",
                 "O-o que foi?!"
@@ -22,7 +22,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Iniciando escaneamento secundário...<n><i>Bip.</i>\nMissão pode ser retomada<n>quando quiser.\nSolicitando novas<n>ordens.",
+            "text": "Iniciando escaneamento secundário...<n><i>Bip.</i> Missão\npode ser retomada<n>quando quiser. Solicitando\nnovas<n>ordens.",
             "choice_data_list": [
                 "Negado. Reparos devem ser a prioridade."
             ]
@@ -40,7 +40,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "<i>Aiai.</i> Ordem recebida. Priorizando<n>reparos... <i>Bip,\nbip, bip...</i>"
+            "text": "<i>Aiai.</i> Ordem recebida. Priorizando<n>reparos... <i>Bip, bip,\nbip...</i>"
         },
         {
             "name": "Monólogo",
@@ -48,7 +48,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Sugestão aprovada. Golshiroid,<n>iniciando\nsequência de atualização!"
+            "text": "Sugestão aprovada. Golshiroid,<n>iniciando sequência\nde atualização!"
         },
         {
             "name": "Gold Ship",
@@ -64,7 +64,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "Ótimo, agora eu sou só uma pilha de<n>sucata.\n<i>Aiai...</i>"
+            "text": "Ótimo, agora eu sou só uma pilha de<n>sucata. <i>Aiai...</i>"
         },
         {
             "name": "Monólogo",
@@ -72,7 +72,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "<i>B-b-bip.</i> Sugestão confirmada.<n>Iniciando\nsequência de atualização!",
+            "text": "<i>B-b-bip.</i> Sugestão confirmada.<n>Iniciando sequência\nde atualização!",
             "choice_data_list": [
                 "Mais forte! Mais forte!"
             ]
@@ -90,11 +90,11 @@
         },
         {
             "name": "Gold Ship",
-            "text": "<i>Bip-bip.</i> Sorvete da lojinha da<n>escola é\nnecessário para atualizar a<n>Golshiroid. Caso\ncontrário, a<n>atualização será adiada\nindefinidamente."
+            "text": "<i>Bip-bip.</i> Sorvete da lojinha da escola<n>é necessário\npara atualizar a<n>Golshiroid. Caso contrário, a\natualização será adiada<n>indefinidamente."
         },
         {
             "name": "Monólogo",
-            "text": "Não tem jeito. Eu aceito a condição<n>dela e nós\ndois refazemos o<n>cronograma de treino dela."
+            "text": "Não tem jeito. Eu aceito a condição<n>dela e nós dois\nrefazemos o<n>cronograma de treino dela."
         }
     ]
 }

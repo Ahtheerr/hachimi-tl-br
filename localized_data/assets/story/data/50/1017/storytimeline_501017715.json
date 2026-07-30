@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "On my way home, I spot Symboli<n>Rudolf heading\nfor the practice track.",
+            "text": "On my way home, I spot Symboli<n>Rudolf heading for\nthe practice track.",
             "choice_data_list": [
                 "Where are you going?",
                 "Where are you going?"
@@ -14,7 +14,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "With things unusually quiet around<n>the academy, I\ncould think of no better<n>way to spend my free\ntime.",
+            "text": "With things unusually quiet around<n>the academy, I\ncould think of no better<n>way to spend my free time.",
             "choice_data_list": [
                 "Didn't we just finish training?",
                 "Didn't we just finish training?"
@@ -58,7 +58,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "It wouldn't do to fix my sights so high<n>that I fall\nflat on my face."
+            "text": "It wouldn't do to fix my sights so high<n>that I fall flat\non my face."
         }
     ]
 }

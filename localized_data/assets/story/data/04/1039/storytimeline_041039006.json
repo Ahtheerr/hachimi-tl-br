@@ -214,7 +214,7 @@
         },
         {
             "name": "Kawakami Princess",
-            "text": "Eu já vi o filme da Princesa Fighter<n><i>dezenas</i> de vezes! Mas esqueci<n>de algo tão importante!"
+            "text": "Eu já vi o filme da Princesa Fighter<n><i>dezenas</i> de vezes! Mas esqueci de<n>algo tão importante!"
         },
         {
             "name": "Kawakami Princess",
@@ -264,8 +264,8 @@
             "name": "Kawakami Princess",
             "text": "Digo, tem tanta coisa que eu não faço<n>ideia! Tipo, que tipo de roupa você<n>gosta, ou seus acompanhamentos de<n>ramen favoritos e equipamentos de<n>treino!",
             "choice_data_list": [
-                "Você tem que me contar tudo sobre você também.",
-                "Você tem que me contar tudo sobre você também."
+                "Você tem que me contar tudo sobre você\ntambém.",
+                "Você tem que me contar tudo sobre você\ntambém."
             ]
         },
         {

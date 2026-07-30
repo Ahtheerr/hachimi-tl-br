@@ -43,8 +43,8 @@
             "name": "Fuji Kiseki",
             "text": "Ah, que noite maravilhosa. Não tive<n>uma noite só pra mim assim desde<n>que chegamos aqui.",
             "choice_data_list": [
-                "Você não foi ver o festival ou os fogos de artifício?",
-                "Você não foi ver o festival ou os fogos de artifício?"
+                "Você não foi ver o festival ou os fogos de\nartifício?",
+                "Você não foi ver o festival ou os fogos de\nartifício?"
             ]
         },
         {
@@ -159,7 +159,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Vou vencer a Tríplice Coroa. <i>Isso</i><n>será a realização suprema do meu<n>sonho.",
+            "text": "Vou vencer a Tríplice Coroa. <i>Isso</i> será<n>a realização suprema do meu sonho.",
             "choice_data_list": [
                 "A Tríplice Coroa!"
             ]

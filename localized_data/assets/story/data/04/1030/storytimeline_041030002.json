@@ -6,7 +6,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "<i>Fungada...</i> Hum, me desculpe,<n>mas... poderia não chegar mais perto?",
+            "text": "<i>Fungada...</i> Hum, me desculpe, mas...<n>poderia não chegar mais perto?",
             "choice_data_list": [
                 "Por que não?",
                 "Por que não?"
@@ -129,7 +129,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "<i>Arf, arf...</i> D-desculpa a demora!<n>Estou ansiosa pelo treino de hoje!",
+            "text": "<i>Arf, arf...</i> D-desculpa a demora! Estou<n>ansiosa pelo treino de hoje!",
             "choice_data_list": [
                 "O que houve com a bagagem?"
             ]
@@ -169,8 +169,8 @@
             "name": "Monólogo",
             "text": "Tudo isso me parece apenas<n>acidentes de azar, mas acho que ela<n>é o tipo de pessoa que se sente<n>responsável por coisas desse tipo.",
             "choice_data_list": [
-                "(Ela é realmente uma alma bondosa e carinhosa...)",
-                "(Ela é realmente uma alma bondosa e carinhosa...)"
+                "(Ela é realmente uma alma bondosa e\ncarinhosa...)",
+                "(Ela é realmente uma alma bondosa e\ncarinhosa...)"
             ]
         },
         {
@@ -187,7 +187,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "<i>Arf, arf...</i> Hum... como foi meu<n>tempo?",
+            "text": "<i>Arf, arf...</i> Hum... como foi meu tempo?",
             "choice_data_list": [
                 "Mais rápido do que o esperado! Estou super\nimpressionado!",
                 "Mais rápido do que o esperado! Estou super\nimpressionado!"

@@ -2,9 +2,9 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "One day, while walking around the<n>campus, I\nnotice an unnatural pile of<n>leaves in my path.",
+            "text": "One day, while walking around the<n>campus, I notice\nan unnatural pile of<n>leaves in my path.",
             "choice_data_list": [
-                "(This looks pretty suspicious. I'd better go around\nit.)"
+                "(This looks pretty suspicious. I'd better go\naround it.)"
             ]
         },
         {
@@ -16,7 +16,7 @@
         },
         {
             "name": "Shinko Windy",
-            "text": "Uh-huh! My prized pitfall! It got<n>clowned on\nbefore... but still!"
+            "text": "Uh-huh! My prized pitfall! It got<n>clowned on before...\nbut still!"
         },
         {
             "name": "Shinko Windy",
@@ -32,7 +32,7 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Even <i>I</i> can find the pitfalls you<n>make, so I guess\nthat makes ya<n>some kinda small fry compared to\nher!"
+            "text": "Even <i>I</i> can find the pitfalls you make,<n>so I guess\nthat makes ya some kinda<n>small fry compared to\nher!"
         },
         {
             "name": "Shinko Windy",
@@ -56,15 +56,15 @@
         },
         {
             "name": "Shinko Windy",
-            "text": "You got a pretty keen eye on ya.<n>Imma make ya\nmy minion, so help me<n>out!"
+            "text": "You got a pretty keen eye on ya.<n>Imma make ya my\nminion, so help me<n>out!"
         },
         {
             "name": "Monólogo",
-            "text": "Since I don't have anything pressing<n>to do, I\ndecide to give her a hand. But<n>then..."
+            "text": "Since I don't have anything pressing<n>to do, I decide\nto give her a hand. But<n>then..."
         },
         {
             "name": "Shinko Windy",
-            "text": "How's that?! I put leaves all over this<n>time, not\njust around the hole, so it<n>looks <i>real</i>\nnatural-like!"
+            "text": "How's that?! I put leaves all over this<n>time, not just\naround the hole, so it<n>looks <i>real</i> natural-like!"
         },
         {
             "name": "Shinko Windy",
@@ -72,7 +72,7 @@
         },
         {
             "name": "Shinko Windy",
-            "text": "I used rocks to weigh everythin'<n>down this time,\nso it's not gonna<n>blow away again! Now I just\ngotta<n>pour some water in there to cushion<n>the—",
+            "text": "I used rocks to weigh everythin'<n>down this time, so\nit's not gonna<n>blow away again! Now I just gotta\npour some water in there to cushion<n>the—",
             "choice_data_list": [
                 "The water will just soak into the ground, you\nknow?",
                 "The water will just soak into the ground, you\nknow?"
@@ -84,7 +84,7 @@
         },
         {
             "name": "Shinko Windy",
-            "text": "<i>Wheeze...</i> I spread a tarp... inside<n>the hole... and\nfilled the... hole with...<n>water... Now if someone\nsteps onto it,<n>like so—"
+            "text": "<i>Wheeze...</i> I spread a tarp... inside the<n>hole... and\nfilled the... hole with...<n>water... Now if someone steps\nonto it,<n>like so—"
         },
         {
             "name": "Shinko Windy",
@@ -99,7 +99,7 @@
         },
         {
             "name": "Shinko Windy",
-            "text": "NUH-UH! No matter how tough my<n>prey, these\nfangs o'mine ain't gonna<n>crack!"
+            "text": "NUH-UH! No matter how tough my<n>prey, these fangs\no'mine ain't gonna<n>crack!"
         },
         {
             "name": "Shinko Windy",
@@ -135,7 +135,7 @@
         },
         {
             "name": "Shinko Windy",
-            "text": "Ooh, you're done, eh?! Lookin' good!<n>But the\nmost important thing is that it<n>actually works..."
+            "text": "Ooh, you're done, eh?! Lookin' good!<n>But the most\nimportant thing is that it<n>actually works..."
         },
         {
             "name": "Shinko Windy",
@@ -147,14 +147,14 @@
         },
         {
             "name": "Shinko Windy",
-            "text": "Yes! Nice! We caught someone! You<n>deserve\nsome praise, minion!",
+            "text": "Yes! Nice! We caught someone! You<n>deserve some\npraise, minion!",
             "choice_data_list": [
                 "Maybe later. We have to check up on them first!"
             ]
         },
         {
             "name": "Shinko Windy",
-            "text": "Oh, yeah! Time to confirm the catch<n>and revel in\nour success!"
+            "text": "Oh, yeah! Time to confirm the catch<n>and revel in our\nsuccess!"
         },
         {
             "name": "Hishi Amazon",
@@ -166,7 +166,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Although Shinko Windy's effective<n>pitfall earns\nher praise, it also catches<n>the innocent Hishi\nAmazon... and<n>results in another scolding."
+            "text": "Although Shinko Windy's effective<n>pitfall earns her\npraise, it also catches<n>the innocent Hishi Amazon...\nand<n>results in another scolding."
         },
         {
             "name": "Monólogo",
@@ -174,11 +174,11 @@
         },
         {
             "name": "Shinko Windy",
-            "text": "Niiice! And that's what makes ya my<n>trusty\nminion!"
+            "text": "Niiice! And that's what makes ya my<n>trusty minion!"
         },
         {
             "name": "Monólogo",
-            "text": "I keep working, following her<n>instructions and\noffering occasional<n>advice on crafting pitfalls,\nuntil..."
+            "text": "I keep working, following her<n>instructions and\noffering occasional<n>advice on crafting pitfalls, until..."
         },
         {
             "name": "Shinko Windy",
@@ -186,7 +186,7 @@
         },
         {
             "name": "???",
-            "text": "Hahaha! Well? Bet you get a totally<n>different\nsense of achievement<n>compared to pranking,\nright?"
+            "text": "Hahaha! Well? Bet you get a totally<n>different sense\nof achievement<n>compared to pranking, right?"
         },
         {
             "name": "Shinko Windy",
@@ -217,7 +217,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "And so Shinko Windy remains a<n>prankster,\nthrough and through."
+            "text": "And so Shinko Windy remains a<n>prankster, through\nand through."
         }
     ]
 }

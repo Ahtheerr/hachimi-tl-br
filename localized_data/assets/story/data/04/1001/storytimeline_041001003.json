@@ -50,7 +50,7 @@
         },
         {
             "name": "El Condor Pasa",
-            "text": "<i>Suspiro.</i> Quer saber? Tá, que seja<n>do seu jeito! Chega de corrida em<n>dupla por hoje."
+            "text": "<i>Suspiro.</i> Quer saber? Tá, que seja do<n>seu jeito! Chega de corrida em dupla<n>por hoje."
         },
         {
             "name": "El Condor Pasa",
@@ -119,8 +119,8 @@
             "name": "Special Week",
             "text": "Hã? Como você sabe disso?",
             "choice_data_list": [
-                "Desculpe, eu meio que ouvi a conversa de vocês.",
-                "Desculpe, eu meio que ouvi a conversa de vocês."
+                "Desculpe, eu meio que ouvi a conversa de\nvocês.",
+                "Desculpe, eu meio que ouvi a conversa de\nvocês."
             ]
         },
         {

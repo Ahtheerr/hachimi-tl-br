@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Bamboo Memory",
-            "text": "<i>Arf, arf...</i> E então, Instrutor?! Como<n>eu fui?!"
+            "text": "<i>Arf, arf...</i> E então, Instrutor?! Como eu<n>fui?!"
         },
         {
             "name": "Instrutor Veterano",
@@ -106,8 +106,8 @@
             "name": "Bamboo Memory",
             "text": "Hmmm... Mas não é justamente a<n>melhor hora para dar tudo de si e<n>disparar na frente? É na largada que<n>tenho mais energia!",
             "choice_data_list": [
-                "Bem, você cuidaria das unhas desse jeito?\nJogaria o óleo de qualquer maneira e pronto?",
-                "Bem, você cuidaria das unhas desse jeito?\nJogaria o óleo de qualquer maneira e pronto?"
+                "Bem, você cuidaria das unhas desse jeito? Jogaria\no óleo de qualquer maneira e pronto?",
+                "Bem, você cuidaria das unhas desse jeito? Jogaria\no óleo de qualquer maneira e pronto?"
             ]
         },
         {
@@ -203,7 +203,7 @@
         },
         {
             "name": "Bamboo Memory",
-            "text": "<i>Snif... Buá!</i> É que—é tão, <i>tão</i><n>frustrante!",
+            "text": "<i>Snif... Buá!</i> É que—é tão, <i>tão</i> frustrante!",
             "choice_data_list": [
                 "Nós vamos vencê-la da próxima vez!"
             ]

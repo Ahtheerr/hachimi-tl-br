@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "King Halo",
-            "text": "Feliz Ano Novo, Treinador. Este ano,<n>nós\nfinalmente estamos no ano<n>clássico..."
+            "text": "Feliz Ano Novo, Treinador. Este ano,<n>nós finalmente\nestamos no ano<n>clássico..."
         },
         {
             "name": "King Halo",
@@ -32,7 +32,7 @@
         },
         {
             "name": "King Halo",
-            "text": "Ohohoho! Elogie-as mais! ♪ Elas<n><i>são</i> minhas\ncompanheiras, afinal<n>de contas!"
+            "text": "Ohohoho! Elogie-as mais! ♪ Elas <i>são</i><n>minhas\ncompanheiras, afinal de<n>contas!"
         },
         {
             "name": "Monólogo",
@@ -40,7 +40,7 @@
         },
         {
             "name": "King Halo",
-            "text": "Ah! Parece que a ceia de Ano Novo<n>que eu\nencomendei chegou! Certo,<n>pessoal, esperem\nbem aqui!"
+            "text": "Ah! Parece que a ceia de Ano Novo<n>que eu\nencomendei chegou! Certo,<n>pessoal, esperem bem\naqui!"
         },
         {
             "name": "Seguidoras da King Halo",
@@ -55,7 +55,7 @@
         },
         {
             "name": "Umamusume com Olhos de Gato",
-            "text": "Ah! Não, a gente é que devia te<n>agradecer! A\ngente só tá feliz de<n>poder passar o Ano Novo de\nnovo<n>com a King este ano.",
+            "text": "Ah! Não, a gente é que devia te<n>agradecer! A gente\nsó tá feliz de<n>poder passar o Ano Novo de novo<n>com\na King este ano.",
             "choice_data_list": [
                 "Vocês sempre passam o Ano Novo juntas?",
                 "Vocês sempre passam o Ano Novo juntas?"
@@ -83,7 +83,7 @@
         },
         {
             "name": "King Halo",
-            "text": "Aluna mais velha mal se adequa a<n>mim. Vocês\nvão se referir a mim<n>como King Halo, a\nUmamusume de<n>primeira classe."
+            "text": "Aluna mais velha mal se adequa a<n>mim. Vocês vão\nse referir a mim<n>como King Halo, a Umamusume de\nprimeira classe."
         },
         {
             "name": "King Halo",
@@ -99,7 +99,7 @@
         },
         {
             "name": "King Halo",
-            "text": "Hehe. O mochi nada mais é do que<n>arroz\namassado em formato de bola,<n>não é? Vamos,\npeguem um punhado<n>e amassem."
+            "text": "Hehe. O mochi nada mais é do que<n>arroz amassado\nem formato de bola,<n>não é? Vamos, peguem um\npunhado<n>e amassem."
         },
         {
             "name": "Umamusume de Cabelo Curto",
@@ -119,7 +119,7 @@
         },
         {
             "name": "King Halo",
-            "text": "Arredem para lá! Abram espaço para<n>mim, ou\ndeem adeus às suas<n>laranjas!"
+            "text": "Arredem para lá! Abram espaço para<n>mim, ou deem\nadeus às suas<n>laranjas!"
         },
         {
             "name": "Umamusume de Cabelo Curto",
@@ -131,15 +131,15 @@
         },
         {
             "name": "Umamusume com Olhos de Gato",
-            "text": "É sempre muito divertido passar<n>tempo com a\nKing. Ela é tão alegre e<n>cheia de confiança."
+            "text": "É sempre muito divertido passar<n>tempo com a King.\nEla é tão alegre e<n>cheia de confiança."
         },
         {
             "name": "Umamusume de Cabelo Curto",
-            "text": "Foi por isso que a gente decidiu<n>retribuir tudo o\nque a King fez pela<n>gente, ajudando ela este ano."
+            "text": "Foi por isso que a gente decidiu<n>retribuir tudo o que\na King fez pela<n>gente, ajudando ela este ano."
         },
         {
             "name": "Umamusume de Cabelo Curto",
-            "text": "Este é o ano mais importante para a<n>King. Vai ser\no ano em que ela vai<n>realizar os sonhos dela.",
+            "text": "Este é o ano mais importante para a<n>King. Vai ser o\nano em que ela vai<n>realizar os sonhos dela.",
             "choice_data_list": [
                 "Entendi.",
                 "Com certeza."
@@ -155,7 +155,7 @@
         },
         {
             "name": "King Halo",
-            "text": "O que foi? Você pode me olhar desse<n>jeito o\nquanto quiser. Eu ainda vou te<n>cobrar pela sua\nparte da comida."
+            "text": "O que foi? Você pode me olhar desse<n>jeito o quanto\nquiser. Eu ainda vou te<n>cobrar pela sua parte da\ncomida."
         },
         {
             "name": "Monólogo",
@@ -167,7 +167,7 @@
         },
         {
             "name": "King Halo",
-            "text": "Mas deixando isso de lado, vamos<n>focar no\nfuturo."
+            "text": "Mas deixando isso de lado, vamos<n>focar no futuro."
         },
         {
             "name": "King Halo",
@@ -175,7 +175,7 @@
         },
         {
             "name": "King Halo",
-            "text": "E então, nós forçaremos um certo<n><i>alguém</i> a me\nreconhecer. Entendeu<n>o que estou dizendo,\nTreinador?",
+            "text": "E então, nós forçaremos um certo<n><i>alguém</i> a me\nreconhecer. Entendeu o<n>que estou dizendo,\nTreinador?",
             "choice_data_list": [
                 "Pode deixar!",
                 "Pode deixar!"
@@ -208,11 +208,11 @@
         },
         {
             "name": "Umamusume com Olhos de Gato",
-            "text": "Opa! King! Você levantou a camisa do<n>seu\ntreinador mesmo!"
+            "text": "Opa! King! Você levantou a camisa do<n>seu treinador\nmesmo!"
         },
         {
             "name": "King Halo",
-            "text": "Ohohoho! Bem, não fui eu quem tocou<n>no assunto\nde controle de peso!<n>Treinador, pode esperar que\neu vou<n>reajustar os seus hábitos de vida a<n>partir\nde agora!"
+            "text": "Ohohoho! Bem, não fui eu quem tocou<n>no assunto\nde controle de peso!<n>Treinador, pode esperar que\neu vou<n>reajustar os seus hábitos de vida a<n>partir de\nagora!"
         },
         {
             "name": "Monólogo",
@@ -224,11 +224,11 @@
         },
         {
             "name": "King Halo",
-            "text": "Bem, <i>seria</i> horrível eu ficar doente<n>antes de\numa corrida importante. Eu<n>preciso estar em\nperfeitas condições<n>o tempo todo."
+            "text": "Bem, <i>seria</i> horrível eu ficar doente<n>antes de uma\ncorrida importante. Eu<n>preciso estar em perfeitas\ncondições<n>o tempo todo."
         },
         {
             "name": "King Halo",
-            "text": "Principalmente no inverno. Eu não<n>posso me dar\nao luxo de pegar um<n>resfriado. Hmm..."
+            "text": "Principalmente no inverno. Eu não<n>posso me dar ao\nluxo de pegar um<n>resfriado. Hmm..."
         },
         {
             "name": "King Halo",

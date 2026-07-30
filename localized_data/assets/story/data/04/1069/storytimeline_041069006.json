@@ -25,7 +25,7 @@
         },
         {
             "name": "Sakura Chiyono O",
-            "text": "Livraria! Espera, você veio atrás de<n><i>O Livro Completo de Provérbios<n>Vencedores</i> que lançou hoje<n>também?!",
+            "text": "Livraria! Espera, você veio atrás de <i>O<n>Livro Completo de Provérbios<n>Vencedores</i> que lançou hoje<n>também?!",
             "choice_data_list": [
                 "Er, eu tinha outro livro em mente, na verdade."
             ]
@@ -54,7 +54,7 @@
             "name": "Sakura Chiyono O",
             "text": "Espera, Treinador? Não me diga que<n>você vai comprar toda aquela<n>montanha de livros!",
             "choice_data_list": [
-                "V-vou pedir para dividirem em duas sacolas, então\nestá tudo bem!"
+                "V-vou pedir para dividirem em duas sacolas,\nentão está tudo bem!"
             ]
         },
         {
@@ -81,7 +81,7 @@
             "name": "Sakura Chiyono O",
             "text": "Hein?",
             "choice_data_list": [
-                "Então é melhor eu dar tudo de mim onde eu puder."
+                "Então é melhor eu dar tudo de mim onde eu\npuder."
             ]
         },
         {

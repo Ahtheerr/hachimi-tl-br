@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Quando passo pelo tronco oco, noto<n>dois itens ao\nlado dele que parecem<n>umas três vezes maiores\ndo que<n>deveriam ser.",
+            "text": "Quando passo pelo tronco oco, noto<n>dois itens ao\nlado dele que parecem<n>umas três vezes maiores do\nque<n>deveriam ser.",
             "choice_data_list": [
                 "Isso é um almofariz e um pilão?!"
             ]
@@ -90,11 +90,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "A \"amostra\" que ganho é quase do<n>tamanho da\nminha cabeça, mas o<n>mochi da Hishi Akebono é\nrealmente<n>delicioso. Todos sorriem felizes\nenquanto comemos juntos."
+            "text": "A \"amostra\" que ganho é quase do<n>tamanho da\nminha cabeça, mas o<n>mochi da Hishi Akebono é\nrealmente<n>delicioso. Todos sorriem felizes<n>enquanto\ncomemos juntos."
         },
         {
             "name": "Hishi Akebono",
-            "text": "Hmmm, não é nem tanto minha força,<n>mas sim\nmeu peso que estou<n>jogando nisso..."
+            "text": "Hmmm, não é nem tanto minha força,<n>mas sim meu\npeso que estou<n>jogando nisso..."
         },
         {
             "name": "Hishi Akebono",
@@ -102,7 +102,7 @@
         },
         {
             "name": "Hishi Akebono",
-            "text": "Eu sou bem grandona, então<n>considere esta\ntécnica minha<n>especialidade!",
+            "text": "Eu sou bem grandona, então<n>considere esta técnica\nminha<n>especialidade!",
             "choice_data_list": [
                 "Entendi. Que técnica boa!",
                 "Entendi. Que técnica boa!"

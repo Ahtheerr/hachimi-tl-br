@@ -6,7 +6,7 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "<i>Arf...</i> Estranho, meu corpo não tá<n>se movendo\ndo jeito que eu quero...",
+            "text": "<i>Arf...</i> Estranho, meu corpo não tá se<n>movendo do\njeito que eu quero...",
             "choice_data_list": [
                 "Tudo bem?",
                 "Tudo bem?"
@@ -22,7 +22,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Apesar da sua bravata, vejo que ela<n>está\nexausta. Devo fazer mudanças<n>na sua agenda de\ncorridas para que<n>ela possa descansar."
+            "text": "Apesar da sua bravata, vejo que ela<n>está exausta.\nDevo fazer mudanças<n>na sua agenda de corridas\npara que<n>ela possa descansar."
         }
     ]
 }

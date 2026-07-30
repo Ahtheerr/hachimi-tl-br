@@ -13,7 +13,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Ei, Treinador! Você viu quem tava na\narquibancada? Os meus amigos<n>lojistas vieram\nassistir!"
+            "text": "Ei, Treinador! Você viu quem tava na<n>arquibancada?\nOs meus amigos<n>lojistas vieram assistir!"
         },
         {
             "name": "Haru Urara",
@@ -36,7 +36,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Isso é bem a cara dela de se dizer.<n>Eu preferia\nque ela tivesse uma<n>corrida específica que ela\nquisesse<n>mirar, mas..."
+            "text": "Isso é bem a cara dela de se dizer.<n>Eu preferia que\nela tivesse uma<n>corrida específica que ela quisesse\nmirar, mas..."
         },
         {
             "name": "Monólogo",
@@ -44,7 +44,7 @@
         },
         {
             "name": "",
-            "text": "Se ela quiser correr na Arima Kinen,<n>ela precisa se\nacostumar com<n>corridas que sejam mais longas\nque<n>uma milha. Com esse propósito, a<n>corrida\nque eu tenho em mente é só<n>cem metros mais\nlonga que essa,<n>mas...",
+            "text": "Se ela quiser correr na Arima Kinen,<n>ela precisa se\nacostumar com<n>corridas que sejam mais longas\nque<n>uma milha. Com esse propósito, a<n>corrida que\neu tenho em mente é só<n>cem metros mais longa\nque essa,<n>mas...",
             "choice_data_list": [
                 "Que tal a Elm Stakes?"
             ]
@@ -70,7 +70,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Hihi. Mas se eu for bem nela, então<n>eu posso ir\npra algum lugar que eles<n><i>possam</i> ir me assistir!"
+            "text": "Hihi. Mas se eu for bem nela, então<n>eu posso ir pra\nalgum lugar que eles<n><i>possam</i> ir me assistir!"
         },
         {
             "name": "",
@@ -78,11 +78,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "A Haru Urara volta para a sala de<n>espera, e eu\nvou para os bastidores."
+            "text": "A Haru Urara volta para a sala de<n>espera, e eu vou\npara os bastidores."
         },
         {
             "name": "",
-            "text": "Uau! Tem tanta gente! Muito mais do<n>que o\nnormal!",
+            "text": "Uau! Tem tanta gente! Muito mais do<n>que o normal!",
             "choice_data_list": [
                 "Divirta-se muito!"
             ]
@@ -109,7 +109,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Mas você parece tão triste! O show<n>já vai\ncomeçar. Você não tá feliz?"
+            "text": "Mas você parece tão triste! O show<n>já vai começar.\nVocê não tá feliz?"
         },
         {
             "name": "Haru Urara",
@@ -125,7 +125,7 @@
         },
         {
             "name": "",
-            "text": "Eu finalmente entrei numa corrida<n>G1... Eu\nfinalmente tive uma chance!<n>Mas eu estraguei\ntudo!",
+            "text": "Eu finalmente entrei numa corrida<n>G1... Eu\nfinalmente tive uma chance!<n>Mas eu estraguei tudo!",
             "color_text_info_list": [
                 "G1"
             ]
@@ -167,7 +167,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "A Haru Urara parece chocada. Ver um<n>novo lado\nda amiga dela desse jeito<n>deve ter impactado ela\nbastante."
+            "text": "A Haru Urara parece chocada. Ver um<n>novo lado da\namiga dela desse jeito<n>deve ter impactado ela\nbastante."
         },
         {
             "name": "",
@@ -187,7 +187,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Durante a segunda metade do show,<n>eu me junto\nao público e vejo que a<n>Special Week veio\nassistir."
+            "text": "Durante a segunda metade do show,<n>eu me junto\nao público e vejo que a<n>Special Week veio assistir."
         },
         {
             "name": "Special Week",
@@ -195,7 +195,7 @@
         },
         {
             "name": "Special Week",
-            "text": "A Urara parece estar se divertindo<n>tanto\ndançando! Só de ver ela já me<n>deixa animada\ntambém!"
+            "text": "A Urara parece estar se divertindo<n>tanto dançando!\nSó de ver ela já me<n>deixa animada também!"
         },
         {
             "name": "",
@@ -203,7 +203,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Exatamente como a Special Week<n>disse, o charme\nda Haru Urara está<n>no quanta energia ela\ntransmite."
+            "text": "Exatamente como a Special Week<n>disse, o charme\nda Haru Urara está<n>no quanta energia ela transmite."
         },
         {
             "name": "Monólogo",
@@ -219,7 +219,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Ouço uma voz familiar. Olhando ao<n>redor, vejo os\nlojistas do distrito<n>comercial conversando\nenquanto<n>assistem à performance."
+            "text": "Ouço uma voz familiar. Olhando ao<n>redor, vejo os\nlojistas do distrito<n>comercial conversando enquanto\nassistem à performance."
         },
         {
             "name": "Lojista Gentil",

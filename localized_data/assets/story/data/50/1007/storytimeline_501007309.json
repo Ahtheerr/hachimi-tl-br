@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Gold Ship",
-            "text": "Eu te venci, você não me venceu! Eu<n>te venci,\nvocê não me venceu!"
+            "text": "Eu te venci, você não me venceu! Eu<n>te venci, você\nnão me venceu!"
         },
         {
             "name": "Gold Ship",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Não parece que vai demorar muito<n>para que a\nGold Ship e a Tosen<n>Jordan se enfrentem de\nnovo."
+            "text": "Não parece que vai demorar muito<n>para que a Gold\nShip e a Tosen<n>Jordan se enfrentem de novo."
         },
         {
             "name": "Tosen Jordan",
@@ -57,7 +57,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "O papel que a Flash me deu tinha<n>\"UM\", e agora\neu tenho \"QUA\". Tá<n>tudo claro agora..."
+            "text": "O papel que a Flash me deu tinha<n>\"UM\", e agora eu\ntenho \"QUA\". Tá<n>tudo claro agora..."
         },
         {
             "name": "Gold Ship",
@@ -69,14 +69,14 @@
         },
         {
             "name": "Monólogo",
-            "text": "Deve significar que alguém está<n>orquestrando\nisso e dando as<n>informações para elas.",
+            "text": "Deve significar que alguém está<n>orquestrando isso\ne dando as<n>informações para elas.",
             "choice_data_list": [
                 "(Mas quem poderia ser?)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Quem é o mentor por trás desse<n>\"Éden\" que a\nGold Ship está<n>perseguindo, e qual é o objetivo\ndele? Não consigo deixar de ficar<n>intrigado."
+            "text": "Quem é o mentor por trás desse<n>\"Éden\" que a Gold\nShip está<n>perseguindo, e qual é o objetivo<n>dele?\nNão consigo deixar de ficar<n>intrigado."
         }
     ]
 }

@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Certo dia, sou chamado ao escritório<n>da diretora.\nNão me dizem o porquê,<n>apenas que minha\npresença é<n>necessária para \"ajudar a fazer da\nURA Finale um sucesso\"."
+            "text": "Certo dia, sou chamado ao escritório<n>da diretora.\nNão me dizem o porquê,<n>apenas que minha\npresença é<n>necessária para \"ajudar a fazer da<n>URA\nFinale um sucesso\"."
         },
         {
             "name": "Monólogo",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "EMERGÊNCIA... Ambos, eu lhes peço,\najudem-me!"
+            "text": "EMERGÊNCIA... Ambos, eu lhes peço,<n>ajudem-me!"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "ARREPENDIMENTO... Mesmo depois<n>de eu ter\nfeito aquele grande anúncio<n>e pedido à mídia para\npromover a<n>URA Finale..."
+            "text": "ARREPENDIMENTO... Mesmo depois<n>de eu ter feito\naquele grande anúncio<n>e pedido à mídia para\npromover a<n>URA Finale..."
         },
         {
             "name": "Diretora Akikawa",
@@ -34,7 +34,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Devemos ter uma corrida lotada de<n>fãs\nsorridentes! Esse é o palco no<n>qual todas as\nUmamusume devem<n>brilhar!"
+            "text": "Devemos ter uma corrida lotada de<n>fãs sorridentes!\nEsse é o palco no<n>qual todas as Umamusume\ndevem<n>brilhar!"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -46,7 +46,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "PERGUNTA EXCELENTE! É por isso<n>que eu\nchamei vocês dois treinadores<n>excepcionais aqui!"
+            "text": "PERGUNTA EXCELENTE! É por isso<n>que eu chamei\nvocês dois treinadores<n>excepcionais aqui!"
         },
         {
             "name": "Diretora Akikawa",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Bem, aí é que está... Eu estava tão<n>preocupada\nem organizá-lo que<n>nosso cronograma de eventos\nno<n>momento é..."
+            "text": "Bem, aí é que está... Eu estava tão<n>preocupada em\norganizá-lo que<n>nosso cronograma de eventos no\nmomento é..."
         },
         {
             "name": "Diretora Akikawa",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Ahaha... Isso foi definitivamente uma<n>surpresa,\nmas não vou desistir do<n>evento."
+            "text": "Ahaha... Isso foi definitivamente uma<n>surpresa, mas\nnão vou desistir do<n>evento."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -102,7 +102,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "GRATIDÃO! Obrigada, do fundo do<n>meu coração!\nEu sabia que vocês<n>não me decepcionariam!"
+            "text": "GRATIDÃO! Obrigada, do fundo do<n>meu coração! Eu\nsabia que vocês<n>não me decepcionariam!"
         },
         {
             "name": "Diretora Akikawa",
@@ -138,7 +138,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Então há algo que vocês dois—na<n>verdade,\n<i>apenas</i> vocês<n>dois—podem fazer!"
+            "text": "Então há algo que vocês dois—na<n>verdade, <i>apenas</i>\nvocês dois—podem<n>fazer!"
         },
         {
             "name": "Monólogo",
@@ -193,14 +193,14 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Mas está claro que vocês fariam<n>qualquer coisa\npor suas aprendizes!<n>Mal posso esperar para ver\nos<n>encontros com fãs, talk shows e<n>mini-shows\nque vocês farão em<n>nome delas!",
+            "text": "Mas está claro que vocês fariam<n>qualquer coisa\npor suas aprendizes!<n>Mal posso esperar para ver\nos<n>encontros com fãs, talk shows e<n>mini-shows que\nvocês farão em<n>nome delas!",
             "choice_data_list": [
                 "Espera, o quê?"
             ]
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Não diga mais nada! Vou garantir que<n>nossos\nleitores entendam<n>perfeitamente o quão profunda\né a<n>dedicação de vocês!"
+            "text": "Não diga mais nada! Vou garantir que<n>nossos\nleitores entendam<n>perfeitamente o quão profunda é\na<n>dedicação de vocês!"
         },
         {
             "name": "Repórter Otonashi",
@@ -216,7 +216,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Espero que estejam assistindo,<n>pessoal! A seguir\nteremos o<n>mini-show dos nossos dois\ntreinadores! ♪"
+            "text": "Espero que estejam assistindo,<n>pessoal! A seguir\nteremos o<n>mini-show dos nossos dois<n>treinadores!\n♪"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -239,7 +239,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "O evento sai um pouco do roteiro,<n>mas\nconseguimos espalhar a notícia<n>sobre a URA\nFinale."
+            "text": "O evento sai um pouco do roteiro,<n>mas\nconseguimos espalhar a notícia<n>sobre a URA Finale."
         }
     ]
 }

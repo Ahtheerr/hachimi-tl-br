@@ -13,7 +13,7 @@
         },
         {
             "name": "???",
-            "text": "Nossa, esse suspiro veio do <i>fundo</i><n>da alma.",
+            "text": "Nossa, esse suspiro veio do <i>fundo</i> da<n>alma.",
             "choice_data_list": [
                 "...!"
             ]
@@ -177,7 +177,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Heh... Haha! Por que eu tava tão<n>noiada em honrar o nome Mejiro?<n>Ninguém tava nem chamando o<n><i>meu</i> nome, pra começar!"
+            "text": "Heh... Haha! Por que eu tava tão<n>noiada em honrar o nome Mejiro?<n>Ninguém tava nem chamando o <i>meu</i><n>nome, pra começar!"
         },
         {
             "name": "Mejiro Palmer",
@@ -224,8 +224,8 @@
             "name": "Monologue",
             "text": "Como resultado, a corrida dela<n>pareceu engessada. Tudo bem correr<n>seguindo o básico à risca, mas... A<n>verdade é que isso não funciona pra<n>todo mundo.",
             "choice_data_list": [
-                "Aposto que existe um estilo de corrida que\ncombina mais com você.",
-                "Aposto que existe um estilo de corrida que\ncombina mais com você."
+                "Aposto que existe um estilo de corrida que combina\nmais com você.",
+                "Aposto que existe um estilo de corrida que combina\nmais com você."
             ]
         },
         {

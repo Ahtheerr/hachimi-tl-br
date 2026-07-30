@@ -18,7 +18,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Então, isso é uma G1... Isso é a<n>Hanshin J.F.,\nhein? Urgh...",
+            "text": "Então, isso é uma G1... Isso é a<n>Hanshin J.F., hein?\nUrgh...",
             "choice_data_list": [
                 "Você tá bem, Vodka?",
                 "Você tá bem, Vodka?"
@@ -50,9 +50,9 @@
         },
         {
             "name": "Vodka",
-            "text": "Não importa o quanto eu esteja<n>determinada,\ntalvez eu não consiga.<n>Se eu fizer besteira, vou\nparecer tão<n>tosca!",
+            "text": "Não importa o quanto eu esteja<n>determinada, talvez\neu não consiga.<n>Se eu fizer besteira, vou parecer\ntão<n>tosca!",
             "choice_data_list": [
-                "Não tem nada de tosco em dar o seu melhor,\nentão vai com tudo!"
+                "Não tem nada de tosco em dar o seu melhor, então\nvai com tudo!"
             ]
         },
         {
@@ -65,7 +65,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Digo a ela que encarar os próprios<n>medos e não\nter medo de perder<n>também é uma forma de ser\nirada."
+            "text": "Digo a ela que encarar os próprios<n>medos e não ter\nmedo de perder<n>também é uma forma de ser irada."
         },
         {
             "name": "Vodka",

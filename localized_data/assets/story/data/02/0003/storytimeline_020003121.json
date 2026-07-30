@@ -159,7 +159,7 @@
             "text": "E então você vai anotar tudo neste<n>caderno.",
             "choice_data_list": [
                 "Você vai nos anotar como vencedores do Derby!",
-                "Você vai nos anotar como vencedores do Derby!"
+                "Você vai nos anotar como vencedores do\nDerby!"
             ]
         },
         {
@@ -167,12 +167,12 @@
             "text": "E então você vai anotar tudo neste<n>caderno.",
             "choice_data_list": [
                 "Você vai nos anotar como vencedoras do Derby!",
-                "Você vai nos anotar como vencedoras do Derby!"
+                "Você vai nos anotar como vencedoras do\nDerby!"
             ]
         },
         {
             "name": "Winning Ticket",
-            "text": "<i>Snif...</i> O Derby... A coisa que eu quis<n>a minha vida inteira!"
+            "text": "<i>Snif...</i> O Derby... A coisa que eu quis a<n>minha vida inteira!"
         },
         {
             "name": "Winning Ticket",
@@ -188,7 +188,7 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Uhuu! Esse foi um bom choro! Digo,<n>eu estou <i>sempre</i> chorando, mas<n>esse foi especialmente bom, hehe."
+            "text": "Uhuu! Esse foi um bom choro! Digo,<n>eu estou <i>sempre</i> chorando, mas esse<n>foi especialmente bom, hehe."
         },
         {
             "name": "<username>",

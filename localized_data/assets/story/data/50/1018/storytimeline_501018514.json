@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Tenho estado terrivelmente ocupada<n>ultimamente.\nSei que isso é esperado,<n>já que estou treinando\numa<n>Umamusume que participa da Twinkle\nSeries, mas mesmo assim...",
+            "text": "Tenho estado terrivelmente ocupada<n>ultimamente.\nSei que isso é esperado,<n>já que estou treinando\numa<n>Umamusume que participa da Twinkle<n>Series,\nmas mesmo assim...",
             "choice_data_list": [
                 "(Eu nem sequer consegui arrumar nada...)"
             ]
@@ -21,7 +21,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Você é o treinador da Air Groove, não<n>é? Tenho\nalgo bastante importante<n>para discutir, e preciso\nde alguém em<n>quem eu possa confiar."
+            "text": "Você é o treinador da Air Groove, não<n>é? Tenho\nalgo bastante importante<n>para discutir, e preciso de\nalguém em<n>quem eu possa confiar."
         },
         {
             "name": "",
@@ -67,7 +67,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "A presidente me deu permissão para<n>limpar seu\nquarto. Gostaria de<n>começar imediatamente, se\nnão se<n>importar.",
+            "text": "A presidente me deu permissão para<n>limpar seu\nquarto. Gostaria de<n>começar imediatamente, se não\nse<n>importar.",
             "choice_data_list": [
                 "C-claro. Er, obrigado?"
             ]
@@ -94,10 +94,10 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Isto nem deveria precisar ser dito,<n>mas estou\ncontando com você para<n>manter os\nacontecimentos de hoje<n>em segredo.",
+            "text": "Isto nem deveria precisar ser dito,<n>mas estou\ncontando com você para<n>manter os acontecimentos\nde hoje<n>em segredo.",
             "choice_data_list": [
-                "Você pode ao menos me dizer do que se trata\ntudo isso?",
-                "Você pode ao menos me dizer do que se trata\ntudo isso?"
+                "Você pode ao menos me dizer do que se trata tudo\nisso?",
+                "Você pode ao menos me dizer do que se trata tudo\nisso?"
             ]
         },
         {
@@ -106,7 +106,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "O conselho estudantil teve de lidar<n>com vários\nassuntos difíceis<n>recentemente — assuntos que\ntêm<n>causado um considerável desgaste<n>mental\nem nós."
+            "text": "O conselho estudantil teve de lidar<n>com vários\nassuntos difíceis<n>recentemente — assuntos que têm\ncausado um considerável desgaste<n>mental em nós."
         },
         {
             "name": "Symboli Rudolf",
@@ -145,7 +145,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Depois perguntei a ela sobre isso,<n>mas parece\nque ela guarda pouca<n>memória do processo em si."
+            "text": "Depois perguntei a ela sobre isso,<n>mas parece que\nela guarda pouca<n>memória do processo em si."
         },
         {
             "name": "Symboli Rudolf",
@@ -189,7 +189,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "V-você deseja falar com ela<n>enquanto ela está\nnesse estado?!<n>Q-que ideia inovadora! M-mas\neu..."
+            "text": "V-você deseja falar com ela<n>enquanto ela está\nnesse estado?!<n>Q-que ideia inovadora! M-mas eu..."
         },
         {
             "name": "Air Groove",
@@ -200,11 +200,11 @@
         },
         {
             "name": "Air Groove",
-            "text": "Gosto do seu espírito! Muito bem,<n>soldado. Pegue\na solução de<n>bicarbonato de sódio!"
+            "text": "Gosto do seu espírito! Muito bem,<n>soldado. Pegue a\nsolução de<n>bicarbonato de sódio!"
         },
         {
             "name": "Air Groove",
-            "text": "E você, Presidente! Pegue essa<n>escova de\ndentes!"
+            "text": "E você, Presidente! Pegue essa<n>escova de dentes!"
         },
         {
             "name": "Symboli Rudolf",

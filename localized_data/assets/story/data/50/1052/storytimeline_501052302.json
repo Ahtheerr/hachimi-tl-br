@@ -76,7 +76,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Aposto que vai girar muito rápido!\nGira-gira-giraaaa! ♪"
+            "text": "Aposto que vai girar muito rápido!<n>Gira-gira-giraaaa!\n♪"
         },
         {
             "name": "Monólogo",
@@ -106,7 +106,7 @@
         },
         {
             "name": "Balconista do Sorteio",
-            "text": "U-Urara! Você ganhou o prêmio<n>máximo! O vale\npara as fontes<n>termais!"
+            "text": "U-Urara! Você ganhou o prêmio<n>máximo! O vale para\nas fontes<n>termais!"
         },
         {
             "name": "Haru Urara",
@@ -136,14 +136,14 @@
         },
         {
             "name": "Monólogo",
-            "text": "Apesar de eu entender a animação<n>dela, fazer\numa viagem para as<n>fontes termais enquanto\nestamos no<n>meio do treinamento não me parece\ncerto... Talvez eu possa usar isso<n>como\nmotivação?",
+            "text": "Apesar de eu entender a animação<n>dela, fazer uma\nviagem para as<n>fontes termais enquanto estamos\nno<n>meio do treinamento não me parece<n>certo...\nTalvez eu possa usar isso<n>como motivação?",
             "choice_data_list": [
                 "Que tal guardarmos como um prêmio por ganhar\numa corrida?"
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "Um prêmio? Isso é uma coisa que só<n>pessoas\nboas e trabalhadoras<n>ganham, né?!"
+            "text": "Um prêmio? Isso é uma coisa que só<n>pessoas boas\ne trabalhadoras<n>ganham, né?!"
         },
         {
             "name": "Haru Urara",
@@ -154,11 +154,11 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Ah! Que tal você guardar o vale? Eu<n>vou ficar\nsuper feliz quando receber<n>como prêmio por\nganhar!"
+            "text": "Ah! Que tal você guardar o vale? Eu<n>vou ficar super\nfeliz quando receber<n>como prêmio por ganhar!"
         },
         {
             "name": "Haru Urara",
-            "text": "Aí você pode falar tipo, \"Ei! Aqui tá o<n>seu prêmio!\"\ne me entregar!"
+            "text": "Aí você pode falar tipo, \"Ei! Aqui tá o<n>seu prêmio!\" e\nme entregar!"
         },
         {
             "name": "Haru Urara",
@@ -170,7 +170,7 @@
         },
         {
             "name": "Balconista do Sorteio",
-            "text": "Parece que temos uma ganhadora do<n>primeiro\nprêmio! Parabéns! Você<n>ganhou um luxuoso bife\nde<n>hambúrguer de cenoura!"
+            "text": "Parece que temos uma ganhadora do<n>primeiro\nprêmio! Parabéns! Você<n>ganhou um luxuoso bife de\nhambúrguer de cenoura!"
         },
         {
             "name": "Monólogo",
@@ -236,7 +236,7 @@
         },
         {
             "name": "Balconista do Sorteio",
-            "text": "Temos uma ganhadora do segundo<n>prêmio! É o\nseu dia de sorte! Você vai<n>pra casa com um cesto\nde cenouras!"
+            "text": "Temos uma ganhadora do segundo<n>prêmio! É o seu\ndia de sorte! Você vai<n>pra casa com um cesto de\ncenouras!"
         },
         {
             "name": "",
@@ -267,7 +267,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Deixa eu ver... Vou dar uma pra Spe,<n>Teio, Sei,\nKing, Rice, e...",
+            "text": "Deixa eu ver... Vou dar uma pra Spe,<n>Teio, Sei, King,\nRice, e...",
             "choice_data_list": [
                 "Você tem muitas pessoas para compartilhar isso.",
                 "Você tem muitas pessoas para compartilhar isso."
@@ -330,7 +330,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Vou te dar metade, Treinador! Qual<n>você quer? A\nde baixo ou a de cima?",
+            "text": "Vou te dar metade, Treinador! Qual<n>você quer? A de\nbaixo ou a de cima?",
             "choice_data_list": [
                 "Você decide."
             ]
@@ -360,7 +360,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Após ser elogiada, a Haru Urara me<n>dá a metade\nde cima da cenoura. O<n>sabor é doce e crocante."
+            "text": "Após ser elogiada, a Haru Urara me<n>dá a metade de\ncima da cenoura. O<n>sabor é doce e crocante."
         },
         {
             "name": "Balconista do Sorteio",

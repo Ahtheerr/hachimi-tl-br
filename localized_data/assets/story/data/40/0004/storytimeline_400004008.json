@@ -6,7 +6,7 @@
         },
         {
             "name": "Transeunte A",
-            "text": "Uau, então esse é o tipo de regime<n>que a\n<chrname> faz com o<n>treinador dela."
+            "text": "Uau, então esse é o tipo de regime<n>que a <chrname> faz com o\ntreinador dela."
         },
         {
             "name": "Transeunte B",
@@ -18,18 +18,18 @@
         },
         {
             "name": "Monólogo",
-            "text": "Os dias que <chrname> e eu<n>passamos\ncom a Repórter Otonashi<n>terminaram num piscar\nde olhos..."
+            "text": "Os dias que <chrname> e eu passamos com a<n>Repórter\nOtonashi terminaram num<n>piscar de olhos..."
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Trabalhando até tarde de novo? Está<n>pensando\nna sua agenda de<n>corridas?",
+            "text": "Trabalhando até tarde de novo? Está<n>pensando na\nsua agenda de<n>corridas?",
             "choice_data_list": [
                 "Vejo que você também continua na ativa."
             ]
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Sim, faço isso porque amo. Dito isto,<n>não estou\naqui hoje para fazer minha<n>cobertura habitual\nsobre você.",
+            "text": "Sim, faço isso porque amo. Dito isto,<n>não estou aqui\nhoje para fazer minha<n>cobertura habitual sobre\nvocê.",
             "choice_data_list": [
                 "Hm?"
             ]
@@ -47,14 +47,14 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Você finalmente conseguiu! Então,<n>como se\nsente?!",
+            "text": "Você finalmente conseguiu! Então,<n>como se sente?!",
             "choice_data_list": [
                 "Eu tinha fé de que conseguiríamos entrar."
             ]
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Oh? Gostei da confiança! Presumo<n>que não vá\nabrir mão do título de<n>\"maior\" para mais ninguém!"
+            "text": "Oh? Gostei da confiança! Presumo<n>que não vá abrir\nmão do título de<n>\"maior\" para mais ninguém!"
         },
         {
             "name": "Repórter Otonashi",
@@ -66,11 +66,11 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Certamente aproveitamos ao máximo<n>a pista\nvazia."
+            "text": "Certamente aproveitamos ao máximo<n>a pista vazia."
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Consegui uma foto rara de um<n><i>treinador</i>\ncorrendo nela a toda<n>velocidade!",
+            "text": "Consegui uma foto rara de um<n><i>treinador</i> correndo\nnela a toda<n>velocidade!",
             "choice_data_list": [
                 "Na verdade, fiquei bem agitado quando você\ncomeçou a correr ao meu lado de repente."
             ]
@@ -88,7 +88,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "...Terminei minha reportagem por<n>hoje, então o\nque me diz de uma<n>conversa casual?",
+            "text": "...Terminei minha reportagem por<n>hoje, então o que\nme diz de uma<n>conversa casual?",
             "choice_data_list": [
                 "Sem objeções."
             ]
@@ -110,15 +110,15 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Sabe quando você elogiou minha<n>rapidez ali atrás?\nBem, lá no interior,<n>eu era conhecida por ser\nrápida."
+            "text": "Sabe quando você elogiou minha<n>rapidez ali atrás?\nBem, lá no interior,<n>eu era conhecida por ser rápida."
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Eu tinha bastante orgulho da minha<n>rapidez\nquando era criança. Mas um<n>dia..."
+            "text": "Eu tinha bastante orgulho da minha<n>rapidez quando\nera criança. Mas um<n>dia..."
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Uma Umamusume foi transferida para<n>a minha\nsala.",
+            "text": "Uma Umamusume foi transferida para<n>a minha sala.",
             "choice_data_list": [
                 "Uma Umamusume, hein..."
             ]
@@ -153,7 +153,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "...Ela perdeu em uma corrida<n>importante. E por\ncausa disso, todos<n>se recusaram a reconhecer\nque ela<n>era a melhor corredora do clube."
+            "text": "...Ela perdeu em uma corrida<n>importante. E por\ncausa disso, todos<n>se recusaram a reconhecer que\nela<n>era a melhor corredora do clube."
         },
         {
             "name": "Repórter Otonashi",
@@ -168,7 +168,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Sim. Uma única derrota pode decidir o<n>destino de\nalguém. Pode fechar para<n>sempre um caminho\nque antes<n>estava aberto para você."
+            "text": "Sim. Uma única derrota pode decidir o<n>destino de\nalguém. Pode fechar para<n>sempre um caminho que\nantes<n>estava aberto para você."
         },
         {
             "name": "Repórter Otonashi",
@@ -189,7 +189,7 @@
             "name": "Repórter Otonashi",
             "text": "Quero que o maior número possível<n>de pessoas\nveja — o momento em<n>que uma Umamusume\nverdadeiramente talentosa prova sua<n>força.",
             "choice_data_list": [
-                "É por isso que você quer atrair um número\nenorme de espectadores."
+                "É por isso que você quer atrair um número enorme\nde espectadores."
             ]
         },
         {
@@ -209,11 +209,11 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Mais uma vez, parabéns por ter<n>conseguido\nentrar. Estou tão<n>empolgada que quase parece\nque<n>sou <i>eu</i> quem vai correr!"
+            "text": "Mais uma vez, parabéns por ter<n>conseguido entrar.\nEstou tão<n>empolgada que quase parece que<n>sou <i>eu</i>\nquem vai correr!"
         },
         {
             "name": "Monólogo",
-            "text": "O dia em que \"a maior\" será decidida<n>se aproxima\nrapidamente.<n><chrname> e eu chegamos\naté aqui...",
+            "text": "O dia em que \"a maior\" será decidida<n>se aproxima\nrapidamente.<n><chrname> e eu chegamos até aqui...",
             "choice_data_list": [
                 "(Será que conseguiremos alcançar nosso sonho?)",
                 "(Será que conseguiremos alcançar nosso sonho?)"
@@ -221,7 +221,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Nosso sonho nasceu no dia em que<n>prometi que\ncorreria ao lado da<n><chrname>. Não há\ncomo<n>voltar atrás agora."
+            "text": "Nosso sonho nasceu no dia em que<n>prometi que\ncorreria ao lado da <chrname>. Não<n>há como voltar atrás\nagora."
         }
     ]
 }

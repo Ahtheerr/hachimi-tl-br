@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Em um dia de folga, decido almoçar<n>fora do\ncampus para variar, e me<n>vejo incapaz de decifrar\num menu<n>escrito em língua estrangeira.",
+            "text": "Em um dia de folga, decido almoçar<n>fora do campus\npara variar, e me<n>vejo incapaz de decifrar um\nmenu<n>escrito em língua estrangeira.",
             "choice_data_list": [
                 "(Não consigo entender nada disso...)"
             ]
@@ -25,7 +25,7 @@
         },
         {
             "name": "Sirius Symboli",
-            "text": "Claro. Mas só vou te dizer o que está<n>escrito.\nAinda cabe a você descobrir o<n>que é bom."
+            "text": "Claro. Mas só vou te dizer o que está<n>escrito. Ainda\ncabe a você descobrir o<n>que é bom."
         },
         {
             "name": "Monólogo",
@@ -57,7 +57,7 @@
         },
         {
             "name": "Sirius Symboli",
-            "text": "Acho melhor te dar uma mãozinha.<n>Aqui, passe\nseu prato para cá."
+            "text": "Acho melhor te dar uma mãozinha.<n>Aqui, passe seu\nprato para cá."
         },
         {
             "name": "Sirius Symboli",
@@ -72,7 +72,7 @@
         },
         {
             "name": "Sirius Symboli",
-            "text": "Pegue o meu caso agora, por<n>exemplo. Ainda\nestou faminta, e aqui<n>na minha frente, tem um...\nmacio...<n>suculento..."
+            "text": "Pegue o meu caso agora, por<n>exemplo. Ainda estou\nfaminta, e aqui<n>na minha frente, tem um... macio...\nsuculento..."
         },
         {
             "name": "Sirius Symboli",
@@ -99,7 +99,7 @@
         },
         {
             "name": "Sirius Symboli",
-            "text": "Um aperitivo, sopa e um prato<n>principal para\nfechar. Nada mal, né?",
+            "text": "Um aperitivo, sopa e um prato<n>principal para fechar.\nNada mal, né?",
             "choice_data_list": [
                 "Obrigado por explicar tudo!"
             ]
@@ -110,18 +110,18 @@
         },
         {
             "name": "Sirius Symboli",
-            "text": "Ora, vamos. É um pouco cedo para<n>isso, não\nacha?",
+            "text": "Ora, vamos. É um pouco cedo para<n>isso, não acha?",
             "choice_data_list": [
                 "Hein?"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Eu pondero o que ela quis dizer até<n>que a comida\né entregue... e ela move<n>tudo para sua própria\nmesa."
+            "text": "Eu pondero o que ela quis dizer até<n>que a comida é\nentregue... e ela move<n>tudo para sua própria mesa."
         },
         {
             "name": "Sirius Symboli",
-            "text": "Odeio te dar a notícia, mas eu estava<n>apenas te\ndando um exemplo. Em<n>outras palavras, eu\nestava pedindo<n>para mim mesma.",
+            "text": "Odeio te dar a notícia, mas eu estava<n>apenas te\ndando um exemplo. Em<n>outras palavras, eu estava\npedindo<n>para mim mesma.",
             "choice_data_list": [
                 "Oh..."
             ]

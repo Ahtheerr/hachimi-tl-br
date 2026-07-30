@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Mejiro Palmer",
-            "text": "Tenho que me decidir logo... Devo<n>participar, ou\nnão devo? Eu <i>deveria</i><n>participar? Ou não?",
+            "text": "Tenho que me decidir logo... Devo<n>participar, ou não\ndevo? Eu <i>deveria</i><n>participar? Ou não?",
             "choice_data_list": [
                 "E então, o que vai ser?"
             ]
@@ -17,7 +17,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mejiro Palmer cria coragem para<n>entrar na\ndisputa da primeira corrida<n>da Tríplice Coroa\nClássica, a Satsuki<n>Sho.",
+            "text": "Mejiro Palmer cria coragem para<n>entrar na disputa\nda primeira corrida<n>da Tríplice Coroa Clássica, a\nSatsuki<n>Sho.",
             "color_text_info_list": [
                 "Satsuki Sho"
             ]
@@ -36,7 +36,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "(Eu... tô com um pouco de medo<n>também. Eu corro\ncontra a Ryan<n>desde que éramos crianças e nunca\nconsegui ganhar dela... E agora, ela é<n>a minha\nrival.)"
+            "text": "(Eu... tô com um pouco de medo<n>também. Eu corro\ncontra a Ryan<n>desde que éramos crianças e nunca\nconsegui ganhar dela... E agora, ela é<n>a minha rival.)"
         },
         {
             "name": "Mejiro Ryan",
@@ -80,7 +80,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "<i>Suspiro...</i> Eu meio que odeio essa<n>parte de\nmim... Ou acho que é mais<n>que eu não quero\ncontinuar sendo<n>assim.",
+            "text": "<i>Suspiro...</i> Eu meio que odeio essa<n>parte de mim... Ou\nacho que é mais<n>que eu não quero continuar sendo\nassim.",
             "choice_data_list": [
                 "Então você deveria fugir dessa posição."
             ]
@@ -95,7 +95,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Eu <i>vou</i> fugir do meu eu do<n>passado. Eu vou\ncontinuar correndo<n>até onde a minha versão atual\nconseguir chegar!"
+            "text": "Eu <i>vou</i> fugir do meu eu do passado.<n>Eu vou\ncontinuar correndo até onde a<n>minha versão atual\nconseguir chegar!"
         }
     ]
 }

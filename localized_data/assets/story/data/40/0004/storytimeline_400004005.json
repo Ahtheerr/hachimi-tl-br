@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Sistema de Som da Academia",
-            "text": "Treinador <username>, por favor, compareça à<n>sala da\ndiretora imediatamente."
+            "text": "Treinador <username>, por favor, compareça à<n>sala da diretora\nimediatamente."
         },
         {
             "name": "Monólogo",
@@ -54,11 +54,11 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Exato! Sua aprendiz,<n><chrname>..."
+            "text": "Exato! Sua aprendiz, <chrname>..."
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Bem, ela deu um show brilhante ao<n>longo deste\nvital terceiro ano em sua<n>carreira na Twinkle\nSeries!"
+            "text": "Bem, ela deu um show brilhante ao<n>longo deste\nvital terceiro ano em sua<n>carreira na Twinkle Series!"
         },
         {
             "name": "Diretora Akikawa",
@@ -107,7 +107,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mais tarde, conto para a<n><chrname> o que\naconteceu<n>e compartilhamos a alegria!"
+            "text": "Mais tarde, conto para a<n><chrname> o que aconteceu e\ncompartilhamos a<n>alegria!"
         }
     ]
 }

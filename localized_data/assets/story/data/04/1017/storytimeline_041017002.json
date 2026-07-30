@@ -127,8 +127,8 @@
             "name": "Symboli Rudolf",
             "text": "Se ao menos eu fosse capaz de uma<n>conversa mais casual e envolvente,<n>eu poderia ser mais acessível...",
             "choice_data_list": [
-                "Que tal tentarmos uma conversa de prática agora?",
-                "Que tal tentarmos uma conversa de prática agora?"
+                "Que tal tentarmos uma conversa de prática\nagora?",
+                "Que tal tentarmos uma conversa de prática\nagora?"
             ]
         },
         {
@@ -215,7 +215,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Hrm... \"es-pata-cular\"... <i>Eu</i> achei<n>que foi bem inteligente..."
+            "text": "Hrm... \"es-pata-cular\"... <i>Eu</i> achei que<n>foi bem inteligente..."
         }
     ]
 }

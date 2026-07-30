@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "T.M. Opera O seems tired, so I<n>suggest we go for a\nwalk. Soon<n>enough, we're stopped by a few\nfans."
+            "text": "T.M. Opera O seems tired, so I<n>suggest we go for a\nwalk. Soon<n>enough, we're stopped by a few<n>fans."
         },
         {
             "name": "T.M. Opera O",
@@ -13,7 +13,7 @@
         },
         {
             "name": "T.M. Opera O",
-            "text": "<i>Huff... Puff...</i> D-did you see their<n>beaming\nfaces? My brilliance has<n>come through once\nagain!",
+            "text": "<i>Huff... Puff...</i> D-did you see their<n>beaming faces?\nMy brilliance has<n>come through once again!",
             "choice_data_list": [
                 "Isn't it exhausting to perform an opera each time\nyou want to thank your fans?"
             ]

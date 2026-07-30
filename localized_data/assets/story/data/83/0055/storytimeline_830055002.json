@@ -36,7 +36,7 @@
             "name": "Monólogo",
             "text": "As requested, I check the instructions<n>in the GM\nscript. It looks like the next<n>step is...",
             "choice_data_list": [
-                "Everyone is now permitted to reveal their secrets."
+                "Everyone is now permitted to reveal their\nsecrets."
             ]
         },
         {
@@ -85,7 +85,7 @@
         },
         {
             "name": "El Condor Pasa",
-            "text": "The bowl was already blue! Meaning<n>the culprit\nhad already entered the<n>room!"
+            "text": "The bowl was already blue! Meaning<n>the culprit had\nalready entered the<n>room!"
         },
         {
             "name": "Grass Wonder",
@@ -97,7 +97,7 @@
         },
         {
             "name": "Special Week",
-            "text": "O-okay, I've got something too... So,<n>actually, I\nwas with Grass from just<n>after she served dinner\nright up until<n>we all gathered here. But while we\nwere together..."
+            "text": "O-okay, I've got something too... So,<n>actually, I was\nwith Grass from just<n>after she served dinner right\nup until<n>we all gathered here. But while we<n>were\ntogether..."
         },
         {
             "name": "Special Week",
@@ -109,7 +109,7 @@
         },
         {
             "name": "Grass Wonder",
-            "text": "Interesting. She was holding<n>something? It\ncouldn't have been... a<n>yellow bowl, could it?"
+            "text": "Interesting. She was holding<n>something? It couldn't\nhave been... a<n>yellow bowl, could it?"
         },
         {
             "name": "Seiun Sky",
@@ -129,7 +129,7 @@
         },
         {
             "name": "El Condor Pasa",
-            "text": "Hmm... That's actually <i>muy<n>sospechosa.</i> I\nmean, this is Sei<n>we're talking about here."
+            "text": "Hmm... That's actually <i>muy<n>sospechosa.</i> I mean,\nthis is Sei we're<n>talking about here."
         },
         {
             "name": "Seiun Sky",
@@ -145,15 +145,15 @@
         },
         {
             "name": "Seiun Sky",
-            "text": "...Spe's telling the truth. I <i>was</i><n>walking around\nthe inn holding<n>something."
+            "text": "...Spe's telling the truth. I <i>was</i> walking<n>around the\ninn holding something."
         },
         {
             "name": "Monólogo",
-            "text": "Surprisingly, she openly admits to it.<n>Is she\nplanning something here?"
+            "text": "Surprisingly, she openly admits to it.<n>Is she planning\nsomething here?"
         },
         {
             "name": "Seiun Sky",
-            "text": "Ordinary is subjective. Maybe I'm<n>actually the\nbest housekeeper in the<n>world. Nya-ha-ha."
+            "text": "Ordinary is subjective. Maybe I'm<n>actually the best\nhousekeeper in the<n>world. Nya-ha-ha."
         },
         {
             "name": "Seiun Sky",
@@ -169,11 +169,11 @@
         },
         {
             "name": "Seiun Sky",
-            "text": "...Spe's telling the truth. I <i>was</i><n>walking around\nthe inn holding<n>something."
+            "text": "...Spe's telling the truth. I <i>was</i> walking<n>around the\ninn holding something."
         },
         {
             "name": "Monólogo",
-            "text": "Surprisingly, she openly admits to it.<n>Is she\nplanning something here?"
+            "text": "Surprisingly, she openly admits to it.<n>Is she planning\nsomething here?"
         }
     ]
 }

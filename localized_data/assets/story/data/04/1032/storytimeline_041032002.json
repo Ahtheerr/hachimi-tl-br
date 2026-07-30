@@ -14,7 +14,7 @@
         },
         {
             "name": "Treinadora Novata A",
-            "text": "Hã, <i>aquela<i> Agnes Tachyon?!<n>Aquela que é considerada tão<n>perigosa quanto talentosa?!",
+            "text": "Hã, <i>aquela<i> Agnes Tachyon?! Aquela<n>que é considerada tão perigosa<n>quanto talentosa?!",
             "choice_data_list": [
                 "(Agnes Tachyon?!)"
             ]
@@ -161,8 +161,8 @@
             "name": "Agnes Tachyon",
             "text": "Ontem à noite, concluí um protótipo de<n>dispositivo capaz de medir as<n>funções musculares. Com ele, posso<n>coletar dados mil vezes mais<n>detalhados do que...",
             "choice_data_list": [
-                "Suas experiências são a única coisa em que você\npensa?!",
-                "Suas experiências são a única coisa em que você\npensa?!"
+                "Suas experiências são a única coisa em que\nvocê pensa?!",
+                "Suas experiências são a única coisa em que\nvocê pensa?!"
             ]
         },
         {

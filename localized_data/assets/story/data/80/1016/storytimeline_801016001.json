@@ -6,7 +6,7 @@
         },
         {
             "name": "Narita Brian",
-            "text": "<i>Suspiro...</i> Um terço já foi... Faltam<n>dois terços."
+            "text": "<i>Suspiro...</i> Um terço já foi... Faltam dois<n>terços."
         },
         {
             "name": "Umamusume A",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Umamusume A",
-            "text": "Aquele olhar dela é tão potente... É o<n>suficiente\npara manter qualquer um<n>longe!"
+            "text": "Aquele olhar dela é tão potente... É o<n>suficiente para\nmanter qualquer um<n>longe!"
         },
         {
             "name": "Umamusume B",
@@ -52,7 +52,7 @@
             "name": "Narita Brian",
             "text": "Estou apenas cuidando de assuntos<n>do conselho\nestudantil.",
             "choice_data_list": [
-                "Eu não fazia ideia de que você era um membro do\nconselho estudantil."
+                "Eu não fazia ideia de que você era um membro\ndo conselho estudantil."
             ]
         },
         {
@@ -103,7 +103,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Narita Brian é direta com as palavras,<n>mas parece\nmais do que capaz de<n>lidar com suas obrigações\nno<n>conselho estudantil."
+            "text": "Narita Brian é direta com as palavras,<n>mas parece\nmais do que capaz de<n>lidar com suas obrigações no\nconselho estudantil."
         },
         {
             "name": "Narita Brian",
@@ -119,7 +119,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Apesar de ser um trabalho tedioso e<n>cansativo,\nNarita Brian completa suas<n>obrigações no\nconselho estudantil<n>diligentemente."
+            "text": "Apesar de ser um trabalho tedioso e<n>cansativo,\nNarita Brian completa suas<n>obrigações no conselho\nestudantil<n>diligentemente."
         }
     ]
 }

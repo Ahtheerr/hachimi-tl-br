@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Um dia, saio para procurar alguns<n>lanches ricos\nem proteína para o<n>treino da equipe."
+            "text": "Um dia, saio para procurar alguns<n>lanches ricos em\nproteína para o<n>treino da equipe."
         },
         {
             "name": "Monólogo",
@@ -17,7 +17,7 @@
         },
         {
             "name": "Riko Kashimoto",
-            "text": "O que você está fazendo? Está no<n>caminho de\ntodo mundo.",
+            "text": "O que você está fazendo? Está no<n>caminho de todo\nmundo.",
             "choice_data_list": [
                 "Srta. Kashimoto! Bem, er..."
             ]
@@ -39,11 +39,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "Como o kinako é simplesmente pó de<n>soja\ntorrada, é rico em proteínas, e<n>os palitos têm o\ntamanho perfeito<n>para lanches rápidos."
+            "text": "Como o kinako é simplesmente pó de<n>soja torrada,\né rico em proteínas, e<n>os palitos têm o tamanho\nperfeito<n>para lanches rápidos."
         },
         {
             "name": "Riko Kashimoto",
-            "text": "É uma caminhada curta, mas há uma<n>pequena\nloja três quarteirões abaixo<n>e à direita que os\nvende."
+            "text": "É uma caminhada curta, mas há uma<n>pequena loja\ntrês quarteirões abaixo<n>e à direita que os vende."
         },
         {
             "name": "Riko Kashimoto",
@@ -55,14 +55,14 @@
         },
         {
             "name": "Monólogo",
-            "text": "Fico admirado com a rapidez com que<n>a Srta.\nKashimoto conseguiu<n>encontrar uma solução para\no meu<n>problema.",
+            "text": "Fico admirado com a rapidez com que<n>a Srta.\nKashimoto conseguiu<n>encontrar uma solução para o\nmeu<n>problema.",
             "choice_data_list": [
                 "Nossa, é incrível como você pensou nisso rápido."
             ]
         },
         {
             "name": "Riko Kashimoto",
-            "text": "É um hábito meu. Não consigo evitar<n>de lembrar\ndas lojas e locais que<n>encontro que os tenham\nem estoque.",
+            "text": "É um hábito meu. Não consigo evitar<n>de lembrar das\nlojas e locais que<n>encontro que os tenham em\nestoque.",
             "choice_data_list": [
                 "Você é fã de palitos de kinako?"
             ]
@@ -89,11 +89,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "Sua expressão de despedida é tão<n>sofrida que\nnão consigo deixar de<n>lembrá-la muito tempo\ndepois que ela<n>se foi..."
+            "text": "Sua expressão de despedida é tão<n>sofrida que não\nconsigo deixar de<n>lembrá-la muito tempo depois\nque ela<n>se foi..."
         },
         {
             "name": "Monólogo",
-            "text": "A boa notícia é que os palitos de<n>kinako que ela\nrecomendou são um<n>sucesso com a equipe, e\ntenho um<n>novo lanche para adicionar à dieta\ndelas."
+            "text": "A boa notícia é que os palitos de<n>kinako que ela\nrecomendou são um<n>sucesso com a equipe, e\ntenho um<n>novo lanche para adicionar à dieta<n>delas."
         }
     ]
 }

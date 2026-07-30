@@ -133,8 +133,8 @@
             "name": "Monólogo",
             "text": "Entendi... Não posso deixar ela pilotar<n>o navio o tempo todo. Preciso ser<n>como essas crianças e ir na onda!",
             "choice_data_list": [
-                "Você me pegou! Mas quem ri por último ri melhor!",
-                "Você me pegou! Mas quem ri por último ri melhor!"
+                "Você me pegou! Mas quem ri por último ri\nmelhor!",
+                "Você me pegou! Mas quem ri por último ri\nmelhor!"
             ]
         },
         {
@@ -147,7 +147,7 @@
         },
         {
             "name": "Gold Ship",
-            "text": "<I>Arf... arf... ofegando...</I> Como você<n>me seguiu até aqui?"
+            "text": "<I>Arf... arf... ofegando...</I> Como você me<n>seguiu até aqui?"
         },
         {
             "name": "Garoto B",

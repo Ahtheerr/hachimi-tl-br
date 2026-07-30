@@ -4,7 +4,7 @@
             "name": "Narita Taishin",
             "text": "Ugh, it's no good. How am I even<n>supposed to\npractice being sincere?",
             "choice_data_list": [
-                "(She's trying to practice how to be more sincere?)"
+                "(She's trying to practice how to be more\nsincere?)"
             ]
         },
         {
@@ -20,7 +20,7 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Huh? What are you butting in for?<n>This has\nnothing to do with—wait,<n>were you eavesdropping\non me?",
+            "text": "Huh? What are you butting in for?<n>This has nothing\nto do with—wait,<n>were you eavesdropping on me?",
             "choice_data_list": [
                 "Sorry, you seemed pretty vexed, so..."
             ]
@@ -49,7 +49,7 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "H-her best friends? Like, <i>BEST</i><n>friends?!\nTaishin thinks we're<n>besties?! Waaah, I'm so\nhappy!<n>Ohhh, Taishiiin!"
+            "text": "H-her best friends? Like, <i>BEST</i><n>friends?! Taishin\nthinks we're<n>besties?! Waaah, I'm so happy!<n>Ohhh,\nTaishiiin!"
         },
         {
             "name": "Narita Taishin",
@@ -57,7 +57,7 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Expressing yourself is a part of being<n>sincere. So\nto help you with that, I<n>consulted several quiz\nbooks and<n>came up with..."
+            "text": "Expressing yourself is a part of being<n>sincere. So to\nhelp you with that, I<n>consulted several quiz books\nand<n>came up with..."
         },
         {
             "name": "Biwa Hayahide",
@@ -73,7 +73,7 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Mhm... Challenging yourself <i>is</i><n>important, but\nyou mustn't push your<n>limits too hard. Next time\nyou take on<n>such a task, invite me along too."
+            "text": "Mhm... Challenging yourself <i>is</i><n>important, but you\nmustn't push your<n>limits too hard. Next time you\ntake on<n>such a task, invite me along too."
         },
         {
             "name": "Biwa Hayahide",
@@ -81,15 +81,15 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Now, there's nothing wrong with that,<n>but you'd\nbe at greater risk if you got<n>into an accident.\nAlways know when<n>to ask others for help. Next..."
+            "text": "Now, there's nothing wrong with that,<n>but you'd be\nat greater risk if you got<n>into an accident. Always\nknow when<n>to ask others for help. Next..."
         },
         {
             "name": "Narita Taishin",
-            "text": "Wait a sec. How many more of these<n>annoying\n\"life lessons\" of yours do I<n>have to listen to?"
+            "text": "Wait a sec. How many more of these<n>annoying \"life\nlessons\" of yours do I<n>have to listen to?"
         },
         {
             "name": "Winning Ticket",
-            "text": "Okay, my turn! Ta-dah! Check it<n>out—it's a cat\ncafe!",
+            "text": "Okay, my turn! Ta-dah! Check it<n>out—it's a cat cafe!",
             "choice_data_list": [
                 "Why a cat cafe?"
             ]
@@ -104,7 +104,7 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "You're not fooling me! I saw you<n>hanging out with\nyour feline friend in<n>that shopping district alley!\nYou had a<n>whole conversation and everything!"
+            "text": "You're not fooling me! I saw you<n>hanging out with\nyour feline friend in<n>that shopping district alley! You\nhad a<n>whole conversation and everything!"
         },
         {
             "name": "Narita Taishin",
@@ -159,7 +159,7 @@
         },
         {
             "name": "Super Creek",
-            "text": "This is a <i>super</i> important time for<n>me too, and I\nwant us both to keep<n>training and working hard! ♪"
+            "text": "This is a <i>super</i> important time for me<n>too, and I\nwant us both to keep<n>training and working hard! ♪"
         },
         {
             "name": "Narita Taishin",
@@ -175,7 +175,7 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "I meeean, it's not every day we get<n>to see you\nbeing honest! We couldn't<n>resist! Right,\nHayahide?"
+            "text": "I meeean, it's not every day we get<n>to see you\nbeing honest! We couldn't<n>resist! Right, Hayahide?"
         },
         {
             "name": "Narita Taishin",
@@ -197,7 +197,7 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "With friends like these... Ugh! First<n>they play me\nlike a fiddle, then they<n>rub in the salt!",
+            "text": "With friends like these... Ugh! First<n>they play me like\na fiddle, then they<n>rub in the salt!",
             "choice_data_list": [
                 "They got you your answer though, right?",
                 "They got you your answer though, right?"
@@ -229,7 +229,7 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "True or false? You think your hair<n>looks good\ntoday."
+            "text": "True or false? You think your hair<n>looks good today."
         },
         {
             "name": "Biwa Hayahide",

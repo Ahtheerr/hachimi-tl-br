@@ -17,7 +17,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Oh, você já está aqui, Treinador <username>?!<n>No momento\nexato! Olhe de perto!"
+            "text": "Oh, você já está aqui, Treinador <username>?! No<n>momento\nexato! Olhe de perto!"
         },
         {
             "name": "Diretora Akikawa",
@@ -25,14 +25,14 @@
         },
         {
             "name": "Monólogo",
-            "text": "A Diretora Akikawa aponta com<n>grande\nintensidade para uma placa<n>que diz...",
+            "text": "A Diretora Akikawa aponta com<n>grande intensidade\npara uma placa<n>que diz...",
             "choice_data_list": [
                 "Pro Shop?"
             ]
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Precisamente! Ela oferece uma ampla<n>gama de\n\"itens de treino\"<n>convenientes, selecionados a\ndedo e<n>de alta qualidade!",
+            "text": "Precisamente! Ela oferece uma ampla<n>gama de\n\"itens de treino\"<n>convenientes, selecionados a dedo\ne<n>de alta qualidade!",
             "color_text_info_list": [
                 "training items"
             ]
@@ -50,7 +50,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "...E para coroar tudo isso, dinheiro é\ndesnecessário!",
+            "text": "...E para coroar tudo isso, dinheiro é<n>desnecessário!",
             "choice_data_list": [
                 "Desnecessário?!"
             ]
@@ -93,7 +93,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Diretora... Você usou seu próprio<n>dinheiro para\nfazer outra maratona de<n>compras massiva, não\nfoi?!",
+            "text": "Diretora... Você usou seu próprio<n>dinheiro para fazer\noutra maratona de<n>compras massiva, não foi?!",
             "choice_data_list": [
                 "Eu tive a sensação de que foi assim que você\nestocou tantos itens..."
             ]
@@ -134,14 +134,14 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Mas devo dizer — isso é incrível! A<n>Diretora\nAkikawa está disposta a<n>dedicar <i>todo</i> o seu\npatrimônio<n>pessoal às alunas!",
+            "text": "Mas devo dizer — isso é incrível! A<n>Diretora\nAkikawa está disposta a<n>dedicar <i>todo</i> o seu\npatrimônio pessoal<n>às alunas!",
             "choice_data_list": [
                 "Na verdade, duvido que isso seja sequer perto de\ntudo..."
             ]
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Eu simplesmente preciso escrever<n>um artigo\nsobre ela!"
+            "text": "Eu simplesmente preciso escrever<n>um artigo sobre\nela!"
         },
         {
             "name": "Repórter Otonashi",
@@ -149,14 +149,14 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "E o Treinador <username> sacrificará <i>tudo</i><n>para ajudar a\nrealizar as esperanças<n>dela!",
+            "text": "E o Treinador <username> sacrificará <i>tudo</i> para<n>ajudar a\nrealizar as esperanças dela!",
             "choice_data_list": [
                 "..."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Como chegamos ao ponto em que<n><i>eu</i> também\nestou sacrificando<n>tudo?"
+            "text": "Como chegamos ao ponto em que <i>eu</i><n>também\nestou sacrificando tudo?"
         },
         {
             "name": "Monólogo",

@@ -18,11 +18,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "Já que ela vem de tão longe, é melhor<n>a gente\nmostrar uma corrida pra ela.<n>Além disso, com as\nhabilidades<n>atuais da Nature, ela tem o que é\npreciso pra vencer."
+            "text": "Já que ela vem de tão longe, é melhor<n>a gente\nmostrar uma corrida pra ela.<n>Além disso, com as\nhabilidades<n>atuais da Nature, ela tem o que é<n>preciso\npra vencer."
         },
         {
             "name": "Nice Nature",
-            "text": "<i>Suspiro...</i> E pelo visto você não vai<n>aceitar um\nnão como resposta, né?"
+            "text": "<i>Suspiro...</i> E pelo visto você não vai<n>aceitar um não\ncomo resposta, né?"
         },
         {
             "name": "Nice Nature",
@@ -50,7 +50,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Conforme planejamos na reunião<n>antes da\ncorrida, a Nice Nature tá<n>colada na Mayano Top\nGun.",
+            "text": "Conforme planejamos na reunião<n>antes da corrida,\na Nice Nature tá<n>colada na Mayano Top Gun.",
             "choice_data_list": [
                 "Mas... parece que ela tá indo mais rápido que o\nnormal..."
             ]
@@ -61,7 +61,7 @@
         },
         {
             "name": "Mayano Top Gun",
-            "text": "<i>Arf... Arf...</i> Beleza, é melhor a gente<n>começar.\nHora de decolar!"
+            "text": "<i>Arf... Arf...</i> Beleza, é melhor a gente<n>começar. Hora\nde decolar!"
         },
         {
             "name": "Nice Nature",
@@ -69,7 +69,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "(Não acredito, ela tá acelerando<n>agora?! Então ela\nnão tava de<n>Perseguidora, mas sim como\nFugitiva?!)"
+            "text": "(Não acredito, ela tá acelerando<n>agora?! Então ela\nnão tava de<n>Perseguidora, mas sim como<n>Fugitiva?!)"
         },
         {
             "name": "Nice Nature",
@@ -100,7 +100,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Não a vejo em nenhum lugar da<n>academia. Talvez\nela tenha saído? De<n>acordo com a mãe dela, ela\ncostumava ir para a margem do rio<n>pra ficar de\nbico quando se sentia<n>triste."
+            "text": "Não a vejo em nenhum lugar da<n>academia. Talvez\nela tenha saído? De<n>acordo com a mãe dela, ela\ncostumava ir para a margem do rio<n>pra ficar de bico\nquando se sentia<n>triste."
         },
         {
             "name": "Nice Nature",
@@ -139,18 +139,18 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Você diz que eu dei o meu melhor,<n>mas meu\nmelhor não vale de nada se<n>eu continuar\nperdendo!"
+            "text": "Você diz que eu dei o meu melhor,<n>mas meu melhor\nnão vale de nada se<n>eu continuar perdendo!"
         },
         {
             "name": "Nice Nature",
-            "text": "Eu queria muito ganhar essa corrida...<n>Eu <i>tinha</i>\nque ganhar essa corrida!",
+            "text": "Eu queria muito ganhar essa corrida...<n>Eu <i>tinha</i> que\nganhar essa corrida!",
             "choice_data_list": [
                 "Mas a sua mãe parecia muito feliz."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Digo a ela que sua mãe sentiu a sua\ndeterminação."
+            "text": "Digo a ela que sua mãe sentiu a sua<n>determinação."
         },
         {
             "name": "Nice Nature",
@@ -158,7 +158,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Aaarg, eu chorei demais. Alguém da<n>minha idade\n<i>não</i> devia chorar<n>desse jeito.",
+            "text": "Aaarg, eu chorei demais. Alguém da<n>minha idade\n<i>não</i> devia chorar desse<n>jeito.",
             "choice_data_list": [
                 "Não tem problema desabafar de vez em quando."
             ]
@@ -169,7 +169,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Com a Nice Nature tendo recuperado<n>a\ncompostura, voltamos para ver a<n>mãe dela."
+            "text": "Com a Nice Nature tendo recuperado<n>a compostura,\nvoltamos para ver a<n>mãe dela."
         },
         {
             "name": "Monólogo",
@@ -189,15 +189,15 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Acho que fiquei convencida depois de<n>correr\npasso a passo com a Mayano<n>quando a gente\ncorreu em dupla."
+            "text": "Acho que fiquei convencida depois de<n>correr passo\na passo com a Mayano<n>quando a gente correu em\ndupla."
         },
         {
             "name": "Nice Nature",
-            "text": "E quando ela elogiou a minha<n>velocidade, não\nlevei em conta que<n>ela também tava me medindo..."
+            "text": "E quando ela elogiou a minha<n>velocidade, não levei\nem conta que<n>ela também tava me medindo..."
         },
         {
             "name": "Nice Nature",
-            "text": "<i>Suspiro...</i> A Mayano realmente tá<n>em outro\nnível. Ela é bem esperta..."
+            "text": "<i>Suspiro...</i> A Mayano realmente tá em<n>outro nível.\nEla é bem esperta..."
         },
         {
             "name": "Nice Nature",
@@ -208,7 +208,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Ah, não me leve a mal! Eu gosto da<n>Mayano,\nclaro. De quem eu não<n>gosto é de mim."
+            "text": "Ah, não me leve a mal! Eu gosto da<n>Mayano, claro.\nDe quem eu não<n>gosto é de mim."
         },
         {
             "name": "Nice Nature",
@@ -220,7 +220,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Eu a tranquilizo dizendo que estou<n>aqui para\najudá-la a superar<n>qualquer coisa que esteja a\nincomodando. Somos uma equipe,<n>afinal de\ncontas."
+            "text": "Eu a tranquilizo dizendo que estou<n>aqui para\najudá-la a superar<n>qualquer coisa que esteja a\nincomodando. Somos uma equipe,<n>afinal de contas."
         },
         {
             "name": "Nice Nature",
@@ -269,7 +269,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Eu gosto. Só tava lembrando de como<n>a minha\nmãe sempre me comprava<n>um quando eu tava\ntriste."
+            "text": "Eu gosto. Só tava lembrando de como<n>a minha mãe\nsempre me comprava<n>um quando eu tava triste."
         },
         {
             "name": "Nice Nature",

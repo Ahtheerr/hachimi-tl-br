@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Zenno Rob Roy",
-            "text": "E minha cena favorita <i>neste</i><n>volume é quando o\nprotagonista<n>enfrenta o campeão inimigo em um\nduelo galante. É realmente fascinante!"
+            "text": "E minha cena favorita <i>neste</i> volume é<n>quando o\nprotagonista enfrenta o<n>campeão inimigo em um\nduelo<n>galante. É realmente fascinante!"
         },
         {
             "name": "Mejiro Ardan",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "É importante notar que ele se<n>aprofunda em\nconceitos bastante<n>realistas, apesar de ser uma\nobra de<n>ficção. Os métodos de treinamento<n>são\nbem viáveis."
+            "text": "É importante notar que ele se<n>aprofunda em\nconceitos bastante<n>realistas, apesar de ser uma\nobra de<n>ficção. Os métodos de treinamento<n>são bem\nviáveis."
         },
         {
             "name": "Monólogo",
@@ -23,17 +23,17 @@
             "name": "Zenno Rob Roy",
             "text": "Ah, olá. Desculpe — estávamos<n>falando alto\ndemais?",
             "choice_data_list": [
-                "De forma alguma. Sobre o que estão\nconversando?",
-                "De forma alguma. Sobre o que estão\nconversando?"
+                "De forma alguma. Sobre o que estão conversando?",
+                "De forma alguma. Sobre o que estão conversando?"
             ]
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Estamos compartilhando nossas<n>impressões\nsobre o volume mais<n>recente desta série de\nromances. É<n>um livro muito intrigante..."
+            "text": "Estamos compartilhando nossas<n>impressões sobre\no volume mais<n>recente desta série de romances. É\num livro muito intrigante..."
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "É simplesmente <i>incrível!</i> Eu poderia<n>falar sobre\nele para sempre!"
+            "text": "É simplesmente <i>incrível!</i> Eu poderia<n>falar sobre ele\npara sempre!"
         },
         {
             "name": "Biwa Hayahide",
@@ -71,7 +71,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Os olhos de todas parecem brilhar<n>naquele\ninstante."
+            "text": "Os olhos de todas parecem brilhar<n>naquele instante."
         },
         {
             "name": "Zenno Rob Roy",
@@ -91,11 +91,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "As três Umamusume estão<n>encantadas com\nminha decisão. Elas<n>realmente são apaixonadas\npor<n>livros."
+            "text": "As três Umamusume estão<n>encantadas com minha\ndecisão. Elas<n>realmente são apaixonadas por<n>livros."
         },
         {
             "name": "Monólogo",
-            "text": "Ter a oportunidade de ajudá-las<n>enche meu\npróprio coração de alegria."
+            "text": "Ter a oportunidade de ajudá-las<n>enche meu próprio\ncoração de alegria."
         },
         {
             "name": "Monólogo",
@@ -103,7 +103,7 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "...E este é o volume trinta e quatro.<n>Esta é a série\ncompleta de livros,<n>incluindo o volume mais\nrecente.",
+            "text": "...E este é o volume trinta e quatro.<n>Esta é a série\ncompleta de livros,<n>incluindo o volume mais recente.",
             "choice_data_list": [
                 "Como pode haver tantos?!"
             ]
@@ -122,7 +122,7 @@
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Ah, espere, Hayahide. Você poderia<n>trazer o guia\nda série também?"
+            "text": "Ah, espere, Hayahide. Você poderia<n>trazer o guia da\nsérie também?"
         },
         {
             "name": "Biwa Hayahide",
@@ -134,11 +134,11 @@
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Talvez eu devesse ler todos os<n>volumes\nanteriores novamente. Eu<n>poderia descobrir novos\ndetalhes ou<n>ganhar uma perspectiva diferente das\ncoisas."
+            "text": "Talvez eu devesse ler todos os<n>volumes anteriores\nnovamente. Eu<n>poderia descobrir novos detalhes\nou<n>ganhar uma perspectiva diferente das<n>coisas."
         },
         {
             "name": "Monólogo",
-            "text": "Eu já tinha ouvido falar desta série,<n>mas não\nfazia ideia de quão<n>insanamente longa ela é.",
+            "text": "Eu já tinha ouvido falar desta série,<n>mas não fazia\nideia de quão<n>insanamente longa ela é.",
             "choice_data_list": [
                 "Hm, espera um pouco..."
             ]
@@ -149,7 +149,7 @@
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Gostaria de saber se isso é pedir<n>demais de\nvocê...",
+            "text": "Gostaria de saber se isso é pedir<n>demais de você...",
             "choice_data_list": [
                 "N-não é nada demais!",
                 "N-não é nada demais!"
@@ -188,7 +188,7 @@
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "Esta série acompanha um<n>protagonista que não\npossui poderes<n>especiais em sua jornada para\nse<n>tornar um herói!"
+            "text": "Esta série acompanha um<n>protagonista que não\npossui poderes<n>especiais em sua jornada para se\ntornar um herói!"
         },
         {
             "name": "Mejiro Ardan",
@@ -196,7 +196,7 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "O protagonista tem uma noção tão<n>aguçada que\nvocê acaba ficando<n>impressionado com o quão\nrealistas e<n>lógicos os romances são,\nespecialmente para uma fantasia."
+            "text": "O protagonista tem uma noção tão<n>aguçada que\nvocê acaba ficando<n>impressionado com o quão\nrealistas e<n>lógicos os romances são,<n>especialmente\npara uma fantasia."
         },
         {
             "name": "Monólogo",
@@ -228,7 +228,7 @@
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Os temas e o simbolismo que<n>aparecem nos\ncontos de eventos<n>passados geralmente\ninfluenciam os<n>desdobramentos futuros da\nhistória,<n>então também é fascinante de um<n>ponto\nde vista histórico."
+            "text": "Os temas e o simbolismo que<n>aparecem nos contos\nde eventos<n>passados geralmente influenciam os\ndesdobramentos futuros da história,<n>então também\né fascinante de um<n>ponto de vista histórico."
         },
         {
             "name": "Mejiro Ardan",
@@ -239,7 +239,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mais de uma hora se passou, mas<n>nenhuma\ndelas mostra sinais de que<n>vai parar."
+            "text": "Mais de uma hora se passou, mas<n>nenhuma delas\nmostra sinais de que<n>vai parar."
         },
         {
             "name": "Monólogo",
@@ -247,7 +247,7 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "No mínimo, por favor, leia até o<n>volume oito. Sua\nrepresentação única<n>das leis da física dentro de\num mundo<n>de fantasia é verdadeiramente\nbrilhante."
+            "text": "No mínimo, por favor, leia até o<n>volume oito. Sua\nrepresentação única<n>das leis da física dentro de um\nmundo<n>de fantasia é verdadeiramente<n>brilhante."
         },
         {
             "name": "Biwa Hayahide",
@@ -259,7 +259,7 @@
         },
         {
             "name": "Mejiro Ardan",
-            "text": "A maneira como o volume vinte e um<n>examinou os\ntemas históricos<n>retratados foi\nsurpreendentemente<n>inovadora.",
+            "text": "A maneira como o volume vinte e um<n>examinou os\ntemas históricos<n>retratados foi surpreendentemente\ninovadora.",
             "choice_data_list": [
                 "...Ok! Vou ler cada um dos volumes!",
                 "...Ok! Vou ler cada um dos volumes!"

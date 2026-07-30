@@ -9,7 +9,7 @@
         },
         {
             "name": "Locutor A",
-            "text": "Aqui está a Fuji Kiseki! Ela já fez<n>bastante fama\nantes mesmo de sua<n>estreia. Dizem as más\nlínguas que<n>havia uma multidão de treinadores\ncompetindo para trabalhar com ela."
+            "text": "Aqui está a Fuji Kiseki! Ela já fez<n>bastante fama\nantes mesmo de sua<n>estreia. Dizem as más línguas\nque<n>havia uma multidão de treinadores<n>competindo\npara trabalhar com ela."
         },
         {
             "name": "Locutor B",
@@ -24,7 +24,7 @@
         },
         {
             "name": "",
-            "text": "Mesmo sendo a corrida da Fuji<n>Kiseki, uma\ngrande atenção de<n>repente se volta para mim\ntambém.",
+            "text": "Mesmo sendo a corrida da Fuji<n>Kiseki, uma grande\natenção de<n>repente se volta para mim também.",
             "choice_data_list": [
                 "(I-isso dá muito nervosismo!)"
             ]
@@ -39,11 +39,11 @@
         },
         {
             "name": "Fuji Kiseki",
-            "text": "É um feitiço especial que vai te<n>encher de\ncoragem. Me dê a sua<n>mão."
+            "text": "É um feitiço especial que vai te<n>encher de coragem.\nMe dê a sua<n>mão."
         },
         {
             "name": "",
-            "text": "Estendo a minha mão direita<n>conforme pedido, e\nela a segura entre<n>as duas mãos dela."
+            "text": "Estendo a minha mão direita<n>conforme pedido, e ela\na segura entre<n>as duas mãos dela."
         },
         {
             "name": "Fuji Kiseki",
@@ -87,11 +87,11 @@
         },
         {
             "name": "",
-            "text": "A Fuji Kiseki sai do recinto com um<n>floreio\ngalante."
+            "text": "A Fuji Kiseki sai do recinto com um<n>floreio galante."
         },
         {
             "name": "",
-            "text": "A minha mão direita está quente e o<n>chocolate é\ndoce. Quando dou por<n>mim, não estou mais nem\num pouco<n>nervoso."
+            "text": "A minha mão direita está quente e o<n>chocolate é\ndoce. Quando dou por<n>mim, não estou mais nem um\npouco<n>nervoso."
         }
     ]
 }

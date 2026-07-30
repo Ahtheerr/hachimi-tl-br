@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Quando chego ao refeitório para o<n>almoço, vejo\nAir Groove<n>conversando com algumas\nestudantes."
+            "text": "Quando chego ao refeitório para o<n>almoço, vejo Air\nGroove<n>conversando com algumas<n>estudantes."
         },
         {
             "name": "Umamusume A",
@@ -38,7 +38,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Não sei quando começou, mas às<n>vezes as\nestudantes me trazem seus<n>almoços caseiros\npara eu<n>experimentar."
+            "text": "Não sei quando começou, mas às<n>vezes as\nestudantes me trazem seus<n>almoços caseiros para\neu<n>experimentar."
         },
         {
             "name": "Monólogo",
@@ -54,7 +54,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Mas não posso recusar os pedidos<n>delas. E além\ndisso, essa quantidade<n>não é impossível de\ncomer.",
+            "text": "Mas não posso recusar os pedidos<n>delas. E além\ndisso, essa quantidade<n>não é impossível de comer.",
             "choice_data_list": [
                 "Parece coisa demais para mim.",
                 "Acho que você não precisa se preocupar em\npassar fome.",
@@ -63,7 +63,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Mas não posso recusar os pedidos<n>delas. E além\ndisso, essa quantidade<n>não é impossível de\ncomer.",
+            "text": "Mas não posso recusar os pedidos<n>delas. E além\ndisso, essa quantidade<n>não é impossível de comer.",
             "choice_data_list": [
                 "Parece coisa demais para mim.",
                 "Acho que você não precisa se preocupar em\npassar fome.",
@@ -115,7 +115,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Embora Air Groove se vire de forma<n>displicente,\nhá um toque de gentileza<n>em sua expressão\nenquanto começa<n>a provar as marmitas."
+            "text": "Embora Air Groove se vire de forma<n>displicente, há\num toque de gentileza<n>em sua expressão enquanto\ncomeça<n>a provar as marmitas."
         }
     ]
 }

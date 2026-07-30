@@ -90,7 +90,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Huh? O-oh, yeah, you're right! Let's<n>make our\nnext concert bigger!"
+            "text": "Huh? O-oh, yeah, you're right! Let's<n>make our next\nconcert bigger!"
         },
         {
             "name": "Light Hello",
@@ -129,7 +129,7 @@
         },
         {
             "name": "Monologue",
-            "text": "After wrapping up the impromptu<n>concert, we take\nsome time to<n>discuss next steps. Then, on the\nway<n>home..."
+            "text": "After wrapping up the impromptu<n>concert, we take\nsome time to<n>discuss next steps. Then, on the way\nhome..."
         },
         {
             "name": "Light Hello",
@@ -185,18 +185,18 @@
         },
         {
             "name": "Light Hello",
-            "text": "I couldn't tell you what it takes to<n>make a concert\na success... or even<n>what a successful concert\nlooks like,<n>really.",
+            "text": "I couldn't tell you what it takes to<n>make a concert a\nsuccess... or even<n>what a successful concert looks\nlike,<n>really.",
             "choice_data_list": [
                 "Then what drew you to the Grand Concert?"
             ]
         },
         {
             "name": "Light Hello",
-            "text": "...I want to create something that<n><i>everyone</i> on\nstage can enjoy with<n>a smile."
+            "text": "...I want to create something that<n><i>everyone</i> on stage\ncan enjoy with a<n>smile."
         },
         {
             "name": "Light Hello",
-            "text": "Even those backstage, where no<n>spotlight\nshines..."
+            "text": "Even those backstage, where no<n>spotlight shines..."
         },
         {
             "name": "Light Hello",
@@ -208,15 +208,15 @@
         },
         {
             "name": "Light Hello",
-            "text": "Thank you for inviting me to share a<n>meal with\nyou! I'll get the bill."
+            "text": "Thank you for inviting me to share a<n>meal with you!\nI'll get the bill."
         },
         {
             "name": "Light Hello",
-            "text": "I know what I need to do now—study<n>up on how to\nmake a concert that'll<n>capture people's hearts,\nlike Falco<n>said!"
+            "text": "I know what I need to do now—study<n>up on how to\nmake a concert that'll<n>capture people's hearts, like\nFalco<n>said!"
         },
         {
             "name": "Monologue",
-            "text": "Before I can get a word in, Light Hello<n>pays the bill\nand dashes out of the<n>restaurant, still looking a\nlittle on edge."
+            "text": "Before I can get a word in, Light Hello<n>pays the bill\nand dashes out of the<n>restaurant, still looking a little\non edge."
         },
         {
             "name": "Monologue",
@@ -243,7 +243,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Hehehe... I look forward to the first<n>day of\nobservations. And on the big<n>day, I might like to\nbring <i>her</i> along<n>as well..."
+            "text": "Hehehe... I look forward to the first<n>day of\nobservations. And on the big<n>day, I might like to\nbring <i>her</i> along as<n>well..."
         },
         {
             "name": "Smart Falcon",
@@ -255,7 +255,7 @@
         },
         {
             "name": "Monologue",
-            "text": "All in all, preparations for our first<n>concert are\ngoing smoothly."
+            "text": "All in all, preparations for our first<n>concert are going\nsmoothly."
         }
     ]
 }

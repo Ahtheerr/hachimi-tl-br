@@ -6,7 +6,7 @@
         },
         {
             "name": "Special Week",
-            "text": "Uni, duni, duni, tê! ♪ Siga o mestre<n>onde ele for,\nseja no frio ou no calor,<n>escolha o lugar com\nmuito amor!",
+            "text": "Uni, duni, duni, tê! ♪ Siga o mestre<n>onde ele for, seja\nno frio ou no calor,<n>escolha o lugar com muito amor!",
             "choice_data_list": [
                 "Essa é uma rima bonitinha que você inventou."
             ]
@@ -17,7 +17,7 @@
         },
         {
             "name": "Special Week",
-            "text": "<i>Suspiro...</i> Acho que não adianta<n>tentar esconder\nque eu estava<n>cantando... Sabe, hoje é minha\nfolga,<n>então eu estava pensando no que<n>fazer."
+            "text": "<i>Suspiro...</i> Acho que não adianta tentar<n>esconder que\neu estava cantando...<n>Sabe, hoje é minha folga,\nentão eu<n>estava pensando no que fazer."
         },
         {
             "name": "Special Week",
@@ -25,20 +25,11 @@
         },
         {
             "name": "Special Week",
-            "text": "Estou tentada a sair para comer algo<n>gostoso,\nmas talvez eu devesse ir<n>dar uma corridinha..."
+            "text": "Estou tentada a sair para comer algo<n>gostoso, mas\ntalvez eu devesse ir<n>dar uma corridinha..."
         },
         {
             "name": "Special Week",
-            "text": "Lá em Hokkaido, o único lugar onde<n>eu podia ir\nnas folgas era na fazenda<n>vizinha, então não\nestou acostumada<n>a ter tantas opções. Ehehe."
-        },
-        {
-            "name": "Special Week",
-            "text": "O que você acha que eu deveria<n>fazer?",
-            "choice_data_list": [
-                "Você deveria se dar um mimo e comer algo\ngostoso.",
-                "Você deveria se dar um mimo e comer algo\ngostoso.",
-                "Vá a todos os lugares que passarem pela sua\ncabeça!"
-            ]
+            "text": "Lá em Hokkaido, o único lugar onde<n>eu podia ir nas\nfolgas era na fazenda<n>vizinha, então não estou\nacostumada<n>a ter tantas opções. Ehehe."
         },
         {
             "name": "Special Week",
@@ -51,7 +42,16 @@
         },
         {
             "name": "Special Week",
-            "text": "Você tem toda a razão! Certinho, vou<n>até a cidade\ne comer um monte!"
+            "text": "O que você acha que eu deveria<n>fazer?",
+            "choice_data_list": [
+                "Você deveria se dar um mimo e comer algo\ngostoso.",
+                "Você deveria se dar um mimo e comer algo\ngostoso.",
+                "Vá a todos os lugares que passarem pela sua\ncabeça!"
+            ]
+        },
+        {
+            "name": "Special Week",
+            "text": "Você tem toda a razão! Certinho, vou<n>até a cidade e\ncomer um monte!"
         },
         {
             "name": "Special Week",
@@ -59,11 +59,11 @@
         },
         {
             "name": "Special Week",
-            "text": "Hambúrguer de carne ou lámen... Uni,<n>duni, duni,\ntê..."
+            "text": "Hambúrguer de carne ou lámen... Uni,<n>duni, duni, tê..."
         },
         {
             "name": "Special Week",
-            "text": "Oh, essa também é uma opção! Acho<n>que morar\nna cidade significa que eu<n>*posso* aproveitar ao\nmáximo e<n>fazer algo assim!"
+            "text": "Oh, essa também é uma opção! Acho<n>que morar na\ncidade significa que eu<n>*posso* aproveitar ao\nmáximo e<n>fazer algo assim!"
         },
         {
             "name": "Special Week",
@@ -79,7 +79,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "E com isso, Special Week sai<n>correndo com\nalegria."
+            "text": "E com isso, Special Week sai<n>correndo com alegria."
         }
     ]
 }

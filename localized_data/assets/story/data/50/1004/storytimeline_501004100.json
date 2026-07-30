@@ -13,7 +13,7 @@
         },
         {
             "name": "Repórter A",
-            "text": "Maruzensky, é verdade que os<n>preparativos para\na sua corrida de<n>estreia estão a todo vapor?"
+            "text": "Maruzensky, é verdade que os<n>preparativos para a\nsua corrida de<n>estreia estão a todo vapor?"
         },
         {
             "name": "Repórter B",
@@ -28,11 +28,11 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Não quero deixar meu treinador<n>esperando, então\nvou ter que<n>encerrar a entrevista por aqui.\nObrigada!"
+            "text": "Não quero deixar meu treinador<n>esperando, então\nvou ter que<n>encerrar a entrevista por aqui.<n>Obrigada!"
         },
         {
             "name": "Maruzensky",
-            "text": "Não quero deixar meu treinador<n>esperando, então\nvou ter que<n>encerrar a entrevista por aqui.\nObrigada!"
+            "text": "Não quero deixar meu treinador<n>esperando, então\nvou ter que<n>encerrar a entrevista por aqui.<n>Obrigada!"
         },
         {
             "name": "Repórter A",
@@ -44,7 +44,7 @@
         },
         {
             "name": "Repórter A",
-            "text": "Bem, parece que esta Twinkle Series<n>vai ficar\n<I>muito</I> interessante!",
+            "text": "Bem, parece que esta Twinkle Series<n>vai ficar <I>muito</I>\ninteressante!",
             "color_text_info_list": [
                 "Twinkle Series"
             ]
@@ -59,7 +59,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "O interesse deles na Maruzensky<n>antes mesmo\nda estreia mostra como<n>as expectativas em cima\ndela são<n>altas.",
+            "text": "O interesse deles na Maruzensky<n>antes mesmo da\nestreia mostra como<n>as expectativas em cima dela\nsão<n>altas.",
             "choice_data_list": [
                 "Esperam grandes coisas de você.",
                 "Esperam grandes coisas de você."
@@ -87,7 +87,7 @@
         },
         {
             "name": "Maruzensky",
-            "text": "O vento está uma delícia... Beleza, vou<n>engatar\numa marcha mais alta!"
+            "text": "O vento está uma delícia... Beleza, vou<n>engatar uma\nmarcha mais alta!"
         },
         {
             "name": "Monólogo",
@@ -122,7 +122,7 @@
         },
         {
             "name": "Jovem Umamusume A",
-            "text": "Hum... Será que a gente podia...<n>treinar junto\nalgum dia? Eu quero<n>correr super-rápido, igual\nvocê!"
+            "text": "Hum... Será que a gente podia...<n>treinar junto algum\ndia? Eu quero<n>correr super-rápido, igual você!"
         },
         {
             "name": "Jovem Umamusume A",
@@ -133,7 +133,7 @@
         },
         {
             "name": "Jovem Umamusume B",
-            "text": "E eu quero vencer o Arima Kinen!<n>Então, por\nfavor, corre comigo!",
+            "text": "E eu quero vencer o Arima Kinen!<n>Então, por favor,\ncorre comigo!",
             "color_text_info_list": [
                 "Arima Kinen"
             ]
@@ -238,9 +238,9 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Está só começando a pegar, então<n>não tem\nmuitas lojas que servem!",
+            "text": "Está só começando a pegar, então<n>não tem muitas\nlojas que servem!",
             "choice_data_list": [
-                "Isso não quer dizer que ele simplesmente... <i>não</i>\né popular?"
+                "Isso não quer dizer que ele simplesmente... <i>não</i> é\npopular?"
             ]
         },
         {
@@ -253,7 +253,7 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Eu sempre acompanho as últimas<n>ondas, então\nsei o que está na crista<n>e o que já era!"
+            "text": "Eu sempre acompanho as últimas<n>ondas, então sei\no que está na crista<n>e o que já era!"
         },
         {
             "name": "Maruzensky",
@@ -261,7 +261,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "E assim, Maruzensky, com seus<n>instintos\nbrilhantes de corrida — e seu<n>duvidoso\nconhecimento de<n>tendências — começa seu\npróximo<n>desafio!"
+            "text": "E assim, Maruzensky, com seus<n>instintos\nbrilhantes de corrida — e seu<n>duvidoso\nconhecimento de<n>tendências — começa seu próximo\ndesafio!"
         }
     ]
 }

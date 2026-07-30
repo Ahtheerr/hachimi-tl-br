@@ -6,7 +6,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Arf, arf...</i> Eu não acredito nisso!<n>Como você não\ntá mais cansada?!"
+            "text": "<i>Arf, arf...</i> Eu não acredito nisso! Como<n>você não tá\nmais cansada?!"
         },
         {
             "name": "Daiwa Scarlet",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Vodka sai por cima. A rivalidade entre<n>as duas\nestá ainda mais intensa do<n>que na primavera."
+            "text": "Vodka sai por cima. A rivalidade entre<n>as duas está\nainda mais intensa do<n>que na primavera."
         },
         {
             "name": "Vodka",
@@ -34,15 +34,15 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "É, foi <i>mesmo</i> sem graça! Mas eu<n>fiz cada coisa\nsem graça que<n>precisava pra chegar até aqui!"
+            "text": "É, foi <i>mesmo</i> sem graça! Mas eu fiz<n>cada coisa\nsem graça que precisava<n>pra chegar até aqui!"
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Essa</i> é a minha arma. É algo que<n>você não tem\ne nunca vai ter."
+            "text": "<i>Essa</i> é a minha arma. É algo que<n>você não tem e\nnunca vai ter."
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Vou continuar afiando essa arma até<n>derrotar\nvocê!"
+            "text": "Vou continuar afiando essa arma até<n>derrotar você!"
         },
         {
             "name": "Vodka",
@@ -100,11 +100,11 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Hmph. Até lá, vou estar ainda mais<n>forte. Vejo\nvocê lá!"
+            "text": "Hmph. Até lá, vou estar ainda mais<n>forte. Vejo você\nlá!"
         },
         {
             "name": "Monólogo",
-            "text": "Daiwa Scarlet pode ter perdido, mas<n>vai embora\nde cabeça erguida."
+            "text": "Daiwa Scarlet pode ter perdido, mas<n>vai embora de\ncabeça erguida."
         },
         {
             "name": "Vodka",
@@ -112,7 +112,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Quando eu compito com ela, eu me<n>jogo de\ncabeça e esqueço todo o<n>resto.",
+            "text": "Quando eu compito com ela, eu me<n>jogo de cabeça\ne esqueço todo o<n>resto.",
             "choice_data_list": [
                 "Mas ela tá ficando bem mais forte.",
                 "Mas ela tá ficando bem mais forte."
@@ -135,7 +135,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Sinto que vou aprender algo<n>importante lá. Algo\npra minha versão<n>do futuro.",
+            "text": "Sinto que vou aprender algo<n>importante lá. Algo pra\nminha versão<n>do futuro.",
             "choice_data_list": [
                 "Sim. Vamos para o Arima Kinen."
             ]
@@ -146,7 +146,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Mas dá pra ver que ela vai vir com<n>tudo este ano.\nE se ela vai vir quente,<n>então eu tenho que\nresponder à<n>altura!"
+            "text": "Mas dá pra ver que ela vai vir com<n>tudo este ano. E\nse ela vai vir quente,<n>então eu tenho que responder\nà<n>altura!"
         }
     ]
 }

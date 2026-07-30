@@ -37,11 +37,11 @@
         },
         {
             "name": "Haru Urara",
-            "text": "E também \"Eu quero comer cenouras<n>gostosas!\"\ne \"Eu quero ficar em<n>primeiro lugar um montão!\""
+            "text": "E também \"Eu quero comer cenouras<n>gostosas!\" e\n\"Eu quero ficar em<n>primeiro lugar um montão!\""
         },
         {
             "name": "Haru Urara",
-            "text": "Eu quero ficar muito rápida! e \"Eu<n>quero ficar\nmuito forte!\" e \"Eu quero<n>me divertir muito!\" e...",
+            "text": "Eu quero ficar muito rápida! e \"Eu<n>quero ficar muito\nforte!\" e \"Eu quero<n>me divertir muito!\" e...",
             "choice_data_list": [
                 "Que tal você escolher só um para escrever?"
             ]
@@ -65,7 +65,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Ah! A saúde vem <i>mesmo</i> em<n>primeiro lugar! Eu\nnão posso correr<n>se não estiver me sentindo bem!"
+            "text": "Ah! A saúde vem <i>mesmo</i> em primeiro<n>lugar! Eu não\nposso correr se não<n>estiver me sentindo bem!"
         },
         {
             "name": "Haru Urara",
@@ -93,7 +93,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Na verdade, eu sei como subir de<n>nível! Eu vi na\nTV!",
+            "text": "Na verdade, eu sei como subir de<n>nível! Eu vi na TV!",
             "choice_data_list": [
                 "Pode me mostrar?",
                 "Pode me mostrar?"
@@ -121,7 +121,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Bem, talvez uma quantidade modesta<n>de\nautoilusão tenha as suas<n>utilidades. Vou só deixar\nela brincar."
+            "text": "Bem, talvez uma quantidade modesta<n>de autoilusão\ntenha as suas<n>utilidades. Vou só deixar ela brincar."
         },
         {
             "name": "Haru Urara",
@@ -148,7 +148,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Entendi! Eu vou ser uma profissional<n>das pistas\nde corrida!"
+            "text": "Entendi! Eu vou ser uma profissional<n>das pistas de\ncorrida!"
         },
         {
             "name": "Monólogo",
@@ -187,7 +187,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Você quer dizer que eu tenho que<n>começar a\ntreinar <i>agora</i> se eu<n>quiser competir?",
+            "text": "Você quer dizer que eu tenho que<n>começar a treinar\n<i>agora</i> se eu quiser<n>competir?",
             "choice_data_list": [
                 "Você não tem a menor chance de ganhar se não\nlevar o seu treinamento a sério.",
                 "Você não tem a menor chance de ganhar se não\nlevar o seu treinamento a sério."
@@ -195,7 +195,7 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Eu <i>tô</i> levando a sério! Eu tô<n>sempre correndo o\nmeu máximo,<n>sabia!"
+            "text": "Eu <i>tô</i> levando a sério! Eu tô sempre<n>correndo o\nmeu máximo, sabia!"
         },
         {
             "name": "Haru Urara",
@@ -207,7 +207,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Até agora ela só tem corrido por<n>diversão, mas\nagora os resultados<n>realmente vão ser\nimportantes se ela<n>quiser se classificar para as\ncorridas<n>de grau.",
+            "text": "Até agora ela só tem corrido por<n>diversão, mas\nagora os resultados<n>realmente vão ser importantes\nse ela<n>quiser se classificar para as corridas<n>de grau.",
             "color_text_info_list": [
                 "corridas de grau"
             ]

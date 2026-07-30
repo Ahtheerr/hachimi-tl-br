@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Certo dia, levo <chrname> à<n>enfermaria\npara um check-up."
+            "text": "Certo dia, levo <chrname> à enfermaria para um<n>check-up."
         },
         {
             "name": "???",
@@ -17,7 +17,7 @@
         },
         {
             "name": "???",
-            "text": "Bem, considerando que você está na<n>enfermaria\nda academia, eu diria que<n>isso me torna sua\nconfiável<n>enfermeira escolar! Isso mesmo, só\numa funcionária comum da escola!",
+            "text": "Bem, considerando que você está na<n>enfermaria da\nacademia, eu diria que<n>isso me torna sua confiável\nenfermeira escolar! Isso mesmo, só<n>uma\nfuncionária comum da escola!",
             "choice_data_list": [
                 "...Não, você não é?"
             ]
@@ -36,7 +36,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "A única e inigualável Sasami<n>Anshinzawa! Viu?\nSem preocupação!<n>☆",
+            "text": "A única e inigualável Sasami<n>Anshinzawa! Viu? Sem\npreocupação!<n>☆",
             "choice_data_list": [
                 "..."
             ],
@@ -54,7 +54,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Não importa! Não importa! Já nos<n>apresentamos,\nentão deite-se e deixe<n>minhas agulhas\ntrabalharem!"
+            "text": "Não importa! Não importa! Já nos<n>apresentamos,\nentão deite-se e deixe<n>minhas agulhas trabalharem!"
         },
         {
             "name": "Maruzensky",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Hahaha! Não precisa ter medo! Tudo<n>que vou\nfazer é inserir estas agulhas<n>extraordinárias\nprecisamente em<n>seus pontos de chakra."
+            "text": "Hahaha! Não precisa ter medo! Tudo<n>que vou fazer\né inserir estas agulhas<n>extraordinárias\nprecisamente em<n>seus pontos de chakra."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -99,7 +99,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Não tem a menor chance de fazermos<n>isso. Pego\n<chrname> e sigo<n>para a porta, quando..."
+            "text": "Não tem a menor chance de fazermos<n>isso. Pego <chrname> e\nsigo para a porta,<n>quando..."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -138,7 +138,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Tenho <i>certeza</i> de que não vou<n>fazer besteira!"
+            "text": "Tenho <i>certeza</i> de que não vou fazer<n>besteira!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -184,7 +184,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Certo, deixe comigo! Hora de localizar<n>esse\nchakra! Cadê, cadê, achou!"
+            "text": "Certo, deixe comigo! Hora de localizar<n>esse chakra!\nCadê, cadê, achou!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -212,7 +212,7 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Estou pirando na batatinha aqui! Meu<n>corpo está\nforte pra chuchu! Sinto que<n>posso bater um\nrecorde imbatível!"
+            "text": "Estou pirando na batatinha aqui! Meu<n>corpo está\nforte pra chuchu! Sinto que<n>posso bater um recorde\nimbatível!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -224,7 +224,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "<chrname> está<n>transbordando de tanto\npoder que<n>está quase irreconhecível!"
+            "text": "<chrname> está transbordando de tanto poder<n>que está quase\nirreconhecível!"
         },
         {
             "name": "Monólogo",
@@ -244,7 +244,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "A condição de <chrname><n>piora\nrapidamente."
+            "text": "A condição de <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -272,7 +272,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Certo, deixe comigo! Hora de localizar<n>esse\nchakra! Cadê, cadê, achou!"
+            "text": "Certo, deixe comigo! Hora de localizar<n>esse chakra!\nCadê, cadê, achou!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -300,7 +300,7 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Estou pirando na batatinha aqui! Meu<n>corpo está\nforte pra chuchu! Sinto que<n>posso bater um\nrecorde imbatível!"
+            "text": "Estou pirando na batatinha aqui! Meu<n>corpo está\nforte pra chuchu! Sinto que<n>posso bater um recorde\nimbatível!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -312,7 +312,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Consigo sentir uma enorme melhora<n>nas\nhabilidades de<n><chrname>!"
+            "text": "Consigo sentir uma enorme melhora<n>nas\nhabilidades de <chrname>!"
         },
         {
             "name": "Monólogo",
@@ -332,7 +332,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "A condição de <chrname><n>piora\nrapidamente."
+            "text": "A condição de <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -360,7 +360,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Certo, deixe comigo! Hora de localizar<n>esse\nchakra! Cadê, cadê, achou!"
+            "text": "Certo, deixe comigo! Hora de localizar<n>esse chakra!\nCadê, cadê, achou!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -388,7 +388,7 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Estou pirando na batatinha aqui! Meu<n>corpo está\nforte pra chuchu! Sinto que<n>posso bater um\nrecorde imbatível!"
+            "text": "Estou pirando na batatinha aqui! Meu<n>corpo está\nforte pra chuchu! Sinto que<n>posso bater um recorde\nimbatível!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -400,7 +400,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "O corpo inteiro de <chrname><n>está\nirradiando um brilho saudável!<n>Ela é a própria\nimagem da saúde!"
+            "text": "O corpo inteiro de <chrname> está irradiando um<n>brilho\nsaudável! Ela é a própria<n>imagem da saúde!"
         },
         {
             "name": "Monólogo",
@@ -420,7 +420,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "A condição de <chrname><n>piora\nrapidamente."
+            "text": "A condição de <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -448,7 +448,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Certo, deixe comigo! Hora de localizar<n>esse\nchakra! Cadê, cadê, achou!"
+            "text": "Certo, deixe comigo! Hora de localizar<n>esse chakra!\nCadê, cadê, achou!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -476,11 +476,11 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Estou pirando na batatinha aqui! Meu<n>corpo está\nforte pra chuchu! Sinto que<n>posso bater um\nrecorde imbatível!"
+            "text": "Estou pirando na batatinha aqui! Meu<n>corpo está\nforte pra chuchu! Sinto que<n>posso bater um recorde\nimbatível!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "<i>Ah...</i> Só pode ser brincadeira...<n>Funcionou\nmesmo?!"
+            "text": "<i>Ah...</i> Só pode ser brincadeira...<n>Funcionou mesmo?!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -488,7 +488,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "<chrname> está<n>transbordando charme!\nEla com<n>certeza vai virar cabeças por onde\npassar!"
+            "text": "<chrname> está transbordando charme! Ela com<n>certeza vai\nvirar cabeças por onde<n>passar!"
         },
         {
             "name": "Monólogo",
@@ -508,7 +508,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "A condição de <chrname><n>piora\nrapidamente."
+            "text": "A condição de <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -532,7 +532,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> processados!"
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores <i>serão</i>\nprocessados!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -548,11 +548,11 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Uau, ela pisou fundo para sair daqui.<n>Eu meio que\nqueria perguntar onde<n>ela comprou aquele\nvestido..."
+            "text": "Uau, ela pisou fundo para sair daqui.<n>Eu meio que\nqueria perguntar onde<n>ela comprou aquele vestido..."
         },
         {
             "name": "Maruzensky",
-            "text": "Bem, não dá nada! Podemos cuidar<n>do nosso\ntreino—<i>e</i> das nossas<n>compras de roupa—por\nconta própria!",
+            "text": "Bem, não dá nada! Podemos cuidar<n>do nosso\ntreino—<i>e</i> das nossas<n>compras de roupa—por conta\nprópria!",
             "choice_data_list": [
                 "Concordo.",
                 "Concordo."
@@ -568,7 +568,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Então vá em frente e me diga qual<n>chakra quer\nque eu ative!"
+            "text": "Então vá em frente e me diga qual<n>chakra quer que\neu ative!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -576,7 +576,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> processados!"
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores <i>serão</i>\nprocessados!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -596,7 +596,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "O que foi aquilo? <chrname><n>e eu nos\nolhamos, perplexos."
+            "text": "O que foi aquilo? <chrname> e eu nos olhamos,<n>perplexos."
         }
     ]
 }

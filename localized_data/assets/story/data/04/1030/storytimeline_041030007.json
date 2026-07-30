@@ -6,14 +6,14 @@
         },
         {
             "name": "Rice Shower",
-            "text": "<i>Arf, arf...</i> <i>Arf, arf...</i> Maninho,<n>como foi o meu tempo?",
+            "text": "<i>Arf, arf...</i> <i>Arf, arf...</i> Maninho, como foi<n>o meu tempo?",
             "choice_data_list": [
                 "Com certeza está melhorando, mas..."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "<i>Arf, arf...</i> <i>Arf, arf...</i> Maninha,<n>como foi o meu tempo?",
+            "text": "<i>Arf, arf...</i> <i>Arf, arf...</i> Maninha, como foi<n>o meu tempo?",
             "choice_data_list": [
                 "Com certeza está melhorando, mas...",
                 "Com certeza está melhorando, mas..."
@@ -140,7 +140,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "E quando penso nesse sonho, eu não<n>consigo me conter. Não posso desistir<n>— eu tenho que correr — não, eu<n><i>quero</i> continuar correndo!"
+            "text": "E quando penso nesse sonho, eu não<n>consigo me conter. Não posso desistir<n>— eu tenho que correr — não, eu <i>quero</i><n>continuar correndo!"
         },
         {
             "name": "Short Umamusume",

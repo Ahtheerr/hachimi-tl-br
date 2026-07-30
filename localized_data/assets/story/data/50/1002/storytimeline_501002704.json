@@ -80,8 +80,8 @@
             "text": "O que acha?",
             "choice_data_list": [
                 "Estou muito feliz. Obrigado.",
-                "A neve da sua cidade natal também deve ser\nmuito bonita, então.",
-                "A neve da sua cidade natal também deve ser\nmuito bonita, então.",
+                "A neve da sua cidade natal também deve ser muito\nbonita, então.",
+                "A neve da sua cidade natal também deve ser muito\nbonita, então.",
                 "Posso ligar?"
             ]
         },
@@ -90,8 +90,8 @@
             "text": "O que acha?",
             "choice_data_list": [
                 "Estou muito feliz. Obrigado.",
-                "A neve da sua cidade natal também deve ser\nmuito bonita, então.",
-                "A neve da sua cidade natal também deve ser\nmuito bonita, então.",
+                "A neve da sua cidade natal também deve ser muito\nbonita, então.",
+                "A neve da sua cidade natal também deve ser muito\nbonita, então.",
                 "Posso ligar?"
             ]
         },
@@ -121,7 +121,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Vou me certificar de exibir esse<n>pequeno pedaço\nde paisagem de<n>inverno em um lugar de destaque\nno<n>meu quarto."
+            "text": "Vou me certificar de exibir esse<n>pequeno pedaço de\npaisagem de<n>inverno em um lugar de destaque no\nmeu quarto."
         },
         {
             "name": "Silence Suzuka",
@@ -129,7 +129,7 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "É tão tranquilo com a neve acumulada<n>por todos\nos lados. Parece que você<n>foi sugado para um\nmundo novo."
+            "text": "É tão tranquilo com a neve acumulada<n>por todos os\nlados. Parece que você<n>foi sugado para um mundo\nnovo."
         },
         {
             "name": "Silence Suzuka",
@@ -144,11 +144,11 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "Com certeza. Tenho certeza de que a<n>paisagem\npareceria ainda mais bonita<n>com você ao meu\nlado."
+            "text": "Com certeza. Tenho certeza de que a<n>paisagem\npareceria ainda mais bonita<n>com você ao meu lado."
         },
         {
             "name": "Monólogo",
-            "text": "Silence Suzuka descreve sua cidade<n>natal\nenquanto contempla a paisagem<n>de inverno em\nminiatura."
+            "text": "Silence Suzuka descreve sua cidade<n>natal enquanto\ncontempla a paisagem<n>de inverno em miniatura."
         },
         {
             "name": "Silence Suzuka",
@@ -160,7 +160,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "O globo de neve se ilumina enquanto<n>flocos de\nneve em pó dançam ao<n>redor dos dois bonecos\nde neve lá<n>dentro."
+            "text": "O globo de neve se ilumina enquanto<n>flocos de\nneve em pó dançam ao<n>redor dos dois bonecos de\nneve lá<n>dentro."
         },
         {
             "name": "Silence Suzuka",

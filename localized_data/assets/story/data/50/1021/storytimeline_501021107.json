@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "É o Dia de São Valentim — um evento<n>modesto\nonde você dá chocolate para<n>uma pessoa\nimportante para você."
+            "text": "É o Dia de São Valentim — um evento<n>modesto onde\nvocê dá chocolate para<n>uma pessoa importante\npara você."
         },
         {
             "name": "Tamamo Cross",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "Não é feito à mão, mas eu pelo<n>menos comprei\nuns chocolate<n>\"Relâmpago Branco\" na lojinha de\num real. Quer dizer, eles <i>são</i> bons."
+            "text": "Não é feito à mão, mas eu pelo<n>menos comprei uns\nchocolate<n>\"Relâmpago Branco\" na lojinha de<n>um\nreal. Quer dizer, eles <i>são</i> bons."
         },
         {
             "name": "Tamamo Cross",
@@ -136,11 +136,11 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "Ei, Treinador. Se ocê quiser mesmo<n>fazer algo\npara o White Day..."
+            "text": "Ei, Treinador. Se ocê quiser mesmo<n>fazer algo para\no White Day..."
         },
         {
             "name": "Tamamo Cross",
-            "text": "Poderia retribuir o favor para os<n>pivetes lá em\ncasa, em vez disso?",
+            "text": "Poderia retribuir o favor para os<n>pivetes lá em casa,\nem vez disso?",
             "choice_data_list": [
                 "Quer dizer seu irmão e irmã?"
             ]
@@ -173,7 +173,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Enquanto fazemos nossa pequena<n>promessa,\nsinto a confiança entre<n>nós crescendo ainda mais."
+            "text": "Enquanto fazemos nossa pequena<n>promessa, sinto\na confiança entre<n>nós crescendo ainda mais."
         }
     ]
 }

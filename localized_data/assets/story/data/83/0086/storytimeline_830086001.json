@@ -6,7 +6,7 @@
         },
         {
             "name": "Narita Top Road",
-            "text": "<i>Pant... Pant...</i> That was terrible! But<n>I'm not\ngiving up yet! Okay, one more<n>time!",
+            "text": "<i>Pant... Pant...</i> That was terrible! But<n>I'm not giving up\nyet! Okay, one more<n>time!",
             "choice_data_list": [
                 "(She's really working hard!)"
             ]
@@ -51,14 +51,14 @@
         },
         {
             "name": "Classmate A",
-            "text": "S-sorry! I was in such a rush that I<n>forgot to\nexplain the situation...",
+            "text": "S-sorry! I was in such a rush that I<n>forgot to explain\nthe situation...",
             "choice_data_list": [
                 "And here I thought something terrible had\nhappened..."
             ]
         },
         {
             "name": "Classmate A",
-            "text": "But this <i>is</i> terrible, and we need<n>your help!\nPlease help us study!<n>We're done for otherwise!"
+            "text": "But this <i>is</i> terrible, and we need your<n>help! Please\nhelp us study! We're<n>done for otherwise!"
         },
         {
             "name": "Monologue",
@@ -77,7 +77,7 @@
         },
         {
             "name": "Narita Top Road",
-            "text": "Anyway, I'd be happy to help with<n>your studies.\nI'm a strict teacher,<n>though, so be prepared to\nwork hard!"
+            "text": "Anyway, I'd be happy to help with<n>your studies.\nI'm a strict teacher,<n>though, so be prepared to work\nhard!"
         },
         {
             "name": "Classmates",
@@ -131,7 +131,7 @@
         },
         {
             "name": "Narita Top Road",
-            "text": "Ahaha. All I did was help. You're the<n>ones who\nput in all the work!",
+            "text": "Ahaha. All I did was help. You're the<n>ones who put\nin all the work!",
             "choice_data_list": [
                 "You're so modest.",
                 "You're so modest."
@@ -139,7 +139,7 @@
         },
         {
             "name": "Classmate B",
-            "text": "Oh, hi! And yeah, she really is! Top<n>Road's so\ngood at everything—school,<n>dancing, races... but\nshe's so humble<n>about it!"
+            "text": "Oh, hi! And yeah, she really is! Top<n>Road's so good\nat everything—school,<n>dancing, races... but she's so\nhumble<n>about it!"
         },
         {
             "name": "Narita Top Road",
@@ -151,7 +151,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Narita Top Road smiles brightly. She's<n>the picture\nof a model student!"
+            "text": "Narita Top Road smiles brightly. She's<n>the picture of\na model student!"
         }
     ]
 }

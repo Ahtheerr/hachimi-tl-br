@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Diretora Akikawa",
-            "text": "Attention! I hereby announce the<n>commencement\nof the Tracen<n>Concentration Card Game Tourney!\nThe grand prize is one coupon for a<n>special meat\nlover's course, brought<n>to you by the cafeteria\nstaff!"
+            "text": "Attention! I hereby announce the<n>commencement of\nthe Tracen<n>Concentration Card Game Tourney!<n>The\ngrand prize is one coupon for a<n>special meat\nlover's course, brought<n>to you by the cafeteria\nstaff!"
         },
         {
             "name": "Biwa Hayahide",
@@ -18,7 +18,7 @@
         },
         {
             "name": "El Condor Pasa",
-            "text": "Hey, Spe! After you win, we're gonna<n>throw a\nmeat fiesta to make up for<n>the meal you missed!"
+            "text": "Hey, Spe! After you win, we're gonna<n>throw a meat\nfiesta to make up for<n>the meal you missed!"
         },
         {
             "name": "Special Week",
@@ -34,7 +34,7 @@
         },
         {
             "name": "Nakayama Festa",
-            "text": "...Or maybe she's just crazy focused<n>from\nhunger.",
+            "text": "...Or maybe she's just crazy focused<n>from hunger.",
             "choice_data_list": [
                 "Oh, it's you...",
                 "Oh, it's you..."
@@ -42,11 +42,11 @@
         },
         {
             "name": "Nakayama Festa",
-            "text": "Ah, you're that trainer from the other<n>day. Sorry,\nbut spare me the small<n>talk."
+            "text": "Ah, you're that trainer from the other<n>day. Sorry, but\nspare me the small<n>talk."
         },
         {
             "name": "Nakayama Festa",
-            "text": "<i>I'm</i> up against Spe next. And the<n>round's about\nto start, so..."
+            "text": "<i>I'm</i> up against Spe next. And the<n>round's about to\nstart, so..."
         },
         {
             "name": "Commentator",
@@ -86,7 +86,7 @@
         },
         {
             "name": "Commentator",
-            "text": "What a shocker! Special Week has<n>failed to match\nthe cards for the first<n>time today! What happened\nto all that<n>momentum from earlier?"
+            "text": "What a shocker! Special Week has<n>failed to match\nthe cards for the first<n>time today! What happened to\nall that<n>momentum from earlier?"
         },
         {
             "name": "Special Week",
@@ -98,11 +98,11 @@
         },
         {
             "name": "Special Week",
-            "text": "<i>Groan...</i> Thank you. <i>Sigh...</i><n>What's going on?"
+            "text": "<i>Groan...</i> Thank you. <i>Sigh...</i> What's<n>going on?"
         },
         {
             "name": "Monólogo",
-            "text": "In the end, Special Week is unable to<n>get back in\nthe groove."
+            "text": "In the end, Special Week is unable to<n>get back in the\ngroove."
         },
         {
             "name": "Monólogo",
@@ -136,7 +136,7 @@
         },
         {
             "name": "Nakayama Festa",
-            "text": "That's right. You're as stubborn as<n>they come,\naren't ya? ...Fine. Listen<n>up, 'cause I'm only\ngonna explain<n>this once."
+            "text": "That's right. You're as stubborn as<n>they come,\naren't ya? ...Fine. Listen<n>up, 'cause I'm only gonna\nexplain<n>this once."
         },
         {
             "name": "Nakayama Festa",
@@ -151,19 +151,19 @@
         },
         {
             "name": "Special Week",
-            "text": "You know, like, \"Meat... I want to eat<n>meat...\"\nYadda, yadda."
+            "text": "You know, like, \"Meat... I want to eat<n>meat...\" Yadda,\nyadda."
         },
         {
             "name": "Nakayama Festa",
-            "text": "Now, I dunno if it was on purpose or<n>not, but El\nmentioned Spe had missed<n>a meal. I bet she\nhadn't eaten since<n>breakfast. She must've been\nstarvin'."
+            "text": "Now, I dunno if it was on purpose or<n>not, but El\nmentioned Spe had missed<n>a meal. I bet she hadn't\neaten since<n>breakfast. She must've been<n>starvin'."
         },
         {
             "name": "Nakayama Festa",
-            "text": "As she got hungrier and hungrier, her<n>gut instincts\ngot sharper and sharper.<n>That's exactly what led\nto her bout of<n>good luck."
+            "text": "As she got hungrier and hungrier, her<n>gut instincts\ngot sharper and sharper.<n>That's exactly what led to\nher bout of<n>good luck."
         },
         {
             "name": "Nakayama Festa",
-            "text": "So I think to myself, what if we were<n>to take care\nof that hunger? With, say,<n>I dunno... a piece of\ncandy."
+            "text": "So I think to myself, what if we were<n>to take care of\nthat hunger? With, say,<n>I dunno... a piece of candy."
         },
         {
             "name": "Nakayama Festa",
@@ -175,7 +175,7 @@
         },
         {
             "name": "Nakayama Festa",
-            "text": "Relyin' on luck is for suckers.<n>Sometimes you\ngotta use your<n>noggin."
+            "text": "Relyin' on luck is for suckers.<n>Sometimes you gotta\nuse your<n>noggin."
         }
     ]
 }

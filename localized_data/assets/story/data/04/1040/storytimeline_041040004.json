@@ -62,7 +62,7 @@
         },
         {
             "name": "Gold City",
-            "text": "...E foi aí que a ficha caiu. Isso —<n><i>isso</i> sou eu."
+            "text": "...E foi aí que a ficha caiu. Isso — <i>isso</i><n>sou eu."
         },
         {
             "name": "Gold City",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Gold City",
-            "text": "Então eu vim para a Academia<n>Tracen. Para correr e correr, e me<n>tornar eu mesma. Para gravar a <i>eu</i><n>de verdade na memória de todo<n>mundo."
+            "text": "Então eu vim para a Academia<n>Tracen. Para correr e correr, e me<n>tornar eu mesma. Para gravar a <i>eu</i> de<n>verdade na memória de todo mundo."
         },
         {
             "name": "Gold City",
@@ -187,7 +187,7 @@
         },
         {
             "name": "Gold City",
-            "text": "Aquele <i>não</i> é o meu sonho! Não<n>mais — eu já desisti!"
+            "text": "Aquele <i>não</i> é o meu sonho! Não mais<n>— eu já desisti!"
         },
         {
             "name": "Gold City",
@@ -213,8 +213,8 @@
             "name": "Gold City",
             "text": "Por que eu não consigo<n>simplesmente... apertar em apagar?",
             "choice_data_list": [
-                "Você não precisa jogar fora a \"você\" de verdade.",
-                "Você não precisa jogar fora a \"você\" de verdade."
+                "Você não precisa jogar fora a \"você\" de\nverdade.",
+                "Você não precisa jogar fora a \"você\" de\nverdade."
             ]
         },
         {
@@ -243,7 +243,7 @@
         },
         {
             "name": "Gold City",
-            "text": "Mas eu juro, se me tratar como uma<n>boneca <i>uma vez sequer</i>, eu te<n>chuto tão forte que você vai se<n>arrepender de ter falado comigo!",
+            "text": "Mas eu juro, se me tratar como uma<n>boneca <i>uma vez sequer</i>, eu te chuto<n>tão forte que você vai se arrepender<n>de ter falado comigo!",
             "choice_data_list": [
                 "Combinado!"
             ]

@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Tamamo Cross cruza a linha de<n>chegada da sua\nestreia sem<n>problemas. Depois da corrida,\nporém..."
+            "text": "Tamamo Cross cruza a linha de<n>chegada da sua\nestreia sem<n>problemas. Depois da corrida,<n>porém..."
         },
         {
             "name": "Tamamo Cross",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "Qual foi, corridas de nível júnior não<n>deviam\nacabar comigo desse jeito...<n>Por que eu tô tão...\nzonza?",
+            "text": "Qual foi, corridas de nível júnior não<n>deviam acabar\ncomigo desse jeito...<n>Por que eu tô tão... zonza?",
             "choice_data_list": [
                 "Tamamo Cross!"
             ]
@@ -21,9 +21,9 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "N-não é nada demais. Só tô um<n>pouquinho\ncansada, só isso.",
+            "text": "N-não é nada demais. Só tô um<n>pouquinho cansada,\nsó isso.",
             "choice_data_list": [
-                "Tem certeza de que não foi porque você não\ncomeu o suficiente?"
+                "Tem certeza de que não foi porque você não comeu\no suficiente?"
             ]
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "...Eu sempre fazia questão de deixar<n>os\npirralhinhos comerem primeiro,<n>então meu\nestômago acabou<n>diminuindo."
+            "text": "...Eu sempre fazia questão de deixar<n>os pirralhinhos\ncomerem primeiro,<n>então meu estômago acabou\ndiminuindo."
         },
         {
             "name": "Tamamo Cross",
@@ -83,11 +83,11 @@
         },
         {
             "name": "Tamamo Cross",
-            "text": "Não se preocupa com isso. Posso não<n>ser\nchegada numa boa comida, mas<n>minhas tripas\nvieram direto de<n>Naniwa!"
+            "text": "Não se preocupa com isso. Posso não<n>ser chegada\nnuma boa comida, mas<n>minhas tripas vieram direto\nde<n>Naniwa!"
         },
         {
             "name": "Tamamo Cross",
-            "text": "E o próximo lugar pra onde eu quero<n>levar essas\ntripas é uma G1! Que tal<n>a gente tentar o Hopeful\nStakes ou<n>algo assim? Preciso mostrar pro\npessoal lá de casa o quanto eu já<n>avancei!",
+            "text": "E o próximo lugar pra onde eu quero<n>levar essas\ntripas é uma G1! Que tal<n>a gente tentar o Hopeful\nStakes ou<n>algo assim? Preciso mostrar pro<n>pessoal\nlá de casa o quanto eu já<n>avancei!",
             "choice_data_list": [
                 "É uma bela ambição, mas não acho que deva ser\nnosso objetivo agora..."
             ],
@@ -178,7 +178,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "E assim, decidimos acumular<n>experiência nas\ncorridas de forma<n>lenta, mas constante, entre\nagora e a<n>próxima primavera."
+            "text": "E assim, decidimos acumular<n>experiência nas\ncorridas de forma<n>lenta, mas constante, entre agora\ne a<n>próxima primavera."
         }
     ]
 }

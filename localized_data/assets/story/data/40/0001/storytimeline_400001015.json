@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Uma tarde, enquanto me preparava<n>para o\ntreinamento com<n><chrname>..."
+            "text": "Uma tarde, enquanto me preparava<n>para o\ntreinamento com <chrname>..."
         },
         {
             "name": "Monólogo",
@@ -17,7 +17,7 @@
         },
         {
             "name": "???",
-            "text": "Peço mil desculpas. Eu deveria ter me\napresentado. Sou repórter da Twinkle<n>Monthly.",
+            "text": "Peço mil desculpas. Eu deveria ter me<n>apresentado.\nSou repórter da Twinkle<n>Monthly.",
             "color_text_info_list": [
                 "Twinkle Monthly"
             ]
@@ -58,7 +58,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "É verdade que houve grandes<n>mudanças, mas\ndesde o dia em que<n>decidi caminhar ao lado de\n<chrname>, minhas<n>convicções sempre\npermaneceram<n>as mesmas.",
+            "text": "É verdade que houve grandes<n>mudanças, mas\ndesde o dia em que<n>decidi caminhar ao lado de <chrname>,\nminhas<n>convicções sempre permaneceram<n>as\nmesmas.",
             "choice_data_list": [
                 "Vou continuar apoiando-a para que ela possa\nrealizar seus sonhos."
             ]
@@ -95,14 +95,14 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Então tenho certeza de que você<n>deve estar\ndisposto a carregar<n>qualquer fardo com um\nsorriso!",
+            "text": "Então tenho certeza de que você<n>deve estar\ndisposto a carregar<n>qualquer fardo com um sorriso!",
             "choice_data_list": [
                 "Er..."
             ]
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Treinar onde e quando ela pedir!<n>Levá-la a\nexcursões de fontes<n>termais para se recuperar\ndas<n>corridas! Aventurar-se em riachos<n>remotos\nnas montanhas apenas para<n>buscar um copo de\nágua para ela!"
+            "text": "Treinar onde e quando ela pedir!<n>Levá-la a\nexcursões de fontes<n>termais para se recuperar das\ncorridas! Aventurar-se em riachos<n>remotos nas\nmontanhas apenas para<n>buscar um copo de água\npara ela!"
         },
         {
             "name": "Repórter Otonashi",
@@ -125,7 +125,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "É preciso um treinador especial para<n>estar\ndisposto a mergulhar em um<n>furacão por sua\naprendiz!",
+            "text": "É preciso um treinador especial para<n>estar disposto\na mergulhar em um<n>furacão por sua aprendiz!",
             "choice_data_list": [
                 "(Ok, eu *realmente* não lembro de ter dito isso!)"
             ]
@@ -148,11 +148,11 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Você também está recebendo um<n>bocado de\napoio! Com uma<n>performance tão convincente\nquanto<n>a sua, eu sabia que conquistaria\ncorações!"
+            "text": "Você também está recebendo um<n>bocado de apoio!\nCom uma<n>performance tão convincente quanto<n>a\nsua, eu sabia que conquistaria<n>corações!"
         },
         {
             "name": "Diretora Akikawa",
-            "text": "ANTECIPAÇÃO! Aproveite ao máximo<n>cada corrida\nque aparecer no seu<n>caminho e mostre-nos\nótimos<n>resultados!"
+            "text": "ANTECIPAÇÃO! Aproveite ao máximo<n>cada corrida\nque aparecer no seu<n>caminho e mostre-nos ótimos\nresultados!"
         },
         {
             "name": "Diretora Akikawa",
@@ -160,11 +160,11 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Com uma aprendiz tão cativante<n>quanto a sua,\numa vaga na URA<n>Finale não é mera fantasia!"
+            "text": "Com uma aprendiz tão cativante<n>quanto a sua, uma\nvaga na URA<n>Finale não é mera fantasia!"
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Uma Umamusume estrela é medida<n>pela\nquantidade de apoio que possui.<n>É assim que se\npode dizer que ela é<n>amada."
+            "text": "Uma Umamusume estrela é medida<n>pela quantidade\nde apoio que possui.<n>É assim que se pode dizer\nque ela é<n>amada."
         },
         {
             "name": "Repórter Otonashi",

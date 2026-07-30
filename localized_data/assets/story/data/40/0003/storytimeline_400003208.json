@@ -10,7 +10,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Light Hello is giving out some<n>last-minute\ndirections to the stage<n>crew."
+            "text": "Light Hello is giving out some<n>last-minute directions\nto the stage<n>crew."
         },
         {
             "name": "Smart Falcon",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "We'll be having a concert soon!<n>Please stop by\nand listen!"
+            "text": "We'll be having a concert soon!<n>Please stop by and\nlisten!"
         },
         {
             "name": "Mihono Bourbon",
@@ -38,7 +38,7 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "Morning, Bourbon! You <i>have</i> to<n>come to our\nconcert, okay?",
+            "text": "Morning, Bourbon! You <i>have</i> to come<n>to our concert,\nokay?",
             "color_text_info_list": [
                 "Bourbon"
             ]
@@ -77,7 +77,7 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "Don't worry, I can do it! I'll get<n>everyone hyped\nup so they want to<n>pitch in to our project.",
+            "text": "Don't worry, I can do it! I'll get<n>everyone hyped up\nso they want to<n>pitch in to our project.",
             "choice_data_list": [
                 "Don't put it all on yourself.",
                 "Don't put it all on yourself."
@@ -104,7 +104,7 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "You're right. We're here to ask<n><i>everyone</i> for\nhelp."
+            "text": "You're right. We're here to ask<n><i>everyone</i> for help."
         },
         {
             "name": "Smart Falcon",
@@ -139,11 +139,11 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Even the weakest of electrical signals<n>can\nstimulate the brain. The question<n>is whether or not\nthat stimulation will<n>lead to the desired reaction."
+            "text": "Even the weakest of electrical signals<n>can stimulate\nthe brain. The question<n>is whether or not that\nstimulation will<n>lead to the desired reaction."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And whether or not we'll find the<n>piece we need.\nIt all begins with<n>observation."
+            "text": "And whether or not we'll find the<n>piece we need. It\nall begins with<n>observation."
         }
     ]
 }

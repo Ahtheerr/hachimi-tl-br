@@ -19,3 +19,6 @@
 __pycache__/
 *.py[cod]
 .DS_Store
+
+# Ignorar arquivos de configuração do VS Code
+.vscode/*

@@ -14,11 +14,11 @@
         },
         {
             "name": "Vendedor de Verduras",
-            "text": "Você com certeza tem um bom olho<n>para\nhortaliças! Leve também um<n>bilhete de sorteio de\nbrinde!"
+            "text": "Você com certeza tem um bom olho<n>para hortaliças!\nLeve também um<n>bilhete de sorteio de brinde!"
         },
         {
             "name": "Maruzensky",
-            "text": "Um brinde? Você está distribuindo<n>para todo\nmundo, não está?"
+            "text": "Um brinde? Você está distribuindo<n>para todo mundo,\nnão está?"
         },
         {
             "name": "Vendedor de Verduras",
@@ -55,7 +55,7 @@
         },
         {
             "name": "Funcionário do Sorteio",
-            "text": "Quem ganhar o primeiro prêmio leva<n>um\nhambúrguer de cenoura de luxo! O<n>segundo\nprêmio é uma cesta de<n>cenouras! E quem ganhar\no terceiro<n>leva uma cenoura para casa!"
+            "text": "Quem ganhar o primeiro prêmio leva<n>um\nhambúrguer de cenoura de luxo! O<n>segundo prêmio\né uma cesta de<n>cenouras! E quem ganhar o terceiro\nleva uma cenoura para casa!"
         },
         {
             "name": "Funcionário do Sorteio",
@@ -71,18 +71,18 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Isso mesmo! Ganhei um bilhete da<n>moça da\nmercearia! Não dá para<n><i>não</i> usar, né?"
+            "text": "Isso mesmo! Ganhei um bilhete da<n>moça da\nmercearia! Não dá para <i>não</i><n>usar, né?"
         },
         {
             "name": "Maruzensky",
-            "text": "E, se eu ganhar, pensei em te<n>recompensar por\nter vindo comigo<n>hoje te dando o prêmio!",
+            "text": "E, se eu ganhar, pensei em te<n>recompensar por ter\nvindo comigo<n>hoje te dando o prêmio!",
             "choice_data_list": [
                 "Você acha mesmo que vai ganhar?"
             ]
         },
         {
             "name": "Maruzensky",
-            "text": "E, se eu ganhar, pensei em te<n>recompensar por\nter vindo comigo<n>hoje te dando o prêmio!",
+            "text": "E, se eu ganhar, pensei em te<n>recompensar por ter\nvindo comigo<n>hoje te dando o prêmio!",
             "choice_data_list": [
                 "Você acha mesmo que vai ganhar?"
             ]
@@ -93,7 +93,7 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Sem mais delongas, permita-me<n>mostrar a\nlendária sorte Maruzen!"
+            "text": "Sem mais delongas, permita-me<n>mostrar a lendária\nsorte Maruzen!"
         },
         {
             "name": "Maruzensky",
@@ -101,7 +101,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Maruzensky cantarola enquanto gira<n>a manivela\nda roleta do sorteio."
+            "text": "Maruzensky cantarola enquanto gira<n>a manivela da\nroleta do sorteio."
         },
         {
             "name": "Monólogo",
@@ -124,14 +124,14 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Treinador, você ouviu?! Eu ganhei o<n>grande\nprêmio!",
+            "text": "Treinador, você ouviu?! Eu ganhei o<n>grande prêmio!",
             "choice_data_list": [
                 "Isso é incrível!"
             ]
         },
         {
             "name": "Maruzensky",
-            "text": "Treinador, você ouviu?! Eu ganhei o<n>grande\nprêmio!",
+            "text": "Treinador, você ouviu?! Eu ganhei o<n>grande prêmio!",
             "choice_data_list": [
                 "Isso é incrível!"
             ]
@@ -193,7 +193,7 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Então que tal na próxima primavera?<n>Tenho\ncerteza de que teremos um<n>tempo livre aí.",
+            "text": "Então que tal na próxima primavera?<n>Tenho certeza\nde que teremos um<n>tempo livre aí.",
             "choice_data_list": [
                 "Bom, nesse caso..."
             ]
@@ -208,11 +208,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "E foi assim que acabei prometendo ir<n>numa\nviagem para águas termais<n>com Maruzensky no\nano que vem."
+            "text": "E foi assim que acabei prometendo ir<n>numa viagem\npara águas termais<n>com Maruzensky no ano que\nvem."
         },
         {
             "name": "Funcionário do Sorteio",
-            "text": "Parece que temos outra vencedora do<n>primeiro\nprêmio! Parabéns! Você<n>ganhou um hambúrguer\nde cenoura<n>de luxo!"
+            "text": "Parece que temos outra vencedora do<n>primeiro\nprêmio! Parabéns! Você<n>ganhou um hambúrguer de\ncenoura<n>de luxo!"
         },
         {
             "name": "Monólogo",
@@ -279,7 +279,7 @@
         },
         {
             "name": "Funcionário do Sorteio",
-            "text": "Temos uma vencedora do segundo<n>prêmio! Hoje\né seu dia de sorte!<n>Você vai para casa com uma\ncesta de<n>cenouras!"
+            "text": "Temos uma vencedora do segundo<n>prêmio! Hoje é\nseu dia de sorte!<n>Você vai para casa com uma\ncesta de<n>cenouras!"
         },
         {
             "name": "Monólogo",
@@ -314,7 +314,7 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Ei, quem está com fome?! Venham<n>pegar\ncenouras!"
+            "text": "Ei, quem está com fome?! Venham<n>pegar cenouras!"
         },
         {
             "name": "As Duas",
@@ -329,11 +329,11 @@
         },
         {
             "name": "Maruzensky",
-            "text": "Ora, obrigada! ♪ Mas não esqueça a<n>sua,\nTreinador!"
+            "text": "Ora, obrigada! ♪ Mas não esqueça a<n>sua, Treinador!"
         },
         {
             "name": "Maruzensky",
-            "text": "Ora, obrigada! ♪ Mas não esqueça a<n>sua,\nTreinador!"
+            "text": "Ora, obrigada! ♪ Mas não esqueça a<n>sua, Treinador!"
         },
         {
             "name": "Monólogo",
@@ -358,12 +358,12 @@
             "name": "Maruzensky",
             "text": "Ahh, que droga!",
             "choice_data_list": [
-                "Bom, pelo menos você ganhou <i>alguma coisa,</i>\nné?"
+                "Bom, pelo menos você ganhou <i>alguma coisa,</i> né?"
             ]
         },
         {
             "name": "Maruzensky",
-            "text": "É, acho que um pouquinho de sorte é<n>melhor do\nque nenhuma."
+            "text": "É, acho que um pouquinho de sorte é<n>melhor do que\nnenhuma."
         },
         {
             "name": "Maruzensky",

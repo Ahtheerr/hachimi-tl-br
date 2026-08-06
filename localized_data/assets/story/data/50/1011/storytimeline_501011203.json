@@ -1,0 +1,128 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "At last, the Japan Cup is here. We<n>arrive at the\ntrack in the morning,<n>focused and ready."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Ah... Grass Wonder and her trainer!<n>Good morning!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, good morning. Have you come to<n>watch my\nrace once again?"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Of course! I wouldn't dream of<n>missing the Beast's\nSuccessor!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Oh! That reminds me! Have you two<n>seen the article\neveryone's been<n>talking about online?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Which one, if I may ask?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "After a few quick taps, the reporter<n>holds up a\nscreen to show a news<n>site known for its Arima\nKinen<n>predictions.",
+            "color_text_info_list": [
+                "Arima Kinen"
+            ]
+        },
+        {
+            "name": "Reporter A",
+            "text": "Everyone knows the Arima Kinen is<n>one of the\nbiggest races—only the<n>best classic and senior year\nUmamusume are voted in!",
+            "color_text_info_list": [
+                "senior"
+            ]
+        },
+        {
+            "name": "Reporter A",
+            "text": "Take a look at their predictions on<n>who will run this\nyear!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh, my..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Both Maruzen and myself are on this<n>list.",
+            "choice_data_list": [
+                "(The Arima Kinen!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Grass Wonder has spent her classic<n>year building\nup experience<n>specifically to challenge\nMaruzensky."
+        },
+        {
+            "name": "Monólogo",
+            "text": "This might be Grass's big chance to<n>race her!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Maruzensky and I, on the same track<n>at the Arima\nKinen... Hehe, that <i>would</i><n>be an honor."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Yeah! It's because of Maruzensky<n>that you've\nbeen gathering so much<n>attention! Personally, I\ncan't wait!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Of course, I'm excited to see how<n>you do today, as\nwell! Do your best<n>out there!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "...It's almost time.",
+            "choice_data_list": [
+                "Everything is ready. Shall we?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes. Let's be on our way."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Grass!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "If it isn't El. Did you come here to get<n>me?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Sí, sí! I've come to be your guide!"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "I've got a race to win here, and it's<n>gonna be\n<i>flashy!</i> Grrrass Wonder,<n>enter the riiiiing!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe, the ring? Are you sure we're<n>going to the\nsame place?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'm headed to the track, to take the<n>title of \"Beast's\nSuccessor\"..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "And leave it in the dust."
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Leave it, eh?"
+        },
+        {
+            "name": "El Condor Pasa",
+            "text": "Whatever you say! Now c'mon,<n>Grass! To the\npaddock!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Yes. Trainer, I should be off."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "Walking past the dorm, I happen to<n>catch sight of\nTaiki Shuttle cleaning<n>listlessly."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Sigh...</i> Finally done with the entrance.<n>By now, I bet\neverybody's already..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Siiiiigh...</i>",
+            "choice_data_list": [
+                "That was one long sigh.",
+                "That was one long sigh."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "The whole dorm's playin' board<n>games today..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But I'm on cleaning duty 'cause I<n>broke curfew...\n<i>Sigh...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Perhaps due to the shock of the<n>whole ordeal, Taiki\nShuttle remains<n>down in the dumps for some time."
+        }
+    ]
+}

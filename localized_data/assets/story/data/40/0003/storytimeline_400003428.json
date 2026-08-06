@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Monologue",
@@ -6,7 +7,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Hearing this, Light Hello suddenly<n>realizes why the\nrunners who first<n>created the Grand Concert\nchose<n>song as a medium."
+            "text": "Hearing this, Light Hello suddenly<n>realizes why the\nrunners who first<n>created the Grand Concert chose\nsong as a medium."
         },
         {
             "name": "Monologue",
@@ -17,7 +18,7 @@
             "text": "On the way home, I mull over an idea<n>someone\nbrought up during our<n>discussion that really stuck\nwith me.",
             "choice_data_list": [
                 "\"A song with some call-and-response\"...",
-                "\"Gratitude towards the fans, without whom I\nwould not be running\"...",
+                "\"Gratitude towards the fans, without whom I would\nnot be running\"...",
                 "\"I'm home\"...",
                 "\"The power to achieve a breakthrough\"...",
                 "\"Song brings us closer together\"..."
@@ -25,23 +26,23 @@
         },
         {
             "name": "Monologue",
-            "text": "When <chrname> sings at<n>the Grand\nConcert, I wonder what<n>emotions she'll put into\nher lyrics. I<n>can't wait to see."
+            "text": "When <chrname> sings at the Grand Concert, I<n>wonder what\nemotions she'll put into<n>her lyrics. I can't wait to\nsee."
         },
         {
             "name": "Monologue",
-            "text": "When <chrname> sings at<n>the Grand\nConcert, I wonder what<n>emotions she'll put into\nher lyrics. I<n>can't wait to see."
+            "text": "When <chrname> sings at the Grand Concert, I<n>wonder what\nemotions she'll put into<n>her lyrics. I can't wait to\nsee."
         },
         {
             "name": "Monologue",
-            "text": "When <chrname> sings at<n>the Grand\nConcert, I wonder what<n>emotions she'll put into\nher lyrics. I<n>can't wait to see."
+            "text": "When <chrname> sings at the Grand Concert, I<n>wonder what\nemotions she'll put into<n>her lyrics. I can't wait to\nsee."
         },
         {
             "name": "Monologue",
-            "text": "When <chrname> sings at<n>the Grand\nConcert, I wonder what<n>emotions she'll put into\nher lyrics. I<n>can't wait to see."
+            "text": "When <chrname> sings at the Grand Concert, I<n>wonder what\nemotions she'll put into<n>her lyrics. I can't wait to\nsee."
         },
         {
             "name": "Monologue",
-            "text": "When <chrname> sings at<n>the Grand\nConcert, I wonder what<n>emotions she'll put into\nher lyrics. I<n>can't wait to see."
+            "text": "When <chrname> sings at the Grand Concert, I<n>wonder what\nemotions she'll put into<n>her lyrics. I can't wait to\nsee."
         }
     ]
 }

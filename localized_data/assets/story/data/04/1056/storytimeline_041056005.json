@@ -18,7 +18,7 @@
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "<i>Arf... arf...</i> Alguém... Por favor,<n>ajude..."
+            "text": "<i>Arf... arf...</i> Alguém... Por favor, ajude..."
         },
         {
             "name": "Matikanefukukitaru",
@@ -70,8 +70,8 @@
             "name": "Matikanefukukitaru",
             "text": "Você sabe que esses são meus<n>amuletos da sorte, certo? A boa sorte<n>que recebo de tudo aqui é a razão de<n>eu estar nesta academia para<n>começo de conversa! Jogar tudo<n>fora?! Eu jamais!",
             "choice_data_list": [
-                "Uma montanha de itens da sorte não parece nada\nsegura.",
-                "Uma montanha de itens da sorte não parece nada\nsegura."
+                "Uma montanha de itens da sorte não parece\nnada segura.",
+                "Uma montanha de itens da sorte não parece\nnada segura."
             ]
         },
         {
@@ -96,7 +96,7 @@
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "<i>Snif...</i> Ok, acho que estou pronta...<n>Por onde devemos começar?",
+            "text": "<i>Snif...</i> Ok, acho que estou pronta... Por<n>onde devemos começar?",
             "choice_data_list": [
                 "Que tal este amuleto?"
             ]

@@ -77,11 +77,11 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Para começar, o que <i>é</i> o seu<n>costume, afinal?"
+            "text": "Para começar, o que <i>é</i> o seu costume,<n>afinal?"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Ah, certo... Desculpe. Hum... O que eu<n>deveria\ndizer?"
+            "text": "Ah, certo... Desculpe. Hum... O que eu<n>deveria dizer?"
         },
         {
             "name": "Monólogo",
@@ -124,7 +124,7 @@
         },
         {
             "name": "",
-            "text": "Suponho que é isso que funciona<n>melhor para\nelas.",
+            "text": "Suponho que é isso que funciona<n>melhor para elas.",
             "choice_data_list": [
                 "Vocês duas são incríveis.",
                 "Vocês duas são incríveis."
@@ -190,7 +190,7 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "Tudo o que importa para mim é ser<n>capaz de\ncorrer confortavelmente."
+            "text": "Tudo o que importa para mim é ser<n>capaz de correr\nconfortavelmente."
         },
         {
             "name": "Admire Vega",

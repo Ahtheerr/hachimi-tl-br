@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Hoje, Matikanetannhauser e Twin<n>Turbo estão\nfazendo um treino de<n>dança conjunto, então vou\naté o<n>parque onde elas marcaram de se\nencontrar."
+            "text": "Hoje, Matikanetannhauser e Twin<n>Turbo estão\nfazendo um treino de<n>dança conjunto, então vou\naté o<n>parque onde elas marcaram de se<n>encontrar."
         },
         {
             "name": "Twin Turbo",
@@ -38,7 +38,7 @@
         },
         {
             "name": "Matikanetannhauser",
-            "text": "Entendido! Passos de dança doidões<n>e selvagens\ne um ritmo doidão e<n>selvagem!"
+            "text": "Entendido! Passos de dança doidões<n>e selvagens e\num ritmo doidão e<n>selvagem!"
         },
         {
             "name": "Machitan e Turbo",
@@ -46,7 +46,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Não sei por que elas precisam fazer<n>isso em\nuníssono, mas acho que tudo<n>bem se estiverem\nse divertindo. Eu<n>as observo em silêncio, até que..."
+            "text": "Não sei por que elas precisam fazer<n>isso em\nuníssono, mas acho que tudo<n>bem se estiverem se\ndivertindo. Eu<n>as observo em silêncio, até que..."
         },
         {
             "name": "Garota A",
@@ -76,7 +76,7 @@
             "name": "Matikanetannhauser",
             "text": "O que você acha que deveríamos<n>fazer, Sr.\nAssistente de Treinador?",
             "choice_data_list": [
-                "Por que não combinar dança com uma\nbrincadeira?",
+                "Por que não combinar dança com uma brincadeira?",
                 "A melhor forma de aprender é ensinando!"
             ]
         },
@@ -84,13 +84,13 @@
             "name": "Matikanetannhauser",
             "text": "O que você acha que deveríamos<n>fazer, Srta.\nAssistente de Treinadora?",
             "choice_data_list": [
-                "Por que não combinar dança com uma\nbrincadeira?",
+                "Por que não combinar dança com uma brincadeira?",
                 "A melhor forma de aprender é ensinando!"
             ]
         },
         {
             "name": "Matikanetannhauser",
-            "text": "Entendi! Se você estiver se<n>divertindo, vai\naprender os passos de<n>dança sem nem perceber!"
+            "text": "Entendi! Se você estiver se<n>divertindo, vai aprender\nos passos de<n>dança sem nem perceber!"
         },
         {
             "name": "Matikanetannhauser",
@@ -98,7 +98,7 @@
         },
         {
             "name": "Matikanetannhauser",
-            "text": "É igual a um pega-pega normal, mas<n>você só pode\nse mexer usando<n>passos de dança! O que\nacham?<n>Quem quer tentar?!"
+            "text": "É igual a um pega-pega normal, mas<n>você só pode\nse mexer usando<n>passos de dança! O que acham?\nQuem quer tentar?!"
         },
         {
             "name": "Crianças",
@@ -138,7 +138,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "As coisas começam a parecer um<n>pouco com um\nprograma de TV<n>infantil, mas parece que ensinar\nas<n>ajudou a ter um domínio maior da<n>própria\ndança."
+            "text": "As coisas começam a parecer um<n>pouco com um\nprograma de TV<n>infantil, mas parece que ensinar as\najudou a ter um domínio maior da<n>própria dança."
         }
     ]
 }

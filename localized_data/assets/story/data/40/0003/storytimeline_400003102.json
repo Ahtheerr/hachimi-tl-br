@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Light Hello",
@@ -10,7 +11,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Light Hello seems to be greatly<n>moved and\ninspired after watching<n><chrname> train."
+            "text": "Light Hello seems to be greatly<n>moved and inspired\nafter watching<n><chrname> train."
         }
     ]
 }

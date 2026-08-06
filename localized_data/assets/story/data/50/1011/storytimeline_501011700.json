@@ -1,0 +1,39 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "The day after Grass Wonder's day<n>off, I head over\nto my office only to<n>find..."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "<i>Zzz... Zzz...</i>",
+            "choice_data_list": [
+                "Are you asleep?",
+                "Are you asleep?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh! I-I'm sorry. I only meant to take a<n>quick rest on\nthe sofa.",
+            "choice_data_list": [
+                "Did you get enough sleep yesterday?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, I sort of lost track of time while<n>gazing at my\nmoss terrarium last<n>night."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "There is an art to growing moss in a<n>glass tank, and\nit brings me joy to<n>observe its daily progress."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "But I need to take care not to let it cut<n>into my sleep\nschedule... <i>Yawn...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "It seems Grass Wonder stayed up<n>late rather than\nget a proper night's<n>rest."
+        }
+    ]
+}

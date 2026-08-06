@@ -1,0 +1,42 @@
+{
+    "text_block_list": [
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Sigh...</i> Say, Trainer. I haven't been<n>feelin' too great\nlately."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I don't have a fever, and I'm not<n>hurting anywhere,\nbut my body's<n>been weighin' me down..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Think I'm comin' down with<n>something? I make\nsure to eat my<n>veggies and all..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Taiki Shuttle orders herself a<n>hamburger and a large\nplate of fries<n>while we talk.",
+            "choice_data_list": [
+                "It's because of what you're eating!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What?! But I've been eatin' lots of<n>healthy\nveggies! I even snack on<n>potato chips at night!",
+            "choice_data_list": [
+                "That's the problem!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You can't fool me, Trainer! I know a<n>joke when I\nhear one..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Wait... Are ya bein' serious? Is it<n>really that bad?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I review her eating habits and<n>incorporate some\nhealthier<n>alternatives."
+        }
+    ]
+}

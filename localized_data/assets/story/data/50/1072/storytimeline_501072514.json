@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Hoje, a academia está realizando um<n>evento para\nque as crianças<n>experimentem como é estar\nmatriculada na escola. Yaeno Muteki<n>foi\ndesignada para guiar um grupo de<n>crianças."
+            "text": "Hoje, a academia está realizando um<n>evento para\nque as crianças<n>experimentem como é estar\nmatriculada na escola. Yaeno Muteki<n>foi designada\npara guiar um grupo de<n>crianças."
         },
         {
             "name": "Jovem Umamusume A",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Mejiro Ardan",
-            "text": "Nossa. Estamos cheias de energia,<n>não é? ♪\nCuidado para não se<n>inclinarem demais, é\nperigoso."
+            "text": "Nossa. Estamos cheias de energia,<n>não é? ♪\nCuidado para não se<n>inclinarem demais, é perigoso."
         },
         {
             "name": "Sakura Chiyono O",
@@ -30,15 +30,15 @@
         },
         {
             "name": "Jovem Umamusume B",
-            "text": "Ei, Mimi. Cê acha que vai dar pra ver<n>a minha\ncasa se eu for de cavalinho?"
+            "text": "Ei, Mimi. Cê acha que vai dar pra ver<n>a minha casa\nse eu for de cavalinho?"
         },
         {
             "name": "Jovem Umamusume C",
-            "text": "A gente não vai andar de cavalinho, a<n>gente vai\nnos <i>ombros</i> dela!"
+            "text": "A gente não vai andar de cavalinho, a<n>gente vai nos\n<i>ombros</i> dela!"
         },
         {
             "name": "Yaeno Muteki",
-            "text": "Ngh... Eu quero mantê-las a salvo!<n>Mas ser\nsuperprotetora atrapalharia<n>a orientação e\nimpediria a<n>independência delas!",
+            "text": "Ngh... Eu quero mantê-las a salvo!<n>Mas ser\nsuperprotetora atrapalharia<n>a orientação e impediria\na<n>independência delas!",
             "choice_data_list": [
                 "Você não tem experiência lidando com crianças no\ndojo?"
             ]
@@ -89,7 +89,7 @@
         },
         {
             "name": "Umamusume Extremamente Curiosa",
-            "text": "Uau... Elas são incríveis. Todo mundo<n>é tão\nrápida..."
+            "text": "Uau... Elas são incríveis. Todo mundo<n>é tão rápida..."
         },
         {
             "name": "Monólogo",
@@ -109,15 +109,15 @@
         },
         {
             "name": "Avô de Yaeno",
-            "text": "Não importa o quão forte seja o seu<n>oponente ou\nquão terrível seja a<n>situação, lembre-se de que\nrecuar é<n>tarefa para tolos. O medo leva apenas<n>ao\nfracasso. Supere-o, ou o seu<n>caminho\npermanecerá fechado para<n>sempre."
+            "text": "Não importa o quão forte seja o seu<n>oponente ou\nquão terrível seja a<n>situação, lembre-se de que\nrecuar é<n>tarefa para tolos. O medo leva apenas<n>ao\nfracasso. Supere-o, ou o seu<n>caminho permanecerá\nfechado para<n>sempre."
         },
         {
             "name": "Avô de Yaeno",
-            "text": "Caso a dúvida se forme em seu<n>coração, há\napenas uma resposta.<n>Tenha orgulho de si\nmesma,<n>determine o caminho que deve seguir<n>e\nfaça o que precisa ser feito!"
+            "text": "Caso a dúvida se forme em seu<n>coração, há\napenas uma resposta.<n>Tenha orgulho de si mesma,\ndetermine o caminho que deve seguir<n>e faça o que\nprecisa ser feito!"
         },
         {
             "name": "Yaeno Muteki",
-            "text": "(Sim! Neste exato momento, devo<n>colocar meu\ncoração e alma em fazer<n>apenas uma única\ncoisa!)"
+            "text": "(Sim! Neste exato momento, devo<n>colocar meu\ncoração e alma em fazer<n>apenas uma única coisa!)"
         },
         {
             "name": "Yaeno Muteki",
@@ -133,7 +133,7 @@
         },
         {
             "name": "Sakura Chiyono O",
-            "text": "Y-Yaeno! O que <i>foi</i> aquilo agora há<n>pouco?! De\nonde veio aquela<n>rapidez? Eu mal pude acreditar\nnos<n>meus olhos!"
+            "text": "Y-Yaeno! O que <i>foi</i> aquilo agora há<n>pouco?! De onde\nveio aquela<n>rapidez? Eu mal pude acreditar nos\nmeus olhos!"
         },
         {
             "name": "Sakura Chiyono O",
@@ -147,8 +147,8 @@
             "name": "Yaeno Muteki",
             "text": "Entendo... Eu fiz o que precisava ser<n>feito.",
             "choice_data_list": [
-                "Você as conquistou com ações em vez de\npalavras!",
-                "Você as conquistou com ações em vez de\npalavras!",
+                "Você as conquistou com ações em vez de palavras!",
+                "Você as conquistou com ações em vez de palavras!",
                 "Você é uma só com os ensinamentos do estilo\nKongo Yaegaki.",
                 "Você é uma só com os ensinamentos do estilo\nKongo Yaegaki."
             ]
@@ -157,8 +157,8 @@
             "name": "Yaeno Muteki",
             "text": "Entendo... Eu fiz o que precisava ser<n>feito.",
             "choice_data_list": [
-                "Você as conquistou com ações em vez de\npalavras!",
-                "Você as conquistou com ações em vez de\npalavras!",
+                "Você as conquistou com ações em vez de palavras!",
+                "Você as conquistou com ações em vez de palavras!",
                 "Você é uma só com os ensinamentos do estilo\nKongo Yaegaki.",
                 "Você é uma só com os ensinamentos do estilo\nKongo Yaegaki."
             ]
@@ -169,7 +169,7 @@
         },
         {
             "name": "Yaeno Muteki",
-            "text": "Mantenha a cabeça erguida como<n>uma protetora\ndo povo. Ao enfrentar<n>uma crise, não hesite nem\nfale —<n>simplesmente faça o que é certo."
+            "text": "Mantenha a cabeça erguida como<n>uma protetora do\npovo. Ao enfrentar<n>uma crise, não hesite nem fale —\nsimplesmente faça o que é certo."
         },
         {
             "name": "Yaeno Muteki",
@@ -177,7 +177,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Ela pode ter tropeçado por um<n>momento, mas\nYaeno Muteki<n>prevalece com sua própria força e\nse<n>torna mais confiante no processo. A\norientação prossegue e é concluída<n>sem mais\nincidentes."
+            "text": "Ela pode ter tropeçado por um<n>momento, mas\nYaeno Muteki<n>prevalece com sua própria força e se\ntorna mais confiante no processo. A<n>orientação\nprossegue e é concluída<n>sem mais incidentes."
         },
         {
             "name": "Crianças",
@@ -197,7 +197,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Yaeno Muteki assume o papel de<n>mentora das\ncrianças, e a orientação<n>chega ao fim com ela\ntendo<n>conquistado o respeito delas."
+            "text": "Yaeno Muteki assume o papel de<n>mentora das\ncrianças, e a orientação<n>chega ao fim com ela tendo\nconquistado o respeito delas."
         }
     ]
 }

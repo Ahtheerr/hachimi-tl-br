@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Estou no telhado da escola me<n>esforçando para\ncriar um bom<n>cronograma de treino para\n<chrname>, quando..."
+            "text": "Estou no telhado da escola me<n>esforçando para\ncriar um bom<n>cronograma de treino para <chrname>, quando..."
         },
         {
             "name": "Mejiro Palmer",
@@ -17,7 +17,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Ah, entendi. Mas ficar fritando nisso<n>tudo sozinho\né o caminho certo pra<n>entrar em parafuso."
+            "text": "Ah, entendi. Mas ficar fritando nisso<n>tudo sozinho é\no caminho certo pra<n>entrar em parafuso."
         },
         {
             "name": "Mejiro Palmer",
@@ -36,18 +36,18 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Isso ajuda a voltar pras coisas com<n>a mente\nlimpa. Sabe, tipo um escape<n>mental. Acho que isso\né super<n>importante, não acha?",
+            "text": "Isso ajuda a voltar pras coisas com<n>a mente limpa.\nSabe, tipo um escape<n>mental. Acho que isso é\nsuper<n>importante, não acha?",
             "choice_data_list": [
-                "Valeu pela dica, mas acho que vou tentar mais um\npouco.",
+                "Valeu pela dica, mas acho que vou tentar mais\num pouco.",
                 "Beleza! Vou tentar esse tal de escape mental!",
                 "Beleza! Vou tentar esse tal de escape mental!"
             ]
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Isso ajuda a voltar pras coisas com<n>a mente\nlimpa. Sabe, tipo um escape<n>mental. Acho que isso\né super<n>importante, não acha?",
+            "text": "Isso ajuda a voltar pras coisas com<n>a mente limpa.\nSabe, tipo um escape<n>mental. Acho que isso é\nsuper<n>importante, não acha?",
             "choice_data_list": [
-                "Valeu pela dica, mas acho que vou tentar mais um\npouco.",
+                "Valeu pela dica, mas acho que vou tentar mais\num pouco.",
                 "Beleza! Vou tentar esse tal de escape mental!",
                 "Beleza! Vou tentar esse tal de escape mental!"
             ]
@@ -74,7 +74,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Que tal a gente ir pro refeitório e<n>comer um doce?\nDeve ter alguma<n>sobremesa que você tá\nmorrendo de<n>vontade de provar lá!"
+            "text": "Que tal a gente ir pro refeitório e<n>comer um doce?\nDeve ter alguma<n>sobremesa que você tá morrendo\nde<n>vontade de provar lá!"
         },
         {
             "name": "Mejiro Palmer",

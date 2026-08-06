@@ -2,15 +2,15 @@
     "text_block_list": [
         {
             "name": "Vodka",
-            "text": "<i>Ofeg, ofeg...</i> Essa intensidade e<n>esse cansaço\nsão outra parada!<n>Ainda assim..."
+            "text": "<i>Ofeg, ofeg...</i> Essa intensidade e esse<n>cansaço são\noutra parada! Ainda<n>assim..."
         },
         {
             "name": "Vodka",
-            "text": "Não consigo me cansar disso! Então<n><i>é assim</i>\nque as Clássicas são!"
+            "text": "Não consigo me cansar disso! Então<n><i>é assim</i> que\nas Clássicas são!"
         },
         {
             "name": "Monólogo",
-            "text": "Depois de correr sua primeira<n>Clássica, Vodka\nestá com o rosto<n>radiante de satisfação."
+            "text": "Depois de correr sua primeira<n>Clássica, Vodka está\ncom o rosto<n>radiante de satisfação."
         },
         {
             "name": "Vodka",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "É completamente diferente... das<n>corridas\nnormais... Eu realmente...<n>corri o Oka Sho..."
+            "text": "É completamente diferente... das<n>corridas normais...\nEu realmente...<n>corri o Oka Sho..."
         },
         {
             "name": "Monólogo",
@@ -46,7 +46,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Hah! Se você tá tão afim assim,<n>parece que vai\nser uma boa corrida!"
+            "text": "Hah! Se você tá tão afim assim,<n>parece que vai ser\numa boa corrida!"
         },
         {
             "name": "Vodka",
@@ -66,7 +66,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Bem, pelo menos suas habilidades<n>alcançaram\num pouco sua pose<n>pretensiosa..."
+            "text": "Bem, pelo menos suas habilidades<n>alcançaram um\npouco sua pose<n>pretensiosa..."
         },
         {
             "name": "Vodka",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Vodka",
-            "text": "Fico feliz por ter corrido hoje. Pude<n>ver do que ela\né capaz.",
+            "text": "Fico feliz por ter corrido hoje. Pude<n>ver do que ela é\ncapaz.",
             "choice_data_list": [
                 "O que você quer fazer sobre o Derby?"
             ]
@@ -89,7 +89,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Fazer uma boa corrida no Oka Sho é<n>algo a\ncomemorar. Mas isso torna<n>nossa próxima\ndecisão ainda mais<n>importante..."
+            "text": "Fazer uma boa corrida no Oka Sho é<n>algo a\ncomemorar. Mas isso torna<n>nossa próxima decisão\nainda mais<n>importante..."
         },
         {
             "name": "Repórter Masculino",
@@ -119,7 +119,7 @@
             "name": "Monólogo",
             "text": "Correr no Derby ou correr contra sua<n>rival. Desta\nvez, escolher os dois não<n>é uma opção.",
             "choice_data_list": [
-                "O que devo colocar como sua próxima corrida?\nPelo menos por enquanto."
+                "O que devo colocar como sua próxima corrida? Pelo\nmenos por enquanto."
             ]
         },
         {

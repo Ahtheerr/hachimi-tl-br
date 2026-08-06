@@ -1,0 +1,117 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "After spending a day out with Taiki<n>Shuttle, I take a\nbreather in my office."
+        },
+        {
+            "name": "",
+            "text": "Hey, Trainer! Let's go home together!"
+        },
+        {
+            "name": "",
+            "text": "We're not done hangin' out till I'm<n>back at my\ndorm! There's still more<n>fun to be had!",
+            "choice_data_list": [
+                "Sorry, but I need to work after this."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh... I guess that comes first."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Aww..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, I've got it! I'll just wait till you're<n>done!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You go ahead and work as much as<n>ya like!",
+            "choice_data_list": [
+                "Are you sure? It might take until evening.",
+                "Are you sure? It might take until evening."
+            ]
+        },
+        {
+            "name": "",
+            "text": "That's no problem at all! I'll be real<n>quiet, so as not\nto disturb ya!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "It's completely dark outside by the<n>time I wrap up\nthe last of my work.",
+            "choice_data_list": [
+                "All done. Sorry to make you wait so long.",
+                "All done. Sorry to make you wait so long."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "<i>Zzz...</i>"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ah!"
+        },
+        {
+            "name": "",
+            "text": "Mornin', Trainer! See, you could<n>barely tell I was\nhere!",
+            "choice_data_list": [
+                "Sorry there wasn't much for you to do.",
+                "Sorry there wasn't much for you to do.",
+                "You've got a bit of drool there.",
+                "You've got a bit of drool there."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Mornin', Trainer! See, you could<n>barely tell I was\nhere!",
+            "choice_data_list": [
+                "Sorry there wasn't much for you to do.",
+                "Sorry there wasn't much for you to do.",
+                "You've got a bit of drool there.",
+                "You've got a bit of drool there."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What're ya talkin' about? Watchin'<n>ya work was\nplenty fun!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Though I did take a moment to rest<n>my eyeballs!\nHahaha!",
+            "choice_data_list": [
+                "I'll walk you back to the dorm."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Now, Trainer! That ain't no way to<n>speak to a lady!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But I tell ya what. Walk me back to<n>my dorm, and\nI'll let ya off. ♪",
+            "choice_data_list": [
+                "Sure, I can do that."
+            ]
+        },
+        {
+            "name": "",
+            "text": "Hehe, all right! Thanks a ton, my dear<n>trainer. ♪"
+        },
+        {
+            "name": "",
+            "text": "This can be my reward for keepin' ya<n>company.\nHeck, I can wait all day if<n>this kinda happiness is at\nthe end of<n>the road. ♪"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm gonna walk real slow, so let's<n>chat it up like\nthere's no tomorrow!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Taiki Shuttle chatters happily with me<n>all the way\nback, her face beaming<n>with joy."
+        }
+    ]
+}

@@ -10,7 +10,7 @@
         },
         {
             "name": "Gold City",
-            "text": "<i>Arf, arf...</i> Ufa. Isso, um novo<n>recorde pessoal! Agora vou tentar<n>aumentar o ritmo..."
+            "text": "<i>Arf, arf...</i> Ufa. Isso, um novo recorde<n>pessoal! Agora vou tentar aumentar o<n>ritmo..."
         },
         {
             "name": "",
@@ -150,10 +150,10 @@
         },
         {
             "name": "Gold City",
-            "text": "Ah, <i>é mesmo</i>? Então você só<n>estava preocupado comigo, é isso?",
+            "text": "Ah, <i>é mesmo</i>? Então você só estava<n>preocupado comigo, é isso?",
             "choice_data_list": [
-                "Não tive a intenção de ouvir. Por favor, acredite em\nmim...",
-                "Não tive a intenção de ouvir. Por favor, acredite em\nmim..."
+                "Não tive a intenção de ouvir. Por favor, acredite\nem mim...",
+                "Não tive a intenção de ouvir. Por favor, acredite\nem mim..."
             ]
         },
         {

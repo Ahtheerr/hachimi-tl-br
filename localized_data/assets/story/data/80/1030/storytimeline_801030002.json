@@ -24,7 +24,7 @@
             "text": "Eu estava planejando treinar muito<n>amanhã, já\nque tenho uma corrida<n>chegando, mas agora... Ah,\neu não sei<n>o que fazer!",
             "choice_data_list": [
                 "Alugue o ginásio e corra lá!",
-                "Faça alguns bonecos de sol para afastar a chuva!"
+                "Faça alguns bonecos de sol para afastar a\nchuva!"
             ]
         },
         {
@@ -37,11 +37,11 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Mas se eu alugar para mim mesma,<n>isso não\nsignifica que mais ninguém<n>poderá usar o\nginásio?"
+            "text": "Mas se eu alugar para mim mesma,<n>isso não\nsignifica que mais ninguém<n>poderá usar o ginásio?"
         },
         {
             "name": "Monólogo",
-            "text": "Sugiro que ela convide outras<n>Umamusume para\ntreinar com ela, e<n>ela parece muito mais feliz com\na<n>ideia depois disso."
+            "text": "Sugiro que ela convide outras<n>Umamusume para\ntreinar com ela, e<n>ela parece muito mais feliz com a\nideia depois disso."
         },
         {
             "name": "Rice Shower",
@@ -73,11 +73,11 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Sério? Que alívio! Tenho certeza de<n>que vão\nfuncionar bem se <i>você</i><n>fizer! Eu vou fazer os\nmelhores<n>bonecos de sol que eu puder!"
+            "text": "Sério? Que alívio! Tenho certeza de<n>que vão\nfuncionar bem se <i>você</i> fizer!<n>Eu vou fazer os\nmelhores bonecos<n>de sol que eu puder!"
         },
         {
             "name": "Monólogo",
-            "text": "Os céus devem ter ouvido as preces<n>da Rice\nShower, porque não há uma<n>única nuvem à vista\nno dia seguinte."
+            "text": "Os céus devem ter ouvido as preces<n>da Rice\nShower, porque não há uma<n>única nuvem à vista no\ndia seguinte."
         }
     ]
 }

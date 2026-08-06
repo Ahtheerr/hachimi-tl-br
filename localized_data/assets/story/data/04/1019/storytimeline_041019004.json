@@ -6,7 +6,7 @@
         },
         {
             "name": "Agnes Digital",
-            "text": "Hã? Desculpe, acho que não ouvi<n>direito. Você está me dizendo para<n><i>não</i> escolher? Que eu devo correr<n>em <i>ambas</i>?",
+            "text": "Hã? Desculpe, acho que não ouvi<n>direito. Você está me dizendo para<n><i>não</i> escolher? Que eu devo correr em<n><i>ambas</i>?",
             "choice_data_list": [
                 "Bingo.",
                 "Bingo."
@@ -46,8 +46,8 @@
             "name": "Agnes Digital",
             "text": "E por que não?!",
             "choice_data_list": [
-                "Porque você se esforça o dobro de qualquer uma!",
-                "Porque você se esforça o dobro de qualquer uma!"
+                "Porque você se esforça o dobro de qualquer\numa!",
+                "Porque você se esforça o dobro de qualquer\numa!"
             ]
         },
         {

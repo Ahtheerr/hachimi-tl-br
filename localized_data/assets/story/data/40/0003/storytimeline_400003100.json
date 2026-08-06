@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Light Hello",
@@ -6,11 +7,11 @@
         },
         {
             "name": "Light Hello",
-            "text": "Okay, time to think up a new event!<n>We need to\nput her strengths on full<n>display!"
+            "text": "Okay, time to think up a new event!<n>We need to put\nher strengths on full<n>display!"
         },
         {
             "name": "Monologue",
-            "text": "Light Hello seems to be inspired after<n>watching\n<chrname> train."
+            "text": "Light Hello seems to be inspired after<n>watching <chrname>\ntrain."
         }
     ]
 }

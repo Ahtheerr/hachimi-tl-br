@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Monologue",
@@ -10,7 +11,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Well, yes, but they all stayed until the<n>end! So if\nyou ask me—"
+            "text": "Well, yes, but they all stayed until the<n>end! So if you\nask me—"
         },
         {
             "name": "Smart Falcon",
@@ -18,7 +19,7 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "I stuffed my singing full of feelings...<n>so I just\nknow they resonated with<n>someone.",
+            "text": "I stuffed my singing full of feelings...<n>so I just know\nthey resonated with<n>someone.",
             "choice_data_list": [
                 "We can't be satisfied yet!"
             ]
@@ -41,7 +42,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "I bring good news—fantastic, even!<n>You see,\nSuzuka here was so moved,<n>she wishes to\ncooperate with your<n>project!"
+            "text": "I bring good news—fantastic, even!<n>You see, Suzuka\nhere was so moved,<n>she wishes to cooperate with\nyour<n>project!"
         },
         {
             "name": "Silence Suzuka",
@@ -77,7 +78,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "In other words, it... captured hearts.<n>With the\npower of song!"
+            "text": "In other words, it... captured hearts.<n>With the power\nof song!"
         },
         {
             "name": "Monologue",

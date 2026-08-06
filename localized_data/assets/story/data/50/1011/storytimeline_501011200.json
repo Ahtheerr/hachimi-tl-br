@@ -1,0 +1,48 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Today, Grass Wonder will finally run<n>in her debut\nrace!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "<i>Inhale... Exhale...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "She takes deep and slow breaths,<n>outwardly\nseeming like her usual self."
+        },
+        {
+            "name": "Monólogo",
+            "text": "But I can't help but wonder if she'll<n>be able to hold\nit all together. Is she<n>warmed up enough? Should I\ntighten<n>her shoelaces?"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "...Excuse me, Trainer? You seem to<n>be rather\nanxious. Are you feeling<n>okay?",
+            "choice_data_list": [
+                "I-I'm good! How about you?!",
+                "I-I'm good! How about you?!"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. You're nervous enough for the<n>two of us.\nI'm doing just fine."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "A journey of a thousand miles begins<n>with a single\nstep. Today is no<n>different than any other."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "We've waited a long time for this<n>debut... I'll show\nyou a performance<n>that will be sure to clear away\nthose<n>nerves.",
+            "choice_data_list": [
+                "I can't wait!",
+                "I can't wait!"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, I should be on my way."
+        }
+    ]
+}

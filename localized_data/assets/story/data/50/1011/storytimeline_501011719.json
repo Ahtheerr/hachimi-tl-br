@@ -1,0 +1,44 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "I meet Grass Wonder at her<n>classroom to take her\nto training."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh my... Thank you for coming all this<n>way."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "But may I ask to be excused from<n>training for\ntoday?",
+            "choice_data_list": [
+                "Are you feeling under the weather?",
+                "Are you feeling under the weather?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well, no. I'm perfectly healthy, it's<n>just—"
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hey! Hey, Grass! Can you help me<n>figure out what\nthis Classical<n>Japanese poem means?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Ah! No fair! I was gonna ask her an<n>English\nquestion!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Just a moment. I'll be right there."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'm sorry, Trainer. But you can see<n>how I'm\nneeded."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Grass Wonder gives an apologetic<n>bow before\ngoing back inside the<n>classroom."
+        }
+    ]
+}

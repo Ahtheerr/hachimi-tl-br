@@ -6,7 +6,7 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Oooh, o que está acontecendo ali?<n>Tem muita\ngente. É algum tipo de<n>cerimônia?"
+            "text": "Oooh, o que está acontecendo ali?<n>Tem muita gente.\nÉ algum tipo de<n>cerimônia?"
         },
         {
             "name": "Funcionário da Loteria",
@@ -17,7 +17,7 @@
         },
         {
             "name": "Funcionário da Loteria",
-            "text": "Os vencedores do primeiro prêmio<n>levam um\nhambúrguer de cenoura de<n>luxo! Os vencedores\ndo segundo<n>prêmio levam um cesto de cenouras!\nE os vencedores do terceiro prêmio<n>podem levar\npara casa uma única<n>cenoura!"
+            "text": "Os vencedores do primeiro prêmio<n>levam um\nhambúrguer de cenoura de<n>luxo! Os vencedores do\nsegundo<n>prêmio levam um cesto de cenouras!<n>E os\nvencedores do terceiro prêmio<n>podem levar para\ncasa uma única<n>cenoura!"
         },
         {
             "name": "Funcionário da Loteria",
@@ -72,10 +72,10 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Pensar que ganharíamos uma fonte<n>termal... Eu\nnão possuo uma, mas já<n>fiz uso da que temos na\npropriedade<n>Mejiro antes.",
+            "text": "Pensar que ganharíamos uma fonte<n>termal... Eu não\npossuo uma, mas já<n>fiz uso da que temos na\npropriedade<n>Mejiro antes.",
             "choice_data_list": [
-                "Bem, não é <i>uma</i> fonte termal. É uma <i>viagem</i>\npara uma fonte termal.",
-                "Bem, não é <i>uma</i> fonte termal. É uma <i>viagem</i>\npara uma fonte termal."
+                "Bem, não é <i>uma</i> fonte termal. É uma <i>viagem</i> para\numa fonte termal.",
+                "Bem, não é <i>uma</i> fonte termal. É uma <i>viagem</i> para\numa fonte termal."
             ]
         },
         {
@@ -88,7 +88,7 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Se começarmos a nos preparar assim<n>que\nvoltarmos para o campus...<n>vejamos... acredito\nque estarei pronta<n>em..."
+            "text": "Se começarmos a nos preparar assim<n>que\nvoltarmos para o campus...<n>vejamos... acredito que\nestarei pronta<n>em..."
         },
         {
             "name": "Mejiro Bright",
@@ -108,14 +108,14 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Hmm. Você tem algum plano para<n>daqui a um\nano?",
+            "text": "Hmm. Você tem algum plano para<n>daqui a um ano?",
             "choice_data_list": [
                 "Acho que não."
             ]
         },
         {
             "name": "Mejiro Bright",
-            "text": "Isso significa que podemos ir nesta<n>viagem\njuntos. Que alívio."
+            "text": "Isso significa que podemos ir nesta<n>viagem juntos.\nQue alívio."
         },
         {
             "name": "Mejiro Bright",
@@ -123,11 +123,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "A animação dela está estampada em<n>seu rosto.\nAs bochechas de Mejiro<n>Bright ficam rosadas,\ncomo se ela já<n>tivesse entrado na água quente."
+            "text": "A animação dela está estampada em<n>seu rosto. As\nbochechas de Mejiro<n>Bright ficam rosadas, como\nse ela já<n>tivesse entrado na água quente."
         },
         {
             "name": "Funcionário da Loteria",
-            "text": "Parece que temos outro vencedor do<n>primeiro\nprêmio! Parabéns! Você<n>ganhou um hambúrguer\nde cenoura<n>de luxo!"
+            "text": "Parece que temos outro vencedor do<n>primeiro\nprêmio! Parabéns! Você<n>ganhou um hambúrguer de\ncenoura<n>de luxo!"
         },
         {
             "name": "Monólogo",
@@ -142,7 +142,7 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Treinador, você me confiaria a tarefa<n>de\ncozinhá-lo?",
+            "text": "Treinador, você me confiaria a tarefa<n>de cozinhá-lo?",
             "choice_data_list": [
                 "...Você consegue?",
                 "...Você consegue?"
@@ -226,7 +226,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Seria uma perda de tempo descascar<n>todas. Em\nvez disso, apenas as<n>fervemos e comemos\nassim. Nunca<n>provei cenouras mais doces."
+            "text": "Seria uma perda de tempo descascar<n>todas. Em\nvez disso, apenas as<n>fervemos e comemos assim.\nNunca<n>provei cenouras mais doces."
         },
         {
             "name": "Funcionário da Loteria",
@@ -252,22 +252,22 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Receio que isso não vá funcionar. Não<n>sou adepta\na caminhar e mastigar ao<n>mesmo tempo."
+            "text": "Receio que isso não vá funcionar. Não<n>sou adepta a\ncaminhar e mastigar ao<n>mesmo tempo."
         },
         {
             "name": "Mejiro Bright",
-            "text": "Sou simplesmente incapaz. Sempre<n>acabo\nparando no lugar...",
+            "text": "Sou simplesmente incapaz. Sempre<n>acabo parando\nno lugar...",
             "choice_data_list": [
                 "Que tal relaxarmos ali então?"
             ]
         },
         {
             "name": "Mejiro Bright",
-            "text": "Ah, este <i>é</i> um lugar agradável.<n>Podemos até ver\no pôr do sol aqui."
+            "text": "Ah, este <i>é</i> um lugar agradável.<n>Podemos até ver o\npôr do sol aqui."
         },
         {
             "name": "Mejiro Bright",
-            "text": "Vamos dividir a cenoura, Treinador.<n>Veja, ela tem\na mesma cor do sol!"
+            "text": "Vamos dividir a cenoura, Treinador.<n>Veja, ela tem a\nmesma cor do sol!"
         },
         {
             "name": "Monólogo",
@@ -297,7 +297,7 @@
         },
         {
             "name": "Mejiro Bright",
-            "text": "Então, como um pedido de desculpas<n>por um\nprêmio tão indigno, farei com<n>que enviem mais\npara você da<n>propriedade Mejiro.",
+            "text": "Então, como um pedido de desculpas<n>por um\nprêmio tão indigno, farei com<n>que enviem mais para\nvocê da<n>propriedade Mejiro.",
             "choice_data_list": [
                 "Obrigado. Isso ajudaria.",
                 "Obrigado. Isso ajudaria."
@@ -316,7 +316,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Ela baixa a cabeça em desculpas.<n>Não acredito\nque uma rifinha pudesse<n>terminar em um tom tão\nsombrio..."
+            "text": "Ela baixa a cabeça em desculpas.<n>Não acredito que\numa rifinha pudesse<n>terminar em um tom tão\nsombrio..."
         }
     ]
 }

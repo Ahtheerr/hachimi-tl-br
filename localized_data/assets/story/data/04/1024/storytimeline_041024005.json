@@ -17,7 +17,7 @@
         },
         {
             "name": "Mayano Top Gun",
-            "text": "<i>Ufa...</i> Desculpa por isso. E valeu<n>por me segurar."
+            "text": "<i>Ufa...</i> Desculpa por isso. E valeu por<n>me segurar."
         },
         {
             "name": "Mayano Top Gun",
@@ -57,7 +57,7 @@
         },
         {
             "name": "Mayano Top Gun",
-            "text": "Pra onde a professora foi? Ela não tá<n>aqui, né? Ufa... Achei que eu tava<n><i>frita</i>!",
+            "text": "Pra onde a professora foi? Ela não tá<n>aqui, né? Ufa... Achei que eu tava <i>frita</i>!",
             "choice_data_list": [
                 "Você não tem feito sua lição de casa?",
                 "Você não tem feito sua lição de casa?"

@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "",
-            "text": "Um dia, eu levo <chrname> à<n>enfermaria\npra um check-up."
+            "text": "Um dia, eu levo <chrname> à enfermaria pra um<n>check-up."
         },
         {
             "name": "???",
@@ -17,7 +17,7 @@
         },
         {
             "name": "???",
-            "text": "Bem, já que vocês estão na<n>enfermaria da\nacademia, isso faz de<n>mim a enfermeira escolar\nde<n>confiança! Isso mesmo, só uma<n>funcionária\ncomum!",
+            "text": "Bem, já que vocês estão na<n>enfermaria da\nacademia, isso faz de<n>mim a enfermeira escolar de\nconfiança! Isso mesmo, só uma<n>funcionária\ncomum!",
             "choice_data_list": [
                 "...Não parece?"
             ]
@@ -50,7 +50,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Nossa! Você tá com uma carinha tão<n>preocupada!\n☆"
+            "text": "Nossa! Você tá com uma carinha tão<n>preocupada! ☆"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Hahaha! Não precisa ter medo! Eu só<n>vou\nencaixar essas agulhas<n>extraordinárias com\nprecisão nos<n>seus pontos de chakra."
+            "text": "Hahaha! Não precisa ter medo! Eu só<n>vou encaixar\nessas agulhas<n>extraordinárias com precisão nos\nseus pontos de chakra."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -84,7 +84,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Não se preocupa! É minha primeira<n>vez, então\ntecnicamente eu também<n>nunca falhei com\npaciente nenhum!"
+            "text": "Não se preocupa! É minha primeira<n>vez, então\ntecnicamente eu também<n>nunca falhei com paciente\nnenhum!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -99,7 +99,7 @@
         },
         {
             "name": "",
-            "text": "Não tem como a gente fazer isso. Eu<n>pego\n<chrname> e vou pra<n>porta, quando..."
+            "text": "Não tem como a gente fazer isso. Eu<n>pego <chrname> e vou\npra porta, quando..."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -107,7 +107,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Você é a Nishino Flower, né?! Mesmo<n>sendo tão\njovem, você é gentil e<n>íntegra. Você se dedica\ncom tudo que<n>tem pra virar uma adulta\nmaravilhosa!",
+            "text": "Você é a Nishino Flower, né?! Mesmo<n>sendo tão\njovem, você é gentil e<n>íntegra. Você se dedica com\ntudo que<n>tem pra virar uma adulta maravilhosa!",
             "choice_data_list": [
                 "Você conhece ela?"
             ]
@@ -134,7 +134,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Eu <i>tenho certeza</i> que não vou<n>errar!"
+            "text": "Eu <i>tenho certeza</i> que não vou errar!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -153,7 +153,7 @@
         },
         {
             "name": "",
-            "text": "Eu sinto o perigo no ar, mas penso<n>que talvez—e\neu enfatizo:<n><i>talvez</i>—exista uma chance de tirar\nalgo especial desse tratamento."
+            "text": "Eu sinto o perigo no ar, mas penso<n>que talvez—e eu\nenfatizo:<n><i>talvez</i>—exista uma chance de tirar<n>algo\nespecial desse tratamento."
         },
         {
             "name": "",
@@ -216,7 +216,7 @@
         },
         {
             "name": "",
-            "text": "<chrname> tá transbordando<n>tanta força\nque eu quase nem<n>reconheço!"
+            "text": "<chrname> tá transbordando tanta força que eu<n>quase nem\nreconheço!"
         },
         {
             "name": "",
@@ -232,7 +232,7 @@
         },
         {
             "name": "",
-            "text": "O estado de <chrname> piora\nrapidamente."
+            "text": "O estado de <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -296,7 +296,7 @@
         },
         {
             "name": "",
-            "text": "Eu consigo sentir uma melhora<n>enorme nas\nhabilidades de<n><chrname>!"
+            "text": "Eu consigo sentir uma melhora<n>enorme nas\nhabilidades de <chrname>!"
         },
         {
             "name": "",
@@ -312,7 +312,7 @@
         },
         {
             "name": "",
-            "text": "O estado de <chrname> piora\nrapidamente."
+            "text": "O estado de <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -376,7 +376,7 @@
         },
         {
             "name": "",
-            "text": "O corpo inteiro de <chrname><n>tá irradiando\num brilho saudável! Ela<n>é o retrato da saúde!"
+            "text": "O corpo inteiro de <chrname> tá irradiando um<n>brilho saudável!\nEla é o retrato da<n>saúde!"
         },
         {
             "name": "",
@@ -392,7 +392,7 @@
         },
         {
             "name": "",
-            "text": "O estado de <chrname> piora\nrapidamente."
+            "text": "O estado de <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -456,7 +456,7 @@
         },
         {
             "name": "",
-            "text": "<chrname> tá transbordando<n>charme! Vai\nchamar atenção por onde<n>passar!"
+            "text": "<chrname> tá transbordando charme! Vai chamar<n>atenção por\nonde passar!"
         },
         {
             "name": "",
@@ -472,7 +472,7 @@
         },
         {
             "name": "",
-            "text": "O estado de <chrname> piora\nrapidamente."
+            "text": "O estado de <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -496,7 +496,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> denunciados!"
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores <i>serão</i>\ndenunciados!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -540,7 +540,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Ei! Você aí! Espero que saiba que<n>invasores\n<i>serão</i> denunciados!"
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores <i>serão</i>\ndenunciados!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -560,7 +560,7 @@
         },
         {
             "name": "",
-            "text": "O que foi isso afinal? Eu e<n><chrname> nos\nencaramos,<n>sem entender nada."
+            "text": "O que foi isso afinal? Eu e<n><chrname> nos encaramos, sem\nentender nada."
         }
     ]
 }

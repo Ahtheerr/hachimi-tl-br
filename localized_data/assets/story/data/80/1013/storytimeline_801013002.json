@@ -21,7 +21,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Se você fosse oferecer um conselho<n>de corredor,\no que diria?",
+            "text": "Se você fosse oferecer um conselho<n>de corredor, o\nque diria?",
             "choice_data_list": [
                 "Treine seu vigor e sua garra.",
                 "Foque na sua largada."
@@ -29,7 +29,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Vigor e garra, você diz? Sinto como se\n<i>estivesse</i> focando neles..."
+            "text": "Vigor e garra, você diz? Sinto como se<n><i>estivesse</i>\nfocando neles..."
         },
         {
             "name": "Mejiro McQueen",
@@ -49,7 +49,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Muito obrigada pelo seu conselho.<n>Incorporarei\nisso ao meu treino<n>imediatamente!"
+            "text": "Muito obrigada pelo seu conselho.<n>Incorporarei isso\nao meu treino<n>imediatamente!"
         }
     ]
 }

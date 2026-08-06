@@ -1,0 +1,263 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Taiki Shuttle and I are on the way<n>home from an\nouting when we decide<n>to stop by the shopping\ndistrict."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What's that sign say, Trainer? \"Rif\"...<n>\"Ruffle\"?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "It looks like there's a raffle going on.",
+            "choice_data_list": [
+                "Actually, it says \"raffle.\""
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with<n>our New Year's\nraffle! This year's<n>grand-prize is a hot spring\nvacation<n>for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot<n>hamburger\nsteak! Second-prize<n>winners get a bushel of\ncarrots! And<n>third-prize winners can take home a\nsingle carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "You two over there! Care to try your<n>luck?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Wow! So this is what a Japanese<n>raffle looks like!\nI've been itchin' to<n>try one!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Let's check it out, Trainer! We could<n>win ourselves\nsomethin' big!",
+            "choice_data_list": [
+                "We have to buy something to get a raffle ticket."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oops, I clean forgot about that part!<n>Let's see...\nWhat should I buy?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "All right, I've got just the thing! I'm<n>gonna buy me\na jug o' milk!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "...And so, we receive one raffle ticket."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "We've only got one chance! Sure<n>seems like a long\nshot..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But I'm still gunnin' for the top prize!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Woohoo! C'mooon, grand-prize!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Taiki pumps herself up and gives the<n>raffle spinner\nan enthusiastic whirl."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A small plastic ball drops from the<n>spinner's\nopening..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves<n>a grand-prize\nwinner! Come and get<n>the coupon for your hot\nspring<n>vacation! Congratulations!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yeehaaaw! Now this has made my<n>day!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I did it, Trainer! So when are we<n>goin'?",
+            "choice_data_list": [
+                "Y-you want to go with me?",
+                "Y-you want to go with me?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Well, of course! We're in this<n>together!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "When do ya wanna head out? Maybe<n>tomorrow—or\nthe day after that? Or<n>how 'bout right now?! 'Kay,\nlet's<n>pack our things and go!",
+            "choice_data_list": [
+                "H-hold on! Let's save it for later!",
+                "H-hold on! Let's save it for later!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Later, huh?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hmm. Are you sayin' I haven't<n>worked hard\nenough to go to a hot<n>spring yet?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "And it's a waste to go when you're<n>not tuckered\nout? That's some true<n>Japanese spirit right there!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Okay, I got ya! Let's go when the<n>time is right! It's\na promise!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "It would be nice to use the trip as a<n>reward once\nshe reaches a<n>milestone..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "With that in mind, I decide to hold on<n>to her ticket for\nthe time being."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize<n>winner!\nCongratulations! You get one<n>deluxe carrot\nhamburger steak!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Nooo! I was so close!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But this big ol' hamburger steak does<n>look packed\nfull of energy!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hehe. Plus, huge slabs of meat<n>remind me of my\nfamily back home!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, we oughta take a picture so I can<n>show my\nfolks what I won!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Get over here, Trainer!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Say cheese!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "After that, Taiki Shuttle wolfs down<n>the deluxe\nhamburger steak and fills<n>up with enough energy to\nlast into the<n>next day."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's<n>your lucky day!\nYou're going home<n>with a bushel of carrots!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ooh, we almost had it! Drat!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But, these carrots are so shiny—they<n>look delicious!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Since we got so many, what say we<n>invite\neverybody in the dorm over for<n>a big ol' barbecue?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'm sure it'll be a hoot! Let's go right<n>now and get\nstarted!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "That night, everyone thoroughly<n>enjoys themselves\nat the<n>carrot-centric barbecue."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won<n>the third-prize!\nHere's your carrot!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Aww! Third-prize?!",
+            "choice_data_list": [
+                "These things happen."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Urgh... That don't mean I gotta like it!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Okay, here's what we're gonna do!<n>We're gonna\nkeep on shoppin' till<n>we get another ticket!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It won't be cheap, but I need that<n>grand-prize...\nHeck, I'll even make do<n>with first or second!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I talk Taiki Shuttle out of her raffle<n>fervor and half\ndrag her back to the<n>academy."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you<n>pulled a blank one!\nTake this pack of<n>tissues as a consolation prize."
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oof... This raffle's pretty rough. I<n>guess life ain't all\nsunshine and<n>rainbows, huh?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "So this is how my first raffle ends..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I join Taiki Shuttle in her<n>disappointment..."
+        }
+    ]
+}

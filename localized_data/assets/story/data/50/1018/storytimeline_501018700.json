@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Durante o treinamento, noto Air<n>Groove\ntropeçando por um momento.",
+            "text": "Durante o treinamento, noto Air<n>Groove tropeçando\npor um momento.",
             "choice_data_list": [
                 "Não dormiu bem a noite passada?"
             ]
@@ -13,7 +13,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Não, não preciso falar disso. Esqueça<n>que eu\ndisse qualquer coisa.",
+            "text": "Não, não preciso falar disso. Esqueça<n>que eu disse\nqualquer coisa.",
             "choice_data_list": [
                 "Bem, agora eu estou curioso!"
             ]

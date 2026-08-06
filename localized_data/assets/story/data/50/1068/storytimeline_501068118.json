@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Kitasan Black",
-            "text": "<i>Arf, arf... Off, off...</i> Eu consegui...<n>chegar até o\nfim... Mas..."
+            "text": "<i>Arf, arf... Off, off...</i> Eu consegui...<n>chegar até o fim...\nMas..."
         },
         {
             "name": "Kitasan Black",
@@ -41,7 +41,7 @@
         },
         {
             "name": "Espectador B",
-            "text": "Provavelmente é a distância que ela<n>correu.\nMuitas Umamusume acabam<n>assim depois de\ncorrer o Derby..."
+            "text": "Provavelmente é a distância que ela<n>correu. Muitas\nUmamusume acabam<n>assim depois de correr o\nDerby..."
         },
         {
             "name": "Monólogo",
@@ -53,7 +53,7 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "Sim, acho que sim... Mas uau. Eu<n>tinha tanta\ncerteza de que seria forte<n>o bastante para\naguentar a corrida."
+            "text": "Sim, acho que sim... Mas uau. Eu<n>tinha tanta certeza\nde que seria forte<n>o bastante para aguentar a\ncorrida."
         },
         {
             "name": "Kitasan Black",
@@ -61,10 +61,10 @@
         },
         {
             "name": "Monólogo",
-            "text": "Após refletir um pouco, decido contar<n>a ela sobre\na conversa que ouvi e<n>que está me preocupando.",
+            "text": "Após refletir um pouco, decido contar<n>a ela sobre a\nconversa que ouvi e<n>que está me preocupando.",
             "choice_data_list": [
-                "Alguém disse que a distância da corrida pode ser\no problema.",
-                "Alguém disse que a distância da corrida pode ser\no problema."
+                "Alguém disse que a distância da corrida pode ser o\nproblema.",
+                "Alguém disse que a distância da corrida pode ser o\nproblema."
             ]
         },
         {
@@ -73,7 +73,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Não posso dizer com certeza se isso<n>é verdade.\nHoje é a primeira vez que<n>ela corre em uma\ncorrida G1 tão<n>longa."
+            "text": "Não posso dizer com certeza se isso<n>é verdade.\nHoje é a primeira vez que<n>ela corre em uma corrida\nG1 tão<n>longa."
         },
         {
             "name": "Monólogo",
@@ -105,11 +105,11 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Heh heh heh! Como eu não teria?<n>Quem você\nacha que é a sua<n>treinadora superespecial, hein?"
+            "text": "Heh heh heh! Como eu não teria?<n>Quem você acha\nque é a sua<n>treinadora superespecial, hein?"
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Sou eu, Sakura Bakushin O! A<n>Umamusume que\nfoi vitoriosa em três<n>corridas de 1.200 metros — ou\nseja,<n>3.600 metros no total! Isso é distância\n<i>suuuper</i> longa!",
+            "text": "Sou eu, Sakura Bakushin O! A<n>Umamusume que foi\nvitoriosa em três<n>corridas de 1.200 metros — ou\nseja,<n>3.600 metros no total! Isso é distância\n<i>suuuper</i> longa!",
             "choice_data_list": [
                 "Então distâncias longas... são só um monte de\ndistâncias curtas empilhadas?!"
             ]
@@ -124,7 +124,7 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "Se a Bakushin O diz que eu vou ficar<n>bem, então\neu posso mesmo ficar<n>bem! Né, Treinador?",
+            "text": "Se a Bakushin O diz que eu vou ficar<n>bem, então eu\nposso mesmo ficar<n>bem! Né, Treinador?",
             "choice_data_list": [
                 "Uhh, não tenho muita certeza se é assim tão\nsimples..."
             ]
@@ -143,7 +143,7 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "A Kikuka Sho de outono pode ser<n>ainda mais\ndifícil. São 3.000 metros. É<n>melhor eu focar nos\nestudos e treinar<n>muito pesado!",
+            "text": "A Kikuka Sho de outono pode ser<n>ainda mais difícil.\nSão 3.000 metros. É<n>melhor eu focar nos estudos e\ntreinar<n>muito pesado!",
             "color_text_info_list": [
                 "Kikuka Sho"
             ]

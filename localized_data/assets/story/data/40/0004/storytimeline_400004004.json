@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Desde que me sentei à minha mesa<n>para elaborar\num novo regime de<n>treino para\n<chrname>, as<n>últimas horas voaram.\nEstou prestes<n>a fazer uma pausa quando..."
+            "text": "Desde que me sentei à minha mesa<n>para elaborar\num novo regime de<n>treino para <chrname>, as últimas horas\nvoaram.<n>Estou prestes a fazer uma pausa<n>quando..."
         },
         {
             "name": "Monólogo",
@@ -10,14 +10,14 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Você está aí, Treinador? É a Tazuna.<n>Você tem\numa visita. ♪",
+            "text": "Você está aí, Treinador? É a Tazuna.<n>Você tem uma\nvisita. ♪",
             "color_text_info_list": [
                 "Tazuna"
             ]
         },
         {
             "name": "Repórter Otonashi",
-            "text": "É Etsuko Otonashi, da <i>Twinkle<n>Monthly</i>. Você\nestaria disponível<n>para conversar no momento?",
+            "text": "É Etsuko Otonashi, da <i>Twinkle<n>Monthly</i>. Você\nestaria disponível para<n>conversar no momento?",
             "choice_data_list": [
                 "Pode entrar."
             ]
@@ -35,7 +35,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Um regime de treino? Er, se não se<n>importar,\nposso dar uma olhada?",
+            "text": "Um regime de treino? Er, se não se<n>importar, posso\ndar uma olhada?",
             "choice_data_list": [
                 "Sinta-se à vontade."
             ]
@@ -57,7 +57,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "A minha? Mas sou apenas uma<n>repórter. Não\ntenho certeza se meus<n>pensamentos seriam\nespecialmente<n>perspicazes...",
+            "text": "A minha? Mas sou apenas uma<n>repórter. Não tenho\ncerteza se meus<n>pensamentos seriam\nespecialmente<n>perspicazes...",
             "choice_data_list": [
                 "Outras perspectivas também são valiosas."
             ]
@@ -72,11 +72,11 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Com esta forma de correr, creio que<n>usar travas\ndo tipo aro externo<n>aliviará parte da carga sobre a\ncorredora."
+            "text": "Com esta forma de correr, creio que<n>usar travas do\ntipo aro externo<n>aliviará parte da carga sobre a\ncorredora."
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Além disso, parece-me que o vigor<n>muitas vezes\nse torna um ponto de<n>preocupação para as\ncorredoras<n>nesta fase de suas carreiras."
+            "text": "Além disso, parece-me que o vigor<n>muitas vezes se\ntorna um ponto de<n>preocupação para as corredoras\nnesta fase de suas carreiras."
         },
         {
             "name": "Repórter Otonashi",
@@ -91,7 +91,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Ela certamente tem muito a dizer, e<n>suas\nobservações são todas<n>incrivelmente\nperspicazes!"
+            "text": "Ela certamente tem muito a dizer, e<n>suas\nobservações são todas<n>incrivelmente perspicazes!"
         },
         {
             "name": "Tazuna Hayakawa",
@@ -146,25 +146,25 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Quem dera eu pudesse redirecionar<n>seus gentis\ncomentários às muitas<n>empresas que\nconcordaram em<n>colaborar e ajudar!"
+            "text": "Quem dera eu pudesse redirecionar<n>seus gentis\ncomentários às muitas<n>empresas que concordaram\nem<n>colaborar e ajudar!"
         },
         {
             "name": "Repórter Otonashi",
-            "text": "No entanto, ainda temos muita lenha<n>para queimar.\nO dia da inauguração<n>da série ainda está um\npouco longe..."
+            "text": "No entanto, ainda temos muita lenha<n>para queimar.\nO dia da inauguração<n>da série ainda está um pouco\nlonge..."
         },
         {
             "name": "Repórter Otonashi",
-            "text": "E esperamos usar esse tempo para<n>mais\npromoções. Quero criar o maior<n>evento de corrida\n— um que cada<n>cidadão aguardará com fôlego\nsuspenso!",
+            "text": "E esperamos usar esse tempo para<n>mais\npromoções. Quero criar o maior<n>evento de corrida —\num que cada<n>cidadão aguardará com fôlego\nsuspenso!",
             "choice_data_list": [
                 "Sua energia é contagiante!"
             ]
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Bem, afinal de contas, esta série vai<n>determinar\nquem é a maior! Quero<n>aprender com seu\nexemplo, Treinador<n><username>, e me dedicar totalmente a\nesta<n>causa!",
+            "text": "Bem, afinal de contas, esta série vai<n>determinar\nquem é a maior! Quero<n>aprender com seu exemplo,\nTreinador<n><username>, e me dedicar totalmente a esta<n>causa!",
             "choice_data_list": [
-                "Então eu também estou me dedicando totalmente\na isso?",
-                "Então eu também estou me dedicando totalmente\na isso?"
+                "Então eu também estou me dedicando totalmente a\nisso?",
+                "Então eu também estou me dedicando totalmente a\nisso?"
             ]
         },
         {
@@ -201,20 +201,20 @@
             "name": "Tazuna Hayakawa",
             "text": "Mas?",
             "choice_data_list": [
-                "Um dia, quero ver uma edição inteira dedicada a\nela!"
+                "Um dia, quero ver uma edição inteira dedicada a ela!"
             ]
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Ora veja! Mas eu entendo como você<n>se sente.\nUm artigo tão pequeno<n>deixa um pouco a desejar."
+            "text": "Ora veja! Mas eu entendo como você<n>se sente. Um\nartigo tão pequeno<n>deixa um pouco a desejar."
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Edição Especial sobre<n><chrname>, a\nMaior<n>Umamusume! Hehe, anseio por ler<n>isso\nalgum dia. ♪"
+            "text": "Edição Especial sobre <chrname>, a Maior<n>Umamusume!\nHehe, anseio por ler<n>isso algum dia. ♪"
         },
         {
             "name": "Monólogo",
-            "text": "Tenho certeza de que<n><chrname> sairá\ndesta série<n>como algo mais do que uma mera\ncandidata."
+            "text": "Tenho certeza de que<n><chrname> sairá desta série como algo\nmais do<n>que uma mera candidata."
         },
         {
             "name": "Monólogo",

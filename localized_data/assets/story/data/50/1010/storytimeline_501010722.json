@@ -1,0 +1,31 @@
+{
+    "text_block_list": [
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ouch! Yeeowch! I'm under attack!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Is Taiki Shuttle hurt?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Somebody's gotten inside my head!<n>Betcha this is\nthe work of a ninja!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "It feels all prickly—and sometimes it<n>throbs like ya\nwouldn't believe! That<n>ninja's throwin' daggers\nright on<n>beat!",
+            "choice_data_list": [
+                "Do you mean you have a headache?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, it's nothin'! Pain, pain, go away!<n>Don't come\nback another day!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Taiki Shuttle is having a hard time<n>dealing with her\nheadache..."
+        }
+    ]
+}

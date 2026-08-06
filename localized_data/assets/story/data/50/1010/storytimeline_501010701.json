@@ -1,0 +1,35 @@
+{
+    "text_block_list": [
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hey, you there! Come get yourself a<n>good-morning\ncuddle!"
+        },
+        {
+            "name": "",
+            "text": "Eek! H-huh? Taiki Shuttle?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hehe. That should cheer ya up! Oh,<n>looks like\nsomebody else needs a<n>good mood-boostin' too...",
+            "choice_data_list": [
+                "What are you up to?"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Oh, Trainer! Mornin'!"
+        },
+        {
+            "name": "",
+            "text": "I've been out here squeezing some<n>energy into\nanybody lookin' too<n>down in the dumps!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Thanks to my day off yesterday, my<n>energy\nreserves are overflowing!"
+        },
+        {
+            "name": "",
+            "text": "It looks like Taiki Shuttle got in some<n>good rest."
+        }
+    ]
+}

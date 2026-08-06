@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Monologue",
@@ -14,7 +15,7 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "That's me! Number 7, Kitasan Black!<n>Smiles or\nsorrow, I can sing it all. For<n>my song, I've\nchosen...",
+            "text": "That's me! Number 7, Kitasan Black!<n>Smiles or\nsorrow, I can sing it all. For<n>my song, I've chosen...",
             "choice_data_list": [
                 "What's going on here?",
                 "What's going on here?"
@@ -38,7 +39,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Please, back of the line. It's her turn.<n>Number 7,\nyou may begin."
+            "text": "Please, back of the line. It's her turn.<n>Number 7, you\nmay begin."
         },
         {
             "name": "Kitasan Black",
@@ -54,7 +55,7 @@
         },
         {
             "name": "Monologue",
-            "text": "At last, I'm dragged out in front of the<n>mic. I guess\nI just have to give it my<n>best shot...",
+            "text": "At last, I'm dragged out in front of the<n>mic. I guess I\njust have to give it my<n>best shot...",
             "choice_data_list": [
                 "Sing a soothing lullaby.",
                 "Let it rip! Give voice to passion!"
@@ -62,7 +63,7 @@
         },
         {
             "name": "Monologue",
-            "text": "I dig up a lullaby from old memories<n>and sing\nalong as best as I can<n>remember."
+            "text": "I dig up a lullaby from old memories<n>and sing along\nas best as I can<n>remember."
         },
         {
             "name": "Agnes Tachyon",
@@ -70,11 +71,11 @@
         },
         {
             "name": "Super Creek",
-            "text": "Oh my, this melody sure takes me<n>back. But\nwho's the one singing?"
+            "text": "Oh my, this melody sure takes me<n>back. But who's\nthe one singing?"
         },
         {
             "name": "Haru Urara",
-            "text": "<i>Yawn...</i> What a nice song... I'm<n>getting sleepy..."
+            "text": "<i>Yawn...</i> What a nice song... I'm getting<n>sleepy..."
         },
         {
             "name": "Agnes Tachyon",
@@ -82,15 +83,15 @@
         },
         {
             "name": "Monologue",
-            "text": "The sun's warm rays, along with my<n>singing,\nbring a sleepy end to the<n>audition."
+            "text": "The sun's warm rays, along with my<n>singing, bring\na sleepy end to the<n>audition."
         },
         {
             "name": "Monologue",
-            "text": "Well... maybe this could be one way<n>to help\n<chrname> relax."
+            "text": "Well... maybe this could be one way<n>to help <chrname> relax."
         },
         {
             "name": "Monologue",
-            "text": "I get into the groove and belt out a<n>melody,\nshaking my head up and<n>down to the beat!"
+            "text": "I get into the groove and belt out a<n>melody, shaking\nmy head up and<n>down to the beat!"
         },
         {
             "name": "Kitasan Black",
@@ -142,7 +143,7 @@
         },
         {
             "name": "Monologue",
-            "text": "I now have a deeper understanding<n>of what\npassion truly is. I should<n>relate my findings to\n<chrname>."
+            "text": "I now have a deeper understanding<n>of what\npassion truly is. I should<n>relate my findings to <chrname>."
         }
     ]
 }

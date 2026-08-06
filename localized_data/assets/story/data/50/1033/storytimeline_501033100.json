@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Admire Vega",
-            "text": "Uma lona de meio metro quadrado,<n>uma lanterna\nde cabeça, um<n>relógio-bússola, um cobertor para\naquecer minhas pernas e uma<n>garrafa térmica\ncom uma bebida<n>quente..."
+            "text": "Uma lona de meio metro quadrado,<n>uma lanterna de\ncabeça, um<n>relógio-bússola, um cobertor para\naquecer minhas pernas e uma<n>garrafa térmica com\numa bebida<n>quente..."
         },
         {
             "name": "Admire Vega",
@@ -53,7 +53,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Apenas vá dormir, e não fique me<n>esperando\ncomo da última vez. Você<n>pode ir em frente e\napagar a luz do<n>quarto."
+            "text": "Apenas vá dormir, e não fique me<n>esperando como\nda última vez. Você<n>pode ir em frente e apagar a luz\ndo<n>quarto."
         },
         {
             "name": "Admire Vega",
@@ -65,7 +65,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Esta noite chega aproximadamente<n>uma vez a\ncada trinta dias. As<n>estrelas brilham tão\nfortemente."
+            "text": "Esta noite chega aproximadamente<n>uma vez a cada\ntrinta dias. As<n>estrelas brilham tão fortemente."
         },
         {
             "name": "Admire Vega",
@@ -89,7 +89,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "(Consigo sentir sua presença um<n>pouco mais\nforte esta noite.)"
+            "text": "(Consigo sentir sua presença um<n>pouco mais forte\nesta noite.)"
         },
         {
             "name": "Admire Vega",
@@ -104,7 +104,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "Então... Vou correr pela vida que você<n>não pôde\nviver, pelas corridas que<n>não pôde correr e por\ntudo que você<n>não pôde aproveitar."
+            "text": "Então... Vou correr pela vida que você<n>não pôde\nviver, pelas corridas que<n>não pôde correr e por tudo\nque você<n>não pôde aproveitar."
         },
         {
             "name": "Admire Vega",
@@ -152,7 +152,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Um tempinho se passou desde que<n>me tornei o\ntreinador da Admire Vega,<n>e começamos a treinar\na sério para a<n>corrida de estreia dela.",
+            "text": "Um tempinho se passou desde que<n>me tornei o\ntreinador da Admire Vega,<n>e começamos a treinar a\nsério para a<n>corrida de estreia dela.",
             "color_text_info_list": [
                 "Admire Vega",
                 "corrida de estreia"
@@ -160,7 +160,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Graças ao talento e à atitude estoica<n>que ela\nherdou da mãe e à sua mente<n>afiada capaz de\nassimilar<n>rapidamente as instruções, o\ntreinamento dela progrediu com muita\ntranquilidade."
+            "text": "Graças ao talento e à atitude estoica<n>que ela\nherdou da mãe e à sua mente<n>afiada capaz de\nassimilar<n>rapidamente as instruções, o<n>treinamento\ndela progrediu com muita<n>tranquilidade."
         },
         {
             "name": "Admire Vega",
@@ -179,7 +179,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Ela rejeita constantemente o que<n>considera\ninterferência<n>desnecessária. A impressão é de\nque<n>a distância entre nós ainda é grande."
+            "text": "Ela rejeita constantemente o que<n>considera\ninterferência<n>desnecessária. A impressão é de que\na distância entre nós ainda é grande."
         },
         {
             "name": "Monólogo",
@@ -210,15 +210,15 @@
         },
         {
             "name": "Monólogo",
-            "text": "E desde então, isso vem afetando a<n>postura dela\ne causando tensão<n>adicional nas suas pernas."
+            "text": "E desde então, isso vem afetando a<n>postura dela e\ncausando tensão<n>adicional nas suas pernas."
         },
         {
             "name": "Monólogo",
-            "text": "Eu também soube pelos documentos<n>dela que a\npele da sola dos seus pés<n>é mais fina que a\nmédia."
+            "text": "Eu também soube pelos documentos<n>dela que a\npele da sola dos seus pés<n>é mais fina que a média."
         },
         {
             "name": "Monólogo",
-            "text": "Ela é responsável e independente o<n>suficiente\npara cuidar de si mesma de<n>forma adequada.\nGraças a isso, ela<n>não teve nenhum problema\ngrave.<n>Mesmo assim...",
+            "text": "Ela é responsável e independente o<n>suficiente para\ncuidar de si mesma de<n>forma adequada. Graças a\nisso, ela<n>não teve nenhum problema grave.<n>Mesmo\nassim...",
             "choice_data_list": [
                 "Quero ajudá-la a reduzir um pouco a tensão, nem\nque seja só um pouco."
             ]
@@ -229,14 +229,14 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Por favor, venha até mim se precisar<n>de ajuda\ncom qualquer coisa, tudo<n>bem?",
+            "text": "Por favor, venha até mim se precisar<n>de ajuda com\nqualquer coisa, tudo<n>bem?",
             "choice_data_list": [
                 "Muito obrigado!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "A rotina de cuidados diários dela<n>parece\nsuficiente, então quero<n>recomendar a ela uma\nestratégia de<n>melhora mais abrangente."
+            "text": "A rotina de cuidados diários dela<n>parece suficiente,\nentão quero<n>recomendar a ela uma estratégia de\nmelhora mais abrangente."
         },
         {
             "name": "Monólogo",
@@ -259,14 +259,14 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "A mãe dela também sofria com o<n>mesmo\nproblema durante os anos<n>ativos de corrida, então\nela deve ter<n>boas soluções.",
+            "text": "A mãe dela também sofria com o<n>mesmo problema\ndurante os anos<n>ativos de corrida, então ela deve\nter<n>boas soluções.",
             "choice_data_list": [
                 "Essa é uma boa ideia!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Os documentos da Admire Vega já<n>incluem as\ninformações de contato da<n>mãe dela, então\nresolvo ligar para ela<n>e explicar cuidadosamente a\nsituação."
+            "text": "Os documentos da Admire Vega já<n>incluem as\ninformações de contato da<n>mãe dela, então resolvo\nligar para ela<n>e explicar cuidadosamente a situação."
         },
         {
             "name": "Mãe da Ayabe",
@@ -274,7 +274,7 @@
         },
         {
             "name": "Mãe da Ayabe",
-            "text": "Pelo que você disse, parece que fazer<n>uma\nencomenda pode ser a melhor<n>coisa a se fazer.\nEu vou ligar para ele<n>por você.",
+            "text": "Pelo que você disse, parece que fazer<n>uma\nencomenda pode ser a melhor<n>coisa a se fazer. Eu\nvou ligar para ele<n>por você.",
             "choice_data_list": [
                 "Muito obrigado mesmo!"
             ]
@@ -354,7 +354,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Terei que aos poucos estabelecer a<n>confiança\nentre nós enquanto<n>continuamos nesse caminho\njuntos.<n>Mas nesse meio tempo... nós vamos<n>com\ntudo!"
+            "text": "Terei que aos poucos estabelecer a<n>confiança entre\nnós enquanto<n>continuamos nesse caminho juntos.\nMas nesse meio tempo... nós vamos<n>com tudo!"
         },
         {
             "name": "Monólogo",

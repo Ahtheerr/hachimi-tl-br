@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Monologue",
-            "text": "During a performance, we hear<n>students in the\ncrowd saying that<n>concerts are only for star\nrunners—for<n>those who earn their mics on the\ntrack."
+            "text": "During a performance, we hear<n>students in the\ncrowd saying that<n>concerts are only for star\nrunners—for<n>those who earn their mics on the<n>track."
         },
         {
             "name": "Monologue",
@@ -14,7 +15,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Thanks to Falcon's impassioned<n>plea, even\nstudents who previously<n>showed no interest in\nour project<n>begin to warm up to the idea of the\nGrand Concert."
+            "text": "Thanks to Falcon's impassioned<n>plea, even\nstudents who previously<n>showed no interest in our\nproject<n>begin to warm up to the idea of the<n>Grand\nConcert."
         }
     ]
 }

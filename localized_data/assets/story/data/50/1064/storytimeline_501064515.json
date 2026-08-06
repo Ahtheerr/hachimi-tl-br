@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Twin Turbo",
-            "text": "Oooh! Olha só quantas bebidas<n>bonitas e coloridas\neles estão<n>vendendo! Eu quero experimentar\naquela ali!"
+            "text": "Oooh! Olha só quantas bebidas<n>bonitas e coloridas\neles estão<n>vendendo! Eu quero experimentar<n>aquela\nali!"
         },
         {
             "name": "Sakura Bakushin O",
@@ -47,7 +47,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Oho! Os trens estão correndo! Mas<n>sabe quem\nmais consegue correr, e<n>até mais <i>rápido</i> do que\num trem?<n>Eu mesma! Hora de provar!"
+            "text": "Oho! Os trens estão correndo! Mas<n>sabe quem\nmais consegue correr, e<n>até mais <i>rápido</i> do que um\ntrem? Eu<n>mesma! Hora de provar!"
         },
         {
             "name": "Twin Turbo",
@@ -75,7 +75,7 @@
         },
         {
             "name": "Twin Turbo",
-            "text": "De jeito nenhum! <i>Eu</i> vou ser a<n>número um! Sai\nda frente!"
+            "text": "De jeito nenhum! <i>Eu</i> vou ser a<n>número um! Sai da\nfrente!"
         },
         {
             "name": "Mejiro Palmer",
@@ -83,9 +83,9 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "<i>Ofegante, ofegante...</i> Sério, de que<n>material\nessas duas são feitas?!<n>Como elas conseguem\n<i>ainda</i> estar<n>correndo?!",
+            "text": "<i>Ofegante, ofegante...</i> Sério, de que<n>material essas\nduas são feitas?!<n>Como elas conseguem <i>ainda</i>\nestar<n>correndo?!",
             "choice_data_list": [
-                "Parece que tudo o que podemos fazer é\nsegui-las...",
+                "Parece que tudo o que podemos fazer é segui-las...",
                 "Talvez devêssemos dar um destino a elas."
             ]
         },
@@ -119,7 +119,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Olhem só para todas estas flores<n>totalmente\ndesabrochadas! São<n>quase tão bonitas e\nvibrantes quanto<n>flores de cerejeira!"
+            "text": "Olhem só para todas estas flores<n>totalmente\ndesabrochadas! São<n>quase tão bonitas e vibrantes\nquanto<n>flores de cerejeira!"
         },
         {
             "name": "Twin Turbo",
@@ -131,7 +131,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Hehehe! Só há uma coisa a se fazer<n>quando se\nestá em um local tão<n>panorâmico como este, e\nisso é..."
+            "text": "Hehehe! Só há uma coisa a se fazer<n>quando se\nestá em um local tão<n>panorâmico como este, e isso\né..."
         },
         {
             "name": "Palmer e Turbo",
@@ -163,7 +163,7 @@
         },
         {
             "name": "Sakura Bakushin O",
-            "text": "Que vista! É tão espetacular, meu<n>coração está\nindo com tudo no modo<n>BAKUSHIN!"
+            "text": "Que vista! É tão espetacular, meu<n>coração está indo\ncom tudo no modo<n>BAKUSHIN!"
         },
         {
             "name": "Twin Turbo",
@@ -183,7 +183,7 @@
         },
         {
             "name": "Mejiro Palmer",
-            "text": "Não parece tudo um milhão de vezes<n>mais\ndivertido quando você pensa<n>nas coisas desse\njeito?"
+            "text": "Não parece tudo um milhão de vezes<n>mais divertido\nquando você pensa<n>nas coisas desse jeito?"
         },
         {
             "name": "Monólogo",

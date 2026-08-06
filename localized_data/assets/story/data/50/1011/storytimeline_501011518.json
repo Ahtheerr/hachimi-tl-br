@@ -1,0 +1,35 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "It's about time for training, and I'm<n>looking for\nGrass Wonder."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh dear, I just can't get one in. It<n>must be how I'm\nsnapping my wrist."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh... I'm sorry, Trainer. Is it time for<n>our training\nsession?",
+            "choice_data_list": [
+                "What were you up to?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Practicing free throws. I'll be taking<n>part in a\nbasketball game with my<n>classmates soon."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "And no matter the contest, losing is<n>not an option\nfor me."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "So I'm sorry, but I do have five<n>minutes until\ntraining, correct?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "She's not wrong, so I wait as she<n>spends those\nlast five minutes<n>practicing furiously. By the end of\nour<n>actual training, she's completely<n>wiped."
+        }
+    ]
+}

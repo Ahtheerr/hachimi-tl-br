@@ -8,7 +8,7 @@
             "name": "Admire Vega",
             "text": "<i>Arf... Arf...</i>",
             "choice_data_list": [
-                "Você sabe que já está na hora de limparmos tudo,\ncerto?"
+                "Você sabe que já está na hora de limparmos\ntudo, certo?"
             ]
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "<i>Arf... Arf...</i> As estrelas... elas são<n>tão bonitas."
+            "text": "<i>Arf... Arf...</i> As estrelas... elas são tão<n>bonitas."
         },
         {
             "name": "Admire Vega",
@@ -71,7 +71,7 @@
         },
         {
             "name": "Admire Vega",
-            "text": "(É assim que deve ser... Já que tenho<n>que\ncontinuar correndo... pelo bem<n>dela.)"
+            "text": "(É assim que deve ser... Já que tenho<n>que continuar\ncorrendo... pelo bem<n>dela.)"
         }
     ]
 }

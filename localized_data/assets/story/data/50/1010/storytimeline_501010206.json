@@ -1,0 +1,44 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Today is the Sprinters Stakes, the<n>second G1 sprint\nrace on our list."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "This race is only 1,200 meters, just<n>short of a mile!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Meanin' I can throw caution to the<n>wind and gun it!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "On top of that, the steep hill right<n>before the\nNakayama Racecourse's<n>finish line calls for a lot of\npower.<n>Which means...",
+            "choice_data_list": [
+                "This is the perfect race to show off your skills!",
+                "This is the perfect race to show off your skills!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "All right! I got this!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "When it comes to power and speed,<n>I'm the best\naround! I'll prove it to<n>ya!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "So you'd better start plannin' for a<n>party, Trainer!",
+            "choice_data_list": [
+                "Go out there and win it!",
+                "Go out there and win it!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Of course! I'll be back in a jiff!"
+        }
+    ]
+}

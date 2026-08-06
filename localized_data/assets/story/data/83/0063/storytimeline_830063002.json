@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Ikuno Dictus receives a<n>commendation from the\nstudent<n>council for identifying the person who\nmade a mess of the flowerbed."
+            "text": "Ikuno Dictus receives a<n>commendation from the\nstudent<n>council for identifying the person who<n>made\na mess of the flowerbed."
         },
         {
             "name": "Symboli Rudolf",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "One might even say it was a stroke of<n>genius.\nSurely your knowledge of<n>cleats is second to\nnone."
+            "text": "One might even say it was a stroke of<n>genius.\nSurely your knowledge of<n>cleats is second to none."
         },
         {
             "name": "Ikuno Dictus",
@@ -26,7 +26,7 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Respect, you say? Indeed, the master<n>cleat-fitter\ncan discern a runner's<n>growth and bad habits\nfrom their<n>cleats alone."
+            "text": "Respect, you say? Indeed, the master<n>cleat-fitter\ncan discern a runner's<n>growth and bad habits from\ntheir<n>cleats alone."
         },
         {
             "name": "Ikuno Dictus",
@@ -38,11 +38,11 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Yes. A certain someone has taken<n>good care of\nme for many years. I<n>always get them to make my\ncleats."
+            "text": "Yes. A certain someone has taken<n>good care of me\nfor many years. I<n>always get them to make my\ncleats."
         },
         {
             "name": "Ikuno Dictus",
-            "text": "I thought as much! In fact, I've<n>thought so for\nsome time!"
+            "text": "I thought as much! In fact, I've<n>thought so for some\ntime!"
         },
         {
             "name": "Symboli Rudolf",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Ikuno Dictus",
-            "text": "I'm positive it would improve your<n>performance\non corners!"
+            "text": "I'm positive it would improve your<n>performance on\ncorners!"
         },
         {
             "name": "Ikuno Dictus",
@@ -106,14 +106,14 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Oh boy, you're really beating yourself<n>up about\nthis, huh?",
+            "text": "Oh boy, you're really beating yourself<n>up about this,\nhuh?",
             "choice_data_list": [
                 "Is something wrong?"
             ]
         },
         {
             "name": "Nice Nature",
-            "text": "Oh, nice timing. Did you hear all that?<n>Can you\noffer a few words of<n>encouragement?",
+            "text": "Oh, nice timing. Did you hear all that?<n>Can you offer\na few words of<n>encouragement?",
             "choice_data_list": [
                 "Are you confident that what you said was\naccurate?",
                 "Can you pick out some cleats for me too?",
@@ -122,7 +122,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Oh, nice timing. Did you hear all that?<n>Can you\noffer a few words of<n>encouragement?",
+            "text": "Oh, nice timing. Did you hear all that?<n>Can you offer\na few words of<n>encouragement?",
             "choice_data_list": [
                 "Are you confident that what you said was\naccurate?",
                 "Can you pick out some cleats for me too?",
@@ -178,7 +178,7 @@
         },
         {
             "name": "Ikuno Dictus",
-            "text": "With the differences in skeletal<n>structure and\nmuscle mass... No, it'd<n>be better to start by\nconsidering the<n>merits of fitting a human with\ncleats in<n>the first place..."
+            "text": "With the differences in skeletal<n>structure and\nmuscle mass... No, it'd<n>be better to start by\nconsidering the<n>merits of fitting a human with cleats\nin<n>the first place..."
         },
         {
             "name": "Nice Nature",
@@ -194,11 +194,11 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Still, this <i>is</i> for Ikuno's benefit, so<n>I'm gonna\nhelp out. You should too! ♪"
+            "text": "Still, this <i>is</i> for Ikuno's benefit, so I'm<n>gonna help\nout. You should too! ♪"
         },
         {
             "name": "Monólogo",
-            "text": "Hearing that, I don't think refusing is<n>an option.\nAnd so, I find myself roped<n>into Ikuno Dictus's\nhuman cleat<n>research."
+            "text": "Hearing that, I don't think refusing is<n>an option. And\nso, I find myself roped<n>into Ikuno Dictus's human\ncleat<n>research."
         }
     ]
 }

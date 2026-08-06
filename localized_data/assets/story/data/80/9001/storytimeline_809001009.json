@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "<chrname> deu passos<n>incríveis nestes\núltimos anos,<n>rendendo a nós dois um descanso\nmerecido."
+            "text": "<chrname> deu passos incríveis nestes últimos<n>anos,\nrendendo a nós dois um<n>descanso merecido."
         },
         {
             "name": "Monólogo",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Este não é o horário que<n>combinamos. Você\nchegou cedo!",
+            "text": "Este não é o horário que<n>combinamos. Você chegou\ncedo!",
             "choice_data_list": [
                 "Você também!"
             ]
@@ -29,7 +29,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "<i>Suspiro...</i> Hoje foi tão emocionante<n>quanto\nsempre! Mas é o esperado de<n>uma corrida G1!",
+            "text": "<i>Suspiro...</i> Hoje foi tão emocionante<n>quanto sempre!\nMas é o esperado de<n>uma corrida G1!",
             "choice_data_list": [
                 "A paixão da multidão foi incrível!"
             ]
@@ -40,7 +40,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "A empolgação, a emoção... Não há<n>como negar —\nas corridas são<n>maravilhosas!",
+            "text": "A empolgação, a emoção... Não há<n>como negar — as\ncorridas são<n>maravilhosas!",
             "choice_data_list": [
                 "Você tem toda a razão!"
             ]
@@ -66,7 +66,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Você e a <chrname><n>varreram corrida\napós corrida nestes<n>últimos três anos."
+            "text": "Você e a <chrname> varreram corrida após<n>corrida nestes\núltimos três anos."
         },
         {
             "name": "Tazuna Hayakawa",
@@ -101,7 +101,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mais tarde, nos encontramos com a\n<chrname> e aproveitamos a<n>próxima\ncorrida juntos."
+            "text": "Mais tarde, nos encontramos com a<n><chrname> e\naproveitamos a próxima corrida<n>juntos."
         }
     ]
 }

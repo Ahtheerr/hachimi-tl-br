@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Estou andando com a<n>Matikanetannhauser\nquando uma voz<n>inesperada chega aos nossos\nouvidos."
+            "text": "Estou andando com a<n>Matikanetannhauser quando\numa voz<n>inesperada chega aos nossos<n>ouvidos."
         },
         {
             "name": "???",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Hoje tenho um raro dia só para mim...<n>então\npensei em vir a este parque de<n>diversões. No\nentanto..."
+            "text": "Hoje tenho um raro dia só para mim...<n>então pensei\nem vir a este parque de<n>diversões. No entanto..."
         },
         {
             "name": "Diretora Akikawa",
@@ -26,7 +26,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Minhas expectativas para hoje<n>estavam nas\nalturas, então ser<n>forçada a recuar de mãos\nvazias é<n>simplesmente... devastador!"
+            "text": "Minhas expectativas para hoje<n>estavam nas\nalturas, então ser<n>forçada a recuar de mãos vazias\né<n>simplesmente... devastador!"
         },
         {
             "name": "Matikanetannhauser",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Matikanetannhauser",
-            "text": "Ela sempre faz tanto por todos nós!<n>Então a\nManinha Machitan vai cuidar<n>dela e garantir que\nela se divirta de<n>montão!",
+            "text": "Ela sempre faz tanto por todos nós!<n>Então a\nManinha Machitan vai cuidar<n>dela e garantir que ela\nse divirta de<n>montão!",
             "choice_data_list": [
                 "...Acha que dá conta?",
                 "...Acha que dá conta?"
@@ -78,11 +78,11 @@
         },
         {
             "name": "Matikanetannhauser",
-            "text": "Sem problemas! Eu sou irmã mais<n>velha desde o\ndia que meu<n>irmãozinho nasceu — sou\nprofissional!"
+            "text": "Sem problemas! Eu sou irmã mais<n>velha desde o\ndia que meu<n>irmãozinho nasceu — sou profissional!"
         },
         {
             "name": "Matikanetannhauser",
-            "text": "Ei, Diretora! Em qual brinquedo você<n>quer ir\nagora?"
+            "text": "Ei, Diretora! Em qual brinquedo você<n>quer ir agora?"
         },
         {
             "name": "Diretora Akikawa",
@@ -110,7 +110,7 @@
         },
         {
             "name": "Matikanetannhauser",
-            "text": "Hehehe, eu sabia! Tudo bem então,<n>vou lá\ncomprar um pra você!"
+            "text": "Hehehe, eu sabia! Tudo bem então,<n>vou lá comprar\num pra você!"
         },
         {
             "name": "Matikanetannhauser",
@@ -150,7 +150,7 @@
         },
         {
             "name": "Matikanetannhauser",
-            "text": "C-como pode ser?! Achei que eu que<n>deveria ser\na maninha confiável<n>hoje!",
+            "text": "C-como pode ser?! Achei que eu que<n>deveria ser a\nmaninha confiável<n>hoje!",
             "choice_data_list": [
                 "Acho que você foi uma ótima maninha.",
                 "Acho que você foi uma ótima maninha.",
@@ -159,7 +159,7 @@
         },
         {
             "name": "Matikanetannhauser",
-            "text": "Ah... Claro! Não tem como alguém<n>com mais de\numa década de<n>experiência como maninha falhar.\nSem chance... Ahaha.",
+            "text": "Ah... Claro! Não tem como alguém<n>com mais de uma\ndécada de<n>experiência como maninha falhar.<n>Sem\nchance... Ahaha.",
             "choice_data_list": [
                 "Na verdade..."
             ]
@@ -197,7 +197,7 @@
         },
         {
             "name": "Matikanetannhauser",
-            "text": "E essa vai ser a minha chance de<n>mostrar como\neu sou uma maninha<n>confiável de verdade!"
+            "text": "E essa vai ser a minha chance de<n>mostrar como eu\nsou uma maninha<n>confiável de verdade!"
         }
     ]
 }

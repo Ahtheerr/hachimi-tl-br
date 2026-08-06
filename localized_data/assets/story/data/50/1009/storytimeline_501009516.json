@@ -27,13 +27,13 @@
             "name": "Daiwa Scarlet",
             "text": "Argh! Não sei o que fazer!",
             "choice_data_list": [
-                "A corrida deve ser sua prioridade número um!\nSeja forte!",
+                "A corrida deve ser sua prioridade número um! Seja\nforte!",
                 "Coma como uma campeã e vire número um!"
             ]
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Você tem razão! Ser número um na<n>pista vem\nantes de qualquer tigela de<n>carne!",
+            "text": "Você tem razão! Ser número um na<n>pista vem antes\nde qualquer tigela de<n>carne!",
             "choice_data_list": [
                 "Podemos comer para comemorar sua vitória."
             ]
@@ -48,7 +48,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Então está decidido. Vamos ver se<n>isso vai\nmesmo me tornar número<n>um!"
+            "text": "Então está decidido. Vamos ver se<n>isso vai mesmo\nme tornar número<n>um!"
         }
     ]
 }

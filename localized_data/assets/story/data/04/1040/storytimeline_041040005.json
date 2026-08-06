@@ -6,7 +6,7 @@
         },
         {
             "name": "Gold City",
-            "text": "E... pronto! <i>Arf, arf...</i> Meu tempo!<n>Qual foi o meu tempo?",
+            "text": "E... pronto! <i>Arf, arf...</i> Meu tempo! Qual<n>foi o meu tempo?",
             "choice_data_list": [
                 "Parabéns. É um novo recorde.",
                 "Parabéns. É um novo recorde."
@@ -64,7 +64,7 @@
         },
         {
             "name": "Gold City",
-            "text": "O quê— Quem disse que <i>você</i><n>manda? Ainda temos toneladas de<n>coisas para trabalhar!"
+            "text": "O quê— Quem disse que <i>você</i> manda?<n>Ainda temos toneladas de coisas<n>para trabalhar!"
         },
         {
             "name": "Admirador da Gold City",

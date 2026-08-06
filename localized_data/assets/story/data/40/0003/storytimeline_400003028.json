@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Monologue",
-            "text": "I've noticed a change in<n><chrname> ever\nsince our<n>first concert."
+            "text": "I've noticed a change in<n><chrname> ever since our first\nconcert."
         },
         {
             "name": "Monologue",
@@ -30,7 +31,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Now then, time to think about our next<n>concert's\nsetlist. Somehow, work for<n><chrname>'s\nsake doesn't<n>feel like work."
+            "text": "Now then, time to think about our next<n>concert's\nsetlist. Somehow, work for<n><chrname>'s sake doesn't feel\nlike work."
         }
     ]
 }

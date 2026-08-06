@@ -1,0 +1,83 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "On one of my days off..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Even though we don't have training<n>scheduled,\nTaiki Shuttle drops by my<n>office.",
+            "choice_data_list": [
+                "Everything okay?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yessiree! Actually, my good pals<n>Suzuka and\nFukukitaru are competing<n>today!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I came to see if ya wanna watch the<n>race with me\non TV and cheer 'em<n>on!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Got any carrot juice on hand? We<n>can use it to\ncelebrate if either of 'em<n>win!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Taiki and I sit down to watch the race<n>together..."
+        },
+        {
+            "name": "Caster",
+            "text": "Silence Suzuka has stolen the lead<n>with her\nrunaway style—the gap<n>continues to widen as she\nspeeds<n>down the final stretch!"
+        },
+        {
+            "name": "Caster",
+            "text": "This race has become hers alone!<n>She crosses the\nfinish line, the<n>competition ten lengths behind!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whoa, that was fantastic! Way to go,<n>Suzuka!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I can't believe she won a graded<n>race by such a\nhuge margin...",
+            "choice_data_list": [
+                "That race was something else...",
+                "That race was something else..."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Suzuka's been doin' amazing ever<n>since she came\nback from Hong<n>Kong! That's her fourth win in a\nrow!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "As her friend, I couldn't be happier!<n>I'm gonna give\nher a big hug once<n>she gets back to the academy!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Suzuka has taken on numerous<n>challenges in\nsearch of her own<n>unique running style."
+        },
+        {
+            "name": "Monólogo",
+            "text": "It looks like she's finally found her<n>answer."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hey, Trainer! Whatcha daydreamin'<n>about?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Suzuka won! This calls for a party!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "After such a memorable race, one<n>thing is for\nsure—we can't afford to<n>take our eyes off of\nSilence Suzuka."
+        }
+    ]
+}

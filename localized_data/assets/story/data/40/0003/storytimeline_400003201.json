@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Smart Falcon",
@@ -10,11 +11,11 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "During the concert, I kept thinking...<n>having me\nhere must be a bother."
+            "text": "During the concert, I kept thinking...<n>having me here\nmust be a bother."
         },
         {
             "name": "Smart Falcon",
-            "text": "What? No, not at all! I'm actually<n>super grateful\nyou joined us!"
+            "text": "What? No, not at all! I'm actually<n>super grateful you\njoined us!"
         },
         {
             "name": "Smart Falcon",
@@ -22,7 +23,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Indeed! Besides, you've yet to attain<n>your\ngoal—the answer you seek."
+            "text": "Indeed! Besides, you've yet to attain<n>your goal—the\nanswer you seek."
         },
         {
             "name": "Silence Suzuka",
@@ -66,7 +67,7 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Having said that, I now request<n>permission to ask\na question."
+            "text": "Having said that, I now request<n>permission to ask a\nquestion."
         },
         {
             "name": "Smart Falcon",
@@ -90,7 +91,7 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "So if I had to take a guess, I think my<n>singing\nmade <i>you</i> want to sing too."
+            "text": "So if I had to take a guess, I think my<n>singing made\n<i>you</i> want to sing too."
         },
         {
             "name": "Mihono Bourbon",
@@ -118,7 +119,7 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "And singing is the key to<n>understanding it, you\nsay?"
+            "text": "And singing is the key to<n>understanding it, you say?"
         },
         {
             "name": "Monologue",

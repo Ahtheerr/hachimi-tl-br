@@ -26,14 +26,14 @@
         },
         {
             "name": "Monólogo",
-            "text": "É quase como se ela estivesse<n>encenando <i>A\nPequena Vendedora<n>de Fósforos</i>...",
+            "text": "É quase como se ela estivesse<n>encenando <i>A\nPequena Vendedora de<n>Fósforos</i>...",
             "choice_data_list": [
                 "Você também está nessa, Ikuno?"
             ]
         },
         {
             "name": "Ikuno Dictus",
-            "text": "Sim, Marvelous me convidou para<n>ajudar.\nDistribuir admiração e<n>felicidade pela academia é\numa noção<n>louvável, então decidi participar."
+            "text": "Sim, Marvelous me convidou para<n>ajudar. Distribuir\nadmiração e<n>felicidade pela academia é uma noção\nlouvável, então decidi participar."
         },
         {
             "name": "Marvelous Sunday",
@@ -48,11 +48,11 @@
         },
         {
             "name": "Professor",
-            "text": "Houve relatos de alunas estranhas<n>vagando por\naí dizendo coisas<n>bizarras! Parem com esse\nabsurdo<n>agora mesmo!"
+            "text": "Houve relatos de alunas estranhas<n>vagando por aí\ndizendo coisas<n>bizarras! Parem com esse absurdo\nagora mesmo!"
         },
         {
             "name": "Marvelous Sunday",
-            "text": "Mas Professor! É Maravilhoso!<n>Maravilhoso, eu\ndigo! ☆ Este mundo<n><i>precisa</i> de maravilhosidade.\n★"
+            "text": "Mas Professor! É Maravilhoso!<n>Maravilhoso, eu\ndigo! ☆ Este mundo<n><i>precisa</i> de maravilhosidade. ★"
         },
         {
             "name": "Professor",
@@ -68,7 +68,7 @@
         },
         {
             "name": "Ikuno Dictus",
-            "text": "Não há nada de errado nisso, e<n>considero a\nconduta dela virtuosa."
+            "text": "Não há nada de errado nisso, e<n>considero a conduta\ndela virtuosa."
         },
         {
             "name": "Professor",
@@ -90,8 +90,8 @@
             "name": "Marvelous Sunday",
             "text": "Uma explicação esplêndida, Ikuno!<n>Você é\nrealmente <i>maravilhosa!</i> ☆<n>Supremamente\nmaravilhosa! ★",
             "choice_data_list": [
-                "E o que acontece se eu quiser algo maravilhoso\nde você?",
-                "E o que acontece se eu quiser algo maravilhoso\nde você?"
+                "E o que acontece se eu quiser algo maravilhoso de\nvocê?",
+                "E o que acontece se eu quiser algo maravilhoso de\nvocê?"
             ]
         },
         {
@@ -104,7 +104,7 @@
         },
         {
             "name": "Marvelous Sunday",
-            "text": "Uau! ☆ Você parece muito sério sobre<n>isso! Ok,\naqui vamos nós! Um<n>conforto maravilhoso está\nvindo em<n>sua direção! ★"
+            "text": "Uau! ☆ Você parece muito sério sobre<n>isso! Ok, aqui\nvamos nós! Um<n>conforto maravilhoso está vindo\nem<n>sua direção! ★"
         },
         {
             "name": "Monólogo",
@@ -134,7 +134,7 @@
         },
         {
             "name": "Ikuno Dictus",
-            "text": "Oho, eles são de fato muito fofinhos.<n>Hehe, vem\ncá cachorrinho, vem cá<n>gatinho."
+            "text": "Oho, eles são de fato muito fofinhos.<n>Hehe, vem cá\ncachorrinho, vem cá<n>gatinho."
         },
         {
             "name": "Monólogo",
@@ -187,7 +187,7 @@
         },
         {
             "name": "Marvelous Sunday",
-            "text": "Como foi? ☆ Vocês gostaram da<n>minha\nmaravilhosa experiência de<n>Pequena Vendedora\nde Fósforos? ★"
+            "text": "Como foi? ☆ Vocês gostaram da<n>minha maravilhosa\nexperiência de<n>Pequena Vendedora de Fósforos? ★"
         },
         {
             "name": "Professor",
@@ -206,14 +206,14 @@
         },
         {
             "name": "Professor",
-            "text": "Uaaaaau! ☆ Tudo o que é maravilhoso<n>é\nformidável! ★",
+            "text": "Uaaaaau! ☆ Tudo o que é maravilhoso<n>é formidável!\n★",
             "choice_data_list": [
                 "Maravilhoso! ☆ Euforiaaaaa! ★"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Tenho a sensação de que posso ter<n>me envolvido\nem algo que não devia<n>— algo bem fora da\nrealidade — mas<n>certamente foi um dia gratificante."
+            "text": "Tenho a sensação de que posso ter<n>me envolvido\nem algo que não devia<n>— algo bem fora da realidade\n— mas<n>certamente foi um dia gratificante."
         }
     ]
 }

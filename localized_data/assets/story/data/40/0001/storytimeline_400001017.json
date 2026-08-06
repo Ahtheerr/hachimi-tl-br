@@ -14,7 +14,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Vamos conquistar uma vitória<n>decisiva hoje e\nmostrar a todos que<n>você tem o que é preciso\npara ser<n>uma Umamusume estrela!"
+            "text": "Vamos conquistar uma vitória<n>decisiva hoje e\nmostrar a todos que<n>você tem o que é preciso para\nser<n>uma Umamusume estrela!"
         },
         {
             "name": "Happy Meek",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Eu quero te ajudar a vencer. Eu<n><i>preciso</i> te\najudar a vencer!",
+            "text": "Eu quero te ajudar a vencer. Eu<n><i>preciso</i> te ajudar\na vencer!",
             "choice_data_list": [
                 "(Ela parece meio desesperada...)"
             ]
@@ -61,7 +61,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Infelizmente, Happy Meek chega em<n>terceiro\nlugar. Algo nela <i>realmente</i><n>parece fora do lugar..."
+            "text": "Infelizmente, Happy Meek chega em<n>terceiro lugar.\nAlgo nela <i>realmente</i><n>parece fora do lugar..."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -151,7 +151,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Hein? Meek? E o Treinador <username>?! O que<n>estão\nfazendo aqui?!"
+            "text": "Hein? Meek? E o Treinador <username>?! O que<n>estão fazendo\naqui?!"
         },
         {
             "name": "Happy Meek",
@@ -218,12 +218,12 @@
             "name": "Treinadora Kiryuin",
             "text": "Hein?",
             "choice_data_list": [
-                "Você não é a única que está se esforçando, sabe."
+                "Você não é a única que está se esforçando,\nsabe."
             ]
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Mas... Mas... a culpa é minha por ser<n>inútil. Eu não\nposso forçar a Meek a<n>lidar com as minhas\nfalhas..."
+            "text": "Mas... Mas... a culpa é minha por ser<n>inútil. Eu não\nposso forçar a Meek a<n>lidar com as minhas falhas..."
         },
         {
             "name": "Happy Meek",
@@ -299,7 +299,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Bem, Treinador <username>. Parece que você<n>me ensinou\noutra lição valiosa."
+            "text": "Bem, Treinador <username>. Parece que você me<n>ensinou outra\nlição valiosa."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -366,7 +366,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Este volume pequeno, porém pesado,<n>irradia\norgulho e paixão passados<n>através de gerações\nde treinadores..."
+            "text": "Este volume pequeno, porém pesado,<n>irradia\norgulho e paixão passados<n>através de gerações de\ntreinadores..."
         },
         {
             "name": "Treinadora Kiryuin",
@@ -378,7 +378,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Observo suas figuras se afastando<n>ao longe, lado\na lado, até que sumam<n>de vista."
+            "text": "Observo suas figuras se afastando<n>ao longe, lado a\nlado, até que sumam<n>de vista."
         },
         {
             "name": "Monólogo",
@@ -389,7 +389,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Com o conhecimento secreto contido<n>no Manual\ndo Treinador da família<n>Kiryuin, <chrname>\nmelhora a<n>passos largos!"
+            "text": "Com o conhecimento secreto contido<n>no Manual do\nTreinador da família<n>Kiryuin, <chrname> melhora a passos\nlargos!"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -409,7 +409,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Eu as vejo se afastando, um pouco<n>mais\npróximas uma da outra do que<n>antes."
+            "text": "Eu as vejo se afastando, um pouco<n>mais próximas\numa da outra do que<n>antes."
         }
     ]
 }

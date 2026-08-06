@@ -6,7 +6,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Arf, arf, arf...</i> Haaah, aaagh... Eu<n>estou suando em bica..."
+            "text": "<i>Arf, arf, arf...</i> Haaah, aaagh... Eu estou<n>suando em bica..."
         },
         {
             "name": "Daiwa Scarlet",
@@ -48,7 +48,7 @@
             "text": "Se eu reclamasse de cada pequena<n>coisa, não teria como eu me tornar a<n>número um!",
             "choice_data_list": [
                 "Mesmo assim, você não deve se sobrecarregar.",
-                "Mesmo assim, você não deve se sobrecarregar."
+                "Mesmo assim, você não deve se\nsobrecarregar."
             ]
         },
         {
@@ -73,7 +73,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "<i>Suspiro.</i> Tudo bem, você venceu.<n>Vou descansar mais um pouco e<n>depois—",
+            "text": "<i>Suspiro.</i> Tudo bem, você venceu. Vou<n>descansar mais um pouco e depois—",
             "choice_data_list": [
                 "Ainda temos o acampamento amanhã também,\nsabia?",
                 "Ainda temos o acampamento amanhã também,\nsabia?"
@@ -210,7 +210,7 @@
         },
         {
             "name": "Daiwa Scarlet",
-            "text": "Eu não disse que era de <i>você</i> que<n>eu estava falando, disse?!"
+            "text": "Eu não disse que era de <i>você</i> que eu<n>estava falando, disse?!"
         },
         {
             "name": "Daiwa Scarlet",

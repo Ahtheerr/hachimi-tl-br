@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Silence Suzuka",
-            "text": "Olá, Treinador. Vou fazer um exercício<n>leve antes\nde começarmos o treino<n>de hoje."
+            "text": "Olá, Treinador. Vou fazer um exercício<n>leve antes de\ncomeçarmos o treino<n>de hoje."
         },
         {
             "name": "Monólogo",
-            "text": "Já se passaram alguns dias do ano<n>novo e\nSilence Suzuka segue distante<n>como sempre.\nMesmo assim, tento<n>puxar conversa.",
+            "text": "Já se passaram alguns dias do ano<n>novo e Silence\nSuzuka segue distante<n>como sempre. Mesmo\nassim, tento<n>puxar conversa.",
             "choice_data_list": [
                 "Alguma resolução de ano novo?"
             ]
@@ -28,7 +28,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Sua paixão é inconfundível, então<n>proponho uma\nideia. Na verdade, isso<n>já está na minha cabeça\nhá um bom<n>tempo.",
+            "text": "Sua paixão é inconfundível, então<n>proponho uma\nideia. Na verdade, isso<n>já está na minha cabeça há\num bom<n>tempo.",
             "choice_data_list": [
                 "O que acha de mirar nas Clássicas?",
                 "O que acha de mirar nas Clássicas?"
@@ -36,7 +36,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Vencer as Clássicas não é pouca<n>coisa, mas com\na demonstração de<n>velocidade que Suzuka deu na\nestreia, ela tem uma chance real."
+            "text": "Vencer as Clássicas não é pouca<n>coisa, mas com a\ndemonstração de<n>velocidade que Suzuka deu na\nestreia, ela tem uma chance real."
         },
         {
             "name": "Silence Suzuka",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "Ah, mas se houver algo em que eu<n>deva focar\npara me preparar, ficarei<n>feliz em ter isso em\nmente.",
+            "text": "Ah, mas se houver algo em que eu<n>deva focar para\nme preparar, ficarei<n>feliz em ter isso em mente.",
             "choice_data_list": [
                 "Vamos focar em aumentar sua velocidade!",
                 "Vamos garantir que você esteja bem descansada\nprimeiro!",

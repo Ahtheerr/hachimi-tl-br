@@ -1,0 +1,36 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "As I'm walking down the hall, I hear<n>Grass\nWonder's voice coming from<n>the infirmary."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Thank you for the medicine. I will take<n>my leave\nnow."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh... Trainer.",
+            "choice_data_list": [
+                "Are you under the weather?",
+                "Are you under the weather?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "No, I'm fine. Just a little headache,<n>it's no big—"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "...!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. Dear me. It seems this<n>medicine might take a\nwhile to kick in."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Grass Wonder seems to be having<n>trouble with\nheadaches. It may be a<n>good idea to take it easy on\nher for a<n>little while."
+        }
+    ]
+}

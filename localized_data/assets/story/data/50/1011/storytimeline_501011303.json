@@ -1,0 +1,238 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Grass Wonder seems to have made<n>a strong\nimpression in her debut race!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'm back, Trainer. Are you still feeling<n>nervous?",
+            "choice_data_list": [
+                "Not in the slightest!"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. Wonderful. ♪ The first step has<n>been taken...\nyes?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "After packing up our things to head<n>back, we step\noutside only to be<n>immediately approached by a\nwaiting<n>figure."
+        },
+        {
+            "name": "",
+            "text": "Excuse me, Grass Wonder! May I<n>ask you a few\nquick questions?"
+        },
+        {
+            "name": "",
+            "text": "Oh, certainly. Go right ahead."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Thank you! Then let me start by<n>congratulating you!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "You displayed amazing potential in<n>your debut race!\nYour running was a<n>sight to behold!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "I'm honored to receive such praise."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Oh, trust me, I've still got<n>goosebumps!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "It's no wonder they call you the next\nMaruzensky—you really are the<n>Beast's\nSuccessor!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "...Thank you."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Though the reporter's eyes are alight<n>with\nexcitement, I feel like they're<n>seeing too much of\nMaruzensky and<n>not enough of Grass Wonder."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Grass Wonder herself must be<n>feeling this\ndissonance even more<n>acutely.",
+            "choice_data_list": [
+                "Pardon me—"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Trainer."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Allow me."
+        },
+        {
+            "name": "",
+            "text": "I try to step in, but Grass Wonder cuts<n>me off."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Too excited to notice the tension in<n>the air, the\nreporter tries to press<n>onward with the interview."
+        },
+        {
+            "name": "Reporter A",
+            "text": "So, what's in your racing schedule<n>going forward?"
+        },
+        {
+            "name": "Reporter A",
+            "text": "If you have anything planned, I'd love<n>to know\nwhat race we'll be seeing<n>you in next!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Oh yes, I was just about to discuss<n>that very topic\nwith my trainer."
+        },
+        {
+            "name": "",
+            "text": "So then, Trainer, is now a good time?",
+            "choice_data_list": [
+                "Do you have a race in mind?",
+                "Do you have a race in mind?"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Yes, my heart is set on one in<n>particular."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Allow me to race in the Asahi Hai<n>Futurity Stakes.",
+            "choice_data_list": [
+                "...!"
+            ],
+            "color_text_info_list": [
+                "Asahi Hai Futurity Stakes"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "The Asahi Hai F.S. is well-known to<n>determine the\ntop junior-year runner,<n>so it sounds like a perfect\nobjective<n>for her."
+        },
+        {
+            "name": "Monólogo",
+            "text": "But there's just one problem..."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Did I hear that right?! The Asahi Hai<n>F.S.?! That's..."
+        },
+        {
+            "name": "Reporter A",
+            "text": "That's the race where Maruzensky<n>set a new\nrecord back in her junior<n>year!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "And now <i>you</i> want to run in it next?!"
+        },
+        {
+            "name": "",
+            "text": "Yes, so long as I receive my trainer's<n>permission."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As long as it wouldn't put<n>unreasonable strain on\nher schedule,<n>I'd intended to approve any race she\nmight name."
+        },
+        {
+            "name": "Monólogo",
+            "text": "But this..."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Now this is a scoop! \"The Successor<n>Aims for the\nJunior Crown!\" Yep, this<n>going on the front page!"
+        },
+        {
+            "name": "Reporter A",
+            "text": "Thank you so much for your time and<n>the big news!\nGoodbye!"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehe. Please be careful on your way<n>home."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Now then... just to make sure."
+        },
+        {
+            "name": "",
+            "text": "Trainer, may I set the Asahi Hai F.S.<n>as my next\nrace goal?",
+            "choice_data_list": [
+                "Are you sure this is what you want?",
+                "Are you sure this is what you want?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "What do you mean?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Maruzensky's performance in the<n>Asahi Hai F.S.\nleft a mark on the<n>racing world that still burns\nvividly."
+        },
+        {
+            "name": "Monólogo",
+            "text": "People are already calling Grass<n>Wonder the next\nMaruzensky. If she<n>makes this her next big race...",
+            "choice_data_list": [
+                "It'll invite more comparison than ever."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "...I know."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "That's exactly why I have to enter."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "The nickname has already spread, so<n>there's no\nescaping it now."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Besides, I have no intention of<n>running from it\nanyhow."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Bring on the comparisons, I say. I'll<n>take this\nchance to prove myself once<n>and for all."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "My running is one of a kind.",
+            "choice_data_list": [
+                "Grass..."
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "So... I'll ask one more time."
+        },
+        {
+            "name": "",
+            "text": "Do I have your permission to run in<n>the Asahi Hai\nF.S.?",
+            "choice_data_list": [
+                "Let's show the world what you can do!",
+                "Let's show the world what you can do!"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Thank you."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Then let's begin training right away. ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "And with that, Grass Wonder's next<n>goal is\ndecided: the Asahi Hai<n>Futurity Stakes!"
+        }
+    ]
+}

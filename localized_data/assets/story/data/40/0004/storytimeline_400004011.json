@@ -40,7 +40,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Cara <chrname>, temos o<n>prazer de\ninformar que você foi<n>selecionada como a Melhor\nUmamusume do Ano Clássico deste<n>ano.",
+            "text": "Cara <chrname>, temos o prazer de informar<n>que você foi\nselecionada como a<n>Melhor Umamusume do Ano\nClássico<n>deste ano.",
             "choice_data_list": [
                 "Melhor Umamusume do Ano Clássico?!"
             ],
@@ -84,7 +84,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mais tarde, <chrname> e eu<n>juramos\ncontinuar trabalhando duro<n>no ano que vem\ntambém."
+            "text": "Mais tarde, <chrname> e eu juramos continuar<n>trabalhando\nduro no ano que vem<n>também."
         }
     ]
 }

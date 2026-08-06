@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Monologue",
@@ -17,7 +18,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Just, um... forget you saw anything,<n>okay? I'm\nsure you don't want to<n>remember that anyway.",
+            "text": "Just, um... forget you saw anything,<n>okay? I'm sure\nyou don't want to<n>remember that anyway.",
             "choice_data_list": [
                 "You're a good singer."
             ]
@@ -43,18 +44,18 @@
         },
         {
             "name": "Light Hello",
-            "text": "She was actually one of the founding<n>members\nwho fought to get the<n>Grand Concert off the\nground. That's<n>what I heard from my mother,\nanyway.",
+            "text": "She was actually one of the founding<n>members\nwho fought to get the<n>Grand Concert off the ground.\nThat's<n>what I heard from my mother,<n>anyway.",
             "choice_data_list": [
                 "Really?"
             ]
         },
         {
             "name": "Light Hello",
-            "text": "Apparently. I never knew until I<n>started\nresearching the concert—you<n>can imagine my\nsurprise."
+            "text": "Apparently. I never knew until I<n>started researching\nthe concert—you<n>can imagine my surprise."
         },
         {
             "name": "Light Hello",
-            "text": "Heh, I wish I could introduce her to<n>the person I\ntold you about..."
+            "text": "Heh, I wish I could introduce her to<n>the person I told\nyou about..."
         },
         {
             "name": "Light Hello",
@@ -62,7 +63,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "I will say, though... From what I've<n>heard so far, I\nreally do think<n><chrname> is a good\nsinger."
+            "text": "I will say, though... From what I've<n>heard so far, I\nreally do think<n><chrname> is a good singer."
         },
         {
             "name": "Light Hello",
@@ -70,11 +71,11 @@
         },
         {
             "name": "Light Hello",
-            "text": "Because I think her song will be filled<n>with\ngratitude for the person who's<n>always stood by\nher side."
+            "text": "Because I think her song will be filled<n>with gratitude\nfor the person who's<n>always stood by her side."
         },
         {
             "name": "Monologue",
-            "text": "A few days later, I get the chance to<n>observe\n<chrname> at one of<n>her dance lessons."
+            "text": "A few days later, I get the chance to<n>observe <chrname> at\none of her dance lessons."
         },
         {
             "name": "Monologue",

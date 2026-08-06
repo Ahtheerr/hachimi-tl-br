@@ -1,0 +1,31 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One day, I arrive at the training track<n>to find it much\nmore crowded than<n>usual."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Chatter...</i>"
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Well... we sure do have a lot of<n>guests today.",
+            "choice_data_list": [
+                "Are you nervous?"
+            ]
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "No, it's fine. I'm used to this kind of<n>clamor from\nmy races, anyway."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "That said, it <i>is</i> much easier for me to<n>focus when\nit's quiet."
+        },
+        {
+            "name": "Monólogo",
+            "text": "We continue with our training, but I<n>can't help but\nnotice that Grass<n>Wonder's running seems a bit\nlackluster that day."
+        }
+    ]
+}

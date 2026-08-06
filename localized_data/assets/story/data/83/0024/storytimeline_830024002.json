@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "I'm visiting a racecourse today to<n>inspect it for\n<chrname>."
+            "text": "I'm visiting a racecourse today to<n>inspect it for <chrname>."
         },
         {
             "name": "Reporter",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Reporter",
-            "text": "Your family must be so proud of their<n>little star! I'd\nlove to get the scoop on<n>their heartwarming\nreaction. When<n>are they available for an\ninterview?"
+            "text": "Your family must be so proud of their<n>little star! I'd\nlove to get the scoop on<n>their heartwarming\nreaction. When<n>are they available for an interview?"
         },
         {
             "name": "Oguri Cap",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Reporter",
-            "text": "Oh, I don't mind talking over the<n>phone! Sooo, if\nyou would just tell me<n>your family's phone\nnumber..."
+            "text": "Oh, I don't mind talking over the<n>phone! Sooo, if you\nwould just tell me<n>your family's phone number..."
         },
         {
             "name": "Oguri Cap",
@@ -30,14 +30,14 @@
         },
         {
             "name": "Monólogo",
-            "text": "Interview or not, asking for personal<n>information is\nunacceptable. As a<n>member of the academy, I\ncan't<n>stand idly by.",
+            "text": "Interview or not, asking for personal<n>information is\nunacceptable. As a<n>member of the academy, I can't\nstand idly by.",
             "choice_data_list": [
                 "Please contact the academy if you have any\nfurther questions."
             ]
         },
         {
             "name": "Reporter",
-            "text": "Huh, and who might you be? Th-that<n>badge...\nHaha, you must be from the<n>academy, eh? Well,\nI'll be on my<n>way, then!"
+            "text": "Huh, and who might you be? Th-that<n>badge... Haha,\nyou must be from the<n>academy, eh? Well, I'll be on\nmy<n>way, then!"
         },
         {
             "name": "Oguri Cap",
@@ -159,7 +159,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Just as she finishes speaking, a<n>woman runs\nover to us."
+            "text": "Just as she finishes speaking, a<n>woman runs over\nto us."
         },
         {
             "name": "Equipe",

@@ -6,7 +6,7 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "<i>Suspiro...</i> Espera, não. Tenho que<n>ser positiva e sorrir brilhantemente —<n>como uma verdadeira Umadol!"
+            "text": "<i>Suspiro...</i> Espera, não. Tenho que ser<n>positiva e sorrir brilhantemente —<n>como uma verdadeira Umadol!"
         },
         {
             "name": "Smart Falcon",
@@ -95,7 +95,7 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "Hã? Sério?! Tipo, de verdade?!<n><i>Ufa...</i> Que bom que eu te pedi!"
+            "text": "Hã? Sério?! Tipo, de verdade?! <i>Ufa...</i><n>Que bom que eu te pedi!"
         },
         {
             "name": "Smart Falcon",
@@ -131,7 +131,7 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "<i>Suspiro...</i> Uff... Não estou<n>melhorando nada..."
+            "text": "<i>Suspiro...</i> Uff... Não estou melhorando<n>nada..."
         },
         {
             "name": "Monólogo",
@@ -229,7 +229,7 @@
             "name": "Monólogo",
             "text": "Mas com isso, surge uma nova<n>questão. Por que seus professores<n>não notaram algo tão elementar<n>quanto isso e contaram a ela?",
             "choice_data_list": [
-                "Você deveria estar correndo em corridas de areia."
+                "Você deveria estar correndo em corridas de\nareia."
             ]
         },
         {

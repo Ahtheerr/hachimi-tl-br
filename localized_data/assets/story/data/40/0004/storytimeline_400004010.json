@@ -10,7 +10,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Os esforços da <chrname><n>este ano\nforam reconhecidos..."
+            "text": "Os esforços da <chrname> este ano foram<n>reconhecidos..."
         },
         {
             "name": "Repórter Otonashi",
@@ -28,7 +28,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Desligo o telefone e me deleito com<n>sentimentos\nde alegria, motivado a<n>trabalhar ainda mais com\nminha<n>parceira. Então, de repente..."
+            "text": "Desligo o telefone e me deleito com<n>sentimentos de\nalegria, motivado a<n>trabalhar ainda mais com minha\nparceira. Então, de repente..."
         },
         {
             "name": "Monólogo",
@@ -43,7 +43,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Desculpe incomodar, Treinador <username>,<n>mas acabei de\nsaber do seu prêmio!"
+            "text": "Desculpe incomodar, Treinador <username>, mas<n>acabei de\nsaber do seu prêmio!"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -58,7 +58,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "Fiquei emocionada ao descobrir que<n>uma\ncorredora treinada por meu<n>colega ganhou o\nprêmio!"
+            "text": "Fiquei emocionada ao descobrir que<n>uma corredora\ntreinada por meu<n>colega ganhou o prêmio!"
         },
         {
             "name": "Treinadora Kiryuin",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Treinadora Kiryuin",
-            "text": "E agora, estou motivada para garantir<n>que serei\neu quem chegará ao topo<n>no ano que vem!",
+            "text": "E agora, estou motivada para garantir<n>que serei eu\nquem chegará ao topo<n>no ano que vem!",
             "choice_data_list": [
                 "...!"
             ]
@@ -81,7 +81,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mais tarde, <chrname> e eu<n>juramos\ntrabalhar duro e sermos os<n>melhores no ano que\nvem também."
+            "text": "Mais tarde, <chrname> e eu juramos trabalhar<n>duro e sermos\nos melhores no ano<n>que vem também."
         }
     ]
 }

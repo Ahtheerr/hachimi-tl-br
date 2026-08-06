@@ -2,15 +2,15 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "É um daqueles dias frios e de vento<n>de dezembro\nem que você consegue<n>ver sua respiração\nformando<n>pequenos vapores no ar diante de\nvocê."
+            "text": "É um daqueles dias frios e de vento<n>de dezembro\nem que você consegue<n>ver sua respiração\nformando<n>pequenos vapores no ar diante de<n>você."
         },
         {
             "name": "Monólogo",
-            "text": "Do nada, recebo um convite de Air<n>Groove\npedindo um encontro no meu<n>escritório."
+            "text": "Do nada, recebo um convite de Air<n>Groove pedindo\num encontro no meu<n>escritório."
         },
         {
             "name": "Monólogo",
-            "text": "Perguntando-me o que ela quer, vou<n>apressado\naté lá para descobrir que..."
+            "text": "Perguntando-me o que ela quer, vou<n>apressado até\nlá para descobrir que..."
         },
         {
             "name": "Monólogo",
@@ -25,7 +25,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Hehe. Essa expressão de espanto<n>me diz que\nvocê esqueceu que dia é<n>hoje."
+            "text": "Hehe. Essa expressão de espanto<n>me diz que você\nesqueceu que dia é<n>hoje."
         },
         {
             "name": "Monólogo",
@@ -44,7 +44,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Afinal, é a época do ano. Não parece<n>certo deixar\nessa época passar sem<n>uma celebração\nadequada.",
+            "text": "Afinal, é a época do ano. Não parece<n>certo deixar\nessa época passar sem<n>uma celebração adequada.",
             "choice_data_list": [
                 "Eu me sinto mal por você ter tido que fazer tudo\nisso sozinha.",
                 "Eu me sinto mal por você ter tido que fazer tudo\nisso sozinha."
@@ -56,7 +56,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Além disso, pensei que seria uma<n>boa\noportunidade para celebrar todo o<n>nosso trabalho\nduro.",
+            "text": "Além disso, pensei que seria uma<n>boa oportunidade\npara celebrar todo o<n>nosso trabalho duro.",
             "choice_data_list": [
                 "O que você quer dizer com isso?"
             ]
@@ -124,7 +124,7 @@
         },
         {
             "name": "Air Groove",
-            "text": "Um pequeno símbolo do meu apreço<n>por todo o\nseu trabalho duro. E claro,<n>também é um presente\napropriado<n>para a época.",
+            "text": "Um pequeno símbolo do meu apreço<n>por todo o seu\ntrabalho duro. E claro,<n>também é um presente\napropriado<n>para a época.",
             "choice_data_list": [
                 "Posso abrir agora?"
             ]
@@ -135,7 +135,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Abro o pacote e encontro um<n>planejador com\ncapa de couro<n>dentro.",
+            "text": "Abro o pacote e encontro um<n>planejador com capa\nde couro<n>dentro.",
             "choice_data_list": [
                 "Obrigado! Eu amei.",
                 "Obrigado! Eu amei."

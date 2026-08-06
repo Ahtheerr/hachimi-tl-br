@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Monologue",
@@ -30,11 +31,11 @@
         },
         {
             "name": "Student A",
-            "text": "Hearing what Hello and Tachyon said<n>the other\nday really got us thinking."
+            "text": "Hearing what Hello and Tachyon said<n>the other day\nreally got us thinking."
         },
         {
             "name": "Student B",
-            "text": "I know you're probably like, so<n><i>now</i> you want\nto help? But, well..."
+            "text": "I know you're probably like, so <i>now</i><n>you want to\nhelp? But, well..."
         },
         {
             "name": "Student A",
@@ -82,7 +83,7 @@
         },
         {
             "name": "Assembled Student C",
-            "text": "And I want to tell them that I'm not<n>done yet! That\nno matter how many<n>times I lose, I have a goal,\nand I<n>won't give up on it no matter what!"
+            "text": "And I want to tell them that I'm not<n>done yet! That\nno matter how many<n>times I lose, I have a goal, and\nI<n>won't give up on it no matter what!"
         },
         {
             "name": "Agnes Tachyon",
@@ -102,7 +103,7 @@
         },
         {
             "name": "Student C",
-            "text": "And I know this is really, <i>really,</i><n>self-centered,\nbut there's something I<n>want my fans to know."
+            "text": "And I know this is really, <i>really,</i><n>self-centered, but\nthere's something I<n>want my fans to know."
         },
         {
             "name": "Student C",
@@ -118,7 +119,7 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "I want you to say everything you<n>have to say,\nthen look at all your<n>fans' faces, and get excited\nto sing<n>with a smile again!"
+            "text": "I want you to say everything you<n>have to say, then\nlook at all your<n>fans' faces, and get excited to sing\nwith a smile again!"
         },
         {
             "name": "Student C",
@@ -134,7 +135,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "We're all coming from different<n>places, with\ndifferent motives and<n>different feelings to\nconvey—it<n>wouldn't be the Grand Concert\notherwise."
+            "text": "We're all coming from different<n>places, with\ndifferent motives and<n>different feelings to convey—it\nwouldn't be the Grand Concert<n>otherwise."
         },
         {
             "name": "Monologue",
@@ -158,7 +159,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "But a reality check is in order. Now<n>that we have\nall these supporters..."
+            "text": "But a reality check is in order. Now<n>that we have all\nthese supporters..."
         },
         {
             "name": "Agnes Tachyon",
@@ -173,7 +174,7 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Is there even a venue with the<n>necessary\ncapacity?"
+            "text": "Is there even a venue with the<n>necessary capacity?"
         },
         {
             "name": "Light Hello",
@@ -185,7 +186,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "We've come this far. I refuse to<n>believe we have\nto give up on our<n>vision!"
+            "text": "We've come this far. I refuse to<n>believe we have to\ngive up on our<n>vision!"
         },
         {
             "name": "Sound Staff",
@@ -216,7 +217,7 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "Yeah! If we can't all fit into one<n>venue, why not\nget more venues?"
+            "text": "Yeah! If we can't all fit into one<n>venue, why not get\nmore venues?"
         },
         {
             "name": "Smart Falcon",
@@ -267,7 +268,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Light Hello runs off, leaving me in<n>charge of\nmolding Smart Falcon's<n>ideas into a plan."
+            "text": "Light Hello runs off, leaving me in<n>charge of molding\nSmart Falcon's<n>ideas into a plan."
         },
         {
             "name": "Monologue",
@@ -287,7 +288,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "<i>Sniffle...</i> So this afternoon... the URA<n>board came\nto observe us, and..."
+            "text": "<i>Sniffle...</i> So this afternoon... the URA<n>board came to\nobserve us, and..."
         },
         {
             "name": "Light Hello",
@@ -306,7 +307,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Tears fall freely from Light Hello's<n>eyes. All the\ndays of hard work<n>we've had together run\nthrough my<n>mind.",
+            "text": "Tears fall freely from Light Hello's<n>eyes. All the\ndays of hard work<n>we've had together run through\nmy<n>mind.",
             "choice_data_list": [
                 "Well, sounds like we have work to do!"
             ]

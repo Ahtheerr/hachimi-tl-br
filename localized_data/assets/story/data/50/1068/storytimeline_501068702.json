@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "No caminho de volta para a academia,\nencontramos a Nice Nature, que<n>convida a mim e à\nKitasan Black para<n>um mercado de pulgas no\ncentro<n>comercial."
+            "text": "No caminho de volta para a academia,<n>encontramos\na Nice Nature, que<n>convida a mim e à Kitasan Black\npara<n>um mercado de pulgas no centro<n>comercial."
         },
         {
             "name": "Nice Nature",
@@ -10,22 +10,22 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "Hummm! Tá uma delícia! E essa<n>geleia de\ndamasco por cima eleva o<n>sabor a outro nível!"
+            "text": "Hummm! Tá uma delícia! E essa<n>geleia de damasco\npor cima eleva o<n>sabor a outro nível!"
         },
         {
             "name": "Lojista A",
-            "text": "Não é? <i>Deveria</i> estar vendendo<n>que nem água,\nmas..."
+            "text": "Não é? <i>Deveria</i> estar vendendo que<n>nem água,\nmas..."
         },
         {
             "name": "Nice Nature",
-            "text": "Não dá pra vender nada sem ter pra<n>quem\nvender...",
+            "text": "Não dá pra vender nada sem ter pra<n>quem vender...",
             "choice_data_list": [
                 "Agora que você falou, não tem muitos clientes por\naqui."
             ]
         },
         {
             "name": "Kitasan Black",
-            "text": "O mercado todo parece meio deserto...<n>mas por\nquê? As pessoas deveriam<n>estar vindo aos\nmontes com comidas<n>gostosas assim à venda!"
+            "text": "O mercado todo parece meio deserto...<n>mas por\nquê? As pessoas deveriam<n>estar vindo aos montes\ncom comidas<n>gostosas assim à venda!"
         },
         {
             "name": "Nice Nature",
@@ -33,11 +33,11 @@
         },
         {
             "name": "Lojista A",
-            "text": "Este mercado de pulgas deveria<n>promover o\nFestival de Gratidão que<n>o centro comercial vai\nfazer, mas<n>nesse ritmo, ninguém vai ficar\nsabendo."
+            "text": "Este mercado de pulgas deveria<n>promover o\nFestival de Gratidão que<n>o centro comercial vai\nfazer, mas<n>nesse ritmo, ninguém vai ficar<n>sabendo."
         },
         {
             "name": "Nice Nature",
-            "text": "Ora, ora! Não precisa ficar tão<n>deprimido! Afinal,\nvocê tem duas<n>clientes bem satisfeitas bem aqui\nna<n>sua frente, não tem?"
+            "text": "Ora, ora! Não precisa ficar tão<n>deprimido! Afinal,\nvocê tem duas<n>clientes bem satisfeitas bem aqui na\nsua frente, não tem?"
         },
         {
             "name": "Kitasan Black",
@@ -53,7 +53,7 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "Certo! Agora temos que passar a<n>geleia no pão,\ne..."
+            "text": "Certo! Agora temos que passar a<n>geleia no pão, e..."
         },
         {
             "name": "Kitasan Black",
@@ -98,7 +98,7 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "Isso aí! Vamos manter o bom trabalho<n>e tentar\noutro lugar!"
+            "text": "Isso aí! Vamos manter o bom trabalho<n>e tentar outro\nlugar!"
         },
         {
             "name": "Kitasan Black",
@@ -122,7 +122,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Nossa, tá vindo muito cliente! Como<n>você\nconseguiu atrair tanta gente tão<n>rápido, Kita?"
+            "text": "Nossa, tá vindo muito cliente! Como<n>você conseguiu\natrair tanta gente tão<n>rápido, Kita?"
         },
         {
             "name": "Kitasan Black",
@@ -133,7 +133,7 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "Mesmo quando você está ocupado<n>ou com\npressa para algum lugar, se<n>ouve pessoas se\ndivertindo,<n>naturalmente quer ver o que está\nacontecendo, né?"
+            "text": "Mesmo quando você está ocupado<n>ou com pressa\npara algum lugar, se<n>ouve pessoas se divertindo,\nnaturalmente quer ver o que está<n>acontecendo, né?"
         },
         {
             "name": "Kitasan Black",
@@ -145,7 +145,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Nossa, só assim? Estamos<n>claramente\naprendendo com a mestre<n>aqui.",
+            "text": "Nossa, só assim? Estamos<n>claramente aprendendo\ncom a mestre<n>aqui.",
             "choice_data_list": [
                 "Então foi por isso que você estava agindo com\ntanta animação lá fora!",
                 "Então foi por isso que você estava agindo com\ntanta animação lá fora!"
@@ -153,7 +153,7 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "Sim! Mas é graças às lojas daqui<n>que eu\nconsegui animar tanto as<n>coisas!"
+            "text": "Sim! Mas é graças às lojas daqui<n>que eu consegui\nanimar tanto as<n>coisas!"
         },
         {
             "name": "Kitasan Black",
@@ -173,7 +173,7 @@
         },
         {
             "name": "Nice Nature",
-            "text": "Obrigada pela ajuda, vocês dois.<n>Tenho a\nsensação de que o festival<n>vai ser um sucesso!"
+            "text": "Obrigada pela ajuda, vocês dois.<n>Tenho a sensação\nde que o festival<n>vai ser um sucesso!"
         },
         {
             "name": "Kitasan Black",
@@ -205,11 +205,11 @@
         },
         {
             "name": "Kitasan Black",
-            "text": "Ah, gente! Vou aceitar isso como um<n>elogio\nsincero, então! Haha!"
+            "text": "Ah, gente! Vou aceitar isso como um<n>elogio sincero,\nentão! Haha!"
         },
         {
             "name": "Kitasan Black",
-            "text": "(Pai... será que eu consegui ficar um<n>passinho\nmais perto de ser como<n>você?)"
+            "text": "(Pai... será que eu consegui ficar um<n>passinho mais\nperto de ser como<n>você?)"
         },
         {
             "name": "Kitasan Black",

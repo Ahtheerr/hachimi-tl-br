@@ -1,0 +1,35 @@
+{
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "<i>Yawn...</i> Mmm..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Sorry, Trainer. I'm reeeal sleepy<n>today.",
+            "choice_data_list": [
+                "What did you do on your day off yesterday?",
+                "What did you do on your day off yesterday?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "We had a party over in the dorm! It<n>was awful fun!\n♪"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ol' Hishiama turned in early, so we<n>kicked off our\nboots and threw a real<n>hootenanny!",
+            "choice_data_list": [
+                "So basically... you had a good time?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "You betcha! Hishiama really let us<n>have it when she\nwoke up though.<n>Haha!"
+        },
+        {
+            "name": "",
+            "text": "It sounds like Taiki Shuttle didn't get<n>much sleep."
+        }
+    ]
+}

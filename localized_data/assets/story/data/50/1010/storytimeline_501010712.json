@@ -1,0 +1,62 @@
+{
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "I go looking for Taiki Shuttle, who has<n>yet to turn up\nfor training..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "There ya are, Trainer! Finally! C'mon,<n>let's go!",
+            "choice_data_list": [
+                "I've been looking all over for you!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Whoa! Is this that telepathy thing? Our<n>hearts must\nbe beatin' to the same<n>drum or something!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Anyhoo, let's get to the finish line!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "C'mon, slowpoke!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "",
+            "text": "Taiki goes speeding off, leaving me<n>no choice but to\nchase after her..."
+        },
+        {
+            "name": "",
+            "text": "Whoa, Taiki's amazing! She's first<n>again!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Heh-heh. You can bet your bottom<n>dollar on that!\nScavenger hunt or<n>what—I ain't fixin' to lose!",
+            "choice_data_list": [
+                "Playing hooky for a game, are we?",
+                "Playing hooky for a game, are we?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Yikes! You look madder than a wet<n>hen!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "But game or not, it's a competition,<n>and I play to\nwin!"
+        },
+        {
+            "name": "",
+            "text": "Apparently, Taiki was tasked with<n>finding someone\nreally reliable for her<n>scavenger hunt."
+        },
+        {
+            "name": "",
+            "text": "...I suppose I don't need to scold her<n>for <i>that</i> long."
+        }
+    ]
+}

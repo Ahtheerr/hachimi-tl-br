@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Monologue",
@@ -10,7 +11,7 @@
         },
         {
             "name": "Monologue",
-            "text": "To get on stage is to believe in the<n>power of song\nto move hearts. Our<n>second concert begins!"
+            "text": "To get on stage is to believe in the<n>power of song to\nmove hearts. Our<n>second concert begins!"
         }
     ]
 }

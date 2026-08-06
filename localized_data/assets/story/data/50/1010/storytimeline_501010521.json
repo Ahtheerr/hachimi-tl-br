@@ -1,0 +1,27 @@
+{
+    "text_block_list": [
+        {
+            "name": "Taiki Shuttle",
+            "text": "Nnh... It's a holdup..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh! Just look at that bounty...",
+            "choice_data_list": [
+                "Everything okay?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Mhm... Thing is, these Westerns I<n>rented are due\nback pretty soon."
+        },
+        {
+            "name": "",
+            "text": "I figured it'd be a real waste not to<n>watch 'em all,\nso I went and pulled<n>me an all-nighter. <i>Yawn...</i>"
+        },
+        {
+            "name": "",
+            "text": "Taiki Shuttle looks sleep-deprived for<n>the entire rest\nof the day..."
+        }
+    ]
+}

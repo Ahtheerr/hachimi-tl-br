@@ -17,7 +17,7 @@
             "text": "<i>Arf, arf...</i> Voltei, Prof! Demorou um<n>pouco, mas eu consegui!",
             "choice_data_list": [
                 "Eu estava ficando preocupado. O que aconteceu?",
-                "Eu estava ficando preocupado. O que aconteceu?"
+                "Eu estava ficando preocupado. O que\naconteceu?"
             ]
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Nada mal. Bem, continuem aquecendo<n>o palco para mim. <i>Eu</i> serei a única<n>a levar a coroa.",
+            "text": "Nada mal. Bem, continuem aquecendo<n>o palco para mim. <i>Eu</i> serei a única a<n>levar a coroa.",
             "choice_data_list": [
                 "Você parece confiante.",
                 "Você parece confiante."
@@ -97,7 +97,7 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Claro que estou. Afinal, eu tenho<n>esse vozeirão potente que <i>você</i><n>me ajudou a aperfeiçoar!"
+            "text": "Claro que estou. Afinal, eu tenho<n>esse vozeirão potente que <i>você</i> me<n>ajudou a aperfeiçoar!"
         },
         {
             "name": "Hishi Amazon",
@@ -129,7 +129,7 @@
         },
         {
             "name": "Hishi Amazon",
-            "text": "Noventa e <i>oito?!</i> Is-is-isso é<n>loucura. Não tem como eu superar um<n>dueto com um morador se eu<n>continuar na minha rotina de sempre."
+            "text": "Noventa e <i>oito?!</i> Is-is-isso é loucura.<n>Não tem como eu superar um dueto<n>com um morador se eu continuar na<n>minha rotina de sempre."
         },
         {
             "name": "Hishi Amazon",

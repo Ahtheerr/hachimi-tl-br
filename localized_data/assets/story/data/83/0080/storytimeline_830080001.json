@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Since the Bamboo Stakes, Sasami<n>Anshinzawa\nand I have continued<n>winning race after race\ntogether. And<n>now our final goal, the Sasabari Sho,\nis about to begin!"
+            "text": "Since the Bamboo Stakes, Sasami<n>Anshinzawa and\nI have continued<n>winning race after race together.\nAnd<n>now our final goal, the Sasabari Sho,<n>is about to\nbegin!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -10,14 +10,14 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "There was the Fan Fest, summer<n>camp,\nValentines Day, as well as the<n>winter holidays...\nThe list just goes on<n>and on! ♪",
+            "text": "There was the Fan Fest, summer<n>camp, Valentines\nDay, as well as the<n>winter holidays... The list just\ngoes on<n>and on! ♪",
             "choice_data_list": [
-                "None of that happened, though... Unless? Come to\nthink of it, maybe they did all happen."
+                "None of that happened, though... Unless? Come\nto think of it, maybe they did all happen."
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "What, having trouble getting your<n>head in the\ngame right before the<n>main event? Don't be\nnervous, you'll<n>be fine!"
+            "text": "What, having trouble getting your<n>head in the game\nright before the<n>main event? Don't be nervous,\nyou'll<n>be fine!"
         },
         {
             "name": "Sasami Anshinzawa",
@@ -63,7 +63,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "As if cradled by the sea's anodyne<n>embrace, I\nfind the courage to set off<n>towards the track—the\nstage of my<n>final showdown."
+            "text": "As if cradled by the sea's anodyne<n>embrace, I find\nthe courage to set off<n>towards the track—the stage\nof my<n>final showdown."
         },
         {
             "name": "Sasami Anshinzawa",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "D-don't worry! I know you can do it!<n>You've\ncome this far, haven't you?!",
+            "text": "D-don't worry! I know you can do it!<n>You've come\nthis far, haven't you?!",
             "choice_data_list": [
                 "...Yeah, you're right."
             ]
@@ -157,11 +157,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "That day at the Sasabari Sho, the first<n>to cross the\nfinish line amidst an<n>eruption of cheers turned out\nto be<n>none other than..."
+            "text": "That day at the Sasabari Sho, the first<n>to cross the\nfinish line amidst an<n>eruption of cheers turned out to\nbe<n>none other than..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "<i>Sniffle...</i> You did it, partner! You<n>came in first\nplace with flying colors!<n><i>Sob!</i>",
+            "text": "<i>Sniffle...</i> You did it, partner! You came<n>in first place\nwith flying colors! <i>Sob!</i>",
             "choice_data_list": [
                 "Sasami... I-I did it!",
                 "Sasami... I-I did it!"
@@ -177,18 +177,18 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Let me offer my felicitations as\nwell—congratulations!<n><chrname> is also\nover the<n>moon! ♪",
+            "text": "Let me offer my felicitations as\nwell—congratulations!<n><chrname> is also over the moon! ♪",
             "choice_data_list": [
                 "I'm glad to hear that..."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "If my performance here today was<n>able to\npositively influence<n><chrname>..."
+            "text": "If my performance here today was<n>able to\npositively influence <chrname>..."
         },
         {
             "name": "Monólogo",
-            "text": "Then there's no greater reassurance<n>and joy\nthan that."
+            "text": "Then there's no greater reassurance<n>and joy than\nthat."
         },
         {
             "name": "Tazuna Hayakawa",
@@ -231,11 +231,11 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "I've watched him every step of the<n>way, so I\nknow all too well just how<n>much effort he's put\nin!"
+            "text": "I've watched him every step of the<n>way, so I know\nall too well just how<n>much effort he's put in!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "I've watched her every step of the<n>way, so I\nknow all too well just how<n>much effort she's put\nin!"
+            "text": "I've watched her every step of the<n>way, so I know\nall too well just how<n>much effort she's put in!"
         },
         {
             "name": "Tazuna Hayakawa",
@@ -243,11 +243,11 @@
         },
         {
             "name": "Monólogo",
-            "text": "That day at the Sasabari Sho, the first<n>to cross the\nfinish line amidst an<n>eruption of cheers turned out\nto be<n>none other than..."
+            "text": "That day at the Sasabari Sho, the first<n>to cross the\nfinish line amidst an<n>eruption of cheers turned out to\nbe<n>none other than..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Aww, c'mon! There's no need to be<n>so\ndepressed! You did a great job! ☆",
+            "text": "Aww, c'mon! There's no need to be<n>so depressed!\nYou did a great job! ☆",
             "choice_data_list": [
                 "But I really wanted to win..."
             ]
@@ -270,7 +270,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Although I fell short of the goal<n>Sasami\nAnshinzawa and I set our<n>sights on, the time I\nspent with her<n>has definitely been worthwhile."
+            "text": "Although I fell short of the goal<n>Sasami Anshinzawa\nand I set our<n>sights on, the time I spent with her<n>has\ndefinitely been worthwhile."
         },
         {
             "name": "Monólogo",

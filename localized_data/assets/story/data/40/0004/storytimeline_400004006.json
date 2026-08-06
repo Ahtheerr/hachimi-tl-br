@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Termino de escoltar<n><chrname> de volta\naos<n>dormitórios após o treino quando, de\nrepente..."
+            "text": "Termino de escoltar<n><chrname> de volta aos dormitórios após\no<n>treino quando, de repente..."
         },
         {
             "name": "Monólogo",
@@ -32,7 +32,7 @@
         },
         {
             "name": "Repórter B",
-            "text": "Com licença! Você seria o Treinador<n><username>?",
+            "text": "Com licença! Você seria o Treinador <username>?",
             "choice_data_list": [
                 "Isso mesmo..."
             ]
@@ -69,11 +69,11 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Primeiro, permitam-me rejeitar essas<n>alegações!\nCategoricamente!<n><i>Ninguém</i> nesta academia\njamais<n>sujeitaria nossas amadas alunas a<n>tal\nsofrimento!"
+            "text": "Primeiro, permitam-me rejeitar essas<n>alegações!\nCategoricamente!<n><i>Ninguém</i> nesta academia jamais\nsujeitaria nossas amadas alunas a<n>tal sofrimento!"
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Além disso! A academia fará uma<n>declaração\noficial sobre este assunto<n>no devido tempo!"
+            "text": "Além disso! A academia fará uma<n>declaração oficial\nsobre este assunto<n>no devido tempo!"
         },
         {
             "name": "Diretora Akikawa",
@@ -89,7 +89,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Mais tarde, realizamos uma reunião<n>na sala da\ndiretora sobre o assunto.<n>De acordo com a\nRepórter Otonashi..."
+            "text": "Mais tarde, realizamos uma reunião<n>na sala da\ndiretora sobre o assunto.<n>De acordo com a Repórter\nOtonashi..."
         },
         {
             "name": "Repórter Otonashi",
@@ -97,7 +97,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "E agora, devido àquele artigo<n>fabricado que está\ncirculando, a<n>reputação do Treinador <username> foi posta\nem<n>dúvida."
+            "text": "E agora, devido àquele artigo<n>fabricado que está\ncirculando, a<n>reputação do Treinador <username> foi posta em\ndúvida."
         },
         {
             "name": "Repórter Otonashi",
@@ -121,11 +121,11 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "De fato. Mas, da perspectiva da<n>academia, é\nimperativo que<n>garantamos a segurança de\nnossas<n>alunas!"
+            "text": "De fato. Mas, da perspectiva da<n>academia, é\nimperativo que<n>garantamos a segurança de nossas\nalunas!"
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Com isso em mente, talvez seja<n>melhor\nsuspender temporariamente o<n>acesso da mídia à\nacademia."
+            "text": "Com isso em mente, talvez seja<n>melhor suspender\ntemporariamente o<n>acesso da mídia à academia."
         },
         {
             "name": "Repórter Otonashi",
@@ -133,11 +133,11 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Não há desculpas para este incidente.<n><i>Eu</i>\npermiti que as coisas saíssem<n>do controle!"
+            "text": "Não há desculpas para este incidente.<n><i>Eu</i> permiti\nque as coisas saíssem do<n>controle!"
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Mas simplesmente não podemos<n>fazer a Twinkle\nStar Climax acontecer<n>sem a cooperação de\nvocês!"
+            "text": "Mas simplesmente não podemos<n>fazer a Twinkle\nStar Climax acontecer<n>sem a cooperação de vocês!"
         },
         {
             "name": "Diretora Akikawa",
@@ -153,11 +153,11 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Naturalmente, o repórter e o veículo<n>de mídia\nresponsáveis por aquele<n>artigo calunioso não\nterão mais<n>qualquer envolvimento com as\ncorridas!"
+            "text": "Naturalmente, o repórter e o veículo<n>de mídia\nresponsáveis por aquele<n>artigo calunioso não terão\nmais<n>qualquer envolvimento com as<n>corridas!"
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Estou ciente de que este é um pedido<n>egoísta!\nMas vocês poderiam, por<n>favor, permitir que a\ncobertura<n>jornalística continue normalmente?",
+            "text": "Estou ciente de que este é um pedido<n>egoísta! Mas\nvocês poderiam, por<n>favor, permitir que a cobertura\njornalística continue normalmente?",
             "choice_data_list": [
                 "Por que você é tão insistente com isso?"
             ]
@@ -176,7 +176,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "O momento da vitória delas merece<n>ser <i>glorioso!</i>\nQuero que a<n>atmosfera seja positivamente\ninebriante!"
+            "text": "O momento da vitória delas merece<n>ser <i>glorioso!</i>\nQuero que a atmosfera<n>seja positivamente\ninebriante!"
         },
         {
             "name": "Repórter Otonashi",
@@ -184,7 +184,7 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Receios! Como exatamente você<n>pretende\nresolver a situação,<n>Senhorita Otonashi?"
+            "text": "Receios! Como exatamente você<n>pretende resolver\na situação,<n>Senhorita Otonashi?"
         },
         {
             "name": "Diretora Akikawa",
@@ -196,18 +196,18 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Uma reportagem? Hmm, perplexo...<n>Estamos\nplanejando limitar toda a<n>cobertura jornalística, e\nvocê está<n>pedindo para escrever uma\nreportagem?"
+            "text": "Uma reportagem? Hmm, perplexo...<n>Estamos\nplanejando limitar toda a<n>cobertura jornalística, e\nvocê está<n>pedindo para escrever uma<n>reportagem?"
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Ela se chamará \"Bem de Perto com o<n>Treinador\n<username>\"!",
+            "text": "Ela se chamará \"Bem de Perto com o<n>Treinador <username>\"!",
             "choice_data_list": [
                 "Bem de Perto?!"
             ]
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Sim! Acompanhando você todos os<n>dias, poderei\nmostrar ao mundo seus<n>métodos de treino\nincríveis."
+            "text": "Sim! Acompanhando você todos os<n>dias, poderei\nmostrar ao mundo seus<n>métodos de treino incríveis."
         },
         {
             "name": "Repórter Otonashi",
@@ -234,7 +234,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Não se preocupe, eu mesma cuidarei<n>de toda esta\nreportagem, não importa<n>o que aconteça. Mesmo\nque eu<n>quebre cada osso do meu corpo e<n>tenha\nque rastejar de barriga!"
+            "text": "Não se preocupe, eu mesma cuidarei<n>de toda esta\nreportagem, não importa<n>o que aconteça. Mesmo\nque eu<n>quebre cada osso do meu corpo e<n>tenha que\nrastejar de barriga!"
         },
         {
             "name": "Repórter Otonashi",
@@ -242,7 +242,7 @@
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Espero que você vá ao hospital se<n>isso\nacontecer... O que você acha,<n>Diretora?"
+            "text": "Espero que você vá ao hospital se<n>isso acontecer...\nO que você acha,<n>Diretora?"
         },
         {
             "name": "Diretora Akikawa",
@@ -254,11 +254,11 @@
         },
         {
             "name": "Diretora Akikawa",
-            "text": "Tenho a firme convicção de que a<n>decisão final\ndeve recair sobre você,<n>parceiro da\n<chrname>!"
+            "text": "Tenho a firme convicção de que a<n>decisão final\ndeve recair sobre você,<n>parceiro da <chrname>!"
         },
         {
             "name": "Monólogo",
-            "text": "De repente, fico sem palavras. Um<n>ambiente de\ntreino estável ou apoio<n>público — o que seria\nmelhor para o<n>desenvolvimento da\n<chrname>?"
+            "text": "De repente, fico sem palavras. Um<n>ambiente de\ntreino estável ou apoio<n>público — o que seria melhor\npara o<n>desenvolvimento da <chrname>?"
         },
         {
             "name": "Monólogo",
@@ -278,7 +278,7 @@
         },
         {
             "name": "Repórter Otonashi",
-            "text": "Para ser sincera, estou até um pouco<n>surpresa\nque você tenha dado o ok.",
+            "text": "Para ser sincera, estou até um pouco<n>surpresa que\nvocê tenha dado o ok.",
             "choice_data_list": [
                 "Não quero ficar no caminho do sonho de ninguém."
             ]
@@ -300,7 +300,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Sinto que também estaria virando as<n>costas para\no sonho que<n><chrname> e eu juramos\nrealizar."
+            "text": "Sinto que também estaria virando as<n>costas para o\nsonho que<n><chrname> e eu juramos realizar."
         },
         {
             "name": "Monólogo",

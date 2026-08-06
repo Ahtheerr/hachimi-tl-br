@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Monologue",
@@ -45,7 +46,7 @@
         },
         {
             "name": "Monologue",
-            "text": "...I hope hearing her fans' voices<n>during the\nconcert has encouraged<n><chrname>."
+            "text": "...I hope hearing her fans' voices<n>during the concert\nhas encouraged <chrname>."
         },
         {
             "name": "Monologue",
@@ -87,7 +88,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "There are still people to whom I must<n>give a\nproper explanation for the<n>Grand Concert.",
+            "text": "There are still people to whom I must<n>give a proper\nexplanation for the<n>Grand Concert.",
             "choice_data_list": [
                 "You mean..."
             ]
@@ -102,7 +103,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "My words as someone who wants to<n>see a\nconcert for both Umamusume<n>and fans... and as a\nfan myself.",
+            "text": "My words as someone who wants to<n>see a concert\nfor both Umamusume<n>and fans... and as a fan\nmyself.",
             "choice_data_list": [
                 "I'll talk to Director Akikawa on my end as well.",
                 "I'll talk to Director Akikawa on my end as well."
@@ -122,7 +123,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Well, that would be very much<n>appreciated. I\nguess we're in this<n>together until the end!"
+            "text": "Well, that would be very much<n>appreciated. I guess\nwe're in this<n>together until the end!"
         },
         {
             "name": "Monologue",

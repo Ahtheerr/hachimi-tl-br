@@ -6,7 +6,7 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Hang on, isn't there supposed to be<n>a\nlimited-edition <i>Animal Hunt</i><n>character that\nspawns around here?"
+            "text": "Hang on, isn't there supposed to be<n>a\nlimited-edition <i>Animal Hunt</i><n>character that spawns\naround here?"
         },
         {
             "name": "Narita Taishin",
@@ -69,7 +69,7 @@
             "choice_data_list": [
                 "Hang on, I'll buy you some shoes.",
                 "Hang on, I'll buy you some shoes.",
-                "Let me get you to a shoe shop. You can lean on\nmy shoulder."
+                "Let me get you to a shoe shop. You can lean on my\nshoulder."
             ]
         },
         {
@@ -78,7 +78,7 @@
             "choice_data_list": [
                 "Hang on, I'll buy you some shoes.",
                 "Hang on, I'll buy you some shoes.",
-                "Let me get you to a shoe shop. You can lean on\nmy shoulder."
+                "Let me get you to a shoe shop. You can lean on my\nshoulder."
             ]
         },
         {
@@ -95,7 +95,7 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "<i>Sigh.</i> Fine. Here, take this money<n>and get me\nnew shoes."
+            "text": "<i>Sigh.</i> Fine. Here, take this money and<n>get me new\nshoes."
         },
         {
             "name": "Monólogo",
@@ -118,7 +118,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "After that, I run back to Narita Taishin<n>and show\nher the new shoes."
+            "text": "After that, I run back to Narita Taishin<n>and show her\nthe new shoes."
         },
         {
             "name": "",
@@ -138,7 +138,7 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Now you're just admitting you got<n>conned by a\nsales pitch. Ugh,<n>whatever. I guess I'll put them\non."
+            "text": "Now you're just admitting you got<n>conned by a\nsales pitch. Ugh,<n>whatever. I guess I'll put them on."
         },
         {
             "name": "Narita Taishin",
@@ -206,7 +206,7 @@
         },
         {
             "name": "",
-            "text": "After walking for a while together, we<n>come\nacross a park and decide to<n>rest on a bench.",
+            "text": "After walking for a while together, we<n>come across\na park and decide to<n>rest on a bench.",
             "choice_data_list": [
                 "So, what were you doing around there?",
                 "So, what were you doing around there?"
@@ -214,11 +214,11 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "...Playing a game. One of those<n>location-based\nones."
+            "text": "...Playing a game. One of those<n>location-based ones."
         },
         {
             "name": "Monólogo",
-            "text": "The game involves finding and<n>capturing\ncharacters that are<n>projected into the real world\nvia<n>augmented reality."
+            "text": "The game involves finding and<n>capturing characters\nthat are<n>projected into the real world via<n>augmented\nreality."
         },
         {
             "name": "Monólogo",
@@ -238,7 +238,7 @@
         },
         {
             "name": "",
-            "text": "Apparently, the character she's after<n>has actually\nappeared. She tells me<n>its coordinates, which\naren't too far<n>from where we are now.",
+            "text": "Apparently, the character she's after<n>has actually\nappeared. She tells me<n>its coordinates, which aren't\ntoo far<n>from where we are now.",
             "choice_data_list": [
                 "It's close by. Let's go!"
             ]
@@ -257,7 +257,7 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "That's not a bad way to look at it. It'd<n>suck to go\nback with a bad taste in<n>my mouth because of\nthat."
+            "text": "That's not a bad way to look at it. It'd<n>suck to go\nback with a bad taste in<n>my mouth because of that."
         },
         {
             "name": "Narita Taishin",
@@ -269,7 +269,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Our teamwork pays off, and Narita<n>Taishin\nmanages to capture the<n>limited-edition character.",
+            "text": "Our teamwork pays off, and Narita<n>Taishin manages\nto capture the<n>limited-edition character.",
             "choice_data_list": [
                 "Congrats, Taishin!"
             ]
@@ -280,7 +280,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Having finally arrived at a shop, Narita<n>Taishin\nbuys new shoes. She seems<n>to be in a better\nmood when we part."
+            "text": "Having finally arrived at a shop, Narita<n>Taishin buys\nnew shoes. She seems<n>to be in a better mood\nwhen we part."
         },
         {
             "name": "Monólogo",

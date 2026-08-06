@@ -6,7 +6,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "B-bom senso?! Nunca imaginei que<n>ouviria essas\npalavras saindo da<n><i>sua</i> boca!",
+            "text": "B-bom senso?! Nunca imaginei que<n>ouviria essas\npalavras saindo da <i>sua</i><n>boca!",
             "choice_data_list": [
                 "Est-está tudo bem?",
                 "Est-está tudo bem?"
@@ -22,14 +22,14 @@
         },
         {
             "name": "Monólogo",
-            "text": "Então elas querem que eu decida... É<n>verdade que\ntenho um tempo livre, e<n>isso <i>pode</i> ser útil para\n<chrname> a longo prazo.",
+            "text": "Então elas querem que eu decida... É<n>verdade que\ntenho um tempo livre, e<n>isso <i>pode</i> ser útil para<n><chrname> a\nlongo prazo.",
             "choice_data_list": [
                 "Quais são os três candidatos?"
             ]
         },
         {
             "name": "Gold Ship",
-            "text": "Que maneira melhor de conquistar os<n>sete mares\ndo que correndo voltas?<n>Quem precisa de um\nmapa do tesouro<n>quando seu Vigor te levará até o\nobjetivo?"
+            "text": "Que maneira melhor de conquistar os<n>sete mares\ndo que correndo voltas?<n>Quem precisa de um mapa\ndo tesouro<n>quando seu Vigor te levará até o\nobjetivo?"
         },
         {
             "name": "Winning Ticket",
@@ -37,7 +37,7 @@
         },
         {
             "name": "Special Week",
-            "text": "Eu proponho uma maratona de \"coma<n>o quanto\npuder\"! As refeições<n>pós-treino são tão\nimportantes quanto<n>o próprio treino! Caramba,\nacho que<n>comer <i>deveria</i> contar como treino!",
+            "text": "Eu proponho uma maratona de \"coma<n>o quanto\npuder\"! As refeições<n>pós-treino são tão importantes\nquanto<n>o próprio treino! Caramba, acho que<n>comer\n<i>deveria</i> contar como treino!",
             "choice_data_list": [
                 "Correr voltas <i>ajuda</i> a aumentar o Vigor.",
                 "Correr voltas <i>ajuda</i> a aumentar o Vigor.",
@@ -47,7 +47,7 @@
         },
         {
             "name": "Special Week",
-            "text": "Eu proponho uma maratona de \"coma<n>o quanto\npuder\"! As refeições<n>pós-treino são tão\nimportantes quanto<n>o próprio treino! Caramba,\nacho que<n>comer <i>deveria</i> contar como treino!",
+            "text": "Eu proponho uma maratona de \"coma<n>o quanto\npuder\"! As refeições<n>pós-treino são tão importantes\nquanto<n>o próprio treino! Caramba, acho que<n>comer\n<i>deveria</i> contar como treino!",
             "choice_data_list": [
                 "Correr voltas <i>ajuda</i> a aumentar o Vigor.",
                 "Correr voltas <i>ajuda</i> a aumentar o Vigor.",
@@ -61,7 +61,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "E-eu tenho certeza de que vai ficar<n>tudo bem! Ela\nnão parece estar<n>brincando ou tirando onda com a\ngente. Talvez este seja o segredo<n>por trás da\nforça da Gold Ship!"
+            "text": "E-eu tenho certeza de que vai ficar<n>tudo bem! Ela\nnão parece estar<n>brincando ou tirando onda com a\ngente. Talvez este seja o segredo<n>por trás da força\nda Gold Ship!"
         },
         {
             "name": "Silence Suzuka",
@@ -85,11 +85,11 @@
         },
         {
             "name": "Narita Brian",
-            "text": "...Com tanta gente aqui, não faria<n>mais sentido\nfazer uma votação?"
+            "text": "...Com tanta gente aqui, não faria<n>mais sentido fazer\numa votação?"
         },
         {
             "name": "Monólogo",
-            "text": "E assim começa a corrida de rapidez<n>de\nimproviso, que rapidamente se<n>transforma em um\nempate técnico<n>impressionante entre as\ncompetidoras."
+            "text": "E assim começa a corrida de rapidez<n>de improviso,\nque rapidamente se<n>transforma em um empate\ntécnico<n>impressionante entre as<n>competidoras."
         },
         {
             "name": "Rice Shower",
@@ -97,11 +97,11 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Não é?! Nada como colocar fogo em si<n>mesma\npara começar a suar! Que tal<n>corrermos a\ndistância do Derby<n>agora?"
+            "text": "Não é?! Nada como colocar fogo em si<n>mesma para\ncomeçar a suar! Que tal<n>corrermos a distância do\nDerby<n>agora?"
         },
         {
             "name": "Monólogo",
-            "text": "A equipe passa o resto da tarde<n>correndo o\nquanto o coração deseja."
+            "text": "A equipe passa o resto da tarde<n>correndo o quanto\no coração deseja."
         },
         {
             "name": "Special Week",
@@ -113,7 +113,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Eu... eu suponho que, se foi isso que<n>a maioria\ndecidiu, seria falta de<n>educação da minha parte\n<i>não</i><n>participar."
+            "text": "Eu... eu suponho que, se foi isso que<n>a maioria\ndecidiu, seria falta de<n>educação da minha parte <i>não</i>\nparticipar."
         },
         {
             "name": "Spe e McQueen",

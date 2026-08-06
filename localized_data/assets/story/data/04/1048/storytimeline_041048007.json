@@ -94,7 +94,7 @@
         },
         {
             "name": "Tosen Jordan",
-            "text": "Nossa, o que são essas bananas de<n>chocolate? São praticamente<n><i>bastões de luz</i>. Vou ficar cega!"
+            "text": "Nossa, o que são essas bananas de<n>chocolate? São praticamente <i>bastões<n>de luz</i>. Vou ficar cega!"
         },
         {
             "name": "Operadora do Jogo",
@@ -129,7 +129,7 @@
         },
         {
             "name": "Tosen Jordan",
-            "text": "Ah, sim! Fogos de artifício! Agora<n><i>sim</i> tá com cara de festival.",
+            "text": "Ah, sim! Fogos de artifício! Agora <i>sim</i><n>tá com cara de festival.",
             "choice_data_list": [
                 "Eu também gosto de fogos de artifício.",
                 "Eu também gosto de fogos de artifício."
@@ -141,7 +141,7 @@
         },
         {
             "name": "Tosen Jordan",
-            "text": "Apesar que acho que não tem muita<n>gente que <i>odeia</i> fogos. Acho que<n>não tamos na mesma vibe, afinal.",
+            "text": "Apesar que acho que não tem muita<n>gente que <i>odeia</i> fogos. Acho que não<n>tamos na mesma vibe, afinal.",
             "choice_data_list": [
                 "Não estamos?"
             ]

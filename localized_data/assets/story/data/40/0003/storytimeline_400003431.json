@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Monologue",
@@ -6,7 +7,7 @@
         },
         {
             "name": "Monologue",
-            "text": "I remind her that concerts are meant<n>to be fun for\n<i>everyone</i> involved,<n>after which she takes the\nstage with<n>a smile on her face and a jump in her\nstep."
+            "text": "I remind her that concerts are meant<n>to be fun for\n<i>everyone</i> involved, after<n>which she takes the stage\nwith a<n>smile on her face and a jump in her<n>step."
         },
         {
             "name": "Monologue",

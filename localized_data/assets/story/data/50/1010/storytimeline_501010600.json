@@ -1,0 +1,27 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "I go looking for Taiki Shuttle to see<n>how she's\ndoing before the race..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Okay. On the fourth corner, I'll kick it<n>into high gear,\nand..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh, hey there, Trainer! You gotta say<n>somethin'\nwhen you come in!",
+            "choice_data_list": [
+                "Sorry, it looked like you were focusing."
+            ]
+        },
+        {
+            "name": "",
+            "text": "Hehe, 'course I was! A real cowgirl<n>knows ya gotta\nget in the zone before<n>a showdown!"
+        },
+        {
+            "name": "",
+            "text": "I'm gonna show ya a true Texan<n>quick draw out\nthere on the turf!"
+        }
+    ]
+}

@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "A partir de hoje, meu aprendiz e eu\nparticiparemos da Twinkle Series. A<n>Umamusume\nque se juntará a mim<n>nesta jornada não é outra\nsenão...",
+            "text": "A partir de hoje, meu aprendiz e eu<n>participaremos\nda Twinkle Series. A<n>Umamusume que se juntará a\nmim<n>nesta jornada não é outra senão...",
             "choice_data_list": [
                 "Twinkle Series"
             ]
@@ -16,7 +16,7 @@
         },
         {
             "name": "Seiun Sky",
-            "text": "Eu não tenho sonhos grandiosos<n>nem nada disso,\nmas ééé, com<n>certeza é divertido surpreender\ntodo<n>mundo com a minha corrida. ♪"
+            "text": "Eu não tenho sonhos grandiosos<n>nem nada disso,\nmas ééé, com<n>certeza é divertido surpreender todo\nmundo com a minha corrida. ♪"
         },
         {
             "name": "Seiun Sky",
@@ -24,7 +24,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "E assim, <chrname> e eu<n>damos nossos\nprimeiros passos para<n>competir na Twinkle Series!"
+            "text": "E assim, <chrname> e eu damos nossos<n>primeiros passos\npara competir na<n>Twinkle Series!"
         }
     ]
 }

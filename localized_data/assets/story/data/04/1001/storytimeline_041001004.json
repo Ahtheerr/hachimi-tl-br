@@ -1,7 +1,7 @@
 {
     "text_block_list": [
         {
-            "name": "Enquanto a Special Week está correndo, eu<n>passo um tempo\\npensando no que<n>fazer a seguir.",
+            "name": "Enquanto a Special Week está correndo, eu<n>passo um tempo pensando no que<n>fazer a seguir.",
             "text": ""
         },
         {
@@ -10,7 +10,7 @@
         },
         {
             "name": "Special Week",
-            "text": "<i>Arf... arf...</i> Ah, Treinador?! Você<n>estava me esperando esse tempo<n>todo?! Mas já é tão tarde...",
+            "text": "<i>Arf... arf...</i> Ah, Treinador?! Você estava<n>me esperando esse tempo todo?!<n>Mas já é tão tarde...",
             "choice_data_list": [
                 "Vamos sair amanhã."
             ]
@@ -172,7 +172,7 @@
         },
         {
             "name": "Special Week",
-            "text": "(Eu sei que somos amigas, e eu<n>quero que as minhas amigas gostem<n>de mim! Mas... se eu quero me tornar<n>uma pessoa que deixa as pessoas<n>orgulhosas, eu preciso... Não, eu<n><i>vou</i> correr!)"
+            "text": "(Eu sei que somos amigas, e eu<n>quero que as minhas amigas gostem<n>de mim! Mas... se eu quero me tornar<n>uma pessoa que deixa as pessoas<n>orgulhosas, eu preciso... Não, eu <i>vou</i><n>correr!)"
         },
         {
             "name": "Special Week",

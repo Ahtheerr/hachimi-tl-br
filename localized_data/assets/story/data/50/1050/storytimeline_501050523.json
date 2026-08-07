@@ -2,7 +2,11 @@
     "text_block_list": [
         {
             "name": "Narita Taishin",
+<<<<<<< Updated upstream
             "text": "<i>Sigh...</i> I don't even know why I bother<n>with you..."
+=======
+            "text": "<i>Sigh...</i> I don't even know why I<n>bother with\nyou..."
+>>>>>>> Stashed changes
         },
         {
             "name": "Narita Taishin",
@@ -30,11 +34,19 @@
         },
         {
             "name": "Marvelous Sunday",
+<<<<<<< Updated upstream
             "text": "Okay, let's go! ☆ Off we are to a<n>marvelous hang! ★"
         },
         {
             "name": "Narita Taishin",
             "text": "Hold on—I never agreed to... Hey! Stop<n>pushing me!"
+=======
+            "text": "Okay, let's go! ☆ Off we are to a<n>marvelous hang!\n★"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hold on—I never agreed to... Hey! Stop<n>pushing\nme!"
+>>>>>>> Stashed changes
         },
         {
             "name": "Marvelous Sunday",
@@ -70,7 +82,11 @@
         },
         {
             "name": "",
+<<<<<<< Updated upstream
             "text": "(There! I should be able to make a<n>break for it down\nthis path!)"
+=======
+            "text": "(There! I should be able to make a<n>break for it\ndown this path!)"
+>>>>>>> Stashed changes
         },
         {
             "name": "Narita Taishin",

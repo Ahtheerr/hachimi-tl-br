@@ -30,8 +30,13 @@
             "name": "Narita Taishin",
             "text": "What?!",
             "choice_data_list": [
+<<<<<<< Updated upstream
                 "We're here <i>precisely</i> because something appears\nto be wrong.",
                 "We're here <i>precisely</i> because something appears\nto be wrong.",
+=======
+                "We're here <i>precisely</i> because something\nappears to be wrong.",
+                "We're here <i>precisely</i> because something\nappears to be wrong.",
+>>>>>>> Stashed changes
                 "I'll support you all the way!",
                 "I'll support you all the way!"
             ]
@@ -40,8 +45,13 @@
             "name": "Narita Taishin",
             "text": "What?!",
             "choice_data_list": [
+<<<<<<< Updated upstream
                 "We're here <i>precisely</i> because something appears\nto be wrong.",
                 "We're here <i>precisely</i> because something appears\nto be wrong.",
+=======
+                "We're here <i>precisely</i> because something\nappears to be wrong.",
+                "We're here <i>precisely</i> because something\nappears to be wrong.",
+>>>>>>> Stashed changes
                 "I'll support you all the way!",
                 "I'll support you all the way!"
             ]
@@ -80,7 +90,11 @@
         },
         {
             "name": "Narita Taishin",
+<<<<<<< Updated upstream
             "text": "Damn it! This injury'd better heal at<n>light speed—or\nelse!"
+=======
+            "text": "Damn it! This injury'd better heal at<n>light\nspeed—or else!"
+>>>>>>> Stashed changes
         },
         {
             "name": "Monólogo",
@@ -138,7 +152,11 @@
         },
         {
             "name": "Monólogo",
+<<<<<<< Updated upstream
             "text": "Narita Taishin shows off what she's<n>got and blasts\nthrough her training for<n>the day."
+=======
+            "text": "Narita Taishin shows off what she's<n>got and\nblasts through her training for<n>the day."
+>>>>>>> Stashed changes
         }
     ]
 }

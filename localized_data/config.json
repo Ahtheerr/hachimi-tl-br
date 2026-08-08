@@ -1,7 +1,7 @@
 {
     "ordinal_types": [],
     "months": [],
-    "line_width_multiplier": 2,
+    "line_width_multiplier": 2.1,
     "use_text_wrapper": true,
     "wrapper_penalties": {
         "nline_penalty": 8,
@@ -11,9 +11,8 @@
         "hyphen_penalty": 0
     },
 	"plural_form": "n == 1 ? 0 : 1",
-    "auto_adjust_story_clip_length": false,
+    "auto_adjust_story_clip_length": true,
     "text_common_allow_overflow": false,
-    "text_frame_line_spacing_multiplier": 0.85,
     "now_loading_comic_title_ellipsis": false,
     "remove_ruby": false,
     "localize_dict": "localize_dict.json",

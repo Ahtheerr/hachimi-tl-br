@@ -2,193 +2,151 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Today, I'm accompanying Symboli<n>Rudolf to the\nFleetfoot Festival, a<n>celebration for Umamusume."
+            "text": "Hoje, estou acompanhando Symboli<n>Rudolf ao\nFestival Passo Ligeiro, uma<n>celebração para as\nUmamusume."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "I gave the course a test run. The<n>positioning of the\ntargets and the<n>condition of the equipment all\nseems<n>to be in order. The archery planning\ncommittee has done an excellent job."
+            "text": "Fiz um teste na pista. A posição dos<n>alvos e as\ncondições dos<n>equipamentos parecem estar em\nordem. O comitê de organização da<n>arquearia fez\num excelente trabalho."
         },
         {
             "name": "Tracen Student A",
-            "text": "Th-thank you very much, President!<n>We're so lucky\nto have you<n>performing the inspection personally!"
+            "text": "M-muito obrigada, Presidente! Temos<n>muita sorte\nde ter você fazendo a<n>inspeção pessoalmente!"
         },
         {
             "name": "Tracen Student B",
-            "text": "Excuse me, President. Could we<n>trouble you for\nsome guidance for this<n>year's archers?"
+            "text": "Com licença, Presidente. Poderíamos<n>pedir algumas\norientações para os<n>arqueiros deste ano?"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "It would be my pleasure. To call it<n>noblesse oblige\nmay be a bit much,<n>but it is undeniably my duty to\nbestow<n>my knowledge upon them."
+            "text": "Seria um prazer. Talvez chamar isso<n>de noblesse\noblige seja um pouco<n>exagerado, mas é\ninegavelmente<n>meu dever transmitir meu\nconhecimento a eles."
         },
         {
             "name": "Monólogo",
-            "text": "And so, Symboli Rudolf spends the<n>day making\nsure the Fleetfoot<n>Festival goes smoothly."
+            "text": "E assim, Symboli Rudolf passa o dia<n>garantindo que\no Festival Passo<n>Ligeiro transcorra tranquilamente."
         },
         {
             "name": "Air Groove",
-            "text": "Your words at the closing ceremony<n>were\nwonderful, President."
+            "text": "Suas palavras na cerimônia de<n>encerramento foram\nmaravilhosas,<n>Presidente."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Thank you, Air Groove. Now, if you'll<n>excuse me..."
+            "text": "Obrigada, Air Groove. Agora, se me<n>der licença..."
         },
         {
             "name": "Air Groove",
-            "text": "...Of course. Well, the festivities have<n>come to a\nclose. All that's left now is<n>to enjoy the rest of the\nday. After all,<n>everybody needs a breather every\nonce in a while, including you."
+            "text": "...Claro. Bem, as festividades<n>chegaram ao fim.\nTudo o que resta<n>agora é aproveitar o restante do\ndia.<n>Afinal, todo mundo precisa respirar<n>um pouco de\nvez em quando,<n>inclusive você."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "...? And what do we have here?"
+            "text": "...? E o que temos aqui?"
         },
         {
-            "name": "Food Stall Lady",
-            "text": "Thanks for all your hard work,<n>President! We've\nextended our<n>opening hours for the day!",
+            "name": "Moça da Barraca de Comida",
+            "text": "Obrigada por todo o seu trabalho,<n>Presidente!\nEstendemos nosso<n>horário de funcionamento hoje!",
             "choice_data_list": [
-                "Come to think of it, we didn't check out the stalls.",
-                "Come to think of it, we didn't check out the stalls."
+                "Já que estamos aqui, nem demos uma olhada nas\nbarracas.",
+                "Já que estamos aqui, nem demos uma"
             ]
         },
         {
             "name": "Symboli Rudolf",
-            "text": "You arranged all this for me? You<n>really shouldn't\nhave..."
+            "text": "Vocês organizaram tudo isso para<n>mim? Não\nprecisavam..."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "I would have to be the most heartless<n>of tyrants to\ndisregard such a<n>courteous act. I shall be sure to\nsavor<n>this opportunity."
+            "text": "Eu teria que ser a mais cruel das<n>tiranas para\nignorar um gesto tão<n>atencioso. Farei questão de\naproveitar esta oportunidade."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Farewell!"
+            "text": "Até mais!"
         },
         {
             "name": "Monólogo",
             "text": "<i>Bang!</i>"
         },
         {
-            "name": "Shooting Gallery Staff",
-            "text": "Wow! You're a great shot, President."
+            "name": "Funcionários da Barraca de Tiro",
+            "text": "Uau! Você é uma ótima atiradora,<n>Presidente."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Aha, thank you. I do have some<n>shooting range\nexperience.",
+            "text": "Ahá, obrigada. Tenho alguma<n>experiência em\nestandes de tiro.",
             "choice_data_list": [
-                "You do?"
+                "Você tem?"
             ]
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Yes. My grandfather took me on a<n>few trips to\nAmerica, where I had the<n>opportunity to try my\nhand."
+            "text": "Sim. Meu avô me levou algumas<n>vezes aos\nEstados Unidos, onde tive<n>a oportunidade de\nexperimentar."
         },
         {
             "name": "Monólogo",
-            "text": "Though Symboli Rudolf has an<n>explanation for her\nshooting skills, her<n>talents don't end there."
+            "text": "Embora Symboli Rudolf tenha uma<n>explicação para\nsuas habilidades de<n>tiro, seus talentos não param\npor aí."
         },
         {
-            "name": "Cookie Cutting Stall Owner",
-            "text": "H-heavens! I've never seen anyone<n>cut a cookie\nthat intricate with such<n>precision! You're\nunbelievably<n>dexterous!"
+            "name": "Dono da Barraca de Biscoitos",
+            "text": "M-meu Deus! Nunca vi ninguém<n>cortar um biscoito\ntão intrincado com<n>tamanha precisão! Você é\nincrivelmente habilidosa!"
         },
         {
-            "name": "Cotton Candy Stall Owner",
-            "text": "Cotton candy! Make your own cotton<n>candy for\nonly a hundred yen! Whoa,<n>President, you're really\ngood at this!"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Haha, thank you very much. It<n>appears I still have\nthe muscle<n>memory from when I used to enjoy\nhandicraft. I suppose it is like riding a<n>bike."
+            "name": "Dono da Barraca de Algodão Doce",
+            "text": "Algodão-doce! Faça seu próprio<n>algodão-doce por\napenas cem ienes!<n>Uau, Presidente, você é muito\nboa<n>nisso!"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "...Hm? What's the matter?",
+            "text": "Haha, muito obrigada. Parece que<n>ainda tenho a\nmemória muscular de<n>quando costumava me\ndivertir<n>fazendo artesanato. Acho que é como<n>andar\nde bicicleta."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...Hm? O que foi?",
             "choice_data_list": [
-                "You're so skilled at everything!",
-                "You're so skilled at everything!"
+                "Você é habilidosa em tudo!",
+                "Você é habilidosa em tudo!"
             ]
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Hehe, I would hardly say <i>everything...</i>"
+            "text": "Hehe, eu dificilmente diria <i>tudo...</i>"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "But, come to think of it, passing on<n>knowledge and\nexperience is a thing<n>of great importance."
+            "text": "Mas, pensando bem, transmitir<n>conhecimento e\nexperiência é algo de<n>grande importância."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "So, Trainer. I am generally the one<n>who comes to\nyou seeking advice...<n>but just for tonight, what if I\nwere to<n>impart my wisdom unto you?",
+            "text": "Então, Treinador. Geralmente sou eu<n>quem vem até\nvocê em busca de<n>conselhos... mas, só por esta\nnoite, e<n>se eu compartilhasse minha<n>sabedoria com\nvocê?",
             "choice_data_list": [
-                "What happened to taking a breather?",
-                "What happened to taking a breather?"
+                "E o que aconteceu com aquela pausa?",
+                "E o que aconteceu com aquela pausa?"
             ]
         },
         {
             "name": "Symboli Rudolf",
-            "text": "But it is. My proposition is a breath of<n>fresh air for\nthe both of us. Why<n>don't we take advantage of\nthis<n>opportunity to both experience a fresh\nperspective?",
+            "text": "Mas é justamente isso. Minha<n>proposta é uma\nlufada de ar fresco<n>para nós dois. Por que não\naproveitamos esta oportunidade para<n>experimentar\numa nova perspectiva<n>juntos?",
             "choice_data_list": [
-                "Okay, then. How about some shooting tips?",
-                "I want to know how to make picturesque cotton\ncandy."
+                "Tudo bem, então. Que tal algumas dicas de tiro?",
+                "Quero saber como fazer um algodão-doce bonito."
             ]
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Heh. Shall we head back to the stall,<n>then?"
+            "text": "Heh. Então vamos voltar à barraca?"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "So, Trainer... Which prize takes your<n>fancy?",
+            "text": "Então, Treinador... Qual prêmio<n>chamou sua\natenção?",
             "choice_data_list": [
-                "(Let's see here...)"
-            ]
-        },
-        {
-            "name": "Monólogo",
-            "text": "Urged to choose by Symboli Rudolf, I<n>point at the\nprize that's caught my<n>eye—the one on the highest\nshelf."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "An excellent choice... Well then, allow<n>me to assess\nyour skills. Now, look<n>down the sight...",
-            "choice_data_list": [
-                "I take aim, and..."
+                "(Vejamos...)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "<i>Bang!</i>"
-        },
-        {
-            "name": "Shooting Gallery Staff",
-            "text": "Ah, not quite! But nice try!"
+            "text": "Instigado por Symboli Rudolf a<n>escolher, aponto\npara o prêmio que<n>chamou minha atenção — aquele\nna<n>prateleira mais alta."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Don't worry, you still have plenty<n>more shots. Try\nto visualize the<n>trajectory and adjust your aim\nafter<n>any misses."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Taking Symboli Rudolf's words to<n>heart, I assume a\nmore comfortable<n>position by resting my elbow on\nthe<n>counter. As I'm adjusting my aim..."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Something lightly brushes my<n>shoulder.",
+            "text": "Excelente escolha... Muito bem,<n>deixe-me avaliar\nsuas habilidades.<n>Agora, olhe pela mira...",
             "choice_data_list": [
-                "(...Was that her hair?)"
-            ]
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "...My apologies. I was too close."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "I hope you will forgive me. I felt that I<n>had to share\nyour point of view in<n>order to offer satisfactory\nadvice."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "...Not bad. Your aim is nearly on target.<n>Try aiming a\nbit farther to the<n>bottom-right—yes, like that. Go\nahead<n>and give it another try."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Symboli Rudolf whispers words of<n>encouragement\nin my ear, and I<n>adjust the muzzle according to her\nadvice.",
-            "choice_data_list": [
-                "(I take aim, and...)"
+                "Viro minha mira, e..."
             ]
         },
         {
@@ -196,43 +154,85 @@
             "text": "<i>Bang!</i>"
         },
         {
+            "name": "Funcionários da Barraca de Tiro",
+            "text": "Ah, não foi bem isso! Mas boa<n>tentativa!"
+        },
+        {
             "name": "Symboli Rudolf",
-            "text": "Congratulations, Trainer! The prize is<n>yours!",
+            "text": "Não se preocupe, você ainda tem<n>muitos disparos.\nTente visualizar a<n>trajetória e ajustar sua mira\ndepois<n>de cada erro."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Levando as palavras de Symboli<n>Rudolf a sério,\nassumo uma posição<n>mais confortável, apoiando o\ncotovelo<n>no balcão. Enquanto ajusto minha<n>mira..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Algo roça levemente meu ombro.",
             "choice_data_list": [
-                "It's all thanks to your instruction!",
-                "It's all thanks to your instruction!"
+                "(...Será que foi o cabelo dela?)"
             ]
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Hehe, well, that is quite some praise!<n>I've only\nbeen your instructor for a<n>single evening, but what\na rewarding<n>one it has been."
+            "text": "...Peço desculpas. Fiquei perto<n>demais."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Espero que me perdoe. Senti que<n>precisava\ncompartilhar seu ponto de<n>vista para poder oferecer\nconselhos<n>satisfatórios."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "...Nada mal. Sua mira está quase no<n>alvo. Tente\nmirar um pouco mais para<n>baixo e para a direita —\nisso, assim.<n>Vá em frente e tente novamente."
         },
         {
             "name": "Monólogo",
-            "text": "I get the feeling that Symboli Rudolf's<n>expression\nseems warmer than<n>usual."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Picturesque, you say. Heh. Well, if I<n>am to meet\nyour expectations, I will<n>need to muster all of my\nskill."
-        },
-        {
-            "name": "Cotton Candy Stall Owner",
-            "text": "Oh, President! Nice to see you again!<n>Would you like\nanother go at the<n>cotton candy machine?"
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "I'm afraid not, but my trainer would.<n>Right, now hold\nout the chopstick..."
-        },
-        {
-            "name": "Symboli Rudolf",
-            "text": "Hmm... You should hold it up a little<n>higher. Gather\nthe sugar by twirling<n>the stick around... Good, now\nmove it<n>toward the bottom.",
+            "text": "Symboli Rudolf sussurra palavras de\nencorajamento em meu ouvido, e<n>ajusto a mira de\nacordo com seu<n>conselho.",
             "choice_data_list": [
-                "(This is surprisingly difficult...)"
+                "(Eu miro, e...)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I try using the chopstick to fashion the<n>cotton candy\ninto the same shape as<n>Symboli Rudolf's earlier\neffort, but to<n>no avail."
+            "text": "<i>Bang!</i>"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Parabéns, Treinador! O prêmio é seu!",
+            "choice_data_list": [
+                "Tudo graças às suas instruções!",
+                "Tudo graças às suas instruções!"
+            ]
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hehe, que elogio e tanto! Fui sua<n>instrutora por\napenas uma noite, mas<n>que noite gratificante foi."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tenho a impressão de que a<n>expressão de Symboli\nRudolf está<n>mais calorosa que o normal."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Bonito, você diz. Heh. Bem, se quero<n>corresponder\nàs suas expectativas,<n>terei que reunir toda a minha\nhabilidade."
+        },
+        {
+            "name": "Dono da Barra de Algodão Doce",
+            "text": "Oh, Presidente! Que bom vê-la<n>novamente! Gostaria\nde tentar de<n>novo na máquina de algodão-doce?"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Receio que não, mas meu treinador<n>gostaria. Certo,\nagora segure o<n>palito..."
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hmm... Você deveria segurá-lo um<n>pouco mais alto.\nJunte o açúcar<n>girando o palito... Isso, agora\nmova-o<n>para baixo.",
+            "choice_data_list": [
+                "(Isso é surpreendentemente difícil...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tento usar o palito para moldar o<n>algodão-doce no\nmesmo formato que<n>o de Symboli Rudolf\nanteriormente,<n>mas sem sucesso."
         },
         {
             "name": "Symboli Rudolf",
@@ -240,41 +240,41 @@
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Pardon me. Let me give you a<n>demonstration.",
+            "text": "Com licença. Deixe-me fazer uma<n>demonstração.",
             "choice_data_list": [
                 "Huh?"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Symboli Rudolf places her hands on<n>mine."
+            "text": "Symboli Rudolf coloca as mãos sobre<n>as minhas."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Yes, this angle should work. Exactly.<n>Now spin it\nlike so."
+            "text": "Sim, este ângulo deve funcionar.<n>Exatamente.\nAgora gire assim."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Next, tilt the chopstick upwards... Very<n>good. That\nshould do nicely."
+            "text": "Em seguida, incline o palito para<n>cima... Muito bem.\nAssim está ótimo."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "...And voila!"
+            "text": "...E voilà!"
         },
         {
             "name": "Monólogo",
-            "text": "Retracting the chopstick from the<n>cotton candy\nmachine, I can hardly<n>believe that the\npicture-perfect cotton<n>candy before me is my own\ndoing.",
+            "text": "Ao retirar o palito da máquina de<n>algodão-doce, mal\nconsigo acreditar<n>que o algodão-doce perfeito\ndiante de<n>mim foi feito por mim.",
             "choice_data_list": [
                 "...Wow."
             ]
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Give it another try while the feeling is<n>still fresh.\nPerhaps you could make<n>one for me this time?"
+            "text": "Tente de novo enquanto a sensação<n>ainda está\nfresca. Talvez desta vez<n>você possa fazer um para\nmim?"
         },
         {
             "name": "Monólogo",
-            "text": "And so, I do my very best to make a<n>nice, big ball of\ncotton candy just for<n>Symboli Rudolf."
+            "text": "E assim, faço o meu melhor para<n>preparar uma\ngrande e bonita bola de<n>algodão-doce\nespecialmente para<n>Symboli Rudolf."
         }
     ]
 }

@@ -2,167 +2,164 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Silence Suzuka and I are at the<n>special summer training camp. It's<n>held every year to help students<n>prepare for the races ahead."
+            "text": "Silence Suzuka e eu estamos no<n>acampamento especial de<n>treinamento de verão. Ele é realizado<n>todos os anos para ajudar os<n>estudantes a se prepararem para as<n>corridas que virão."
         },
         {
             "name": "Silence Suzuka",
-            "text": "There are only a few days left of<n>camp..."
+            "text": "Faltam apenas alguns dias para o fim<n>do acampamento..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "This really is the perfect environment<n>for me to focus on my training. I'll be<n>sad to bid it farewell.",
+            "text": "Este realmente é o ambiente perfeito<n>para eu me concentrar no meu<n>treinamento. Vou ficar triste quando<n>tiver que me despedir daqui.",
             "choice_data_list": [
-                "Let's enjoy these last days to their fullest."
+                "Vamos aproveitar ao máximo esses últimos dias."
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Hehe, that sounds good."
+            "text": "Hehe, parece uma boa ideia."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Oh, by the way, Trainer. About the<n>triathlon event..."
+            "text": "Ah, a propósito, Treinador. Sobre o<n>evento de triatlo..."
         },
         {
             "name": "Monólogo",
-            "text": "The event that Silence Suzuka is<n>referring to has become something of<n>a tradition at summer camp."
+            "text": "O evento ao qual Silence Suzuka está<n>se referindo se tornou uma espécie<n>de tradição no acampamento de<n>verão."
         },
         {
             "name": "Monólogo",
-            "text": "The triathlon features swimming,<n>biking, and long-distance foot races.<n>Participants need a good command<n>over their stamina to win it.",
+            "text": "O triatlo inclui natação, ciclismo e<n>corrida de longa distância. Os<n>participantes precisam ter um bom<n>controle sobre sua resistência para<n>vencê-lo.",
             "choice_data_list": [
-                "Oh yeah, you haven't signed up for it, have you?",
-                "Oh yeah, you haven't signed up for it, have\nyou?"
+                "Ah, é mesmo, você não se inscreveu, não é?"
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "No... My specialty is with medium<n>distances after all, and I don't think<n>I'd be able to keep up as a front<n>runner for quite so long..."
+            "text": "Não... Minha especialidade são as<n>distâncias médias, afinal, e não acho<n>que conseguiria permanecer na<n>liderança por tanto tempo..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "But..."
+            "text": "Mas..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Um... Would it be okay if I tried<n>anyway?"
+            "text": "Hum... Tudo bem se eu tentar mesmo<n>assim?"
         },
         {
             "name": "Silence Suzuka",
-            "text": "It might help me enjoy this last part<n>of camp to its fullest, like you said.",
+            "text": "Pode me ajudar a aproveitar ao<n>máximo esta última parte do<n>acampamento, como você disse.",
             "choice_data_list": [
-                "Sounds good to me. I'll be cheering you on!",
-                "Sounds good to me. I'll be cheering you on!"
+                "Parece ótimo. Estarei torcendo por você!"
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Okay, thank you! I'll be sure to give it<n>my best!"
+            "text": "Certo, obrigada! Vou dar o meu<n>melhor!"
         },
         {
             "name": "Monólogo",
-            "text": "After signing up for the event, the big<n>day rolls around quickly."
+            "text": "Depois de se inscrever no evento, o<n>grande dia chega rapidamente."
         },
         {
             "name": "Silence Suzuka",
-            "text": "There are quite a lot of participants. I<n>wonder if this is part of the training<n>regimen for some..."
+            "text": "Há bastante participantes. Será que<n>alguns deles estão participando como<n>parte de seu treinamento..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "I suppose it's much the same for me.<n>I only intend to go at my own pace<n>from start to finish.",
+            "text": "Acho que comigo é praticamente a<n>mesma coisa. Só pretendo seguir<n>meu próprio ritmo do início ao fim.",
             "choice_data_list": [
-                "Gonna try switching up your style?",
-                "Gonna try switching up your style?"
+                "Vai tentar mudar seu estilo?"
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "No, I'm a runaway through and<n>through."
+            "text": "Não, sou uma corredora fugitiva de<n>ponta até o fim."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Um... Can I ask you a favor?",
+            "text": "Hum... Posso te pedir um favor?",
             "choice_data_list": [
-                "What kind of favor?"
+                "Que tipo de favor?"
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Do you think... you could get me<n>another reward?"
+            "text": "Você acha... que poderia conseguir<n>outra recompensa para mim?"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Um... Oh right, I heard that there was a<n>festival happening tonight. Do you<n>think you could take me there?",
+            "text": "Hum... Ah, é mesmo, ouvi dizer que<n>vai haver um festival hoje à noite.<n>Você poderia me levar até lá?",
             "choice_data_list": [
-                "Sure. We'll hit up some food stalls."
+                "Claro. Vamos passar pelas barracas de comida."
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Thank you. Off I go, then."
+            "text": "Obrigada. Então lá vou eu."
         },
         {
             "name": "Monólogo",
-            "text": "So begins the first event of the<n>triathlon."
+            "text": "Começa a primeira prova do triatlo."
         },
         {
             "name": "Umamusume Narradora",
-            "text": "First, we'll have our contestants<n>battlin' the big blue! Seems like<n>smooth sailin' today, but swimmin'<n>against these waves'll be tough!"
+            "text": "Primeiro, teremos nossos<n>competidores enfrentando o grande<n>azul! Parece que hoje o mar está<n>tranquilo, mas nadar contra essas<n>ondas vai ser difícil!"
         },
         {
             "name": "Umamusume Narradora",
-            "text": "And it's Silence Suzuka with an early<n>lead. Land or sea, she doesn't give<n>up the front spot!"
+            "text": "E é Silence Suzuka quem assume a<n>liderança logo no início. Seja na terra<n>ou no mar, ela não abre mão da<n>primeira posição!"
         },
         {
             "name": "Umamusume A",
-            "text": "Suzuka's so cool!"
+            "text": "A Suzuka é tão incrível!"
         },
         {
             "name": "Umamusume B",
-            "text": "But this is a triathlon, yeah? Shouldn't<n>she be saving her stamina?"
+            "text": "Mas isso é um triatlo, não é? Ela não<n>deveria guardar energia?"
         },
         {
             "name": "Monólogo",
-            "text": "Despite the concerns of some,<n>Suzuka is easily able to pull away<n>from the competition in both the<n>swimming and bike races."
+            "text": "Apesar das preocupações de alguns,<n>Suzuka consegue facilmente se<n>afastar da competição tanto na prova<n>de natação quanto na de ciclismo."
         },
         {
             "name": "Monólogo",
-            "text": "All that remains is the long-distance<n>contest."
+            "text": "Tudo o que resta é a prova de longa<n>distância."
         },
         {
             "name": "Umamusume Narradora",
-            "text": "It all comes down to this! Silence<n>Suzuka still has the lead!"
+            "text": "Tudo se resume a isso! Silence<n>Suzuka ainda está na liderança!"
         },
         {
             "name": "Umamusume Narradora",
-            "text": "But what's this? Signs of slowdown?<n>The pack is closing in on her!"
+            "text": "Mas o que é isso? Sinais de que está<n>desacelerando? O pelotão está se<n>aproximando dela!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "<I>Huff... huff... huff...</I>"
+            "text": "<I>Ofegante... ofegante... ofegante...</I>"
         },
         {
             "name": "Monólogo",
-            "text": "As I wait near the finish, I can see<n>Suzuka come dashing into view."
+            "text": "Enquanto espero perto da linha de<n>chegada, vejo Suzuka surgir<n>correndo ao longe."
         },
         {
             "name": "Umamusume B",
-            "text": "I don't think she has much left in the<n>tank..."
+            "text": "Não acho que ela tenha muita energia<n>sobrando..."
         },
         {
             "name": "Umamusume A",
-            "text": "She should be able to hear us from<n>here, so let's bring her across the<n>finish! Go for it, Suzukaaa!"
+            "text": "Ela deve conseguir nos ouvir daqui,<n>então vamos ajudá-la a cruzar a<n>linha de chegada! Vamos, Suzukaaa!"
         },
         {
             "name": "Monólogo",
-            "text": "The triathlon is simply part of our<n>training regimen, so maybe I<n>shouldn't take it <I>too</I> seriously—but I<n>can't help myself.",
+            "text": "O triatlo é apenas parte do nosso<n>treinamento, então talvez eu não<n>devesse levar isso <I>tão</I> a sério — mas<n>não consigo evitar.",
             "choice_data_list": [
-                "You can win this, Suzuka!"
+                "Você consegue vencer esta, Suzuka!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I'm not entirely sure if she can hear<n>my voice, but that's no reason to<n>skimp on the cheers."
+            "text": "Não tenho certeza se ela consegue<n>ouvir minha voz, mas isso não é<n>motivo para economizar nos gritos de<n>incentivo."
         },
         {
             "name": "Silence Suzuka",
@@ -170,19 +167,19 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "This scenery... It's mine alone!"
+            "text": "Esta paisagem... É somente minha!"
         },
         {
             "name": "Umamusume Narradora",
-            "text": "Whoa! Silence Suzuka picks up speed<n>once again!"
+            "text": "Uau! Silence Suzuka acelera mais<n>uma vez!"
         },
         {
             "name": "Umamusume Narradora",
-            "text": "She's pulling away from the pack!<n>Look at those legs go!"
+            "text": "Ela está se afastando do pelotão!<n>Olhem aquelas pernas!"
         },
         {
             "name": "Umamusume Narradora",
-            "text": "Her lead unwavering, Suzuka crosses<n>the finish line! The winner of this<n>year's summer camp triathlon is<n>Silence Suzuka!"
+            "text": "Sem deixar sua liderança vacilar,<n>Suzuka cruza a linha de chegada! A<n>vencedora do triatlo deste ano no<n>acampamento de verão é Silence<n>Suzuka!"
         },
         {
             "name": "Fãs",
@@ -190,63 +187,60 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "That shaved ice was delicious! It was<n>just the thing I needed after all that<n>exercise today.",
+            "text": "Esse raspadinho estava delicioso!<n>Era exatamente o que eu precisava<n>depois de todo aquele exercício de<n>hoje.",
             "choice_data_list": [
-                "Was it more delicious than the taste of victory?",
-                "Was it more delicious than the taste of victory?"
+                "Estava mais delicioso do que o sabor da vitória?"
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "I can't bring myself to give up the<n>view from the lead in any race. But I<n>knew that wouldn't be easy in a<n>triathlon—that's why I wasn't<n>planning to enter."
+            "text": "Não consigo abrir mão da vista da<n>liderança em nenhuma corrida. Mas<n>eu sabia que isso não seria fácil em<n>um triatlo — por isso não planejava<n>participar."
         },
         {
             "name": "Silence Suzuka",
-            "text": "But then I realized that just like at the<n>fan event before, all I had to do was<n>clear my mind and stop overthinking<n>it."
+            "text": "Mas então percebi que, assim como<n>no evento para fãs de antes, tudo o<n>que eu precisava fazer era limpar a<n>mente e parar de pensar demais."
         },
         {
             "name": "Silence Suzuka",
-            "text": "It's thanks to your guidance and<n>encouragement that I'm now able to<n>do that.",
+            "text": "É graças à sua orientação e incentivo<n>que agora consigo fazer isso.",
             "choice_data_list": [
-                "So it was a good bit of training after all.",
-                "So it was a good bit of training after all."
+                "Então foi um bom treinamento, afinal."
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Very... And there's one more thing I<n>realized as well."
+            "text": "Muito... E também percebi mais uma<n>coisa."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Silent scenery filled only with the<n>sounds of the wind and my own<n>beating heart... A world with no one<n>but myself in it was the most<n>important thing to me."
+            "text": "Uma paisagem silenciosa, preenchida<n>apenas pelos sons do vento e das<n>batidas do meu próprio coração... Um<n>mundo sem ninguém além de mim<n>era a coisa mais importante para mim."
         },
         {
             "name": "Silence Suzuka",
-            "text": "But I think that has changed a little bit."
+            "text": "Mas acho que isso mudou um pouco."
         },
         {
             "name": "Silence Suzuka",
-            "text": "A world with no one else in it... except<n>for you, waiting for me."
+            "text": "Um mundo sem mais ninguém...<n>exceto você, esperando por mim."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Seeing you is all I need to muster up<n>the strength to win.",
+            "text": "Ver você é tudo de que preciso para<n>reunir forças e vencer.",
             "choice_data_list": [
-                "I'll always be waiting for you at the finish line.",
-                "I'll always be waiting for you at the finish line."
+                "Estarei sempre esperando por você na linha de\nchegada."
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Hehe, thank you so much."
+            "text": "Hehe, muito obrigada."
         },
         {
             "name": "Silence Suzuka",
-            "text": "No matter the race, I'll always find my<n>way to the front... back to you."
+            "text": "Não importa a corrida, sempre<n>encontrarei meu caminho até a<n>frente... de volta até você."
         },
         {
             "name": "Monólogo",
-            "text": "Summer camp has clearly helped<n>Silence Suzuka not only to grow<n>athletically, but also to more deeply<n>experience her emotions."
+            "text": "O acampamento de verão claramente<n>ajudou Silence Suzuka não apenas a<n>crescer como atleta, mas também a<n>vivenciar seus sentimentos de<n>maneira mais profunda."
         }
     ]
 }

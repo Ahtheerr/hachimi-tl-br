@@ -2,140 +2,134 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Walking past the training course<n>some days later, I spot a familiar<n>figure dashing down the homestretch."
+            "text": "Alguns dias depois, ao passar pela<n>pista de treinamento, vejo uma figura<n>familiar correndo pela reta final."
         },
         {
             "name": "Monólogo",
-            "text": "It's Silence Suzuka. Her trainer's<n>nowhere to be seen, so I assume that<n>she's doing some solo practice."
+            "text": "É Silence Suzuka. Seu treinador não<n>está em lugar algum, então presumo<n>que ela esteja treinando sozinha."
         },
         {
             "name": "Silence Suzuka",
-            "text": "<I>Huff... huff...</I> Ah!",
+            "text": "<I>Ofegante... ofegante...</I> Ah!",
             "choice_data_list": [
-                "Are you all right?!",
-                "Are you all right?!"
+                "Você está bem?!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I rush over to the collapsed Silence<n>Suzuka to make sure she's not hurt."
+            "text": "Corro até Silence Suzuka, que está<n>caída, para me certificar de que não<n>se machucou."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Oh... s-sorry. I'm fine, really. My legs<n>are just... feeling a bit heavy.",
+            "text": "Oh... d-desculpe. Estou bem, de<n>verdade. Minhas pernas só estão...<n>um pouco pesadas.",
             "choice_data_list": [
-                "Is that really all?",
-                "Is that really all?"
+                "É só isso mesmo?"
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "I wonder... Maybe not..."
+            "text": "Eu me pergunto... Talvez não..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "I've been feeling strange ever since<n>my last scrimmage race."
+            "text": "Tenho me sentido estranha desde a<n>minha última corrida de treino."
         },
         {
             "name": "Silence Suzuka",
-            "text": "It feels as if there's a ball and chain<n>attached to one of my ankles. And no<n>matter how much I run, all I see is<n>darkness...",
+            "text": "É como se houvesse uma bola de<n>ferro presa a um dos meus<n>tornozelos. E, não importa o quanto<n>eu corra, tudo o que vejo é<n>escuridão...",
             "choice_data_list": [
-                "Maybe you're pushing yourself too hard.",
-                "Maybe you're pushing yourself too hard."
+                "Talvez você esteja se esforçando demais."
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Too hard? ...I don't think so. This was<n>never a problem for me before."
+            "text": "Demais? ...Não acho. Isso nunca foi<n>um problema para mim antes."
         },
         {
             "name": "Silence Suzuka",
-            "text": "I used to be able to run without a care<n>in the world. It was everything to me."
+            "text": "Eu costumava conseguir correr sem<n>me preocupar com nada. Correr era<n>tudo para mim."
         },
         {
             "name": "Silence Suzuka",
-            "text": "But now... What should I do? ...I've<n>never felt this way before."
+            "text": "Mas agora... O que devo fazer?<n>...Nunca me senti assim antes."
         },
         {
             "name": "Silence Suzuka",
-            "text": "I've never felt like... like... I don't<n>even want to run...",
+            "text": "Nunca senti que... que... nem sequer<n>quero correr...",
             "choice_data_list": [
                 "Suzuka..."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Her expression in no way resembles<n>that look of pure bliss I am so used to<n>seeing as she runs."
+            "text": "Sua expressão não se parece nem<n>um pouco com aquele olhar de pura<n>felicidade que estou tão acostumado<n>a ver enquanto ela corre."
         },
         {
             "name": "Monólogo",
-            "text": "I fear that she's losing sight of her<n>ultimate passion. There has to be<n>something I can do..."
+            "text": "Temo que ela esteja perdendo de<n>vista sua verdadeira paixão. Deve<n>haver algo que eu possa fazer..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Phew! A quiet course all to myself...<n>Running at night is the best."
+            "text": "Ufa! Uma pista tranquila só para mim...<n>Correr à noite é o melhor."
         },
         {
             "name": "Silence Suzuka",
-            "text": "And maybe it's just my imagination,<n>but the stars seem a little brighter<n>than usual tonight."
+            "text": "E talvez seja só impressão minha,<n>mas as estrelas parecem um pouco<n>mais brilhantes do que de costume<n>esta noite."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Hehe. I've got this scenery all to<n>myself."
+            "text": "Hehe. Tenho essa paisagem toda só<n>para mim."
         },
         {
             "name": "Monólogo",
-            "text": "Come to think of it, she spoke so<n>fondly of her beautiful view that<n>evening. Perhaps Suzuka likes taking<n>in the scenery?"
+            "text": "Pensando bem, naquela noite ela<n>falou com tanto carinho sobre sua<n>bela paisagem. Talvez Suzuka goste<n>de apreciar o cenário?"
         },
         {
             "name": "Monólogo",
-            "text": "In that case...",
+            "text": "Nesse caso...",
             "choice_data_list": [
-                "Would you like to try running somewhere else?",
-                "Would you like to try running somewhere else?"
+                "Você gostaria de tentar correr em outro lugar?"
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Somewhere else?",
+            "text": "Em outro lugar?",
             "choice_data_list": [
-                "Yes—somewhere with a wonderful view."
+                "Sim — em algum lugar com uma vista maravilhosa."
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "A wonderful view..."
+            "text": "Uma vista maravilhosa..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Is there really such a place near the<n>academy? I feel like I'm quite used to<n>all the sights around here...",
+            "text": "Será que existe mesmo um lugar<n>assim perto da academia? Sinto que<n>já estou bastante acostumada com<n>todas as paisagens daqui...",
             "choice_data_list": [
-                "I'll show you something new.",
-                "I'll show you something new."
+                "Vou mostrar algo novo para você."
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Will you really?"
+            "text": "Você vai mesmo?"
         },
         {
             "name": "Monólogo",
-            "text": "Fortunately, I have just the place in<n>mind. The surroundings are awash<n>with lush greenery, and there is<n>plenty of wide-open space to run."
+            "text": "Felizmente, tenho exatamente o lugar<n>em mente. Os arredores são repletos<n>de uma vegetação exuberante, e há<n>bastante espaço aberto para correr."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Wow..."
+            "text": "Uau..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "The sky cleared up while we were on<n>the train. There's so much greenery,<n>bathing in sunlight... It's beautiful."
+            "text": "O céu abriu enquanto estávamos no<n>trem. Há tanto verde, banhado pela<n>luz do sol... É lindo."
         },
         {
             "name": "Silence Suzuka",
-            "text": "And this path here... Just where does<n>it lead?",
+            "text": "E esta trilha aqui... Onde será que ela<n>leva?",
             "choice_data_list": [
-                "Why don't you take a run and find out?",
-                "Why don't you take a run and find out?"
+                "Por que você não corre e descobre?"
             ]
         },
         {
@@ -144,114 +138,112 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "...Good idea. I'll be back soon!"
+            "text": "...Boa ideia. Já volto!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "<I>Huff... huff... huff...</I> Phew."
+            "text": "<I>Ofegante... ofegante... ofegante...</I> Ufa."
         },
         {
             "name": "Silence Suzuka",
-            "text": "(My legs still feel a bit heavy. But...)"
+            "text": "(Minhas pernas ainda estão um<n>pouco pesadas. Mas...)"
         },
         {
             "name": "Silence Suzuka",
-            "text": "...What a nice breeze. It's so cool and<n>refreshing."
+            "text": "...Que brisa agradável. É tão fresca e<n>revigorante."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Okay... I think I'll run a bit more."
+            "text": "Certo... Acho que vou correr mais um<n>pouco."
         },
         {
             "name": "Silence Suzuka",
-            "text": "<I>Huff... huff... huff...</I>"
+            "text": "<I>Ofegante... ofegante... ofegante...</I>"
         },
         {
             "name": "Silence Suzuka",
-            "text": "(The feeling of kicking up dirt with my<n>feet... My body getting hot... The cool<n>breeze...)"
+            "text": "(A sensação de levantar poeira com<n>meus pés... Meu corpo esquentando...<n>A brisa fresca...)"
         },
         {
             "name": "Silence Suzuka",
-            "text": "(This is it. This feeling... Running like<n>this...)"
+            "text": "(É isso. Essa sensação... Correr<n>assim...)"
         },
         {
             "name": "Silence Suzuka",
-            "text": "<I>Huff... huff...</I>"
+            "text": "<I>Ofegante... ofegante...</I>"
         },
         {
             "name": "Silence Suzuka",
-            "text": "(This is my ideal scenery...)"
+            "text": "(Essa é a minha paisagem ideal...)"
         },
         {
             "name": "Silence Suzuka",
-            "text": "(Absolute silence. With only the<n>sounds of the wind and my own<n>beating heart. This world is mine...)"
+            "text": "(Silêncio absoluto. Apenas os sons do<n>vento e do meu próprio coração<n>batendo. Este mundo é meu...)"
         },
         {
             "name": "Silence Suzuka",
-            "text": "And mine alone!"
+            "text": "E somente meu!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "<I>Huff... huff... huff...</I> Phew.",
+            "text": "<I>Ofegante... ofegante... ofegante...</I> Ufa.",
             "choice_data_list": [
-                "You're looking rather refreshed.",
-                "You're looking rather refreshed."
+                "Você parece bastante revigorada."
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Yes, very. It's been a while since<n>I've been able to just run without a<n>care."
+            "text": "Sim, muito. Fazia um tempo que eu<n>não conseguia simplesmente correr<n>sem me preocupar com nada."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Thank you... It made me remember...",
+            "text": "Obrigada... Isso me fez lembrar...",
             "choice_data_list": [
-                "Remember what?"
+                "Lembrar do quê?"
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "I loved running like this even when I<n>was little. One day, my parents<n>encouraged me to try running in a<n>race."
+            "text": "Eu adorava correr assim mesmo<n>quando era pequena. Um dia, meus<n>pais me incentivaram a tentar correr<n>em uma corrida."
         },
         {
             "name": "Silence Suzuka",
-            "text": "As long as I was running, I was<n>happy, so I agreed to the race... But...<n>it was really tough at first."
+            "text": "Enquanto eu estivesse correndo, eu<n>estava feliz, então aceitei participar da<n>corrida... Mas... foi muito difícil no<n>começo."
         },
         {
             "name": "Silence Suzuka",
-            "text": "I was surrounded by other children...<n>It was noisy, and I felt trapped."
+            "text": "Eu estava cercada por outras<n>crianças... Era barulhento, e eu me<n>sentia presa."
         },
         {
             "name": "Silence Suzuka",
-            "text": "So I ran... all the way to the front,<n>where there was nobody but me.",
+            "text": "Então eu corri... até a frente, onde não<n>havia ninguém além de mim.",
             "choice_data_list": [
-                "So you \"ranaway\"?",
-                "So you \"ranaway\"?"
+                "Então você \"escapou\"?"
             ]
         },
         {
             "name": "Silence Suzuka",
-            "text": "Yes. I needed to go somewhere away<n>from the others, where they wouldn't<n>be able to catch up with me. So I ran<n>as fast as I could... and suddenly<n>everything opened up in front of me."
+            "text": "Sim. Eu precisava ir para algum lugar<n>longe das outras, onde elas não<n>pudessem me alcançar. Então corri o<n>mais rápido que pude... e, de repente,<n>tudo se abriu diante de mim."
         },
         {
             "name": "Silence Suzuka",
-            "text": "It was... quiet. And I was alone. I<n>reached a place nobody else could."
+            "text": "Era... silencioso. E eu estava sozinha.<n>Cheguei a um lugar onde ninguém<n>mais conseguia chegar."
         },
         {
             "name": "Silence Suzuka",
-            "text": "I... need to run in the lead."
+            "text": "Eu... preciso correr na liderança."
         },
         {
             "name": "Silence Suzuka",
-            "text": "...I need to reach that place, even if<n>it's just once more! I don't care<n>about anything else!"
+            "text": "...Preciso chegar àquele lugar, nem<n>que seja só mais uma vez! Não me<n>importo com mais nada!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "I think I should tell my trainer exactly<n>how I feel. That I can't run if I'm not<n>in the front."
+            "text": "Acho que devo contar exatamente<n>como me sinto ao meu treinador. Que<n>não consigo correr se não estiver na<n>frente."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Um... So maybe... Would you...",
+            "text": "Hum... Então talvez... Você poderia...",
             "choice_data_list": [
                 "Hm?",
                 "Hm?"
@@ -259,18 +251,18 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "Would you mind accompanying me<n>when I tell her? I'm not very good at<n>speaking, you see..."
+            "text": "Você se importaria de me<n>acompanhar quando eu contar a ela?<n>Não sou muito boa em falar, sabe..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "S-so, please come with me.",
+            "text": "E-então, por favor, venha comigo.",
             "choice_data_list": [
-                "Sure."
+                "Claro."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "And so, we return to the academy to<n>talk to Silence Suzuka's trainer..."
+            "text": "E assim, voltamos à academia para<n>conversar com o treinador de Silence<n>Suzuka..."
         }
     ]
 }

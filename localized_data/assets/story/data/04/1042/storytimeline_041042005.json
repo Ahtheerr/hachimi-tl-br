@@ -1,6 +1,7 @@
 {
     "text_block_list": [
         {
+<<<<<<< Updated upstream
             "name": "Monologue",
             "text": "One day, Seeking the Pearl barges<n>into my office with gusto."
         },
@@ -9,10 +10,21 @@
             "text": "Get ready to pack your bags! It's<n>time for us to take on international<n>races!",
             "choice_data_list": [
                 "Where's this coming from?!"
+=======
+            "name": "Monólogo",
+            "text": "Um dia, Seeking the Pearl invade meu<n>escritório com toda a energia."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Prepare-se para fazer as malas! Está<n>na hora de disputarmos corridas<n>internacionais!",
+            "choice_data_list": [
+                "De onde veio essa ideia?!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "It's simple! Countless tough<n>opponents are waiting for me on the<n>other side of the sea!"
         },
         {
@@ -28,10 +40,28 @@
             "text": "But first we'd need to apply for leave<n>from Tracen, get approval from the<n>URA, register as a racer at our<n>destination, secure lodgings while<n>we're there, and the list goes on...",
             "choice_data_list": [
                 "You probably won't be able to run in races for a\nwhile, you know?"
+=======
+            "text": "Yeah! Incontáveis adversárias<n>poderosas estão esperando por mim<n>do outro lado do oceano!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Vamos começar indo para a França!<n>Bonjour, Calvados!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pearl quer competir no exterior há<n>algum tempo. Dadas as habilidades<n>dela, não seria impossível..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas primeiro teríamos que pedir<n>licença à Tracen, obter aprovação da<n>URA, registrar ela como corredora no<n>destino, garantir hospedagem por lá e<n>por aí vai...",
+            "choice_data_list": [
+                "Você provavelmente não vai poder participar de\ncorridas por um tempo, sabe?"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "I've already considered that! ♪ While<n>we're waiting, we can take in the<n>beautiful gardens and air that France<n>has to offer."
         },
         {
@@ -69,32 +99,88 @@
         {
             "name": "Seeking the Pearl",
             "text": "This long straightaway leads straight<n>to glory! Umamusume from around<n>the world! Just try and keep up with<n>yours truly!"
+=======
+            "text": "Eu já pensei nisso! ♪ Enquanto<n>esperamos, podemos aproveitar os<n>belos jardins e o ar que a França tem<n>a oferecer."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Desde que eu continue treinando por<n>lá, it's all okay."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que ela já está pensando em<n>como aproveitar bem o tempo<n>enquanto estiver no exterior. Ainda<n>assim, não é como se pudéssemos<n>simplesmente fazer as malas e partir.<n>Ainda bem que preparei <i>aquilo...</i>"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "O Umalador de RV! Então era disso<n>que você estava falando!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O Umalador de RV é um simulador de<n>corridas. Ele consegue reproduzir<n>diversos hipódromos sob diferentes<n>condições climáticas."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Entendi, posso simular corridas<n>contra as potências internacionais do<n>mundo inteiro! Very good!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Rápido, vamos iniciar o simulador!<n>Vou mostrar minhas possibilidades no<n>espaço virtual!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Configuro as opções e inicio o<n>programa. Escolho um hipódromo<n>francês junto com algumas potências<n>internacionais."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "A grama está tão macia... Haha,<n>perfeita para os meus pés! Hora de<n>mostrar minha velocidade máxima!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Essa longa reta leva direto à glória!<n>Umamusume do mundo inteiro!<n>Tentem acompanhar a mim, a própria!"
+>>>>>>> Stashed changes
         },
         {
             "name": "Seeking the Pearl",
             "text": "Hyaaaaah!"
         },
         {
+<<<<<<< Updated upstream
             "name": "Monologue",
             "text": "Seeking the Pearl leaves the other<n>powerhouses in the dust and crosses<n>the finish line in first!"
+=======
+            "name": "Monólogo",
+            "text": "Seeking the Pearl deixa as outras<n>potências internacionais para trás e<n>cruza a linha de chegada em primeiro!"
+>>>>>>> Stashed changes
         },
         {
             "name": "Seeking the Pearl",
             "text": "...",
             "choice_data_list": [
+<<<<<<< Updated upstream
                 "That was some perfect racing!",
                 "That was some perfect racing!"
+=======
+                "Essa foi uma corrida perfeita!",
+                "Essa foi uma corrida perfeita!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "I disagree! How can you call that<n>perfect? Next time, let me run<n>alongside bison and deer!",
             "choice_data_list": [
                 "Sorry, come again?!"
+=======
+            "text": "Discordo! Como pode chamar isso de<n>perfeito? Da próxima vez, deixe-me<n>correr ao lado de bisões e cervos!",
+            "choice_data_list": [
+                "Perdão?!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "In the past, wild animals have<n>charged onto the track during races<n>overseas! It's entirely possible that<n>might happen in one of my races too!"
         },
         {
@@ -115,10 +201,33 @@
             "choice_data_list": [
                 "...Got any more requests?",
                 "...Got any more requests?"
+=======
+            "text": "No passado, animais selvagens já<n>invadiram a pista durante corridas no<n>exterior! É perfeitamente possível que<n>isso aconteça em uma das minhas<n>corridas também!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Acontecimentos imprevisíveis,<n>problemas inesperados — só<n>podemos dizer que estamos<n>preparados depois de superar todos<n>eles!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "É por isso que quero tentar correr em<n>todas as situações que conseguir<n>imaginar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "As corridas no exterior que Pearl<n>descreve são um território<n>desconhecido até para mim. Duvido<n>que qualquer quantidade de<n>preparação seria suficiente para<n>satisfazê-la."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas, como treinador dela, é meu<n>trabalho atender às suas<n>necessidades! Por enquanto, vou<n>fazê-la experimentar um monte de<n>situações diferentes.",
+            "choice_data_list": [
+                "...Tem mais algum pedido?",
+                "...Tem mais algum pedido?"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "Haha, now that's the spirit!"
         },
         {
@@ -130,10 +239,24 @@
             "text": "Can you also make the conditions of<n>the simulated Umamusume random?",
             "choice_data_list": [
                 "Sure thing, just give me some time to input the\ndata!"
+=======
+            "text": "Haha, agora sim, esse é o espírito!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Coloque a temperatura em 40 graus<n>Celsius! E deixe a grama<n>completamente seca! Ah, e prepare<n>também a situação oposta!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Você também consegue deixar as<n>condições das Umamusume<n>simuladas aleatórias?",
+            "choice_data_list": [
+                "Claro, só me dê um pouco de tempo para inserir os\ndados!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "Excellent! I'll leave it to you then!<n>Next, I'll get ready to run in America!"
         },
         {
@@ -158,6 +281,32 @@
         {
             "name": "Monologue",
             "text": "Thanks to the all-nighter I pulled, Pearl<n>is now able to experience a plethora<n>of possibilities within the virtual<n>simulator."
+=======
+            "text": "Good! Então deixo isso com você!<n>Agora, vou me preparar para correr<n>na América!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Querendo acompanhar o entusiasmo<n>de Pearl pelos treinos, dedico-me ao<n>computador. Quando olho para cima, o<n>sol já está nascendo.",
+            "choice_data_list": [
+                "Preciso descansar..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas Pearl está esperando por mim<n>na academia. Eu... preciso... ir..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hm, será que o Treinador está<n>atrasado? ...Ah, a inserção dos dados<n>terminou!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha, então ele estava trabalhando<n>duro. Mais importante, está na hora<n>de correr!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Graças à noite em claro que passei,<n>Pearl agora consegue experimentar<n>uma infinidade de possibilidades<n>dentro do simulador virtual."
+>>>>>>> Stashed changes
         }
     ]
 }

@@ -2,6 +2,7 @@
     "text_block_list": [
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "Nooooo! Tell me this isn't true! The<n>shop is gone?!"
         },
         {
@@ -10,10 +11,21 @@
             "choice_data_list": [
                 "What's wrong?!",
                 "What's wrong?!"
+=======
+            "text": "Noooo! Diga que isso não é verdade!<n>A loja fechou?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vejo uma Pearl desolada em frente a<n>uma loja de bentôs.",
+            "choice_data_list": [
+                "O que aconteceu?!",
+                "O que aconteceu?!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "Oh, Trainer... Pinch me. I must be<n>dreaming—how could this bento shop<n>close?!"
         },
         {
@@ -216,15 +228,227 @@
             "choice_data_list": [
                 "Don't worry, I thought this would happen so I\nbought two!",
                 "Don't worry, I thought this would happen so I\nbought two!"
+=======
+            "text": "Ah, Treinador... Belisque-me. Devo<n>estar sonhando — como essa loja de<n>bentôs pôde fechar?!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Seus sabores foram passados de<n>geração em geração e apreciados por<n>todos! Perder uma loja de bentôs é<n>como perder uma parte do Japão,<n>então, por favor, não diga que vai<n>desistir!"
+        },
+        {
+            "name": "Dono da Loja de Bentôs",
+            "text": "Sinto muito, Pearl... Eu gostaria de<n>continuar, se pudesse, mas os<n>negócios estão fracos."
+        },
+        {
+            "name": "Dono da Loja de Bentôs",
+            "text": "Só recebemos clientes habituais, o<n>que significa que a maior parte dos<n>bentôs acaba sendo desperdiçada<n>todos os dias. Tem sido difícil... então<n>tive que tomar essa decisão."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O dono da loja baixa os ombros,<n>desapontado. Sua frustração está<n>clara como o dia."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "...É cedo demais para você desistir. O<n>fato de receber apenas alguns<n>clientes significa que há muitas<n>pessoas que ainda não provaram sua<n>comida, não é?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Precisamos divulgar! O mundo precisa<n>conhecer esses bentôs incríveis!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Deixe tudo comigo! Prometo que vou<n>salvar sua loja!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Deixe-me apresentá-lo a alguém. Ele<n>é conhecido do meu pai e consultor<n>de vendas. Quando contei a ele sobre<n>sua loja de bentôs, ele concordou em<n>ajudar."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Primeiro de tudo, precisaremos<n>elaborar um plano de negócios de<n>longo prazo. Já sei, vamos abrir lojas<n>pelo país inteiro!"
+        },
+        {
+            "name": "Dono da Loja de Bentôs",
+            "text": "I-isso é realmente possível?!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Se você quer aumentar as vendas,<n>todo mundo sabe que precisa<n>expandir seu público-alvo! Simple is<n>best!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "E quando começarem a falar sobre<n>seus bentôs, você se tornará uma<n>marca nacional! Até uma expansão<n>internacional pode deixar de ser<n>apenas um sonho distante!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Agora, o mundo está com fome dos<n>seus bentôs! Vamos para a próxima<n>etapa do plano!"
+        },
+        {
+            "name": "Dono da Loja de Bentôs",
+            "text": "Hmm... Normalmente isso aqui fica às<n>moscas, então duvido que eu vá<n>pensar em expansão internacional<n>tão cedo..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hi, Pearl! O que foi? Alguma coisa te<n>deixou para baixo? Será que... você<n>está tão faminta que não consegue<n>nem mexer um músculo?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Exatamente! Como você sabia?!<n>Como vou me exercise desse jeito?!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ha-ha-ha! Então hoje é seu dia de<n>sorte! Tenho um bento especial, com<n>nutrientes equilibrados que vão dar<n>energia para o seu próximo exercise!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pearl decidiu gravar um comercial<n>para a loja de bentôs. Segundo ela,<n>esse tipo de programa está fazendo o<n>maior sucesso no exterior."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Agora só precisamos editar um pouco<n>e colocar legendas multilíngues.<n>Depois, fazemos o upload para o<n>mundo inteiro ver! Não subestime o<n>poder das redes sociais!"
+        },
+        {
+            "name": "Dono da Loja de Bentôs",
+            "text": "Você quer por na internet? ...Ah, você<n>acha que vai ficar tudo bem? Ouvi<n>dizer que as redes sociais podem ser<n>assustadoras... e eu realmente não<n>quero receber críticas..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Só estamos anunciando seus bentôs<n>— ninguém poderia te odiar por isso!<n>Mais importante, pense em todos os<n>pedidos que logo vão chegar! ♪"
+        },
+        {
+            "name": "Dono da Loja de Bentôs",
+            "text": "Eu mal consigo vender todos os<n>meus bentôs todos os dias do jeito<n>que está... Duvido que consiga algum<n>fã com um vídeo rápido..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O dono da loja de bentôs parece<n>ainda mais desanimado do que antes.<n>Deve ser difícil para ele acompanhar<n>a abordagem tão entusiasmada de<n>Pearl."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Os dois provavelmente têm visões<n>diferentes para o futuro da loja. Mas,<n>no fundo, tenho certeza de que o<n>dono também quer ver sua loja se<n>recuperar.",
+            "choice_data_list": [
+                "Preciso fazer a minha parte para ajudar!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Durante uma pausa nas gravações<n>de Pearl, pergunto novamente a ela o<n>que os bentôs significam para ela."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Como posso dizer... love? Não, não é<n>bem isso. A melhor maneira de<n>descrever esses bentôs... é que eles<n>têm gosto de lar."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Basta uma mordida para envolver<n>completamente minhas papilas<n>gustativas. Vejo lugares onde nunca<n>estive — paisagens do Japão antigo.<n>Haha, é uma experiência única."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "A bondade do dono se reflete nos<n>bentôs que ele prepara. O sabor de lar<n>é doce o bastante para levar embora<n>todo o estresse do dia a dia."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Por favor, experimente um você<n>mesmo. Recomendo o chikuzenni! Os<n>brotos de bambu são firmes e<n>crocantes, mas estão cheios de sabor<n>— uma verdadeira obra de arte!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Seus bentôs são como caixas de<n>joias cheias de obras-primas! Seus<n>trabalhos têm o poder de emocionar o<n>mundo... Tenho certeza disso!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A resposta de Pearl à minha pergunta<n>é mais apaixonada do que eu<n>esperava. Consigo ver seu amor<n>pelos bentôs através de sua<n>dedicação em ajudar o dono."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Se Pearl tem tanta confiança assim,<n>tenho certeza de que os bentôs são<n>de qualidade mundial. Porém, o<n>próprio dono ainda parece estar para<n>baixo..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Precisamos dar a ele coragem para<n>dar mais um passo — o primeiro<n>passo rumo a um futuro mais<n>brilhante."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hey, Treinador. O que temos aqui?<n>Estou bastante ocupada com meu<n>\"Projeto Bento Worldwide\", sabe."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "...Hm? Um food truck? Para as alunas<n>da Tracen? ...Espera, esse não é o<n>nome da loja?!"
+        },
+        {
+            "name": "Dono da Loja de Bentôs",
+            "text": "Ah, é a Pearl e seu treinador! Você<n>pode ver com seus próprios olhos,<n>mas a loja está bombando!"
+        },
+        {
+            "name": "Dono da Loja de Bentôs",
+            "text": "Eu nunca teria pensado em abrir um<n>food truck! Isso fica perto da<n>Academia Tracen, então muitos<n>alunos passam por aqui todos os<n>dias!",
+            "choice_data_list": [
+                "É a prova de que seus bentôs sempre foram\nótimos."
+            ]
+        },
+        {
+            "name": "Dono da Loja de Bentôs",
+            "text": "Hmm... Eu estava tão ocupado<n>sentindo pena de mim mesmo que<n>perdi de vista o que era mais<n>importante. Sabe, os clientes que<n>compram meus bentôs."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Dono... Eu não sabia que você estava<n>tão heartbroken..."
+        },
+        {
+            "name": "Dono da Loja de Bentôs",
+            "text": "Mas agora posso olhar meus clientes<n>nos olhos com orgulho novamente. É<n>como você disse, Pearl, expansão<n>não é apenas um sonho!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "...! Haha, fico feliz em ouvir isso."
+        },
+        {
+            "name": "Dono da Loja de Bentôs",
+            "text": "Bem, de volta aos negócios!<n>Expansão internacional, aí vou eu!<n>...Brincadeira, brincadeira!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Esse é um sonho maravilhoso.<n>Desejo muita sorte! E também vou<n>fazer o meu melhor para ajudar!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Estão ouvindo, pessoal? É por ordem<n>de chegada! Vocês realmente vão<n>deixar passar um bento que em<n>breve será famoso<n>internacionalmente?!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Uma mordida e você fica viciada!<n>Mmmmm! Amaziiing!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Graças ao marketing de Pearl, todos<n>os bentôs se esgotam naquele dia."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Ronco...</i>"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Eu também estou ficando com fome!<n>...Oh no! Fiquei tão envolvida<n>vendendo bentôs que esqueci de<n>deixar alguns para nós!",
+            "choice_data_list": [
+                "Não se preocupe, achei que isso aconteceria, então\ncomprei dois!",
+                "Não se preocupe, achei que isso aconteceria, então\ncomprei dois!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "You know me too well, Trainer! Come<n>on, let's go sit on that bench and eat!<n>Haha!"
         },
         {
             "name": "Monologue",
             "text": "I sit down next to Pearl and take a<n>bite of the bento. In an instant, my<n>heart is filled with relaxing memories<n>of home..."
+=======
+            "text": "Você me conhece bem demais,<n>Treinador! Vamos, sente-se naquele<n>banco e vamos comer! Haha!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sento-me ao lado de Pearl e dou uma<n>mordida no bento. Em um instante,<n>meu coração se enche de lembranças<n>tranquilas de casa..."
+>>>>>>> Stashed changes
         }
     ]
 }

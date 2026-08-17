@@ -1,6 +1,7 @@
 {
     "text_block_list": [
         {
+<<<<<<< Updated upstream
             "name": "Monologue",
             "text": "It's Seeking the Pearl versus Taiki<n>Shuttle. Under heavy downpour, the<n>matchup between these two<n>up-and-coming generational talents is<n>finally here!"
         },
@@ -19,12 +20,33 @@
         {
             "name": "Taiki Shuttle",
             "text": "I'll be going ahead! Catch ya at the<n>finish line!"
+=======
+            "name": "Monólogo",
+            "text": "É Seeking the Pearl contra Taiki<n>Shuttle. Sob uma chuva torrencial,<n>finalmente chegou o confronto entre<n>essas duas promessas da nova<n>geração!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Vamos fazer desta uma corrida<n>inesquecível, Taiki! Agora, tente me<n>alcançar se conse—"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hm? Essa sensação nos meus pés...<n>O que é isso? Parece... mole?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Como vou correr no meu melhor<n>assim?! Isso é um baita estorvo!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "I'll go ahead! Te vejo na linha de<n>chegada!"
+>>>>>>> Stashed changes
         },
         {
             "name": "Seeking the Pearl",
             "text": "Aaaaah! Taiki?!"
         },
         {
+<<<<<<< Updated upstream
             "name": "Monologue",
             "text": "Seeking the Pearl slowly sinks into<n>the back of the pack. Forget<n>competing with Taiki Shuttle, she<n>couldn't even beat the other<n>Umamusume in the race."
         },
@@ -110,11 +132,99 @@
         {
             "name": "Monologue",
             "text": "\"Difficult to work with.\"<n>\"Temperamental.\" If she really is that<n>finicky, then I might understand the<n>other trainers' reluctance, but..."
+=======
+            "name": "Monólogo",
+            "text": "Seeking the Pearl lentamente fica<n>para trás no pelotão. Esqueça<n>competir com Taiki Shuttle, ela sequer<n>conseguiu vencer as outras<n>Umamusume na corrida."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Unbelievable! Como isso... Como eu<n>pude perder tão facilmente?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Boa corrida, Pearl. Deixa eu<n>adivinhar... você não é fã de pistas<n>enlameadas?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Pistas enlameadas... Haha, acho que<n>não. É verdade que elas não são meu<n>forte, mas esse não foi o problema."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Há uma razão muito maior para eu<n>não ter conseguido correr bem hoje."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Oh? E qual seria essa razão?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Eu simplesmente não estava no clima<n>hoje! Perdi porque não coloquei meu<n>coração na corrida, não por causa<n>das condições da pista."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ohohoho! Parece que minha paixão<n>viu a pista enlameada e disse: \"Não,<n>obrigada!\""
+        },
+        {
+            "name": "Treinador Novato A",
+            "text": "Sério? Seeking the Pearl está rindo<n>depois de perder <i>desse</i> jeito?"
+        },
+        {
+            "name": "Treinador Habilidoso A",
+            "text": "Ah, então o problema foi o estado de<n>espírito dela, não a pista. E, se for<n>esse o caso... isso pode ser um fator<n>decisivo.",
+            "choice_data_list": [
+                "O que você quer dizer?"
+            ]
+        },
+        {
+            "name": "Treinador Habilidoso A",
+            "text": "Quero dizer que resultados como o de<n>hoje podem acontecer a qualquer<n>momento, independentemente das<n>condições da pista. Se alguma coisa<n>der errado, ela não consegue mostrar<n>seu verdadeiro potencial."
+        },
+        {
+            "name": "Treinador Habilidoso A",
+            "text": "Em outras palavras, é difícil trabalhar<n>com ela. E, pelo que acabou de dizer,<n>provavelmente também é<n>temperamental."
+        },
+        {
+            "name": "Monólogo",
+            "text": "\"É difícil trabalhar com ela\". O<n>potencial dela é de verdade, mas<n>conseguir ou não concretizá-lo<n>depende inteiramente de seu estado<n>de espírito."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Além disso, além das más condições<n>da pista, se qualquer probleminha<n>realmente pode acabar com o<n>desempenho dela..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "E agora, o que todos estavam<n>esperando... everyone, it's scouting<n>time! Finalmente, estou pronta para<n>aceitar seus buquês!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Contem-me seus sonhos, e talvez eu<n>aceite suas propostas! Come on!<n>Hey, come ooooon!"
+        },
+        {
+            "name": "Treinadores",
+            "text": "E-espera! Taiki Shuttle!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hã? Esp—"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Taiki Shuttle é cercada por propostas<n>de recrutamento. Em um contraste<n>absoluto, não há um único treinador<n>diante dos braços abertos de Seeking<n>the Pearl."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mais tarde naquela noite, me vejo<n>andando pelo campus,<n>profundamente pensativo. Não é todo<n>dia que se vê uma Umamusume tão<n>badalada receber zero propostas de<n>recrutamento."
+        },
+        {
+            "name": "Monólogo",
+            "text": "\"É difícil trabalhar com ela\".<n>\"Temperamental.\" Se ela realmente é<n>tão instável, então talvez eu entenda<n>a relutância dos outros treinadores,<n>mas..."
+>>>>>>> Stashed changes
         },
         {
             "name": "Seeking the Pearl",
             "text": "...",
             "choice_data_list": [
+<<<<<<< Updated upstream
                 "(...Is that Seeking the Pearl?)"
             ]
         },
@@ -153,18 +263,67 @@
         {
             "name": "Monologue",
             "text": "Looking at her pensive expression,<n>you wouldn't think that she hasn't<n>even debuted yet. It's like I'm staring<n>at the goddess of wisdom..."
+=======
+                "(...É a Seeking the Pearl?)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Do nada, encontro Seeking the Pearl<n>sozinha. O que será que ela está<n>fazendo?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "...Certo. O fato é que meu coração não<n>estava na corrida de hoje. Minha<n>irritação com a lama abafou meu<n>desejo de vencer."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Eu estava apenas me esforçando<n>sem ter um destino em mente. Sim,<n>deve ter sido isso que aconteceu."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "E quanto à distância? 1.600 metros...<n>Está perfeitamente dentro das<n>minhas capacidades. Dito isso, meus<n>talentos não cabem a mim decidir<n>sozinha."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Este mundo é tão vasto. Mesmo que<n>eu seja boa em alguma coisa,<n>sempre haverá outra Umamusume<n>que seja ainda melhor. Como a<n>Taiki..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Meu brilho como uma pedra<n>preciosa... não é algo que eu possa<n>decidir sozinha. Mas como vou<n>encontrar meu caminho com todas<n>essas joias brilhantes bloqueando<n>minha visão?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Se não consigo ofuscá-las agora, vou<n>ter que encontrar outro caminho. Ou<n>talvez..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela faz uma expressão que eu<n>jamais imaginaria que a arrogante<n>Umamusume daquela tarde seria<n>capaz de fazer — uma expressão de<n>reflexão e contemplação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Olhando para sua expressão<n>pensativa, você jamais diria que ela<n>sequer estreou ainda. É como se eu<n>estivesse olhando para a deusa da<n>sabedoria..."
+>>>>>>> Stashed changes
         },
         {
             "name": "Seeking the Pearl",
             "text": "..."
         },
         {
+<<<<<<< Updated upstream
             "name": "Monologue",
             "text": "\"Difficult to work with.\" I think back to<n>those words. But if she really is a<n>self-centered and moody<n>Umamusume..."
         },
         {
             "name": "Monologue",
             "text": "Then why is she making a face like<n>that?"
+=======
+            "name": "Monólogo",
+            "text": "\"É difícil trabalhar com ela\". Lembro<n>dessas palavras. Mas, se ela<n>realmente é uma Umamusume<n>egocêntrica e temperamental..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Então por que ela está fazendo uma<n>expressão dessas?"
+>>>>>>> Stashed changes
         }
     ]
 }

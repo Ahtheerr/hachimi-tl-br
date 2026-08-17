@@ -2,6 +2,7 @@
     "text_block_list": [
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "Wooooo! I worked up a sweat there!"
         },
         {
@@ -13,10 +14,24 @@
             "text": "Now we can enjoy our free time! Let<n>us go see the festival!",
             "choice_data_list": [
                 "You mean the summer festival nearby?"
+=======
+            "text": "Wooooo! Suei bastante aqui!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pearl e eu estamos no acampamento<n>de verão, e estamos avançando bem<n>no programa de treinamento que<n>preparei."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Agora podemos aproveitar nosso<n>tempo livre! Vamos ver o festival!",
+            "choice_data_list": [
+                "Você quer dizer o festival de verão aqui perto?"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "No, no! I'm talking about a more<n>international festival! Here, take a<n>look at this invitation. Follow meee!"
         },
         {
@@ -50,23 +65,67 @@
         {
             "name": "Seeking the Pearl",
             "text": "What's up, Trainer! Say hoo!",
+=======
+            "text": "Não, não! Estou falando de um<n>festival muito mais internacional!<n>Aqui, dê uma olhada neste convite.<n>Check and come oooon!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vamos até o local indicado no convite.<n>Não me lembro de nenhum festival de<n>verão acontecendo por aqui..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ohohoho! Welcome, Treinador!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "POW!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por que Pearl acabou de fazer uma<n>entrada tão dramática?!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Seeking the Pearl apresenta... o<n>Carnival Internacional do Amor e da<n>Esperança! Start!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Sintam a paixão do país do sol!<n>Dancem ao ritmo da música!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Antes que eu perceba, sou levado<n>pelo ritmo e começo a acompanhar os<n>passos de dança de Pearl!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "What's up, Treinador! Say \"hoo\"!",
+>>>>>>> Stashed changes
             "choice_data_list": [
                 "Hoo?"
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "My, looks like you're awfully fired<n>up, Trainer! I'll need to cool you<n>down. ♪"
         },
         {
             "name": "Seeking the Pearl",
             "text": "This Asian summer festival will blast<n>the summer heat away! Let's<n>shooooot!",
+=======
+            "text": "Ora, parece que você está animado<n>demais, Treinador! Vou ter que te que<n>te <i>cool down</i>. ♪"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Este festival de verão asiático vai<n>mandar o calor do verão para longe!<n>Let's shooooot!",
+>>>>>>> Stashed changes
             "choice_data_list": [
                 "Blargh?!"
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "Now, bring your eyes to the next<n>attraction—rocket magic!"
         },
         {
@@ -82,10 +141,28 @@
             "text": "Fireworks displays are loved across<n>the world! May our year be blessed<n>with peace and great fortune! ♪",
             "choice_data_list": [
                 "What's even happening anymore?!"
+=======
+            "text": "Agora, voltem os olhos para a<n>próxima atração — rocket magic!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Pew, pew, peeew!</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Foguetes de fogos de artifício<n>iluminam o céu noturno. Diante de<n>todas essas atrações, não consigo<n>evitar me sentir um pouco<n>sobrecarregado."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Shows de fogos de artifício são<n>adorados no mundo inteiro! Que<n>nosso ano seja abençoado com paz<n>e muita sorte! ♪",
+            "choice_data_list": [
+                "O que está acontecendo afinal?!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "The main dish is still to come! Let us<n>move to the uninhabited island!"
         },
         {
@@ -133,10 +210,60 @@
             "choice_data_list": [
                 "Did I do anything worth thanking me for?",
                 "Did I do anything worth thanking me for?"
+=======
+            "text": "O main dish ainda está por vir! Vamos<n>para a ilha desabitada!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha, as estrelas estão começando a<n>aparecer. É tão beautiful..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Mas o que eu realmente quero<n>mostrar a você... é uma joia brilhando<n>intensamente no céu noturno..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Tão brilhante que você não consegue<n>evitar estender a mão e tentar<n>alcançá-la."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pearl faz algum tipo de sinal. Logo<n>depois, um som agudo rompe o<n>silêncio da noite..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E o céu estrelado brilha com joias<n>flamejantes."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "É hora do grande finale. Estes são os<n>meus sentimentos..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Os fogos de artifício ficam ainda mais<n>intensos, formando grandes letras no<n>céu."
+        },
+        {
+            "name": "Monólogo",
+            "text": "!UOY KNAHT"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Aconteceu alguma coisa? ...Espera,<n>no! As letras estão ao contrário!",
+            "choice_data_list": [
+                "Ah... Era para dizer \"Thank you?\"?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Graças a essa mensagem, acho que<n>sei por que Pearl realizou este festival<n>hoje à noite. Ainda assim...",
+            "choice_data_list": [
+                "Eu fiz alguma coisa que merecesse seus\nagradecimentos?",
+                "Eu fiz alguma coisa que merecesse seus\nagradecimentos?"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "Haha, yes you have. You just<n>haven't realized it."
         },
         {
@@ -160,10 +287,36 @@
             "text": "Today's festival is my way of<n>showing my appreciation for you.<n>...Even if I messed up at the end.",
             "choice_data_list": [
                 "I still got your message, loud and clear."
+=======
+            "text": "Haha, fez sim. Você só ainda não<n>percebeu."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Eu cometo mistakes assim de vez<n>em quando, não é? Mas todas as<n>vezes... você encara todos sem<n>problemas."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Foi a mesma coisa quando você me<n>ajudou com a loja de bentôs. Eu só<n>estava pensando em fazer mais<n>pessoas experimentarem aqueles<n>bentôs incríveis."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Então, quando você preparou um<n>food truck e ajudou o dono a<n>recuperar a confiança, fiquei<n>surpresa."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "...Eu sempre saio correndo sozinha.<n>Mesmo assim, sempre tem alguém<n>garantindo que eu tenha apoio. Essa<n>pessoa é você, Treinador."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "O festival de hoje é a minha maneira<n>de demonstrar minha gratidão a você.<n>...Mesmo que eu tenha estragado<n>tudo no final.",
+            "choice_data_list": [
+                "Ainda assim, entendi sua mensagem perfeitamente."
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "I'm glad to hear it, but I really wanted<n>tonight to be perfect. Haha, I'll have<n>to prepare better next time."
         },
         {
@@ -176,10 +329,25 @@
             "choice_data_list": [
                 "I want you to stay true to yourself and keep on\ncharging ahead.",
                 "I want you to stay true to yourself and keep on\ncharging ahead."
+=======
+            "text": "Fico feliz em ouvir isso, mas eu<n>realmente queria que esta noite fosse<n>perfeita. Haha, vou ter que me<n>preparar melhor da próxima vez."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pearl parece um pouco arrependida<n>de sua tendência a se precipitar. Mas,<n>sinceramente... ela não precisa se<n>preocupar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Quero que Pearl chegue ao topo do<n>mundo das corridas do jeito que ela<n>escolher — cheia de paixão e fiel às<n>suas crenças. E, para isso...",
+            "choice_data_list": [
+                "Quero que você continue sendo você mesma e siga\navançando sem hesitar.",
+                "Quero que você continue sendo você mesma e siga\navançando sem hesitar."
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "Trainer... I can't win when it comes to<n>you!"
         },
         {
@@ -195,10 +363,28 @@
             "text": "We will run in every race across the<n>globe... Conquering the racing world<n>isn't just a dream!",
             "choice_data_list": [
                 "You want to conquer the whole world?!"
+=======
+            "text": "Treinador... Eu não consigo vencer<n>quando se trata de você!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Bravo! \"Avançar sem hesitar\", é?!<n>Nunca ouvi um plano mais magnífico!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Seu desejo é uma ordem! Vamos<n>avançar rumo ao futuro!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Vamos correr em todas as corridas<n>pelo mundo... Conquistar o mundo<n>das corridas não é apenas um sonho!",
+            "choice_data_list": [
+                "Você quer conquistar o mundo inteiro?!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "Oh, isn't that what you wanted from<n>me? If I play my cards right, I can<n>even surpass the world itself!"
         },
         {
@@ -215,10 +401,29 @@
             "choice_data_list": [
                 "Of course!",
                 "Of course!"
+=======
+            "text": "Ora, não foi isso que você queria de<n>mim? Se eu jogar minhas cartas<n>direito, posso até superar o próprio<n>mundo!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Por exemplo, posso correr na Lua<n>contra Umamusume espaciais! Haha,<n>as possibilidades são infinitas!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Tenho uma quantidade infinita de<n>possibilidades ao meu alcance — e<n>isso é porque sei que você estará ao<n>meu lado!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "...Não é mesmo, Treinador?",
+            "choice_data_list": [
+                "É claro!",
+                "É claro!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "Haha, dependable words."
         },
         {
@@ -228,6 +433,17 @@
         {
             "name": "Monologue",
             "text": "No one knows what lies in our future,<n>but what I do know is that whatever<n>may come... I'll be standing right by<n>her side."
+=======
+            "text": "Haha, palavras confiáveis."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Nós dois continuaremos avançando.<n>Brilharemos mais do que o mundo, ou<n>qualquer outra pessoa..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ninguém sabe o que o futuro nos<n>reserva, mas uma coisa eu sei:<n>aconteça o que acontecer... estarei<n>sempre ao lado dela."
+>>>>>>> Stashed changes
         }
     ]
 }

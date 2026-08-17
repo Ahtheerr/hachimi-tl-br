@@ -1,6 +1,7 @@
 {
     "text_block_list": [
         {
+<<<<<<< Updated upstream
             "name": "Monologue",
             "text": "At Tracen Academy, diamonds in the<n>rough from every walk of life gather<n>in one place."
         },
@@ -27,12 +28,41 @@
         {
             "name": "Seeking the Pearl",
             "text": "Now then, Dober, the real race starts<n>now. Here I go—haaaaah!"
+=======
+            "name": "Monólogo",
+            "text": "Na Academia Tracen, preciosidades<n>brutas de todos os cantos da vida se<n>reúnem em um só lugar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E, entre essas pedras preciosas, uma<n>joia estrangeira atualmente brilha<n>intensamente para que todos possam<n>vê-la."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha, nossa corrida de treino<n>começou! ♪ Trate de me acompanhar,<n>Dober! Vamos começar com um<n>aquecimento leve!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Está tudo no lugar. As condições da<n>pista, a natureza ao redor e, é claro —<n>o público com os olhos voltados para<n><i>mim!</i>"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Tch... Ela praticamente saltou para<n>fora daquele portão! E o que foi<n>aquela aceleração?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ela está correndo tão rápido<n>enquanto aprecia a paisagem?! Como<n>que nós somos da mesma geração?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Agora, Dober, a verdadeira corrida<n>começa. Lá vou eu — haaaaah!"
+>>>>>>> Stashed changes
         },
         {
             "name": "Mejiro Dober",
             "text": "Tch!"
         },
         {
+<<<<<<< Updated upstream
             "name": "Skilled Trainer A",
             "text": "So that's Seeking the Pearl. I've<n>heard good things about her, but to<n>outpace a prodigy of the Mejiro<n>family like that truly is impressive."
         },
@@ -58,10 +88,38 @@
         },
         {
             "name": "Trainers",
+=======
+            "name": "Treinador Habilidoso A",
+            "text": "Então essa é Seeking the Pearl. Já<n>ouvi falar muito bem dela, mas<n>conseguir superar uma prodígio da<n>família Mejiro desse jeito é<n>realmente impressionante."
+        },
+        {
+            "name": "Treinador Novato A",
+            "text": "Concordo. Se é isso que ela<n>consegue fazer em uma corrida de<n>treino, então temos muito pelo que<n>esperar nas próximas seletivas. Você<n>também acha, não é?",
+            "choice_data_list": [
+                "Sim, o talento dela é de verdade mesmo!",
+                "Sim, o talento dela é de verdade mesmo!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com esse talento, consigo imaginá-la<n>estreando em uma corrida G1 em<n>tempo recorde. Não ficaria surpreso<n>se todos os treinadores daqui<n>quisessem recrutá-la."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seeking the Pearl... Que tipo de<n>Umamusume você é?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ohohoho! Quanto vocês, senhoras e<n>senhores, sabem? Sobre este<n><i>fabulous</i> mundo em que vivemos,<n>quero dizer!"
+        },
+        {
+            "name": "Treinadores",
+>>>>>>> Stashed changes
             "text": "...Huh?"
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "I'm sure you've laid your eyes on it<n>before. Where did I put it..."
         },
         {
@@ -146,10 +204,97 @@
             "choice_data_list": [
                 "Let's turn the racing world upside-down!",
                 "Let's turn the racing world upside-down!"
+=======
+            "text": "Tenho certeza de que já colocaram<n>os olhos nele antes. Onde foi que eu<n>coloquei..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Achei — este globo! Vocês, boas<n>pessoas, já viram cada cantinho<n>deste mundo?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "...Um globo? Não sei exatamente<n>aonde esse discurso maluco quer<n>chegar, mas ele <i>certamente</i> me dá<n>uma ideia de como ela é."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Embora eu tenha nascido nos<n>Estados Unidos, me mudei para<n>vários países quando era criança.<n>Graças a isso..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Pude conhecer e interagir com muitas<n>culturas e pessoas diferentes."
+        },
+        {
+            "name": "Guia Experiente",
+            "text": "Pequena Umamusume, olhe bem.<n>Este é o palácio, querida."
+        },
+        {
+            "name": "Jovem Pearl",
+            "text": "Uau! É absolutamente excellent! ♪"
+        },
+        {
+            "name": "Guia Experiente",
+            "text": "Se quiser morar em um lugar assim<n>no futuro, terá que trabalhar duro,<n>está bem? Eu sei que consegue,<n>querida."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Essas incontáveis experiências<n>ajudaram a me dar um objetivo."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "E esse objetivo é me tornar uma<n>Umamusume que brilhe intensamente<n>o suficiente para rivalizar com os<n>monumentos, tradições e doces de<n>todos os países!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Vou brilhar o suficiente para que<n>todos possam me ver. Vou provar<n>isso através das minhas corridas —<n>maybe! Em outras palavras —<n>definitivamente!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Hum, Pearl? Tem certeza de que...<n>\"doces\" era o que você queria dizer?<n>E você sabe que \"maybe\" e<n>\"definitivamente\" significam coisas<n>diferentes, certo?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seeking the Pearl transborda<n>confiança e, para completar, tem um<n>forte senso de humor. Todos os<n>treinadores daqui estão de olho em<n>recrutá-la."
+        },
+        {
+            "name": "Treinador Habilidoso A",
+            "text": "Espere aí, Seeking the Pearl! Você<n>não quer se tornar minha aprendiz?<n>Prometo ajudá-la a alcançar<n>velocidades que você só pode<n>sonhar!"
+        },
+        {
+            "name": "Treinadora Habilidosa B",
+            "text": "Não, torne-se minha aprendiz!<n>Atualmente estou pesquisando<n>corridas memoráveis. Juntos,<n>podemos buscar uma maneira de<n>correr que encante seus fãs! O que<n>acha?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Obrigada, everyone. Alcançar novas<n>velocidades máximas, correr para<n>encantar os fãs... Ambos parecem<n>atraentes. Mas, dito isso..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nem mesmo as propostas de<n>treinadores renomados conseguiram<n>fazê-la mudar de ideia. Parece que<n>conquistar sua atenção será uma<n>tarefa árdua."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Não tem ninguém aqui com um sonho<n>mais, sei lá, <i>amazing</i>? Ei, o treinador<n>ali — sim, você."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Tem alguma proposta? De<n>preferência, um sonho tão fantástico,<n>tão <i>gorgeous</i>, que me conquiste na<n>mesma hora."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com um olhar travesso no rosto, ela<n>se vira para mim. Provavelmente me<n>escolheu por impulso, mas não vou<n>desperdiçar uma oportunidade<n>dessas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Vamos ver... Um sonho à altura do<n>talento que ela acabou de demonstrar<n>na corrida de treino...",
+            "choice_data_list": [
+                "Vamos virar o mundo das corridas de cabeça para\nbaixo!",
+                "Vamos virar o mundo das corridas de cabeça para\nbaixo!"
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "Oh? Upside-down, you say... Hm..."
         },
         {
@@ -161,10 +306,24 @@
             "text": "Despite that, you're able to spout<n>grandiose lines like, \"Let's turn the<n>racing world upside-down.\" Do you<n>even have a plan to achieve that<n>goal?",
             "choice_data_list": [
                 "Well..."
+=======
+            "text": "Oh? De cabeça para baixo, é? Hmm..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "...Embora eu seja uma pérola de<n>classe mundial, também sou bruta e<n>não lapidada. E você é igual — um<n>treinador novato, se não me engano?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Apesar disso, você consegue soltar<n>frases grandiosas como \"Vamos virar<n>o mundo das corridas de cabeça para<n>baixo\". Você sequer tem um plano<n>para alcançar esse objetivo?",
+            "choice_data_list": [
+                "Bom..."
+>>>>>>> Stashed changes
             ]
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "Haha! ♪ So you didn't think that far. I<n>appreciate the enthusiasm..."
         },
         {
@@ -229,10 +388,77 @@
         },
         {
             "name": "Monologue",
+=======
+            "text": "Haha! ♪ Então você não pensou tão<n>longe assim. Aprecio o entusiasmo..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Mas estou procurando um mapa<n>concreto que possa me guiar adiante.<n>Sim, eu queria ver o seu próprio<n>mapa-múndi."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela percebeu imediatamente que as<n>palavras sem fundamento que soltei<n>em pânico não tinham base alguma."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ei, treinadores! ♪ Aprecio todo o<n>carinho que vocês estão me dando,<n>mas que tal tentarem me recrutar<n>depois de me verem correr de<n>verdade?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "E com isso quero dizer as seletivas!<n>Vou conseguir uma vitória magnífica<n>lá! Nem <i>ela</i> terá chance!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por um instante, sua expressão fica<n>séria. Mas, antes mesmo que eu<n>possa piscar, ela volta ao seu jeito<n>alegre e confiante."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Quem poderia ser a misteriosa rival a<n>quem Seeking the Pearl está se<n>referindo?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Howdy, Pearl! Vamos fazer uma boa<n>corrida hoje, certo?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Aí está você, Taiki. Como sempre, a<n>aura que você transmite é suficiente<n>para fazer meu coração <i>shake</i>."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Pode apostar — estou em ótima<n>forma! O Expresso de Kentucky não<n>para por ninguém!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Imagino. Uma Umamusume comum<n>jamais teria esperança de alcançá-la.<n>Mas a palavra \"impossible\" não<n>existe no meu dicionário!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Pensando melhor — joguei fora todos<n>os dicionários no momento em que<n>nasci! Como dizem, uma única ação<n>vale mais que mil palavras!"
+        },
+        {
+            "name": "Treinador Habilidoso A",
+            "text": "Então será Seeking the Pearl contra<n>Taiki Shuttle, hein? Será um confronto<n>emocionante entre duas<n>superestrelas nascidas nos Estados<n>Unidos."
+        },
+        {
+            "name": "Treinadora Habilidosa B",
+            "text": "Com certeza. Olhando apenas para a<n>velocidade, as duas já estão no<n>mesmo nível das corredoras da<n>geração anterior. Estou curiosa para<n>ver quem vencerá."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ohoho, a vencedora será esta que<n>vos fala. Vou vencer esta corrida e<n>provar meu potencial para todos!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Isso mesmo, vocês estão olhando<n>para uma pérola de classe mundial!<n>Não importa o quão rápido Taiki corra,<n>meu brilho jamais será ofuscad—"
+        },
+        {
+            "name": "Monólogo",
+>>>>>>> Stashed changes
             "text": ""
         },
         {
             "name": "Seeking the Pearl",
+<<<<<<< Updated upstream
             "text": "H-hm? I remain unclouded..."
         },
         {
@@ -246,6 +472,21 @@
         {
             "name": "Monologue",
             "text": "And so, this American showdown is<n>now set to kick off on a heavy track."
+=======
+            "text": "H-hm? Eu continuo sem estar<n>ofuscada..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Mas o céu não pode dizer o mesmo.<n>Quem poderia esperar por essa<n>chuva repentina?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A chuva torrencial repentina encharca<n>as corredoras e o chão sob seus pés."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, esse confronto americano<n>está prestes a começar em uma pista<n>pesada."
+>>>>>>> Stashed changes
         }
     ]
 }

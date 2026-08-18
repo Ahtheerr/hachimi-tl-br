@@ -2,57 +2,6 @@
     "text_block_list": [
         {
             "name": "Kawakami Princess",
-<<<<<<< Updated upstream
-            "text": "\"What kind of person is Pearl?\" You<n>came to me, <i>a princess,</i> for that?",
-            "choice_data_list": [
-                "That's right. Aren't you two roommates?",
-                "That's right. Aren't you two roommates?"
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "I decide to ask Kawakami Princess,<n>Seeking the Pearl's roommate, about<n>Pearl's everyday behavior."
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "Let me think... Pearl is always loud<n>and full of energy, but every now and<n>then she becomes<n>uncharacteristically quiet. For<n>example..."
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "The other day, a group of us were<n>trying the \"Super Spicy Takoyaki<n>Roulette.\" Pearl yelled, \"Nothing is<n>impossible for me—I won't get the<n>spicy one!\""
-        },
-        {
-            "name": "Kawakami Princess",
-            "text": "Even when there was only one left,<n>and everyone knew what it was, she<n>gobbled it down fearlessly. Let me tell<n>you, she got reeeal quiet after that...",
-            "choice_data_list": [
-                "I see... Thanks again.",
-                "I see... Thanks again."
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "Just because something isn't<n><i>technically</i> impossible, that doesn't<n>make it any less unlikely."
-        },
-        {
-            "name": "Monologue",
-            "text": "I had believed that Seeking the Pearl<n>was more than just a boisterous<n>loudmouth, but maybe I was wrong..."
-        },
-        {
-            "name": "Monologue",
-            "text": "Some time later, I think back to the<n>scrimmage where she got labeled<n>\"difficult to work with.\""
-        },
-        {
-            "name": "Skilled Trainer A",
-            "text": "Wh-what?! Seeking the Pearl is going<n>sideways out of the gate, straight to<n>the outer edge of the track! Did she<n>hit the gate on her way out?"
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "I'm on the outermost lane, and<n>currently in last place..."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "But! If you think I'm waving the white<n>flag here, then you've got another<n>one coming! Never surrender!"
-=======
             "text": "\"Que tipo de pessoa é a Pearl?\" Você<n>veio até mim, <i>uma princesa</i>, para<n>perguntar isso?",
             "choice_data_list": [
                 "Isso mesmo. Vocês duas não são colegas de\nquarto?",
@@ -102,7 +51,6 @@
         {
             "name": "Seeking the Pearl",
             "text": "Mas! Se você acha que vou jogar a<n>toalha aqui, está muito enganado! No<n>surrender!"
->>>>>>> Stashed changes
         },
         {
             "name": "Seeking the Pearl",
@@ -110,113 +58,6 @@
         },
         {
             "name": "Mejiro Dober",
-<<<<<<< Updated upstream
-            "text": "Huh?! Pearl? You're entering your<n>last spurt from that position?!"
-        },
-        {
-            "name": "Skilled Trainer A",
-            "text": "Seeking the Pearl, I'm impressed you<n>made it to third after that start, but<n>why did you go sideways in the first<n>place?"
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "The reason... I ran sideways..."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "Open your ears and listen carefully.<n>There, you can hear it, can't you?",
-            "choice_data_list": [
-                "Hear what?"
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "I close my eyes and try to listen..."
-        },
-        {
-            "name": "Bento Seller",
-            "text": "Bentos, bentos! ♪ Get them hot and<n>fresh! ♪ Only 500 yen! ♪"
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "I was charmed by that voice! Bento<n>boxes—they're one of my favorite<n>foods!"
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "Well, the race is over, so I'm going to<n>grab lunch."
-        },
-        {
-            "name": "Monologue",
-            "text": "Is she joking, or is she serious about<n>that being her reason? Either way,<n>Seeking the Pearl dashes off."
-        },
-        {
-            "name": "Skilled Trainer A",
-            "text": "Haha... I can't get a read on her at all.<n>The fact she managed to recover<n>after such a poor start speaks<n>volumes to her talent..."
-        },
-        {
-            "name": "Skilled Trainer A",
-            "text": "But I just don't know about her<n>personality. I've never heard of an<n>Umamusume who runs sideways<n>just because she heard someone<n>selling bento boxes."
-        },
-        {
-            "name": "Monologue",
-            "text": "She did say that, but I feel like there's<n>more to it than just that. I mean, she<n>doesn't look like the type to be super<n>fascinated by bento boxes anyway."
-        },
-        {
-            "name": "Monologue",
-            "text": "What is she hiding? Let's see... when<n>it comes to bentos..."
-        },
-        {
-            "name": "Monologue",
-            "text": "Unable to unravel the mystery, I find<n>myself scanning bento stalls in the<n>mall's deli on my day off. I guess<n>Seeking the Pearl's words are still on<n>my mind."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "Oh, what a coincidence. If it isn't the<n>trainer who wanted to turn the world<n>upside-down. Are bento boxes your<n>hobby as well?"
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "Haha, I don't blame you—it's not<n>easy to pass up the International<n>Bento Fair. Come, let's go eat while<n>we take a stroll by the shore!"
-        },
-        {
-            "name": "Monologue",
-            "text": "...I guess bentos really are her hobby.<n>And so, I enjoy an unexpected, but<n>not unwelcome, dinner with Pearl."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "Ahhh, that was magnificent. It was<n>like a jewelry box brimming with the<n>sights of the world..."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "Even the Italian roast lamb and the<n>French croquette were customized to<n>fit in the bento box..."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "This meal was a tribute to limitless<n>possibility. Each food is well-defined,<n>and yet each item has its own<n>individuality. This goes both for side<n>dishes..."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "And for us Umamusume."
-        },
-        {
-            "name": "Monologue",
-            "text": "Pearl's final sentence shows me a<n>glimpse into her inner dialogue.<n>Perhaps I wasn't mistaken...",
-            "choice_data_list": [
-                "Can I ask why you ran sideways?"
-            ]
-        },
-        {
-            "name": "Monologue",
-            "text": "I pluck up my courage and ask her<n>the question that's been on my mind."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "Why I ran sideways? Ah, you mean<n>that scrimmage from the other day. I<n>believe I already answered this<n>question, didn't I?"
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "I was charmed by the bento seller's<n>voice.",
-            "choice_data_list": [
-                "And the real reason?"
-=======
             "text": "Hã?! Pearl? Você vai começar seu<n>avanço final dessa posição?!"
         },
         {
@@ -322,7 +163,6 @@
             "text": "Fiquei encantada pela voz da<n>vendedoa de bentôs.",
             "choice_data_list": [
                 "E o verdadeiro motivo?"
->>>>>>> Stashed changes
             ]
         },
         {
@@ -331,17 +171,6 @@
         },
         {
             "name": "Seeking the Pearl",
-<<<<<<< Updated upstream
-            "text": "Haha, you're a little different from the<n>rest. But, you know..."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "I don't hate that. Right, I'll spill the<n>beans."
-        },
-        {
-            "name": "Seeking the Pearl",
-            "text": "I'll tell you the truth. Think of it as a<n>dessert to our meal, okay? ♪"
-=======
             "text": "Haha, você é um pouco diferente dos<n>outros. Mas, sabe..."
         },
         {
@@ -351,7 +180,6 @@
         {
             "name": "Seeking the Pearl",
             "text": "Vou te contar a verdade. Pense nisso<n>como um <i>dessert</i> para acompanhar<n>nossa refeição, está bem? ♪"
->>>>>>> Stashed changes
         }
     ]
 }

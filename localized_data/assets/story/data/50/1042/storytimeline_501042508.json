@@ -1,0 +1,35 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "As I stroll around the academy, I spot<n>Seeking the\nPearl completely<n>absorbed in a dance."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "<i>Pant... pant...</i> Th-that's it! My heart... is<n>rac—"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "<i>Huff... Wheeze...</i>",
+            "choice_data_list": [
+                "Are you okay? You shouldn't overwork yourself!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I know... I shouldn't. I'm still tired<n>from my race,\nbut..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I'm the precious pearl who reveals<n>possibilities to\nthe world! It's my duty<n>to stir people's hearts\nthrough my<n>dance!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "I need to up the beat even more! Go<n>away, fatigue\nand exhaustion! No one<n>needs you here!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl is as enthusiastic<n>as ever, but\nshe seems worn out<n>from her races. I'll need to\nrethink her<n>upcoming race schedule."
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Nããão! Será que me desviei do<n>caminho que me foi\ndestinado? Eu<n>deveria ter vencido. Achei que minha\nvitória fosse algo certo..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Mas acho que não existe vitória<n>garantida. Pelo\nmenos, essa foi uma<n>boa experiência de\naprendizado."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "E posso continuar seguindo em<n>frente usando o\nque aprendi com esta<n>corrida."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeking the Pearl não venceu a<n>corrida, mas ainda\nassim demonstrou<n>uma força formidável."
+        },
+        {
+            "name": "Monologue",
+            "text": "Depois disso, decido conversar com<n>ela sobre o\nfuturo.",
+            "choice_data_list": [
+                "Onde você vai correr agora?!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "No cenário internacional!",
+            "choice_data_list": [
+                "Tão cedo assim?!"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "É? Eu achei que conseguiria se me<n>esforçasse um\npouco."
+        },
+        {
+            "name": "Monologue",
+            "text": "Tentar disputar uma G1 europeia<n>agora seria se\nprecipitar...",
+            "choice_data_list": [
+                "Você ainda precisa desenvolver a força necessária\npara isso.",
+                "Você ainda precisa desenvolver a força necessária\npara isso."
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "A força necessária, hein? Onde eu<n>deveria ir para\ndesenvolvê-la?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Como seu Treinador, eu já sei a<n>resposta. Pode\nser uma sugestão<n>surpreendente, mas...",
+            "choice_data_list": [
+                "Que tal disputar a Shuka Sho?",
+                "Que tal disputar a Shuka Sho?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "A Shuka Sho? Eu sei que é a última<n>corrida da\nTríplice Tiara, mas ela<n>também tem 2.000 metros,\nnão tem?",
+            "color_text_info_list": [
+                "Shuka Sho"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Achei que tínhamos decidido que<n>milhas eram o\nmelhor para mim...",
+            "choice_data_list": [
+                "Sim, mas você precisa desenvolver mais\nresistência."
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Por quê?"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ah! Você quer dizer por causa da<n>grama europeia!\nEntendi."
+        },
+        {
+            "name": "Monologue",
+            "text": "Como sempre, Seeking the Pearl<n>entende\nrapidamente."
+        },
+        {
+            "name": "Monologue",
+            "text": "Se ela quiser correr uma prova de<n>milha na Europa,\nprecisará de mais<n>resistência do que é necessário\npara<n>correr uma milha em uma grama com<n>a qual\nestá acostumada."
+        },
+        {
+            "name": "Monologue",
+            "text": "Se ela não treinar sua resistência<n>para ter uma\nmargem de segurança,<n>não conseguirá chegar ao\nfim de uma<n>corrida na grama profunda."
+        },
+        {
+            "name": "Monologue",
+            "text": "É por isso que quero que ela<n>desenvolva\nresistência suficiente<n>para correr provas\ndomésticas de<n>2.000 metros. Mas não é só isso..."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Bem, espere. Se forem 2.000 metros,<n>talvez eu\nconsiga vencer."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "E, se eu correr na Shuka Sho, talvez<n>possa me\nreencontrar com uma<n>integrante da família Pearl. ♪",
+            "choice_data_list": [
+                "É? De quem você está falando?"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Dober, é claro. Mejiro Dober. ♪"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Resolver as coisas com Dober<n>enquanto ela estiver\nna jornada da<n>Tríplice Tiara e depois viajar para o\nexterior parece uma ideia e tanto."
+        },
+        {
+            "name": "Monologue",
+            "text": "Mejiro Dober deve correr na Shuka<n>Sho. Ela\ntambém deve estar muito<n>mais forte do que era em\nseu ano de<n>caloura."
+        },
+        {
+            "name": "Monologue",
+            "text": "E, se Seeking the Pearl realmente<n>está levando a\nsério a ideia de<n>derrotá-la, gostaria que ela\ndisputasse outra corrida de distância<n>semelhante\nantes da Shuka Sho."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Então vamos direto para a Shuka<n>Sho?",
+            "choice_data_list": [
+                "Não, vamos correr primeiro na Rose Stakes.",
+                "Não, vamos correr primeiro na Rose Stakes."
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "A Rose Stakes... Uma corrida G2 de<n>1.800 metros...\nMuitas Umamusume<n>correm nela antes da Shuka\nSho.",
+            "color_text_info_list": [
+                "Rose Stakes"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "A Rose Stakes, a Shuka Sho e,<n>depois, o mundo!\nMuito bem, agora<n>todos os meus planos para o\nrestante<n>do outono estão decididos!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Ohohoho!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Tudo está correndo perfeitamente, e<n>nenhuma\nsombra paira sobre nós."
+        },
+        {
+            "name": "Monologue",
+            "text": "Finalmente, a visão de Seeking the<n>Pearl para o\nfuturo e o panorama<n>completo de seu ano clássico\ncomeçam a tomar forma."
+        }
+    ]
+}

@@ -1,0 +1,566 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One day, I bring <chrname> to the infirmary for a<n>checkup."
+        },
+        {
+            "name": "???",
+            "text": "Oh! A custo―I mean, a student! Hello!"
+        },
+        {
+            "name": "???",
+            "text": "Are you hurt? Sick? Stressed?<n>Whatever it is, I treat\nit all!",
+            "choice_data_list": [
+                "Who are you?!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Well, considering you're at the<n>academy infirmary,\nI'd say that<n>makes me your trusty school nurse!\nYup, just your average school<n>employee!",
+            "choice_data_list": [
+                "...No you aren't?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ahaha! Guess there's no fooling you.<n>I suppose I\nshould start by giving you<n>my name."
+        },
+        {
+            "name": "???",
+            "text": "Ahem! Allow me to introduce myself!"
+        },
+        {
+            "name": "???",
+            "text": "I am the (likely) savior of all<n>Umamusume, the\n(self-proclaimed)<n>legendary acupuncturist with the\nmagic touch..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "The one and only Sasami<n>Anshinzawa! See? No\nworries! ☆",
+            "choice_data_list": [
+                "..."
+            ],
+            "color_text_info_list": [
+                "Sasami Anshinzawa"
+            ]
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "What grandiose assertions! Still, I<n>can't help but\nfeel somewhat<n>doubtful of your claims... If you're\nreally as legendary as you say, then<n>could you tell\nus some of your said<n>achievements?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gosh! You sure seem worried! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "No matter! No matter! We've made<n>our\nintroductions, so lie down and let<n>me put these\nneedles to work!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha. Your dangerous proposition is<n>certainly\nintriguing, but don't think I'll<n>agree to it so readily.\nWhy would I,<n>when you're such a fishy character?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Hahaha! No need to be scared! All<n>I'm going to do\nis slip these<n>extraordinary needles precisely into\nyour chakra points."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Then voilà, presto! Something<n>indescribable will\nhappen!",
+            "choice_data_list": [
+                "(This is indescribably sketchy...)"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "And let me assure you, there's<n>absolutely nothing\nsketchy about this<n>at all! It's never gone anything\nless<n>than perfectly!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "...For my master.",
+            "choice_data_list": [
+                "For your master?! What about for you?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Don't fret! This is my first time, so<n>technically, I've\nnever failed a patient<n>either!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "And it's not like I have no<n>experience! I spent ten\nyears under a<n>legendary master, fetching dri—I\nmean, training!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "See? No worries! ☆",
+            "choice_data_list": [
+                "(We need to get outta here, stat!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "There's no way we're doing this. I<n>take <chrname> and head\nfor the door, when..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "W-wait! Where are you going?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "You're Seeking the Pearl, right?! The<n>amazing\nUmamusume who walks an<n>untrodden path to\nshow people of the<n>world their possibilities?!",
+            "choice_data_list": [
+                "You've heard of her?"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Have I heard of her? Of course I<n>have! I'm a big\nfan!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "That's precisely why I'm here! To<n>give you my\nsupport! Let me help<n>you!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Just give me a chance! Pleeease!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Hmm... I have to admit that I'm<n>intrigued by the\nunknown possibilities<n>your path of acupuncture\nholds."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Please! Pretty please with a carrot on<n>top! I'll even\nlet you choose which<n>chakra I activate!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I'm <i>sure</i> I won't mess up!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Well... pretty sure.",
+            "choice_data_list": [
+                "<i>Pretty</i> sure?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I mean, it's on the sure side! That's<n><i>good,</i> right?\nAnyway, don't get hung<n>up on the details!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Let's get to the good stuff! Which<n>chakra should I\nactivate? Do you<n>want a boost to your abilities?\nYour<n>health? Or maybe your <i>charm?</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "I smell danger in the air, but I figure<n>there might—and\nI emphasize<n><i>might</i>—be a chance of getting<n>something\nspecial out of this<n>treatment."
+        },
+        {
+            "name": "Monologue",
+            "text": "What should we do?",
+            "choice_data_list": [
+                "Activate the strength chakra.",
+                "Activate the winning chakra.",
+                "Activate the health chakra.",
+                "Activate the charm chakra.",
+                "This is too sketchy. Let's quit while we still can."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I see, I see. So you want me to<n>activate the strength\nchakra?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Then let's get started! Are you<n>ready? There's no\ngoing back after!",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "All right, leave it to me! Time to locate<n>that chakra!\nOllie, ollie, oxen free!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Now, just relaaax... See? No worries!<n>☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Aaand poke!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Whoooa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Puncture Perfect!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "My body is filling with limitless<n>energy and burning\npassion! I feel<n>like I could leap into the sky and run\nall the way to the ends of the<n>atmosphere!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> You're kidding... It actually<n>worked?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "No waaay! I can't believe it! I'm a<n>total genius!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname> is overflowing with so much power<n>she's almost\nunrecognizable!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Urgh... my body suddenly feels... so<n>heavy!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "When seeking possibilities, one<n>sometimes faces\nfailure... but this is...<n>on another level..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname>'s condition deteriorates rapidly."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "So... That's that, I guess..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Well, would you look at the time? I<n>should get going!\nBye! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "I should've known better than to test<n>our luck. I'm\nnot the one suffering,<n>yet I'm full of regret."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I see, I see. So, you want me to<n>activate the winning\nchakra?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Then let's get started! Are you<n>ready? There's no\ngoing back after!",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "All right, leave it to me! Time to locate<n>that chakra!\nOllie, ollie, oxen free!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Now, just relaaax... See? No worries!<n>☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Aaand poke!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Whoooa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Puncture Perfect!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "My body is filling with limitless<n>energy and burning\npassion! I feel<n>like I could leap into the sky and run\nall the way to the ends of the<n>atmosphere!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> You're kidding... It actually<n>worked?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "No waaay! I can't believe it! I'm a<n>total genius!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I can sense a huge improvement in<n><chrname>'s skills!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Urgh... my body suddenly feels... so<n>heavy!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "When seeking possibilities, one<n>sometimes faces\nfailure... but this is...<n>on another level..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname>'s condition deteriorates rapidly."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "So... That's that, I guess..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Well, would you look at the time? I<n>should get going!\nBye! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "I should've known better than to test<n>our luck. I'm\nnot the one suffering,<n>yet I'm full of regret."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I see, I see. So, you want me to<n>activate the health\nchakra?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Then let's get started! Are you<n>ready? There's no\ngoing back after!",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "All right, leave it to me! Time to locate<n>that chakra!\nOllie, ollie, oxen free!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Now, just relaaax... See? No worries!<n>☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Aaand poke!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Whoooa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Puncture Perfect!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "My body is filling with limitless<n>energy and burning\npassion! I feel<n>like I could leap into the sky and run\nall the way to the ends of the<n>atmosphere!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> You're kidding... It actually<n>worked?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "No waaay! I can't believe it! I'm a<n>total genius!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname>'s entire body is radiating a healthy<n>glow! She's\nthe absolute picture of<n>health!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Urgh... my body suddenly feels... so<n>heavy!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "When seeking possibilities, one<n>sometimes faces\nfailure... but this is...<n>on another level..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname>'s condition deteriorates rapidly."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "So... That's that, I guess..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Well, would you look at the time? I<n>should get going!\nBye! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "I should've known better than to test<n>our luck. I'm\nnot the one suffering,<n>yet I'm full of regret."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "I see, I see. So, you want me to<n>activate the charm\nchakra?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Then let's get started! Are you<n>ready? There's no\ngoing back after!",
+            "choice_data_list": [
+                "Go ahead.",
+                "Wait, hold on."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "All right, leave it to me! Time to locate<n>that chakra!\nOllie, ollie, oxen free!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Now, just relaaax... See? No worries!<n>☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Aaand poke!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Whoooa!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Puncture Perfect!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "<i>Gasp!</i>"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "My body is filling with limitless<n>energy and burning\npassion! I feel<n>like I could leap into the sky and run\nall the way to the ends of the<n>atmosphere!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Gasp...</i> You're kidding... It actually<n>worked?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "No waaay! I can't believe it! I'm a<n>total genius!"
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname> is overflowing with charm! She's<n>bound to turn\nheads everywhere she<n>goes!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Urgh... my body suddenly feels... so<n>heavy!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "When seeking possibilities, one<n>sometimes faces\nfailure... but this is...<n>on another level..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<chrname>'s condition deteriorates rapidly."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "So... That's that, I guess..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Well, would you look at the time? I<n>should get going!\nBye! ☆"
+        },
+        {
+            "name": "Monologue",
+            "text": "I should've known better than to test<n>our luck. I'm\nnot the one suffering,<n>yet I'm full of regret."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Aw, c'mon! Don't be like that!",
+            "choice_data_list": [
+                "Decline.",
+                "Reconsider."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hey! You there! I hope you know<n>trespassers <i>will</i>\nbe prosecuted!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! I've been found out!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Welp, I'm outta here! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hey! Stop right there!"
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "Haha... It's impressive how doggedly<n>she pursues\nher own possibilities<n>without even caring how\nquestionable<n>she may appear."
+        },
+        {
+            "name": "Seeking the Pearl",
+            "text": "But I'd personally rather not get<n>ahead of the game\nthrough pressure<n>point manipulation! I'd prefer we\nachieve the possibilities we seek<n>through our own\nstrength!",
+            "choice_data_list": [
+                "Agreed.",
+                "Agreed."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I'm curious who this Anshinzawa<n>character really\nis, but there's no use<n>ruminating over it. Best to\nforget<n>about today and move on."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Had a change of heart, did you? No<n>worries, it\nhappens!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Go ahead and tell me which chakra<n>you want me to\nactivate, then!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Well?! Don't leave us in suspense!<n>Wait a second...\nHow long have I<n>been here?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hey! You there! I hope you know<n>trespassers <i>will</i>\nbe prosecuted!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! I've been found out!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Welp, I'm outta here! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Hey! Stop right there!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The situation takes a sharp turn<n>before I can make\na decision."
+        },
+        {
+            "name": "Monologue",
+            "text": "What was that all about?<n><chrname> and I look at each other in\nbewilderment."
+        }
+    ]
+}

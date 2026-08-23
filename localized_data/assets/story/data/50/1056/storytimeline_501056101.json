@@ -2,13 +2,13 @@
     "text_block_list": [
         {
             "name": "Matikanefukukitaru",
-            "text": "Happy Ano-Novo, Treinador! Espero<n>que este seja\num ano auspicioso!",
+            "text": "Feliz Ano-Novo, Treinador! Espero<n>que este seja\num ano auspicioso!",
             "choice_data_list": [
                 "Feliz Ano-Novo! Qual é a sua resolução de\nAno-Novo?"
             ]
         },
         {
-            "name": "",
+            "name": "Matikanefukukitaru",
             "text": "Minha resolução? Hmm... Boa<n>pergunta. Ainda não\npensei em nada."
         },
         {
@@ -21,7 +21,7 @@
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Deixe-me ver... Ganhar o prêmio<n>principal de uma\nrifa também está<n>bem no topo da minha lista de\nobjetivos. Que tal essas resoluções?<n>...",
+            "text": "Deixa eu ver... Ganhar o prêmio<n>principal de uma\nrifa também está<n>bem no topo da minha lista de\nobjetivos. Que tal essas resoluções?<n>...",
             "choice_data_list": [
                 "..."
             ]
@@ -37,7 +37,7 @@
             "name": "Matikanefukukitaru",
             "text": "<i>Ah?!</i> Você tem razão. Não sou mais<n>uma júnior.\nEntão, que tal...",
             "color_text_info_list": [
-                "junior"
+                "júnior"
             ]
         },
         {
@@ -48,7 +48,7 @@
             ]
         },
         {
-            "name": "",
+            "name": "Matikanefukukitaru",
             "text": "Sério?! Então acho que vou ficar com<n>essa! Agora\nque tenho um objetivo<n>em mente, estou com muita\nvontade<n>de testar a minha sorte."
         },
         {
@@ -61,11 +61,11 @@
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Olha, fukubukuro! Escolha um, e<n>veremos se a\nsorte está do nosso<n>lado este ano."
+            "text": "Olha, sacolas da sorte! Escolhe uma,<n>e veremos se\na sorte está do nosso<n>lado este ano."
         },
         {
-            "name": "",
-            "text": "Qual bolsa você vai escolher?",
+            "name": "Matikanefukukitaru",
+            "text": "Qual sacola você vai escolher?",
             "choice_data_list": [
                 "A sacola plástica.",
                 "A bolsa estufada.",

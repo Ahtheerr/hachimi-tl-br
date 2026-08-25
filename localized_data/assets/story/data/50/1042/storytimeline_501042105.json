@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Monologue",
-            "text": "O verão chegou. Todo mundo está em<n>um ônibus a caminho do<n>acampamento de verão..."
+            "text": "O verão chegou. Todo mundo está em<n>um ônibus a\ncaminho do<n>acampamento de verão..."
         },
         {
             "name": "Monologue",
@@ -10,7 +11,7 @@
         },
         {
             "name": "Seeking the Pearl",
-            "text": "Escute, Taiki. Estamos confiando a<n>você todas as nossas esperanças e<n>sonhos."
+            "text": "Escute, Taiki. Estamos confiando a<n>você todas as\nnossas esperanças e<n>sonhos."
         },
         {
             "name": "Seeking the Pearl",
@@ -18,7 +19,7 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Pode deixar, Pearl! Vou lá e trazer<n>uma vitória garantida para casa! ♪"
+            "text": "Pode deixar, Pearl! Vou lá e trazer<n>uma vitória\ngarantida para casa! ♪"
         },
         {
             "name": "Seeking the Pearl",
@@ -30,7 +31,7 @@
         },
         {
             "name": "Seeking the Pearl",
-            "text": "Treinador? O que você está fazendo?<n>Não vai dar um pouco de incentivo<n>para a Taiki—"
+            "text": "Treinador? O que você está fazendo?<n>Não vai dar\num pouco de incentivo<n>para a Taiki—"
         },
         {
             "name": "Seeking the Pearl",
@@ -61,7 +62,7 @@
         },
         {
             "name": "Monologue",
-            "text": "O avião em que Seeking the Pearl<n>poderia muito bem estar embarcando<n>parte rumo à França."
+            "text": "O avião em que Seeking the Pearl<n>poderia muito\nbem estar embarcando<n>parte rumo à França."
         },
         {
             "name": "Seeking the Pearl",
@@ -77,7 +78,7 @@
         },
         {
             "name": "Seeking the Pearl",
-            "text": "Neste verão, vou superá-la em<n>velocidade! Você está comigo?!",
+            "text": "Neste verão, vou superá-la em<n>velocidade! Você\nestá comigo?!",
             "choice_data_list": [
                 "Sim! Vamos nessa!",
                 "Sim! Vamos nessa!"
@@ -85,11 +86,11 @@
         },
         {
             "name": "Seeking the Pearl",
-            "text": "Ótimo! Vamos atravessar<n>espetacularmente nossas metas<n>neste verão..."
+            "text": "Ótimo! Vamos atravessar<n>espetacularmente nossas\nmetas<n>neste verão..."
         },
         {
             "name": "Seeking the Pearl",
-            "text": "E ficar tranquilas enquanto<n>assistimos à Taiki enfrentar o cenário<n>mundial! Ohohoho!"
+            "text": "E ficar tranquilas enquanto<n>assistimos à Taiki\nenfrentar o cenário<n>mundial! Ohohoho!"
         },
         {
             "name": "Monologue",
@@ -97,7 +98,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Vamos apostar tudo neste verão para<n>brilhar ainda mais intensamente."
+            "text": "Vamos apostar tudo neste verão para<n>brilhar ainda\nmais intensamente."
         }
     ]
 }

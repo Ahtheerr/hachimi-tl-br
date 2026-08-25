@@ -1,8 +1,9 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Seeking the Pearl",
-            "text": "<i>Ofegante... ofegante... ofegante...</i> Eu<n>consegui. Mas..."
+            "text": "<i>Ofegante... ofegante... ofegante...</i> Eu<n>consegui.\nMas..."
         },
         {
             "name": "Seeking the Pearl",
@@ -14,7 +15,7 @@
         },
         {
             "name": "Anunciadora",
-            "text": "Mejiro Bright correu melhor do que o<n>esperado! A\nintensidade de seu avanço<n>final estava em um nível\ncompletamente diferente!"
+            "text": "Mejiro Bright correu melhor do que o<n>esperado! A\nintensidade de seu sprint<n>final estava em um nível\ncompletamente diferente!"
         },
         {
             "name": "Monologue",
@@ -50,7 +51,7 @@
         },
         {
             "name": "Seeking the Pearl",
-            "text": "Treinador! Tem uma coisa sobre a<n>qual quero falar com você..."
+            "text": "Treinador! Tem uma coisa sobre a<n>qual quero falar\ncom você..."
         },
         {
             "name": "Mejiro Dober",
@@ -73,11 +74,11 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "Pearl, agora que você correu contra<n>Bright, a próxima sou eu."
+            "text": "Pearl, agora que você correu contra<n>Bright, a\npróxima sou eu."
         },
         {
             "name": "Mejiro Dober",
-            "text": "Ela correu bem hoje e, graças a isso,<n>me deu uma pista sobre o que devo<n>fazer."
+            "text": "Ela correu bem hoje e, graças a isso,<n>me deu uma\npista sobre o que devo<n>fazer."
         },
         {
             "name": "Mejiro Dober",
@@ -105,7 +106,7 @@
         },
         {
             "name": "Monologue",
-            "text": "Em termos de distância, temos a<n>Hanshin Juvenile Fillies ou a Asahi<n>Hai Futurity Stakes. Ambas são\ncorridas de milha, mas, se estamos<n>planejando\ndisputar a Tríplice Tiara,<n>então...",
+            "text": "Em termos de distância, temos a<n>Hanshin Juvenile\nFillies ou a Asahi<n>Hai Futurity Stakes. Ambas são\ncorridas de milha, mas, se estamos<n>planejando\ndisputar a Tríplice Tiara,<n>então...",
             "choice_data_list": [
                 "Acho que a Hanshin Juvenile Fillies seria uma boa\nescolha."
             ],
@@ -120,7 +121,7 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "Isso será daqui a um mês. Tudo bem<n>para você, Pearl?"
+            "text": "Isso será daqui a um mês. Tudo bem<n>para você,\nPearl?"
         },
         {
             "name": "Seeking the Pearl",
@@ -128,7 +129,7 @@
         },
         {
             "name": "Seeking the Pearl",
-            "text": "Tudo o que importa é que nós duas<n>estejamos lá. Não concorda?"
+            "text": "Tudo o que importa é que nós duas<n>estejamos lá.\nNão concorda?"
         },
         {
             "name": "Mejiro Dober",
@@ -140,7 +141,7 @@
         },
         {
             "name": "Seeking the Pearl",
-            "text": "Se eu não fizer alguma coisa, Dober<n>vai me fazer em pedaços.",
+            "text": "Se eu não fizer alguma coisa, Dober<n>vai me fazer\nem pedaços.",
             "choice_data_list": [
                 "Você não está exagerando um pouco?"
             ]
@@ -167,7 +168,7 @@
         },
         {
             "name": "Monologue",
-            "text": "É claro que eu sempre soube da<n>existência das\nfamílias de<n>Umamusume."
+            "text": "É claro que sempre soube da<n>existência das\nfamílias de<n>Umamusume."
         },
         {
             "name": "Monologue",

@@ -1,4 +1,5 @@
 {
+    "no_wrap": true,
     "text_block_list": [
         {
             "name": "Monologue",
@@ -6,7 +7,7 @@
         },
         {
             "name": "Seeking the Pearl",
-            "text": "Bom trabalho, El. Você evoluiu<n>bastante neste verão."
+            "text": "Bom trabalho, El. Você evoluiu<n>bastante neste\nverão."
         },
         {
             "name": "Seeking the Pearl",
@@ -46,7 +47,7 @@
         },
         {
             "name": "El Condor Pasa",
-            "text": "Pearl, você está parecendo um<n>alienígena. É meio engraçado!"
+            "text": "Pearl, você está parecendo um<n>alienígena. É meio\nengraçado!"
         },
         {
             "name": "El Condor Pasa",
@@ -86,11 +87,11 @@
         },
         {
             "name": "Mejiro Dober",
-            "text": "É mesmo? Nesse caso, seremos<n>rivais. Eu também vou correr nela."
+            "text": "É mesmo? Nesse caso, seremos<n>rivais. Eu também\nvou correr nela."
         },
         {
             "name": "Mejiro Dober",
-            "text": "Fico feliz em saber que poderemos<n>correr juntas novamente."
+            "text": "Fico feliz em saber que poderemos<n>correr juntas\nnovamente."
         },
         {
             "name": "Seeking the Pearl",

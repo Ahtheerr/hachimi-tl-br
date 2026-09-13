@@ -4,11 +4,6 @@
   "zip_dir": "hachimi-tl-br-main/localized_data",
   "files": [
     {
-      "path": ".vscode/settings.json",
-      "hash": "c3668324d4aea03bb37071e23afcf35a737c1b437ccffea3f0deecb2be885c71",
-      "size": 32
-    },
-    {
       "path": "assets/atlas/circle/circle.diff.png",
       "hash": "8028139d2f761291194e2fbad2ab34d39cb29cc26f63e8551e8f1a3833412a8d",
       "size": 781508
@@ -32000,8 +31995,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "7048f2b4ab9c6d786ba883dbf1368d2640e5a6bdfbcc3747d14f87365210b0ab",
-      "size": 1229716
+      "hash": "8ed029e3acf156d5a51af0e01b565f859be28d25cc517112c97a27d1eb728b83",
+      "size": 1246597
     },
     {
       "path": "config.json",
@@ -32024,11 +32019,6 @@
       "size": 373245
     },
     {
-      "path": "localized_data/config.json",
-      "hash": "df1adc07e949630f39b1cdfe79cba7a272da983aae1b5cfa63b8b43061ffc8d8",
-      "size": 262
-    },
-    {
       "path": "race_jikkyo_comment_dict.json",
       "hash": "e90d5ce5804b22017b7a038a7b27c56f368f840d1eb3da83422f1ef2eacf40c8",
       "size": 22877
@@ -32039,9 +32029,14 @@
       "size": 246317
     },
     {
+      "path": "skill_data_desc_dict.json",
+      "hash": "44620c759a2d3787e7896da7f4358d35e6939df1e40b87b1df51694de1d5e902",
+      "size": 29414
+    },
+    {
       "path": "text_data_dict.json",
-      "hash": "ed8cd1628b9e5620f3e6ca8c1e39ccbe6a440ebb1d624281ec8d3e73c584c400",
-      "size": 1739136
+      "hash": "138300097db18d6a7f18ef5d32874f75e6ee46093cc6b06022bcd899fdb2bdf4",
+      "size": 1739343
     }
   ]
 }

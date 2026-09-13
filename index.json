@@ -5,23 +5,23 @@
   "files": [
     {
       "path": "assets/atlas/circle/circle.diff.png",
-      "hash": "8028139d2f761291194e2fbad2ab34d39cb29cc26f63e8551e8f1a3833412a8d",
-      "size": 781508
+      "hash": "6b8b09565c811e912260e53f7ff2bf5d7c8d91d1b69fa793e02328dfe60b9777",
+      "size": 89910
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "945258c451080a26972e2b920b8a68775a3e445eeca4bb93ddd360a66b27b2ce",
-      "size": 1582884
+      "hash": "02502d0a5bf822aac10d2f0d2b0293c3314824eb8b799112ff8bd728c5f187b9",
+      "size": 72400
     },
     {
       "path": "assets/atlas/daily/daily.diff.png",
-      "hash": "35cc8310345ad522838ac53c84f8c7b65108657efe3a7cf31847dc854c632eef",
-      "size": 10611
+      "hash": "7206b3f6791480938aea36b78584c3916e9cdcc5923a8fc735ca89111160bcf4",
+      "size": 9615
     },
     {
       "path": "assets/atlas/home/home.diff.png",
-      "hash": "10ad52d23e0ff44f4741b6f0d409ada1934659f5ddba767536410f08a4e3f70e",
-      "size": 657750
+      "hash": "9a360b8dbaa4da8348e22b323a24541c87b6ed56f26bd54b914c0fe3e7b57b73",
+      "size": 68479
     },
     {
       "path": "assets/atlas/photostudio/photostudio.diff.png",
@@ -30,13 +30,13 @@
     },
     {
       "path": "assets/atlas/single/single.diff.png",
-      "hash": "802fa01f45b8c94af16385df7546aec66ac51886a0d29053c2fa2dbde11df855",
-      "size": 598966
+      "hash": "3016b303605f4c399e71846c0d948c83575b6c297630481ad9377bfe4cd27445",
+      "size": 59170
     },
     {
       "path": "assets/atlas/singlemodescenariolive/singlemodescenariolive.diff.png",
-      "hash": "5f1310cb39e30cac1f09de60a0a3fd496191955373505b873e3f3b98a8d08321",
-      "size": 1264711
+      "hash": "ec91b6370580ba706785794200f86e6a5f3bd58282998619b27c50ead805865a",
+      "size": 32439
     },
     {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1001001.json",
@@ -1827,11 +1827,6 @@
       "path": "assets/lyrics/m9051_lyrics.json",
       "hash": "e5c6fab699f593814f398315da0608bd15db5bfd4c221e4664c82fd65515cb07",
       "size": 544
-    },
-    {
-      "path": "assets/photostudio/photostudio.diff.png",
-      "hash": "4d976e95c074b7a8f3f1f64fc38980e6bbfa7a4d83da081baf4c8be9705ab725",
-      "size": 49393
     },
     {
       "path": "assets/race/storyrace/text/storyrace_020000001.json",
@@ -31285,18 +31280,18 @@
     },
     {
       "path": "assets/textures/chara/_chr/petit/petit_chr_0070.diff.png",
-      "hash": "1ccee9b52a85623198d678185310fc8860dfaa4fa63c1d73ffeabae27d7c5d56",
-      "size": 10133
+      "hash": "eceec1dd8238cfd6d72771847f6328e8ba26ac5314538d87ca9cd8f4db9e9094",
+      "size": 10743
     },
     {
       "path": "assets/textures/chara/_chr/petit/petit_chr_0071.diff.png",
-      "hash": "246af9ed129f4a5e0219e4e0ddfc76c5a47a673618fa454c136c6dff858c8452",
-      "size": 9744
+      "hash": "66d6cbd62a0a1a982ccf1e231c307b1df2d2def8236fdbe7245c4f0177deadcb",
+      "size": 10103
     },
     {
       "path": "assets/textures/loginbonus/stamp/utx_ico_stamp_get_0000.diff.png",
-      "hash": "85f3fb25d18b57c5c26bc1ee48a86a9b10c5f8b6b4aa1b6b389bbabd6cbceb9d",
-      "size": 21022
+      "hash": "668bebbe0f4dcb3546056224d7169ef9e1227605d4c1ea5283974148a724fc26",
+      "size": 2361
     },
     {
       "path": "assets/textures/outgame/comic/tex_comic_1001_01.diff.png",
@@ -31460,8 +31455,8 @@
     },
     {
       "path": "assets/textures/story/telop/tex_telop_020006011_000.diff.png",
-      "hash": "36189ed8010ddde62df806539a8b2b71ec0fbea8c9afff843e4292325877d898",
-      "size": 33548
+      "hash": "9dee22d43fabc6f682faf4aa20865b35e5d4a1c06bedd291bdc7dc6aa1a33fff",
+      "size": 18892
     },
     {
       "path": "assets/textures/uianimation/flash/race/raceplaying/texture/skillname/skill_name_100011.diff.png",
@@ -32030,8 +32025,8 @@
     },
     {
       "path": "skill_data_desc_dict.json",
-      "hash": "44620c759a2d3787e7896da7f4358d35e6939df1e40b87b1df51694de1d5e902",
-      "size": 29414
+      "hash": "6595a744d10fdebe4783a5bb0ee8a5bcd797de08b0bad6c7563bb811f4cd984b",
+      "size": 29438
     },
     {
       "path": "text_data_dict.json",

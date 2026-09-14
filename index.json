@@ -4,6 +4,16 @@
   "zip_dir": "hachimi-tl-br-main/localized_data",
   "files": [
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
+      "hash": "af65a2d797d2d516f499315185f744e56fcb3022e32fe8e1beea284f63e484bb",
+      "size": 52171
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.diff.png",
+      "hash": "ee97dc2a0c179a8347caf9873296d6c4f2d01b4d45dc6236ed721cbaeba79cb0",
+      "size": 36768
+    },
+    {
       "path": "assets/atlas/circle/circle.diff.png",
       "hash": "6b8b09565c811e912260e53f7ff2bf5d7c8d91d1b69fa793e02328dfe60b9777",
       "size": 89910
@@ -25,8 +35,8 @@
     },
     {
       "path": "assets/atlas/photostudio/photostudio.diff.png",
-      "hash": "4d976e95c074b7a8f3f1f64fc38980e6bbfa7a4d83da081baf4c8be9705ab725",
-      "size": 49393
+      "hash": "6b75aa7d62dedb99b74a5ba49c6fe163b0929017284fbdb355ed6dc8e9400e63",
+      "size": 4775
     },
     {
       "path": "assets/atlas/single/single.diff.png",

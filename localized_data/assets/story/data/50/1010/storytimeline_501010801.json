@@ -1,215 +1,215 @@
 {
     "text_block_list": [
         {
-            "name": "",
-            "text": "ある休日――"
+            "name": "Monologue",
+            "text": "One day, when we're off from<n>training..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "ハウディー！ ぽかぽかサンシャイン！ 絶好のハイキング・デイ！",
+            "name": "Taiki Shuttle",
+            "text": "Howdy, Trainer! Could you <i>ask</i> for a<n>better day to\ngo hiking? There ain't a<n>cloud in the sky!",
             "choice_data_list": [
-                "楽しみだな！",
-                "楽しみだね！"
+                "I can't wait!",
+                "I can't wait!"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "ハイ♪ 今日は昔ファミリーで歩いたルート、<n>オマージュしたプランを考えてきマシタ！"
+            "name": "Taiki Shuttle",
+            "text": "Same here! ♪ I modeled the route<n>after the hikes I\nused to go on with<n>my folks! It's gonna be like\nhikin'<n>down memory lane!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ドキドキ、ワクワクいっぱいコース！ 楽しみまショウ～！"
+            "name": "Taiki Shuttle",
+            "text": "We're gonna \"ooh\" <i>and</i> \"ah\" like you<n>won't\nbelieve! Now, let's get started!"
         },
         {
-            "name": "",
-            "text": "ふぅ～～～……あっという間にチューフク！<n>ニホンの山、ミニマムかわいいデース♪"
+            "name": "Taiki Shuttle",
+            "text": "Phew! Can you believe we're<n>already halfway up?!\nThe mountains<n>in Japan are so cute and tiny\ncompared to back home. ♪"
         },
         {
-            "name": "タイキシャトル",
-            "text": "って……トレーナーさん、ダイジョーブ！？<n>息、すごい上がってマス！",
+            "name": "Taiki Shuttle",
+            "text": "You okay, Trainer?! You're breathin'<n>awful hard!",
             "choice_data_list": [
-                "なん……とか……！"
+                "I'm... fine..."
             ]
         },
         {
-            "name": "",
-            "text": "でも、すごくフラフラして――あっ！"
+            "name": "Taiki Shuttle",
+            "text": "You sure? You look ready to keel over<n>any\nsec—whoopsie daisy!"
         },
         {
-            "name": "",
-            "text": "（パシッ！）"
+            "name": "Monologue",
+            "text": "<i>Snatch!</i>"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ふぅ……カンイッパツ！ ハンド、キャッチ！<n>こんなところで転んだら大変デス。",
+            "name": "Taiki Shuttle",
+            "text": "Phew... I got ya in the nick of time!<n>Imagine if you\nwent tumblin' down<n>the mountain.",
             "choice_data_list": [
-                "助かった、ありがとう"
+                "You're a real lifesaver."
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "フフッ！ なんだか、いつもと逆デスネ。<n>お助けできてコーエーです！"
+            "name": "Taiki Shuttle",
+            "text": "Hehe! Looks like the shoe's on the<n>other foot\ntoday! Glad I got the<n>chance to help you for a\nchange!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "もっとも～っと頼ってほしいので……<n>高台までエスコート、しちゃいマスヨ♪"
+            "name": "Taiki Shuttle",
+            "text": "I want you to lean on me even more!<n>How's about\nI help you all the way to<n>the top?! ♪"
         },
         {
-            "name": "",
-            "text": "レッツ、ランチターーイム！ ハイキングランチの定番と言えば――"
+            "name": "Taiki Shuttle",
+            "text": "Lunch time! And the staple of every<n>hiking lunch..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "――そう！ 顔よりビッグサイズの 特製クラブハウスサンドッ！<n>ガブッとGO！",
+            "name": "Taiki Shuttle",
+            "text": "That's right! A club sandwich bigger<n>than your\nface! Let's see who can<n>finish first!",
             "choice_data_list": [
-                "これが、定番！？"
+                "Are you sure that's a staple?!"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "イエス！ マイファミリーの常識！<n>1個でお腹いっぱいになりマス！"
+            "name": "Taiki Shuttle",
+            "text": "Does a bear squat in the woods? It's<n>what my\nfamily always packs! Just<n>one sandwich'll take\ncare of ya for<n>the day!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "フレッシュトマト！ チーズ！ ミート！！<n>ドリンクは、ジョッキで飲むミルクッ！"
+            "name": "Taiki Shuttle",
+            "text": "Fresh tomato! Cheese! Meat! And a<n>big jug of milk\nto wash it all down!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "食べごたえ、喉ごし、バツグン♪ サァ！<n>そのままガブッと、どーぞ！",
+            "name": "Taiki Shuttle",
+            "text": "What more could ya ask for?! ♪ Here!<n>Take a nice\nbig chomp!",
             "choice_data_list": [
-                "この大きさ、どう食べれば？"
+                "It's so big. Where do I even start?"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "じゃあ、食べさせてあげまショウ！<n>昔、ワタシもママにやってもらいマシタ♪",
+            "name": "Taiki Shuttle",
+            "text": "Need me to feed it to you? Back when<n>I was little,\nmy mom would help me<n>too. ♪",
             "choice_data_list": [
-                "じ、自分で食べられるから！"
+                "I... I can do it myself!"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "ムフフ～！ そんなに慌てて…… トレーナーさん、照れてますネ！"
+            "name": "Taiki Shuttle",
+            "text": "Ohoho! Is that a blush I see? Ain't<n>nothin' to be\nshy about!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ん～～っ！ かわいい～！ キュンキュンで、胸いっぱいデース！"
+            "name": "Taiki Shuttle",
+            "text": "Awww... But don't you look cute! You<n>got my heart\nall aflutter!"
         },
         {
-            "name": "",
-            "text": "その後も終始ドキドキさせられながらも<n>食事を終え、次に案内されたのは……。"
+            "name": "Monologue",
+            "text": "She continues teasing me throughout<n>the meal, and\nthen leads me to..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "ラストは……気球でフライアウェーイ！"
+            "name": "Taiki Shuttle",
+            "text": "Last but not least, we fly through the<n>air in a hot-air\nballoon!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "気球、たくさん飛んでますネ～！ ほら！<n>あんなに、いっぱい……あんなに――"
+            "name": "Taiki Shuttle",
+            "text": "Look at 'em all, driftin' up there!<n>Really, just look!\nAll those balloons,<n>aaall the waaay up the—"
         },
         {
-            "name": "タイキシャトル",
-            "text": "あんなに、高く飛ぶんデスカーッ！？"
+            "name": "Taiki Shuttle",
+            "text": "Say! Is it really okay for 'em to be up<n>that high?!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ハッ！ そういえばワタシ……いつもパパに<n>抱っこしてもらって乗ってマシタ……。"
+            "name": "Taiki Shuttle",
+            "text": "Oh! That reminds me! Papa used to<n>always pick me\nup and carry me on<n>board..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "で、でも……今は、大人のレディ！ このくらいヘッチャラ～！"
+            "name": "Taiki Shuttle",
+            "text": "But now I'm a full-grown lady! I can<n>get on all by\nmyself!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "……けど、トレーナーさんが怖いなら<n>別の事してもいいですヨ……！",
+            "name": "Taiki Shuttle",
+            "text": "But... if <i>you're</i> scared, we can always<n>do\nsomethin' else.",
             "choice_data_list": [
-                "乗ろう！",
-                "怖いし、やめておこう"
+                "Let's fly!",
+                "Yeah, let's not. It looks scary."
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "オッ…… ……オーケー！ オーケー！"
+            "name": "Taiki Shuttle",
+            "text": "Oh... I mean, yeah! Okay!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ホワーーッ！？ やっぱり高いデスッ！ 怖いッ！<n>トレーナーさ～～んッ！！"
+            "name": "Taiki Shuttle",
+            "text": "Whoaaa! We're so high up! ...Too<n>high! Too high!\nAaagh! Trainer!"
         },
         {
-            "name": "",
-            "text": "（むぎゅ～～～～っ！！）",
+            "name": "Monologue",
+            "text": "<i>Squeeze!</i>",
             "choice_data_list": [
-                "タイキ！？"
+                "Taiki?!"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "Oh my gosh！？ No way,no way……！ I'll<n>never let you\ngoooo～～ッ！"
+            "name": "Taiki Shuttle",
+            "text": "Oh my gosh! Oh no! Nonononooo!<n>Trainer, hold onto\nmeee!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ううっ……トレーナーさんは命の恩人デス！<n>おかげで無事に地上へ戻れマシタ！",
+            "name": "Taiki Shuttle",
+            "text": "Uuugh... Finally, back on solid ground!<n>I really owe\nyou one!",
             "choice_data_list": [
-                "そんな大げさな"
+                "But I didn't do anything..."
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "大げさ、ノー！ トレーナーさんにギュッて<n>してたから、ワタシ安心できマシタ！"
+            "name": "Taiki Shuttle",
+            "text": "Don't be modest! The only reason I<n>didn't jump\nout of the basket is<n>'cause I had you there to grab\nonto!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "それに……もっともっと、トレーナーさんと<n>ハートが近づいた気がして嬉しいデス！"
+            "name": "Taiki Shuttle",
+            "text": "And not just that... I'm also happy<n>because I\nrealized how close our<n>hearts are now!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ハッ！ …………も、もう1回乗ったら、<n>もっとハートくっつく……！？"
+            "name": "Taiki Shuttle",
+            "text": "<i>Gasp!</i> ...Does that mean if we go<n>again, our hearts\nwill grow even<n>closer?!"
         },
         {
-            "name": "",
-            "text": "このままでは心臓がいくつあっても足りない。<n>慌てて彼女を説得し……\nハイキングを終えるのだった。"
+            "name": "Monologue",
+            "text": "I'm not sure <i>my</i> heart could take<n>another ride. I\nquickly talk her out of<n>the idea, and we bring our\nhiking trip<n>to a close."
         },
         {
-            "name": "タイキシャトル",
-            "text": "オ……オウゥ～～！ よかったデスっ！<n>じゃあ怖くない、別の事しまショウ！"
+            "name": "Taiki Shuttle",
+            "text": "Oh! Well, okay! I'm actually glad to<n>hear that! Let's\nfind something less<n>scary to do!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ボート！ ボート！ 川下り～♪<n>心を1つに、オールを漕ぎまショウ！"
+            "name": "Taiki Shuttle",
+            "text": "Ah! A boat! Let's go on a boat ride! ♪<n>We can get\nour hearts and our arms<n>in sync rowing downriver!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "オールを……イッチニ、イッチニ！<n>もっといっぱい～……イッッチニィ～～ッ！！",
+            "name": "Taiki Shuttle",
+            "text": "And rooow! One, two! One, two! Give<n>it more\noomph! OOONE, TWOOO!",
             "choice_data_list": [
-                "ちょ、そんな勢いつけたら――"
+                "That's too much oomph!"
             ]
         },
         {
-            "name": "",
-            "text": "（バッシャーーン！！）"
+            "name": "Monologue",
+            "text": "<i>Splash!</i>"
         },
         {
-            "name": "タイキシャトル",
-            "text": "アハハハッ！ 脚、ずぶ濡れ～！ 水遊びもできちゃいマ――"
+            "name": "Taiki Shuttle",
+            "text": "Hahaha! My legs are soaked! I didn't<n>reckon we'd\nbe goin' for a sw—"
         },
         {
-            "name": "タイキシャトル",
-            "text": "――っくし！",
+            "name": "Taiki Shuttle",
+            "text": "Achoo!",
             "choice_data_list": [
-                "ほら、上着羽織って"
+                "Here. Take my jacket."
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "ワオ……！ トレーナーさん、 とってもクールでジェントル……！"
+            "name": "Taiki Shuttle",
+            "text": "Ain't you just the picture of chivalry!<n>♪Color me\nimpressed!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "フフッ……ワタシがハートを撃つつもりが、<n>返り討ちにされちゃいマシタネ……♪"
+            "name": "Taiki Shuttle",
+            "text": "Actually, I was tryin' to impress you,<n>but looks like\nthat went and<n>backfired... Hehe. ♪"
         },
         {
-            "name": "",
-            "text": "上機嫌な様子のタイキシャトルと 帰路につき……<n>ハイキングを終えるのだった。"
+            "name": "Monologue",
+            "text": "Taiki Shuttle is in high spirits as we hit<n>the dusty\ntrail and bring our hiking trip<n>to a close."
         }
     ]
 }

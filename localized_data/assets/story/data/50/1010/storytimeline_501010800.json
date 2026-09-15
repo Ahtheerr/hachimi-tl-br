@@ -1,205 +1,205 @@
 {
     "text_block_list": [
         {
-            "name": "",
-            "text": "ある休日。 タイキシャトルと買い物をしていると……。"
+            "name": "Monologue",
+            "text": "I'm out shopping with Taiki Shuttle on<n>a day off,\nwhen..."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "はぁ……どうしよう。 せっかく来たのに、これじゃなにも……。"
+            "name": "Nishino Flower",
+            "text": "<i>Sigh...</i> What should I do? This whole<n>trip is going to\nbe a waste if I don't—"
         },
         {
-            "name": "",
-            "text": "ハウディ！ フラワー、なにか困り事デスカ？"
+            "name": "Taiki Shuttle",
+            "text": "Howdy, Flower! You sure look<n>anxious about\nsomething."
         },
         {
-            "name": "",
-            "text": "あっ……そ、そこまで大したことでは。<n>どんな服を買おうかと、悩んでいるだけでっ。"
+            "name": "Nishino Flower",
+            "text": "Oh, it's nothing serious. I just can't<n>decide which\nclothes to buy."
         },
         {
-            "name": "タイキシャトル",
-            "text": "なら、一緒に回りまショ！ 誰かと一緒だと、<n>新しいファッションが楽しめますカラ☆"
+            "name": "Taiki Shuttle",
+            "text": "Heck! If that's all it is, I'll help ya out.<n>Fashion's\nway more fun with a<n>friend to shake up your style!\n☆"
         },
         {
-            "name": "",
-            "text": "新しい、ファッションが……楽しめる……。",
+            "name": "Nishino Flower",
+            "text": "To shake up... my style?",
             "choice_data_list": [
-                "どうする？"
+                "Well? Whaddya say?"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "あのっ！ すっごくありがたいです！<n>ぜひ、ご一緒させてくださいっ！"
+            "name": "Nishino Flower",
+            "text": "Oh! Yes, please! I'd love it if you'd<n>join me!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "おおー！ 『ダイヤモンドシューズ』！？ キラキラ素敵！<n>試着しまショウ！"
+            "name": "Taiki Shuttle",
+            "text": "Wow! These diamond shoes are<n>absolutely\ngorgeous! Just look at<n>'em sparkle! You <i>gotta</i> try\nthese on!"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "ダイヤモンドですか！？ 試着なんて、私、とても……！"
+            "name": "Nishino Flower",
+            "text": "Diamonds?! On me?! I... I..."
         },
         {
-            "name": "",
-            "text": "ジャーン☆ このウェットスーツ、クール！<n>雨の日に着たら最強デース☆"
+            "name": "Taiki Shuttle",
+            "text": "Ta-daaah! ☆ Tell me this ain't the<n>coolest wetsuit ya\never seen! It'd be<n>perfect for a rainy day! ☆"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "はわわっ！ ダイビング用の服を、街中で！？<n>だ、大胆すぎます～～っ！"
+            "name": "Nishino Flower",
+            "text": "Wh-what?! You mean you'd wear<n>something like\nthis out on the street?!<n>Talk about a bold fashion\nstatement!<n>Too bold for me!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "フンフンフーン♪ 次はどんな服を試しまショウ～♪"
+            "name": "Taiki Shuttle",
+            "text": "Now, leeet's see! ♪ What should we<n>try next? ♪"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "はぁー……タイキ先輩って、すごいですね。<n>すごく、パワフルで……。",
+            "name": "Nishino Flower",
+            "text": "<i>Pant...</i> You've got so much energy...",
             "choice_data_list": [
-                "疲れちゃったか？",
-                "疲れちゃった？"
+                "Are you getting tired?",
+                "Are you getting tired?"
             ]
         },
         {
-            "name": "ニシノフラワー",
-            "text": "いえ！ 私、すごく感動してるんですっ！"
+            "name": "Nishino Flower",
+            "text": "No! Actually, I'm feeling really<n>inspired!"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "実は、その……今日は服を買いに来たんです。<n>……お姉さんに見える、服を。"
+            "name": "Nishino Flower",
+            "text": "The reason I wanted to go shopping<n>today is... Well,\nit's because I wanted<n>to find clothes that would\nmake me<n>look more grown-up."
         },
         {
-            "name": "ニシノフラワー",
-            "text": "でもいざお店で服を見ると、<n>似合わない気がして……着る勇気が……。"
+            "name": "Nishino Flower",
+            "text": "But once I started looking at outfits, it<n>felt like\nnothing really suited me, and I<n>felt too shy to try\nanything on..."
         },
         {
-            "name": "",
-            "text": "だから、タイキ先輩はすごいですっ！<n>なんでも上手に、いろいろな服を着こなせて。"
+            "name": "Nishino Flower",
+            "text": "That's why Taiki is so amazing! It's<n>like she can\npull off any look."
         },
         {
-            "name": "タイキシャトル",
-            "text": "上手？ ノンノン！ コーディネートのミソは――"
+            "name": "Taiki Shuttle",
+            "text": "Oh, honey, you've got it all wrong! It<n>doesn't take\nskill to rock an outfit..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "ハートです！",
+            "name": "Taiki Shuttle",
+            "text": "It takes heart!",
             "choice_data_list": [
-                "ハート？"
+                "Heart?"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "ハイ！ この服も、アクティブ！ ハッピー！<n>そんなお出かけをと、オメカシしマシタ♪"
+            "name": "Taiki Shuttle",
+            "text": "That's what I said! Take this outfit for<n>example—it\njust shouts \"active!\" and<n>\"cheerful!\" It's all about\nmatchin' the<n>occasion! ♪"
         },
         {
-            "name": "タイキシャトル",
-            "text": "フラワーのハートはどうデスカ？<n>どんな服で、どんな気分になりたいデスカ？"
+            "name": "Taiki Shuttle",
+            "text": "What's yer heart tellin' ya, Flower?<n>What kinda\noutfit and mood are ya<n>aimin' for?"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "気分……私の、気分は――"
+            "name": "Nishino Flower",
+            "text": "What kind of mood... Hm..."
         },
         {
-            "name": "",
-            "text": "優しくて、みんなを笑顔にする……<n>コスモスのようなお姉さんに、なりたいです！"
+            "name": "Nishino Flower",
+            "text": "I want something... kind... that brings a<n>smile to\neveryone's face. I want to<n>be like a blooming\ncosmos flower!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "グレェェーーイトッ！ ザッツライ！ そう、その気持ちが大切！"
+            "name": "Taiki Shuttle",
+            "text": "Bam! Now yer talkin'! Hold onto that<n>feelin'!"
         },
         {
-            "name": "",
-            "text": "それが本当に着たい服、買うべき服。 きっとすごく似合いマース♪"
+            "name": "Taiki Shuttle",
+            "text": "If that's the kinda outfit you want,<n>then that's the\noutfit you should get!<n>I'm certain it'll look like it\nwas made<n>just for you! ♪"
         },
         {
-            "name": "ニシノフラワー",
-            "text": "わぁっ……！ はい！ ……私、もう1度お店回ってきます！"
+            "name": "Nishino Flower",
+            "text": "Oh! Okay! Then... I'm gonna go look<n>through the\nshops one more time!"
         },
         {
-            "name": "",
-            "text": "笑顔で駆けだしたその背を、 タイキシャトルと共に見送る。",
+            "name": "Monologue",
+            "text": "Taiki Shuttle and I sit back and watch<n>as a smiling\nNishino Flower runs off<n>to find her new outfit.",
             "choice_data_list": [
-                "嬉しそうだったな",
-                "嬉しそうだったね"
+                "She looks pleased.",
+                "She looks pleased."
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "Yeah！ せっかくのショッピング、<n>楽しまないとソンソンです♪"
+            "name": "Taiki Shuttle",
+            "text": "Darn right she does! It'd be a crying<n>shame if she\nwasn't, seeing as<n>she's out shopping! ♪"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ところで～～……ここに、 まだなにも買ってない人がいますネ！？",
+            "name": "Taiki Shuttle",
+            "text": "Which reminds me... A certain<n>somebody hasn't\npicked out a single<n>thing!",
             "choice_data_list": [
-                "服、買っちゃおうかな！",
-                "実は今月厳しくて……"
+                "I guess I could buy something!",
+                "I dunno... This month's been kind of tough..."
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "ガッテンショーチ！ そーこなくちゃデス☆<n>では早速、ハートに聞いてみまショウ。"
+            "name": "Taiki Shuttle",
+            "text": "Woohoo! I was hopin' you'd be on<n>board! ☆ Now\nhurry up and spill the<n>beans on what's in <i>your</i>\nheart."
         },
         {
-            "name": "タイキシャトル",
-            "text": "トレーナーさん！ 今日は、<n>どんな気持ちでお出かけしてきマシタカ？",
+            "name": "Taiki Shuttle",
+            "text": "What was your mood comin' out with<n>me today?",
             "choice_data_list": [
-                "君と同じく、楽しみだった",
-                "貴方と同じく、楽しみだった"
+                "I was excited, just like you.",
+                "I was excited, just like you."
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "ワタシと、同じ！？ 同じハート……！ つまり――"
+            "name": "Taiki Shuttle",
+            "text": "Just like me?! You mean your heart<n>and mine are...\nIn other words..."
         },
         {
-            "name": "",
-            "text": "同じ服……ペアルック、したいんデスネ！？",
+            "name": "Taiki Shuttle",
+            "text": "You wanna get matchin' outfits?!",
             "choice_data_list": [
-                "え？ペアルック！？"
+                "Who said anything about matching outfits?!"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "そうだ！ 袖のフリル、増量できるんデスヨ！<n>ズボンはキュートなハート柄がありマシタ！"
+            "name": "Taiki Shuttle",
+            "text": "I know! Let's get a top with super<n>frilly sleeves!\nAnd do you remember<n>those pants with all the\nhearts?!"
         },
         {
-            "name": "",
-            "text": "さっそく試着にGOーー！！"
+            "name": "Taiki Shuttle",
+            "text": "We need to get to the fitting room,<n>like, right now!"
         },
         {
-            "name": "",
-            "text": "誤解したまま服を買いに走る彼女を、<n>慌てて追いかけるのだった……！"
+            "name": "Monologue",
+            "text": "Having misunderstood my intentions,<n>she runs off\nto buy an outfit. This<n>throws me into a panic, and I\ngive<n>chase!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "オゥ～～ッ……じゃあ、<n>今日付き合ってくれたお礼に奢ってあげマス！"
+            "name": "Taiki Shuttle",
+            "text": "I hear ya loud 'n' clear. No worries.<n>I'll foot the bill\ntoday!"
         },
         {
-            "name": "店員",
-            "text": "申し訳ありません。 こちらのカード、すでに限度額が……。"
+            "name": "Shop Staff",
+            "text": "I'm sorry. It appears that your card is<n>maxed out..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "……ホワッ！？"
+            "name": "Taiki Shuttle",
+            "text": "You're kidding!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ワタシとトレーナーさん、 一文ナッシング！<n>同じブロークンハート！",
+            "name": "Taiki Shuttle",
+            "text": "Looks like we're <i>both</i> poor as church<n>mice, Trainer!",
             "choice_data_list": [
-                "ごめんな……",
-                "ごめんね……"
+                "Sorry...",
+                "Sorry..."
             ]
         },
         {
-            "name": "",
-            "text": "オウ、どうして謝るんデスカ？<n>トレーナーさん、ワタシとっても嬉しいデス！"
+            "name": "Taiki Shuttle",
+            "text": "What're you sorry for? I'm about as<n>happy as a\npig in mud right now!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "だってワタシたち、ハートが一緒。<n>ハートのペアルック……ってことデスカラ♪"
+            "name": "Taiki Shuttle",
+            "text": "We might not have matchin' outfits,<n>but we sure as\nall get-out have<n>matchin' hearts! ♪"
         },
         {
-            "name": "",
-            "text": "その後も、今日あったアレコレを話しながら<n>仲良く学園に帰ったのだった。"
+            "name": "Monologue",
+            "text": "After that, we head back to the<n>academy, cheerfully\nchatting about<n>the day we had."
         }
     ]
 }

@@ -1,208 +1,208 @@
 {
     "text_block_list": [
         {
-            "name": "モノローグ",
-            "text": "タイキシャトルとトレーニングの<n>打ち合わせを終えた後のこと……。"
+            "name": "Monologue",
+            "text": "Taiki Shuttle and I have just wrapped<n>up a training\nmeeting, when..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "ソワソワ……ソワソワ……。 ……チラチラ……チラチラ……。",
+            "name": "Taiki Shuttle",
+            "text": "Not yet? Ohhh... Come on! Come on!",
             "choice_data_list": [
-                "どうかしたか？",
-                "どうかしたの？"
+                "Everything okay?",
+                "Everything okay?"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "イエス！ パパとママからの メールの返事を待ってるんデス！"
+            "name": "Taiki Shuttle",
+            "text": "Fine and dandy! I'm just waitin' for<n>my folks to\nmessage me back!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "この間撮ったお気に入りのムービーを 送ったんデスよ～……ほら！<n>コレコレ！"
+            "name": "Taiki Shuttle",
+            "text": "I wanna see their reaction to this<n>video I took. Here,\ntake a look!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "『パパ、ママ！ これがニッポンの心、桜！<n>実はワタシ、これから――』"
+            "name": "Taiki Shuttle",
+            "text": "Hey, Mama! Hey, Papa! I wanna<n>introduce y'all to\nthe very heart of<n>Japan—cherry blossoms! You\nsee..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "『ジャパニーズソウル！ お花見をやりマース！<n>ですよね、フクキタル～♪』"
+            "name": "Taiki Shuttle",
+            "text": "The soul of Japan is in these cherry<n>blossom\npicnics they have! And I'm<n>'bout to have one right\nnow! Ain't<n>that right, Fukukitaru? ♪"
         },
         {
-            "name": "マチカネフクキタル",
-            "text": "『はい～！ パパさんたちも、カモンカモーン！\n日本の春、開運フラワーをご覧あれぇ～！』"
+            "name": "Matikanefukukitaru",
+            "text": "Yeah! Hi, Taiki's mama and papa!<n>Come to Japan\nand see these lucky<n>flowers for yourselves!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "これ見ると、ハッピーになるんデス！<n>だから、きっとパパたちも……。"
+            "name": "Taiki Shuttle",
+            "text": "I can't help smilin' when I watch it! I<n>just know\nthey'll—"
         },
         {
-            "name": "タイキシャトル",
-            "text": "オゥ、パパからメールです！"
+            "name": "Taiki Shuttle",
+            "text": "Well, speak of the devil! My papa<n>just messaged\nback!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "『とってもKawaii写真をありがとう！<n>ニホンの春、素敵♪』……喜んでくれてマス！"
+            "name": "Taiki Shuttle",
+            "text": "Looks like they liked it too! He says,<n>\"Your video is\nso <i>kawaii!</i> Japanese<n>spring looks wonderful! ♪\""
         },
         {
-            "name": "タイキシャトル",
-            "text": "『ファッションも、アクションも、<n>すっかりジャパニーズガールね』……？"
+            "name": "Taiki Shuttle",
+            "text": "\"Your clothes and way of speaking<n>have changed\nso much. We could<n>have sworn you were...\nJapanese\"?!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "……ホワーッ！？ ワタシ、もう<n>ケンタッキーのカウガールじゃないデスカ！？",
+            "name": "Taiki Shuttle",
+            "text": "Whaaat?! Have I lost touch with my<n>Kentucky\nroots?!",
             "choice_data_list": [
-                "え、どういうことだ！？",
-                "え、どういうこと！？"
+                "What do you mean?",
+                "What do you mean?"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "だって『すっかりジャパニーズガールね』 って書いてありマス！"
+            "name": "Taiki Shuttle",
+            "text": "My folks said I seem Japanese!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "た、たしかに……ワタシ、<n>ニホンで大切な思い出いっぱいできマシタ。"
+            "name": "Taiki Shuttle",
+            "text": "I mean... I <i>have</i> tried my best to make<n>lots of good\nmemories here."
         },
         {
-            "name": "タイキシャトル",
-            "text": "でも――このままじゃ、いつかニホンの<n>思い出ばかりになって……。"
+            "name": "Taiki Shuttle",
+            "text": "But what if I end up with <i>only</i><n>Japanese memories\none day..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "アメリカの思い出が 消えちゃうんじゃないでショウカ！？"
+            "name": "Taiki Shuttle",
+            "text": "Am I gonna lose all my memories of<n>back home?!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "うわぁぁーーんっ！ そんなのさみしいデス！\nどっちも大事、でも消えちゃいやデス～～ッ！",
+            "name": "Taiki Shuttle",
+            "text": "Noooo! That would be tragic! I love<n>both Japan and\nAmerica! I don't<n>wanna forget either!",
             "choice_data_list": [
-                "大丈夫、消えないよ"
+                "Don't worry. I'm sure you won't forget."
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "グスッ、でもワタシ……あっちに居た頃と、<n>たくさん変わってマス！ だから……！",
+            "name": "Taiki Shuttle",
+            "text": "<i>Sniffle...</i> But... apparently I'm like a<n>different person\nthan I used to be!",
             "choice_data_list": [
-                "大切な思い出が増えてるんだ",
-                "大切な思い出が増えてるんだよ"
+                "You're just getting more precious memories.",
+                "You're just getting more precious memories."
             ]
         },
         {
-            "name": "モノローグ",
-            "text": "思い出はアルバム写真のように増えていく。<n>そして、消えることはない。\n……不安がる彼女に、そう伝えた。"
+            "name": "Monologue",
+            "text": "I explain to her that every new<n>memory she has\ngets added to her<n>collection. It doesn't mean she'll\nlose<n>her old ones."
         },
         {
-            "name": "タイキシャトル",
-            "text": "アメリカとニホンの……思い出の、アルバム。<n>……そっか……そうだ、あの服も――"
+            "name": "Taiki Shuttle",
+            "text": "So it's like a big album with<n>memories of America\nand Japan? Oh,<n>I see... It's like the clothes I was\nwearing..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "チュニックは、桜色だから選んだけど。<n>でも……ズボンの星柄は、昔から好きだカラ。"
+            "name": "Taiki Shuttle",
+            "text": "I chose the blouse 'cause it matched<n>the cherry\nblossoms, and I wore the<n>pants with the stars on\n'em 'cause<n>I've always loved stars."
         },
         {
-            "name": "タイキシャトル",
-            "text": "お花見が好きなのも、ファミリーでやった<n>BBQを思い出すカラ……！"
+            "name": "Taiki Shuttle",
+            "text": "And I like these cherry blossom<n>picnics 'cause\nthey remind me of<n>barbecues back home!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ワタシ……大切な思い出をガッチャンコ、<n>してたんデスネ……。それって――"
+            "name": "Taiki Shuttle",
+            "text": "It's like I've... mixed the two<n>memories into one.\nRight? That<n>means..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "――消えてるんじゃなくて、増えてハッピー！<n>ですね、トレーナーさんっ！",
+            "name": "Taiki Shuttle",
+            "text": "It's just like you said! I'm not losing<n>memories!\nI'm getting new ones! I'm<n>so happy!",
             "choice_data_list": [
-                "もっと色んな思い出、作っていこう！",
-                "ああ、俺もハッピーだ！",
-                "うん、私もハッピーだよ！"
+                "Let's get all sorts of new ones!",
+                "I'm happy too!",
+                "I'm happy too!"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "――消えてるんじゃなくて、増えてハッピー！<n>ですね、トレーナーさんっ！",
+            "name": "Taiki Shuttle",
+            "text": "It's just like you said! I'm not losing<n>memories!\nI'm getting new ones! I'm<n>so happy!",
             "choice_data_list": [
-                "もっと色んな思い出、作っていこう！",
-                "ああ、俺もハッピーだ！",
-                "うん、私もハッピーだよ！"
+                "Let's get all sorts of new ones!",
+                "I'm happy too!",
+                "I'm happy too!"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "イエス！ きっとパパたちも、<n>ワタシのいろんな思い出が見たいはず……！"
+            "name": "Taiki Shuttle",
+            "text": "Yeah! I'm sure my folks'll want to<n>see all kinds of\nnew things that I'm<n>up to!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ゼンはイソゲ☆ さっそく思い出作りにGO！<n>思い出の撮影係、任せましたヨ♪"
+            "name": "Taiki Shuttle",
+            "text": "And what better time than now?! ☆<n>Let's get\nfilming! You're on camera<n>duty! ♪"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ヤミー！ これ、食べてみたかったんデス！<n>しかも桜味は期間限定、春の味デスヨ～♪"
+            "name": "Taiki Shuttle",
+            "text": "Mmm, mmm, MMM, that's good!<n>I've been\nwanting to try this! And<n>since it's a\nlimited-time-only cherry<n>blossom flavor, you could\ncall it the<n>taste of spring! ♪"
         },
         {
-            "name": "タイキシャトル",
-            "text": "フフッ♪ 端っこの席、座っちゃいマシタ！<n>端っこ、ニホンで大人気なんデスヨ～。"
+            "name": "Taiki Shuttle",
+            "text": "Hehe! ♪ I got the seat right next to the<n>door! This is\nthe most popular seat on<n>the train here in Japan!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "そして最後に紹介するのは――"
+            "name": "Taiki Shuttle",
+            "text": "And the last thing I wanna show you..."
         },
         {
-            "name": "タイキシャトル",
-            "text": "中山レース場デス！ とてもホットなレース、<n>『スプリンターズS』が開催される場所！"
+            "name": "Taiki Shuttle",
+            "text": "This is Nakayama Racecourse, where<n>the Sprinters\nStakes is held! It's a<n>real barnburner!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "すごく強い子が、いっぱい走りマス。<n>でもワタシ……昔と同じ。勝気にファイト中！"
+            "name": "Taiki Shuttle",
+            "text": "So many skilled runners race here.<n>And... I'm doin'\nmy best to win, same<n>as ever!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ううんっ……ニホン来て、トレーナーさんに<n>出会って……昔より、もっと強くなりマシタ！"
+            "name": "Taiki Shuttle",
+            "text": "Actually... ever since I came here to<n>Japan and met\nmy trainer, I've been<n>running better than ever!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "思い出がワタシを強くしてくれる……だから、<n>もっと思い出作って、もっと強くなりマス！"
+            "name": "Taiki Shuttle",
+            "text": "My memories give me strength... so I<n>wanna make\neven more memories<n>and get even better!"
         },
         {
-            "name": "モノローグ",
-            "text": "動画で気合いの宣言をして、 今後のレースに向けて<n>ますます闘志を燃やすのだった！"
+            "name": "Monologue",
+            "text": "She announces this passionately into<n>the camera,\nclearly burning with even<n>more determination for\nher future<n>races!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ワオ！ ダブルハッピー、イエーイッ！<n>じゃあハッピー仲間でムービー撮りまショウ！"
+            "name": "Taiki Shuttle",
+            "text": "Wow! We're like two happy little<n>peas in a pod! We\ngotta get this on<n>video!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "ほらほら、ワタシの隣きてくだサーイ！ 行きますヨ～？ せーの！"
+            "name": "Taiki Shuttle",
+            "text": "C'mere! Stand right next to me!<n>Ready?"
         },
         {
-            "name": "タイキシャトル",
-            "text": "パパ、ママ！ ワタシたち2人、ずっと一緒！<n>ずっとハッピーです♪",
+            "name": "Taiki Shuttle",
+            "text": "Hey, Mama! Hey, Papa! Me'n Trainer<n>here are\ngonna be together forever,<n>happy as can be! ♪",
             "choice_data_list": [
-                "なんか、語弊がないか！？",
-                "なんか、語弊がない！？"
+                "Isn't that a little misleading?!",
+                "Isn't that a little misleading?!"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "ゴヘー？ ハッピー、本当のことデス！ だから送信！<n>ポチットナー。"
+            "name": "Taiki Shuttle",
+            "text": "How so? You said you were happy,<n>didn't ya?\n...Aaand sent!"
         },
         {
-            "name": "タイキシャトル",
-            "text": "オウ！ パパたちから、さっそくメール！<n>トレーナーさん宛てにニホン語で来てマース！",
+            "name": "Taiki Shuttle",
+            "text": "Whoa! That was quick! I already got a<n>reply! It's for\nyou! And in Japanese<n>to boot!",
             "choice_data_list": [
-                "（だ、大丈夫かな……）"
+                "(Uh oh...)"
             ]
         },
         {
-            "name": "タイキシャトル",
-            "text": "えーっと……『トレーナーサン、ムスメト、<n>ハッピー、ワタシタチモ、ハッピー！』"
+            "name": "Taiki Shuttle",
+            "text": "It says... \"Dear Trainer. If you and<n>Taiki are happy,\nwe are happy!\""
         },
         {
-            "name": "タイキシャトル",
-            "text": "ヤッホー！ これで親コーニンのハッピー！"
+            "name": "Taiki Shuttle",
+            "text": "Yippee! Looks like everyone's<n>happy!"
         },
         {
-            "name": "モノローグ",
-            "text": "誤解されたのか、否か……真実は不明だが、<n>タイキシャトルが嬉しそうなので、\nよしとするのだった。"
+            "name": "Monologue",
+            "text": "I can't be sure if they got the right<n>message, but as\nlong as Taiki Shuttle<n>seems happy, I suppose it's\nokay."
         }
     ]
 }

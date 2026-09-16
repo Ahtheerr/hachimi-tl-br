@@ -2,195 +2,195 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "T.M. Opera O and I are on our way<n>back to the\nacademy when..."
+            "text": "T.M. Opera O e eu estamos voltando<n>para a\nacademia quando..."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Oh? And who might you be?"
+            "text": "Oh? E quem poderia ser você?"
         },
         {
-            "name": "Girl in Pajamas",
-            "text": "Um... Uh... I...",
+            "name": "Garota de Pijamas",
+            "text": "Hum... Ah... Eu...",
             "choice_data_list": [
-                "(A child in pajamas? Alone out here?)"
+                "(Uma criança de pijama? Sozinha por aqui?)"
             ]
         },
         {
-            "name": "Girl in Pajamas",
-            "text": "I-I really wanted to meet you, Opera O,<n>but... but...\n<i>Sniffle... sob...</i>"
+            "name": "Garota de Pijamas",
+            "text": "E-Eu queria muito conhecer você,<n>Opera O, mas...\nmas... <i>Snif... soluço...</i>"
         },
         {
             "name": "T.M. Opera O",
-            "text": "Ah-ha, no need for tears. While they<n>do glisten like\nbeautiful pearls, a smile<n>suits you so much better.",
+            "text": "Ah-ha, não há necessidade de<n>lágrimas. Embora\nbrilhem como belas<n>pérolas, um sorriso lhe cai\nmuito<n>melhor.",
             "choice_data_list": [
-                "Are her parents around?"
+                "Os pais dela estão por perto?"
             ]
         },
         {
             "name": "T.M. Opera O",
-            "text": "Hmm... She appears to be lost."
+            "text": "Hmm... Parece que ela está perdida."
         },
         {
-            "name": "Girl in Pajamas",
-            "text": "<i>H-hic...</i> O-Op... Um, Opera O... <i>Sniffle!</i>"
+            "name": "Garota em Pijamas",
+            "text": "<i>H-hic...</i> O-Op... Hum, Opera O... <i>Snif!</i>"
         },
         {
             "name": "Monólogo",
-            "text": "We'll need to calm her down first<n>before we can\nhelp her."
+            "text": "Primeiro precisamos acalmá-la antes<n>de podermos\najudá-la."
         },
         {
             "name": "T.M. Opera O",
-            "text": "I am honored to meet you, Princess!<n>Should you\nhave no prior<n>engagement..."
+            "text": "É uma honra conhecê-la, Princesa!<n>Caso não tenha\nnenhum<n>compromisso..."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Might I, the Overlord, be of service to<n>you as your\nescort?"
+            "text": "Poderia eu, a Soberana, prestar-lhe<n>meus serviços\ncomo sua escolta?"
         },
         {
-            "name": "Girl in Pajamas",
+            "name": "Garota em Pijamas",
             "text": "...!"
         },
         {
             "name": "Monólogo",
-            "text": "T.M. Opera O holds out her hand, and<n>the girl stops\ncrying as she timidly<n>takes it. We should take her to\nthe<n>police station first."
+            "text": "T.M. Opera O estende a mão, e a<n>menina para de\nchorar ao segurá-la<n>timidamente. Devemos levá-la\nprimeiro à delegacia."
         },
         {
             "name": "Monólogo",
-            "text": "Opera O agrees, but just as we turn<n>to go..."
+            "text": "Opera O concorda, mas, assim que<n>nos viramos\npara partir..."
         },
         {
-            "name": "Nurse",
-            "text": "Ah, there you are! I'm so sorry for<n>the trouble!"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Oh... You are a nurse, I take it? Do you<n>know this\nlittle one?"
-        },
-        {
-            "name": "Nurse",
-            "text": "Y-yes... She's a patient at the—wait...<n>Aren't you\nT.M. Opera O?!"
+            "name": "Enfermeira",
+            "text": "Ah, aí está você! Sinto muito por todo<n>o transtorno!"
         },
         {
             "name": "T.M. Opera O",
-            "text": "Oh? I see you know me. Well, of<n>course you would\nhave knowledge of<n>my name!"
+            "text": "Oh... Você é enfermeira, suponho?<n>Conhece esta\npequena?"
         },
         {
-            "name": "Nurse",
-            "text": "That girl is a fan of yours... and it<n>seems she snuck\noff after finding out<n>Tracen Academy was nearby."
-        },
-        {
-            "name": "Nurse",
-            "text": "You can't do that, understand? We<n>were all so\nworried about you."
-        },
-        {
-            "name": "Girl in Pajamas",
-            "text": "I... I-I... um... S-sorry... <i>Hic!</i>"
+            "name": "Enfermeira",
+            "text": "S-Sim... Ela é uma paciente<n>do—espere... Você não é\na T.M. Opera<n>O?!"
         },
         {
             "name": "T.M. Opera O",
-            "text": "I ask that you please excuse her just<n>this once!\nMy captivating beauty is to<n>blame."
+            "text": "Oh? Vejo que me conhece. Bem, é<n>claro que teria\nconhecimento do meu<n>nome!"
+        },
+        {
+            "name": "Enfermeira",
+            "text": "Essa menina é sua fã... e parece que<n>ela escapou\ndepois de descobrir que<n>a Tracen Academy ficava\npor perto."
+        },
+        {
+            "name": "Enfermeira",
+            "text": "Você não pode fazer isso, entendeu?<n>Ficamos\ntodas muito preocupadas<n>com você."
+        },
+        {
+            "name": "Garota em Pijamas",
+            "text": "Eu... E-Eu... hum... D-Desculpe... <i>Hic!</i>"
         },
         {
             "name": "T.M. Opera O",
-            "text": "As an apology, I offer you a collectible<n>photograph\nof myself—no! Ten copies<n>of my film, <i>24 Hours with\nYou: An<n>Opera Anthology</i> for you and every<n>person\nat the hospital as well!"
-        },
-        {
-            "name": "Nurse",
-            "text": "Oh, um... That's very nice of you, but,<n>well...\nAnyways, thank you for looking<n>after her!"
+            "text": "Peço que a perdoe apenas desta vez!<n>Minha beleza\ncativante é a culpada."
         },
         {
             "name": "T.M. Opera O",
-            "text": "<i>Sigh...</i> Sneaking out of a hospital all<n>just to meet\nme."
+            "text": "Como pedido de desculpas,<n>ofereço-lhe uma\nfotografia<n>colecionável minha — não! Dez cópias<n>do\nmeu filme, <i>24 Horas com Você:<n>Uma Antologia de\nOpera</i>, para você e<n>todas as pessoas do hospital\ntambém!"
+        },
+        {
+            "name": "Enfermeira",
+            "text": "Oh, hum... Isso é muito gentil da sua<n>parte, mas,\nbem... Enfim, obrigada por<n>cuidar dela!"
         },
         {
             "name": "T.M. Opera O",
-            "text": "How corruptible it is, this beauty of<n>mine!",
+            "text": "<i>Suspiro...</i> Escapar de um hospital só<n>para me\nconhecer."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Como é facilmente corrompível esta<n>minha beleza!",
             "choice_data_list": [
-                "She was crying, too.",
-                "She was crying, too."
+                "Ela também estava chorando.",
+                "Ela também estava chorando."
             ]
         },
         {
             "name": "T.M. Opera O",
-            "text": "Yes, from the joy of meeting me, and<n>from\nreflecting on the hardship of her<n>solitary journey."
+            "text": "Sim, pela alegria de me conhecer e<n>por refletir sobre\nas dificuldades de<n>sua jornada solitária."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Cars and signage abound in this<n>place. Many a\nthing must appear a<n>giant monstrosity to a child of\nher age."
+            "text": "Carros e placas abundam neste<n>lugar. Tantas\ncoisas devem parecer<n>monstruosidades\ngigantescas para<n>uma criança de sua idade."
         },
         {
             "name": "T.M. Opera O",
-            "text": "But she overcame her fears all for the<n>sake of\nseeing me with her own<n>eyes."
+            "text": "Mas ela superou seus medos<n>apenas para me ver\ncom os próprios<n>olhos."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Relief, joy, and a sense of<n>accomplishment surely\nenveloped her<n>upon arrival... That is to say, those\ntears were proof of her courage."
+            "text": "Alívio, alegria e uma sensação de<n>realização\ncertamente a envolveram<n>ao chegar... Em outras\npalavras,<n>aquelas lágrimas eram uma prova de<n>sua\ncoragem."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Ahh! Such an admirable soul! I must<n>open my heart\nto such purity!"
+            "text": "Ahh! Que alma admirável! Preciso<n>abrir meu\ncoração para tamanha<n>pureza!"
         },
         {
             "name": "Monólogo",
-            "text": "Opera O comprehends the entire well<n>of emotion\nbehind the girl's tears."
+            "text": "Opera O compreende todo o oceano<n>de emoções\npor trás das lágrimas da<n>menina."
         },
         {
             "name": "T.M. Opera O",
-            "text": "However! Sneaking away from a<n>hospital is an act\nfar too dangerous!"
+            "text": "Porém! Escapar de um hospital é um<n>ato perigoso\ndemais!"
         },
         {
             "name": "T.M. Opera O",
-            "text": "I must offer a gift that will both ease<n>her heart and\ncurb those impulses.",
+            "text": "Preciso oferecer um presente que<n>tanto acalme seu\ncoração quanto<n>contenha esses impulsos.",
             "choice_data_list": [
-                "How about you inspire her with your efforts?",
-                "How about a small present?"
+                "Que tal inspirá-la com seus esforços?",
+                "Que tal um presentinho?"
             ]
         },
         {
             "name": "T.M. Opera O",
-            "text": "...Indeed, that would be best."
+            "text": "...De fato, isso seria o melhor."
         },
         {
             "name": "T.M. Opera O",
-            "text": "We must begin training right away,<n>Trainer!",
+            "text": "Devemos começar o treinamento<n>imediatamente,\nTreinador!",
             "choice_data_list": [
-                "Absolutely!",
-                "Absolutely!"
+                "Com certeza!",
+                "Com certeza!"
             ]
         },
         {
             "name": "T.M. Opera O",
-            "text": "I will create a short, two-hour piece<n>which can be\nperformed within<n>visitation hours. With me in the\nstarring role, it shall be an excellent<n>opera!",
+            "text": "Criarei uma peça curta, de duas<n>horas, que poderá\nser apresentada<n>durante o horário de visitas.\nComigo<n>no papel principal, será uma ópera\nmagnífica!",
             "choice_data_list": [
-                "What?!"
+                "O quê?!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I manage to convince her that, instead<n>of an opera,\nher brilliance on the<n>racetrack would be a better gift."
+            "text": "Consigo convencê-la de que, em vez<n>de uma ópera,\nseu esplendor na pista<n>de corrida seria um\npresente melhor."
         },
         {
             "name": "T.M. Opera O",
-            "text": "An excellent idea!"
+            "text": "Uma excelente ideia!"
         },
         {
             "name": "T.M. Opera O",
-            "text": "Then what are we waiting for? There<n>are\npreparations to be made, Trainer!",
+            "text": "Então, o que estamos esperando?<n>Temos\npreparativos a fazer,<n>Treinador!",
             "choice_data_list": [
-                "Preparations?"
+                "Preparativos?"
             ]
         },
         {
             "name": "T.M. Opera O",
-            "text": "For the photographs, of course! Her<n>album of me\nwill not fill itself!"
+            "text": "Para as fotografias, é claro! O álbum<n>dela comigo\nnão vai se preencher<n>sozinho!"
         },
         {
             "name": "T.M. Opera O",
-            "text": "Me during twilight, me under<n>starlight... Ah yes, and\nme at dawn!"
+            "text": "Eu ao entardecer, eu sob a luz das<n>estrelas... Ah,\nsim, e eu ao<n>amanhecer!"
         },
         {
             "name": "Monólogo",
-            "text": "And so, T.M. Opera O adamantly<n>insists that I help\nwith taking her<n>photos."
+            "text": "E assim, T.M. Opera O insiste<n>veementemente que\neu a ajude a<n>tirar suas fotos."
         }
     ]
 }

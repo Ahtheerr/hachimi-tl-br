@@ -2,109 +2,109 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "One day, T.M. Opera O and I are<n>training on a dirt\ntrack, when..."
+            "text": "Um dia, T.M. Opera O e eu estamos<n>treinando em\numa pista de terra<n>quando..."
         },
         {
             "name": "T.M. Opera O",
-            "text": "<i>Phew...</i> Hmm?"
+            "text": "<i>Ufa...</i> Hmm?"
         },
         {
             "name": "T.M. Opera O",
-            "text": "Trainer, could you bring me a mirror? I<n>must confirm\nsomething about my<n>beauty.",
+            "text": "Treinador, poderia me trazer um<n>espelho? Preciso\nconfirmar algo<n>sobre minha beleza.",
             "choice_data_list": [
-                "Sure, but what?"
+                "Claro, mas o quê?"
             ]
         },
         {
             "name": "T.M. Opera O",
-            "text": "I'm concerned about the mud being<n>kicked about\nwhile running. I would<n>check that it hasn't soiled\nmy face."
+            "text": "Estou preocupada com a lama que é<n>lançada\nenquanto corremos. Quero<n>verificar se ela não\nsujou meu rosto."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Not that anything could ever hinder<n>my\nresplendence!"
-        },
-        {
-            "name": "",
-            "text": "I don't see anything, but I go get a<n>mirror for her\nanyway."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Yes, yes, that angle is perfect. Now,<n>pardon me a\nmoment..."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "It cannot be!",
-            "choice_data_list": [
-                "What's wrong?!",
-                "What's wrong?!"
-            ]
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "My beauty has reached such a<n>magnitude without\nmy knowledge?!"
-        },
-        {
-            "name": "",
-            "text": "See for yourself. Do I not appear<n>more dazzling and\ngallant than ever<n>before?"
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Heh... In recent races, I had sensed a<n>difference in\nthe crowd's gaze while<n>being showered by their\novations."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "But who would blame them? None are<n>capable of\nresisting this magnificent<n>aura!",
-            "choice_data_list": [
-                "...True.",
-                "...True."
-            ]
-        },
-        {
-            "name": "",
-            "text": "You need not be shy. Look at me.<n>Take aaall the\ntime you need."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "It is by natural law that flowers<n>captivate. Truly, you\nmust wish to<n>spend your time gazing at me, the\ngreatest flower of them all."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "<i>Sigh...</i> Have the stretchers on standby<n>for the next\nrace. Some are bound to<n>faint when met with this\nsight."
-        },
-        {
-            "name": "T.M. Opera O",
-            "text": "Alas... This is the burden I must bear<n>for being so\nbeautiful. But bear it I<n>shall!"
+            "text": "Não que algo pudesse jamais<n>macular meu\nesplendor!"
         },
         {
             "name": "Monólogo",
-            "text": "She's more fascinated with herself<n>than usual."
+            "text": "Não vejo nada de diferente, mas<n>mesmo assim\nvou buscar um<n>espelho para ela."
         },
         {
             "name": "T.M. Opera O",
-            "text": "<i>Sigh...</i> To think, how gorgeous I've<n>become...",
+            "text": "Sim, sim, esse ângulo está perfeito.<n>Agora,\npermita-me um instante..."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Não pode ser!",
             "choice_data_list": [
-                "Um, you look the same to me."
+                "O que houve?!",
+                "O que houve?!"
             ]
         },
         {
             "name": "T.M. Opera O",
-            "text": "Heh... It seems your eyes are in need<n>of refinement,\nTrainer."
+            "text": "Minha beleza atingiu tamanha<n>magnitude sem que\neu sequer<n>percebesse?!"
         },
         {
             "name": "T.M. Opera O",
-            "text": "But fear not! I shall impart unto you<n>the key to\nseeing the finest<n>aesthetics."
+            "text": "Veja você mesmo. Eu não pareço<n>mais\ndeslumbrante e galante do que<n>nunca?"
         },
         {
             "name": "T.M. Opera O",
-            "text": "Look upon me one hundred times<n>every day. Hehe,\nI know. How could it<n>be so simple?"
+            "text": "Heh... Nas corridas recentes, percebi<n>uma diferença\nno olhar da multidão<n>enquanto era banhada por\nsuas<n>ovações."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Who better to study if you are to learn<n>what beauty\nentails? Ah yes, write a<n>report as well. I shall\nassign a grade<n>for each one you submit."
+            "text": "Mas quem poderia culpá-los?<n>Ninguém é capaz de\nresistir a esta<n>aura magnífica!",
+            "choice_data_list": [
+                "...É verdade.",
+                "...É verdade."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Não precisa ficar acanhado. Olhe para<n>mim. Leve\ntooodo o tempo que<n>precisar."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "É uma lei natural que as flores<n>cativem.\nVerdadeiramente, você deve<n>desejar passar seu\ntempo<n>contemplando a mim, a maior de<n>todas as\nflores."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Suspiro...</i> Deixem as macas de<n>prontidão para a\npróxima corrida. É<n>certo que alguns desmaiarão\ndiante<n>de tamanha visão."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Ah, céus... Este é o fardo que devo<n>carregar por ser\ntão bela. Mas eu o<n>suportarei!"
         },
         {
             "name": "Monólogo",
-            "text": "And so, I'm forced to gaze upon<n>Opera O's face for\nquite a long while."
+            "text": "Ela está mais fascinada consigo<n>mesma do que de\ncostume."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Suspiro...</i> Pensar que me tornei tão<n>deslumbrante...",
+            "choice_data_list": [
+                "Hum, para mim, você continua igual."
+            ]
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Heh... Parece que seus olhos<n>precisam ser\nrefinados, Treinador."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Mas não tema! Eu lhe ensinarei a<n>chave para\ncontemplar a mais<n>sublime das estéticas."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Olhe para mim cem vezes todos os<n>dias. Hehe, eu\nsei. Como poderia ser<n>tão simples?"
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "Quem seria melhor para estudar, se<n>deseja\naprender o que é a<n>verdadeira beleza? Ah, sim,\nescreva<n>um relatório também. Darei uma nota<n>para\ncada um que você entregar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, sou obrigado a contemplar o<n>rosto de\nOpera O por um bom tempo."
         }
     ]
 }

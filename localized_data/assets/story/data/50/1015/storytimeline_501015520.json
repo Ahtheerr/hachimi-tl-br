@@ -2,66 +2,66 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "One day, when visiting the library..."
+            "text": "Um dia, ao visitar a biblioteca..."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Please... I beseech you!"
+            "text": "Por favor... Eu imploro!"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "O-Opera O? This is a library..."
+            "text": "O-Opera O? Esta é uma biblioteca..."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Oh! A thousand pardons. To violate<n>the library's\ncode of conduct is a<n>betrayal of beauty itself. As\nsuch...<n>Ahem..."
+            "text": "Oh! Mil perdões. Violar o código de<n>conduta da\nbiblioteca seria uma<n>traição à própria beleza. Sendo\nassim... Ahem..."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Please... I beseech you..."
+            "text": "Por favor... Eu imploro..."
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "Um, your voice is softer this time, but...",
+            "text": "Hmm, sua voz está mais baixa desta<n>vez, mas...",
             "choice_data_list": [
-                "What's going on here?",
-                "What's going on here?"
+                "O que está acontecendo aqui?",
+                "O que está acontecendo aqui?"
             ]
         },
         {
             "name": "T.M. Opera O",
-            "text": "Ah, fine trainer. Assist me in my<n>endeavor, would\nyou?"
+            "text": "Ah, queridíssimo Treinador. Poderia<n>me auxiliar em\nmeu intento?"
         },
         {
             "name": "T.M. Opera O",
-            "text": "For she is the scholar of songs who<n>holds\nknowledge of the composition I<n>seek.",
+            "text": "Pois ela é a erudita das canções que<n>detém o\nconhecimento da<n>composição que procuro.",
             "choice_data_list": [
-                "A scholar of songs?"
+                "Uma erudita das canções?"
             ]
         },
         {
-            "name": "",
-            "text": "Th-that phrasing is somewhat<n>perplexing..."
+            "name": "Zenno Rob Roy",
+            "text": "E-essa forma de dizer é um tanto<n>quanto confusa..."
         },
         {
             "name": "Monólogo",
-            "text": "I ask for a quick summary to get up to<n>speed."
+            "text": "Peço um breve resumo para que eu<n>possa me\ninteirar."
         },
         {
             "name": "Monólogo",
-            "text": "As it turns out, T.M. Opera O has come<n>here to ask\nZenno Rob Roy for opera<n>recommendations."
+            "text": "Acontece que T.M. Opera O veio aqui<n>para pedir\nrecomendações de óperas<n>a Zenno Rob Roy."
         },
         {
             "name": "T.M. Opera O",
-            "text": "She is a veritable fountain of<n>knowledge! I would\ninvite her<n>expertise for the benefit of my\ndramaturgy!"
-        },
-        {
-            "name": "",
-            "text": "Th-that's... You're exaggerating."
+            "text": "Ela é uma verdadeira fonte de<n>conhecimento! Eu\nconvidaria sua<n>expertise para enriquecer minha\ndramaturgia!"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "I-I simply like to read books. I'm<n>nowhere near\nqualified to handle<n>such a high request."
+            "text": "I-isso... Você está exagerando."
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "E-eu simplesmente gosto de ler<n>livros. Não tenho\nnem de longe<n>qualificação para atender a um\npedido<n>tão grandioso."
         },
         {
             "name": "T.M. Opera O",
@@ -89,38 +89,38 @@
         },
         {
             "name": "Monólogo",
-            "text": "Zenno Rob Roy is beyond confused. It<n>looks like I\nneed to step in.",
+            "text": "Zenno Rob Roy está completamente<n>confusa.\nParece que preciso intervir.",
             "choice_data_list": [
-                "In layman's terms?"
+                "Em termos mais simples?"
             ]
         },
         {
             "name": "T.M. Opera O",
-            "text": "There are none. When an<n>assessment is made, it\nmust be made<n>rightly. Am I wrong?"
+            "text": "Não há nenhuma. Quando uma<n>avaliação é feita, ela\ndeve ser feita<n>corretamente. Estou errada?"
         },
         {
             "name": "T.M. Opera O",
-            "text": "Rob Roy, your intimate knowledge of<n>books runs\ndeep. You should be<n>praised for it and proud of it."
+            "text": "Rob Roy, seu conhecimento íntimo<n>dos livros é\nprofundo. Você deve ser<n>elogiada por isso e se\norgulhar dele."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Never should it be taken lightly, even<n>by yourself."
+            "text": "Jamais deve ser menosprezado, nem<n>mesmo por\nvocê."
         },
         {
             "name": "Zenno Rob Roy",
             "text": "...!",
             "choice_data_list": [
-                "It's true.",
-                "It's true."
+                "...! É verdade.",
+                "É verdade."
             ]
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "You both think so?"
+            "text": "Vocês realmente acham isso?"
         },
         {
             "name": "T.M. Opera O",
-            "text": "So, I beg of you once again—might you<n>recommend\na play worthy of one<n>such as I?"
+            "text": "Então, imploro mais uma vez —<n>poderia me\nrecomendar uma peça<n>digna de alguém como eu?"
         },
         {
             "name": "Zenno Rob Roy",
@@ -128,67 +128,67 @@
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "Very well. I'll pick what I consider to<n>be the finest of\nworks!"
+            "text": "Muito bem. Escolherei aquela que<n>considero a mais\ngrandiosa das<n>obras!"
         },
         {
             "name": "Monólogo",
-            "text": "Zenno Rob Roy comes back with two<n>scripts of\nrecommendation."
+            "text": "Zenno Rob Roy retorna com dois<n>roteiros\nrecomendados."
         },
         {
             "name": "Monólogo",
-            "text": "The one we decide to read first is...",
+            "text": "A primeira que decidimos ler é...",
             "choice_data_list": [
-                "An epic about a racing deity.",
-                "The tale of a heroic savior of the people."
+                "Uma epopeia sobre uma divindade das corridas.",
+                "O conto de uma heroica salvadora do povo."
             ]
         },
         {
             "name": "T.M. Opera O",
-            "text": "Heh-heh, what a coincidence. I have<n>been meaning\nto read that very one!"
+            "text": "Heh-heh, que coincidência. Eu estava<n>mesmo\npensando em ler justamente<n>essa!"
         },
         {
             "name": "Monólogo",
-            "text": "Opera O and I absorb ourselves in the<n>story."
+            "text": "Opera O e eu mergulhamos na<n>história."
         },
         {
             "name": "T.M. Opera O",
-            "text": "What is it thou desires?"
+            "text": "O que desejas?"
         },
         {
             "name": "T.M. Opera O",
-            "text": "Speed? So be it... Now, go forth."
+            "text": "Velocidade? Assim seja... Agora,<n>avança."
         },
         {
             "name": "Monólogo",
-            "text": "I'm not sure what's come over T.M.<n>Opera O, but\nit's having a positive<n>effect on her running."
+            "text": "Não tenho certeza do que deu em<n>T.M. Opera O,\nmas isso está tendo um<n>efeito positivo em sua\ncorrida."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Heh-heh, what a coincidence. I have<n>been meaning\nto read that very one!"
+            "text": "Heh-heh, que coincidência. Eu estava<n>mesmo\npensando em ler justamente<n>essa!"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "Um, Opera O! I've procured another<n>book for you\ntoday!"
+            "text": "Hmm, Opera O! Consegui outro livro<n>para você\nhoje!"
         },
         {
             "name": "T.M. Opera O",
-            "text": "Ah! Thank you... Hehe, I can hardly<n>wait to read it.",
+            "text": "Ah! Obrigada... Hehe, mal posso<n>esperar para lê-lo.",
             "choice_data_list": [
-                "She gave you another recommendation?",
-                "She gave you another recommendation?"
+                "Ela lhe deu outra recomendação?",
+                "Ela lhe deu outra recomendação?"
             ]
         },
         {
             "name": "T.M. Opera O",
-            "text": "Yes, I have the urge to read more<n>heroic tales.\nPeople yearn for heroes<n>of all shapes and sizes."
+            "text": "Sim, sinto o desejo de ler mais<n>contos heroicos. As\npessoas<n>anseiam por heróis de todas as<n>formas e\ntamanhos."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Heh... It seems the hero of her<n>dreams and I, the\nOverlord, somewhat<n>differ."
+            "text": "Heh... Parece que o herói dos sonhos<n>dela e eu, a\nSoberana, somos um<n>tanto diferentes."
         },
         {
             "name": "Monólogo",
-            "text": "Reading books seems to have helped<n>T.M. Opera O\ncome to a realization."
+            "text": "Ler livros parece ter levado T.M.<n>Opera O a uma\ndescoberta."
         }
     ]
 }

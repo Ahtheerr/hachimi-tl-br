@@ -2,38 +2,38 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "One day, as I'm walking down the<n>hallway with\nT.M. Opera O..."
+            "text": "Um dia, enquanto caminho pelo<n>corredor com T.M.\nOpera O..."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Ohh, the humanity!"
+            "text": "Ó, humanidade!"
         },
         {
             "name": "T.M. Opera O",
-            "text": "This skin of mine, so fine and soft,<n>would have me\nheralded as this<n>generation's Cleopatra..."
+            "text": "Esta minha pele, tão fina e macia,<n>deveria me\nconsagrar como a<n>Cleópatra desta geração..."
         },
         {
             "name": "T.M. Opera O",
-            "text": "But alas! Such a hideous deformation<n>has\nappeared!",
+            "text": "Mas, ai de mim! Uma deformidade<n>horrenda surgiu!",
             "choice_data_list": [
-                "I don't see anything different..."
+                "Não vejo nada de diferente..."
             ]
         },
         {
             "name": "T.M. Opera O",
-            "text": "Your eyes fail you! Look here, at my<n>index finger!"
-        },
-        {
-            "name": "",
-            "text": "On closer inspection, I do see a<n>sore-looking spot\non the very tip of<n>her finger, but it's barely\nnoticeable."
-        },
-        {
-            "name": "",
-            "text": "<i>Sigh...</i> Can you even comprehend it?<n>No amount of\ngrieving will resolve my<n>woe."
+            "text": "Seus olhos lhe pregam peças! Veja<n>aqui, no meu\ndedo indicador!"
         },
         {
             "name": "Monólogo",
-            "text": "Apparently, a tiny rash proves a<n>major problem to\nOpera O. She<n>couldn't be more devastated."
+            "text": "Observando mais de perto, consigo<n>ver uma\npequena área irritada bem<n>na ponta do dedo dela,\nmas é quase<n>imperceptível."
+        },
+        {
+            "name": "T.M. Opera O",
+            "text": "<i>Suspiro...</i> Você sequer consegue<n>compreender? Não\nhá lamento algum<n>que possa remediar minha\ndesgraça."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Aparentemente, uma minúscula<n>irritação é um\nproblema de<n>proporções colossais para Opera O.<n>Ela\nnão poderia estar mais<n>devastada."
         }
     ]
 }

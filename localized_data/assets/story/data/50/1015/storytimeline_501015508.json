@@ -2,29 +2,29 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "T.M. Opera O seems tired, so I<n>suggest we go for a\nwalk. Soon<n>enough, we're stopped by a few<n>fans."
+            "text": "T.M. Opera O parece cansada, então<n>sugiro que\nfaçamos uma caminhada.<n>Pouco depois, somos\nabordados por<n>alguns fãs."
         },
         {
             "name": "T.M. Opera O",
-            "text": "Hehe! Thank you for your gracious<n>support! I shall\nreturn all your favor<n>with... an opera of gratitude!",
+            "text": "Hehe! Obrigada por todo o apoio e<n>carinho!\nRetribuirei todo esse afeto<n>com... uma ópera de\ngratidão!",
             "choice_data_list": [
-                "Wait, right now?"
+                "Você vai fazer isso agora?"
             ]
         },
         {
             "name": "T.M. Opera O",
-            "text": "<i>Huff... Puff...</i> D-did you see their<n>beaming faces?\nMy brilliance has<n>come through once again!",
+            "text": "<i>*Ofegante*... Ufa...</i> V-você viu o brilho<n>nos rostos\ndeles? Meu esplendor se<n>fez presente mais uma\nvez!",
             "choice_data_list": [
-                "Isn't it exhausting to perform an opera each time\nyou want to thank your fans?"
+                "Não é cansativo apresentar uma ópera toda vez\nque você quer agradecer aos seus fãs?"
             ]
         },
         {
             "name": "T.M. Opera O",
-            "text": "Noblesse oblige. Even in the most<n>inclement of\nweather, the sun must<n>rise to bring light to the\nworld."
+            "text": "Noblesse oblige. Mesmo sob as<n>condições\nclimáticas mais adversas,<n>o sol deve nascer para\ntrazer luz ao<n>mundo."
         },
         {
-            "name": "",
-            "text": "On top of her races, her efforts to<n>please her fans\nare taking a toll on<n>her. Maybe I should adjust her\nracing<n>schedule."
+            "name": "Monólogo",
+            "text": "Além das corridas, os esforços dela<n>para agradar\naos fãs também estão<n>cobrando seu preço. Talvez\neu deva<n>ajustar sua agenda de corridas."
         }
     ]
 }

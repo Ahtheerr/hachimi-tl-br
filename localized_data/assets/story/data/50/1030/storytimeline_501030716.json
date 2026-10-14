@@ -1,0 +1,42 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Rice Shower and I arrive at the<n>cafeteria for lunch."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Apple pie slices! They look so<n>yummy..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But... I shouldn't...",
+            "choice_data_list": [
+                "Why not?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um... In children's stories all over the<n>world, there\nare lots of greedy bad<n>guys that eat too much."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I eat a lot too... What if I turn evil?",
+            "choice_data_list": [
+                "You've got plenty of time before that happens."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "M-maybe..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But... I'm going to resist. I don't want<n>to turn into a\nbad guy!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "After that, I begin to notice Rice<n>Shower carefully\nwatching her portion<n>sizes."
+        }
+    ]
+}

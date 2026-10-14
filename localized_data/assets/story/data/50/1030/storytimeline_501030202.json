@@ -1,0 +1,40 @@
+{
+    "text_block_list": [
+        {
+            "name": "Spectators",
+            "text": "Bour-bon! Bour-bon!"
+        },
+        {
+            "name": "Caster",
+            "text": "Just listen to that crowd! The cheers<n>of those\nexcited to see the birth of a<n>champion echo\nthroughout the<n>grounds!"
+        },
+        {
+            "name": "Caster",
+            "text": "Who will be this year's Derby<n>Champion? The\nJapanese Derby is<n>starting soon!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Everyone is cheering for Bourbon...",
+            "choice_data_list": [
+                "Don't let it get to you.",
+                "Don't let it get to you."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Right. This is just like any other<n>race. I have to\nfocus."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I have only one goal, and one goal<n>only—to catch up\nto Bourbon."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Thank you, Big Brother. I'm off."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Thank you, Big Sister. I'm off."
+        }
+    ]
+}

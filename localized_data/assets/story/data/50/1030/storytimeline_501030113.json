@@ -1,0 +1,211 @@
+{
+    "text_block_list": [
+        {
+            "name": "Rice Shower",
+            "text": "Whoa! So... many... people! And they<n>all have a\ntwinkle in their eye."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Today, Rice Shower and I are<n>watching the spring\nTenno Sho.",
+            "color_text_info_list": [
+                "spring Tenno Sho"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "One week ago, during training..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Huff... puff...</i>"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "<i>Wheeze... wheeze...</i> Rice... wait up..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Huh? Wh-wh-what is it?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "(This is Sakura Bakushin O. She's in<n>Rice Shower's\nyear, and she excels<n>in sprints.)",
+            "color_text_info_list": [
+                "Sakura Bakushin O"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "To tell you the truth, I have some<n>class\nrepresentative responsibilities I<n>was supposed to\ntake care of, but I<n>decided to run with you instead.",
+            "choice_data_list": [
+                "(I don't remember her asking for a partner run...)",
+                "(I don't remember her asking for a partner run...)"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Your stamina is off the charts! So I'm<n>going to\nmake a suggestion!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "As a fellow long-distance runner, I<n>want you to\ncome watch the spring<n>Tenno Sho with me!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You want to watch the Tenno Sho...<n>together?",
+            "color_text_info_list": [
+                "Tenno Sho"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yep, together! Working with my fellow<n>classmates\nto help them discover<n>their hidden talents is one of\nmy<n>duties as class representative, after<n>all!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "While I wouldn't call it a \"hidden\"<n>talent, Sakura\nBakushin O is correct.<n>Rice Shower has what it\ntakes to be a<n>long-distance stayer."
+        },
+        {
+            "name": "Monólogo",
+            "text": "And the spring Tenno Sho may<n>someday be a goal\nof hers.",
+            "choice_data_list": [
+                "Guess we're going to Kyoto then."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "A-are you sure?"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Yay! I would have been so lonely<n>going on my own!\nAlso, we have a<n>snack budget of 300 yen!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Actually... it kind of feels like we're<n>going on a field\ntrip. Hehe, I'm getting<n>excited!"
+        },
+        {
+            "name": "Caster",
+            "text": "Rounding the fourth corner with 600<n>meters left to\nthe finish line, the leader<n>is... Mejiro McQueen!",
+            "color_text_info_list": [
+                "Mejiro McQueen"
+            ]
+        },
+        {
+            "name": "Spectators",
+            "text": "Gooo, McQueen! Make them eat your<n>dust!",
+            "color_text_info_list": [
+                "McQueen"
+            ]
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Whoa! This is a close one! I'm gonna<n>go get a\nbetter view."
+        },
+        {
+            "name": "Caster",
+            "text": "Mejiro McQueen is widening her<n>lead! No matter\nhow hard the racers<n>behind her run..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...!"
+        },
+        {
+            "name": "Caster",
+            "text": "They can't reach her! No one can<n>come close to\nher!"
+        },
+        {
+            "name": "Caster",
+            "text": "In a display of incredible speed,<n>Mejiro McQueen\ncrosses the finish<n>line in first! What a sight!"
+        },
+        {
+            "name": "Spectators",
+            "text": "Congrats! Good job, McQueen!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Thank you, everyone! It's thanks to<n>your support\nthat I managed to seize<n>victory!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Wooooo!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...",
+            "choice_data_list": [
+                "You were on the edge of your seat, weren't you?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah... She was incredible. So skilled...<n>and so\nradiant!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "The farther McQueen ran, the more<n>everyone\nsmiled..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "She's just like the blue rose from the<n>picture book!",
+            "choice_data_list": [
+                "The blue rose..."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Yeah, the blue rose that brings<n>happiness to\neveryone!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Rice Shower excitedly retells the story<n>of <i>The Blue\nRose of Good Fortune.</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "In a garden full of roses, a single blue<n>rose bud\nsuddenly bloomed."
+        },
+        {
+            "name": "Monólogo",
+            "text": "There had never been a blue rose<n>before, and the\npeople feared it. They<n>called it the \"flower of\nmisfortune\"<n>and kept their distance."
+        },
+        {
+            "name": "Monólogo",
+            "text": "But one day, someone bought the<n>rose. \"Why, this\nblue rose is simply<n>magnificent!\" they exclaimed."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Then they—Big Brother—placed the<n>blue rose on his\nwindowsill, and it<n>bloomed so beautifully..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Then they—Big Sister—placed the blue<n>rose on her\nwindowsill, and it<n>bloomed so beautifully..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "That the people walking by would<n>smile from the\nbottom of their hearts<n>when they saw it."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Well, McQueen has always been<n>well-liked, so it's\nnot exactly the<n>same."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But... I want to be like that. I want to<n>be someone\nwho brings happiness<n>instead of misfortune.",
+            "choice_data_list": [
+                "You <i>can</i> be that person."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Hehe. You don't have to try and<n>cheer me up."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But, if it's possible... I <i>would</i> like to<n>be."
+        },
+        {
+            "name": "Monólogo",
+            "text": "We watch Mejiro McQueen for a<n>while longer and\nthen head home."
+        }
+    ]
+}

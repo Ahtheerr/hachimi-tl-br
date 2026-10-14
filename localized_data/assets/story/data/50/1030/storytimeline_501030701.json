@@ -1,0 +1,48 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "I'm prepping for Rice Shower's early<n>morning\ntraining when I hear<n>someone arrive."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Good morning, Big Brother... What<n>training are we\ngoing to do today?",
+            "choice_data_list": [
+                "You're up early. Did something good happen?",
+                "You're up early. Did something good happen?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Good morning, Big Sister... What<n>training are we\ngoing to do today?",
+            "choice_data_list": [
+                "You're up early. Did something good happen?",
+                "You're up early. Did something good happen?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Actually, I had a really great dream<n>last night!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I was training with you at night in a<n>beautiful field..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I was training with you at night in a<n>beautiful field..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "But the stars were so pretty, we<n>stopped in the\nmiddle of training to<n>gaze at them together..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "It was such a relaxing dream, but<n>since I got my\nrest there, I know I<n>have to work extra hard in\ntraining<n>here!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seems like Rice Shower got a good<n>rest."
+        }
+    ]
+}

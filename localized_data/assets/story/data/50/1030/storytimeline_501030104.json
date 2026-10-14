@@ -1,0 +1,242 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Rice Shower has been working hard<n>during summer\ncamp. One day, when<n>we're about to finish our\nmorning<n>training session and grab some<n>lunch..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Pant... pant...</i> Wait! I can keep going!",
+            "choice_data_list": [
+                "It's about time you take a break..."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "It's okay... I'm fine. Actually—"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "<i>Huff... puff...</i>"
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "A new record. But five seconds short<n>of my ideal\ntime... Resuming training."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Please... just let me do one more lap.",
+            "choice_data_list": [
+                "...Just one."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Please... just let me do one more lap.",
+            "choice_data_list": [
+                "...Just one."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Thanks!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "With that, Rice Shower runs off."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah! There she goes!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Aw, maaan! I really wanted to talk to<n>her, too!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "(Haru Urara... She's a good-natured<n>girl adored by\neveryone. She's also<n>one of Rice Shower's pals.)",
+            "choice_data_list": [
+                "Is there something you want to talk to Rice about?",
+                "Is there something you want to talk to Rice about?"
+            ],
+            "color_text_info_list": [
+                "Haru Urara"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yep! There's soooo much I wanna<n>tell her!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "So couldja let me know when she's<n>back? Just\nscream my name, and I'll<n>come running!",
+            "choice_data_list": [
+                "She'll be back in no time."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh, really? Then I'll just wait here!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hmm-hm-hmmm! ♪ Urara, la la la! ♪",
+            "choice_data_list": [
+                "So... what do you want to talk to her about?",
+                "So... what do you want to talk to her about?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "What else? I'm gonna ask her to<n>have lunch with\nme!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "And then I wanna praise her for all<n>her hard work!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Everyone's talking about how cool<n>she is right\nnow, working her butt off!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Heehee! Everyone's rooting for her!",
+            "choice_data_list": [
+                "...Thank you."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Huh? Why are you thanking me?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Eh, whatever! You're welcome!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Haru Urara and I continue to wait for<n>Rice Shower."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, Urara?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Heyo, Rice! Let's go eat! ♪",
+            "choice_data_list": [
+                "Yeah, let's go!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Huh?! A-all three of us?!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Whoa! They've got fried carrots,<n>yakisoba, stamina\nrice bowls, and<n>even huge candy apples!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ehe! What are you gonna start with,<n>Rice? I'm\ngoing for some carrot ice<n>cream! ♪"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ummm, I can't decide... What should I<n>get, Big\nBrother?",
+            "choice_data_list": [
+                "The mega meat and rice bowl!",
+                "Let's go for one of those huge candy apples!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ummm, I can't decide... What should I<n>get, Big\nSister?",
+            "choice_data_list": [
+                "The mega meat and rice bowl!",
+                "Let's go for one of those huge candy apples!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Growwwl...</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Gyah! Oh..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "H-how did you know that I'm so<n>hungry?",
+            "choice_data_list": [
+                "I saw how hard you trained today."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "H-how did you know that I'm so<n>hungry?",
+            "choice_data_list": [
+                "I saw how hard you trained today."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Ehehe. I see. You <i>are</i> always<n>watching over me,\nafter all."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Ehehe. I see. You <i>are</i> always<n>watching over me,\nafter all."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Oh! Me too, me too! I watch you all<n>the time!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hehe, that's right... Thank you, Urara."
+        },
+        {
+            "name": "Monólogo",
+            "text": "We spend the remainder of lunch in<n>pleasant\nconversation."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Whoa... a candy apple! Can I really<n>have one?!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Hehe. I usually think of them as a<n>special reward."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "My mom would always get me one<n>after a race or\na hard test.",
+            "choice_data_list": [
+                "You deserve one today too."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah! You deserve, like, a hundred!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...R-really?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Of course! You're working so, so,<n>sooooo hard!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Heheh. Thank you. Both of you."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Heheh. Thank you. Both of you."
+        },
+        {
+            "name": "Monólogo",
+            "text": "We spend the remainder of lunch in<n>pleasant\nconversation."
+        }
+    ]
+}

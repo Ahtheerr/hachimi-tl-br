@@ -1,0 +1,48 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "I spot Rice Shower in the plaza<n>holding her head,\nlooking pained."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, B-Big Brother... Don't worry. It's<n>nothing...",
+            "choice_data_list": [
+                "It doesn't look like nothing.",
+                "It doesn't look like nothing."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Oh, B-Big Sister... Don't worry. It's<n>nothing...",
+            "choice_data_list": [
+                "It doesn't look like nothing.",
+                "It doesn't look like nothing."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Um... That's, uh... <i>Sigh...</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "To be honest, I've had a headache<n>since this\nmorning. But I don't think<n>it's a cold or anything."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm sure it'll get better soon. So<n>don't worry."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "I'm sure it'll get better soon. So<n>don't worry."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Nnng... Owww..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Looks like Rice Shower's headache<n>is really\nbothering her. I wish there<n>was something I could\ndo."
+        }
+    ]
+}

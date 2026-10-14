@@ -1,0 +1,200 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Rice Shower and Haru Urara are at<n>the academy\ngates, getting ready to<n>head out."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hi, Big Brother!",
+            "choice_data_list": [
+                "You two headed out somewhere?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hi, Big Sister!",
+            "choice_data_list": [
+                "You two headed out somewhere?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yep! I get to hang out with Rice!<n>We're going to an\nall-you-can-eat<n>dessert buffet!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hey! You should come along too,<n>Trainer!",
+            "choice_data_list": [
+                "Are you sure?"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah! I bet Rice will have even more<n>fun this way!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-yeah! I-if you don't mind, that is...",
+            "choice_data_list": [
+                "In that case, I'll gladly join."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-yeah! I-if you don't mind, that is...",
+            "choice_data_list": [
+                "In that case, I'll gladly join."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Isn't that great, Rice? All right, let's<n>get this show\non the road!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Whoa! Look at all these yummy<n>desserts! There's\nso many different<n>kinds, it's incredible! Like\nsuper-duper incredible!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "W-we can eat all of these? This is<n>amazing, Big\nBrother!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "W-we can eat all of these? This is<n>amazing, Big\nSister!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Come on, Rice, let's gooo! I can't<n>hold back\nanymore!"
+        },
+        {
+            "name": "",
+            "text": "R-right!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The two excitedly head off to grab<n>some desserts."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ehehe, I got so much! What about<n>you, Rice?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "S-sorry to make you wait."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Rice Shower returns with more than<n>double the\namount that Haru Urara<n>took!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Whoa, Rice! You took sooo much!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You think so? I-is it too much? It's too<n>much, isn't\nit? This isn't healthy.",
+            "choice_data_list": [
+                "We can run it off later! It's just fuel for the body!",
+                "Guess I'll dig in too!",
+                "Guess I'll dig in too!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "You think so? I-is it too much? It's too<n>much, isn't\nit? This isn't healthy.",
+            "choice_data_list": [
+                "We can run it off later! It's just fuel for the body!",
+                "Guess I'll dig in too!",
+                "Guess I'll dig in too!"
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Good idea! We'll eat a ton and then<n>exercise a ton!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Y-yeah. As long as we're exercising<n>afterward... it\nshould be fine."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "That's the spirit! Time to <i>destroy</i><n>these carrot\ncakes! Let's eat!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "O-okay!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Munch...</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Mmm! ♪ It's so good!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Rice Shower proceeds to deftly down<n>her heaping\nplate, enjoying each bite."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Not one to lose, I fill my plate with<n>about as much as\nRice Shower."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Whoa, your trainer's on a whole<n>nother level!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "All right! That just means I have to<n>eat more too!"
+        },
+        {
+            "name": "",
+            "text": "Haru Urara comes back with even<n>more desserts!"
+        },
+        {
+            "name": "",
+            "text": "Hehe. You can't even see the table<n>anymore."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Right?! Just looking at it all makes me<n>so happy!\nNow, let's dig in!",
+            "choice_data_list": [
+                "Bon appétit!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "B-bon appétit!"
+        },
+        {
+            "name": "",
+            "text": "<i>Munch...</i>"
+        },
+        {
+            "name": "",
+            "text": "Mmm! ♪ It's so good!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ahhh... ♪ That was so yummy..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Yeah, super yummy! ♪"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "And now... my tummy is full... and I'm<n>beat.",
+            "choice_data_list": [
+                "Same here...",
+                "Same here..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "While Haru Urara is so stuffed she<n>can hardly\nmove, Rice Shower just<n>smiles happily."
+        }
+    ]
+}

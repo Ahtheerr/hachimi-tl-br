@@ -2,103 +2,103 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "It's the final day of summer camp. As<n>I'm waiting\nfor Rice Shower to finish<n>packing, I take a seat on a\nnearby<n>bench."
+            "text": "É o último dia do acampamento de<n>verão. Enquanto\nespero Rice Shower<n>terminar de arrumar as coisas,\nsento-me em um banco ali perto."
         },
         {
             "name": "Rice Shower",
-            "text": "S-sorry for making you wait!"
+            "text": "D-desculpe por fazer você esperar,<n>Maninho!"
         },
         {
             "name": "Rice Shower",
-            "text": "S-sorry for making you wait!"
+            "text": "D-desculpe por fazer você esperar,<n>Maninha!"
         },
         {
             "name": "Rice Shower",
-            "text": "Whew... Ehehe. I got caught up<n>helping out...",
+            "text": "Ufa... Hehe. Acabei me distraindo<n>ajudando o\npessoal...",
             "choice_data_list": [
-                "Helping out?"
+                "Ajudando?"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Yeah. This camp has done a lot for<n>me, right?"
+            "text": "Sim. Este acampamento me<n>proporcionou tanta\ncoisa, não é?"
         },
         {
             "name": "Rice Shower",
-            "text": "So I asked the administrator if I could<n>do anything to\nhelp... even though I<n>only had a little bit of time.",
+            "text": "Então, perguntei ao responsável se<n>havia algo que\neu pudesse fazer para<n>ajudar... mesmo tendo só\num<n>pouquinho de tempo.",
             "choice_data_list": [
-                "That's very nice of you.",
-                "That's very nice of you."
+                "Isso foi muito gentil da sua parte.",
+                "Isso foi muito gentil da sua parte."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "N-not really... I couldn't do much,<n>honestly."
+            "text": "N-não foi nada... Sinceramente, não<n>consegui fazer\nmuita coisa."
         },
         {
             "name": "Rice Shower",
-            "text": "Just watering flowers... repainting the<n>benches...",
+            "text": "Só reguei as flores... repintei os<n>bancos...",
             "choice_data_list": [
-                "...You painted the benches?"
+                "...Você pintou os bancos?"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Yep! Even the one you're sitting on...<n>now..."
+            "text": "Sim! Até este em que você está<n>sentado... agora..."
         },
         {
             "name": "Rice Shower",
-            "text": "Yep! Even the one you're sitting on...<n>now..."
+            "text": "Sim! Até este em que você está<n>sentada... agora..."
         },
         {
             "name": "Rice Shower",
-            "text": "Big Brother?!"
+            "text": "Maninho?!"
         },
         {
             "name": "Rice Shower",
-            "text": "Big Sister?!"
+            "text": "Maninha?!"
         },
         {
-            "name": "",
+            "name": "Monólogo",
             "text": "<i>Rrrriiiip...</i>"
         },
         {
             "name": "Monólogo",
-            "text": "I stand up in a panic, but the paint has<n>already come\noff the bench onto my<n>clothes."
+            "text": "Levanto-me às pressas, mas a tinta<n>do banco já\nmanchou minhas roupas."
         },
         {
             "name": "Rice Shower",
-            "text": "I-I'm sorry! I should have left a note!"
+            "text": "D-desculpe! Eu devia ter deixado um<n>aviso!"
         },
         {
             "name": "Rice Shower",
-            "text": "Oh no... What should we do? Ohhh...",
+            "text": "Ah, não... O que vamos fazer? Aaah...",
             "choice_data_list": [
-                "Guess we have to repaint it."
+                "Acho que vamos ter que pintá-lo de novo."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Oh no... What should we do? Ohhh...",
+            "text": "Ah, não... O que vamos fazer? Aaah...",
             "choice_data_list": [
-                "Guess we have to repaint it."
+                "Acho que vamos ter que pintá-lo de novo."
             ]
         },
         {
-            "name": "",
-            "text": "O-okay... <i>Sigh...</i> I'm really sorry..."
+            "name": "Rice Shower",
+            "text": "T-tudo bem... <i>Suspiro...</i> Sinto muito<n>mesmo..."
         },
         {
             "name": "Rice Shower",
-            "text": "I'll go apologize to the administrator<n>as well."
+            "text": "Também vou pedir desculpas ao<n>responsável."
         },
         {
             "name": "Rice Shower",
-            "text": "I'll make sure they're okay with us<n>repainting it,\nand get some paint while<n>I'm at it."
+            "text": "Vou me certificar de que ele concorde<n>em\ndeixarmos o banco pintado de<n>novo e aproveitarei\npara pegar tinta."
         },
         {
-            "name": "",
-            "text": "Some things never change, while<n>other aspects of\nourselves<n>continuously evolve. If there's one<n>thing\ntoday has taught me, it's that."
+            "name": "Monólogo",
+            "text": "Algumas coisas nunca mudam,<n>enquanto outros\naspectos de nós<n>mesmos estão em constante\nevolução. Se aprendi algo hoje, foi<n>isso."
         }
     ]
 }

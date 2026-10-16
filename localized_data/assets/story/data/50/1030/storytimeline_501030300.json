@@ -2,31 +2,31 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "At Rice Shower's request, we keep<n>training up until\nthe very last minute of<n>summer camp."
+            "text": "A pedido de Rice Shower,<n>continuamos treinando\naté o último<n>instante do acampamento de verão."
         },
         {
             "name": "Rice Shower",
-            "text": "<i>Huff... puff...</i> S-sorry I'm late!"
+            "text": "Ofegante... Ofegante... D-desculpem o<n>atraso!"
         },
         {
             "name": "Haru Urara",
-            "text": "Hurry up, Rice! The bus is waiting for<n>you!"
+            "text": "Depressa, Rice! O ônibus está<n>esperando por você!"
         },
         {
             "name": "Rice Shower",
-            "text": "R-right! I'm coming!"
+            "text": "J-já vou!"
         },
         {
             "name": "Rice Shower",
-            "text": "Ehehe... Thank goodness I made it.",
+            "text": "Ehehe... Ainda bem que consegui<n>chegar.",
             "choice_data_list": [
-                "We're lucky that everyone waited for you.",
-                "We're lucky that everyone waited for you."
+                "Ainda bem que todo mundo esperou por você.",
+                "Ainda bem que todo mundo esperou por você."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Right! I'll have to thank them..."
+            "text": "Isso mesmo! Preciso agradecer a<n>todos..."
         },
         {
             "name": "Monólogo",
@@ -34,15 +34,15 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Huh? Did we stop?"
+            "text": "Hã? O ônibus parou?"
         },
         {
-            "name": "",
-            "text": "Sorry, everyone! It looks like the road<n>ahead closed\nonly a minute ago."
+            "name": "Motorista do ônibus",
+            "text": "Desculpem, pessoal! Parece que a<n>estrada à frente\nfoi fechada agora<n>mesmo."
         },
         {
-            "name": "Bus Driver",
-            "text": "It may take us an additional two<n>hours to return to\ncampus."
+            "name": "Motorista do ônibus",
+            "text": "Talvez levemos mais duas horas<n>para voltar ao\ncampus."
         },
         {
             "name": "Rice Shower",
@@ -50,11 +50,11 @@
         },
         {
             "name": "Rice Shower",
-            "text": "I-I'm sorry! It's all my fault!"
+            "text": "M-me desculpem! A culpa é toda da<n>Rice!"
         },
         {
             "name": "Monólogo",
-            "text": "Rice Shower is almost inconsolable<n>for the rest of\nthe trip. She even goes<n>to apologize to everyone on\nthe bus<n>personally."
+            "text": "Rice Shower fica quase inconsolável<n>durante o\nrestante da viagem. Ela<n>chega até a pedir\ndesculpas<n>pessoalmente a todos no ônibus."
         }
     ]
 }

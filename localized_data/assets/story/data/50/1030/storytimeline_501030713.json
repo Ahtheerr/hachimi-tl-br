@@ -2,106 +2,106 @@
     "text_block_list": [
         {
             "name": "Rice Shower",
-            "text": "I'm sorry for worrying you, Big<n>Brother..."
+            "text": "Me desculpe por ter preocupado<n>você, Maninho..."
         },
         {
             "name": "Rice Shower",
-            "text": "I'm sorry for worrying you, Big<n>Sister..."
+            "text": "Me desculpe por ter preocupado<n>você, Maninha..."
         },
         {
             "name": "Rice Shower",
-            "text": "But this injury is nothing. I can still<n>train!"
+            "text": "Mas esse machucado não é nada.<n>Ainda posso\ntreinar!"
         },
         {
             "name": "Rice Shower",
-            "text": "Really, I'm fine. Well, then... shall we?",
+            "text": "Sério, estou bem. Bem, então... vamos<n>lá?",
             "choice_data_list": [
-                "You should rest.",
-                "Only if you're careful.",
-                "Only if you're careful."
-            ]
-        },
-        {
-            "name": "",
-            "text": "But an injury like this is nothing to<n>me.",
-            "choice_data_list": [
-                "Well, I get worried easily.",
-                "Well, I get worried easily."
+                "Você deveria descansar.",
+                "Só se tomar cuidado.",
+                "Só se tomar cuidado."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Really?! I see... I'm sorry. I didn't<n>know."
+            "text": "Mas um machucado desses não é<n>nada para mim.",
+            "choice_data_list": [
+                "Bem, eu me preocupo facilmente.",
+                "Bem, eu me preocupo facilmente."
+            ]
         },
         {
             "name": "Rice Shower",
-            "text": "I understand. I'll hold off on training<n>until I'm\nhealed... <i>Sigh...</i>"
+            "text": "Sério?! Entendi... Desculpe. Eu não<n>sabia."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Entendi. Vou deixar os treinos de lado<n>até me\nrecuperar... <i>Suspiro...</i>"
         },
         {
             "name": "Monólogo",
-            "text": "Eventually persuaded by my<n>reasoning, Rice\nShower rests for a<n>while afterwards."
+            "text": "Depois de finalmente convencê-la<n>com meus\nargumentos, Rice Shower<n>descansa por um tempo."
         },
         {
             "name": "Rice Shower",
-            "text": "Y-yes! I'll be careful!"
+            "text": "S-sim! Vou tomar cuidado!"
         },
         {
             "name": "Rice Shower",
-            "text": "Y-yes! I'll be careful!"
+            "text": "S-sim! Vou tomar cuidado!"
         },
         {
             "name": "Monólogo",
-            "text": "We're about to head back to training—"
+            "text": "Estamos prestes a voltar ao treino—"
         },
         {
-            "name": "Infirmary Doctor",
-            "text": "Oh, I think training hours are already<n>finished today."
+            "name": "Doutora da Enfermeira",
+            "text": "Ah, acho que o horário de treino já<n>acabou por\nhoje."
         },
         {
-            "name": "Infirmary Doctor",
-            "text": "They said they had to do maintenance<n>on\nsomething, so the open hours for<n>today are shorter."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Oh... I got your hopes up for nothing..."
+            "name": "Doutora da Enfermeira",
+            "text": "Disseram que precisavam fazer<n>manutenção em\nalguma coisa, então<n>o horário de funcionamento de\nhoje é<n>mais curto."
         },
         {
             "name": "Rice Shower",
-            "text": "Oh... I got your hopes up for nothing..."
+            "text": "Ah... Fiz você criar expectativas à<n>toa..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah... Fiz você criar expectativas à<n>toa..."
         },
         {
             "name": "Monólogo",
-            "text": "I try to cheer Rice Shower up, but she<n>stays\ndepressed for a while."
+            "text": "Tento animar Rice Shower, mas ela<n>continua abatida\npor um tempo."
         },
         {
             "name": "Rice Shower",
-            "text": "Hehe... Thank you."
+            "text": "Hehe... Obrigada."
         },
         {
             "name": "Rice Shower",
-            "text": "Hehe... Thank you."
+            "text": "Hehe... Obrigada."
         },
         {
             "name": "Rice Shower",
-            "text": "I'll prove that this injury isn't<n>anything you should\nworry about!",
+            "text": "Vou provar que esse machucado não<n>é motivo para\nvocê se preocupar!",
             "choice_data_list": [
-                "You just focus on getting better first."
+                "Você só precisa se concentrar em melhorar\nprimeiro."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "I'll prove that this injury isn't<n>anything you should\nworry about!",
+            "text": "Vou provar que esse machucado não<n>é motivo para\nvocê se preocupar!",
             "choice_data_list": [
-                "You just focus on getting better first."
+                "Você só precisa se concentrar em melhorar\nprimeiro."
             ]
         },
         {
-            "name": "",
-            "text": "R-right... But I... <i>Sigh...</i>"
+            "name": "Rice Shower",
+            "text": "C-certo... Mas eu... <i>Suspiro...</i>"
         },
         {
             "name": "Rice Shower",
-            "text": "Okay. But once I'm healed, I'm going<n>to work my\nbutt off!"
+            "text": "Tudo bem. Mas, assim que me<n>recuperar, vou me\nesforçar pra valer!"
         }
     ]
 }

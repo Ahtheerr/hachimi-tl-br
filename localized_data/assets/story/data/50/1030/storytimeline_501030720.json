@@ -2,41 +2,41 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "One day, I bring <chrname> to the infirmary for a<n>checkup."
+            "text": "Certo dia, levo <chrname> à enfermaria para um<n>exame."
         },
         {
             "name": "???",
-            "text": "Oh! A custo—I mean, a student! Hello!"
+            "text": "Ah! Uma clie— digo, uma aluna! Olá!"
         },
         {
             "name": "???",
-            "text": "Are you hurt? Sick? Stressed?<n>Whatever it is, I treat\nit all!",
+            "text": "Está machucada? Doente?<n>Estressada? Seja o\nque for, eu trato<n>de tudo!",
             "choice_data_list": [
-                "Who are you?!"
+                "Quem é você?!"
             ]
         },
         {
             "name": "???",
-            "text": "Well, considering you're at the<n>academy infirmary,\nI'd say that<n>makes me your trusty school nurse!\nYup, just your average school<n>employee!",
+            "text": "Bem, considerando que você está na<n>enfermaria da\nacademia, eu diria que<n>sou sua confiável\nenfermeira escolar!<n>Isso mesmo, apenas uma\nfuncionária<n>comum da escola!",
             "choice_data_list": [
-                "...No, you aren't?"
+                "...Não, você não é?"
             ]
         },
         {
             "name": "???",
-            "text": "Ahaha! Guess there's no fooling you.<n>I suppose I\nshould start by giving you<n>my name."
+            "text": "Ahaha! Vejo que não consigo te<n>enganar. Acho\nmelhor começar<n>dizendo meu nome."
         },
         {
             "name": "???",
-            "text": "Ahem! Allow me to introduce myself!"
+            "text": "Ahem! Permita-me me apresentar!"
         },
         {
             "name": "???",
-            "text": "I am the (likely) savior of all<n>Umamusume, the\n(self-proclaimed)<n>legendary acupuncturist with the\nmagic touch..."
+            "text": "Sou a (provável) salvadora de todas<n>as\nUmamusume, a (autoproclamada)<n>lendária\nacupunturista de mãos<n>mágicas..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "The one and only Sasami<n>Anshinzawa! See? No\nworries! ☆",
+            "text": "A única e incomparável Sasami<n>Anshinzawa! Viu?\nNão precisa se<n>preocupar! ☆",
             "choice_data_list": [
                 "..."
             ],
@@ -50,149 +50,149 @@
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Gosh! You sure seem worried! ☆"
+            "text": "Nossa! Você parece tão preocupada!<n>☆"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "No matter! No matter! We've made<n>our\nintroductions, so lie down and let<n>me put these\nneedles to work!"
+            "text": "Não importa! Não importa! Já nos<n>apresentamos,\nentão deite-se e deixe<n>que eu use estas agulhas!"
         },
         {
             "name": "Rice Shower",
-            "text": "W-wait! Ah, s-sorry... I'm not good<n>with pain..."
+            "text": "E-espera! Ah, d-desculpe... Não lido<n>bem com dor..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Hahaha! No need to be scared! All<n>I'm going to do\nis slip these<n>extraordinary needles precisely into\nyour chakra points."
+            "text": "Hahaha! Não precisa ter medo! Só<n>vou inserir estas\nagulhas<n>extraordinárias com precisão nos<n>seus\npontos de chakra."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Then voilà, presto! Something<n>indescribable will\nhappen!",
+            "text": "E voilá! Num passe de mágica! Algo<n>indescritível vai\nacontecer!",
             "choice_data_list": [
-                "(This is indescribably sketchy...)"
+                "(Isso é indescritivelmente suspeito...)"
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "And let me assure you, there's<n>absolutely nothing\nsketchy about this<n>at all! It's never gone anything\nless<n>than perfectly!"
+            "text": "E garanto que não há absolutamente<n>nada de\nsuspeito nisso! Nunca deu<n>errado, sempre foi tudo\nperfeito!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "...For my master.",
+            "text": "...Para meu mestre.",
             "choice_data_list": [
-                "For your master?! What about for you?!"
+                "Para sua mestra?! E quanto a você?!"
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Don't fret! This is my first time, so<n>technically, I've\nnever failed a patient<n>either!"
+            "text": "Não se preocupe! Esta é minha<n>primeira vez, então,\ntecnicamente,<n>nunca falhei com nenhum paciente!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "And it's not like I have no<n>experience! I spent ten\nyears under a<n>legendary master, fetching dri—I\nmean, training!"
+            "text": "E não é como se eu não tivesse<n>experiência!\nPassei dez anos sob a<n>tutela de uma mestra\nlendária,<n>buscando reme— quer dizer,<n>treinando!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "See? No worries! ☆",
+            "text": "Viu? Não precisa se preocupar! ☆",
             "choice_data_list": [
-                "(We need to get outta here, stat!)"
+                "(Precisamos sair daqui, já!)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "There's no way we're doing this. I<n>take <chrname> and head\nfor the door, when..."
+            "text": "Nem pensar que vamos fazer isso.<n>Pego \\<chrname> e vou\nem direção à porta,<n>quando..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "W-wait! Where are you going?!"
+            "text": "E-espera! Aonde vocês vão?!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "You're Rice Shower, right? The racer<n>who said\nsayonara to her past<n>useless self, and hello to\nbringing<n>happiness to everyone!",
+            "text": "Você é a Rice Shower, não é? A<n>corredora que\ndisse adeus à sua<n>antiga versão inútil e olá a uma\nvida<n>dedicada a levar felicidade a todos!",
             "choice_data_list": [
-                "You've heard of her?"
+                "Você ouviu falar dela?"
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Have I heard of her? Of course I<n>have! I'm a big\nfan!"
+            "text": "Se ouvi falar dela? Claro que sim! Sou<n>uma grande\nfã!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "That's precisely why I'm here! To<n>give you my\nsupport! Let me help<n>you!"
+            "text": "É exatamente por isso que estou<n>aqui! Para te\napoiar! Deixe-me<n>ajudar!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Just give me a chance! Pleeease!"
+            "text": "Me dê só uma chance! Por favooor!"
         },
         {
             "name": "Rice Shower",
-            "text": "Uh, um... What should I do, Big<n>Brother?"
+            "text": "Ah, ahn... O que devo fazer, maninho?"
         },
         {
             "name": "Rice Shower",
-            "text": "Uh, um... What should I do, Big Sister?"
+            "text": "Ah, ahn... O que devo fazer, maninha?"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Please! Pretty please with a carrot on<n>top! I'll even\nlet you choose which<n>chakra I activate!"
+            "text": "Por favor! Por favooor! Até coloco<n>uma cenourinha\npor cima! Vou deixar<n>você escolher qual chakra\nativar!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "I'm <i>sure</i> I won't mess up!"
+            "text": "Tenho <i>certeza</i> de que não vou fazer<n>besteira!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Well... pretty sure.",
+            "text": "Bem... Quase certeza.",
             "choice_data_list": [
-                "<i>Pretty</i> sure?!"
+                "<i>Quase</i> certeza?!"
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "I mean, it's on the sure side! That's<n><i>good,</i> right?\nAnyway, don't get hung<n>up on the details!"
+            "text": "Quer dizer, estou mais para o lado da<n>certeza! Isso\né <i>bom,</i> não é? Enfim,<n>não fique se prendendo aos\ndetalhes!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Let's get to the good stuff! Which<n>chakra should I\nactivate? Do you<n>want a boost to your abilities?\nYour<n>health? Or maybe your <i>charm?</i>"
+            "text": "Vamos à parte boa! Qual chakra devo<n>ativar? Quer\num impulso nas suas<n>habilidades? Na sua saúde?\nOu talvez<n>no seu <i>charme?</i>"
         },
         {
             "name": "Monólogo",
-            "text": "I smell danger in the air, but I figure<n>there might—and\nI emphasize<n><i>might</i>—be a chance of getting<n>something\nspecial out of this<n>treatment."
+            "text": "Sinto cheiro de perigo no ar, mas<n>penso que talvez\n— e enfatizo o <i>talvez</i><n>— haja uma chance de\nconseguir algo<n>especial com esse tratamento."
         },
         {
             "name": "Monólogo",
-            "text": "What should we do?",
+            "text": "O que devemos fazer?",
             "choice_data_list": [
-                "Activate the strength chakra.",
-                "Activate the winning chakra.",
-                "Activate the health chakra.",
-                "Activate the charm chakra.",
-                "This is too sketchy. Let's quit while we still can."
+                "Ative o chakra da força.",
+                "Ative o chakra da vitória.",
+                "Ative o chakra da saúde.",
+                "Ative o chakra do charme.",
+                "Isso é suspeito demais. Vamos parar enquanto\nainda podemos."
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "I see, I see. So you want me to<n>activate the strength\nchakra?"
+            "text": "Entendo, entendo. Então quer que eu<n>ative o chakra\nda força?"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Then let's get started! Are you<n>ready? There's no\ngoing back after!",
+            "text": "Então vamos começar! Está pronta?<n>Depois que\ncomeçarmos, não tem<n>volta!",
             "choice_data_list": [
-                "Go ahead.",
-                "Wait, hold on."
+                "Vai em frente.",
+                "Pera, espera aí."
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "All right, leave it to me! Time to locate<n>that chakra!\nOllie, ollie, oxen free!"
+            "text": "Certo, deixe comigo! Hora de localizar<n>esse chakra!\nUni, duni, tê!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Now, just relaaax... See? No worries!<n>☆"
+            "text": "Agora, relaxeee... Viu? Não precisa se<n>preocupar! ☆"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Aaand poke!"
+            "text": "E... espetada!"
         },
         {
             "name": "Rice Shower",
@@ -200,87 +200,87 @@
         },
         {
             "name": "Monólogo",
-            "text": "Puncture Perfect!"
+            "text": "Espetacularmente perfurado!"
         },
         {
             "name": "Rice Shower",
-            "text": "Big Brother..."
+            "text": "Maninho..."
         },
         {
             "name": "Rice Shower",
-            "text": "Big Sister..."
+            "text": "Maninha..."
         },
         {
             "name": "Rice Shower",
-            "text": "Am I... still me? I feel like I've been<n>reborn!"
+            "text": "Eu... ainda sou eu? Sinto como se<n>tivesse\nrenascido!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "<i>Gasp...</i> You're kidding... It actually<n>worked?!"
+            "text": "<i>Suspiro...</i> Não acredito... Funcionou<n>mesmo?!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "No waaay! I can't believe it! I'm a<n>total genius!"
+            "text": "Nããão! Não consigo acreditar! Sou um<n>gênio\nabsoluto!"
         },
         {
             "name": "Monólogo",
-            "text": "<chrname> is overflowing with so much power<n>she's almost\nunrecognizable!"
+            "text": "\\<chrname> está transbordando de tanta<n>energia que mal\nparece a mesma<n>pessoa!"
         },
         {
             "name": "Monólogo",
-            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+            "text": "Arriscamos e deu certo! Este é um<n>grande passo\nrumo ao nosso<n>objetivo!"
         },
         {
             "name": "Rice Shower",
-            "text": "Big Brother..."
+            "text": "Maninho..."
         },
         {
             "name": "Rice Shower",
-            "text": "Big Sister..."
+            "text": "Maninha..."
         },
         {
             "name": "Rice Shower",
-            "text": "Just like I thought... I really am<n>useless. Please...\nforgive me..."
+            "text": "Como eu imaginava... Sou mesmo<n>inútil. Por favor...\nme perdoe..."
         },
         {
             "name": "Monólogo",
-            "text": "<chrname>'s condition deteriorates rapidly."
+            "text": "O estado de <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "So... That's that, I guess..."
+            "text": "Então... É isso, né..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Well, would you look at the time? I<n>should get going!\nBye! ☆"
+            "text": "Nossa, mas já está na hora? Preciso<n>ir! Tchau! ☆"
         },
         {
             "name": "Monólogo",
-            "text": "I should've known better than to test<n>our luck. I'm\nnot the one suffering,<n>yet I'm full of regret."
+            "text": "Eu devia saber que não era uma boa<n>ideia arriscar\nassim. Não sou eu quem<n>está sofrendo, mas\nmesmo assim<n>estou cheia de arrependimento."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "I see, I see. So, you want me to<n>activate the winning\nchakra?"
+            "text": "Entendo, entendo. Então quer que eu<n>ative o chakra\nda vitória?"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Then let's get started! Are you<n>ready? There's no\ngoing back after!",
+            "text": "Então vamos começar! Está pronta?<n>Depois que\ncomeçarmos, não tem<n>volta!",
             "choice_data_list": [
-                "Go ahead.",
-                "Wait, hold on."
+                "Vai em frente.",
+                "Pera, espera aí."
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "All right, leave it to me! Time to locate<n>that chakra!\nOllie, ollie, oxen free!"
+            "text": "Certo, deixe comigo! Hora de localizar<n>esse chakra!\nUni, duni, tê!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Now, just relaaax... See? No worries!<n>☆"
+            "text": "Agora, relaxeee... Viu? Não precisa se<n>preocupar! ☆"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Aaand poke!"
+            "text": "E... espetada!"
         },
         {
             "name": "Rice Shower",
@@ -288,87 +288,87 @@
         },
         {
             "name": "Monólogo",
-            "text": "Puncture Perfect!"
+            "text": "Espetacularmente perfurado!"
         },
         {
             "name": "Rice Shower",
-            "text": "Big Brother..."
+            "text": "Maninho..."
         },
         {
             "name": "Rice Shower",
-            "text": "Big Sister..."
+            "text": "Maninha..."
         },
         {
             "name": "Rice Shower",
-            "text": "Am I... still me? I feel like I've been<n>reborn!"
+            "text": "Eu... ainda sou eu? Sinto como se<n>tivesse\nrenascido!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "<i>Gasp...</i> You're kidding... It actually<n>worked?!"
+            "text": "<i>Suspiro...</i> Não acredito... Funcionou<n>mesmo?!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "No waaay! I can't believe it! I'm a<n>total genius!"
+            "text": "Nããão! Não consigo acreditar! Sou um<n>gênio\nabsoluto!"
         },
         {
             "name": "Monólogo",
-            "text": "I can sense a huge improvement in<n><chrname>'s skills!"
+            "text": "\\<chrname> está transbordando de tanta<n>energia que mal\nparece a mesma<n>pessoa!"
         },
         {
             "name": "Monólogo",
-            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+            "text": "Arriscamos e deu certo! Este é um<n>grande passo\nrumo ao nosso<n>objetivo!"
         },
         {
             "name": "Rice Shower",
-            "text": "Big Brother..."
+            "text": "Maninho..."
         },
         {
             "name": "Rice Shower",
-            "text": "Big Sister..."
+            "text": "Maninha..."
         },
         {
             "name": "Rice Shower",
-            "text": "Just like I thought... I really am<n>useless. Please...\nforgive me..."
+            "text": "Como eu imaginava... Sou mesmo<n>inútil. Por favor...\nme perdoe..."
         },
         {
             "name": "Monólogo",
-            "text": "<chrname>'s condition deteriorates rapidly."
+            "text": "O estado de <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "So... That's that, I guess..."
+            "text": "Então... É isso, né..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Well, would you look at the time? I<n>should get going!\nBye! ☆"
+            "text": "Nossa, mas já está na hora? Preciso<n>ir! Tchau! ☆"
         },
         {
             "name": "Monólogo",
-            "text": "I should've known better than to test<n>our luck. I'm\nnot the one suffering,<n>yet I'm full of regret."
+            "text": "Eu devia saber que não era uma boa<n>ideia arriscar\nassim. Não sou eu quem<n>está sofrendo, mas\nmesmo assim<n>estou cheia de arrependimento."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "I see, I see. So, you want me to<n>activate the health\nchakra?"
+            "text": "Entendo, entendo. Então quer que eu<n>ative o chakra\nda saúde?"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Then let's get started! Are you<n>ready? There's no\ngoing back after!",
+            "text": "Então vamos começar! Está pronta?<n>Depois que\ncomeçarmos, não tem<n>volta!",
             "choice_data_list": [
-                "Go ahead.",
-                "Wait, hold on."
+                "Vai em frente.",
+                "Pera, espera aí."
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "All right, leave it to me! Time to locate<n>that chakra!\nOllie, ollie, oxen free!"
+            "text": "Certo, deixe comigo! Hora de localizar<n>esse chakra!\nUni, duni, tê!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Now, just relaaax... See? No worries!<n>☆"
+            "text": "Agora, relaxeee... Viu? Não precisa se<n>preocupar! ☆"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Aaand poke!"
+            "text": "E... espetada!"
         },
         {
             "name": "Rice Shower",
@@ -376,87 +376,87 @@
         },
         {
             "name": "Monólogo",
-            "text": "Puncture Perfect!"
+            "text": "Espetacularmente perfurado!"
         },
         {
             "name": "Rice Shower",
-            "text": "Big Brother..."
+            "text": "Maninho..."
         },
         {
             "name": "Rice Shower",
-            "text": "Big Sister..."
+            "text": "Maninha..."
         },
         {
             "name": "Rice Shower",
-            "text": "Am I... still me? I feel like I've been<n>reborn!"
+            "text": "Eu... ainda sou eu? Sinto como se<n>tivesse\nrenascido!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "<i>Gasp...</i> You're kidding... It actually<n>worked?!"
+            "text": "<i>Suspiro...</i> Não acredito... Funcionou<n>mesmo?!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "No waaay! I can't believe it! I'm a<n>total genius!"
+            "text": "Nããão! Não consigo acreditar! Sou um<n>gênio\nabsoluto!"
         },
         {
             "name": "Monólogo",
-            "text": "<chrname>'s entire body is radiating a healthy<n>glow! She's\nthe absolute picture of<n>health!"
+            "text": "\\<chrname> está transbordando de tanta<n>energia que mal\nparece a mesma<n>pessoa!"
         },
         {
             "name": "Monólogo",
-            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+            "text": "Arriscamos e deu certo! Este é um<n>grande passo\nrumo ao nosso<n>objetivo!"
         },
         {
             "name": "Rice Shower",
-            "text": "Big Brother..."
+            "text": "Maninho..."
         },
         {
             "name": "Rice Shower",
-            "text": "Big Sister..."
+            "text": "Maninha..."
         },
         {
             "name": "Rice Shower",
-            "text": "Just like I thought... I really am<n>useless. Please...\nforgive me..."
+            "text": "Como eu imaginava... Sou mesmo<n>inútil. Por favor...\nme perdoe..."
         },
         {
             "name": "Monólogo",
-            "text": "<chrname>'s condition deteriorates rapidly."
+            "text": "O estado de <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "So... That's that, I guess..."
+            "text": "Então... É isso, né..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Well, would you look at the time? I<n>should get going!\nBye! ☆"
+            "text": "Nossa, mas já está na hora? Preciso<n>ir! Tchau! ☆"
         },
         {
             "name": "Monólogo",
-            "text": "I should've known better than to test<n>our luck. I'm\nnot the one suffering,<n>yet I'm full of regret."
+            "text": "Eu devia saber que não era uma boa<n>ideia arriscar\nassim. Não sou eu quem<n>está sofrendo, mas\nmesmo assim<n>estou cheia de arrependimento."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "I see, I see. So, you want me to<n>activate the charm\nchakra?"
+            "text": "Entendo, entendo. Então quer que eu<n>ative o chakra\ndo charme?"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Then let's get started! Are you<n>ready? There's no\ngoing back after!",
+            "text": "Então vamos começar! Está pronta?<n>Depois que\ncomeçarmos, não tem<n>volta!",
             "choice_data_list": [
-                "Go ahead.",
-                "Wait, hold on."
+                "Vai em frente.",
+                "Pera, espera aí."
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "All right, leave it to me! Time to locate<n>that chakra!\nOllie, ollie, oxen free!"
+            "text": "Certo, deixe comigo! Hora de localizar<n>esse chakra!\nUni, duni, tê!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Now, just relaaax... See? No worries!<n>☆"
+            "text": "Agora, relaxeee... Viu? Não precisa se<n>preocupar! ☆"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Aaand poke!"
+            "text": "E... espetada!"
         },
         {
             "name": "Rice Shower",
@@ -464,139 +464,139 @@
         },
         {
             "name": "Monólogo",
-            "text": "Puncture Perfect!"
+            "text": "Espetacularmente perfurado!"
         },
         {
             "name": "Rice Shower",
-            "text": "Big Brother..."
+            "text": "Maninho..."
         },
         {
             "name": "Rice Shower",
-            "text": "Big Sister..."
+            "text": "Maninha..."
         },
         {
             "name": "Rice Shower",
-            "text": "Am I... still me? I feel like I've been<n>reborn!"
+            "text": "Eu... ainda sou eu? Sinto como se<n>tivesse\nrenascido!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "<i>Gasp...</i> You're kidding... It actually<n>worked?!"
+            "text": "<i>Suspiro...</i> Não acredito... Funcionou<n>mesmo?!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "No waaay! I can't believe it! I'm a<n>total genius!"
+            "text": "Nããão! Não consigo acreditar! Sou um<n>gênio\nabsoluto!"
         },
         {
             "name": "Monólogo",
-            "text": "<chrname> is overflowing with charm! She's<n>bound to turn\nheads everywhere she<n>goes!"
+            "text": "\\<chrname> está transbordando de tanta<n>energia que mal\nparece a mesma<n>pessoa!"
         },
         {
             "name": "Monólogo",
-            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+            "text": "Arriscamos e deu certo! Este é um<n>grande passo\nrumo ao nosso<n>objetivo!"
         },
         {
             "name": "Rice Shower",
-            "text": "Big Brother..."
+            "text": "Maninho..."
         },
         {
             "name": "Rice Shower",
-            "text": "Big Sister..."
+            "text": "Maninha..."
         },
         {
             "name": "Rice Shower",
-            "text": "Just like I thought... I really am<n>useless. Please...\nforgive me..."
+            "text": "Como eu imaginava... Sou mesmo<n>inútil. Por favor...\nme perdoe..."
         },
         {
             "name": "Monólogo",
-            "text": "<chrname>'s condition deteriorates rapidly."
+            "text": "O estado de <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "So... That's that, I guess..."
+            "text": "Então... É isso, né..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Well, would you look at the time? I<n>should get going!\nBye! ☆"
+            "text": "Nossa, mas já está na hora? Preciso<n>ir! Tchau! ☆"
         },
         {
             "name": "Monólogo",
-            "text": "I should've known better than to test<n>our luck. I'm\nnot the one suffering,<n>yet I'm full of regret."
+            "text": "Eu devia saber que não era uma boa<n>ideia arriscar\nassim. Não sou eu quem<n>está sofrendo, mas\nmesmo assim<n>estou cheia de arrependimento."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Aw, c'mon! Don't be like that!",
+            "text": "Ah, qual é! Não fique assim!",
             "choice_data_list": [
-                "Decline.",
-                "Reconsider."
+                "Recusar.",
+                "Reconsiderar."
             ]
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Hey! You there! I hope you know<n>trespassers <i>will</i>\nbe prosecuted!"
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores <i>serão</i>\nprocessados!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Gah! I've been found out!"
+            "text": "Droga! Fui descoberta!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Welp, I'm outta here! ☆"
+            "text": "Bem, estou indo nessa! ☆"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Hey! Stop right there!"
+            "text": "Ei! Pare aí mesmo!"
         },
         {
             "name": "Rice Shower",
-            "text": "Oh? Well... I guess everything turned<n>out okay in the\nend... Right?"
+            "text": "Ah? Bem... Acho que, no fim das<n>contas, tudo\nacabou bem... Não é?"
         },
         {
             "name": "Rice Shower",
-            "text": "This just means I'm going to have to<n>work hard on\nmy own if I want to<n>become a better me!",
+            "text": "Isso só significa que vou ter que me<n>esforçar\nsozinha se quiser me tornar<n>uma versão melhor de\nmim mesma!",
             "choice_data_list": [
-                "That's right.",
-                "That's right."
+                "Isso mesmo.",
+                "Isso mesmo."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I'm curious who this Anshinzawa<n>character really\nis, but there's no use<n>ruminating over it. Best to\nforget<n>about today and move on."
+            "text": "Estou curioso para saber quem essa<n>tal de\nAnshinzawa realmente é, mas<n>não adianta ficar\nremoendo isso.<n>Melhor esquecer o que aconteceu\nhoje e seguir em frente."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Had a change of heart, did you? No<n>worries, it\nhappens!"
+            "text": "Mudou de ideia, foi? Não se<n>preocupe, acontece!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Go ahead and tell me which chakra<n>you want me to\nactivate, then!"
+            "text": "Pode me dizer qual chakra quer que<n>eu ative, então!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Well?! Don't leave us in suspense!<n>Wait a second...\nHow long have I<n>been here?"
+            "text": "E aí?! Não nos deixe na expectativa!<n>Espera um\nsegundo... Há quanto<n>tempo estou aqui?"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Hey! You there! I hope you know<n>trespassers <i>will</i>\nbe prosecuted!"
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores <i>serão</i>\nprocessados!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Gah! I've been found out!"
+            "text": "Droga! Fui descoberta!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Welp, I'm outta here! ☆"
+            "text": "Bem, estou indo nessa! ☆"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Hey! Stop right there!"
+            "text": "Ei! Pare aí mesmo!"
         },
         {
             "name": "Monólogo",
-            "text": "The situation takes a sharp turn<n>before I can make\na decision."
+            "text": "A situação toma um rumo inesperado<n>antes que eu\nconsiga decidir."
         },
         {
             "name": "Monólogo",
-            "text": "What was that all about?<n><chrname> and I look at each other in\nbewilderment."
+            "text": "O que foi tudo isso?<n><chrname> e eu nos entreolhamos,\nperplexos."
         }
     ]
 }

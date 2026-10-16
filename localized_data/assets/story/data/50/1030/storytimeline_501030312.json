@@ -2,79 +2,79 @@
     "text_block_list": [
         {
             "name": "Rice Shower",
-            "text": "<i>Huff... Puff...</i>",
+            "text": "<i>Ofegante... Ofegante...</i>",
             "choice_data_list": [
-                "Congratulations!"
+                "Parabéns!"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Ehehe... Thanks, Big Brother."
-        },
-        {
-            "name": "",
-            "text": "Ehehe... Thanks, Big Sister."
-        },
-        {
-            "name": "",
-            "text": "I could hear everyone's voices while<n>I was\nrunning."
-        },
-        {
-            "name": "",
-            "text": "You can do it! \"Go, Rice, go!\"<n>Everyone was urging\nme onward."
-        },
-        {
-            "name": "",
-            "text": "Hehe, this isn't right. I promised I<n>would make\neveryone smile..."
-        },
-        {
-            "name": "",
-            "text": "But <i>I'm</i> the one who can't stop<n>smiling!"
-        },
-        {
-            "name": "",
-            "text": "<i>Sniffle...</i> I'm so glad that I got to run in<n>the\nTakarazuka Kinen!",
-            "choice_data_list": [
-                "Everyone else feels the same way."
-            ]
-        },
-        {
-            "name": "",
-            "text": "...They do?"
-        },
-        {
-            "name": "",
-            "text": "Riiiice! Thank yooou!"
-        },
-        {
-            "name": "Spectator B",
-            "text": "This was the best Takarazuka Kinen<n>ever!"
+            "text": "Hehehe... Obrigada, Maninho."
         },
         {
             "name": "Rice Shower",
-            "text": "...Wow! There are happy faces<n>everywhere!",
+            "text": "Hehehe... Obrigada, Maninha."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eu conseguia ouvir a voz de todo<n>mundo enquanto\ncorria."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Você consegue! Vai, Rice, vai! Todo<n>mundo estava\nme incentivando a<n>continuar."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hehe, assim não vale. Eu prometi que<n>faria todo\nmundo sorrir..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Mas <i>sou eu</i> quem não consegue<n>parar de sorrir!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Snif...</i> Estou tão feliz por ter podido<n>disputar a\nTakarazuka Kinen!",
             "choice_data_list": [
-                "They're all smiling because of you.",
-                "They're all smiling because of you."
+                "Todo mundo também está sentindo o mesmo."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Because of... me?",
+            "text": "...Estão?"
+        },
+        {
+            "name": "Expectador A",
+            "text": "Riiiice! Muito obrigaaado!"
+        },
+        {
+            "name": "Expectador B",
+            "text": "Essa foi a melhor Takarazuka Kinen<n>de todas!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...Uau! Tem gente feliz por toda parte!",
             "choice_data_list": [
-                "You are everyone's blue rose.",
-                "You are everyone's blue rose."
+                "Todos estão sorrindo por sua causa.",
+                "Todos estão sorrindo por sua causa."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Hehe... there's no way. The blue rose<n>brings\nhappiness, not misfortune, the<n>way I do."
+            "text": "Por minha causa...?",
+            "choice_data_list": [
+                "Você é a rosa azul de todo mundo.",
+                "Você é a rosa azul de todo mundo."
+            ]
         },
         {
             "name": "Rice Shower",
-            "text": "It would take someone really special<n>to make\neveryone smile like—",
+            "text": "Hehe... Impossível. A rosa azul traz<n>felicidade, não\ndesgraça, como a Rice."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Só alguém realmente especial<n>conseguiria fazer\ntodo mundo sorrir<n>assim...",
             "choice_data_list": [
-                "You <i>are</i> really special."
+                "Você <i>é</i> alguém realmente especial."
             ]
         },
         {
@@ -83,33 +83,33 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Oh! That means... I... did it..."
+            "text": "Ah! Isso quer dizer que a Rice... eu...<n>consegui..."
         },
         {
             "name": "Rice Shower",
-            "text": "I brought happiness to everyone!",
+            "text": "Eu trouxe felicidade para todo mundo!",
             "choice_data_list": [
-                "Thank you, Rice."
+                "Obrigado, Rice."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Nnng... Waaaaah!"
+            "text": "Nnnngh... Buáááá!"
         },
         {
             "name": "Monólogo",
-            "text": "She bursts into tears, shoulders<n>quivering, while the\naudience warmly<n>applauds her."
+            "text": "Ela começa a chorar, com os ombros<n>tremendo,\nenquanto o público aplaude<n>calorosamente."
         },
         {
             "name": "Monólogo",
-            "text": "The next day..."
+            "text": "No dia seguinte..."
         },
         {
             "name": "Rice Shower",
-            "text": "B-Big Brother! I want to run in the<n>Arima Kinen!",
+            "text": "M-Maninho! Quero disputar a Arima<n>Kinen!",
             "choice_data_list": [
-                "You've already decided?!",
-                "You've already decided?!"
+                "Você já decidiu?!",
+                "Você já decidiu?!"
             ],
             "color_text_info_list": [
                 "Arima Kinen"
@@ -117,10 +117,10 @@
         },
         {
             "name": "Rice Shower",
-            "text": "B-Big Sister! I want to run in the<n>Arima Kinen!",
+            "text": "M-Maninha! Quero disputar a Arima<n>Kinen!",
             "choice_data_list": [
-                "You've already decided?!",
-                "You've already decided?!"
+                "Você já decidiu?!",
+                "Você já decidiu?!"
             ],
             "color_text_info_list": [
                 "Arima Kinen"
@@ -128,61 +128,61 @@
         },
         {
             "name": "Rice Shower",
-            "text": "Yes! You see, I heard..."
+            "text": "Sim! É que eu ouvi..."
         },
         {
             "name": "Rice Shower",
-            "text": "Bourbon and McQueen are racing<n>there!"
+            "text": "A Bourbon e a McQueen vão correr<n>lá!"
         },
         {
             "name": "Rice Shower",
-            "text": "So I want to join too! It'll be the<n>ultimate race!",
+            "text": "Então eu também quero participar! Vai<n>ser a corrida\ndefinitiva!",
             "choice_data_list": [
-                "All right, let's do it."
+                "Muito bem, vamos nessa."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Yay! Thank you!"
+            "text": "Eba! Obrigada, Maninho!"
         },
         {
             "name": "Rice Shower",
-            "text": "Yay! Thank you!"
+            "text": "Eba! Obrigada, Maninha!"
         },
         {
             "name": "Monólogo",
-            "text": "Like the Takarazuka Kinen, the Arima<n>Kinen is a\nrace in which only the most<n>popular runners can\nparticipate."
+            "text": "Assim como a Takarazuka Kinen, a<n>Arima Kinen é\numa corrida da qual só<n>as corredoras mais\npopulares podem<n>participar."
         },
         {
             "name": "Monólogo",
-            "text": "To think, she's now able to say she<n>wants to\nparticipate without worrying<n>about the requirements.\nWhich<n>means...",
+            "text": "Pensar que agora ela consegue dizer<n>que quer\nparticipar sem se preocupar<n>com os requisitos...\nIsso significa<n>que...",
             "choice_data_list": [
-                "You've grown.",
-                "You've grown."
+                "Você cresceu.",
+                "Você cresceu."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Huh? Did I get taller?",
+            "text": "Hã? Eu fiquei mais alta?",
             "choice_data_list": [
-                "That's not what I meant."
+                "Não foi o que eu quis dizer."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Then, what do you mean?"
+            "text": "Então, o que você quis dizer?"
         },
         {
             "name": "Rice Shower",
-            "text": "T-tell me! Big Brother!"
+            "text": "M-me conta! Maninho!"
         },
         {
             "name": "Rice Shower",
-            "text": "T-tell me! Big Sister!"
+            "text": "M-me conta! Maninha!"
         },
         {
             "name": "Monólogo",
-            "text": "Rice Shower spends the rest of the<n>day following\nme around, pestering<n>me for an answer."
+            "text": "Rice Shower passa o resto do dia me<n>seguindo por\ntoda parte, insistindo<n>para que eu lhe dê uma\nresposta."
         }
     ]
 }

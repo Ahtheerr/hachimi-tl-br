@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Finally, the day of the Kikuka Sho has<n>arrived."
+            "text": "Finalmente, chegou o dia da Kikuka<n>Sho."
         },
         {
             "name": "Rice Shower",
@@ -10,130 +10,130 @@
         },
         {
             "name": "Rice Shower",
-            "text": "I won't let Bourbon pull away this<n>time."
+            "text": "Desta vez, a Rice não vai deixar a<n>Bourbon se\ndistanciar."
         },
         {
             "name": "Rice Shower",
-            "text": "I'll follow behind her until the end...<n>And then..."
+            "text": "Vou segui-la até o fim... E então..."
         },
         {
             "name": "Rice Shower",
-            "text": "I <i>will</i> catch up to her.",
+            "text": "Eu <i>vou</i> alcançá-la.",
             "choice_data_list": [
-                "You've got this."
+                "Você consegue."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Thanks. Off I go!"
+            "text": "Obrigada. Estou indo!"
         },
         {
             "name": "Monólogo",
-            "text": "Memories of the Japanese Derby<n>unexpectedly\ncome to mind."
+            "text": "As lembranças da Derby Japonesa<n>me vêm à\nmente inesperadamente."
         },
         {
-            "name": "Spectators",
+            "name": "Expectadores",
             "text": "Bour-bon! Bour-bon!"
         },
         {
-            "name": "",
-            "text": "Just listen to that crowd! The cheers<n>of those\nexcited to see the birth of a<n>champion echo\nthroughout the<n>grounds!"
+            "name": "Caster",
+            "text": "Escutem só essa multidão! Os gritos<n>daqueles que\nestão ansiosos para<n>testemunhar o nascimento de\numa<n>campeã ecoam por todo o hipódromo!"
         },
         {
             "name": "Monólogo",
-            "text": "But now she has people cheering for<n>her too. Every\nsingle voice shouting<n>her name should serve to\nbolster her<n>confidence."
+            "text": "Mas agora ela também tem pessoas<n>torcendo por\nela. Cada voz que grita<n>seu nome deve servir para\nfortalecer<n>sua confiança."
         },
         {
             "name": "Monólogo",
-            "text": "Wooooo!"
+            "text": "Uhuuuu!"
         },
         {
-            "name": "Spectator A",
-            "text": "Go, Rice! You can beat Bourbon!"
-        },
-        {
-            "name": "Caster",
-            "text": "The time you've all been waiting for<n>is here! Who\nwill seize glory at this<n>year's Kikuka Sho?"
+            "name": "Expectadores",
+            "text": "Vai, Rice! Você consegue derrotar a<n>Bourbon!"
         },
         {
             "name": "Caster",
-            "text": "Mihono Bourbon, the Auburn Rocket?<n>Or Rice\nShower, the Sable Stayer?<n>This will be a face-off for\nthe ages!",
+            "text": "Chegou o momento que todos<n>estavam esperando!\nQuem<n>conquistará a glória na Kikuka Sho<n>deste ano?"
+        },
+        {
+            "name": "Caster",
+            "text": "Mihono Bourbon, o Foguete Auburn?<n>Ou Rice\nShower, a Fundista Negra?<n>Este será um confronto\npara entrar<n>na história!",
             "color_text_info_list": [
-                "Sable Stayer"
+                "Fundista Negra"
             ]
         },
         {
-            "name": "",
-            "text": "You can do it, Rice! Run your buns off!"
-        },
-        {
-            "name": "",
-            "text": "Y-you can do it..."
-        },
-        {
             "name": "Haru Urara",
-            "text": "Not good enough! One more time, as<n>loud as you\ncan!"
+            "text": "Você consegue, Rice! Dê tudo de si!"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "YOU CAN DO IT, RICE!",
+            "text": "V-você consegue..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Isso não serve! Mais uma vez, o<n>mais alto que\npuder!"
+        },
+        {
+            "name": "Zenno Rob Roy",
+            "text": "VOCÊ CONSEGUE, RICE!",
             "choice_data_list": [
-                "(What's this?)"
+                "(O que é isso?)"
             ]
         },
         {
             "name": "Haru Urara",
-            "text": "Hey look! It's Rice's trainer! Hiya!"
+            "text": "Olha só! É o treinador da Rice! Oiii!"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "H-hello!"
+            "text": "O-olá!"
         },
         {
             "name": "Monólogo",
-            "text": "It's Haru Urara and Zenno Rob Roy. If<n>I remember\nright, Rob Roy is Rice<n>Shower's roommate.",
+            "text": "São Haru Urara e Zenno Rob Roy. Se<n>me lembro\nbem, Rob Roy divide o<n>quarto com Rice Shower.",
             "choice_data_list": [
-                "What are you doing here?",
-                "What are you doing here?"
+                "O que vocês estão fazendo aqui?",
+                "O que vocês estão fazendo aqui?"
             ],
             "color_text_info_list": [
                 "Zenno Rob Roy"
             ]
         },
         {
-            "name": "",
-            "text": "Ehehe! We're here to support Rice,<n>duh! Isn't that\nright, Rob Roy?",
+            "name": "Haru Urara",
+            "text": "Ehehe! Viemos torcer pela Rice, é<n>claro! Não é\nmesmo, Rob Roy?",
             "color_text_info_list": [
                 "Rob Roy"
             ]
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "Y-yes! After all, she's been pushing<n>herself so\nmuch recently..."
+            "text": "S-sim! Afinal, ela tem se esforçado<n>tanto\nultimamente..."
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "We thought she would appreciate it if<n>we came to\nthe racecourse to support<n>her."
+            "text": "Achamos que ela ficaria feliz se<n>viéssemos ao\nhipódromo para torcer<n>por ela."
         },
         {
             "name": "Haru Urara",
-            "text": "And that's what we're doing!"
+            "text": "E é isso que estamos fazendo!"
         },
         {
             "name": "Zenno Rob Roy",
-            "text": "I'm worried our voices can't actually<n>reach her, but\nwe're still going to<n>cheer her on with all our might!"
+            "text": "Não sei se nossas vozes realmente<n>conseguem\nchegar até ela, mas<n>vamos torcer por ela com todas\nas<n>nossas forças!"
         },
         {
             "name": "Haru Urara",
-            "text": "Totally! One more time! Ready... now!"
+            "text": "Isso mesmo! Mais uma vez!<n>Preparadas... Já!"
         },
         {
-            "name": "Urara and Rob Roy",
-            "text": "You can do it, Rice! You can do it, Rice!"
+            "name": "Urara e Rob Roy",
+            "text": "Você consegue, Rice! Você consegue,<n>Rice!"
         },
         {
             "name": "Monólogo",
-            "text": "And so, the Kikuka Sho starts amidst<n>a roar of\ncheering voices."
+            "text": "E assim, a Kikuka Sho começa em<n>meio a uma\nexplosão de gritos de<n>torcida."
         }
     ]
 }

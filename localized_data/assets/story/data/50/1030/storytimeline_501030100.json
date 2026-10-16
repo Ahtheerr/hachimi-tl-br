@@ -2,7 +2,10 @@
     "text_block_list": [
         {
             "name": "Rice Shower",
-            "text": "...A Rice tem alguém."
+            "text": "...A Rice tem alguém.",
+            "color_text_info_list": [
+                "★★★"
+            ]
         },
         {
             "name": "Rice Shower",
@@ -42,14 +45,14 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "\\<i>Ofegante... Ofegante...\\</i>"
+            "text": "<i>Ofegante... Ofegante...</i>"
         },
         {
             "name": "Umamusume A",
-            "text": "E esse é mais um novo recorde,<n>Bourbon! Parece\nque a estrela dos<n>Clássicos desse ano já está\ndecidida!",
+            "text": "E esse é mais um novo recorde,<n>Bourbon! Parece\nque a estrela das<n>Clássicas desse ano já está\ndecidida!",
             "color_text_info_list": [
                 "Bourbon",
-                "Clássicos"
+                "Clássicas"
             ]
         },
         {
@@ -102,7 +105,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "O-o que eu faço? O horário do treino<n>já deve ter\nacabado... \\<i>Suspiro...\\</i>",
+            "text": "O-o que eu faço? O horário do treino<n>já deve ter\nacabado... <i>Suspiro...</i>",
             "choice_data_list": [
                 "Rice!"
             ]
@@ -125,7 +128,7 @@
         },
         {
             "name": "Rice Shower",
-            "text": "\\<i>Snif...\\</i> E agora já está tão tarde<n>assim...",
+            "text": "<i>Snif...</i> E agora já está tão tarde<n>assim...",
             "choice_data_list": [
                 "Tudo bem. Só fico feliz que você esteja bem."
             ]
@@ -164,8 +167,8 @@
             "name": "Rice Shower",
             "text": "Hã?!",
             "choice_data_list": [
-                "Você não precisa treinar sozinha. Vamos fazer isso\n\\<i>juntos!\\</i>",
-                "Você não precisa treinar sozinha. Vamos fazer isso\n\\<i>juntas!\\</i>"
+                "Você não precisa treinar sozinha. Vamos fazer isso\n<i>juntos!</i>",
+                "Você não precisa treinar sozinha. Vamos fazer isso\n<i>juntas!</i>"
             ]
         },
         {

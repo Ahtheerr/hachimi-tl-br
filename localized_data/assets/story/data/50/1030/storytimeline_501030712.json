@@ -2,49 +2,49 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "I've been waiting for Rice Shower for<n>some time\nnow. As the sun begins to<n>set..."
+            "text": "Estou esperando Rice Shower há<n>algum tempo.\nEnquanto o sol começa<n>a se pôr..."
         },
         {
             "name": "Rice Shower",
-            "text": "S-sorry! I was looking for something<n>at the park.",
+            "text": "D-desculpa! Eu estava procurando<n>uma coisa no\nparque.",
             "choice_data_list": [
-                "Did you lose something?"
+                "Você perdeu alguma coisa?"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Um... I didn't lose anything, but<n>another girl at the\npark did."
+            "text": "Ahn... Eu não perdi nada, mas outra<n>menina perdeu."
         },
         {
             "name": "Rice Shower",
-            "text": "She lost her hat and asked me to help<n>her look for\nit."
+            "text": "Ela perdeu o chapéu e pediu minha<n>ajuda para\nprocurá-lo."
         },
         {
             "name": "Rice Shower",
-            "text": "I told her it was bad luck for me to<n>help, but..."
+            "text": "Eu disse que seria azar eu ajudá-la,<n>mas..."
         },
         {
             "name": "Rice Shower",
-            "text": "She kept crying, and there was no<n>one else around.",
+            "text": "Ela continuou chorando, e não havia<n>mais ninguém\npor perto.",
             "choice_data_list": [
-                "Did you find it?"
+                "Encontraram?"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Yeah... We found it pretty quickly, but<n>then it got\nblown away by the wind,<n>and it took some time to\nget it back."
+            "text": "Sim... Encontramos bem rápido, mas<n>aí o vento\nlevou o chapéu, e<n>demoramos um pouco para\nrecuperá-lo."
         },
         {
             "name": "Rice Shower",
-            "text": "But... she was so happy once I gave<n>her the hat\nback... It made me really<n>happy too."
+            "text": "Mas... ela ficou tão feliz quando<n>devolvi o chapéu...\nIsso também me<n>deixou muito feliz."
         },
         {
             "name": "Rice Shower",
-            "text": "Still, I know that's no excuse for<n>missing training...\nI'm sorry."
+            "text": "Mesmo assim, sei que isso não é<n>desculpa para\nfaltar ao treino...<n>Desculpa."
         },
         {
-            "name": "",
-            "text": "I tell her she did the right thing, but<n>also that she\nshould contact me next<n>time something like that\nhappens."
+            "name": "Monólogo",
+            "text": "Digo a ela que fez a coisa certa, mas<n>também que,\nda próxima vez que algo<n>assim acontecer, ela deve\nentrar em<n>contato comigo."
         }
     ]
 }

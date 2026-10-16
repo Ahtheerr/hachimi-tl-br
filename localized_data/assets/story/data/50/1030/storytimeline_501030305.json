@@ -1,35 +1,35 @@
 {
     "text_block_list": [
         {
-            "name": "",
-            "text": "<i>Huff... puff... gasp...</i>",
+            "name": "Rice Shower",
+            "text": "<i>Ofegante... Ofegante... Haa...</i>",
             "choice_data_list": [
-                "Are you okay?!"
+                "Você está bem?!"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "I-I'm fine... I'm fine. Were you<n>watching?"
+            "text": "E-estou bem... Estou bem. Você<n>estava assistindo,\nManinho?"
         },
         {
             "name": "Rice Shower",
-            "text": "I-I'm fine... I'm fine. Were you<n>watching?"
+            "text": "E-estou bem... Estou bem. Você<n>estava assistindo,\nManinha?"
         },
         {
             "name": "Rice Shower",
-            "text": "I... I caught up to Bourbon!",
+            "text": "Eu... Eu alcancei a Bourbon!",
             "choice_data_list": [
-                "I saw!",
-                "I saw!"
+                "Eu vi!",
+                "Eu vi!"
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Heh... I... did it..."
+            "text": "Heh... A Rice... consegui..."
         },
         {
             "name": "Monólogo",
-            "text": "<i>Thud!</i>",
+            "text": "<i>Tum!</i>",
             "choice_data_list": [
                 "Rice?!"
             ]
@@ -40,86 +40,86 @@
         },
         {
             "name": "Monólogo",
-            "text": "Her strength exhausted, she<n>collapses before me."
+            "text": "Exausta, ela desaba diante de mim."
         },
         {
             "name": "Monólogo",
-            "text": "I rush forward to lend her my<n>shoulder to rest on.\nAnd as I do..."
+            "text": "Corro para ampará-la, oferecendo<n>meu ombro para\nque possa<n>descansar. E então..."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Her choice of words does not match<n>the scenario\nwe are in.",
+            "text": "A escolha de palavras dela não<n>condiz com a\nsituação em que<n>estamos.",
             "choice_data_list": [
                 "Mihono Bourbon!"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Considering the outcome of the race,<n>she should\nhave said she \"beat\" me."
+            "text": "Considerando o resultado da corrida,<n>ela deveria ter\ndito que me \"venceu\"."
         },
         {
-            "name": "",
-            "text": "The phrase \"caught up to\" is<n>misleading. Should you\nnot correct<n>her?",
+            "name": "Mihono Bourbon",
+            "text": "A expressão \"alcançar\" é enganosa.<n>Não deveria\ncorrigi-la?",
             "choice_data_list": [
-                "Catching up to you is what was important to her."
+                "Alcançar você era o que importava para ela."
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "This... does not compute."
+            "text": "Isso... não faz sentido."
         },
         {
             "name": "Rice Shower",
-            "text": "S-sorry! I didn't mean cause you<n>trouble!",
+            "text": "D-desculpe! A Rice não queria te dar<n>trabalho!",
             "choice_data_list": [
-                "It's okay. You were exhausted."
+                "Tudo bem. Você estava exausta."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "B-but...",
+            "text": "M-mas...",
             "choice_data_list": [
-                "Don't worry about it. We have to focus on what\ncomes next."
+                "Não se preocupe com isso. Temos que nos\nconcentrar no que vem pela frente."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "Hm? Next?",
+            "text": "Hã? O que vem pela frente?",
             "choice_data_list": [
-                "The Classics aren't over yet."
+                "As corridas clássicas ainda não acabaram."
             ]
         },
         {
             "name": "Rice Shower",
-            "text": "...Ah! You're right!"
+            "text": "...Ah! É verdade!"
+        },
+        {
+            "name": "rice Shower",
+            "text": "...Ah! É verdade!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Posso ter vencido desta vez... mas<n>não posso me\ncontentar só com isso."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hmm... A próxima corrida da Bourbon<n>só pode ser...",
+            "choice_data_list": [
+                "Aposto que na Kikuka Sho.",
+                "Aposto que na Kikuka Sho."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Então também vou participar dela...<n>Vamos nessa."
         },
         {
             "name": "",
-            "text": "...Ah! You're right!"
-        },
-        {
-            "name": "Rice Shower",
-            "text": "I may have won this time... but I can't<n>be satisfied\nwith just that."
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Hm... The next race Bourbon will run<n>in has got to\nbe...",
-            "choice_data_list": [
-                "The Kikuka Sho, I bet.",
-                "The Kikuka Sho, I bet."
-            ]
-        },
-        {
-            "name": "Rice Shower",
-            "text": "Then I'll run in that too... Let's do it."
-        },
-        {
-            "name": "",
-            "text": "The Kikuka Sho is the final race in the<n>Triple Crown\ntour—a 3000-meter<n>long-distance turf race."
+            "text": "A Kikuka Sho é a última corrida da<n>Tríplice Coroa:\numa prova de longa<n>distância de 3.000 metros na\ngrama."
         },
         {
             "name": "Monólogo",
-            "text": "Since Rice Shower is a stayer, that<n>means her\nchances of victory are the<n>highest they've ever\nbeen!"
+            "text": "Como Rice Shower é uma fundista,<n>isso significa\nque suas chances de<n>vitória nunca foram tão altas!"
         }
     ]
 }

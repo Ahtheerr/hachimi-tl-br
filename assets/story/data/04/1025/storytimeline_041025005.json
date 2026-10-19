@@ -1,0 +1,169 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Um dia, a chuva forte faz com que<n>tenhamos que cancelar nosso treino<n>ao ar livre. Eu estou passando um<n>tempo no meu escritório para montar<n>um plano de treino em ambiente<n>fechado.",
+            "choice_data_list": [
+                "(Espere um segundo... Onde está minha caneta?)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Notei que ando perdendo itens com<n>muito mais frequência ultimamente.<n>Ontem, perdi alguns documentos da<n>academia, e hoje parece que perdi<n>minha caneta."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Levanto-me da minha mesa para<n>buscar uma nova, quando—"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Tum!</i>",
+            "choice_data_list": [
+                "Urgh!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Embora eu esteja sozinho no meu<n>escritório, sinto como se alguém<n>tivesse colidido comigo, e eu tropeço<n>para frente.",
+            "choice_data_list": [
+                "(Talvez eu esteja apenas cansado...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Isso não serve. Como devo ser um<n>treinador eficaz se estou apenas<n>andando aos tropeços? Dou um tapa<n>na minha própria bochecha e<n>prossigo."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "<i>Arf, arf, arf...</i>"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Ufa... Er... treinador? A música...",
+            "choice_data_list": [
+                "Música?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Percebo que a música que<n>estávamos usando para as nossas<n>corridas de ida e volta parou.",
+            "choice_data_list": [
+                "Ah, desculpe! Eu me distraí por um momento!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Ei... Você, er...",
+            "choice_data_list": [
+                "Eu provavelmente deveria descansar mais."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Não... Não é isso."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Você notou... algo estranho<n>recentemente?",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Se não... que bom."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Talvez você devesse encerrar o dia<n>aqui?",
+            "choice_data_list": [
+                "É, provavelmente é o melhor.",
+                "É, provavelmente é o melhor."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Certo... Nesse caso, eu vou ficar por<n>aqui mais um pouco.",
+            "choice_data_list": [
+                "Ah, então tudo bem eu ficar também."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Você não... precisa fazer isso. Por<n>favor, vá para casa e descanse..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Sem desvios... Vá direto para casa... E<n>também..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Você não deveria vir ao campo de<n>treinamento à noite... Pelo menos por<n>enquanto..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Você não deve me visitar... à noite..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Saio para fora e vejo que a chuva<n>parou. Sigo para casa enquanto reflito<n>sobre o que ela acabou de me dizer.",
+            "choice_data_list": [
+                "(Ela não quer que eu a visite à noite por um\ntempo, ao que parece...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Talvez ela esteja chateada comigo<n>por todos os erros por descuido que<n>cometi hoje. Começo a pensar em<n>formas de evitar cometer os mesmos<n>deslizes amanhã, quando..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto um calafrio até a alma. É como<n>se alguém estivesse me encarando<n>por trás...",
+            "choice_data_list": [
+                "Qu-quem está aí?",
+                "\"Qu-quem está aí?\""
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu me viro rapidamente e não<n>encontro ninguém. Eu ainda sinto<n>algum tipo de presença diretamente<n>atrás de mim!"
+        },
+        {
+            "name": "???",
+            "text": "...Er.",
+            "choice_data_list": [
+                "Uaaaaah!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Eu esqueci... de te dizer uma coisa.",
+            "choice_data_list": [
+                "V-você me matou de susto!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Sinto muito... Não foi minha intenção."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Eu só queria te dizer para ter<n>cuidado..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Então, dito isso..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Eu sabia... Em vez de mim, parece<n>que está visando o Treinador..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Está... descontente? Ou será que..."
+        }
+    ]
+}

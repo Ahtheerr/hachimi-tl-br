@@ -1,0 +1,229 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "O tempo voa enquanto aproveito meu<n>período de experiência como<n>treinador da Tamamo Cross."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ufa... E aí? Como foi essa volta?",
+            "choice_data_list": [
+                "Cê bateu seu melhor tempo de novo!",
+                "Cê bateu seu melhor tempo de novo!"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Aí sim! E nem tô cansada! Tô voando,<n>hein!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que nossos dias de treino<n>pesado estão dando resultado, e ela<n>sente que está ficando mais forte.<n>Mas antes das seletivas, quero tentar<n>mais uma coisa.",
+            "choice_data_list": [
+                "Que tal testar suas habilidades em um treino\nprático?",
+                "Que tal testar suas habilidades em um treino\nprático?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Um testezinho antes da hora H, né?<n>Boa ideia! Quero ver do que eu sou<n>feita de verdade!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Considerando o crescimento dela,<n>isso devia estar no papo, mas ainda<n>podemos usar essa chance para<n>ajustar a postura e a estratégia dela."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ou, pelo menos, esse <i>era</i> o plano."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Tenho que ganhar, tenho que ganhar,<n>tenho que ganhar! Se eu não ganhar,<n>eu sou só uma..."
+        },
+        {
+            "name": "Narradora",
+            "text": "Estamos na reta final, com a líder<n>ainda ditando o ritmo! Será que<n>alguém vai conseguir ultrapassar?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Não! Por quê?! Vâmo, pernas, não me<n>deixa na mão agora! Nóis tem que<n>conseguir!"
+        },
+        {
+            "name": "Narradora",
+            "text": "Tamamo Cross acelera, mas não<n>consegue passar a líder! Acabou a<n>energia dela?! A liderança continua a<n>mesma e... temos uma vencedora!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O que era para ser um aquecimento<n>fácil antes da prova real acabou<n>sendo uma luta para conseguir<n>sequer o quinto lugar..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Mas que droga... Por que, depois de<n>tanto esforço, eu ainda sou um lixo?",
+            "choice_data_list": [
+                "Ei, calma lá..."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Mal aí, mas por hoje deu pra mim.<n>Preciso esfriar a cabeça."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Decido dar uma volta. Enquanto<n>caminho, tento entender o motivo da<n>incapacidade da Tamamo Cross de<n>liberar sua força na última corrida."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Quando olho para cima, percebo que<n>estou no mesmo parque onde<n>conheci a Tamamo Cross. E,<n>exatamente como naquela vez, ouço<n>o som de crianças brincando."
+        },
+        {
+            "name": "Garota A",
+            "text": "Aqui, Tama!"
+        },
+        {
+            "name": "Garoto A",
+            "text": "Rápido, rápido!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Nossa, eu não vim aqui pra brincar<n>não, viu. Sorte de vocês que são<n>fofos. Não dá pra dizer não pra—"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ah...",
+            "choice_data_list": [
+                "Cê vem sempre aqui?",
+                "Cê vem sempre aqui?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "É, acho que sim. Esse parque me<n>lembra um perto de casa, lá na minha<n>terra. Então, quando eu tô meio pra<n>baixo, venho aqui pra clarear as ideia."
+        },
+        {
+            "name": "Garoto A",
+            "text": "Tama? Que que cê tá fazendo?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Peraí, galera — nóis tá conversando<n>aqui! Vão lá se divertir sem mim!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...As criança daqui têm quase a<n>mesma idade dos meus irmãos."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Fico pensando como aqueles<n>pestinha tão... Meus pais também...<n>Espero que estejam se virando bem.",
+            "choice_data_list": [
+                "Parece que sua família é importante pra você.",
+                "Parece que sua família é importante pra você."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "É... Mais que qualquer coisa."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Sendo sincera, nóis não nada em<n>dinero não, mas isso não importava<n>pra gente. Tava todo mundo sempre<n>sorrindo, e todo dia era uma festa."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "O lance é que... sustentar nóis custa<n>caro, então meu pai e minha mãe se<n>matam de trampar todo dia... Eu não<n>podia ficar sentada deixando eles<n>cuidarem de tudo."
+        },
+        {
+            "name": "Irmão da Tamamo Cross",
+            "text": "Ei, Tama! Vâmo comprar doce! Tô<n>morrendo de fome agora!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ah, para, cê sabe que nóis não tem<n>grana pra isso. Além disso, o jantar<n>de hoje é... bolinho de peixe<n>grelhado! Tem certeza que quer se<n>entupir de doce?"
+        },
+        {
+            "name": "Irmã da Tamamo Cross",
+            "text": "Nossa! A Tama vai fazer bolinho de<n>peixe?!"
+        },
+        {
+            "name": "Irmão da Tamamo Cross",
+            "text": "Beleza! Cê tem razão, Tama. Vou<n>guardar espaço!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Assim que se fala! Agora vâmo<n>embora. O pai e a mãe tão esperando<n>nóis em casa!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "(Só esperem, pirralhos. Algum dia vou<n>comprar todo o doce que vocês<n>quiserem, e nóis vai jantar <i>picanha</i><n>no jantar!)"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Depois disso, comecei a pensar em<n>como fazer os sonhos da minha<n>família virarem realidade. E acabei<n>chegando na Twinkle Series."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Se eu ganhar todas as corrida, vou<n>ser superfamosa, né? E com isso<n>vem o <i>dinero</i>. Aí vou poder comprar o<n>que minha família quiser!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Meus pais ralaram muito pra me<n>colocar nessa academia, então tenho<n>que fazer valer a pena! Por isso que<n>eu tenho que ganhar! Mas..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Com essa minha corrida capenga,<n>não tô só perdendo, tô perdendo <i>feio</i>.<n>Tenho que admitir que é meio...<n>frustrante."
+        },
+        {
+            "name": "Garota A",
+            "text": "...Tama? Que foi?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hã? Que que cês tão fazendo aqui,<n>seus moleque? Achei que tinha<n>falado pra irem brincar."
+        },
+        {
+            "name": "Garoto A",
+            "text": "Mas a gente quer ver você correr!<n>Mostra como você é rápida!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ah, pelo amor de Deus... Cês acham<n>que eu sou brinquedo, né? Tá bom,<n>mas só desta vez. Chega pra trás,<n>todo mundo!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Preparar, apontar... Hup!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tamamo Cross dispara com uma<n>ferocidade que parece fazer o ar<n>estalar. Sim, exatamente como antes...<n>ela é o relâmpago rasgando o céu do<n>entardecer."
+        },
+        {
+            "name": "Garoto A",
+            "text": "Uaaau! Tama, cê ficou ainda mais<n>rápida! Foi tipo, \"CABUM!\""
+        },
+        {
+            "name": "Garota A",
+            "text": "É! E parece muito divertido!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "É mesmo, né?! Por isso que me<n>chamam de \"Relâmpago Branco!\"",
+            "choice_data_list": [
+                "Quem chama?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Bom, começou com uma coisa que<n>meu pai disse. Ele falou que me ver<n>correndo por aí toda feliz era que nem<n>ver o rastro de um relâmpago branco."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Minha família inteira tá convicta que o<n>Relâmpago Branco vai destruir a<n>concorrência e ser a mais rápida do<n>Japão... E eu não quero decepcionar<n>eles.",
+            "choice_data_list": [
+                "(Correndo por aí... toda feliz...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Será que essas palavras são a chave<n>para o que está travando ela?"
+        }
+    ]
+}

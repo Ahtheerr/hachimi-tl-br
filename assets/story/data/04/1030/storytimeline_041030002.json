@@ -1,0 +1,292 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Depois de não vê-la nas seletivas,<n>encontro Rice Shower chorando perto<n>de um toco."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Fungada...</i> Hum, me desculpe, mas...<n>poderia não chegar mais perto?",
+            "choice_data_list": [
+                "Por que não?",
+                "Por que não?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Porque... eu só trago infelicidade para<n>as pessoas ao meu redor. Eu vou te<n>atrapalhar... eu sou apenas um<n>incômodo..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eu queria ser útil, ser forte... eu ia dar<n>tudo de mim e entrar em uma corrida,<n>mas no fim..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Olhando para Rice Shower chorando<n>na minha frente, lembro-me de<n>quando a vi outro dia."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Não, não, eu tenho que me esforçar<n>ainda mais!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eu já decidi participar das próximas<n>seletivas. Eu vou mesmo entrar, vou<n>mesmo correr, e então..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Vou fazer minha estreia e vencer<n>várias corridas... Então, não serei<n>mais um fardo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não sei os detalhes, mas eu sei que<n>ela estava tentando mudar para<n>melhor. Ela estava treinando mais do<n>que qualquer outra pessoa."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Soluço... fungada...</i> Eu... eu não sou<n>nada além de—"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não posso deixá-la assim!",
+            "choice_data_list": [
+                "Rice Shower, eu quero te recrutar!",
+                "Rice Shower, eu quero te recrutar!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hein?"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Recrutar, quer dizer... Você quer ser<n>meu treinador?",
+            "choice_data_list": [
+                "Só se for o que você quer também.",
+                "Só se for o que você quer também."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ahhh... E-eu estou, hum... muito, muito<n>feliz, mas!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eu... sou apenas uma imprestável,<n>sabe? Eu só causo problemas para<n>os outros, e nem consigo participar de<n>uma corrida em que me inscrevi..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Sabendo de tudo isso, você ainda me<n>quer?",
+            "choice_data_list": [
+                "Eu quero te ajudar a superar tudo isso.",
+                "Eu quero te ajudar a superar tudo isso."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "...!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Uau... Igualzinho a um maninho de<n>verdade...",
+            "choice_data_list": [
+                "Maninho?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Uau... Igualzinho a uma maninha de<n>verdade...",
+            "choice_data_list": [
+                "Maninho?",
+                "Maninha?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah! D-deixa para lá, esqueça isso!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Mas, hum, se você tem certeza...<n>então vamos nos dar bem, Treinador."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eu vou dar tudo de mim!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Limpando as lágrimas, Rice reúne<n>todas as suas forças e me lança um<n>sorriso caloroso."
+        },
+        {
+            "name": "Monólogo",
+            "text": "É hora da minha primeira sessão de<n>treino com a Rice. Já estou na pista<n>esperando por ela."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Arf, arf...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Rice aparece, carregando uma<n>mochila enorme, cheia até explodir.<n>Ela a solta na beira da pista e corre<n>até mim."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Arf, arf...</i> D-desculpa a demora! Estou<n>ansiosa pelo treino de hoje!",
+            "choice_data_list": [
+                "O que houve com a bagagem?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah, hum... É tudo garantia caso coisas<n>ruins aconteçam enquanto estamos<n>aqui. Como curativos ou fita<n>esportiva..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Sem falar em um guarda-chuva caso<n>chova, uma muda de roupa e, claro,<n>maionese se ficarmos isolados no<n>caminho de volta!",
+            "choice_data_list": [
+                "É-é melhor prevenir do que remediar, eu acho?",
+                "É-é melhor prevenir do que remediar, eu acho?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah... É-é a nossa primeira sessão de<n>treino, afinal, então eu queria ter<n>certeza de que não estragaria tudo...<n>Estou sendo estranha?",
+            "choice_data_list": [
+                "Estragar tudo?"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Sim. Desde pequena, eu tenho<n>causado todo tipo de infelicidade."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "As crianças ao meu redor<n>tropeçavam, os cadarços delas<n>arrebentavam e, às vezes, até cocô<n>de passarinho caía na cabeça delas..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eu sou uma garota sem esperança<n>que causa problemas para os<n>outros..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tudo isso me parece apenas<n>acidentes de azar, mas acho que ela<n>é o tipo de pessoa que se sente<n>responsável por coisas desse tipo.",
+            "choice_data_list": [
+                "(Ela é realmente uma alma bondosa e\ncarinhosa...)",
+                "(Ela é realmente uma alma bondosa e\ncarinhosa...)"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah! Eu falei demais de novo! Eu sinto<n>muito, muito, <i>muito</i> mesmo!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Vamos começar o treino de uma vez!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Apesar de ser nossa primeira sessão<n>de treino, Rice completa<n>diligentemente todo o cardápio de<n>treino que preparei para ela."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "<i>Arf, arf...</i> Hum... como foi meu tempo?",
+            "choice_data_list": [
+                "Mais rápido do que o esperado! Estou super\nimpressionado!",
+                "Mais rápido do que o esperado! Estou super\nimpressionado!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Sério?! Q-que alívio!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hum... Treinador, você se importa se<n>eu der outra corrida? E-eu ainda<n>estou cheia de energia!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Quero trabalhar mais naquela técnica<n>que você me ensinou para correr nas<n>curvas."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Sinto que estou pegando o jeito de<n>aumentar o meu ritmo! I-isso é um<n>não?",
+            "choice_data_list": [
+                "De jeito nenhum — vá em frente!",
+                "De jeito nenhum — vá em frente!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Graças à Rice ser esforçada e rápida<n>em aprender, terminamos o treino de<n>hoje sem um único problema."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah... O s-senhor Sol já está indo<n>dormir..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Eu nem tinha notado até agora... Eu<n>só estava tão feliz por estar correndo.",
+            "choice_data_list": [
+                "Que bom que você se divertiu hoje."
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "S-sim! Foi super divertido, de<n>verdade! Você é tão gentil, Treinador...<n>igualzinho a um maninho de verdade..."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "S-sim! Foi super divertido, de<n>verdade! Você é tão gentil,<n>Treinadora... igualzinho a uma<n>maninha de verdade..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Ronco...</i>"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hein?! Ah, ah, ahhh, me desculpe!<n>Dona Barriguinha, shhh — eu disse<n>shhh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Para comemorar uma primeira<n>sessão de treino incrível, decidi<n>levá-la para jantar."
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Hum, Treinador, tudo bem mesmo eu<n>pedir o que eu quiser?",
+            "choice_data_list": [
+                "É por minha conta, então não se acanhe!",
+                "É por minha conta, então não se acanhe!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "O que eu quiser! Qualquer coisa...<n>qualquer coisa, hmmm..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seguindo o olhar dela, vejo um<n>banner enorme na frente de uma loja<n>de ramen que diz, \"Mega Montanha<n>Deluxe\"."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não querendo desperdiçar um<n>segundo sequer, sugiro que<n>entremos."
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "Com isso, o Mega Montanha Deluxe<n>esgotou por hoje! Por favor, voltem<n>amanhã!"
+        },
+        {
+            "name": "Rice Shower",
+            "text": "Ah! Oh...",
+            "choice_data_list": [
+                "Rice, vá em frente e peça todos os\nacompanhamentos do cardápio!",
+                "Rice, vá em frente e peça todos os\nacompanhamentos do cardápio!"
+            ]
+        },
+        {
+            "name": "Rice Shower",
+            "text": "S-sério?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, com sorrisos e barrigas<n>surpreendentemente grandes, nosso<n>primeiro dia de treino chega ao fim."
+        }
+    ]
+}

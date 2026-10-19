@@ -1,0 +1,285 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Temos um dia de folga, então estou<n>acompanhando Fine Motion em um<n>passeio de um dia pelas montanhas."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "<i>Inspira... Expira...</i> Ah, o ar é tão fresco<n>aqui na floresta! Isso me lembra as<n>manhãs no jardim de casa."
+        },
+        {
+            "name": "Voz da Capitã pelo Telefone",
+            "text": "...Isso será tudo, Treinador. Por favor,<n>permaneça vigilante e garanta a<n>segurança de Vossa Alteza.",
+            "choice_data_list": [
+                "Com certeza."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehehe, obrigada novamente pelo<n>seu tempo, Treinador. Eles<n>certamente não me deixariam vir tão<n>longe sozinha.",
+            "choice_data_list": [
+                "Só fico feliz em—er, o que viemos fazer aqui,\nafinal?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, essa é uma excelente pergunta.<n>Hehehe, veja bem..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Eu não planejei nada! Só pensei<n>que teríamos um passeio agradável e<n>normal ao ar livre.",
+            "choice_data_list": [
+                "Agradável e normal, né?",
+                "Agradável e normal, né?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Sim, embora, bem... Nunca se sabe<n>quais surpresas podem estar<n>esperando lá fora."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto um cheiro de travessura no ar,<n>mas deixo passar por enquanto, e<n>seguimos pelo caminho."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Ah, estava delicioso! Não querendo<n>me gabar, mas o macarrão frio que<n>eu preparei ficou perfeito.",
+            "choice_data_list": [
+                "Nós caminhamos bastante...",
+                "Nós caminhamos bastante..."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "E chegamos tão longe também. Nada<n>de cidade — apenas o riacho<n>murmurando, pássaros cantando,<n>insetos zumbindo... Parece que<n>entramos em um mundo de contos de<n>fadas."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Sabe, isso me lembra uma história<n>que li quando era pequena. O herói<n>salva a princesa, e eles estão fugindo<n>pela floresta juntos..."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "E então, o dragão os alcança para<n>levar a princesa de volta. Ele os ataca<n>em uma clareira remota exatamente<n>como esta."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Hehe. Parece que o dragão poderia<n>aparecer a qualquer segundo, não<n>parece?",
+            "choice_data_list": [
+                "Não... muito?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, é apenas um \"e se\", seu bobo.<n>Mas se um dragão realmente<n>aparecesse... Você lutaria para me<n>proteger... Certo?",
+            "choice_data_list": [
+                "É um \"e se\" bem grande, mas claro. Eu\nprotegeria você.",
+                "É um \"e se\" bem grande, mas claro. Eu\nprotegeria você."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Sério?! Fico lisonjeada! Ah, agora eu<n>quase gostaria que um dragão<n><i>realmente</i> aparecesse."
+        },
+        {
+            "name": "???",
+            "text": "GrooooOOOOOOAR!",
+            "choice_data_list": [
+                "O-o que foi isso?!",
+                "O-o que foi isso?!"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ah! Treinador, olhe! Tem alguma<n>coisa no rio!"
+        },
+        {
+            "name": "Dragão",
+            "text": "Graaaaawr!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Da água emerge... uma fantasia de<n>tiranossauro rex com grandes asas<n>flácidas nos braços."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Um dragão! Oh, não! Não chegue mais<n>perto!",
+            "choice_data_list": [
+                "Er..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto minha mente tenta formular<n>uma reação, o... dragão(?) cruza os<n>braços, fazendo uma pose saída<n>diretamente de um filme de monstros."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Aaah! O que eu vou fazer? O dragão<n>malvado vai me comer!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Oh, se ao menos — se ao menos um<n>herói matasse o dragão e me<n>resgatasse do meu infortúnio...",
+            "choice_data_list": [
+                "...Tudo bem, TUDO BEM! Deixe comigo!"
+            ]
+        },
+        {
+            "name": "Dragão",
+            "text": "Rooooar!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Meu herói! Que a coragem guie sua<n>mão!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Luto com o dragão por alguns<n>minutos, sendo empurrado de um<n>lado para o outro sem rumo até que<n>finalmente..."
+        },
+        {
+            "name": "Dragão",
+            "text": "Groooar! Eu fui derrotado!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Graças a Deus! Você foi tão galante,<n>Treinador!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas não temos tempo para<n>comemorar. O dragão se levanta e<n>então... remove a cabeça."
+        },
+        {
+            "name": "Capitã da Segurança",
+            "text": "Hehehe. Meus parabéns.",
+            "choice_data_list": [
+                "C-Capitã? Por que você...",
+                "C-Capitã? Por que você..."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. Três, dois, um!"
+        },
+        {
+            "name": "Fine & Capitã",
+            "text": "Surpreeeesa!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Estou chocado e embasbacado com<n>essa reviravolta inteiramente<n>inesperada.",
+            "choice_data_list": [
+                "...Por que estão tentando me surpreender?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehehe... Lembra do outro dia,<n>quando ajudamos a levar aquele<n>gatinho para casa?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Fiquei pensando comigo mesma que<n>foi uma surpresa tão agradável, então<n>decidi planejar outra, só para você!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Como foi? Você gostou?",
+            "choice_data_list": [
+                "Definitivamente me pegou desprevenido, mas...\nsim, eu gostei."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Fico tão feliz! Todo aquele ensaio<n>valeu a pena, pelo visto. ♪"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Também estou feliz que você<n>manteve sua promessa — de que me<n>protegeria do dragão.",
+            "choice_data_list": [
+                "Bem... sim.",
+                "Bem... sim."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Hehe. Obrigada."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A Capitã des-dragonizada se junta a<n>nós pelo resto da caminhada.<n>Aproveitamos a vista do topo da<n>montanha e depois voltamos<n>calmamente para casa."
+        },
+        {
+            "name": "Dono do Lámen Furioso",
+            "text": "Oh, bem-vinda de volta, mocinha.<n>Posso trazer o de sempre?"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Sim, para três, por favor."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Ufa... Depois de tudo isso, é bom<n>estar de volta. Obrigada aos dois por<n>um passeio tão emocionante.",
+            "choice_data_list": [
+                "A luta livre me cansou mais do que eu\nimaginava.",
+                "A luta livre me cansou mais do que eu\nimaginava."
+            ]
+        },
+        {
+            "name": "Capitã da Segurança",
+            "text": "Heh. Eu tenho bastante prática em<n>ser o dragão. Vossa Alteza até me fez<n>uma medalha por isso quando era<n>pequena."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Haha, eu me lembro disso! A<n>medalha de excelência dracônica,<n>certo? Eu a fiz com flores, gravetos e<n>trevos."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Agora que você mencionou, me<n>pergunto qual prêmio devo dar ao<n>nosso galante herói. Que tal... \"o<n>medalhão do matador de dragões\"?",
+            "choice_data_list": [
+                "S-seria uma honra. Eu acho?",
+                "S-seria uma honra. Eu acho?"
+            ]
+        },
+        {
+            "name": "Capitã da Segurança",
+            "text": "Parabéns, Matador de Dragões. Só<n>para você saber, no entanto, eu<n>também sou uma atriz condecorada<n>em papéis de bruxas e fortalezas.<n>Você ainda não me venceu."
+        },
+        {
+            "name": "Dono do Lámen Furioso",
+            "text": "Saindo o pedido. Três tigelas de shio<n>lámen saboroso, com<n>acompanhamentos extras."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "...Eh?! O shio lámen saboroso não<n>vem com menma ou milho, e eu não<n>disse nada. Como você soube?"
+        },
+        {
+            "name": "Dono do Lámen Furioso",
+            "text": "Eu lembro dos pedidos habituais dos<n>meus clientes — acompanhamentos e<n>tudo. Os extras são por conta da<n>casa, então aproveitem."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Com certeza vamos aproveitar. Muito<n>obrigada!"
+        },
+        {
+            "name": "Fine Motion",
+            "text": "O \"de sempre\", no entanto... Suponho<n>que haja muito charme na rotina<n>comum do dia a dia também."
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Hehe. É estranho pensar que sou<n>uma \"cliente habitual\" aqui agora.<n>Comer lámen e conversar com todos<n>se tornou uma parte tão normal da<n>minha vida.",
+            "choice_data_list": [
+                "Com certeza se tornou.",
+                "Com certeza se tornou."
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Sabe, eu acho que talvez, só talvez...",
+            "choice_data_list": [
+                "...Talvez o quê?",
+                "...Talvez o quê?"
+            ]
+        },
+        {
+            "name": "Fine Motion",
+            "text": "Não, não é nada. Eu só me dei conta<n>de como este dia foi adorável."
+        }
+    ]
+}

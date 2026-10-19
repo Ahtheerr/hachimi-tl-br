@@ -1,0 +1,261 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Já que é meu dia de folga, decido sair<n>para fazer umas compras. No<n>shopping, avisto Tamamo Cross,<n>parada como se estivesse em transe.",
+            "choice_data_list": [
+                "Tamamo Cross?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "T-T-T-Treinador!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Na hora certa! Na moral, cê tem um<n><i>dom</i> pra isso! Sério! Nem sei como<n>agradecer por cê ter aparecido!",
+            "choice_data_list": [
+                "A gente não tinha planos pra hoje... tinha?",
+                "A gente não tinha planos pra hoje... tinha?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Não, mas seu tempo não podia ser<n>mais perfeito! Tô num mato sem<n>cachorro, sabe!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Olha só todas essas loja metida a<n>besta! Como é que eu vou saber em<n>qual delas entrar?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Mas ó — eu PRECISO de um presente<n>pro aniversário de casamento dos<n>meus pais! Então, por favor,<n>Treinador, cê tem que me ajudar!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Meus irmãos tão fazendo<n>okonomiyaki pros coroa<n>comemorarem, mas não posso<n>ajudar porque tô aqui. Por isso achei<n>melhor comprar um presente."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Não tenho dinero pra nada muito<n>louco, mas... cê tem alguma ideia?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "As lojas \"chiques\" que ela<n>mencionou seriam normalmente<n>consideradas tranquilas para o bolso<n>de um estudante. Se elas estão fora<n>do orçamento...",
+            "choice_data_list": [
+                "Que tal comprar uma caixa de bombons?",
+                "Que tal comprar uma caixa de bombons?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Muitas marcas de chocolate<n>acessíveis parecem tão bonitas<n>quanto as de luxo, e ganhar uma<n>caixa de bombons ainda passa um ar<n>de ocasião especial."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "É, acho que tenho grana pra algo que<n><i>pareça</i> chique! Além disso, a<n>molecada nunca diz não pra um<n>doce... Fechou o plano!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com a decisão tomada, Tamamo<n>Cross e eu seguimos para as<n>docerias."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "N-não pode ser... Por favor, me diz<n>que esqueceram de colocar uma<n>vírgula nesse preço em algum lugar..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Dava pra comprar <i>cinco</i> caixas<n>grandes de chocolate normal pelo<n>preço de <i>um</i> único bombom desse!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Quem em sã consciência gastaria o<n>orçamento todo de lanche em <i>um</i><n>pedaço de chocolate... QUEM?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Não acredito... não acredito! O povo<n>come essas coisa cara direto?",
+            "choice_data_list": [
+                "A maioria guarda para ocasiões especiais."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Explico que esses mimos luxuosos<n>são geralmente guardados para dar<n>de presente, ou para quando você<n>realmente quer se dar um agrado."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Se dar um agrado?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Já ouvi falar disso, mas... o povo faz<n>mesmo? Por quê? Se cê tem tanta<n>grana sobrando, não era melhor<n>guardar? Não entendo..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Mas sério, esses preços... O que é<n>um preço justo? Promoção existe por<n>aqui?",
+            "choice_data_list": [
+                "Vamos fazer uma pausa.",
+                "Vamos fazer uma pausa."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Boa ideia. Não quero tomar uma<n>decisão precipitada com tanto dinero<n>em jogo."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ufa... sinto que posso <i>respirar</i> de<n>novo. E agora, o que eu compro?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Desde quando panqueca é tão caro?<n>Tenho que comprar o presente dos<n>meus pais, não posso gastar tanto<n>aqui."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Vou só querer um copo d'água! Nem<n>tô com tanta fome assim."
+        },
+        {
+            "name": "Atendente",
+            "text": "Com licença, estão prontos para<n>pedir?",
+            "choice_data_list": [
+                "Dois combos de panqueca com suco, por favor."
+            ]
+        },
+        {
+            "name": "Atendente",
+            "text": "Obrigado. Traremos o pedido em um<n>instante."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ei! Por que cê pediu pra mim?!",
+            "choice_data_list": [
+                "Não esquenta, eu pago!",
+                "Não esquenta, eu pago!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tamamo Cross e eu temos<n>trabalhado duro dentro e fora das<n>pistas. Então digo a ela que<n>merecemos uma recompensa, e por<n>isso o agrado é por minha conta."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Claro, não é só uma recompensa.<n>Essas panquecas também vão nos<n>motivar a dar o nosso melhor nos<n>próximos treinos e corridas."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...Entendi o que cê tá tentando fazer.<n>Quer que eu experimente esse lance<n>de \"se dar um agrado\", né?"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Ainda não entendo o motivo de tanto<n>alarde, mas... bom, agora já foi. Vamo<n>ver se é tudo isso mesmo!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Hehe... Além disso, eu seria doida de<n>recusar um rango de graça dessas<n>panqueca chique!"
+        },
+        {
+            "name": "Atendente",
+            "text": "Obrigado por aguardarem. Aqui estão<n>as panquecas e o suco. Bom apetite!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Já tava na hora! Essas bicha são<n>fofinha mesmo. Vamo ver..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "...Mmmph?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "(A cremosidade que só o ovo dá tá<n>enchendo minha boca! Não, pera, tá<n>mudando pra outra coisa...)"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "(É o chantilly! Combina direitinho com<n>o salgadinho da manteiga... E o<n>gostinho que fica é tão leve! Quero<n>comer maaaais!)"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "DELÍÍÍCIIIA!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Treinador, é <i>muito</i> bom!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Com certeza entendo querer comer<n>assim mais vezes, mesmo que doa<n>no bolso."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Acho que tem algo de especial nesse<n>lance de se dar um agrado."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Mas ainda assim... queria que minha<n>família tivesse aqui pra provar essas<n>panqueca comigo. Os pirralho e meus<n>coroa também merecem um luxo, né?",
+            "choice_data_list": [
+                "Mas aposto que é assim que sua família se\nsente em relação a você."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Se a família dela for parecida com a<n>Tamamo Cross, com certeza querem<n>vê-la prosperar, comendo coisas<n>gostosas e se dando um agrado pelo<n>seu esforço."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Eles se sentiriam assim por mim?<n>Agora que cê falou..."
+        },
+        {
+            "name": "Irmão da Tamamo Cross",
+            "text": "Ei! Por que a Tama ganhou um<n>croquete extra e a gente não?!"
+        },
+        {
+            "name": "Pai da Tamamo Cross",
+            "text": "Bom, sua irmã ficou em primeiro na<n>corrida, não ficou? Ela merece um<n>agrado! Come tudo, Tama, e recupera<n>as energia pra próxima!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Cê tem razão... Meus pais viviam me<n>dando uns agrados..."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "O que faz sentido... Claro que eles<n>querem me ver feliz. Nossa... por que<n>não percebi antes?",
+            "choice_data_list": [
+                "Talvez tudo bem se dar mais agrados?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Bom... isso aqui já tá de bom<n>tamanho pra mim, mas vou pensar no<n>assunto."
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Enfim, melhor eu voltar pras<n>panqueca! Não vou deixar sobrar nem<n>farelo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Livre da culpa de aproveitar seu doce<n>fofinho, Tamamo Cross ataca o prato<n>com novo vigor.",
+            "choice_data_list": [
+                "C-calma aí..."
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Olha, eu quero acabar essas<n>panqueca. Eu <i>quero</i> saborear cada<n>pedaço! Mas eu... tô chegando no<n>meu limite... preciso ir mais devagar.",
+            "choice_data_list": [
+                "Oh? Já está cheia?"
+            ]
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Não, é que é tudo muito rico — não só<n>no sabor, mas no preço... Sei que cê<n>tá pagando, mas sinto o dinero<n>voando daqui. Me dá até calafrio..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Parece que ela não tem muita<n>tolerância para refeições sofisticadas<n>— mesmo que estejamos apenas em<n>um café. Ainda assim, ela faz questão<n>de comer até o último pedacinho."
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "O Encontro Tracen está se<n>aproximando. É um dos eventos<n>regulares da Academia e conta com<n>todas as categorias de corrida."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Por isso, os campos de treinamento<n>estão cheios de alunas praticando,<n>ansiosas para mostrar suas<n>habilidades no dia do evento."
+        },
+        {
+            "name": "???",
+            "text": "<i>Arf, arf...</i> Q-quase... lá..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Entre elas, vejo uma Umamusume<n>exausta ficando para trás, bem longe<n>das outras."
+        },
+        {
+            "name": "???",
+            "text": "Che-guei... <i>Arf.</i> Urgh... Que tontura..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Quando o corpo dela finalmente<n>desiste e ela cai no chão, eu corro<n>para o seu lado.",
+            "choice_data_list": [
+                "Você está bem?!",
+                "Você está bem?!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "S-sim, tudo certo..."
+        },
+        {
+            "name": "???",
+            "text": "Ufa... Não posso deixar uma<n>tonturinha atrapalhar, ainda mais se<n>eu quiser vencer!"
+        },
+        {
+            "name": "???",
+            "text": "Mas obrigada por ver como eu<n>estava! Er... Você é..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Em resposta ao seu olhar curioso, eu<n>me apresento rapidamente como<n>treinador."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Uau, um treinador, hein?! Prazer em te<n>conhecer! Eu sou a Haru Urara!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Espera, então você vai no Encontro<n>Tracen, né?",
+            "choice_data_list": [
+                "Esse é o plano...",
+                "Esse é o plano..."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Então vê se assiste à minha corrida<n>também! Eu vou ficar em primeiro<n>lugar!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Correr é bom demais! E olha quanta<n>energia! Sem falar em como as<n>cenouras são gostosas! Aposto que<n>a vitória já é minha!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto Haru Urara brilha de<n>confiança, relembro como ela se<n>esforçou ao ponto de desmaiar<n>durante o treino."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Talvez ela seja mais talentosa do<n>que minha primeira impressão?"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Enfim, é melhor eu voltar a treinar! A<n>gente se vê na corrida! Tchau-tchau!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "<i>Arf... arf...</i> Por que minhas pernas<n>estão tão peeese-das!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com um grito de esforço, Haru Urara<n>sai em disparada."
+        },
+        {
+            "name": "Monólogo",
+            "text": "No dia do evento, curioso para ver o<n>desempenho de Haru Urara, sigo para<n>o percurso designado a ela."
+        },
+        {
+            "name": "Narradora",
+            "text": "Entramos na reta final! Haru Urara<n>continua ficando cada vez mais para<n>trás do grupo!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Hnnngh! Eu ainda não vou desistir!"
+        },
+        {
+            "name": "Narradora",
+            "text": "E cruzaram a linha! Que corrida<n>acirrada! Teremos uma disputa<n>decidida por foto!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mesmo com todas as outras<n>corredoras passando pela linha de<n>chegada, Haru Urara continua<n>correndo com toda a sua força, com<n>os olhos fixos no objetivo."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "É isso! Estou quase lá! E... Iá!"
+        },
+        {
+            "name": "Narradora",
+            "text": "Agora Haru Urara... finalmente passou<n>pela linha de chegada! Uma salva de<n>palmas para ela, pessoal!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Em último lugar... Julgando pela sua<n>forma, sei que ela não está ferida<n>nem doente. Isso é realmente o<n>melhor que ela pode fazer..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Embora decepcionado, não consigo<n>tirar da cabeça a imagem de Haru<n>Urara correndo com todas as suas<n>forças."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "<i>Arf... Arf...</i> T-tão cansada...",
+            "choice_data_list": [
+                "Você deu o seu melhor."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah, você é aquele treinador de antes!<n>Você veio mesmo me ver correr!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ehehe... Que vergonha. Eu tinha<n>certeza de que ia ganhar desta vez..."
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Mas adivinha?! Eu corri a prova<n>tooodinha! Todo aquele treino valeu a<n>pena!",
+            "choice_data_list": [
+                "Deu para ver que você correu com tudo o que\ntinha."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Sério?! Ehehe, com certeza!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Correr é mesmo o melhor de tudo!<n>Mal posso esperar pela minha<n>próxima corrida!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ah, agora que eu parei para pensar,<n>eu vou correr na próxima corrida de<n>seleção também!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ei, você devia ir me ver correr lá<n>também! Vou garantir o primeiro lugar<n>dessa vez!",
+            "choice_data_list": [
+                "Tudo bem. A gente se vê lá."
+            ]
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Ótimo! Então é uma promessa!"
+        },
+        {
+            "name": "Haru Urara",
+            "text": "Bom, parece que tenho mais treinos<n>pela frente! Vamos lá, Haru Urara!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Apesar do gosto amargo da derrota,<n>os olhos de Haru Urara não estão<n>cheios de tristeza, mas de uma<n>determinação avassaladora."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Diante do seu otimismo implacável,<n>eu também sou tomado por um forte<n>desejo de vê-la correr novamente."
+        }
+    ]
+}

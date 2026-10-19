@@ -1,0 +1,270 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Hoje marca o início do acampamento<n>de verão. Mostro a Sakura Chiyono O<n>minhas notas sobre nossa agenda e<n>no que quero que ela foque."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Certo, certo... Acho que isso é típico<n>de um acampamento de verão —<n>temos muita coisa para fazer!",
+            "choice_data_list": [
+                "É uma carga de trabalho maior. Acha que\naguenta?",
+                "É uma carga de trabalho maior. Acha que\naguenta?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Com certeza! Eu confio em você e no<n>seu Treina-tário!",
+            "choice_data_list": [
+                "Treina... tário?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Sim! Problemas que preciso trabalhar,<n>técnicas que posso usar para<n>melhorar — estão todos escritos aqui<n>neste caderno."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Imagino que você tenha lido aqueles<n>livros que comprou e pensado muito<n>para criar este regime."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "O que significa que todo o seu carinho<n>e trabalho duro como treinador estão<n>reunidos aqui — é o seu Treina-tário!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Apenas observe — vou usar nosso<n>tempo no acampamento para<n>melhorar o máximo que puder!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Os olhos dela se iluminam, brilhando<n>com determinação."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Arf!</i> ...Quase na margem!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Não posso parar ainda! Mais dez<n>séries! \"A Chiyo que caminha por aí<n>encontra o portão de largada\"!"
+        },
+        {
+            "name": "Estudante no Acampamento A",
+            "text": "Ei, você não acha que a Chiyo parece<n>quase uma pessoa diferente desde<n>que veio para cá?"
+        },
+        {
+            "name": "Estudante no Acampamento B",
+            "text": "É, ela está super dedicada. Temos<n>que treinar mais pesado também!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "<i>Arf, arf...</i> Acho que por hoje é só!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Senti que todo mundo estava me<n>encarando no caminho para cá... Eu<n>estava fazendo algo estranho?",
+            "choice_data_list": [
+                "Não, você estava apenas sendo você mesma."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh? Acho que não há nada com que<n>se preocupar então..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nossos dias de treino interminável<n>continuam e, antes que percebamos,<n>o acampamento chega ao fim."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "R-sério?!",
+            "choice_data_list": [
+                "Sim, seu tempo definitivamente melhorou desde\no início do acampamento."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "0,1 segundos... <i>Nossos</i> 0,1 segundos!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Não é muito... quase nada na verdade,<n>mas ainda assim! Estou muito mais<n>perto da Maruzen agora, não estou?",
+            "choice_data_list": [
+                "Com certeza está. Você sente isso?",
+                "Com certeza está. Você sente isso?"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Sim! Ehehe..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nosso acampamento de verão chega<n>ao fim. E agora..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Eu não sabia que estava<n>acontecendo um festival tão perto.<n>Obrigada por me trazer aqui!",
+            "choice_data_list": [
+                "Um pequeno agrado por todo o seu trabalho duro."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hehe. Então vou me certificar de<n>aproveitar ao máximo! Algodão doce,<n>pescaria de yo-yo, pescar peixinhos<n>dourados e... Oh!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Este cachorrinho de pelúcia, não te<n>lembra um pouco a Maruzen? Tipo<n>como ele é fofinho e tem esses olhos<n>gentis!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ele é tão fofo! Ei, amiguinho, você<n>quer vir para casa comigo?",
+            "choice_data_list": [
+                "Me lembra você, na verdade.",
+                "Me lembra você, na verdade."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "M-mim?! Você quer dizer..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Espera, n-n-não! Esquece! Ahaha. Oh,<n>Treinador, você é engraçado, sabia?"
+        },
+        {
+            "name": "Dono da Barraca",
+            "text": "Vocês dois gostaram daquele bicho<n>de pelúcia? Então por que não tentam<n>o nosso desafio de katanuki?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Katanuki?"
+        },
+        {
+            "name": "Dono da Barraca",
+            "text": "Funciona assim: você pega esta<n>folha de doce aqui e, usando uma<n>agulha e seus dedos, recorta a forma<n>no meio!"
+        },
+        {
+            "name": "Dono da Barraca",
+            "text": "Faça um corte limpo e eu te dou o<n>cãozinho como prêmio! Que tal?<n>Querem tentar?"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ooh, eu gosto muito do cãozinho,<n>mas... isso parece meio difícil.",
+            "choice_data_list": [
+                "Eu vou tentar!",
+                "Eu vou tentar!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Hm? ...Espera, o quê?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Todo empolgado para ganhar o<n>prêmio da Chiyono O, tento o desafio<n>de katanuki, apenas para descobrir<n>que é mais difícil do que eu pensava..."
+        },
+        {
+            "name": "Dono da Barraca",
+            "text": "Opa, quase, mas não foi dessa vez.<n>Que tal tentar de novo?",
+            "choice_data_list": [
+                "Certo! Vou conseguir desta vez!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Espera, hum, Treinador? Talvez você<n>devesse começar longe das<n>reentrâncias!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Olhando suas tentativas anteriores,<n>descascar lentamente o perímetro<n>pareceu a opção mais segura, então...",
+            "choice_data_list": [
+                "Entendi! Sempre posso contar com você, Chiyo!"
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "O-quê? Não, eu só estava fazendo<n>anotações enquanto observava... De<n>qualquer forma, você consegue!"
+        },
+        {
+            "name": "Dono da Barraca",
+            "text": "Ohh! Temos um vencedor! E para o<n>vitorioso vai o bicho de pelúcia!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "V-você tem certeza de que eu posso<n>ficar com ele?",
+            "choice_data_list": [
+                "Sim, outra recompensa pelo seu trabalho no\nacampamento.",
+                "Sim, outra recompensa pelo seu trabalho no\nacampamento."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "...Obrigada!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ehehe! Vou te chamar de Sakura<n>Dog-O. Au, au!",
+            "choice_data_list": [
+                "Ele realmente se parece com você.",
+                "Ele realmente se parece com você."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "S-só você acha isso!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ahem! Se ele se parece comigo ou<n>não à parte, hum... obrigada mais uma<n>vez."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Não apenas por este amiguinho, mas<n>por todo o acampamento de verão e<n>por tudo o que veio antes também..."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Lembra do que você me disse uma<n>vez? Que me observar te dá forças e<n>me ver trabalhar duro te dá coragem."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Eu sinto o mesmo. Quando vejo você<n>trabalhando duro, isso me faz querer<n>dar o meu melhor também."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Encontrei mais força do que jamais<n>encontrei sozinha. Cheguei muito<n>mais longe do que jamais<n>conseguiria sozinha."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Então eu sei que, enquanto<n>continuarmos trabalhando duro<n>juntos, eu posso ficar ainda mais<n>forte!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Eu serei sua fonte de força e você<n>será a minha."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "E então, até vencer o Derby não será<n>apenas um sonho distante — seremos<n>fortes o suficiente para fazer isso de<n>verdade!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ou, hum... é o que este amiguinho aqui<n>pensa, pelo menos...",
+            "choice_data_list": [
+                "Bem, eu concordo com o Dog-O.",
+                "Bem, eu concordo com o Dog-O."
+            ]
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Eu... eu vou realizar meus sonhos!<n>Mesmo que eu não consiga crescer<n>tão rápido quanto as outras, não<n>importa quanto tempo leve, eu juro<n>que vou!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "\"A sakura que floresce tarde ainda é<n>uma sakura\", não é?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Como se concordassem, fogos de<n>artifício florescem brilhantes no céu<n>noturno."
+        }
+    ]
+}

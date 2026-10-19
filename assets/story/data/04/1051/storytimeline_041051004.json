@@ -1,0 +1,256 @@
+{
+    "text_block_list": [
+        {
+            "name": "Nishino Flower",
+            "text": "Vamos dar o nosso melhor hoje,<n>Treinador!",
+            "choice_data_list": [
+                "Vamos no seu ritmo, tá?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sim! Primeiro eu preciso focar na<n>reabilitação!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não dá pra fazer nenhum treino<n>pesado enquanto Nishino Flower está<n>em reabilitação, mas ainda tem muita<n>coisa que dá pra fazer. Se brincar,<n>nossos dias ficam é mais corridos."
+        },
+        {
+            "name": "Treinadora Sênior A",
+            "text": "Ei, <username>! Você tá bem mais animado do<n>que da última vez que eu te vi! Que<n>bom! A gente tava preocupado com<n>você, sabia."
+        },
+        {
+            "name": "Treinadora Sênior B",
+            "text": "Você parecia bem pra baixo, então a<n>gente tava pensando em te levar pra<n>comer alguma coisa qualquer dia—",
+            "choice_data_list": [
+                "Vocês!"
+            ]
+        },
+        {
+            "name": "Treinadoras Sêniores",
+            "text": "Hã?! O-o que foi?!",
+            "choice_data_list": [
+                "Tem uma coisa que eu quero pedir pra vocês!"
+            ]
+        },
+        {
+            "name": "Treinadora Sênior A",
+            "text": "Você quer a nossa ajuda pra<n>preencher o que estiver faltando pra<n>você como Treinador? Nem precisa<n>pedir! Experiência é a melhor<n>professora, mas também tem coisa<n>que só dá pra aprender com colegas!"
+        },
+        {
+            "name": "Treinadora Sênior B",
+            "text": "Eu treinei alguém que se machucou<n>do mesmo jeito. Ainda tenho minhas<n>anotações antigas, então vou tirar<n>cópias pra você.",
+            "choice_data_list": [
+                "Obrigada! Vocês salvaram minha vida!"
+            ]
+        },
+        {
+            "name": "Treinadoras Sêniores",
+            "text": "Você consegue, novato!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Usando os conselhos das minhas<n>treinadoras sêniores, livros que<n>peguei na biblioteca e anotações<n>antigas, eu começo a montar um<n>programa de reabilitação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E, por mais que a reabilitação seja<n>importante, eu também preciso<n>pensar no que vem depois. Eu tô<n>quebrando a cabeça quando ouço<n>uma batida na porta."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Você já almoçou, Treinador?",
+            "choice_data_list": [
+                "Hã? Já deu essa hora?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Sim! Na verdade, o almoço começou<n>há alguns minutinhos. Então, um... eu<n>fiz isso pra você."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Eu estava esperando que a gente<n>comesse junto, então eu fiz almoço<n>pros dois. Eu sou muito boa fazendo<n>almôndegas ao molho agridoce de<n>vinagre. Ehehe.",
+            "choice_data_list": [
+                "Obrigado. Mal posso esperar pra provar."
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hehe, que bom que você gostou. Se<n>tiver mais alguma coisa que você<n>queira comer, pode me dizer. Eu faço<n>no nosso próximo almoço juntos. ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O período de reabilitação da Nishino<n>Flower termina num piscar de olhos.<n>Agora, estamos prontos pra treinar<n>pra valer!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Finalmente podemos começar a<n>treinar! Eu tô pronta quando você<n>estiver—"
+        },
+        {
+            "name": "???",
+            "text": "Aêêê!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Besties de corrida pra vida! Miga, a<n>gente <i>detona</i> nesses tiros!"
+        },
+        {
+            "name": "Mejiro Palmer",
+            "text": "Você é braba demais por isso!"
+        },
+        {
+            "name": "Sakura Bakushin O",
+            "text": "Hmm! O próximo é tiro em subida, é?<n>Moleza! Como representante de<n>classe, eu vou superar qualquer<n>parede ou ladeira que aparecer no<n>meu caminho!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Todo mundo tá se esforçando tanto!<n>E a partir de hoje, eu vou me juntar<n>a elas!)",
+            "choice_data_list": [
+                "Que tal começar de leve com uma corrida na pista\nde areia?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "O quê?"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...",
+            "choice_data_list": [
+                "Você acha que eu tô pegando leve demais com\nvocê?"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...De jeito nenhum! Você montou<n>esse programa só pra mim, e eu<n>confio em você. Então eu não vou me<n>precipitar me comparando com todo<n>mundo."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Bem, vamos começar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, Nishino Flower começa o<n>treinamento. Aos poucos, ela<n>consegue voltar a correr no ritmo de<n>antes do machucado."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu também continuo meus estudos,<n>pra ser o Treinador que ela merece.<n>Até que, um dia, a academia anuncia<n>que vai fazer treinos-teste."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Um treino-teste... ai. Eu fico tão<n>nervosa."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(A última vez que eu corri, eu não<n>consegui acompanhar, por mais que<n>eu tentasse. A lembrança daquele dia<n>ainda dói.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Mas... mas eu venho me esforçando<n>muito com o Treinador. Dessa vez eu<n>vou me sair melhor—)",
+            "choice_data_list": [
+                "V-você vai se sair muito bem lá!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Você tá tremendo, Treinador. Tá<n>nervoso também?",
+            "choice_data_list": [
+                "De jeito nenhum!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Meu tom de voz tremido deve estar<n>longe de ser tranquilizador. Mas, por<n>mais nervosa que a situação seja, a<n>minha confiança na Nishino Flower<n>não vacila.",
+            "choice_data_list": [
+                "Eu sei que você consegue ganhar!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "...! Treinador..."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "<i>Inspire, expire.</i>"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Certo! Deixa comigo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": ""
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu sei que você consegue ganhar!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(A voz do Treinador estava tremendo,<n>mas eu ouvi aquelas palavras alto e<n>claro. Eu consigo ganhar. Meu treino<n><i>vai</i> valer a pena.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(O Treinador acredita em mim, então<n>eu vou fazer tudo o que eu puder pra<n>compartilhar a minha coragem com<n>ele.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(\"Tá tudo bem. Vai dar tudo certo.\" É<n>isso que eu quero transmitir<n>correndo.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Eu quero ver o Treinador feliz. Igual<n>aquele dia em que a mamãe e o papai<n>sorriram tão radiantes!)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Hyaaaaah!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Eu quero dar coragem pra muitas<n>pessoas!)"
+        },
+        {
+            "name": "Narradora Umamusume",
+            "text": "Eee acabou a corrida! É Nishino<n>Flower! Nishino Flower fica em<n>primeiro lugar!"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Treinador!",
+            "choice_data_list": [
+                "Você conseguiu! Parabéns!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Consegui, né? Obrigada! Eu... eu vou<n>fazer ainda melhor da próxima vez,<n>então—",
+            "choice_data_list": [
+                "E eu vou me esforçar ainda mais pra ser o\nTreinador que você merece!",
+                "E eu vou me esforçar ainda mais pra ser o\nTreinador que você merece!"
+            ]
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "Ah, Treinador!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "No meio dos aplausos, Nishino Flower<n>abre um grande sorriso. A expressão<n>dela me lembra aquele campo de<n>flores que vimos juntos."
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Treinador, você sempre dá tudo de<n>si. Você se esforça muito — às vezes<n>até demais.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Por isso, um dia eu quero ganhar o<n>primeiro lugar numa corrida G1. Eu<n>quero te dar de presente uma vitória.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Obrigada, Treinador, por sempre<n>apoiar os meus sonhos.)"
+        },
+        {
+            "name": "Nishino Flower",
+            "text": "(Obrigada por aceitar a coragem que<n>eu compartilhei com você.)"
+        }
+    ]
+}

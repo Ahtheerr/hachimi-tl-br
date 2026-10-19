@@ -1,0 +1,278 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Já faz algum tempo que notei minha<n>saúde começando a se deteriorar.<n>Infelizmente, também não senti muita<n>melhora."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Manhattan Cafe tem me instigado a<n>voltar para casa imediatamente após<n>nossos treinos ultimamente. Achei<n>que, ao fazer isso, eu teria todo o<n>descanso de que preciso...",
+            "choice_data_list": [
+                "(Sem trabalho hoje. Que tal um pouco de ar\nfresco!)",
+                "(Sem trabalho hoje. Que tal um pouco de ar\nfresco!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ficar enfurnado aqui também não<n>pode ser bom para mim. Pego a<n>maçaneta da minha porta da frente e<n>dou um giro vigoroso..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Olá.",
+            "choice_data_list": [
+                "Uááá!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Encontro Manhattan Cafe parada do<n>outro lado. Há quanto tempo ela está<n>ali?",
+            "choice_data_list": [
+                "Ah, desculpe! Nós tínhamos planos para hoje?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Não... Eu só estava passando por<n>aqui."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Você... vai a algum lugar?",
+            "choice_data_list": [
+                "Eu bem que preciso de um pouco de ar fresco."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "... Er... Treinador...",
+            "choice_data_list": [
+                "Quer vir junto?",
+                "Quer vir junto?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Hã?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Acho que... tudo bem. Se estivermos<n>juntos..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Sim, eu irei com você."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Já que estamos juntos, começo a<n>pensar que uma mudança mais<n>drástica de cenário poderia ser legal.<n>Que tipo de lugar ela gostaria?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Este lugar é, na verdade...",
+            "choice_data_list": [
+                "Ah, você não é fã de aquários?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Não é isso... Eu estava apenas<n>pensando que este lugar... é um<n>pouco mais escuro do que eu<n>imaginava..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Treinador..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Não podemos nos separar... Me dê<n>sua mão.",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Nem pense em... soltar. Agora, vamos<n>indo?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "De mãos dadas, passeamos pelo<n>aquário. Está bem cheio,<n>provavelmente porque hoje é feriado.<n>A multidão em frente ao tanque<n>central é especialmente grande."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...É bem bonito, não é? E enquanto<n>houver pessoas por perto... então..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Ah!",
+            "choice_data_list": [
+                "E-ei, não empurre!"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Ah não, Treinador!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sou carregado pela onda de pessoas.<n>Separado de Manhattan Cafe,<n>encontro-me em um corredor vazio."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Esta área é sufocantemente<n>silenciosa. É um corredor exclusivo<n>para funcionários? Também está um<n>frio de rachar. Eles realmente<n>mantêm o ar condicionado tão forte<n>aqui dentro?",
+            "choice_data_list": [
+                "(Preciso voltar para a Cafe...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu me viro e começo a procurar por<n>uma porta, quando..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Gruda!</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto como se alguém, ou algo,<n>tivesse agarrado meus dois<n>tornozelos. Não importa o quanto eu<n>lute, não consigo me mover um<n>centímetro."
+        },
+        {
+            "name": "Voz Abafada",
+            "text": "Brinque... co... migo...",
+            "choice_data_list": [
+                "(I-isso não pode ser bom...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não me atrevo nem a olhar para<n>baixo, para os meus pés. O tempo<n>todo, sinto como se estivessem<n>sendo arrancados debaixo de mim."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "...Pare!"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Ah, Treinador... Graças a Deus."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Venha, vamos sair daqui."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto-me grato por estar ao ar livre. O<n>calor brilhante oferece uma sensação<n>de alívio muito necessária. O que<n>exatamente tinha acontecido lá atrás?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Você está se sentindo... melhor?",
+            "choice_data_list": [
+                "Sim, obrigado.",
+                "\"Sim, obrigado.\""
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Que bom. Devemos ficar bem... aqui<n>fora."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Sinto muito... Foi descuido meu.<n>Geralmente fica tudo bem quando há<n>tantas pessoas por perto."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Parece que... pouco pode deter <i>isso</i><n>agora."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Receio que... possa vir atrás de você<n>novamente.",
+            "choice_data_list": [
+                "Isso?",
+                "\"Isso\"?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "É... difícil de explicar."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Há algo mais... mas não é como a<n>minha Amiga."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Este... parece mais uma lembrança<n>ruim... ou um arrependimento... Está<n>preso aqui... como uma cicatriz..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "É provavelmente melhor... se não<n>falarmos sobre isso. Nosso interesse<n>pode estar... incitando-o a agir..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Você realmente... acredita em mim?",
+            "choice_data_list": [
+                "Com certeza."
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Nesse caso... você deve ter muito<n>cuidado. Tente ficar perto... de outras<n>pessoas."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Por favor, me dê... só mais um pouco<n>de tempo..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O olhar em seu rosto é um que tenho<n>visto muito ultimamente — totalmente<n>sério.",
+            "choice_data_list": [
+                "Pena sobre o nosso passeio ao aquário, no\nentanto...",
+                "\"Pena sobre o nosso passeio ao aquário, no\nentanto...\""
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Por ora... é assim que as coisas são.<n>Por favor, seja paciente—",
+            "choice_data_list": [
+                "Eu realmente queria fazer algo legal por você...",
+                "\"Eu realmente queria fazer algo legal por você...\""
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Hã?"
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Por mim? Mas eu achei... que você<n>era quem queria ir..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Treinador... Você..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Você se colocou em perigo... apenas<n>por mim... Isso pode explicar <i>isso</i>......",
+            "choice_data_list": [
+                "Você disse alguma coisa?"
+            ]
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Não... Não é nada. Treinador..."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Assim que tudo isso acabar...<n>deveríamos vir aqui de novo..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela caminha ao meu lado enquanto<n>voltamos para a academia, embora<n>ela passe a maior parte do tempo<n>olhando para o chão."
+        },
+        {
+            "name": "Manhattan Cafe",
+            "text": "Por favor, não se preocupe... eu<n>consigo fazer isso..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela ostenta uma expressão de<n>intensa determinação."
+        }
+    ]
+}

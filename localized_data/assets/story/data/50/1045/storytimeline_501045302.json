@@ -1,0 +1,398 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Eu e a Super Creek estamos<n>voltando de uma ida\nàs compras."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Nossa, devemos ter perdido a noção<n>do tempo\ncomprando tudo isso. Já<n>está tão tarde!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "...O que é aquilo?"
+        },
+        {
+            "name": "Funcionário da loteria",
+            "text": "Aproximem-se e tentem a sorte no<n>nosso sorteio\nde Ano-Novo! O grande<n>prêmio deste ano é um vale\npara uma<n>viagem às águas termais para duas\npessoas!",
+            "color_text_info_list": [
+                "viagem às águas termais"
+            ]
+        },
+        {
+            "name": "Funcionário da loteria",
+            "text": "Quem ganhar o primeiro prêmio levará<n>um\nhambúrguer de carne moída com<n>cenoura especial!\nO segundo prêmio é<n>um alqueire de cenouras! E\nquem<n>ficar com o terceiro prêmio poderá<n>levar uma\núnica cenoura para casa!"
+        },
+        {
+            "name": "Funcionário da loteria",
+            "text": "Vocês dois aí! Gostariam de tentar a<n>sorte?",
+            "choice_data_list": [
+                "Parece divertido.",
+                "Parece divertido."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Já temos um bilhete do sorteio, então<n>que tal\ntentarmos a sorte?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Muito bem! Dê o seu melhor! ♪",
+            "choice_data_list": [
+                "Huh? Eu?",
+                "Huh? Eu?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Só assistir já é divertido, então pode<n>ir! Uhu, uhu!\nVocê consegue! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com o apoio entusiasmado da Super<n>Creek, giro o\ntambor do sorteio."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uma pequena bolinha de plástico cai<n>pela abertura\ndo tambor..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Minha nossa! Temos um ganhador<n>do grande\nprêmio! Venha buscar o<n>vale para sua viagem às\náguas<n>termais! Parabéns!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Minha nossa! Mas que maravilha! O<n>grande\nprêmio?! Isso é incrível!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Deve ser sua recompensa por ser<n>sempre um\ntreinador tão bom! ♪",
+            "choice_data_list": [
+                "O bilhete era seu, então o prêmio é seu.",
+                "O bilhete era seu, então o prêmio é seu."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Não, ele é seu porque foi você quem<n>tirou a bolinha."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Aproveite um banho relaxante nas<n>águas termais e\ndeixe todo o cansaço<n>ir embora! ♪",
+            "choice_data_list": [
+                "Mas quero que você também descanse, Creek.",
+                "Mas quero que você também descanse, Creek."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "...Você é sempre tão gentil."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Que tal irmos juntos, então?",
+            "choice_data_list": [
+                "Tem certeza?",
+                "Tem certeza?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "É claro. A viagem vai ser mais<n>divertida assim! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Mas agora provavelmente não é a<n>melhor hora..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Este é um período especialmente<n>importante para\nvocê, então..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ah, já sei! Por que não vamos depois<n>de\nrealizarmos nosso desejo na<n>Twinkle Series?",
+            "choice_data_list": [
+                "Gostei da ideia. Uma viagem para comemorar um\ntrabalho bem-feito.",
+                "Gostei da ideia. Uma viagem para comemorar um\ntrabalho bem-feito."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, mal posso esperar. ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Faço uma promessa com a Super<n>Creek e guardo o\nvale para a viagem<n>às águas termais."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Parece que temos outro ganhador do<n>primeiro\nprêmio! Parabéns! Você<n>ganhou um hambúrguer de\ncarne<n>moída com cenoura especial!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: \\<itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Minha nossa! ♪ Parabéns!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Aqui diz: \"A carne de primeira<n>qualidade e as\ncenouras se<n>combinam para criar uma explosão<n>de\nsabores irresistível.\"",
+            "choice_data_list": [
+                "Parece muito gostoso.",
+                "Parece muito gostoso."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe! Ah, Treinador. Pela sua<n>expressão, parece\nque você poderia<n>comer tudo agora mesmo! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Tenho certeza de que o hambúrguer<n>ficaria feliz em\nsaber que está lhe<n>trazendo tanta alegria.",
+            "choice_data_list": [
+                "Hã? Você não vai comer?",
+                "Hã? Você não vai comer?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Você foi quem ganhou o primeiro<n>prêmio, então ele\né seu!",
+            "choice_data_list": [
+                "Então vamos dividir!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Explico à Super Creek que só ganhei<n>porque ela\nme deu o bilhete do<n>sorteio."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Sério? Então vou aceitar dividir com<n>você com todo\no prazer."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Agora que temos uma cozinha à<n>disposição, é hora\nde começar a<n>cozinhar! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Vou preparar até sua salada e sua<n>sopa favoritas\npara acompanhar.",
+            "choice_data_list": [
+                "Mal posso esperar!",
+                "Mal posso esperar!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Está decidido! Vamos aproveitar<n>juntos. ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, eu e a Super Creek<n>desfrutamos de uma\nexperiência<n>gastronômica extraordinária."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Temos um ganhador do segundo<n>prêmio! Hoje é\nseu dia de sorte!<n>Você vai levar um alqueire de\ncenouras para casa!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: \\<itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Nossa, olha só quantas cenouras<n>você ganhou!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Fico muito feliz por você! ♪",
+            "choice_data_list": [
+                "Essas cenouras não são suas?",
+                "Essas cenouras não são suas?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Não, você ganhou, então elas são<n>suas!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Apesar do que ela diz, só ganhei o<n>prêmio porque\nela me deu o bilhete<n>do sorteio.",
+            "choice_data_list": [
+                "O bilhete era seu desde o começo, então deveria\nficar com elas!",
+                "O bilhete era seu desde o começo, então deveria\nficar com elas!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hmm, acho que não devo recusar se<n>você insiste\ntanto... Obrigada."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, já me decidi, Treinador! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Vou usar essas cenouras para<n>cozinhar para você\ntodos os dias!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Vou preparar pratos que até quem<n>ama cenouras e\nquem não gosta<n>delas vai adorar. ♪",
+            "choice_data_list": [
+                "Todos os dias?!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ah, não se preocupe! Tenho várias<n>receitas na\nmanga.",
+            "choice_data_list": [
+                "...Mas eu gostaria que você também comesse as\ncenouras.",
+                "...Mas eu gostaria que você também comesse as\ncenouras."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Digo a ela que há cenouras demais<n>para eu\nconseguir comer tudo e que,<n>de qualquer forma,\nelas não teriam o<n>mesmo sabor se eu as comesse\nsozinho."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Minha nossa, não acredito que não<n>pensei nisso!\nEntão vou fazer cada<n>refeição com você."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, mal posso esperar!<n>Começando amanhã! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Concordo, embora um pouco a<n>contragosto, e\nvoltamos para casa."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Olha só! Você ganhou o terceiro<n>prêmio! Aqui está\nsua cenoura!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: \\<itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ahh, que cenoura adorável! Tem um<n>brilho bonito e\nparece tão suculenta! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Observo o prêmio enquanto a Super<n>Creek se\nderrete em elogios e<n>percebo que realmente parece\nser um<n>produto de ótima qualidade."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A etiqueta diz: \"Cenoura orgânica<n>cultivada em\nsolo do norte.\"",
+            "choice_data_list": [
+                "Aqui, este prêmio é seu, Creek."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "O quê? Sério?",
+            "choice_data_list": [
+                "É claro. Foi você quem me deu o bilhete do sorteio.",
+                "É claro. Foi você quem me deu o bilhete do sorteio."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Então vou aceitar com prazer.<n>Obrigada! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Já sei! Como esta cenoura é tão boa,<n>que tal\ntentarmos plantá-la na horta?<n>♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Se colhermos um montão, poderemos<n>compartilhar\ncom todo mundo da<n>academia!",
+            "choice_data_list": [
+                "Ótima ideia!",
+                "Ótima ideia!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, vamos plantá-la amanhã. ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Plantamos a cenoura e, algum tempo<n>depois, ela\nbrota. Olho para o novo<n>brotinho e sinto minhas\nenergias se<n>renovarem!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ahhh, que azar! Parece que você não<n>tirou prêmio\nnenhum! Leve este<n>pacote de lenços como prêmio\nde<n>consolação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: \\<itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ah, não...",
+            "choice_data_list": [
+                "Desculpe por não ter conseguido ganhar nada."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "De jeito nenhum! Se você se divertiu,<n>já fico feliz!\n♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A gentileza dela só me faz sentir<n>ainda pior por não\nter ganhado nada."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Quero dar algo a ela, então vou ao<n>balcão de trocas\nbuscar os lenços e<n>os entrego a ela."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Para mim? Sério?",
+            "choice_data_list": [
+                "É claro. Foi você quem me deu o bilhete do sorteio.",
+                "É claro. Foi você quem me deu o bilhete do sorteio."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Então vou aceitar com prazer..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hum, Treinador? Não fique triste."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ver você com essa carinha triste<n>também me deixa\ntriste!",
+            "choice_data_list": [
+                "Okay...",
+                "Okay..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu e a Super Creek compartilhamos<n>nossa tristeza\npor um tempo e<n>acabamos nos aproximando ainda\nmais."
+        }
+    ]
+}

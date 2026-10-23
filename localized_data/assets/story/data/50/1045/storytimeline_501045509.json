@@ -1,0 +1,27 @@
+{
+    "text_block_list": [
+        {
+            "name": "Super Creek",
+            "text": "<i>Sigh...</i> I feel a bit... off...",
+            "choice_data_list": [
+                "Creek, you don't look so good..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, I didn't mean to make you worry.<n>I'm fine. It's\nnothing, really."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I just feel like I've been getting tired<n>more easily\nlately..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, it's not your fault though! I've<n>probably just\nbeen pushing myself a<n>tad too hard."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Although Super Creek is smiling,<n>something is very\nclearly wrong. I<n>should make some adjustments to\nher race schedule."
+        }
+    ]
+}

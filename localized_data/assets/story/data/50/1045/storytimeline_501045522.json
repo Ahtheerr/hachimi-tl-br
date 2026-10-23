@@ -1,0 +1,39 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "I ask Super Creek to write her name<n>on a document\nthat needs to be<n>signed..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "...Sorry, but could you turn the other<n>way for a bit?",
+            "choice_data_list": [
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "It's just that, um... my skin's flaring<n>up right now."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I've been asked to do a lot of<n>washing and\ncleaning lately..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "And I guess I've been too busy for<n>proper skin\ncare.",
+            "choice_data_list": [
+                "Are you okay? Does it hurt?",
+                "Are you okay? Does it hurt?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "I-I asked you not to look! Bad Trainer!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I try to check but get scolded instead.<n>She pushes\nmy face away, so I stare<n>out the window for a\nwhile..."
+        }
+    ]
+}

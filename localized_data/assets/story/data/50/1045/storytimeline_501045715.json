@@ -1,0 +1,98 @@
+{
+    "text_block_list": [
+        {
+            "name": "Super Creek",
+            "text": "Phew... Great job, Trainer."
+        },
+        {
+            "name": "Super Creek",
+            "text": "You must also be tired. Let's take it<n>easy today,\nand—"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Huff... puff... phew...</i>"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, Oguri! Are you on your way home<n>from training\ntoo?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hey, Creek. No, I'm just on my way<n>to get a quick\nsnack before heading<n>back out."
+        },
+        {
+            "name": "Super Creek",
+            "text": "It'll be evening soon... Does that<n>mean you'll be\nrunning after dark?",
+            "choice_data_list": [
+                "Isn't it dangerous to run on your own at night?",
+                "Isn't it dangerous to run on your own at night?"
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "It's fine. I'll keep an eye out for cars."
+        },
+        {
+            "name": "Super Creek",
+            "text": "That doesn't make me feel any less<n>worried..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Trainer, do you mind if I join Oguri?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "If anything happens, it'll be easier to<n>handle if she\nhas someone with her.",
+            "choice_data_list": [
+                "I'll join you two.",
+                "I'll join you two.",
+                "You can't see where you're running in the dark..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "If anything happens, it'll be easier to<n>handle if she\nhas someone with her.",
+            "choice_data_list": [
+                "I'll join you two.",
+                "I'll join you two.",
+                "You can't see where you're running in the dark..."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Goodness me. Thank you, Trainer! ♪"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Sorry to make you go out of your<n>way..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "No problem! We're friends, after all! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Super Creek joins Oguri Cap later on<n>for a\nnighttime training session."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "But a quick run wouldn't hurt..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh... But if something were to happen<n>to you while\nrunning in the dark, I... I..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "<i>Sob...</i> I'd bawl my eyes out!"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Urk! S-sorry! I'll skip my run tonight,<n>so please\ndon't cry..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Super Creek smiles with relief as<n>Oguri Cap stands\nthere flustered."
+        }
+    ]
+}

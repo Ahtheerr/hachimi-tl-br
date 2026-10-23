@@ -1,0 +1,195 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Super Creek and Narita Taishin are<n>going out to look\nfor some everyday<n>training shoes."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Super Creek asks for my help<n>choosing the right\nshoes, so I end up<n>joining them."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "So why are you tagging along again?<n>I wanted to go\non my own."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe! Oh, don't be like that. It just so<n>happened\nthat I wanted to go<n>shopping myself."
+        },
+        {
+            "name": "Super Creek",
+            "text": "We are roommates, after all. We<n>might as well go\ntogether."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Okay, then would you care to explain<n>why your\ntrainer's also here?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I figured we'd need a second opinion<n>when\nchoosing training shoes, and<n>who's more reliable\nthan Trainer? ♪",
+            "choice_data_list": [
+                "Leave it to me!",
+                "Leave it to me!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Tch, whatever."
+        },
+        {
+            "name": "Monólogo",
+            "text": "The mall is packed with people. We<n>squeeze past\nthe shoppers and<n>notice a change in our numbers."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hm? Where's Taishin?",
+            "choice_data_list": [
+                "Did she get separated from us?",
+                "Did she get separated from us?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Gosh, what do we do?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, Taishin... I should've held your<n>hand."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm sure she's feeling sad and<n>lonely. We need to\nfind her right<n>away.",
+            "choice_data_list": [
+                "Let's split up and look for her.",
+                "Let's request a lost-person announcement on the\nPA system."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Okay, I'll go that way. Let's meet<n>back here later."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hang in there, Taishin! I'm coming!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Super Creek sprints off, weaving<n>deftly through the\ncrowds in search of<n>Narita Taishin."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Thirty minutes later..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Phew... I'm so glad I found you!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I can't believe you seriously came<n>looking for me."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "You could've just left me to wander<n>around when\nwe got separated. I'm<n>not a kid."
+        },
+        {
+            "name": "Super Creek",
+            "text": "<i>Huff, huff...</i>",
+            "choice_data_list": [
+                "Are you okay?",
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, don't worry!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I guess I'm a little more out of breath<n>than usual\nsince I was frantically<n>paying attention to my\nsurroundings<n>as I ran."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm okay now. Shall we resume<n>together, Taishin?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Siiiigh...</i> Fine. I'll stay close, okay?<n>Sheesh."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Super Creek smiles with the resigned<n>Narita Taishin\nfollowing behind. She<n>appears to have learned\nsomething<n>from this experience."
+        },
+        {
+            "name": "Super Creek",
+            "text": "That's a wonderful idea! We should<n>go and request\none right away!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Bing, bong, bing!</i> ♪"
+        },
+        {
+            "name": "PA Announcement",
+            "text": "Thank you again for shopping with us<n>today. We'd\nlike to ask for<n>everyone's cooperation in finding a\nlost child."
+        },
+        {
+            "name": "PA Announcement",
+            "text": "Her name is Narita Taishin. She has<n>short hair and\nwas last seen wearing<n>a Tracen Academy uniform."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Now that we've gotten the<n>announcement out, I'm\nsure that<n>Taishin will—"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "What the hell was that for?!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Taishin! Thank goodness we've<n>found you!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Thank goodness, my butt! What is all<n>this?! Who\nare you calling a lost<n>child?!",
+            "choice_data_list": [
+                "Well, I mean, you were—"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "I wasn't <i>lost!</i> I was just <i>pretending</i><n>to get\nseparated from you guys!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh my! Really?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe, well aren't you a little<n>prankster today! But\nno more funny<n>business, okay?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ugh! I wasn't trying to be funny!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Now, now, be good. Here, let me hold<n>your hand so\nyou don't get lost<n>again."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Are you even listening to me?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "In the end, Narita Taishin droops her<n>shoulders in\ndefeat and offers her<n>hand."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Super Creek smiles, appearing to<n>have learned\nsomething from the<n>experience."
+        }
+    ]
+}

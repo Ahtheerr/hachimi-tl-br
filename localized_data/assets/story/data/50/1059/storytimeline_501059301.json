@@ -1,0 +1,27 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Summer camp has finally come to an<n>end..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Trainer. After we get back home..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Well, it has nothing to do with training,<n>but there's\nsomething I want to do.",
+            "choice_data_list": [
+                "There is?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Yeah... I'll let you know when I'm<n>ready, so just be\nprepared."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Our next race will begin as soon as<n>summer ends!"
+        }
+    ]
+}

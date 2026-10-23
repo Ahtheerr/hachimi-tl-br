@@ -1,0 +1,35 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "While Super Creek and I are talking<n>about training..."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oooh... My head...",
+            "choice_data_list": [
+                "Are you okay?!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Gosh, I'm sorry. Did I startle you?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hehe! You're such a kind soul. I'm<n>fine."
+        },
+        {
+            "name": "Super Creek",
+            "text": "I have a bit of a headache, but I'm<n>sure I'll be right\nas rain in no time."
+        },
+        {
+            "name": "Super Creek",
+            "text": "So no need to worry, okay?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Despite what she says, she appears<n>to be in pain. I\nshould probably keep<n>an eye on her."
+        }
+    ]
+}

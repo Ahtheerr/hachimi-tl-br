@@ -1,0 +1,307 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Today, Mejiro Dober is training in her<n>signature\nracewear to get a feel for<n>what it'll be like in a real\nrace."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Could I take a break? I can't seem to<n>run well..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Her eyes aren't on me as she says<n>that. Instead..."
+        },
+        {
+            "name": "Skilled Trainer A",
+            "text": "That racewear... She must be a<n>Mejiro. It looks like\nher game's off<n>today."
+        },
+        {
+            "name": "Skilled Trainer B",
+            "text": "Well, that was just her first lap. Let's<n>see how\nthings go."
+        },
+        {
+            "name": "Monólogo",
+            "text": "She seems bothered by the presence<n>of other\ntrainers watching her run.",
+            "choice_data_list": [
+                "Want to call off training for today?"
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "All I said is that I wanted to take a<n>break!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "We don't have to go that far... It's<n>just, I..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Ugh... I hate this!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm sorry!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I didn't want to stress her out more,<n>but my\nsuggestion ends up doing<n>just that..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I didn't want to stress her out more,<n>but my\nsuggestion ends up doing<n>just that..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "At times like this, I wonder if her<n>previous trainer\nwould have been<n>able to sympathize with her\nmore...",
+            "choice_data_list": [
+                "(No, this isn't the time for that!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I chase after Mejiro Dober and<n>search all over the\nacademy before<n>finally finding her."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...I told you I was fine.",
+            "choice_data_list": [
+                "Sorry. I was just worried..."
+            ]
+        },
+        {
+            "name": "",
+            "text": "What are you apologizing for?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...It's okay. You don't need to<n>apologize."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "The colors of this racewear are the<n>traditional colors\nof the Mejiro family."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I settled on this design because I<n>want to be able to\nrun like the others<n>too... like a Mejiro."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But... when I think of people seeing<n>me run as a\nmember of the Mejiro<n>family..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I can't run with the same dominance<n>and elegance\nthat McQueen shows..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Nor can I meet people's expectations<n>as\nconfidently and cheerfully as<n>Ryan..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "They're leaps and bounds ahead of<n>me, and so\nlong as I'm wearing this,<n>I'll always be compared\nto them."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I'm worried that my running will bring<n>shame to the\nMejiro name...",
+            "choice_data_list": [
+                "I know how you feel.",
+                "I know how you feel."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "How could you? Don't just say<n>whatever to try\nand console me!",
+            "choice_data_list": [
+                "I know what it's like to have big shoes to fill."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Huh? What do you mean?",
+            "choice_data_list": [
+                "I know what it's like to have big shoes to fill."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I see... You're struggling with the<n>same thing..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "And yet, you aren't backing down<n>from it..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Then I won't either."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...And how could I, after seeing how<n>hard you\nwork?"
+        },
+        {
+            "name": "",
+            "text": "Nothing good will come from running<n>away.\nBesides, it would be irritating if<n>I lost to you.",
+            "choice_data_list": [
+                "That's the spirit!",
+                "That's the spirit!",
+                "There's no need to pressure yourself."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Okay. I won't give up. We can do<n>this, together.",
+            "choice_data_list": [
+                "That's the spirit!",
+                "That's the spirit!",
+                "There's no need to pressure yourself."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Cut it out with that chipper attitude!<n>Ugh!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "You don't have to shout... I-it's<n>embarrassing..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Why, Dober, it's you! I couldn't help<n>but come over\nwhen I saw the<n>Mejiro colors."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Why, Dober, it's you! I couldn't help<n>but come over\nwhen I saw the<n>Mejiro colors."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "McQueen!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "What kind of training are you doing<n>today?\nSomething tells me this is no<n>ordinary session."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "O-oh, I'm trying to replicate what a<n>real race will\nfeel like."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah, that would explain the racewear,<n>and why\nsomething felt different<n>about you."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "To don those colors is to shoulder the<n>Mejiro\nname. May I have the<n>pleasure of testing your\nreadiness for<n>such a responsibility?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...You mean you want to race me?"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Only if you would allow it."
+        },
+        {
+            "name": "",
+            "text": "...Okay. I'll show you that I'm ready."
+        },
+        {
+            "name": "Monólogo",
+            "text": "The two of them have a spectacular<n>run, and\ntraining goes well after that.<n>The sight of them gets\nspectators<n>cheering from the stands."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But I have to try...",
+            "choice_data_list": [
+                "You can try anywhere."
+            ]
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "But I have to try...",
+            "choice_data_list": [
+                "You can try anywhere."
+            ]
+        },
+        {
+            "name": "",
+            "text": "...Anywhere?"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "That's true... But where?"
+        },
+        {
+            "name": "",
+            "text": "...Lifting weights in racewear doesn't<n>exactly feel\nlike an action befitting the<n>Mejiro name."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "...Lifting weights in racewear doesn't<n>exactly feel\nlike an action befitting the<n>Mejiro name."
+        },
+        {
+            "name": "???",
+            "text": "Lifting in racewear? I love it!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Oh, Ryan!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Sorry for coming in out of nowhere. I<n>was doing\nsome bench presses<n>when I heard your voice."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "I'm serious about what I just said,<n>by the way."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "No matter where you do it, just trying<n>your best to\nget stronger is what the<n>Mejiro name's all about!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Um... Th-thank you."
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Hm? You're welcome! All right! Time<n>for me to get\nback to it!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Thanks, Ryan. And..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "I suppose I'm grateful for you too..."
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Thank you for always cheering me<n>on, Trainer."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro Dober gets in a good workout<n>while\nwearing her signature<n>racewear."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro Dober gets in a good workout<n>while\nwearing her signature<n>racewear."
+        }
+    ]
+}

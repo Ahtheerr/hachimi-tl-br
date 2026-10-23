@@ -1,0 +1,44 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Super Creek doesn't show up for<n>training, so I\ndecide to go look for her."
+        },
+        {
+            "name": "Super Creek",
+            "text": "There! That should keep those<n>buttons from\npopping off."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Now then, what else did I get asked to<n>do...",
+            "choice_data_list": [
+                "Did someone ask you to do some sewing?",
+                "Did someone ask you to do some sewing?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Oh, Trainer! What brings you he—"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Ahhh! When did it get so late?!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "I'm so sorry. Silly me, getting carried<n>away like\nthis...",
+            "choice_data_list": [
+                "Please be more careful next time.",
+                "Please be more careful next time."
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "I will... I apologize for being such a<n>handful."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I comfort Super Creek as she reflects<n>on her\nactions and we leave the<n>classroom together."
+        }
+    ]
+}

@@ -2,38 +2,38 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "I ask Super Creek to write her name<n>on a document\nthat needs to be<n>signed..."
+            "text": "Peço a Super Creek que assine um<n>documento que\nprecisa ser entregue..."
         },
         {
             "name": "Super Creek",
-            "text": "...Sorry, but could you turn the other<n>way for a bit?",
+            "text": "...Desculpe, mas pode se virar um<n>pouquinho?",
             "choice_data_list": [
-                "What do you mean?"
+                "Como assim?"
             ]
         },
         {
             "name": "Super Creek",
-            "text": "It's just that, um... my skin's flaring<n>up right now."
+            "text": "É que, hum... minha pele está irritada<n>no momento."
         },
         {
             "name": "Super Creek",
-            "text": "I've been asked to do a lot of<n>washing and\ncleaning lately..."
+            "text": "Ultimamente, bastante gente tem me<n>pedido para\nlavar e limpar um monte<n>de coisas..."
         },
         {
             "name": "Super Creek",
-            "text": "And I guess I've been too busy for<n>proper skin\ncare.",
+            "text": "E acho que ando ocupada demais<n>para cuidar\ndireito da pele.",
             "choice_data_list": [
-                "Are you okay? Does it hurt?",
-                "Are you okay? Does it hurt?"
+                "Você está bem? Está doendo?",
+                "Você está bem? Está doendo?"
             ]
         },
         {
             "name": "Super Creek",
-            "text": "I-I asked you not to look! Bad Trainer!"
+            "text": "E-eu pedi para não olhar! Que<n>Treinador malvado!"
         },
         {
             "name": "Monólogo",
-            "text": "I try to check but get scolded instead.<n>She pushes\nmy face away, so I stare<n>out the window for a\nwhile..."
+            "text": "Tento verificar como ela está, mas<n>acabo levando\numa bronca. Ela<n>afasta meu rosto com a mão,\nentão<n>fico olhando pela janela por um<n>tempo..."
         }
     ]
 }

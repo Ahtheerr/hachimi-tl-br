@@ -2,165 +2,165 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "There's a fan event being held today<n>in the lead-up\nto the autumn Tenno<n>Sho."
+            "text": "Hoje está acontecendo um evento<n>para os fãs\ncomo preparação para a<n>Tenno Sho de Outono."
         },
         {
             "name": "Monólogo",
-            "text": "A huge, once-in-a-decade movement<n>is taking place\nin the Umamusume<n>world this year."
+            "text": "Uma movimentação gigantesca, que<n>só acontece\numa vez a cada década,<n>está tomando conta do\nmundo das<n>Umamusume neste ano."
         },
         {
-            "name": "Spectator A",
-            "text": "Ooh, it's her. That's Super Creek."
+            "name": "Expectador A",
+            "text": "Uau, é ela. Aquela é a Super Creek."
         },
         {
-            "name": "Spectator B",
-            "text": "Whoa, she looks intense..."
+            "name": "Expectador B",
+            "text": "Caramba, ela parece tão<n>intimidadora..."
         },
         {
             "name": "Super Creek",
-            "text": "Huh? Are people scared of me? But<n>why?"
+            "text": "Hã? As pessoas têm medo de mim?<n>Mas por quê?"
         },
         {
-            "name": "Spectator A",
-            "text": "It's Oguri Cap! She's here!"
+            "name": "Expectador A",
+            "text": "É a Oguri Cap! Ela está aqui!"
+        },
+        {
+            "name": "Expectadores",
+            "text": "O-gu-ri! O-gu-ri!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "O que está acontecendo?"
+        },
+        {
+            "name": "Entrevistador A",
+            "text": "Se me permitem começar, vamos<n>começar pela\nSuper Creek, que está<n>em alta."
+        },
+        {
+            "name": "Entrevistador A",
+            "text": "Como se sente ao correr tendo um<n>obstáculo tão\nmonumental, a<n>\"Heroína\" Oguri Cap, em seu\ncaminho?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Obstáculo? Heroína?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hum, vou dar o meu melhor? Isso<n>basta?"
+        },
+        {
+            "name": "Entrevistador A",
+            "text": "E aqui temos Oguri Cap avançando<n>para o ataque\nvinda do interior! Você<n>já é uma superestrela\nnacional."
+        },
+        {
+            "name": "Entrevistador A",
+            "text": "O outono finalmente chegou.<n>Consegue ouvir os\ngritos dos seus<n>fãs?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Eu ouço. Quando não estou dormindo,<n>é claro."
+        },
+        {
+            "name": "Expectadores",
+            "text": "O-gu-ri! O-gu-ri!"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Hã? O que está acontecendo?",
+            "choice_data_list": [
+                "Super Creek! Espere!"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Espera... Você quer dizer que todo<n>mundo me vê\ncomo a vilã?",
+            "choice_data_list": [
+                "Acho que sim.",
+                "Acho que sim."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Consigo sentir isso vindo das<n>arquibancadas... A\npopularidade da<n>Oguri Cap está fora deste mundo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Talvez a Super Creek esteja fazendo<n>o papel de\nanti-heroína nesta história."
+        },
+        {
+            "name": "Super Creek",
+            "text": "É quase como naquela época dos<n>Clássicos de\nPrimavera. Todo mundo<n>estava tão frio e distante\nporque eu<n>estava doente.",
+            "choice_data_list": [
+                "Devemos protestar?"
+            ]
+        },
+        {
+            "name": "Super Creek",
+            "text": "Na verdade... poderia deixar isso<n>comigo?"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Tive uma ideia. Vou tentar dizer isso<n>na frente de\ntodo mundo. Hehe."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Olá, pessoal! Se vocês acham que a<n>Oguri é a mais\nforte de todas, estão<n>muito enganados! ♪"
+        },
+        {
+            "name": "Super Creek",
+            "text": "Eu, Super Creek, junto com meu<n>treinador, vamos\ncolocar a Oguri no<n>devido lugar na Tenno Sho de\nOutono!<n>♪"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Hmm. Você será uma oponente digna,<n>Super Creek."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Vamos dar tudo de nós duas. Mas eu<n>não vou\nperder."
         },
         {
             "name": "Spectators",
             "text": "O-gu-ri! O-gu-ri!"
         },
         {
-            "name": "Super Creek",
-            "text": "What's happening?"
-        },
-        {
-            "name": "Interviewer A",
-            "text": "If you'll allow me to begin, let's start<n>with the\nred-hot Super Creek."
-        },
-        {
-            "name": "Interviewer A",
-            "text": "How does it feel to race with such a<n>monumental\nobstacle, Oguri Cap the<n>\"Hero,\" standing in your\nway?"
+            "name": "Monólogo",
+            "text": "Pergunto à Super Creek de onde veio<n>aquele\ndiscurso tão confiante."
         },
         {
             "name": "Super Creek",
-            "text": "Obstacle? Hero?"
+            "text": "Hum, meio que me ocorreu que dizer<n>coisas assim\nfaria todo mundo feliz."
         },
         {
             "name": "Super Creek",
-            "text": "Um, I'll do my best? Is that good<n>enough?"
-        },
-        {
-            "name": "Interviewer A",
-            "text": "And over here, we have Oguri Cap<n>charging in to\nattack from the<n>countryside! You're already a\nnational superstar."
-        },
-        {
-            "name": "Interviewer A",
-            "text": "Fall is finally upon us. Can you hear<n>the cheers\nfrom your fans?"
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "I hear them. When I'm not asleep,<n>that is."
-        },
-        {
-            "name": "Spectators",
-            "text": "O-gu-ri! O-gu-ri!"
+            "text": "Eu queria fazer isso por eles, porque<n>adoro fazer\ntodo mundo sorrir."
         },
         {
             "name": "Super Creek",
-            "text": "Huh? What's going on?",
-            "choice_data_list": [
-                "Super Creek! Wait!"
-            ]
+            "text": "E se posso fazer isso através das<n>corridas, não me\nimporto de levar<n>algumas vaias."
         },
         {
             "name": "Super Creek",
-            "text": "Hold on... Are you telling me that<n>everyone sees me\nas the villain?",
-            "choice_data_list": [
-                "I guess so.",
-                "I guess so."
-            ]
+            "text": "Quando eu estava passando por<n>aquela fase ruim,\nnão tinha a<n>serenidade necessária, mas agora\nconsigo lidar com isso."
+        },
+        {
+            "name": "Super Creek",
+            "text": "Principalmente porque você me<n>ajudou a crescer\ntanto! ♪"
         },
         {
             "name": "Monólogo",
-            "text": "I can feel it from the crowds in the<n>stands... Oguri\nCap's popularity is out<n>of this world."
-        },
-        {
-            "name": "",
-            "text": "Super Creek might be playing the<n>antihero in this\nstory."
+            "text": "Ela decidiu fazer o papel de vilã para<n>os fãs — a vilã\nmais gentil do mundo."
         },
         {
             "name": "Super Creek",
-            "text": "It's almost like that time at the spring<n>Classics.\nEveryone was so cold and<n>distant because I was\nill.",
-            "choice_data_list": [
-                "Should we protest?"
-            ]
+            "text": "Hum, e também... Você se importaria<n>de fazer o\npapel de vilão comigo? E<n>então..."
         },
         {
             "name": "Super Creek",
-            "text": "Actually... could you leave this to me?"
-        },
-        {
-            "name": "Super Creek",
-            "text": "I've got an idea of my own. I'll try<n>saying it in front\nof everyone. Hehe."
-        },
-        {
-            "name": "Super Creek",
-            "text": "Hello, everyone! If you think Oguri's<n>the strongest\naround, then you're<n>sorely mistaken! ♪"
-        },
-        {
-            "name": "Super Creek",
-            "text": "I, Super Creek, along with my trainer,<n>will knock\nOguri down a peg at the<n>autumn Tenno Sho! ♪"
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Hmm. You'll make a worthy<n>opponent, Super\nCreek."
-        },
-        {
-            "name": "Oguri Cap",
-            "text": "Let's throw everything we have at<n>each other. But I\nwon't lose."
-        },
-        {
-            "name": "Spectators",
-            "text": "O-gu-ri! O-gu-ri!"
+            "text": "Vamos terminar a corrida com um<n>resultado tão\nincrível que todo mundo<n>não consiga evitar nos\ndetestar. Não<n>teria graça se não fôssemos\nadversários formidáveis."
         },
         {
             "name": "Monólogo",
-            "text": "I ask Super Creek where her<n>confident outburst\ncame from."
-        },
-        {
-            "name": "Super Creek",
-            "text": "Umm, it kind of occurred to me that<n>saying things\nlike that would make<n>everyone happy."
-        },
-        {
-            "name": "Super Creek",
-            "text": "I wanted to do that for them since I<n>love making\neveryone smile."
-        },
-        {
-            "name": "",
-            "text": "And if I can do that through racing,<n>then I don't\nmind taking a bit of flak."
-        },
-        {
-            "name": "Super Creek",
-            "text": "I didn't have the composure during<n>my bad spell,\nbut I can handle it now."
-        },
-        {
-            "name": "Super Creek",
-            "text": "Especially since you've built me up<n>so much! ♪"
-        },
-        {
-            "name": "Monólogo",
-            "text": "She's decided to play the villain for<n>her fans—the\nkindest villain in the<n>world."
-        },
-        {
-            "name": "Super Creek",
-            "text": "Um, also... Would you mind playing the<n>villain with\nme? And then..."
-        },
-        {
-            "name": "Super Creek",
-            "text": "Let's finish the race with a result so<n>great that\neveryone can't help but to<n>detest us. It won't be\nexciting unless<n>we're formidable."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Super Creek plans to envelop Oguri's\nunprecedented popularity with her<n>nurturing love."
+            "text": "A Super Creek planeja envolver a<n>popularidade\nsem precedentes da<n>Oguri com seu amor maternal."
         }
     ]
 }

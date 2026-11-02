@@ -8,6 +8,8 @@ on:
       - "index_base.json"
       - "gen_index.py"
 
+  workflow_dispatch:
+
 permissions:
   contents: write
 

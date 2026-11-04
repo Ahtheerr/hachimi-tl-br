@@ -3,127 +3,121 @@
     "text_block_list": [
         {
             "name": "Mysterious Voice",
-            "text": "Open your eyes...",
-            "choice_data_list": [
-                "Whose voice is that?"
-            ]
+            "text": "Abra os olhos..."
         },
         {
             "name": "Mysterious Voice",
-            "text": "Now jump, and shout... Ah, make<n>sure your light\nstick matches your<n>fav's color..."
+            "text": "De quem é essa voz?"
         },
         {
             "name": "Maruzensky",
-            "text": "Whew! Everyone having a blast?<n>Enjoying our duo\nconcert?",
-            "choice_data_list": [
-                "What the—"
-            ]
+            "text": "Agora pule e grite... Ah, não se<n>esqueça de escolher\numa cor de<n>bastão luminoso que combine com a\nsua favorita..."
         },
         {
             "name": "Smart Falcon",
-            "text": "Oh, you're finally awake, sleepyhead.<n>☆ C'mon,\nstart waving your light<n>stick!"
+            "text": "Ufa! Todo mundo se divertindo?<n>Estão curtindo\nnosso concerto em<n>dupla?"
         },
         {
             "name": "Ines Fujin",
-            "text": "Yeah! We finally made it to this arena!<n>The\nglamorous stage, the stands filled<n>with lights—it's\nall ours, isn't it?"
+            "text": "Mas que..."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "But we can get farther away yet. I<n>propose a new\ngoal. Next, our front<n>running will take us to..."
+            "text": "Ah, finalmente acordou, dorminhoco!<n>☆ Vamos,\ncomece a balançar seu<n>bastão luminoso!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Outer space."
+            "text": "É! Finalmente chegamos a esta<n>arena! O palco\nglamoroso, as<n>arquibancadas cheias de luzes...\nTudo<n>isso é nosso, não é?"
         },
         {
             "name": "Fans Floating in Space",
-            "text": "Yooo! It's the Runaway Sisters! This<n>is awesome!\nHoly moly!"
+            "text": "Mas podemos ir ainda mais longe.<n>Proponho uma\nnova meta. Nossa<n>próxima corrida na liderança nos\nlevará até..."
         },
         {
             "name": "Monologue",
-            "text": "<i>Riiiing!</i>"
+            "text": "O espaço sideral."
         },
         {
             "name": "Ines Fujin",
-            "text": "Aw, that bell means our time together<n>is up!"
+            "text": "Uhuuu! São as Irmãs Fugitivas! Isso é<n>incrível!\nCaramba!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Why don't we just run away until we<n>can't hear it\nanymore?"
+            "text": "<i>Trimmm!</i>"
         },
         {
             "name": "Smart Falcon",
-            "text": "Good point. After all, leading the pack<n>where no\none's gone before is what<n>we do!"
+            "text": "Ah, esse sino significa que nosso<n>tempo juntas\nacabou!"
         },
         {
             "name": "Maruzensky",
-            "text": "That's right, 'cause we're the..."
+            "text": "Por que não continuamos fugindo até<n>não\nconseguirmos mais ouvi-lo?"
         },
         {
             "name": "Falco & Friends",
-            "text": "Runaway Sisters! ☆"
+            "text": "Boa ideia. Afinal, liderar o grupo rumo<n>a lugares\nonde ninguém jamais<n>esteve é o que fazemos!"
         },
         {
             "name": "Monologue",
-            "text": "<i>Riiiing!</i>",
-            "choice_data_list": [
-                "Huh? Wait..."
-            ]
+            "text": "Isso mesmo, porque somos as..."
         },
         {
             "name": "Monologue",
-            "text": "...",
-            "choice_data_list": [
-                "It was just a dream!",
-                "It was just a dream!"
-            ]
+            "text": "Irmãs Fugitivas! ☆"
         },
         {
             "name": "Smart Falcon",
-            "text": "Good morning, Trainer! So today..."
+            "text": "<i>Trimmm!</i>",
+            "choice_data_list": [
+                "Hã? Espera..."
+            ]
         },
         {
             "name": "Ines Fujin",
-            "text": "Hello, hello! This the studio we're<n>using today?"
+            "text": "...",
+            "choice_data_list": [
+                "Foi só um sonho!",
+                "Foi só um sonho!"
+            ]
         },
         {
             "name": "Maruzensky",
-            "text": "Heyo! I'm here, just like you asked!<n>Tada!"
+            "text": "Bom dia, Treinador! Então, hoje..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Umm... Hello."
+            "text": "Olá, olá! É aqui o estúdio que vamos<n>usar hoje?"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Excuse me."
+            "text": "E aí! Cheguei, como você pediu!<n>Tcharam!"
         },
         {
             "name": "Smart Falcon",
-            "text": "As you can see, I asked everyone<n>here if we could\npractice together<n>today! Because, well...",
+            "text": "Ahm... Olá."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Com licença."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Como pode ver, convidei todas para<n>virem praticar\njuntas hoje! Porque,<n>bem...",
             "choice_data_list": [
-                "It's the Runaway Sisters!"
+                "As Irmãs Fugitivas!"
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "Uh, Trainer? Are you... okay? You look<n>like you're\nhaving a revelation or<n>something."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Anyways, we're about to get started,<n>so c'mon,\npay attention! ♪"
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "When us five harmonize, it's<n>legendary! You'll give\nus a listen,<n>right?"
+            "text": "É... Treinador? Está... tudo bem?<n>Parece que teve\numa revelação ou<n>algo assim."
         },
         {
             "name": "Monologue",
-            "text": "I listen to the five of them sing, and<n>the harmony is\nas pleasing as Smart<n>Falcon promised."
+            "text": "Enfim, estamos prestes a começar,<n>então vamos lá,\npreste atenção! ♪"
         },
         {
             "name": "Monologue",
-            "text": "Forming a unit to practice with might<n>be good for <chrname>..."
+            "text": "Quando nós cinco cantamos em<n>harmonia, é\nlendário! Você vai ouvir,<n>né?"
         }
     ]
 }

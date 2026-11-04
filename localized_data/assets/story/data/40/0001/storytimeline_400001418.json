@@ -1,0 +1,56 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "After our joint training session, we<n>are issued a\nchallenge from Happy<n>Meek and Trainer Kiryuin."
+        },
+        {
+            "name": "Monologue",
+            "text": "They mentioned that any kind of<n>training is fine, so...",
+            "choice_data_list": [
+                "Let's see who has more speed!",
+                "Let's see who has more stamina!",
+                "Let's see who has more power!",
+                "Let's see who has more guts!",
+                "Let's see who has more wit!",
+                "Let's see who has more energy!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to challenge Happy Meek<n>with speed!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to challenge Happy Meek<n>with stamina!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to challenge Happy Meek<n>with power!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to challenge Happy Meek<n>with guts!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to challenge Happy Meek<n>with wit!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We decide to challenge Happy Meek<n>with energy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A splendid victory by <chrname>! Happy Meek<n>leaves the\nbout even more fired up<n>than before."
+        },
+        {
+            "name": "Monologue",
+            "text": "Another splendid victory by <chrname>! Our<n>rivals assure us\nthat they will be back<n>for more later."
+        },
+        {
+            "name": "Monologue",
+            "text": "Happy Meek proves to be very<n>strong. Though she\nis disappointed<n>with the result, <chrname> resolves to emerge\nvictorious next time!"
+        }
+    ]
+}

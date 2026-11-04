@@ -1,0 +1,50 @@
+{
+    "text_block_list": [
+        {
+            "name": "",
+            "text": "I'm wandering the school grounds<n>when I bump\ninto Biwa Hayahide,<n>who looks quite ill."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ugh...",
+            "choice_data_list": [
+                "Are you okay?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Haha... Not exactly. I have a slight<n>headache."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I checked the weather reports<n>thinking a change in\nbarometric<n>pressure triggered it, but there<n>haven't\nbeen any major fluctuations<n>recently."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'm experiencing fatigue and<n>intermittent pain as\nwell, so it's likely<n>a migraine, but I can't rule out\nother<n>pathologies."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I compared my symptoms against<n>other illnesses to\nbe cautious, but the<n>more I think about it, the more\nmy<n>head hurts..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Urk!",
+            "choice_data_list": [
+                "You're overthinking again. Take a deep breath."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You're right... I recall reading a study<n>that\nmentioned the importance of<n>resting your nerves."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Ugh... Ngh... I just can't seem to settle<n>down."
+        },
+        {
+            "name": "",
+            "text": "Biwa Hayahide's seems to really be<n>overthinking\nher headache..."
+        }
+    ]
+}

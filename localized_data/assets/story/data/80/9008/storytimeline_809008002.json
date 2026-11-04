@@ -1,0 +1,35 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Depois do treino..."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ora, se não é o Treinador <username>! Bom<n>trabalho hoje.",
+            "choice_data_list": [
+                "Não esperava encontrar você por aqui."
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Na verdade, eu estava justamente<n>me reunindo\ncom alguns funcionários<n>da academia para\nconversar sobre<n>um futuro evento de concerto."
+        },
+        {
+            "name": "Light Hello",
+            "text": "E bem... pode-se dizer que o hábito<n>me trouxe de\nvolta a este centro de<n>treinamento."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Que nostalgia... Passei por momentos<n>difíceis aqui,\nmas também construí<n>muitas boas lembranças."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Treinador, continue se dedicando à<n>sua pupila para\nque possa assistir a<n>muitos concertos da vitória\ndela, está<n>bem?"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ah, e deixe a direção de palco<n>comigo! Vou fazer o\npossível para<n>criar o espetáculo mais grandioso de\ntodos!"
+        }
+    ]
+}

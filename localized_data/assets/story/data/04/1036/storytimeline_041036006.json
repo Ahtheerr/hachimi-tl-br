@@ -1,0 +1,227 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One day while searching for Air<n>Shakur, I find her\ntaking a rare nap,<n>her laptop still open."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As I go to close her laptop, the screen<n>catches my\neye. It looks like she had<n>her social media open.\nThe account<n>on-screen says \"!monad.\""
+        },
+        {
+            "name": "Monólogo",
+            "text": "From the looks of it, this is an account<n>she uses to\npost music she makes.<n>I'm a little surprised by her\nchoice of<n>hobby, but decide to leave before she\nwakes up."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A few days later, I decide to invite Air<n>Shakur to the\nrecord shop."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I fully expected her to say no, but it<n>seems she\nalready had plans to<n>come here. She's allowed me\nto tag<n>along—but nothing more."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Man, you never learn, huh. Remember<n>what\nhappened at the net cafe?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Once we're at the shop, don't you<n>dare talk to me.",
+            "choice_data_list": [
+                "Got it."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "This artist's not even that big, so why<n>a physical\nCD? If they'd just posted<n>it online, I could've\nbought it with a<n>single click."
+        },
+        {
+            "name": "Monólogo",
+            "text": "It seems she's come here today to<n>buy the CD of\na small-time artist.",
+            "choice_data_list": [
+                "You must really like music.",
+                "You must really like music."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Not really. But it is good for drowning<n>out the\nthoughts in my head."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Ah."
+        },
+        {
+            "name": "Young Artist",
+            "text": "Next up is my newest song, \"Rust.\""
+        },
+        {
+            "name": "Monólogo",
+            "text": "Air Shakur stops in her tracks. I follow<n>her line of\nsight to find a young<n>woman performing on her DJ\ndeck.",
+            "choice_data_list": [
+                "Do you know her?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Her CD is what I came here to buy."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Didn't think I'd get to listen to her<n>live today."
+        },
+        {
+            "name": "Monólogo",
+            "text": "With that, Air Shakur finds a spot a bit<n>separated\nfrom the artist and begins<n>to listen to her\nperformance."
+        },
+        {
+            "name": "Monólogo",
+            "text": "The song's rhythm seems to draw<n>you in, and the\nscat vocals add a<n>sense of playfulness to the\nexperience. Before I know it, I'm<n>tapping my foot to\nthe beat.",
+            "choice_data_list": [
+                "This is a good song.",
+                "This is a good song."
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Yeah, it's not bad."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Most of her stuff online is really light<n>and old\nschool... Looks like she<n>switched genres to house\nmusic."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Well, change is inevitable after all.<n>Let's get going."
+        },
+        {
+            "name": "Young Artist",
+            "text": "W-wait! Please take this!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hm?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The young musician hands a single<n>flyer to Air\nShakur."
+        },
+        {
+            "name": "Young Artist",
+            "text": "I'm still pretty new to the game, but<n>I'll be\nperforming at this event! Feel<n>free to drop by if you\ncan!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Got it. Huh, so it's this<n>weekend—ah!",
+            "choice_data_list": [
+                "...?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Taking a peek at the flyer, my eyes<n>settle on the\nartist's profile, which<n>explains she was inspired to\nperform<n>after hearing a certain artist... !monad.",
+            "choice_data_list": [
+                "(Wait, isn't that Air Shakur's...)"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Young Musician",
+            "text": "Um, 'scuse me... is everything okay?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Yeah, it's fine. Good luck this<n>weekend.",
+            "choice_data_list": [
+                "Who's this DJ listed in your profile?",
+                "Who's this DJ listed in your profile?"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey!"
+        },
+        {
+            "name": "Young Artist",
+            "text": "Oh, them! I love, love, LOVE !monad's<n>stuff! I have\nto be extra careful to not<n>copy their style\ncompletely."
+        },
+        {
+            "name": "Young Artist",
+            "text": "I ended up using scat vocals hoping<n>to make the\nsong feel mine... But well,<n>I'm definitely still working\nout the<n>kinks in my style!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...!monad's music sounds like<n>they're just\nmessing around to me. I<n>doubt it's got any use as\ninspiration<n>or whatever."
+        },
+        {
+            "name": "Young Artist",
+            "text": "Hey, come on, don't say that! I owe<n>!monad my\nlife!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Your life?"
+        },
+        {
+            "name": "Young Artist",
+            "text": "I don't mean that literally or anything.<n>It's not like\nwe've ever met. But..."
+        },
+        {
+            "name": "Young Artist",
+            "text": "I'm just... different from other people,<n>and my\nlife's been pretty hard<n>'cause of it. But even when\nI tried to<n>fit in, it's like something was still <i>off,</i><n>ya\nknow?"
+        },
+        {
+            "name": "Young Artist",
+            "text": "But that's when I heard !monad's<n>music, and it felt\nlike someone was<n>sticking the middle finger to the\nworld!<n>It gave me the push I needed to do<n>things my\nway!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Young Artist",
+            "text": "But all that aside, their musical sense<n>alone is on\nanother level! They're like<n>a bat out of hell,\nscreaming bloody<n>murder! They're truly living in the\nmoment!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "..."
+        },
+        {
+            "name": "Young Artist",
+            "text": "I'd love to meet them myself one<n>day. I just know\nthat deep down,<n>they've got a heart burning with\n<i>passion!</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Is that so?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...Huh? What're you smiling about?",
+            "choice_data_list": [
+                "N-nothing!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Several days later..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Hey, look at this! Someone put a<n>super flashy flyer\non the bulletin<n>board! You think a student did it?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "Probably. But wait, isn't this for a club<n>in town?\nHuh... Maybe I'll check it<n>out."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A mysterious flyer posted on the<n>school bulletin\nboard quickly becomes<n>the talk of the academy."
+        }
+    ]
+}

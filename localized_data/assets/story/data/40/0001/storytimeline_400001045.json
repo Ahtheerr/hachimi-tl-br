@@ -1,0 +1,51 @@
+{
+    "text_block_list": [
+        {
+            "name": "Trainer Kiryuin",
+            "text": "This is it. We've reached the finals."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "We're facing <chrname> on a stage where she<n>perhaps\nshines the brightest of all."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "But then there's you, Meek."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "This fight is our finale.",
+            "choice_data_list": [
+                "Let's all do our best!"
+            ]
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Right! After all the time we've spent<n>together, we\nowe it to our trainees to<n>cheer them on with all our\nmight!"
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Are you nervous, Trainer?"
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Yes, a little. I've been striving to have<n>you succeed,\nand to show Trainer <username><n>that I have it in me to exceed\nall<n>expectations."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "But I know we've both grown<n>stronger because of\nthis. We've<n>been able to overcome every loss<n>and\nconquer every weakness. So I<n>know you can do\nthis."
+        },
+        {
+            "name": "Happy Meek",
+            "text": "Yeah. This time I'm ready. I've gotten<n>so strong\nand fast."
+        },
+        {
+            "name": "Trainer Kiryuin",
+            "text": "Get out there, Meek. Show our<n>strongest rival\nexactly what you're<n>capable of!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The final race of the URA Finale is<n>about to begin!"
+        }
+    ]
+}

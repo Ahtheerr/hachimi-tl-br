@@ -1,0 +1,234 @@
+{
+    "text_block_list": [
+        {
+            "name": "Aston Machan",
+            "text": "Bem, então vamos nos apresentar<n>direitinho."
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Olá, sou Aston Machan. Prazer em te<n>conhecer."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto ela me olha com um sorriso<n>tímido, noto\nmeu reflexo em seus<n>olhos redondos e brilhantes."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nós nos conhecemos alguns dias<n>antes..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Outro treinador e eu tínhamos ido aos<n>testes em\nbusca de novas corredoras<n>para recrutar. Havia\nmais agitação<n>entre o público do que de costume..."
+        },
+        {
+            "name": "Entrevistadora",
+            "text": "Este é o especial de novatas, <i>New<n>Paka!</i> Hoje\nestamos na Academia<n>Tracen para apresentar a\ntodos<n>vocês, em casa, as Umamusume<n>novatas\nmais talentosas!"
+        },
+        {
+            "name": "Colega Treinador",
+            "text": "A equipe de TV realmente veio! As<n>corredoras\ndevem estar animadas...<n>Não, na verdade, todas\nparecem bem<n>nervosas."
+        },
+        {
+            "name": "Colega Treinador",
+            "text": "A única que parece tranquila é Aston<n>Machan. Uau,\nela tem nervos de aço.",
+            "choice_data_list": [
+                "Quem é Aston Machan?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sigo o olhar do meu colega e encontro<n>uma certa\ncorredora. Apesar do clima<n>tenso, ela entra pelo\nportão com um<n>sorriso sereno."
+        },
+        {
+            "name": "Caster",
+            "text": "E agora, o momento da verdade! Elas<n>estão\nentrando na reta final! Quem<n>será a primeira a\natacar?"
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Hup!"
+        },
+        {
+            "name": "Caster",
+            "text": "É Aston Machan! Com suas<n>passadas curtas e\npeculiares, ela<n>assume a liderança! Aston Machan,\ncom meia extensão de vantagem...<n>Ela vence!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uhuuu!"
+        },
+        {
+            "name": "Aston Machan",
+            "text": "<i>Ofegante... arf...</i> Ufa... Hehe, peace!"
+        },
+        {
+            "name": "Interviewer",
+            "text": "Certo, vamos entrevistá-las assim<n>que saírem da\npista. Começando pela<n>vencedora, Aston Machan."
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Olá, pessoal! Sou Aston Machan.<n>Prazer em\nconhecê-los!"
+        },
+        {
+            "name": "Entrevistadora",
+            "text": "A-Aston Machan! Ah, olá! Sou da<n><i>New Paka.</i>\nParabéns por essa corrida<n>fantástica!"
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Você me viu? Dei tudo de mim, mais<n>ou menos.\n...Ah, essa é uma boneca<n>Machan. Olááá!"
+        },
+        {
+            "name": "Entrevistadora",
+            "text": "...Ah, é... Que boneca fofinha! Então,<n>já escolheu um\ntreinador?"
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Infelizmente, ainda não. Ninguém<n>apareceu até\nagora."
+        },
+        {
+            "name": "Entrevistadora",
+            "text": "Ah, sério?! Mas, depois daquela<n>corrida, tenho\ncerteza de que vão<n>surgir várias propostas!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Como se fosse um sinal, um grupo<n>de treinadores\nse reúne ao redor de<n>Aston Machan."
+        },
+        {
+            "name": "Treinadora Habilidosa",
+            "text": "Aston Machan! Por favor, permita que<n>eu seja sua\ntreinadora! Vou preparar<n>o melhor plano de\ntreinamento para o<n>seu estilo de corrida!"
+        },
+        {
+            "name": "Colega Treinador",
+            "text": "P-por favor, me considere também!<n>Não vou deixar\ntodo esse talento<n>natural ser desperdiçado. Vou\najudá-la a alcançar todo o seu<n>potencial!"
+        },
+        {
+            "name": "Entrevistadora",
+            "text": "Eu sabia! Certo, não deixem de<n>filmar. Talvez\nestejamos prestes a<n>testemunhar o momento em\nque ela<n>assina um contrato!"
+        },
+        {
+            "name": "Entrevistadora",
+            "text": "Agora a decisão está nas mãos da<n>novata Aston\nMachan. Como ela vai<n>responder a tantos\ntreinadores diante<n>dela?"
+        },
+        {
+            "name": "Aston Machan",
+            "text": "..."
+        },
+        {
+            "name": "Aston Machan",
+            "text": "...Quais são os sonhos de vocês?"
+        },
+        {
+            "name": "Treinadora Habilidosa",
+            "text": "...Hã? Ah... Bem, é claro que o meu é<n>vencer\ncorridas G1 ao seu lado!"
+        },
+        {
+            "name": "Colega Treinador",
+            "text": "Meu sonho é fazer de você a<n>Umamusume do Ano!\nVou ajudá-la a<n>chegar ao topo da sua geração!"
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Uhum... Hmm... Hm."
+        },
+        {
+            "name": "Aston Machan",
+            "text": "... ...Entendi. Tchau, então!"
+        },
+        {
+            "name": "Treinadora Habilidosa",
+            "text": "E-espera! Quer dizer, é claro que<n>também quero\nconhecer você melhor!<n>Qual é o seu sonho?"
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Meu sonho... é me tornar um<n>mascote."
+        },
+        {
+            "name": "Treinadores",
+            "text": "...Um mascote?"
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Não qualquer mascote. Quero ser uma\nsupermascote conhecida no mundo<n>inteiro."
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Quero aparecer em todos os lugares,<n>ao lado de\ntodo mundo, e ser uma<n>super... Não, uma super <i>ultra</i>\nmascote!"
+        },
+        {
+            "name": "Treinadora Habilidosa",
+            "text": "C-certo..."
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Sim, agora você entendeu. Bem, vou<n>indo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto Aston Machan se afasta, a<n>multidão fica\nparada, sem saber o<n>que dizer.",
+            "choice_data_list": [
+                "(Ela é meio esquisita...)",
+                "(Ela é meio esquisita...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Percebi que ela tinha um talento<n>especial quando vi\nsuas passadas<n>rápidas, mas foi sua aura\nfascinante<n>que mais me marcou."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Enquanto estou voltando para casa<n>depois dos\ntestes..."
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Olá! Poderia segurar a câmera para<n>mim, por favor?",
+            "choice_data_list": [
+                "Ah, é... Eu?",
+                "Ah, é... Eu?"
+            ]
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Sim, por favor. Poderia gravar um<n>vídeo nosso\ncantando aqui na praça<n>central? Esqueci\ncompletamente de<n>trazer meu tripé."
+        },
+        {
+            "name": "Vodka",
+            "text": "Ei, espera um pouquinho aí! Eu nunca<n>concordei\ncom isso! Qual é o ponto de<n>cantar Umapyoi Legend\nbem aqui,<n>afinal?!"
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Quanto mais vídeos tivermos, melhor."
+        },
+        {
+            "name": "Vodka",
+            "text": "Mas a gente já tem um montão!<n>Além disso, por\nque você faz tanta<n>questão de gravar um vídeo\ncantando?!"
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Porque nunca gravei um antes,<n>então..."
+        },
+        {
+            "name": "Vodka",
+            "text": "Aaaah, fala sério... Você não vai<n>desistir, né?"
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Ela é bem teimosa, não é...? Tudo<n>bem, vamos logo\ngravar isso para<n>podermos ir para casa."
+        },
+        {
+            "name": "Daiwa Scarlet",
+            "text": "Desculpe incomodar, mas poderia<n>nos ajudar? Ela\né meio... sabe como<n>é, simplesmente gosta dessas\ncoisas.",
+            "choice_data_list": [
+                "Sem problema."
+            ]
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Uau, muito obrigada! Aqui, use este<n>celular, por\nfavor."
+        },
+        {
+            "name": "Aston Machan",
+            "text": "Hum, vamos ver... Seria ótimo se<n>pudesse filmar\ndaqui até mais ou<n>menos ali."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela é peculiar, fica à vontade diante<n>de uma câmera\ne se destaca na pista<n>de corrida. Essas foram\nminhas<n>primeiras impressões de Aston<n>Machan."
+        }
+    ]
+}

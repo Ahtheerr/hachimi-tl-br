@@ -1,0 +1,164 @@
+{
+    "text_block_list": [
+        {
+            "name": "Wonder Acute",
+            "text": "Oh, Trainer. Going to eat lunch?",
+            "choice_data_list": [
+                "You brought yours from home?"
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "That's right. I made it together with<n>my breakfast."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I wonder what kind of lunches<n>Wonder Acute\nmakes. My<n>imagination (or stomach) starts<n>running\nwild."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Say, if you haven't had lunch yet,<n>would you like to\njoin me? I could<n>use some help.",
+            "choice_data_list": [
+                "You sure?",
+                "You sure?"
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Sure as can be. I made a bit too much<n>today, so I'd\nbe delighted if you'd<n>take some of it off my plate.",
+            "choice_data_list": [
+                "Don't mind if I do, then."
+            ]
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "Oh, <username>! A bunch of us were about to<n>grab lunch, you\nwant in? Apparently<n>the new ramen place by the\nstation is<n>pretty good.",
+            "choice_data_list": [
+                "Sorry, I'll have to pass today."
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh! Trainer, you don't have to decline<n>on my\naccount."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "I'm sure we'll have plenty more<n>chances to share\na bento again. If<n>your company's wanted, you\nought<n>to go."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I've already made up my mind.<n>Thanking him for\nthe invite, I explain<n>to the other trainer that I have\nplans to<n>eat lunch with Wonder Acute.",
+            "choice_data_list": [
+                "I'll join you guys next time!"
+            ]
+        },
+        {
+            "name": "Senior Trainer",
+            "text": "Oh, okay, didn't know you already<n>had plans. Catch\nyou next time, then!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Wonder Acute lifts the lid off her<n>bento to reveal a\nmeal of Western<n>home cooking: bacon and cheese\nsandwiches with meatloaf."
+        },
+        {
+            "name": "Monólogo",
+            "text": "It all looks tempting, but a sandwich is<n>my first\nvictim. The thick slices of<n>bacon harmonize perfectly\nwith the<n>tomatoes and fragrant slices of rye<n>bread.",
+            "choice_data_list": [
+                "This is so good!"
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "My, my! Seeing such a look of delight<n>on your face\njust warms my heart.<n>Try the tea too. I put it in a\nthermos,<n>so it's nice and steamy."
+        },
+        {
+            "name": "Monólogo",
+            "text": "As I take a few sips of tea, the<n>fragrance of the\nleaves fills my<n>nostrils.",
+            "choice_data_list": [
+                "(I could get used to this...)"
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "And for dessert, there's a cherry pie<n>with your\nname on it. You can have as<n>much as you like."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Ahh, now that was a satisfying meal.<n>And the sun...\nis shining just right..."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Days like this make you want to lie<n>around in the\nsun and take a nice nap.",
+            "choice_data_list": [
+                "They really do.",
+                "They really do."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Chirp, chirp!</i>"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh, the birds are out. Look at that,<n>what a cozy place\nfor a nest. The little<n>ones look full of life.",
+            "choice_data_list": [
+                "Hope they grow up nice and healthy."
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Trainer, thank you for spending time<n>with me. And\nI'm sorry you had to<n>turn down that invitation.",
+            "choice_data_list": [
+                "Don't be. I wanted to anyway.",
+                "Don't be. I wanted to anyway."
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Hehe, you don't have to pretend. You<n>really are the\nmost considerate<n>person, you know that?"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Just like you did now, you always<n>find a way to put\nme first in your<n>mind. Looking back, it's been like\nthat<n>ever since we met."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "You noticed my quirk right away and<n>suggested a\nbetter way I could be<n>stretching."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "You looked at me with those keen<n>eyes of yours\nand made a training<n>plan tailored just so to my\nneeds."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "And to think, I get to have such an<n>incredible person\nas my trainer—I<n>count my blessings every single\nday."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "But you know, I think it would do you<n>some good to\ntake things at your own<n>pace too."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "When I see you going about your<n>business nice\nand slow, that's what<n>really brings a smile to my\nface.",
+            "choice_data_list": [
+                "I mean, it's not like I'm—"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Ding, dong...</i>"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Well, time sure flies by. I'll see you<n>after school,\nthen. Remember not to<n>overwork yourself, you\nhear?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I'm glad she's looking out for me,<n>but it sounds\nlike there's a<n>misunderstanding that needs clearing\nup."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Well, there's no rush. If we just take<n>things at our\nown pace, I'm sure<n>we'll grow to understand one\nanother<n>in time."
+        }
+    ]
+}

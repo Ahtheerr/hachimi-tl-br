@@ -3,15 +3,15 @@
     "text_block_list": [
         {
             "name": "Monologue",
-            "text": "We're holding another concert to<n>draw support for\nour project."
+            "text": "Estamos realizando mais um show<n>para conseguir\napoio ao nosso<n>projeto."
         },
         {
             "name": "Light Hello",
-            "text": "So our mini concert today will be<n>something new for\nall of us, but—"
+            "text": "Então, nosso pequeno show de hoje<n>será uma\nnovidade para todas nós,<n>mas—"
         },
         {
             "name": "Smart Falcon",
-            "text": "Small or big, we give every concert<n>110%! Isn't that\nright, Bourbon?"
+            "text": "Seja pequeno ou grande, damos<n>110% em todo\nshow! Não é mesmo,<n>Bourbon?"
         },
         {
             "name": "Mihono Bourbon",
@@ -23,27 +23,27 @@
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Calculating probability of achieving<n>today's\nobjective: \"convey<n>gratitude\"..."
+            "text": "Calculando a probabilidade de<n>alcançar o objetivo\nde hoje:<n>\"expressar gratidão\"..."
         },
         {
             "name": "Smart Falcon",
-            "text": "Hey, no calculating!"
+            "text": "Ei, nada de cálculos!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "Oh?"
+            "text": "Ah?"
         },
         {
             "name": "Smart Falcon",
-            "text": "Whether or not we achieved our goal<n>is for the\naudience to decide, not us!"
+            "text": "Quem deve decidir se alcançamos<n>nosso objetivo é\no público, não nós!"
         },
         {
             "name": "Smart Falcon",
-            "text": "We can ask them directly afterwards!<n>I bet they'll\nall answer with a smile<n>on their face."
+            "text": "Podemos perguntar diretamente a<n>eles depois!\nAposto que todos vão<n>responder com um sorriso\nno rosto."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Understood. Post-concert protocol<n>updated."
+            "text": "...Entendido. Protocolo pós-show<n>atualizado."
         },
         {
             "name": "Silence Suzuka",
@@ -51,39 +51,39 @@
         },
         {
             "name": "Monologue",
-            "text": "The mini concert ends in success."
+            "text": "O pequeno show termina com<n>sucesso."
         },
         {
             "name": "Smart Falcon",
-            "text": "How'd you like today's concert?<n>Have we made\nyou into an even<n>bigger fan?!"
+            "text": "E aí, o que acharam do show de<n>hoje?\nConseguimos fazer de vocês<n>fãs ainda maiores?!"
         },
         {
-            "name": "Fan",
-            "text": "Huh? Oh, um, y-yeah."
-        },
-        {
-            "name": "Mihono Bourbon",
-            "text": "Falcon, enthusiasm overload. She's<n>shying away."
-        },
-        {
-            "name": "Fan",
-            "text": "Ahaha... No, but I really did become a<n>fan."
-        },
-        {
-            "name": "Fan",
-            "text": "I got to see a different side to you<n>than at the races,\nand the emotions<n>you gave off felt... different,\nsomehow."
+            "name": "Fã",
+            "text": "Hã? Ah, hum, s-sim."
         },
         {
             "name": "Mihono Bourbon",
-            "text": "My... emotions?"
+            "text": "Falco, entusiasmo excessivo. Ela<n>está ficando sem\ngraça."
         },
         {
-            "name": "Fan",
-            "text": "Yes, and now that I've gotten a<n>glimpse of them, I\nwant to feel them in<n>full."
+            "name": "Fã",
+            "text": "Ahaha... Não, mas eu realmente virei<n>fã."
         },
         {
-            "name": "Fan",
-            "text": "I've made up my mind to cheer for<n>you not just in\nyour races, but in your<n>concerts too."
+            "name": "Fã",
+            "text": "Pude conhecer um lado seu diferente<n>daquele que\nvejo nas corridas, e as<n>emoções que você\ntransmitiu foram...<n>diferentes, de alguma forma."
+        },
+        {
+            "name": "Mihono Bourbon",
+            "text": "Minhas... emoções?"
+        },
+        {
+            "name": "Fã",
+            "text": "Sim, e agora que tive um vislumbre<n>delas, quero\nsenti-las por completo."
+        },
+        {
+            "name": "Fã",
+            "text": "Decidi que vou torcer por você não só<n>nas corridas,\nmas também nos seus<n>shows."
         },
         {
             "name": "Silence Suzuka",
@@ -91,67 +91,67 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Ah, I know! Why don't you try talking<n>directly with\na fan sometime?"
+            "text": "Ah, já sei! Por que não tenta<n>conversar diretamente\ncom um fã<n>algum dia?"
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Who knows, you might learn a thing<n>or two,\nincluding what concerts mean<n>to you."
+            "text": "Quem sabe você não aprende uma ou<n>duas coisas,\ninclusive sobre o que os<n>shows significam para\nvocê."
         },
         {
             "name": "Silence Suzuka",
-            "text": "...Will I really learn anything?"
+            "text": "...Será que vou aprender alguma coisa<n>mesmo?"
         },
         {
             "name": "Suzuka's Fan",
-            "text": "Ahh, Suzuka was so peak today... I<n>mean, she\nalways is. Wonder if she'll<n>be in the next concert\ntoo."
+            "text": "Ahh, a Suzuka foi incrível hoje... Quer<n>dizer, ela é\nsempre incrível. Será que<n>também vai participar do\npróximo<n>show?"
         },
         {
             "name": "Silence Suzuka",
-            "text": "...Excuse me, may I have a moment?"
+            "text": "...Com licença, poderia me dar um<n>instante?"
         },
         {
-            "name": "Suzuka's Fan",
-            "text": "Wh-whoa, Suzuka?! A-am I<n>dreaming? Is it really\nyou?!"
-        },
-        {
-            "name": "Silence Suzuka",
-            "text": "S-sorry to startle you. I just wanted<n>to ask you\nsomething."
+            "name": "Fã da Suzuka",
+            "text": "N-nossa, Suzuka?! E-estou<n>sonhando? É você\nmesma?!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Why does it make you happy? Me<n>being in a\nconcert, I mean."
-        },
-        {
-            "name": "Suzuka's Fan",
-            "text": "Huh? Because I get to see you,<n>that's why!"
+            "text": "D-desculpe por assustá-la. Só queria<n>lhe perguntar\numa coisa."
         },
         {
             "name": "Silence Suzuka",
-            "text": "But you get to see me when I race<n>too, don't you?"
+            "text": "Por que isso te deixa feliz? Quero<n>dizer, eu\nparticipar de um show."
         },
         {
-            "name": "Suzuka's Fan",
-            "text": "Well, that's true, but it's like... In<n>races, all I can do\nis cheer you on."
-        },
-        {
-            "name": "Suzuka's Fan",
-            "text": "So I like being able to sing along with<n>you, being in\nthe same space, sharing<n>the same feelings."
-        },
-        {
-            "name": "Suzuka's Fan",
-            "text": "Concerts are where I can... welcome<n>you home, in a\nway."
+            "name": "Fã da Suzuka",
+            "text": "Hã? Porque assim posso ver você, é<n>claro!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Welcome... home?"
+            "text": "Mas você também não me vê quando<n>corro?"
+        },
+        {
+            "name": "Fã da Suzuka",
+            "text": "Bem, é verdade, mas é que... Nas<n>corridas, tudo o\nque posso fazer é<n>torcer por você."
+        },
+        {
+            "name": "Fã da Suzuka",
+            "text": "Por isso, gosto de poder cantar junto<n>com você,\nestar no mesmo lugar e<n>compartilhar os mesmos\nsentimentos."
+        },
+        {
+            "name": "Fã da Suzuka",
+            "text": "Os shows são onde posso... dar as<n>boas-vindas\nquando você volta para<n>casa, de certa forma."
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Dar as boas-vindas... quando volto<n>para casa?"
         },
         {
             "name": "Special Week",
-            "text": "Huh? Oh, thanks!"
+            "text": "Hã? Ah, obrigada!"
         },
         {
             "name": "Special Week",
-            "text": "You caught me off guard. Didn't think<n>you'd be\nback yet."
+            "text": "Você me pegou de surpresa. Não<n>esperava que\nvoltasse tão cedo."
         },
         {
             "name": "Silence Suzuka",
@@ -159,55 +159,55 @@
         },
         {
             "name": "Special Week",
-            "text": "Ooh, that's an interesting talk you had<n>with a fan."
+            "text": "Ooh, essa conversa que você teve<n>com uma fã foi\ninteressante."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Yeah, but... it strikes me as odd that a<n>concert would\nbe a place to say<n>\"welcome home.\""
+            "text": "Sim, mas... Acho estranho que um<n>show seja um\nlugar para dizer<n>\"bem-vinda de volta para casa\"."
         },
         {
             "name": "Special Week",
-            "text": "Wait, really?"
+            "text": "Espera, sério?"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Huh?"
+            "text": "Hã?"
         },
         {
             "name": "Special Week",
-            "text": "I've said that exact thing before,<n>actually."
+            "text": "Na verdade, já disse exatamente a<n>mesma coisa\nantes."
         },
         {
             "name": "Special Week",
-            "text": "See, when I'm racing you, what I see<n>is a back that\nI need to catch up to."
+            "text": "Veja bem, quando estou competindo<n>contra você, o\nque vejo é suas<n>costas, que preciso alcançar."
         },
         {
             "name": "Special Week",
-            "text": "But off the track—when I'm just<n>cheering—all I can\ndo is watch over<n>you."
+            "text": "Mas fora da pista, quando estou<n>apenas torcendo,\ntudo o que posso<n>fazer é ficar de olho em você."
         },
         {
             "name": "Special Week",
-            "text": "I remember seeing you off before a<n>race—I was a\nnervous wreck. All I<n>could think was, \"Be back\nsoon.\""
+            "text": "Lembro de ter me despedido de você<n>antes de uma\ncorrida. Eu estava<n>morrendo de preocupação. Só\nconseguia pensar: \"Volte logo\"."
         },
         {
             "name": "Special Week",
-            "text": "And, \"Please, please, come home to<n>me safely.\""
+            "text": "E também: \"Por favor, por favor,<n>volte para casa\nem segurança\"."
         },
         {
             "name": "Special Week",
-            "text": "So when the race ended, and the<n>stage lit up, I was\nso happy that I<n>started waving my hands\nfrantically..."
+            "text": "Então, quando a corrida terminou e o<n>palco se\niluminou, fiquei tão feliz que<n>comecei a acenar\nfreneticamente..."
         },
         {
             "name": "Special Week",
-            "text": "The only words that came to mind<n>were \"Welcome\nhome!\" and \"You did<n>great!\""
+            "text": "As únicas palavras que me vieram à<n>cabeça foram\n\"Bem-vinda de volta!\" e<n>\"Você foi incrível!\"."
         },
         {
             "name": "Special Week",
-            "text": "And also, \"Let's have tons of fun<n>today!\""
+            "text": "E também: \"Vamos nos divertir muito<n>hoje!\"."
         },
         {
             "name": "Special Week",
-            "text": "Ahaha... I guess \"welcome home\"<n>makes me sound\nlike I'm your mom<n>or something."
+            "text": "Ahaha... Acho que dizer \"bem-vinda<n>de volta\" me\nfaz parecer sua mãe ou<n>algo assim."
         },
         {
             "name": "Silence Suzuka",
@@ -215,35 +215,35 @@
         },
         {
             "name": "Special Week",
-            "text": "When the concert starts, it's like<n>we've come\nhome together to the<n>same place."
+            "text": "Quando o show começa, é como se<n>voltássemos\njuntas para casa, para<n>o mesmo lugar."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Come... home?"
+            "text": "Voltar... para casa?"
         },
         {
             "name": "Special Week",
-            "text": "Ahaha... Sorry if none of this makes<n>any sense!"
+            "text": "Ahaha... Desculpe se nada disso fez<n>sentido!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "No, that was helpful, thank you. I think<n>I'm starting\nto understand."
+            "text": "Não, isso me ajudou bastante,<n>obrigada. Acho que\nestou começando<n>a entender."
         },
         {
             "name": "Silence Suzuka",
-            "text": "...Now I want to know how it feels to<n>be welcomed\nhome."
+            "text": "...Agora quero saber como é ser<n>recebida de volta\nem casa."
         },
         {
             "name": "Air Groove",
-            "text": "Ah, Suzuka, perfect timing. Mind if I<n>ask your\nopinion on something?"
+            "text": "Ah, Suzuka, chegou na hora certa.<n>Posso pedir sua\nopinião sobre uma<n>coisa?"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Air Groove? Sure, I don't mind..."
+            "text": "Air Groove? Claro, não me importo..."
         },
         {
             "name": "Air Groove",
-            "text": "The student council is holding an<n>exhibition race,\nand one of the<n>runners had to drop out. So, if\npossible, I was thinking you could..."
+            "text": "O conselho estudantil vai realizar uma<n>corrida de\nexibição, mas uma das<n>corredoras precisou\ndesistir. Então,<n>se possível, pensei que você\npoderia..."
         },
         {
             "name": "Air Groove",
@@ -251,35 +251,35 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "...Is something wrong?"
+            "text": "...Aconteceu alguma coisa?"
         },
         {
             "name": "Air Groove",
-            "text": "No, it's just that there'll be a concert<n>involved as\nwell, and you'll need to<n>learn new choreography."
+            "text": "Não, é que também haverá um show,<n>e você\nprecisará aprender uma<n>coreografia nova."
         },
         {
             "name": "Air Groove",
-            "text": "I doubt you'd object to another race,<n>but the\nconcert would be a pain, so<n>I'm prepared to hear\nno for an<n>answer. But on the off chance that<n>you're\nwilling..."
+            "text": "Duvido que você se oponha a<n>participar de outra\ncorrida, mas o<n>show pode ser um incômodo, então\nestou preparada para ouvir um não.<n>Mas, caso\nesteja disposta..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Sounds fine to me. I'll learn the new<n>choreography."
+            "text": "Por mim, tudo bem. Vou aprender a<n>nova\ncoreografia."
         },
         {
             "name": "Air Groove",
-            "text": "You will?"
+            "text": "Vai mesmo?"
         },
         {
             "name": "Air Groove",
-            "text": "Okay then, I'll register you right away.<n>Wait right\nhere!"
+            "text": "Certo, então vou inscrevê-la<n>imediatamente. Espere\naqui!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "Hehe... Okay."
+            "text": "Hehe... Está bem."
         },
         {
             "name": "Silence Suzuka",
-            "text": "...I can already hear the voices<n>welcoming me\nhome."
+            "text": "...Já consigo ouvir as vozes me<n>dando as\nboas-vindas quando eu<n>voltar para casa."
         }
     ]
 }

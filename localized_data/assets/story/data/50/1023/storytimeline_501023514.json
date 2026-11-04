@@ -1,0 +1,263 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One day, I spot Biwa Hayahide in the<n>library, looking\nperplexed about<n>something. I stroll over to say hello\nand ask what's wrong."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Lately, I've been reading picture<n>books to children\nas an<n>extracurricular activity, but... it's just<n>not\nclicking with me.",
+            "choice_data_list": [
+                "What do you mean?",
+                "What do you mean?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well... You know how fairy tales and<n>legends aren't\nexactly true to life?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Whenever I read such stories, I can't<n>help but get\ndistracted by all the<n>errors in logic and\ninconsistencies in<n>them."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I think I can see where she's coming<n>from, but I\ndon't fully understand<n>what she means.",
+            "choice_data_list": [
+                "Can you read one of those stories to me and point\nout what you mean?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Sure, that seems like the best<n>approach. Allow me\nto read<n><i>Momotaro</i> for you."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Once upon a time, in a land far away..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "An old woman found a giant peach<n>and took it\nhome."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "She and her husband go to cut the<n>peach, when\nsuddenly..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "See, here's the part where my<n>suspension of\ndisbelief starts to<n>break down."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I already had trouble swallowing the<n>fact that a\ngiant peach was floating<n>down the river out of\nnowhere..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But then we discover that Momotaro<n>was inside of\nthe peach the whole<n>time."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Based on the information available,<n>we have to\nassume that he must<n>have been inside it for\nanywhere<n>between a few minutes to an hour."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "If that's the case, how did he not die<n>of\nasphyxiation?",
+            "choice_data_list": [
+                "W-well..."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Then there's the part where the old<n>man and\nwoman cut the peach in half."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "How did they avoid cutting Momotaro<n>in half too?\nDid they take care to cut<n>around him or something?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But that wouldn't make any sense<n>since they\ndidn't even know he was<n>in there.",
+            "choice_data_list": [
+                "You might be overthinking this.",
+                "You might be overthinking this."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Even if I am, what benefit is there to<n>learn about\nthings that are logically<n>impossible?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I'd rather not take part in teaching<n>falsities to\nchildren."
+        },
+        {
+            "name": "Monólogo",
+            "text": "From the look on her face, I can tell<n>she's truly\ndedicated to this. If she's<n>going to take things this\nseriously,<n>then...",
+            "choice_data_list": [
+                "Why don't you put your own twist on things?",
+                "Why don't you put your own twist on things?",
+                "Why don't you make it a study group activity?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "From the look on her face, I can tell<n>she's truly\ndedicated to this. If she's<n>going to take things this\nseriously,<n>then...",
+            "choice_data_list": [
+                "Why don't you put your own twist on things?",
+                "Why don't you put your own twist on things?",
+                "Why don't you make it a study group activity?"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "My own twist?",
+            "choice_data_list": [
+                "Yeah. Try inserting some logic in the stories."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You mean reconstruct them in a way<n>that makes\nsense? That does sound<n>intriguing..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "When it's time for Biwa Hayahide to<n>read to the\nchildren again, she put her<n>new tactic to work."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "An old woman found a giant peach<n>and took it\nhome."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The old man and woman were<n>puzzled by the\nstrange hole in the<n>peach and realized it must've\nbeen a<n>breathing hole."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Together, the two of them cut into the<n>peach very,\nvery carefully."
+        },
+        {
+            "name": "Energetic Child",
+            "text": "The peach had a breathing hole in it? I<n>don't\nremember that part..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "But if there wasn't one, Momotaro<n>wouldn't be\nable to breathe inside the<n>peach."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "It would be very sad if that were the<n>case, don't\nyou think?"
+        },
+        {
+            "name": "Precocious Child",
+            "text": "Yeah! It would be super, duper sad!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hehe. A kind stranger must have<n>thought the same\nand made that hole<n>for him."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Now, back to the story..."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Momotaro emerged from the peach<n>hale and whole\nthanks to the<n>breathing hole."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "And because the old man and woman<n>had cut into\nthe peach so carefully, he<n>didn't have a single\nscratch on him."
+        },
+        {
+            "name": "Energetic Child",
+            "text": "Yay! He was okay!"
+        },
+        {
+            "name": "Precocious Child",
+            "text": "Ehehe! Good for Momotaro!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Biwa Hayahide's logically rewritten<n>children's\nstories initially cause some<n>confusion..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "But in the end, it was a highly<n>educational\nexperience for the<n>children."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "A study group, you say?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The children might find such a thing<n>dull, but holding\na group discussion<n>might be a good way to discuss\nthe<n>flaws in such stories."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Yes, I like that idea! I'll start preparing<n>for our\ndiscussion right away!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "When it's time for Biwa Hayahide to<n>read to the\nchildren again, she<n>carefully presents her ideas to\nher<n>audience."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The glass slippers Cinderella wore<n>may look\nbeautiful, but they're<n>actually incredibly dangerous."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Because glass is hard, the likelihood<n>of injuring\nyour feet while wearing<n>them is high."
+        },
+        {
+            "name": "",
+            "text": "And if they were to break, they would<n>leave glass\nshards everywhere."
+        },
+        {
+            "name": "Energetic Child",
+            "text": "Wow! That would be really bad!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Exactly. That's why you should wear<n>shoes made\nfrom safe materials and<n>not glass slippers, even if\nthey're<n>from a fairy godmother."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "When the Big Bad Wolf asked Little<n>Red Riding\nHood where she was<n>going, she told him, thus\nrevealing the<n>location of her grandmother's house."
+        },
+        {
+            "name": "",
+            "text": "However, if she had kept her guard<n>up and refused\nto answer, her<n>grandmother would've escaped the\ntragic fate of being eaten."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "The moral of the story is that you<n>should run away\nfrom a stranger if<n>they try to talk to you.\nUnderstood?"
+        },
+        {
+            "name": "Precocious Child",
+            "text": "Yeah!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Although picture books can be quite<n>charming, they\noccasionally contain<n>problematic elements."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "You have to learn how to identify<n>these problems\nand avoid them in<n>order to live a good life."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Now, were you all able to learn<n>something new from\ntoday's story<n>time?"
+        },
+        {
+            "name": "Children",
+            "text": "Yeah! We did!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Biwa Hayahide's educational story<n>time ends up\nbeing a big hit."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Not only did the children love her, but<n>she seems to\nhave greatly enjoyed<n>herself too."
+        }
+    ]
+}

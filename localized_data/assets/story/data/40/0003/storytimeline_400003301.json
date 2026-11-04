@@ -3,83 +3,80 @@
     "text_block_list": [
         {
             "name": "Monologue",
-            "text": "One day, as I'm passing by the<n>training course..."
+            "text": "Escuto as cinco cantarem, e a<n>harmonia é tão\nagradável quanto<n>Smart Falcon havia prometido."
         },
         {
             "name": "Light Hello",
-            "text": "Echo forth, fanfare... ♪",
+            "text": "Talvez formar uma unidade para<n>praticar seja bom\npara <chrname>..."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ah! Treinador?!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "É que... ahm... finja que não viu nada,<n>está bem?\nAcho que você também<n>não vai querer se lembrar\ndisso.",
             "choice_data_list": [
-                "\"Make Debut\"?"
+                "Você canta bem."
             ]
         },
         {
             "name": "Light Hello",
-            "text": "Ah! Trainer?!"
+            "text": "Ahaha, talvez eu consiga cantar<n>afinada, mas isso\nnão significa que<n>eu seja uma boa cantora."
         },
         {
             "name": "Light Hello",
-            "text": "Just, um... forget you saw anything,<n>okay? I'm sure\nyou don't want to<n>remember that anyway.",
+            "text": "Minha avó sempre dizia que um<n>concerto é uma\noportunidade de<n>agradecer."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Não adianta cantar bem se você não<n>colocar o\ncoração nisso.",
             "choice_data_list": [
-                "You're a good singer."
+                "Parece que ela era uma jurada rigorosa."
             ]
         },
         {
             "name": "Light Hello",
-            "text": "Ahaha, maybe I can sing in tune, but<n>that's not the\nsame thing as being a<n>good singer."
+            "text": "Hehe, acho que isso só mostra o<n>quanto ela amava\na Série Twinkle."
         },
         {
             "name": "Light Hello",
-            "text": "My grandmother would always say<n>that a concert\nis an opportunity to give<n>thanks."
-        },
-        {
-            "name": "Light Hello",
-            "text": "Even if you sing well, it doesn't<n>matter if your\nheart's not into it.",
+            "text": "Na verdade, ela foi uma das<n>integrantes fundadoras\nque lutaram<n>para tirar o Grande Concerto do<n>papel.\nPelo menos foi o que minha<n>mãe me contou.",
             "choice_data_list": [
-                "Sounds like she was a strict judge."
+                "Sério?"
             ]
         },
         {
             "name": "Light Hello",
-            "text": "Heh, I think that's just how much<n>she loved the\nTwinkle Series."
+            "text": "Pelo visto, sim. Eu nem sabia disso<n>até começar a\npesquisar sobre o<n>concerto. Dá para imaginar\nminha<n>surpresa."
         },
         {
             "name": "Light Hello",
-            "text": "She was actually one of the founding<n>members\nwho fought to get the<n>Grand Concert off the ground.\nThat's<n>what I heard from my mother,<n>anyway.",
-            "choice_data_list": [
-                "Really?"
-            ]
+            "text": "Hehe, queria poder apresentá-la<n>àquela pessoa de\nquem te falei..."
         },
         {
             "name": "Light Hello",
-            "text": "Apparently. I never knew until I<n>started researching\nthe concert—you<n>can imagine my surprise."
+            "text": "Ah, desculpa! Olha só eu falando sem<n>parar sobre\nmim."
         },
         {
             "name": "Light Hello",
-            "text": "Heh, I wish I could introduce her to<n>the person I told\nyou about..."
+            "text": "Mas uma coisa eu posso dizer... Pelo<n>que ouvi até\nagora, realmente acho<n>que <chrname> é uma boa cantora."
         },
         {
             "name": "Light Hello",
-            "text": "Ah, sorry! Look at me rambling about<n>myself."
+            "text": "Então, quando chegar a hora de ela<n>subir ao palco,\nespero que preste<n>bastante atenção."
         },
         {
             "name": "Light Hello",
-            "text": "I will say, though... From what I've<n>heard so far, I\nreally do think<n><chrname> is a good singer."
-        },
-        {
-            "name": "Light Hello",
-            "text": "So when it comes time for her to<n>stand on stage, I\nhope you'll pay<n>close attention."
-        },
-        {
-            "name": "Light Hello",
-            "text": "Because I think her song will be filled<n>with gratitude\nfor the person who's<n>always stood by her side."
+            "text": "Porque acho que a música dela<n>estará repleta de\ngratidão pela<n>pessoa que sempre esteve ao seu\nlado."
         },
         {
             "name": "Monologue",
-            "text": "A few days later, I get the chance to<n>observe <chrname> at\none of her dance lessons."
+            "text": "Alguns dias depois, tenho a<n>oportunidade de\nobservar<n><chrname> durante uma de suas aulas de<n>dança."
         },
         {
             "name": "Monologue",
-            "text": "Her singing seems to ooze with<n>emotion."
+            "text": "Parece que sua voz transborda<n>emoção."
         }
     ]
 }

@@ -1,0 +1,227 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Is this it? Is it just... over for me?<n>Coming to Tracen\nwas a dream come<n>true, but as I gaze out across\ncampus,<n>the view has lost its rosy tint."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I first set foot on these grounds<n>convinced of my\nfuture success as a<n>trainer. But now, that\nconfidence is all<n>but gone.",
+            "choice_data_list": [
+                "<i>Sigh...</i>"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Goodness me, I've never heard a<n>sigh so heavy."
+        },
+        {
+            "name": "???",
+            "text": "Did we hit a little bump in the road?<n>When you're\nfeeling down, it's no<n>good to stew on it all alone.",
+            "choice_data_list": [
+                "Do I... know you?",
+                "Do I... know you?"
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Me? Well, if you want to know,<n>Wonder Acute's\nthe name. I don't<n>believe we've met before."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Hope I didn't startle you just now.<n>You looked like\nyou were about ready<n>to burst into tears, so I\nthought I'd<n>ask what's the matter."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I can't believe I let myself be seen<n>like this. It's a\ntrainer's job to listen<n>to students' career woes,\nnot the<n>other way around."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh, you poor thing, let's get that lost<n>puppy look off\nyour face. Maybe you<n>just need a bite to eat. How\nabout<n>some crunchy munchies?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "By \"crunchy munchies\" I'm guessing<n>she means\nthese pickled radishes.<n>Usually I'd pass, but I really\nneed this<n>right now.",
+            "choice_data_list": [
+                "...Thank you."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Crunch... crunch...</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "The salty flavor reminds me of the<n>tears I'd been\nholding back.",
+            "choice_data_list": [
+                "They're... delicious."
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Well, if your taste buds are still<n>working, you'll be\nall right yet. Now,<n>why don't you tell me what\nhappened? Take as much time as<n>you need."
+        },
+        {
+            "name": "Monólogo",
+            "text": "At her gentle prodding, the words I'd<n>intended to\nkeep bottled up spill out of<n>my mouth.",
+            "choice_data_list": [
+                "I... I'm unfit to be a trainer.",
+                "I... I'm unfit to be a trainer."
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Wait, you're changing my routine<n><i>again?</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I was in a trial period with this<n>student. She needed\nto improve her<n>explosiveness, so I suggested we\ndo<n>more uphill training."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Her muscles had great potential for<n>speed, and my\naim was to unlock it<n>by pushing her to her limits."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "I just... I don't like how we're doing<n>something\ndifferent every time. I've<n>asked around, and\neveryone else's<n>routines sound way more\nbalanced.",
+            "choice_data_list": [
+                "I want to utilize your strengths!",
+                "I want to utilize your strengths!"
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "...Can I really trust this trainer? Like,<n>I'm sure\nwinning whatever award at<n>trainer school is a big\ndeal, but still,<n>this is a fresh graduate we're talking\nabout..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Mmm, sorry, but could we forget<n>about the whole\ntraining contract<n>thing?"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh dear, maybe it just wasn't meant<n>to be? But\nsurely just one rejection<n>is nothing to fuss over.",
+            "choice_data_list": [
+                "It wasn't the first time..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "In the few months I've been here, no<n>less than\neleven students have<n>turned down a contract with\nme, if<n>you count those who didn't even<n>want to do a\ntrial period.",
+            "choice_data_list": [
+                "Maybe I'm just not cut out to be a trainer...",
+                "Maybe I'm just not cut out to be a trainer..."
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Now that's a load of baloney. You<n>take your job\nserious enough to get<n>all tore up over it—that's got\nto count<n>for something if you ask me."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh, I know, how about we try a little<n>something?\nTrainer, do you have time<n>to spare right now?"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Well, I'm going to be competing in the<n>upcoming\nTracen Meet, you see. And<n>I figured I might as well\ndo my best to<n>prepare."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tracen Meet is a race event held on<n>campus. Only\nstudents can compete,<n>but spectators flock in from\nall over."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Having a trainer to guide me would be<n>a big help,\ndon't you think? Though<n>you might not get much\nsatisfaction<n>watching a runner like me...",
+            "choice_data_list": [
+                "Hey, don't say that!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I should be happy for another chance<n>to prove\nmyself as a trainer. But if I<n>lose the trust of yet\nanother student..."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh dear, you look awfully anxious<n>about this. Don't\nyou worry, I'm<n>tougher than I look, so I know I can\nhandle anything you throw at me."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "For starters, why don't I go and run a<n>quick lap? If\nyou notice anything I can<n>improve on, you can tell\nme after.",
+            "choice_data_list": [
+                "...Hold on!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I stop Wonder Acute just as she's<n>about to run off.\nSomething caught my<n>eye while she was doing\nstretches.",
+            "choice_data_list": [
+                "You should stretch your right leg a bit more."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "It's fairly common for one leg to be<n>more flexible\nthan the other. The<n>sooner she realizes this and\nadjusts<n>her stretching routine accordingly, the\nbetter."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Hmm... Hehe."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "See? I knew it in my bones you'd<n>make a\ntrustworthy trainer! We only<n>just met, and you're\nalready looking<n>out for me.",
+            "choice_data_list": [
+                "...You don't find it overly pedantic and annoying?"
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Of course not, dear. You're only<n>saying it for my\nsake. Not to mention, I<n>do notice that my right leg is\nmore<n>liable to give me trouble."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "So you're saying I should be giving it<n>an extra\nstretch before I run. Well,<n>you learn something new\nevery day."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I wake up the next morning at my<n>complete mess\nof a desk, the result<n>of a long night of\nbrainstorming."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I would draw up one training plan,<n>only to\nimmediately scrap it for<n>another, the optimal plan\nalways just<n>out of reach. It seems I forgot to eat\nand sleep."
+        },
+        {
+            "name": "Monólogo",
+            "text": "My next session with Wonder Acute<n>is in a few\nhours. I hope she won't<n>find the new routine too\nintense..."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "And a one, nice and low, and a two,<n>there we go."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh, Trainer. You're quite the early bird<n>today, aren't\nyou?",
+            "choice_data_list": [
+                "You're getting your extra stretches in!"
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Well, I wouldn't want to let what you<n>taught me go\nto waste, you know. Got<n>to make sure I'm all ready\nfor<n>another intense workout.",
+            "choice_data_list": [
+                "Sounds like you're really fired up.",
+                "Sounds like you're really fired up."
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "I've been excited to see how you<n>train me—it's all I\ncould think about.<n>Now then, I say we get right to it."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Seeing her eyes glimmer with<n>anticipation warms\nmy heart. As a<n>trainer, there really is no better\nfeeling<n>than earning the trust of your trainee."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I make up my mind to do as much as<n>I possibly can\nfor Wonder Acute in<n>the short time we have before\nthe<n>Tracen Meet."
+        }
+    ]
+}

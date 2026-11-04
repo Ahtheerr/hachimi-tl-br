@@ -3,70 +3,70 @@
     "text_block_list": [
         {
             "name": "Monologue",
-            "text": "At last, it's time for our first concert."
+            "text": "Finalmente, chegou a hora do nosso<n>primeiro\nconcerto."
         },
         {
             "name": "Light Hello",
-            "text": "...Right. Then let's go with what we<n>did last\nrehearsal. No need for smoke<n>in the finale. Mhm."
+            "text": "...Certo. Então vamos fazer como no<n>último ensaio.\nNão precisamos de<n>fumaça no final. Isso mesmo."
         },
         {
             "name": "Monologue",
-            "text": "Light Hello is giving out some<n>last-minute directions\nto the stage<n>crew."
+            "text": "Light Hello está dando as últimas<n>instruções à\nequipe do palco."
         },
         {
             "name": "Smart Falcon",
-            "text": "Deep breaths... deep breaths...",
+            "text": "Respira fundo... Respira fundo...",
             "choice_data_list": [
-                "You got this!",
-                "You got this!"
+                "Você consegue!",
+                "Você consegue!"
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "Yeah! Just need to get my song out to<n>everyone. I\ndid everything I could to<n>prepare for today!"
+            "text": "Isso! Só preciso fazer minha música<n>chegar a\ntodos. Fiz tudo o que podia<n>para me preparar para\nhoje!"
         },
         {
             "name": "Smart Falcon",
-            "text": "Like, yesterday..."
+            "text": "Como, por exemplo, ontem..."
         },
         {
             "name": "Smart Falcon",
-            "text": "We'll be having a concert soon!<n>Please stop by and\nlisten!"
+            "text": "Vamos realizar um concerto em<n>breve! Por favor,\napareçam para<n>assistir!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Good morning, Falcon."
+            "text": "...Bom dia, Falcon."
         },
         {
             "name": "Smart Falcon",
-            "text": "Morning, Bourbon! You <i>have</i> to come<n>to our concert,\nokay?",
+            "text": "Bom dia, Bourbon! Você <i>tem</i> que ir ao<n>nosso\nconcerto, está bem?",
             "color_text_info_list": [
                 "Bourbon"
             ]
         },
         {
             "name": "Mihono Bourbon",
-            "text": "I <i>have</i> to? Is that an order, then?"
+            "text": "Eu <i>tenho</i> que ir? Então isso é uma<n>ordem?"
         },
         {
             "name": "Smart Falcon",
-            "text": "Yep! A super special order from<n>Falco! See you\nthere!"
+            "text": "Isso mesmo! Uma ordem<n>superespecial da Falco!\nAté lá!"
         },
         {
             "name": "Mihono Bourbon",
-            "text": "...Order received."
+            "text": "...Ordem recebida."
         },
         {
             "name": "Smart Falcon",
-            "text": "I put a lot of effort into spreading the<n>word, right up\nuntil the last minute!<n>This time..."
+            "text": "Me esforcei muito para divulgar o<n>evento, até o\núltimo minuto! Desta<n>vez..."
         },
         {
             "name": "Smart Falcon",
-            "text": "I want to make sure that the songs<n>everyone\nworked so hard to<n>prepare..."
+            "text": "Quero garantir que as músicas que<n>todos se\nesforçaram tanto para<n>preparar..."
         },
         {
             "name": "Smart Falcon",
-            "text": "Reach the hearts of as many people<n>as possible."
+            "text": "Cheguem ao coração do maior<n>número possível de\npessoas."
         },
         {
             "name": "Smart Falcon",
@@ -74,29 +74,29 @@
         },
         {
             "name": "Monologue",
-            "text": "I notice Smart Falcon's lips trembling<n>ever so\nslightly."
+            "text": "Percebo que os lábios de Smart<n>Falcon estão\ntremendo levemente."
         },
         {
             "name": "Smart Falcon",
-            "text": "Don't worry, I can do it! I'll get<n>everyone hyped up\nso they want to<n>pitch in to our project.",
+            "text": "Não se preocupe, eu consigo! Vou<n>animar todo\nmundo para que queiram<n>ajudar no nosso projeto.",
             "choice_data_list": [
-                "Don't put it all on yourself.",
-                "Don't put it all on yourself."
+                "Não coloque toda a responsabilidade sobre si\nmesma.",
+                "Não coloque toda a responsabilidade sobre si\nmesma."
             ]
         },
         {
             "name": "Smart Falcon",
-            "text": "Huh? But..."
+            "text": "Hã? Mas..."
         },
         {
             "name": "Monologue",
-            "text": "When they go out on stage, they<n>won't be alone."
+            "text": "Quando subirem ao palco, elas não<n>estarão\nsozinhas."
         },
         {
             "name": "Monologue",
-            "text": "They'll have us waiting in the wings,<n>and the\naudience in front of them.",
+            "text": "Terão a nós esperando nos<n>bastidores e o público\nà sua frente.",
             "choice_data_list": [
-                "It's a group effort!"
+                "É um esforço de equipe!"
             ]
         },
         {
@@ -105,15 +105,15 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "You're right. We're here to ask<n><i>everyone</i> for help."
+            "text": "Você tem razão. Estamos aqui para<n>pedir a ajuda\nde <i>todos</i>."
         },
         {
             "name": "Smart Falcon",
-            "text": "Okay! I'll rope everyone in on the fun!"
+            "text": "Certo! Vou chamar todo mundo para<n>participar da\ndiversão!"
         },
         {
             "name": "Smart Falcon",
-            "text": "All right, off I go!"
+            "text": "Muito bem, lá vou eu!"
         },
         {
             "name": "Mihono Bourbon",
@@ -121,7 +121,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Heh-heh... First, I will observe what<n>exactly you all\nhave cooked up with<n>this concert."
+            "text": "Heh-heh... Primeiro, vou observar o<n>que exatamente\nvocês estão<n>preparando com esse concerto."
         },
         {
             "name": "Agnes Tachyon",
@@ -132,19 +132,19 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "...I'm right here. You don't have to<n>shout."
+            "text": "...Estou bem aqui. Não precisa gritar."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And you don't have to be so cold all<n>the time. At\nany rate, do be sure to<n>pay close attention to\nwhat's about to<n>unfold."
+            "text": "E você também não precisa ser tão<n>fria o tempo\ntodo. De qualquer forma,<n>preste bastante atenção\nao que está<n>prestes a acontecer."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Even the weakest of electrical signals<n>can stimulate\nthe brain. The question<n>is whether or not that\nstimulation will<n>lead to the desired reaction."
+            "text": "Até mesmo os sinais elétricos mais<n>fracos podem\nestimular o cérebro. A<n>questão é se esse estímulo\nlevará ou<n>não à reação desejada."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "And whether or not we'll find the<n>piece we need. It\nall begins with<n>observation."
+            "text": "E se encontraremos ou não a peça<n>de que\nprecisamos. Tudo começa<n>com a observação."
         }
     ]
 }

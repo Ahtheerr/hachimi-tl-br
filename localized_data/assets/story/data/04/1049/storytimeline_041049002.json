@@ -1,0 +1,260 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "The tryouts are a place for race-ready<n>Umamusume\nto appeal to potential<n>trainers, which means this\n\"Nakayama Festa\" was actually a<n>student here."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Ah... Oh nooo, I'm so nervous! This<n>time, I've gotta\nwin... or at least,<n>hopefully I can make top five!"
+        },
+        {
+            "name": "Knowledgeable Trainer",
+            "text": "Heeey, new kid! So you did decide to<n>come check\nout the tryouts, huh?<n>Anyone here catch your eye?",
+            "choice_data_list": [
+                "Yeah, I'm curious about post 10, Nakayama Festa!"
+            ]
+        },
+        {
+            "name": "Knowledgeable Trainer",
+            "text": "Huh. Hmm... Nakayama Festa? Oh<n>jeez, I swear\nI've heard the name<n>before, but it's escaping me.",
+            "choice_data_list": [
+                "Just wait till you see what she can do. It's\nincredible!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "The skill and guts she displayed at<n>the pier were\ntop class. With her wits,<n>I'm sure she'll put on an\namazing<n>performance today!"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hah... Hah... Tch!"
+        },
+        {
+            "name": "Knowledgeable Trainer",
+            "text": "Hm? Hey, the runner you marked<n>doesn't seem to\nbe doing all so well...",
+            "choice_data_list": [
+                "But... But last time, she..."
+            ]
+        },
+        {
+            "name": "Knowledgeable Trainer",
+            "text": "Uh oh, look. She's falling even further<n>behind. She\ndoesn't look all that tired<n>though, so why?",
+            "choice_data_list": [
+                "(Why indeed. What's happening?)"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hah... hah... hahhh..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "The way she ran was painfully bland,<n>earning her a\nthirteenth-place finish."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "<i>Sigh...</i> I knew I shouldn't have got my<n>hopes up. I'll\nhave to try harder next<n>time..."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "\"Next time,\" huh? Maybe that's<n>what's holding me\nback. The thought<n>of a second chance."
+        },
+        {
+            "name": "???",
+            "text": "Festa. Don't you worry about a thing."
+        },
+        {
+            "name": "???",
+            "text": "I know you'll find what you seek at<n>Tracen\nAcademy—and you'll meet<n>people who will truly\nsatisfy that<n>burning desire in your heart."
+        },
+        {
+            "name": "???",
+            "text": "I promise. You'll feel alive at Tracen."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "...Man. I guess it was too good to be<n>true."
+        },
+        {
+            "name": "Monólogo",
+            "text": "The feisty spirit I saw at the pier is<n>gone. This\n\"Nakayama Festa\" is like a<n>different person. I\nmean, maybe she<n><i>is.</i> Maybe she's just a lookalike\nwith<n>a similar name.",
+            "choice_data_list": [
+                "(Because the Nakayama I saw before could have\ndone so much better.)"
+            ]
+        },
+        {
+            "name": "Knowledgeable Trainer",
+            "text": "...Hey, new kid. Forget Festa.",
+            "choice_data_list": [
+                "Huh? What do you mean?"
+            ]
+        },
+        {
+            "name": "Knowledgeable Trainer",
+            "text": "I just remembered where I heard<n>about Nakayama\nFesta, and let me tell<n>you, you do <i>not</i> want to take\non<n>someone that difficult yet."
+        },
+        {
+            "name": "Knowledgeable Trainer",
+            "text": "She's got a reputation amongst the<n>instructors.\nThey try so hard to help,<n>then she blows them off. I\nheard she<n>almost got expelled for causing<n>trouble\nbefore a practice race."
+        },
+        {
+            "name": "Knowledgeable Trainer",
+            "text": "You saw how she just ran. Did it look<n>like she was\ngiving it her best effort?<n>You were just thinking that\nshe could<n>do better if she applied herself, right?",
+            "choice_data_list": [
+                "I—I was!"
+            ]
+        },
+        {
+            "name": "Knowledgeable Trainer",
+            "text": "...Well, she's not <i>gonna</i> apply herself.<n>Okay, kid?\nYou've just started your<n>trainer journey. You'd\nboth be better<n>off picking someone else than putting\nin all your sweat and tears just to get<n>burned."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I... I don't even know how to respond.<n>He's seen a\nlot more runners than I<n>have, so I'm sure he knows\nwhat<n>he's talking about, but..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "The look on Nakayama Festa's face<n>as she leaves\nthe course... It's like<n>she's screaming for help."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I can't help but doubt whether she's<n>really as bad\nas the rumors make her<n>out to be. Next thing I\nknow, I'm<n>looking up her track record.",
+            "choice_data_list": [
+                "Here they are. The results of Nakayama Festa's\nrecent practice races..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "They're all over the place. Sometimes<n>she's\namazing, sometimes she's<n>awful. Her average\nacross the board<n>isn't great, but then again, this\nrecord<n>only shows the cold, hard numbers."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Why did she look so torn up after the<n>tryouts? Why\ndidn't she just run<n>harder in the race? ...I can't\neven<n>begin to guess."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I close the set of records. Something<n>tells me these\nnumbers aren't what I<n>need right now.",
+            "choice_data_list": [
+                "I need to know more about Nakayama Festa\nherself."
+            ]
+        },
+        {
+            "name": "Head Delinquent",
+            "text": "Like I friggin' said, quit bumming<n>around here every\ndamn day! If you<n>wanna know about Nakayama, go\nask her yourself!",
+            "choice_data_list": [
+                "But she hasn't shown up to class all week..."
+            ]
+        },
+        {
+            "name": "Head Delinquent",
+            "text": "That's your problem! Who knows<n>where she is?!\nDamn it... Quit<n>followin' me around! Don't adults\nhave better stuff to do?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I shake dirt off my clothes. There<n>goes yet another\nday of zero<n>progress. I haven't learned anything\nmeaningful about Nakayama Festa at<n>all.",
+            "choice_data_list": [
+                "(I have to find something. Anything...)"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Are you the trainer that's been going<n>around\nasking about Nakayama? I've<n>been hearing rumors\non and off<n>campus.",
+            "choice_data_list": [
+                "...And you are?",
+                "...And you are?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Sirius Symboli. But... that's got<n>nothing to do with\nNakayama, now<n>does it?"
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "C'mere. Be a good puppy and follow<n>my lead—I'll\ngive you exactly what<n>you've been longing for."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "This is a freestyle racecourse. It's a<n>casual place\nfor people who just<n>want to run without all the\nrules and<n>regulations."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Them, and the freaks who like<n>running on messy,\nunkempt grass<n>like this. Nakayama used to play\naround here, from what I've heard.",
+            "choice_data_list": [
+                "So this is where she's been?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Were you listening? I said she <i>used<n>to</i> hang here.\nNot anymore though—or<n>so she says."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "What, so you <i>are</i> back already? Since<n>when do you\nkeep curfew? I thought<n>you lived for your little\ngames."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "...I'm finally ready to run in the<n>tryouts, so I cleaned\nup my act.<n>That's all."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "From here out, I'll have real races. I'll<n>be staking\nmy entire future on the big<n>thrills... taking\nmind-breaking risks<n>with my whole body on the\nline. I<n>don't need the small fry anymore."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "All bark and no bite. Tch. And here I<n>thought she'd\nshow me something<n>entertaining."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "...Listen well. You wanna know<n>Nakayama's\nAchilles heel? Go visit<n>her old mentor at the\nhospital. She'd<n>know.",
+            "choice_data_list": [
+                "Her old mentor... at the hospital?"
+            ]
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "Yeah, one of my groupies used to go<n>to school with\nNakayama before<n>Tracen. She was practically\nbegging<n>to give me info."
+        },
+        {
+            "name": "Sirius Symboli",
+            "text": "So, now I've got the hospital name<n>and contact info.\nWhat you do with<n>it's up to you."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sirius thrusts a piece of paper into my<n>hand. I start\nto thank her, but she just<n>turns and leaves with a\nlittle \"Tch.\"",
+            "choice_data_list": [
+                "In any case... that mentor might know what's\nholding Nakayama Festa back."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I'm a little worried why she has a<n>mentor at a\nhospital, though. Her<n>physician, maybe? Did she\nhave an<n>injury? An illness?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "But then, when I arrive for our<n>meeting, I find the\nmentor in patients'<n>garb, resting on a hospital bed.",
+            "choice_data_list": [
+                "You're Nakayama Festa's mentor?"
+            ]
+        },
+        {
+            "name": "Nakayama's Mentor",
+            "text": "Yes, or her old elementary school<n>teacher, rather.\nShe had me for fifth<n>grade, and hehe... she certainly\nwas a<n>handful."
+        },
+        {
+            "name": "Nakayama's Mentor",
+            "text": "There are some things you should<n>know about her,\nbut before we get<n>into that, there's something I'd\nlike<n>you to watch.",
+            "choice_data_list": [
+                "There is?"
+            ]
+        },
+        {
+            "name": "Nakayama's Mentor",
+            "text": "Yes! I'd like to show you her strong<n>points first,\nbefore we dig into the<n>nitty-gritty. I've got a video\nfrom two<n>years ago..."
+        },
+        {
+            "name": "Nakayama's Mentor",
+            "text": "The first time Festa took on the world<n>with her own\ntwo feet."
+        }
+    ]
+}

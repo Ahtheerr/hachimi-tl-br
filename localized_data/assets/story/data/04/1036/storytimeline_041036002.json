@@ -1,0 +1,246 @@
+{
+    "text_block_list": [
+        {
+            "name": "Skilled Trainer",
+            "text": "All right, Air Shakur, do a lap for me<n>using the\nstrategy I just explained."
+        },
+        {
+            "name": "Monólogo",
+            "text": "The next day, I've once again come<n>to the training\ncourse to watch the<n>racers. That's when I spot a\ntrainer<n>talking to Air Shakur.",
+            "choice_data_list": [
+                "(I wonder what sort of run she'll show him...)"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>...Sigh.</i> Let's do this."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hrrraugh!",
+            "choice_data_list": [
+                "(Wh-whoa!)"
+            ]
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Eek! N-no way... Let's run<n>somewhere else..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Air Shakur's run is wilder than I<n>imagined... but it's\nnot sloppy. In fact,<n>I'd say it's refined to the point\nwhere<n>no inefficiency remains."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Huff, huff, huff!</i> Hahaha!",
+            "choice_data_list": [
+                "(Amazing...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "As she enters the straightaway, she<n>goes faster\nand faster, like she's<n>chasing her prey. I'm\nawestruck by<n>the skill on display. She's clearly\ntalented. However..."
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "H-hey! What do you think you're<n>doing? That is <i>not</i>\nwhat I told you to<n>do!",
+            "choice_data_list": [
+                "(...?!)"
+            ]
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "I told you to try pace chasing for this<n>first lap, so\nwhy did you hold back<n>until the fourth corner?"
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "If I'm going to be your trainer, I need<n>to assess\nyour skills. But I can't do<n>that unless you\ncooperate!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Then don't waste my time."
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "Huh?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "You need to see me pace chase to<n>assess my\nabilities? Why? What's<n>the logic there?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Not that it matters. I've already<n>collected and\nassessed the data<n>myself. I'm not gonna waste\nresources on half-baked experiments."
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "But you can't guarantee that the data<n>you've\ncollected is correct, right? My<n>experience as a\ntrainer affords me<n>the insight to make—"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Ugh, okay, we're done. You're the<n>same as all the\nothers, so forget I<n>ever agreed to this training\nsupervision thing. Leave."
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "Huh?! What are you saying?! We<n>just got started!"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "And now we're done. If you try and<n>take up any\nmore of my precious<n>time... You know what'll\nhappen,<n>right? <i>Right?!</i>"
+        },
+        {
+            "name": "Skilled Trainer",
+            "text": "Urk! Wh-what's your problem... Fine,<n>have it your\nway!"
+        },
+        {
+            "name": "Trainer A",
+            "text": "D-did you see that? How the heck<n>are you\nsupposed to train such an<n>unruly racer?"
+        },
+        {
+            "name": "Trainer B",
+            "text": "You don't, that's how... Talking to her<n>would be like\ntalking to a brick wa—"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Hey, if you're gonna whisper, at least<n>do it where I\ncan't—"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Hwaaah!"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Owww... I'm so sorry... Look at me,<n>making you\nhelp me up again..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Another spectacular fall. What<n>happened this time?"
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Ah, um, well... I guess I went a little<n>overboard... My\ntime hasn't gotten<n>any shorter recently... I suppose\nI<n>was running too much..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...So you've hit a wall. Instead of<n>tackling it head-on,\nwouldn't it be<n>better to try something else?"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "I get that you're working hard, but<n>you can only\nimprove so much. We all<n>have limits. Refusing to\ngive up will<n>just result in wasted time."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "Um, well... I'm not very clever, so any<n>idea I have\nwould be worthless... All I<n>can do is work hard."
+        },
+        {
+            "name": "Meisho Doto",
+            "text": "But I figured that as long as I keep<n>throwing my\nwhole body into that<n>wall... maybe someday, it'll\nfinally<n>break? I don't know..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "...I see. Well, then I guess... I look<n>forward to seeing\nyou tear down that<n>wall."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "\"Someday,\" huh..."
+        },
+        {
+            "name": "Air Shakur",
+            "text": "What a meaningless wish...",
+            "choice_data_list": [
+                "(...!)"
+            ]
+        },
+        {
+            "name": "Trainer B",
+            "text": "<i>Phew...</i> Looks like she's calmed<n>down... That Air\nShakur, she was<n>even worse than usual today.",
+            "choice_data_list": [
+                "(What does she mean by \"meaningless\"?)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "She said it rather quietly, but the pain<n>in her voice\nechoes through my<n>mind..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "But so does the image of her run.<n>Later in the\nevening, I find myself<n>back at the course, only to\nsee...",
+            "choice_data_list": [
+                "(Shakur?)"
+            ]
+        },
+        {
+            "name": "Air Shakur",
+            "text": "<i>Huff... Huff... Huff...</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Dammit... nothing changed! Not now,<n>not then, <i>NOT\nEVER!</i>"
+        },
+        {
+            "name": "Air Shakur",
+            "text": "Seven centimeters! That's it! Just a<n>few\ncentimeters, but no matter how<n>much I try... I can't\neven—",
+            "choice_data_list": [
+                "(Seven centimeters?)"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Oh my, this isn't like her at all. All that<n>bottled up\nfrustration is finally spilling<n>out."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Good evening. I am Agnes Tachyon, a<n>friend of\nShakur's... Although I'm<n>sure she'd object to that\nstatement."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "She's certainly overdoing it today.<n>For someone so\nobsessed with<n>efficiency and benefit, seeing her\nlashing out so fruitlessly is quite<n>strange.",
+            "choice_data_list": [
+                "Just what is she trying to do?"
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Do you have much experience with<n>the world of\nzeros and ones? If not,<n>I'm afraid you may never\nunderstand<n>her."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "You could say... Shakur is a devout<n>follower of data.\nShe spends her time<n>collecting it and running\nsimulations,<n>all in the hopes of finding a solution."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "She sees the world in terms of true<n>and false.\nAmbiguities such as<n>potential do not exist for her."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "What you see now... is her god<n>denying her a\nprosperous future. And<n>as her god is absolute, that\nrevelation<n>too remains unchangeable."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "If it did change, that would mean her<n>entire\nworldview is wrong—an equally<n>terrifying prospect.\nSo she has no<n>choice but to accept her fate,\nwhether<n>she likes it or not.",
+            "choice_data_list": [
+                "But even so, she wants to change something..."
+            ]
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Heh, correct you are! Her mind truly is<n>an enigma.\nWhy does she continue to<n>struggle when she\nherself would<n>admit it's futile?"
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Shakur's vision of the ideal racer is<n>chiseled\nperfection... But if you ask<n>me, there is potential to\nbe found in<n>the discarded scraps and undefined\nspaces."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "Oh my, it looks like she's finishing up.<n>As much as\nshe likes observing other<n>runners, she hates to be\nthe one<n>observed."
+        },
+        {
+            "name": "Agnes Tachyon",
+            "text": "I shall be taking my leave here, but<n>you... Now that\nyour curiosity has<n>been piqued and Shakur fills your\nthoughts... What will <i>you</i> do?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "As if in response to Agnes<n>Tachyon's question, I\nturn around<n>and race after Air Shakur."
+        }
+    ]
+}

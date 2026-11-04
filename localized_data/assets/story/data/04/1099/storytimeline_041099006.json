@@ -1,0 +1,284 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "I've been thinking about doing some<n>hiking over\nthe weekend for a<n>breather, so I hit the shops and\nrun<n>into none other than Tarumae."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Going hiking sounds like a great way<n>to unwind!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "There are some great beginner trails<n>you could start\nwith, and you could<n>gradually work your way up to\nreal<n>mountain hikes."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "(Wait, am I being a buzzkill? I-I mean,<n>it's just\nhonest advice. And<n>Trainer's not looking upset\nabout it,<n>like last time...)",
+            "choice_data_list": [
+                "You sound like a pro. I'd appreciate your advice!",
+                "You sound like a pro. I'd appreciate your advice!"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Oh! R-right..."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "(Now what? I don't want to rain on<n>their parade by\nbeing too serious or<n>anything.)"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "(But... This is my opportunity to give a<n>little\nsomething back for all the stuff<n>Trainer's taught\nme. It should be fine,<n>as long as I don't say\nanything<n>harsh.)",
+            "choice_data_list": [
+                "Tarumae?"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "...Huh? S-sorry, I was just thinking!<n>I'd be glad to\ngive you some hiking<n>pointers!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "A good hike starts with good shoes!<n>Hiking boots\ncome in various styles,<n>so it's important to pick a\npair that<n>suits your needs."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I'm glad she's here to walk me<n>through this. She\nseems really<n>knowledgeable!",
+            "choice_data_list": [
+                "How about these big, sturdy-looking ones?"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Oh, these high-cut ones are actually<n>mountaineering\nboots."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "...So, um, they're designed for snow<n>and steep,\nrigorous climbs! For casual<n>hiking, I'd recommend\nmid-cut hiking<n>boots like these.",
+            "choice_data_list": [
+                "Ooh, okay! I'll go with these, then!",
+                "Ooh, okay! I'll go with these, then!"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "(Whew, okay. These boots should<n>work much\nbetter! But they're not<n>upset I shot down the other\npair, are<n>they? No, they seem fine...)"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Next up is a hiking outfit! Is there<n>anything particular\nyou're looking<n>for?",
+            "choice_data_list": [
+                "Hmm... What do you recommend?"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Hmm... Well, let me think..."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "(You'd want layers to adjust to<n>temperature\nchanges, so we should<n>start with a quick-dry base\nlayer. For<n>a beginner, performance is more<n>important\nthan fashion...)"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "(But the functional ones look so<n>boring. Maybe it'd\nbe better if I<n>suggest something fun, since it's<n>just\na casual hike...)"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "What do you think of this jacket? It's<n>a brand-new\ndesign from a popular<n>brand, and it looks like the\nkind of<n>style you'd like!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "...I can't put a finger on it, but<n>something feels off.\nTarumae is<n>usually more practical, and she's<n>been\nwatching my each little reaction<n>nervously."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I've got to lighten the mood!",
+            "choice_data_list": [
+                "Actually, I kinda like the trench coat on display in\nthat store!"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Huh? Wait, what?! A tr-tre-<i>trench<n>coat?!</i> For hiking?",
+            "choice_data_list": [
+                "Haha, just kidd—"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Y-yeah, that sounds good too! It's<n>super stylish...\nLet's go over and<n>have a look!",
+            "choice_data_list": [
+                "Tarumae, wait! I was just kidding!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I thought it was pretty clearly a joke,<n>but she\nseems to have taken me<n>seriously. I'm kinda\nworried about<n>how tense she is, and hurry over to\nstop her..."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Um, I think this should be everything<n>you need for a\nbeginner-level hike!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "With Tarumae's help, I'm all set for<n>my mountain\nadventure. I've got to<n>do something to pay her\nback."
+        },
+        {
+            "name": "Monólogo",
+            "text": "She's been kinda down, and I<n>accidentally ran her\nfor a loop with my<n>dumb attempt at a joke, so this\ntime<n>for sure—I've got an idea to help her<n>relax.",
+            "choice_data_list": [
+                "Hey, Tarumae? If you're free, I was wondering..."
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Mmm... It's nice getting some fresh<n>air. And the trail\nis really<n>well-maintained, so this should be a<n>breeze!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Oh! Look, there's a birds' nest!<n>Heheh! The little\nbirds glid'n nearby<n>probably just learned to fly.",
+            "choice_data_list": [
+                "Maybe they're practicing how to find food."
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "They might be! Heh, this is one of my<n>favorite\nthings about hiking—the<n>chance to watch nature\nworking its<n>magic."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "It takes me back... I hiked the<n>mountains back home\na million times.<n>Mount Tarumae also has some\nadorable birds called pipits!",
+            "choice_data_list": [
+                "(She's back to her usual self... I'm glad she came\nalong.)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Then, I spot a patch of beautiful<n>wildflowers on my\nside of the trail. I<n>reach down to grab one to show\nher,<n>but—"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "NO! Don't touch that!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Are you okay?! ...Oh, thank goodness.<n>That\ncould've been bad."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "...You have to be careful with wild<n>plants. Some of\nthem have irritants or<n>poison, or could be hiding\ndangerous<n>bugs."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Even if it was safe, you still shouldn't<n>pick flowers.\nThe best thing you can<n>do to preserve nature is\nleave it<n>alone!",
+            "choice_data_list": [
+                "I-I'm sorry! I shouldn't have done that..."
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Oh.",
+            "choice_data_list": [
+                "Thanks for keeping me outta trouble. I really—"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "I'm so, so sorry! I didn't... mean to...",
+            "choice_data_list": [
+                "...Tarumae. I'm glad you're looking out for me.\nLet's take a photo of the flowers instead."
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Yeah... Yeah, that's fine. And sorry<n>again... A\nphoto's a great idea."
+        },
+        {
+            "name": "Monólogo",
+            "text": "She's got a weak, forced smile. A<n>little uneasy, I\ntake a quick photo and<n>we continue awkwardly\nalong the<n>trail."
+        },
+        {
+            "name": "Monólogo",
+            "text": "After a while, we reach a rest area. I<n>hardly noticed\nthe time, but the sun's<n>already starting to set. The\nview from<n>up here is stunning in the soft light.",
+            "choice_data_list": [
+                "The sunset's beautiful, isn't it?",
+                "The sunset's beautiful, isn't it?"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Ah, yes! I'm glad you're enjoying<n>the view.\nGetting to see everything<n>from up high is one of\nhiking's<n>charms, huh?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tarumae's got that strained look<n>again. I invited her\nout to unwind, not<n>wear her out more...",
+            "choice_data_list": [
+                "Sorry, you must be exhausted, spending your time\noff marching around the hills...",
+                "Sorry, you must be exhausted, spending your time\noff marching around the hills..."
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "...!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "No, not at all! I'm really glad I was<n>able to share my\nhobby with you."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "If anything, I'm the one who's sorry<n>for, you\nknow... raining on your<n>parade when you were just\ntrying to<n>have fun and enjoy nature."
+        },
+        {
+            "name": "Monólogo",
+            "text": "...\"Have fun and enjoy nature\"?<n>Don't tell me...",
+            "choice_data_list": [
+                "You're still thinking about that flower patch?"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Yeah... Even if it was dangerous, I<n>shouldn't have\nbeen so snippy about<n>it. I'm sorry."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "And making a fuss about<n>preservation over just\none flower...<n>that was really harsh of me."
+        },
+        {
+            "name": "Monólogo",
+            "text": "That's not true. I messed up, and she<n>taught me\n<i>why</i> I shouldn't be doing<n>what I did. That's not\n\"snippy,\" it's<n>just being considerate.",
+            "choice_data_list": [
+                "Not at all! I appreciate how much you know about\nhiking. I've been learning tons!"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Trainer... Ehehe, thank you."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "...You're always too kind—looking out<n>for my\nfeelings like this."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Compared to you, I'm...",
+            "choice_data_list": [
+                "...Tarumae?"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Nothing! You must be getting hungry,<n>right? Let's\nhead down and have<n>ourselves a nice dinner!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "She's got her bright idol voice and<n>smile... but I can\ntell she's putting up<n>a front."
+        }
+    ]
+}

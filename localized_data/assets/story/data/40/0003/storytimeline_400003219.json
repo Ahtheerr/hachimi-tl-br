@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "name": "Smart Falcon",
-            "text": "<i>Pant, pant...</i> Is everyone having fun?!"
+            "text": "<i>Ofegante, ofegante...</i> Todo mundo<n>está se\ndivertindo?!"
         },
         {
             "name": "Nearby Umamusume",
@@ -11,7 +11,7 @@
         },
         {
             "name": "Smart Falcon",
-            "text": "C'mon, let's make a little noise—you<n>don't have to\nyell. Ready?"
+            "text": "Vamos lá, façam um barulhinho! Não<n>precisam\ngritar. Preparados?"
         },
         {
             "name": "Silence Suzuka",
@@ -19,23 +19,23 @@
         },
         {
             "name": "Silence Suzuka",
-            "text": "Tachyon, I really don't think concerts<n>are for me..."
+            "text": "Tachyon, acho mesmo que concertos<n>não são para\nmim..."
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Why don't you save those words for<n>later? It's too\nsoon to draw<n>conclusions."
+            "text": "Que tal deixar essas palavras para<n>depois? Ainda é\ncedo demais para<n>tirar conclusões."
         },
         {
             "name": "Light Hello",
-            "text": "(...There are still a decent number of<n>people here,\nbut some are already<n>leaving.)"
+            "text": "(...Ainda tem bastante gente aqui, mas<n>alguns já\nestão indo embora.)"
         },
         {
             "name": "Light Hello",
-            "text": "(Letting the concert drag on won't<n>help get any\nmore people on board<n>with the Grand Concert. We\nshould<n>wrap it up and start explaining our—)"
+            "text": "(Deixar o concerto se arrastar não vai<n>convencer\nmais ninguém a participar<n>do Grande Concerto.\nDevíamos<n>encerrá-lo e começar a explicar<n>nosso—)"
         },
         {
             "name": "Smart Falcon",
-            "text": "I CAAAN'T HEAR YOUUU! C'mon,<n>everyone, louder!\nOn three!"
+            "text": "EU NÃO CONSIGO OUVIIIIR! Vamos lá,<n>pessoal, mais\nalto! No três!"
         },
         {
             "name": "Light Hello",
@@ -43,11 +43,11 @@
         },
         {
             "name": "Light Hello",
-            "text": "(Falcon's still at it, though...)"
+            "text": "(A Falcon continua firme, pelo visto...)"
         },
         {
             "name": "Smart Falcon",
-            "text": "Again!"
+            "text": "De novo!"
         },
         {
             "name": "Light Hello",
@@ -55,7 +55,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "This... THIS IS SO MUCH FUN!"
+            "text": "Isso... ISSO É DIVERTIDO DEMAIS!"
         },
         {
             "name": "Smart Falcon",
@@ -63,39 +63,39 @@
         },
         {
             "name": "Light Hello",
-            "text": "We want to hear more!"
+            "text": "Queremos ouvir mais!"
         },
         {
             "name": "Smart Falcon",
-            "text": "Roger that! Let's turn up the fun!"
+            "text": "Pode deixar! Vamos aumentar a<n>diversão!"
         },
         {
-            "name": "Onlooker A",
-            "text": "Hey, wanna check out the concert<n>over there for a\nbit?"
+            "name": "Espectador A",
+            "text": "Ei, que tal dar uma olhada naquele<n>concerto ali?"
         },
         {
-            "name": "Onlooker B",
-            "text": "...Sure, why not? Looks kinda fun."
+            "name": "Espectador B",
+            "text": "...Pode ser. Parece divertido."
         },
         {
-            "name": "Onlooker C",
+            "name": "Espectador C",
             "text": "Hmm-hm-hmm... ♪"
         },
         {
-            "name": "Onlooker D",
-            "text": "Humming along now, are we? You're<n>getting pretty\ninto it."
+            "name": "Espectador D",
+            "text": "Está cantarolando junto, é? Parece<n>que está\nentrando no clima."
         },
         {
-            "name": "Onlooker C",
-            "text": "S-so what? It's kinda catchy..."
-        },
-        {
-            "name": "Smart Falcon",
-            "text": "Yeah, that's it! Let's all sing together!"
+            "name": "Espectador C",
+            "text": "E-e daí? É meio contagiante..."
         },
         {
             "name": "Smart Falcon",
-            "text": "That's what this concert's for! We<n>want you all to\nsing with us!"
+            "text": "Isso mesmo! Vamos todos cantar<n>juntos!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "É para isso que serve este concerto!<n>Queremos que\ntodos vocês cantem<n>com a gente!"
         },
         {
             "name": "Mihono Bourbon",
@@ -103,7 +103,7 @@
         },
         {
             "name": "Agnes Tachyon",
-            "text": "Heh-heh... And now for the reaction."
+            "text": "Hehe... E agora, vamos ver a reação."
         },
         {
             "name": "Silence Suzuka",
@@ -111,7 +111,7 @@
         },
         {
             "name": "Monologue",
-            "text": "The spectators look to the stage<n>again, this time\nwith new eyes."
+            "text": "Os espectadores voltam a olhar para<n>o palco, dessa\nvez com outros olhos."
         }
     ]
 }

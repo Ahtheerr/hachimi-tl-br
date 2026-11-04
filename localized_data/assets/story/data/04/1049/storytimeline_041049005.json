@@ -1,0 +1,143 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "One day, Nakayama Festa's<n>homeroom teacher\nvisits my office<n>out of the blue."
+        },
+        {
+            "name": "Tracen Teacher",
+            "text": "I see... So she's not here either. I'm<n>sorry to have\nbothered you while<n>you're working."
+        },
+        {
+            "name": "Tracen Teacher",
+            "text": "<i>Sigh,</i> now what? If she doesn't get<n>that assignment\nin this week, I'll<n>have to give her a zero for it...",
+            "choice_data_list": [
+                "I-I'll help look for her!"
+            ]
+        },
+        {
+            "name": "Nakayama's Classmate A",
+            "text": "Where to find Nakayama? Uh... I<n>dunno, I never\nreally talk to her."
+        },
+        {
+            "name": "Nakayama's Classmate B",
+            "text": "She's kinda got a bad vibe, like you<n>shouldn't go\nnear her. Like, I heard<n>she literally got questioned\nby the<n>police the other day...",
+            "choice_data_list": [
+                "She <i>what?</i>"
+            ]
+        },
+        {
+            "name": "Nakayama's Classmate B",
+            "text": "Oh, um... One of my friends was out<n>on a jog, and\nshe saw Nakayama<n>and a policeman arguing by the\nriverbank."
+        },
+        {
+            "name": "Delinquent Umamusume",
+            "text": "Huh? How the hell should I know? I<n>don't care\nwhere she is, but I <i>swear,</i><n>if one more person\ncomes whining<n>about Nakayama this, Nakayama\nthat...",
+            "choice_data_list": [
+                "Wait, was someone else looking for her too?",
+                "Wait, was someone else looking for her too?"
+            ]
+        },
+        {
+            "name": "Delinquent Boy",
+            "text": "Yeah, there was some guy asking<n>around for her.\nBut that's nothing<n>new. I'm guessing she ripped\nyou off<n>too, huh?",
+            "choice_data_list": [
+                "She ripped someone off? What do you mean?",
+                "She ripped someone off? What do you mean?"
+            ]
+        },
+        {
+            "name": "Delinquent Umamusume",
+            "text": "Hm? What, so this isn't about some<n>bet? See, the\nthing about Nakayama<n>is..."
+        },
+        {
+            "name": "Delinquent Umamusume",
+            "text": "I hear she's a damn good cheat at<n>poker. She\nwhooped a whole pack of<n>idiots, and now they're\nafter her."
+        },
+        {
+            "name": "Delinquent Umamusume",
+            "text": "I dunno what they put on the table,<n>but they're\nlookin' for her like their<n>life depends on it. Yeesh.\nWho knows<n>what'll happen if they find her?",
+            "choice_data_list": [
+                "(No. That doesn't sound right. Nakayama wouldn't\ncheat...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Regardless, if there's rumors,<n>they've got to lead\nsomewhere.<n>Eventually. Hopefully... But I've been\nchasing leads without much luck."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I've been looking around for ages<n>now, but all I've\ngotten out of it is<n>more rumors badmouthing\nNakayama.<n>It's just, I find them hard to believe,\nknowing how—",
+            "choice_data_list": [
+                "Wait... Nakayama?!"
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hm? Oh, Trainer. You look like a<n>mess. What's\nwrong?",
+            "choice_data_list": [
+                "Well..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I explain the chain of events—hearing<n>about the\nassignment from her<n>teacher, asking her\nclassmates<n>where she might be..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Her argument with the police, the<n>rumors of her\ncheating in poker, and<n>all the other bad things I\nheard about<n>her on and off campus."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hahaha. I leave the scene for a little<n>while, and\nsuddenly everyone's<n>makin' up fun stories."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Goes without saying, but none of it's<n>true. They\nreally believed that I'd<n>cheat? What a bunch of\nidiots...<n>Where's the thrill in a rigged game?"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "I guess whoever's making up<n>rumors must really\nbe trying to cover<n>their ass. They lost, and now\nthey're<n>comin' up with excuses to call me the<n>bad\nguy."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Hearing that, it makes sense. With all<n>the risky\ncontests she takes on,<n>there's bound to be a few\nsore<n>losers out there. I can't let them<n>scare me off.\nI'm her trainer, so...",
+            "choice_data_list": [
+                "If things ever look rough, I'm here to protect you.",
+                "If things ever look rough, I'm here to protect you."
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Oh yeah? You're awful cheery about<n>it. There's\nevery chance that the<n>people after me might go\nafter you.",
+            "choice_data_list": [
+                "Then I'll grit my teeth. I'm in this with you, no\nmatter what.",
+                "Then I'll grit my teeth. I'm in this with you, no\nmatter what."
+            ]
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Hmm? No matter what? Heh. Guess<n>you can run\nyour mouth all you want."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Just don't go overboard. You're my<n><i>trainer,</i>\nremember?"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Far as I'm concerned, races are the<n>real contests.\nI'm not gonna take on<n>cheap thrills that could\njeopardize<n>them."
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "As long as you get that, I don't care<n>what anyone\nelse thinks. All right?"
+        },
+        {
+            "name": "Nakayama Festa",
+            "text": "Now, let's ease up a bit—both of us."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I believe in her, just like I have this<n>whole time.\nBut... this whole situation<n>has driven home that I still\ndon't<n>know her as well as I should."
+        }
+    ]
+}

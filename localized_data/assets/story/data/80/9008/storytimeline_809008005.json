@@ -1,0 +1,157 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Convidei Light Hello para um passeio<n>divertido,\npara que ela pudesse<n>descansar um pouco. Quando\nchego<n>ao nosso ponto de encontro..."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Certo, amanhã vamos trazer os<n>equipamentos de\náudio. Agradeço<n>pela ajuda."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grrrr...</i>"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ah... Esqueci de almoçar. O trabalho<n>acaba me\ndeixando exausta.",
+            "choice_data_list": [
+                "Que tal comermos alguma coisa primeiro?"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ah! Treinador! Desculpe por não ter<n>percebido que\nvocê estava aí!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "E-estou perfeitamente bem! Já me<n>acostumei a\npular uma refeição de<n>vez em quando..."
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Grrrrrr...</i>"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Eep!",
+            "choice_data_list": [
+                "Você não deveria se esforçar tanto."
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Urgh... Você tem razão. De que<n>adiantaria esse\npasseio se eu<n>desmaiasse de fome?"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Bem, tem um lugar aqui perto onde<n>podemos\ncomer. É um restaurante<n>que eu costumava\nfrequentar o<n>tempo todo."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Uau... Isso me traz tantas lembranças.<n>Não mudou\nnadinha desde os tempos<n>em que eu estudava."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ah! E eles ainda servem a<n>sobremesa da semana!\nQuem diria?",
+            "choice_data_list": [
+                "Essa era a sua favorita?"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Era! Minhas amigas e eu pedíamos<n>toda hora. ♪"
+        },
+        {
+            "name": "Light Hello",
+            "text": "Saboreávamos, mordida por mordida,<n>nosso\nfamoso \"reforço nutricional<n>pré-treino\"..."
+        },
+        {
+            "name": "Light Hello",
+            "text": "E, como era de se esperar,<n>continuávamos\ncomendo muito<n>depois da hora de treinar. Pode\napostar que meu treinador não ficava<n>nada feliz\ncom isso."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Mas, assim que descobríamos qual<n>seria a\nsobremesa da semana<n>seguinte, já marcávamos\nde voltar.<n>Hehe. ♪",
+            "choice_data_list": [
+                "Parece que essas sobremesas faziam muito\nsucesso."
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Pode apostar! Nunca nos<n>cansávamos delas."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Faziam tanto sucesso que a notícia<n>se espalhava\nboca a boca mais<n>rápido do que os panfletos da\nacademia..."
+        },
+        {
+            "name": "Light Hello",
+            "text": "<i>Ah!</i>",
+            "choice_data_list": [
+                "Aconteceu alguma coisa?"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "É isso! O boca a boca! Eu tinha<n>esquecido que essa\nera uma opção!"
+        },
+        {
+            "name": "Light Hello",
+            "text": "A maioria das estudantes dessa<n>idade fica\nsabendo das coisas por<n>meio dos amigos ou da\nfamília. Se<n>conseguíssemos incorporar isso à<n>nossa\nestratégia de divulgação,<n>então..."
+        },
+        {
+            "name": "Light Hello",
+            "text": "...Hehe. ♪ Fazer uma pausa tem suas<n>vantagens!\nPreciso aproveitar ao<n>máximo todo o tempo livre\nque tiver."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Onde está meu bloco de notas?!<n>Preciso anotar tudo\nisso antes que eu<n>esqueça...",
+            "choice_data_list": [
+                "Você deveria comer primeiro!"
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ah, é mesmo! Ahaha..."
+        },
+        {
+            "name": "Light Hello",
+            "text": "<i>Suspiro...</i> Fiz de novo, não foi? Estou<n>sempre\nplanejando cem passos à<n>frente..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Parece que Light Hello não consegue<n>resistir à\ntentação de colocar o<n>trabalho em primeiro lugar.\nNesse<n>caso...",
+            "choice_data_list": [
+                "Vamos sair juntos de novo quando você estiver\nlivre."
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Hã?! Eu adoraria, mas..."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Não consigo deixar de pensar que<n>estou fazendo\nvocê se preocupar<n>comigo...",
+            "choice_data_list": [
+                "Eu também tenho dificuldade para fazer pausas.",
+                "Eu também tenho dificuldade para fazer pausas."
+            ]
+        },
+        {
+            "name": "Light Hello",
+            "text": "Ah... Faz sentido. Você também é<n>bastante ocupado,\nTreinador."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Está bem, então. Desde que não<n>seja um\nincômodo muito grande para<n>você."
+        },
+        {
+            "name": "Light Hello",
+            "text": "Vamos reservar um tempinho de vez<n>em quando\npara recarregar as<n>energias!"
+        },
+        {
+            "name": "Monologue",
+            "text": "E assim, Light Hello e eu começamos<n>a sair juntos\npara relaxar e esquecer<n>um pouco do trabalho."
+        }
+    ]
+}

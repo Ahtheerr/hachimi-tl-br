@@ -1,0 +1,34 @@
+{
+    "text_block_list": [
+        {
+            "name": "Biwa Hayahide",
+            "text": "Did you get enough sleep last night?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Here, let me have a better look at you.",
+            "choice_data_list": [
+                "Oh..."
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Hmm. The bags under your eyes are<n>slightly fainter\nthan the other day.<n>Good. That makes me feel a\nlittle<n>better.",
+            "choice_data_list": [
+                "(I'm glad to hear that, but she's—)"
+            ]
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "I know that face. You think I'm<n>worrying too much\nagain, don't you?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Well, whose fault do you think it is<n>that I'm\nworrying so much in the first<n>place? Hmph."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "In any case, I'm off. It's time to<n>prove how\neffective the equation we<n>created is."
+        }
+    ]
+}

@@ -8,6 +8,8 @@ on:
       - "index_base.json"
       - "gen_index.py"
 
+  workflow_dispatch:
+
 permissions:
   contents: write
 
@@ -21,7 +23,7 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.13"
 
       - name: Install dependencies
         run: pip install pygit2 blake3

@@ -1,0 +1,36 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Enquanto caminho pelo corredor,<n>vejo Mejiro\nMcQueen vindo em<n>minha direção, com uma\naparência<n>abatida."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Urgh... Minha cabeça... Por quê...",
+            "choice_data_list": [
+                "Você está bem?",
+                "Você está bem?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "<i>Ah!</i> Treinador..."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Estou bem. Sim, não estou tendo<n>problema algum."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Como uma orgulhosa integrante da<n>distinta família\nMejiro, devo<n>suportar... uma dor de cabeça tão\ninsignificante quanto esta."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ohh... Ai..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mejiro McQueen está sofrendo de<n>uma dor de\ncabeça."
+        }
+    ]
+}

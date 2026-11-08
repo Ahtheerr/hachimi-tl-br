@@ -1,0 +1,50 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Mejiro McQueen não apareceu para<n>o treino hoje,\nentão decido sair à sua<n>procura."
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Meu megafone está pronto! Agora,<n>rumo ao estádio\nde beisebol!",
+            "choice_data_list": [
+                "Encontrei você!"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Eek! Treinador?!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Cof, cof... Treinador, que surpresa! Eu<n>estava\njustamente de saída.",
+            "choice_data_list": [
+                "Você se esqueceu do treino?",
+                "Você se esqueceu do treino?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "...Ahhh!"
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "N-n-não pode ser... Justo eu! Tenho<n>pensado tanto\nno recorde de<n>rebatidas consecutivas que...",
+            "choice_data_list": [
+                "Recorde de rebatidas consecutivas?"
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Ah... N-não é nada! Sinto muitíssimo...",
+            "choice_data_list": [
+                "Seja mais cuidadosa na próxima vez.",
+                "Seja mais cuidadosa na próxima vez."
+            ]
+        },
+        {
+            "name": "Mejiro McQueen",
+            "text": "Sim... Vou praticar o autocontrole e me<n>recuperar\ndesse deslize!"
+        }
+    ]
+}

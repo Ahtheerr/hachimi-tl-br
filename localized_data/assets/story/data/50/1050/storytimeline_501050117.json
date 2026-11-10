@@ -2,13 +2,13 @@
     "text_block_list": [
         {
             "name": "",
-            "text": "One day, as the spring Tenno Sho<n>draws near...",
+            "text": "Um dia, com a aproximação do Tenno<n>Sho de\nprimavera...",
             "color_text_info_list": [
                 "Tenno Sho"
             ]
         },
         {
-            "name": "",
+            "name": "Narita Taishin",
             "text": "Hm?"
         },
         {
@@ -17,251 +17,251 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "What's up? You look worn out."
-        },
-        {
-            "name": "",
-            "text": "Oh, well... Hehe. You have a keen eye."
+            "text": "O que foi? Você parece cansada."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It's nothing major. I just didn't get<n>enough sleep\nlast night. That's why<n>I'm here at your beloved\nafternoon<n>nap spot."
+            "text": "Ah, bem... Hehe. Você tem um olhar<n>atento."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Não é nada demais. Só não dormi o<n>suficiente\nontem à noite. Por isso, vim<n>ao seu querido cantinho\nda soneca da<n>tarde."
         },
         {
             "name": "Narita Taishin",
-            "text": "Uh-huh..."
+            "text": "Aham..."
         },
         {
             "name": "Narita Taishin",
-            "text": "Hey, you got any new data on Narita<n>Brian?",
+            "text": "Ei, conseguiu alguma informação<n>nova sobre a\nNarita Brian?",
             "choice_data_list": [
                 "Hm? Narita Brian?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Yeah."
+            "text": "Sim."
         },
         {
             "name": "Narita Taishin",
-            "text": "If there's anyone who can make that<n>idiot panic,\nit's probably Brian.",
+            "text": "Se existe alguém capaz de deixar<n>aquela idiota em\npânico,<n>provavelmente é a Brian.",
             "choice_data_list": [
-                "Ah, mean Hayahide?",
-                "Ah, mean Hayahide?"
-            ]
-        },
-        {
-            "name": "",
-            "text": "Maybe."
-        },
-        {
-            "name": "",
-            "text": "Anyway, back to Brian. Has there<n>been any big\nnews about her lately?",
-            "choice_data_list": [
-                "Let me see..."
-            ]
-        },
-        {
-            "name": "",
-            "text": "I do some research and come across<n>news about\nthe recent Satsuki Sho."
-        },
-        {
-            "name": "",
-            "text": "First place at the Satsuki Sho, huh?<n>And she broke\nthe track record while<n>she was at it."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "They don't call her the Beast for<n>nothing."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Hayahide must have heard about<n>this...",
-            "choice_data_list": [
-                "And started feeling the pressure?",
-                "And started feeling the pressure?"
+                "Ah, quer dizer a Hayahide?",
+                "Ah, quer dizer a Hayahide?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Yeah."
+            "text": "Talvez."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Enfim, voltando à Brian. Aconteceu<n>alguma coisa\nimportante com ela<n>ultimamente?",
+            "choice_data_list": [
+                "Vejamos..."
+            ]
         },
         {
             "name": "",
+            "text": "Faço uma pesquisa e encontro<n>notícias sobre a\nrecente Satsuki Sho."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Primeiro lugar na Satsuki Sho, hein? E<n>ainda\nquebrou o recorde da pista."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Não é à toa que a chamam de A Fera."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "A Hayahide deve ter ficado sabendo<n>disso...",
+            "choice_data_list": [
+                "E começou a sentir a pressão?",
+                "E começou a sentir a pressão?"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Sim."
+        },
+        {
+            "name": "Narita Taishin",
             "text": "..."
         },
         {
-            "name": "",
-            "text": "Say..."
+            "name": "Narita Taishin",
+            "text": "Diz..."
         },
         {
-            "name": "",
-            "text": "How does someone, uh... bring<n>something up,\nnormally?",
+            "name": "Narita Taishin",
+            "text": "Como alguém, hum... costuma puxar<n>esse tipo de\nassunto?",
             "choice_data_list": [
-                "(Taishin's looking out for her friend!)"
+                "(A Taishin está preocupada com a amiga!)"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Hey. Wipe that grin off your face.<n>You're reading\ntoo much into this."
+            "text": "Ei. Apaga esse sorriso do rosto. Você<n>tá pensando\ndemais nisso."
         },
         {
             "name": "Narita Taishin",
-            "text": "Just give me an answer already!",
+            "text": "Me dá uma resposta logo!",
             "choice_data_list": [
-                "You should go out to eat with her."
+                "Você deveria sair para comer com ela."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Huh?"
+            "text": "Hã?"
         },
         {
-            "name": "Ramen Shop Employee",
-            "text": "Welcome! Grab a seat wherever you<n>want!"
+            "name": "Funcionário do Restaurante",
+            "text": "Bem-vindos! Podem se sentar onde<n>quiserem!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Uh, thanks."
+            "text": "Ah, obrigada."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Taishin... Would it be safe to assume<n>you aren't a\nregular here?"
+            "text": "Taishin... Posso presumir que você<n>não costuma vir\naqui?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Huh? Obviously. I almost never go out<n>to eat."
+            "text": "Hã? É claro que não. Quase nunca<n>saio para comer."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I had a feeling that was the case. So...<n>how do I put\nthis..."
+            "text": "Imaginei que fosse esse o caso.<n>Então... como\nposso dizer..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Why did you invite me here?"
+            "text": "Por que você me convidou para cá?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Well..."
+            "text": "Bem..."
         },
         {
-            "name": "Ramen Shop Employee",
-            "text": "Hey, there! What'll ya be havin'?"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "What? Oh, uh..."
+            "name": "Funcionário do Restaurante",
+            "text": "Olá! O que vão querer?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Two vegetable ramen, extra<n>carrots—oh, and easy\non the noodles<n>for one of them..."
+            "text": "O quê? Ah, hum..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Dois lámens de legumes, com<n>cenoura extra — ah, e\ncoloque menos<n>macarrão em um deles..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Come to think of it, I saw a recording<n>of the Nikkei\nSho. You were very<n>impressive."
+            "text": "Pensando bem, assisti a uma<n>gravação da Nikkei\nSho. Você foi<n>impressionante."
         },
         {
             "name": "Narita Taishin",
-            "text": "Huh? Oh, um... thanks."
+            "text": "Hã? Ah, hum... Obrigada."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Your chase in the final stretch gave<n>me chills. I had\nto adjust my equation<n>countless times to account\nfor your<n>final sprint."
+            "text": "Sua perseguição na reta final me deu<n>arrepios. Tive\nque ajustar minha<n>equação inúmeras vezes para\nlevar<n>em conta sua arrancada final."
         },
         {
             "name": "Narita Taishin",
-            "text": "...So, like, you think I'm strong?"
+            "text": "...Então, tipo, você acha que sou<n>forte?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hm? Well... I suppose that's what it<n>boils down to."
+            "text": "Hm? Bem... Acho que é isso, no fim<n>das contas."
         },
         {
             "name": "Narita Taishin",
-            "text": "Oh."
+            "text": "Ah."
         },
         {
             "name": "Narita Taishin",
-            "text": "I've always thought of you as a real<n>pain in the\nbutt, you know."
+            "text": "Sempre achei você uma verdadeira<n>pedra no meu\nsapato, sabia?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "What?"
+            "text": "O quê?"
         },
         {
             "name": "Narita Taishin",
-            "text": "You always have been... and still are."
+            "text": "Você sempre foi assim... e continua<n>sendo."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Ah, I see where this is going now."
+            "text": "Ah, agora entendi onde você quer<n>chegar."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Could it be you're trying to offer me a<n>word of\nencouragement?"
+            "text": "Será que está tentando me oferecer<n>algumas\npalavras de incentivo?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Wha—as if!"
+            "text": "O-o quê?! Até parece!"
         },
         {
             "name": "Narita Taishin",
-            "text": "It's just... It doesn't make sense for<n>a puffed up\nweirdo like you to get all<n>deflated and lose\nconfidence... or<n>whatever."
+            "text": "É que... Não faz sentido uma<n>esquisitona\nconvencida como você<n>ficar tão desanimada e\nperder a<n>confiança... ou algo assim."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Interesting."
+            "text": "Interessante."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I suppose you have a point."
+            "text": "Acho que você tem razão."
         },
         {
             "name": "Narita Taishin",
-            "text": "Urp... Why'd they give me so much? I<n>told them to\ngo easy on the noodles."
+            "text": "Urgh... Por que me serviram tanto? Eu<n>pedi para\ncolocarem menos<n>macarrão."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Are you okay?"
+            "text": "Você está bem?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Definitely not... Ugh, I'm never eating<n>there again."
+            "text": "Com certeza não... Ugh, nunca mais<n>vou comer lá."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Really? That's a shame."
+            "text": "Sério? Que pena."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I was hoping we could go again<n>sometime."
+            "text": "Eu estava esperando que<n>pudéssemos voltar lá\nalgum dia."
         },
         {
             "name": "Narita Taishin",
-            "text": "...Yeah, whatever."
+            "text": "...É, tanto faz."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Tell me, Taishin."
+            "text": "Diga-me, Taishin."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Do you believe in my annoying<n>ways? Or, I\nsuppose, what you refer<n>to as my \"being a pain in\nthe butt.\""
+            "text": "Você acredita nesse meu jeito<n>irritante? Ou, melhor\ndizendo, no que<n>você chama de \"ser uma pedra no\nseu sapato\"?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Do I believe in it?"
+            "text": "Acreditar nisso?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Yes. Do you have faith in me?"
+            "text": "Sim. Você confia em mim?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Well..."
+            "text": "Bem..."
         },
         {
             "name": "Narita Taishin",
-            "text": "Yeah, I have faith. Because you really<n>are a pain in\nmy butt."
+            "text": "Sim, confio. Porque você realmente é<n>uma pedra no\nmeu sapato."
         },
         {
             "name": "Biwa Hayahide",
@@ -269,15 +269,15 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I see. Thank you."
+            "text": "Entendo. Obrigada."
         },
         {
             "name": "Narita Taishin",
-            "text": "(\"Faith,\" huh?)"
+            "text": "(\"Confiança\", hein?)"
         },
         {
             "name": "",
-            "text": "In the pleasant spring breeze that<n>night, a slight grin\nspreads across<n>Narita Taishin's face."
+            "text": "Naquela noite, sob a agradável brisa<n>primaveril, um\nleve sorriso surge no<n>rosto de Narita Taishin."
         }
     ]
 }

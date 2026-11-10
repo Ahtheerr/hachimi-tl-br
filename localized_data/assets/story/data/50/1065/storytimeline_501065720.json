@@ -1,0 +1,566 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Certo dia, levo a <chrname> até a enfermaria<n>para um\ncheck-up."
+        },
+        {
+            "name": "???",
+            "text": "Opa! Uma clien— digo, uma aluna! Olá!"
+        },
+        {
+            "name": "???",
+            "text": "Machucada? Doente? Estressada?<n>Seja o que for,\neu curo tudo!",
+            "choice_data_list": [
+                "Quem é você?!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ora, considerando que vocês estão<n>na enfermaria\nda academia, isso faz<n>de mim a sua fiel enfermeira\nescolar!<n>Isso mesmo, apenas uma funcionária\ncomum da escola!",
+            "choice_data_list": [
+                "...Não é nada disso, né?"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "Ahaha! Pelo visto não dá para<n>enganar você. Acho\nque devo<n>começar dizendo o meu nome."
+        },
+        {
+            "name": "???",
+            "text": "Cof, cof! Permitam-me que eu me<n>apresente!"
+        },
+        {
+            "name": "???",
+            "text": "Eu sou a (provável) salvadora de<n>todas as\nUmamusume, a<n>(autoproclamada) acupunturista\nlendária do toque mágico..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "A única e inigualável Sasami<n>Anshinzawa! Viu só?\nZero<n>preocupação! ☆",
+            "choice_data_list": [
+                "..."
+            ],
+            "color_text_info_list": [
+                "Sasami Anshinzawa"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Haha! Eu não aguento! Que foi,<n>Treinê? A vibe da\nSasami te deixou<n>em choque?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Puxa! Quanta preocupação nessa<n>cara! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não importa! Não importa! Já fizemos<n>as\napresentações, então pode se<n>deitar aí e deixar que\neu coloco estas<n>agulhas para trabalhar!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Agulhas?! Já tô até vendo que vou<n>chorar feio...\nmas pior que bateu uma<n>curiosidade!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Hahaha! Não precisa ter medo! Tudo<n>o que vou\nfazer é espetar estas<n>agulhas extraordinárias com\nprecisão<n>cirúrgica nos seus pontos de chakra."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E então, voilà, pimba! Algo<n>indescritível vai\nacontecer!",
+            "choice_data_list": [
+                "(Isso é indescritivelmente suspeito...)"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E posso garantir que não há<n>absolutamente nada\nde suspeito<n>nisso! Sempre funcionou com a mais\nabsoluta perfeição!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "...Com o meu mestre.",
+            "choice_data_list": [
+                "Com o seu mestre?! E com você?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não esquenta! Esta é a minha<n>primeira vez, então,\ntecnicamente, eu<n>nunca errei com nenhum paciente\ntambém!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E não é como se eu não tivesse<n>experiência!\nPassei dez anos sob a<n>tutela de um mestre\nlendário,<n>servindo cafez— digo, treinando!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Viu só? Zero preocupação! ☆",
+            "choice_data_list": [
+                "(Precisamos dar o fora daqui agora mesmo!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sem chance de aceitarmos uma coisa<n>dessas. Pego\na <chrname> e vou em direção à<n>porta, quando..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E-esperem! Aonde vocês vão?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Você é a Daitaku Helios, não é?! A<n>Umamusume\nque sabe como<n>ninguém comandar a festa! O seu\namor pela diversão ilumina a todos<n>com um brilho\ncaloroso!",
+            "choice_data_list": [
+                "Você conhece ela?"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Se eu conheço? É claro que conheço!<n>Sou super fã!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "É exatamente por isso que estou<n>aqui! Para dar o\nmeu apoio! Deixe-me<n>ajudar você!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Só me dê uma chance! Por favooor!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Pera aí, isso não tá com mó energia<n>de evento\ncanônico?! Que que cê<n>acha, Treinê? Bora arriscar?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Por favorzinho! Por favorzinho com<n>uma cenoura\nem cima! Eu até deixo<n>vocês escolherem qual\nchakra vou<n>ativar!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Tenho <i>certeza</i> de que não vou errar!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom... quase certeza.",
+            "choice_data_list": [
+                "<i>Quase</i> certeza?!"
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Quer dizer, tá mais pra certeza do que<n>pra dúvida!\nIsso já é <i>ótimo</i>, né?<n>Enfim, não se apeguem aos\ndetalhes!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Vamos ao que interessa! Qual chakra<n>devo ativar?\nQuerem turbinar as<n>habilidades? A saúde? Ou quem\nsabe<n>o <i>charme?</i>"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto cheiro de perigo no ar, mas<n>imagino que\npossa — e bota <i>possa</i><n>nisso — haver uma chance de\nconseguirmos algo especial com<n>esse tratamento."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O que devemos fazer?",
+            "choice_data_list": [
+                "Ativar o chakra da força.",
+                "Ativar o chakra da vitória.",
+                "Ativar o chakra da saúde.",
+                "Ativar o chakra do charme.",
+                "Isso é suspeito demais. Melhor cair fora enquanto\ndá tempo."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendi, entendi. Então vocês querem<n>que eu ative\no chakra da força?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Estão<n>prontos? Depois\ndisso não tem mais<n>volta!",
+            "choice_data_list": [
+                "Pode mandar ver.",
+                "Espera um pouco."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Muito bem, deixem comigo! Hora de<n>localizar esse\nchakra! Uni, duni, tê,<n>cadê você!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, só relaaaxa... Viu só? Zero<n>preocupação! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eeee espetou!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Gyahhh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pontada Perfeita!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Weeeiii! Boraaaaa!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Tô numa vibe tão forte que sou capaz<n>de ir parar no\nespaço! ☆★"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arf...</i> Mentira... Funcionou mesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não creiooo! Não consigo acreditar!<n>Eu sou uma\ngênia total!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A <chrname> está transbordando tanto poder<n>que parece até\noutra pessoa!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e valeu a pena! Demos<n>um grande\npasso rumo ao nosso<n>objetivo!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Buááá!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Uuurgh, tá tudo girando... Será que eu<n>exagerei na\ndose da festa?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O estado da <chrname> piora rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom... Acho que é isso, né..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nossa, mas olha só a hora! Preciso ir<n>andando!\nTchauzinho! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia saber que era loucura tentar<n>a sorte\ndesse jeito. Não sou eu quem<n>está sofrendo, mas\no arrependimento<n>pesa na consciência."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendi, entendi. Então vocês querem<n>que eu ative\no chakra da vitória?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Estão<n>prontos? Depois\ndisso não tem mais<n>volta!",
+            "choice_data_list": [
+                "Pode mandar ver.",
+                "Espera um pouco."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Muito bem, deixem comigo! Hora de<n>localizar esse\nchakra! Uni, duni, tê,<n>cadê você!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, só relaaaxa... Viu só? Zero<n>preocupação! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eeee espetou!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Gyahhh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pontada Perfeita!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Weeeiii! Boraaaaa!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Tô numa vibe tão forte que sou capaz<n>de ir parar no\nespaço! ☆★"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arf...</i> Mentira... Funcionou mesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não creiooo! Não consigo acreditar!<n>Eu sou uma\ngênia total!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto uma evolução imensa nas<n>técnicas da <chrname>!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e valeu a pena! Demos<n>um grande\npasso rumo ao nosso<n>objetivo!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Buááá!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Uuurgh, tá tudo girando... Será que eu<n>exagerei na\ndose da festa?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O estado da <chrname> piora rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom... Acho que é isso, né..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nossa, mas olha só a hora! Preciso ir<n>andando!\nTchauzinho! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia saber que era loucura tentar<n>a sorte\ndesse jeito. Não sou eu quem<n>está sofrendo, mas\no arrependimento<n>pesa na consciência."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendi, entendi. Então vocês querem<n>que eu ative\no chakra da saúde?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Estão<n>prontos? Depois\ndisso não tem mais<n>volta!",
+            "choice_data_list": [
+                "Pode mandar ver.",
+                "Espera um pouco."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Muito bem, deixem comigo! Hora de<n>localizar esse\nchakra! Uni, duni, tê,<n>cadê você!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, só relaaaxa... Viu só? Zero<n>preocupação! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eeee espetou!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Gyahhh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pontada Perfeita!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Weeeiii! Boraaaaa!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Tô numa vibe tão forte que sou capaz<n>de ir parar no\nespaço! ☆★"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arf...</i> Mentira... Funcionou mesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não creiooo! Não consigo acreditar!<n>Eu sou uma\ngênia total!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O corpo inteiro da <chrname> está irradiando um<n>brilho\nsaudável! Ela é o próprio<n>retrato da saúde!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e valeu a pena! Demos<n>um grande\npasso rumo ao nosso<n>objetivo!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Buááá!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Uuurgh, tá tudo girando... Será que eu<n>exagerei na\ndose da festa?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O estado da <chrname> piora rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom... Acho que é isso, né..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nossa, mas olha só a hora! Preciso ir<n>andando!\nTchauzinho! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia saber que era loucura tentar<n>a sorte\ndesse jeito. Não sou eu quem<n>está sofrendo, mas\no arrependimento<n>pesa na consciência."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Entendi, entendi. Então vocês querem<n>que eu ative\no chakra do charme?"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Então vamos começar! Estão<n>prontos? Depois\ndisso não tem mais<n>volta!",
+            "choice_data_list": [
+                "Pode mandar ver.",
+                "Espera um pouco."
+            ]
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Muito bem, deixem comigo! Hora de<n>localizar esse\nchakra! Uni, duni, tê,<n>cadê você!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Agora, só relaaaxa... Viu só? Zero<n>preocupação! ☆"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Eeee espetou!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Gyahhh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Pontada Perfeita!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Weeeiii! Boraaaaa!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Tô numa vibe tão forte que sou capaz<n>de ir parar no\nespaço! ☆★"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "<i>Arf...</i> Mentira... Funcionou mesmo?!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Não creiooo! Não consigo acreditar!<n>Eu sou uma\ngênia total!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A <chrname> está transbordando charme! Ela<n>com certeza vai\natrair todos os<n>olhares por onde passar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Arriscamos e valeu a pena! Demos<n>um grande\npasso rumo ao nosso<n>objetivo!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Buááá!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Uuurgh, tá tudo girando... Será que eu<n>exagerei na\ndose da festa?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O estado da <chrname> piora rapidamente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom... Acho que é isso, né..."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Nossa, mas olha só a hora! Preciso ir<n>andando!\nTchauzinho! ☆"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu devia saber que era loucura tentar<n>a sorte\ndesse jeito. Não sou eu quem<n>está sofrendo, mas\no arrependimento<n>pesa na consciência."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Ah, qual é! Não sejam assim!",
+            "choice_data_list": [
+                "Recusar.",
+                "Reconsiderar."
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores <i>serão</i>\nprocessados!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! Fui descoberta!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, fui que já é tarde! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Pare aí mesmo!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Ahahahaha! Isso <i>sim</i> é que é uma<n>fuga na frente!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Mas eu não vou ficar pra trás!<n>Treinêzera! Bora\nfocar tudo!",
+            "choice_data_list": [
+                "De acordo.",
+                "De acordo."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Resta a dúvida de quem é de verdade<n>essa tal de\nAnshinzawa, mas não<n>adianta ficar remoendo isso.\nMelhor<n>esquecer o que houve hoje e seguir<n>em\nfrente."
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Mudaram de ideia, é? Sem<n>problemas, acontece!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Podem falar qual chakra vocês<n>querem que eu\native, então!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "E então?! Não façam suspense!<n>Espera um\nsegundo... Há quanto<n>tempo estou aqui mesmo?"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Você aí! Espero que saiba que<n>invasores <i>serão</i>\nprocessados!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Gah! Fui descoberta!"
+        },
+        {
+            "name": "Sasami Anshinzawa",
+            "text": "Bom, fui que já é tarde! ☆"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ei! Pare aí mesmo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "A situação muda completamente de<n>rumo antes\nmesmo que eu possa<n>tomar uma decisão."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas o que foi isso, afinal? A<n><chrname> e eu nos\nentreolhamos,<n>completamente perplexos."
+        }
+    ]
+}

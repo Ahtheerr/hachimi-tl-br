@@ -1,108 +1,108 @@
 {
     "text_block_list": [
         {
-            "name": "Caster",
-            "text": "And Biwa Hayahide wins with a<n>blowout victory!\nWhat an incredible<n>time!"
+            "name": "Locutor",
+            "text": "E Biwa Hayahide vence de lavada!<n>Que tempo\nespetacular!"
         },
         {
-            "name": "Caster",
-            "text": "Both of these sisters are absolutely<n>amazing! The\nstage is now set for a<n>sibling showdown!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Wooooo!"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "<i>Phew...</i> I'm back. We've done it.<n>We've seized\nvictory.",
-            "choice_data_list": [
-                "I'm so proud of you!"
-            ]
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Thanks. That's another one on the<n>books, huh?"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "I... I really did it."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "I took first place among the very<n>select few that are\ninvited to<n>participate in the Takarazuka Kinen..."
+            "name": "Locutor",
+            "text": "Essas duas irmãs são simplesmente<n>fenomenais!\nO palco agora está<n>montado para o grande duelo\nentre<n>irmãs!"
         },
         {
             "name": "Monólogo",
-            "text": "She smiles proudly.",
+            "text": "Uhuuuu!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "<i>Ufa...</i> Voltei. Nós conseguimos.<n>Conquistamos a\nvitória.",
             "choice_data_list": [
-                "You've worked so hard for this.",
-                "You've worked so hard for this."
+                "Tenho tanto orgulho de você!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "We both did! Hehe!"
+            "text": "Obrigada. Mais uma para a conta, não<n>é?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "But we have some work to do. I still<n>need to beat\nBrian in a race for the<n>ages."
+            "text": "Eu... Eu consegui mesmo."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "And there's one question I must<n>answer before we\ncan make our<n>battle a reality.",
+            "text": "Conquistei o primeiro lugar entre a<n>elite seleta que\nfoi escolhida para<n>disputar o Takarazuka Kinen..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela abre um sorriso cheio de orgulho.",
             "choice_data_list": [
-                "Is it which race you want to compete against her\nin?"
+                "Você trabalhou tão duro por isso.",
+                "Você trabalhou tão duro por isso."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Exactly."
+            "text": "Nós dois trabalhamos! Hehe!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Fortunately, I've managed to gather<n>some data\npertaining to that issue.<n>Take a look at these articles"
+            "text": "Mas ainda temos trabalho pela frente.<n>Preciso\nvencer a Brian em uma<n>corrida histórica."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Narita Brian Aims for the Kikuka Sho...<n>That's no\nsurprise. I'm sure she'll<n>become a Triple Crown\nChampion."
+            "text": "E há uma questão que preciso definir<n>antes de\ntornarmos o nosso duelo<n>realidade.",
+            "choice_data_list": [
+                "Qual corrida será o palco do confronto?"
+            ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Then there's these. \"Potential<n>Year-End Sisterly\nShowdown?\" and<n>\"Is the Arima Kinen in Narita\nBrian's<n>Future?\"...",
+            "text": "Exatamente."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Felizmente, consegui levantar alguns<n>dados sobre\nisso. Dê uma olhada<n>nestas matérias."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Narita Brian Mira o Kikuka Sho...<n>Nenhuma surpresa\naté aqui. Tenho<n>certeza de que ela vai se consagrar\nCampeã da Tríplice Coroa."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "E depois temos estas: \"Possível<n>Duelo de Irmãs\nno Fim do Ano?\" e \"O<n>Arima Kinen Está nos Planos\nde<n>Narita Brian?\"...",
             "color_text_info_list": [
                 "Arima Kinen"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "As these articles suggest, I believe<n>she'll go to the\nArima Kinen instead<n>of the Japan Cup.",
+            "text": "Como essas reportagens sugerem,<n>acredito que\nela vai optar pelo Arima<n>Kinen em vez da Japan\nCup.",
             "color_text_info_list": [
                 "Japan Cup"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "And I know she'll show up to the<n>race in perfect\ncondition.",
+            "text": "E sei que ela vai chegar para a<n>corrida em perfeitas\ncondições.",
             "choice_data_list": [
-                "So the showdown will be at the Arima Kinen, huh?",
-                "So the showdown will be at the Arima Kinen, huh?"
+                "Então o grande confronto vai ser no Arima Kinen,\nhein?",
+                "Então o grande confronto vai ser no Arima Kinen,\nhein?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It looks that way. While she's honing<n>her skills in\nthe Kikuka Sho, I want to<n>make my mark in a G1\nrace this fall."
+            "text": "Tudo indica que sim. Enquanto ela<n>estiver afiando\nsuas garras no Kikuka<n>Sho, quero deixar a minha\nmarca em<n>uma corrida G1 neste outono."
         },
         {
             "name": "Monólogo",
-            "text": "We need to schedule everything<n>around the Arima\nKinen. We'll have to<n>prepare for a battle of sheer\nspeed<n>against Narita Brian.",
+            "text": "Precisamos planejar todo o nosso<n>cronograma em\nfunção do Arima<n>Kinen. Teremos que nos preparar\npara uma batalha de pura velocidade<n>contra a Narita\nBrian.",
             "choice_data_list": [
-                "Let's tackle the autumn Tenno Sho, then.",
-                "Let's tackle the autumn Tenno Sho, then."
+                "Então vamos encarar o Tenno Sho de outono.",
+                "Então vamos encarar o Tenno Sho de outono."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "What a coincidence. I was just about<n>to suggest\nthe same."
+            "text": "Que coincidência. Eu estava prestes a<n>sugerir a\nmesma coisa."
         },
         {
             "name": "Monólogo",
@@ -110,9 +110,9 @@
         },
         {
             "name": "Monólogo",
-            "text": "On the way home from the Hanshin<n>Racecourse, we\nset our sights on the<n>autumn Tenno Sho...",
+            "text": "No caminho de volta do Hipódromo de<n>Hanshin,\ndefinimos o Tenno Sho de<n>outono como nosso\npróximo alvo...",
             "color_text_info_list": [
-                "autumn Tenno Sho"
+                "Tenno Sho de outono"
             ]
         },
         {
@@ -121,27 +121,27 @@
         },
         {
             "name": "Monólogo",
-            "text": "I hear Biwa Hayahide breathing softly<n>as she\nsleeps in the seat next to me."
+            "text": "Ouço a respiração suave da Biwa<n>Hayahide\nenquanto ela dorme no<n>banco ao meu lado."
         },
         {
             "name": "Monólogo",
-            "text": "She's been falling fast asleep after<n>almost every\nrace lately."
+            "text": "Ultimamente, ela tem apagado de<n>sono depois de\nquase todas as<n>corridas."
         },
         {
             "name": "Monólogo",
-            "text": "It's no surprise. Putting everything<n>she has into\neach race must be<n>exhausting."
+            "text": "Não é para menos. Dar<n>absolutamente tudo de si\nem cada<n>prova deve ser exaustivo."
         },
         {
             "name": "Monólogo",
-            "text": "We'll need to come up with a plan to<n>help her\nrecover from the fatigue and<n>keep her at peak\nperformance.",
+            "text": "Precisaremos bolar um plano para<n>ajudá-la a se\nrecuperar do desgaste<n>e mantê-la no auge da\nforma.",
             "choice_data_list": [
-                "But for the time being...",
-                "But for the time being..."
+                "Mas, por enquanto...",
+                "Mas, por enquanto..."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I come up with as many ideas as I<n>can for her on\nthe bus ride home."
+            "text": "Aproveito a viagem de ônibus de<n>volta para pensar\nno maior número<n>possível de ideias para ajudá-la."
         }
     ]
 }

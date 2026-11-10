@@ -2,219 +2,219 @@
     "text_block_list": [
         {
             "name": "",
-            "text": "One day after training, as I'm walking<n>Biwa\nHayahide to her dorm just<n>before curfew..."
+            "text": "Certo dia, após o treino, enquanto<n>acompanho a\nBiwa Hayahide até o<n>dormitório pouco antes do\ntoque de<n>recolher..."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Welcome back, Hayahide! It's rare to<n>see you out\nand about at this late<n>hour."
+            "text": "Bem-vinda de volta, Hayahide! É raro<n>ver você na\nrua a esta hora da noite."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Yes, I was training heavily today,<n>and—ah, are you\nspeaking in your<n>capacity as dorm leader? I'm\nsorry to<n>come back so late."
+            "text": "Sim, o treino hoje foi bem intenso e...<n>Ah, você está\nfalando como líder do<n>dormitório? Peço desculpas\npor voltar<n>tão tarde."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Oh, not at all! I adore the chance to<n>welcome back\nmy ponies after a hard<n>day's work, no matter the\ntime."
+            "text": "Ora, imagina! Eu adoro a chance de<n>receber meus\npôneis de volta após<n>um dia duro de trabalho, não\nimporta<n>a hora."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "By the by, did you happen to see<n>Sweep and\nMarvelous on your way<n>here?",
+            "text": "Aliás, por acaso vocês viram a<n>Sweep e a\nMarvelous pelo caminho?",
             "choice_data_list": [
-                "Are they not back yet?",
-                "Are they not back yet?"
+                "Elas ainda não voltaram?",
+                "Elas ainda não voltaram?"
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "They're not answering their phones.<n>And as they\nare among our younger<n>residents, I can't help but\nfeel a bit...<n>trepidatious."
+            "text": "Elas não atendem o celular. E, como<n>estão entre as\nnossas moradoras<n>mais novas, não consigo evitar\nficar<n>um tanto... apreensiva."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "With good reason—we should search<n>for them\nimmediately. I'll help, of<n>course!",
+            "text": "E com razão. Devemos procurá-las<n>imediatamente.\nEu vou ajudar, é<n>claro!",
             "choice_data_list": [
-                "Me too!",
-                "Me too!"
+                "Eu também!",
+                "Eu também!"
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "My eternal gratitude to you both!"
+            "text": "Minha eterna gratidão a vocês!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Might I suggest we split our efforts?<n>You two work\ntogether in search of<n>one, and I shall look for the\nother."
+            "text": "Posso sugerir que dividamos nossos<n>esforços?\nVocês fazem dupla para<n>procurar uma, e eu irei\natrás da outra."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Right. Do you have any information on<n>where they\nmight be?"
+            "text": "Certo. Você tem alguma informação<n>de onde elas\npossam estar?"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Only that Marvelous went off on a<n>so-called\n\"marvelous search,\" and<n>Sweep set out to look for\nmagic<n>ingredients.",
+            "text": "Apenas que a Marvelous saiu em<n>uma tal de\n\"busca maravilhosa\", e a<n>Sweep foi atrás de\ningredientes<n>mágicos.",
             "choice_data_list": [
-                "Sweep sounds easier to pin down.",
-                "Marvelous could be anywhere, so let's try to find\nher."
+                "Parece mais fácil achar a Sweep.",
+                "A Marvelous pode estar em qualquer lugar, então\nvamos atrás dela."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Yes, there are a limited number of<n>items that might\nbe considered magic<n>ingredients."
+            "text": "Sim, há um número limitado de itens<n>que podem ser\nconsiderados<n>ingredientes mágicos."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Let's take advantage of that to find<n>Sweep as soon\nas we can and bring<n>her back."
+            "text": "Vamos tirar proveito disso para<n>encontrar a Sweep\no quanto antes e<n>trazê-la de volta."
         },
         {
             "name": "",
-            "text": "In case they come back on their own,<n>we leave a\nnote on the door for them<n>to call the dorm leader,\nand then we<n>depart on our search."
+            "text": "Caso elas voltem sozinhas, deixamos<n>um bilhete\nna porta pedindo para<n>ligarem para a líder do\ndormitório e<n>partimos para as buscas."
         },
         {
             "name": "Sweep Tosho",
-            "text": "Nope, that won't work. Ooh, and this<n>one's the\nwrong color!"
+            "text": "Não, esse não serve. Aff, e este aqui<n>tá da cor\nerrada!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Sweep! There you are!"
+            "text": "Sweep! Aí está você!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Eeeeek! Wh-what?! What're you<n>doing in my\nfavorite gathering spot?!"
+            "text": "Aaaah! O-o quê?! O que vocês tão<n>fazendo no meu\nponto de coleta<n>favorito?!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Looking all over for you, that's what!<n>At Fuji's\nrequest.",
+            "text": "Procurando por você em tudo quanto<n>é canto, ora\nessa! A pedido da Fuji.",
             "choice_data_list": [
-                "You're about to miss curfew! Come on, let's go\nback to the dorm."
+                "Já vai dar o toque de recolher! Vamos, hora de\nvoltar pro dormitório."
             ]
         },
         {
             "name": "Sweep Tosho",
-            "text": "For real? I had no idea it was so late!"
+            "text": "Sério? Eu nem fazia ideia de que já<n>tava tão tarde!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "B-but, I don't care! I'm not going<n>aaanywhere until\nI find some<n>medicinal herbs, and that's that!",
+            "text": "M-mas eu não ligo! Não vou sair<n>daquiii até achar\numas ervas<n>medicinais, e ponto final!",
             "choice_data_list": [
-                "(What's gotten into her?)"
+                "(O que deu nela?)"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Is something the matter? Perhaps we<n>can help you."
+            "text": "Aconteceu alguma coisa? Talvez nós<n>possamos\najudar."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "You're not the sort of magical girl to<n>simply break\nrules for no reason,<n>after all."
+            "text": "Afinal, você não é o tipo de garota<n>mágica que\nquebra as regras sem<n>mais nem menos."
         },
         {
             "name": "Sweep Tosho",
-            "text": "...Urk!"
+            "text": "...Argh!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Rrrg... Fine! You're right, I'm not! But<n>my grandma\ngot a fever yesterday..."
+            "text": "Grrr... Tá bom! Você tem razão, não<n>sou mesmo!\nMas a minha vovó teve<n>febre ontem..."
         },
         {
             "name": "Sweep Tosho",
-            "text": "And it won't come down, no matter<n>what I do. So I\nwanna try healing her<n>with magic."
+            "text": "E não abaixa por nada, não importa o<n>que eu faça.\nEntão quero tentar curar<n>ela com magia."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I see. But if you don't make it back to<n>the dorm\nbefore curfew, everyone's<n>going to be worried\nabout you."
+            "text": "Entendo. Mas, se você não voltar<n>para o dormitório\nantes do toque de<n>recolher, todo mundo vai ficar\npreocupado."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "They may even end up calling your<n>grandmother.\nThat's certainly not<n>what you want, right?"
+            "text": "Podem até acabar ligando para a sua<n>avó.\nCertamente não é isso que você<n>quer, verdade?"
         },
         {
             "name": "Sweep Tosho",
-            "text": "O-of course not!"
+            "text": "C-claro que não!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Then, it sounds like you really should<n>let us assist\nin your search."
+            "text": "Nesse caso, o melhor a fazer é nos<n>deixar ajudar\nna sua busca."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "You can give us the most relevant<n>information, and\nwe'll use that to<n>narrow down potential harvesting\nlocations.",
+            "text": "Você nos passa as informações mais<n>relevantes, e\nnós usamos isso para<n>filtrar os possíveis locais de\ncoleta.",
             "choice_data_list": [
-                "Then we can find those herbs and make it back on\ntime!"
+                "Aí achamos essas ervas e voltamos a tempo!"
             ]
         },
         {
             "name": "Sweep Tosho",
-            "text": "...O-okay, fine."
+            "text": "...T-tá bom, vai."
         },
         {
             "name": "",
-            "text": "And so, thanks to Biwa Hayahide's<n>logic and\nwisdom, we locate the<n>herbs in no time at all."
+            "text": "E assim, graças à lógica e à<n>sabedoria da Biwa\nHayahide,<n>encontramos as ervas num piscar de\nolhos."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Sweep! I'm so glad you've returned<n>home safe\nand sound!"
+            "text": "Sweep! Que alegria ver que você<n>voltou para casa\nsã e salva!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Y-yeah, so, uh...<n>Thanksforyourhelptoday. Byyye!"
+            "text": "É-é, então, hã... Valeupelaajudahoje.<n>Tchaaau!"
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Goodness me! I don't believe I've<n>ever heard her\nsay the word<n>\"thanks.\" What manner of spell did\nyou cast on her?"
+            "text": "Minha nossa! Acho que nunca a ouvi<n>agradecer\nantes. Que tipo de feitiço<n>você lançou nela?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "No spell. I merely interjected myself<n>into her\npersonal affairs."
+            "text": "Feitiço nenhum. Eu apenas me<n>intrometi nos\nassuntos pessoais dela."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "She reminds me of Brian when she<n>was little. I\ncouldn't resist helping her."
+            "text": "Ela me lembra a Brian quando era<n>pequena. Não\nresisti e acabei<n>ajudando."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Well, your \"interjecting,\" is always a<n>boon to me, as\nwell as the whole<n>dorm."
+            "text": "Bem, essa sua \"intromissão\" é<n>sempre uma\nbênção para mim e para<n>todo o dormitório."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Today certainly has been no<n>exception. I give you\nmy thanks,<n>Hayahide."
+            "text": "E hoje certamente não foi exceção.<n>Meus\nagradecimentos, Hayahide."
         },
         {
             "name": "",
-            "text": "The slightest blush crawls across<n>Biwa\nHayahide's face in response to<n>the unexpected\ncompliment from Fuji<n>Kiseki."
+            "text": "O rosto da Biwa Hayahide cora de<n>leve diante do\nelogio inesperado da<n>Fuji Kiseki."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Good idea. She'll be the more difficult<n>to track, so\nconsidering that two<n>heads are better than one, we\nshould<n>take charge of finding her."
+            "text": "Boa ideia. Ela vai ser a mais difícil de<n>rastrear,\nentão, considerando que<n>duas cabeças pensam\nmelhor do que<n>uma, nós devemos assumir essa\nbusca."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Let's first identify any nearby<n>locations which could\nreasonably be<n>described as \"marvelous.\"",
+            "text": "Primeiro, vamos identificar quaisquer<n>locais\npróximos que possam ser<n>razoavelmente descritos\ncomo<n>\"maravilhosos\".",
             "choice_data_list": [
-                "Good idea!"
+                "Boa ideia!"
             ]
         },
         {
             "name": "",
-            "text": "In case they come back on their own,<n>we leave a\nnote on the door for them<n>to call the dorm leader,\nand then we<n>depart on our search."
+            "text": "Caso elas voltem sozinhas, deixamos<n>um bilhete\nna porta pedindo para<n>ligarem para a líder do\ndormitório e<n>partimos para as buscas."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "She's not at the stage..."
+            "text": "Ela não está no palco..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Not at the Three Goddesses statue,<n>either. Could\nshe be inside<n>somewhere?"
+            "text": "Nem na estátua das Três Deusas.<n>Será que ela\nestá dentro de algum<n>prédio?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Let's try to reason this out. What<n>\"marvelous\"\nplaces might we find<n>indoors? The music room,\nperhaps?"
+            "text": "Vamos tentar usar a lógica. Que<n>lugares\n\"maravilhosos\" podemos<n>encontrar lá dentro? A\nsala de<n>música, talvez?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "But with no one there right now,<n>calling it\n\"marvelous\" seems a bit<n>inaccu—"
+            "text": "Mas, sem ninguém lá agora,<n>chamá-la de\n\"maravilhosa\" parece<n>um tanto impreci—"
         },
         {
             "name": "Marvelous Sunday",
-            "text": "How exquisitely red and marvelous! ☆<n>So\nmarvelously sparkly! ★"
+            "text": "Que vermelho mais lindo e<n>maravilhoso! ☆ Um brilho\ntão<n>maravilhoso! ★"
         },
         {
             "name": "Biwa Hayahide",
@@ -222,100 +222,100 @@
         },
         {
             "name": "Marvelous Sunday",
-            "text": "Why, if it isn't Hayahide! What brings<n>you here? ☆"
+            "text": "Ora, se não é a Hayahide! O que traz<n>você aqui? ☆"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "<i>Sigh...</i> I could ask you the same."
+            "text": "<i>Suspiro...</i> Eu é que pergunto."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I heard you were on a \"marvelous<n>search,\" but I still\nhave yet to grasp<n>what, exactly, that entails."
+            "text": "Ouvi dizer que você estava em uma<n>\"busca\nmaravilhosa\", mas ainda não<n>compreendi o que\nexatamente isso<n>significa."
         },
         {
             "name": "Marvelous Sunday",
-            "text": "Well, um, I heard a marvelous rumor<n>that if you run\naround inside the<n>school at night, a red light chases\nyou..."
+            "text": "Bom, é que eu ouvi um boato<n>maravilhoso de que,\nse você sair<n>correndo pela escola à noite, uma luz\nvermelha te persegue..."
         },
         {
             "name": "Marvelous Sunday",
-            "text": "So I tried it, and it turns out it's true!<n>I've been\nhaving so much fun with it!<n>☆",
+            "text": "Aí eu fui testar e descobri que é<n>verdade! Estou me\ndivertindo<n>horrores com ela! ☆",
             "choice_data_list": [
-                "That... sounds a lot like a ghost."
+                "Isso... tá com toda a cara de ser um fantasma."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Th-the existence of ghosts s-simply<n>isn't\nsupported by any kind of<n>scientific evidence!"
+            "text": "A-a existência de fantasmas<n>s-simplesmente não\ntem qualquer<n>embasamento científico!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "But... for argument's sake, if they do<n>exist, how...\nmight one go about<n>dealing with them?"
+            "text": "Mas... apenas por hipótese, se eles<n>existissem,\ncomo... alguém lidaria com<n>eles?"
         },
         {
             "name": "???",
-            "text": "Hellooo? Hellooooo?"
+            "text": "Tem alguém aííí? Oláááá?"
         },
         {
             "name": "Marvelous Sunday",
-            "text": "Oh! It's the red light! ☆"
+            "text": "Oh! É a luz vermelha! ☆"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Gaaaaah!"
+            "text": "Uaaaaah!"
         },
         {
             "name": "Marvelous Sunday",
-            "text": "Whoa! ☆ You're really moving,<n>Hayahide! ★",
+            "text": "Uau! ☆ Que pique é esse, Hayahide! ★",
             "choice_data_list": [
-                "Wait. This red light is no ghost, it's..."
+                "Espera. Essa luz vermelha não é fantasma\nnenhum, é..."
             ]
         },
         {
-            "name": "Security Guard",
-            "text": "I'm so sorry. I didn't mean to scare<n>you."
+            "name": "Segurança",
+            "text": "Mil desculpas. Não tive a intenção de<n>assustar\nvocês."
         },
         {
-            "name": "Security Guard",
-            "text": "Shouldn't you be heading home so<n>you don't miss\ncurfew?"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "I believe I owe you both an apology."
+            "name": "Segurança",
+            "text": "Vocês não deveriam estar voltando<n>para não\nperderem o toque de<n>recolher?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I got a little spooked, I will admit, but<n>that doesn't\nexcuse me for running<n>off by myself.",
+            "text": "Acredito que devo desculpas a vocês."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Admito que levei um pequeno susto,<n>mas isso não\njustifica eu ter saído<n>correndo sozinha.",
             "choice_data_list": [
-                "It's really nothing to worry about."
+                "Não precisa se preocupar com isso."
             ]
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Indeed! All that matters is that our<n>combined efforts\nhave brought<n>Marvelous and Sweep back home\nsafe and sound."
+            "text": "Exatamente! O que importa é que<n>nossos esforços\nconjuntos<n>trouxeram a Marvelous e a Sweep de\nvolta sãs e salvas."
         },
         {
             "name": "Fuji Kiseki",
-            "text": "Heh. But I must admit, never in my<n>wildest dreams\nwould I have<n>guessed you were afraid of ghosts!\nHow adorable!"
+            "text": "Heh. Mas confesso que nem nos<n>meus sonhos\nmais loucos eu<n>imaginaria que você tinha medo de\nfantasmas! Que adorável!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Urk! I-I mean, who isn't scared of<n>ghosts?! Ghosts\nare scary!"
+            "text": "Argh! D-digo, quem não tem medo de<n>fantasmas?!\nFantasmas são<n>assustadores!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Almost nothing is known about their<n>behavior! What\nare you supposed to<n>do if you see one?!",
+            "text": "Não se sabe quase nada sobre o<n>comportamento\ndeles! O que alguém<n>deveria fazer ao dar de cara\ncom<n>um?!",
             "choice_data_list": [
-                "But it was just a security guard, so it's fine!",
-                "But it was just a security guard, so it's fine!"
+                "Mas era só um segurança, então tá tudo bem!",
+                "Mas era só um segurança, então tá tudo bem!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "And thank goodness for that. If it<n>were anything\nelse, I don't think I'd<n>be getting any sleep tonight at\nall!"
+            "text": "E ainda bem que era só isso. Se<n>fosse qualquer\noutra coisa, acho que<n>eu não conseguiria pregar o\nolho esta<n>noite!"
         },
         {
             "name": "",
-            "text": "And with that, Biwa Hayahide lets out<n>a deep sigh\nof genuine relief, slightly<n>embarrassed, but\nultimately no worse<n>for wear."
+            "text": "Com isso, Biwa Hayahide solta um<n>longo suspiro\nde puro alívio, um<n>pouco sem graça, mas sã e salva\nno<n>fim das contas."
         }
     ]
 }

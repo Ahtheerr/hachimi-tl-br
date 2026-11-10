@@ -2,15 +2,15 @@
     "text_block_list": [
         {
             "name": "",
-            "text": "We get right back to our regular<n>training after\nsummer camp. As part<n>of that, we decide to hold a\nscrimmage."
+            "text": "Voltamos direto para a nossa rotina<n>normal de\ntreinos após o<n>acampamento de verão. Como parte\ndisso, decidimos fazer uma<n>corrida-treino."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "So, who's my opponent for today?"
+            "text": "Então, quem é a minha adversária de<n>hoje?"
         },
         {
             "name": "Winning Ticket",
-            "text": "Hiii, Hayahide! Are you as excited to<n>race as I am?!"
+            "text": "Oiii, Hayahide! Você também tá super<n>empolgada\npra correr que nem eu?!"
         },
         {
             "name": "Biwa Hayahide",
@@ -18,9 +18,9 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Wait, are you sure you want me to<n>race her? I\ndon't think revealing my<n>strategies right before the\nKikuka Sho<n>is a good idea.",
+            "text": "Espera, tem certeza de que quer que<n>eu corra\ncontra ela? Não acho uma<n>boa ideia revelar minhas\nestratégias<n>logo antes do Kikuka Sho.",
             "choice_data_list": [
-                "I arranged this because I have a feeling you're not\nready."
+                "Organizei isso porque sinto que você ainda não\nestá pronta."
             ]
         },
         {
@@ -29,34 +29,34 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Are you saying you know what's<n>missing from the\nequation I've<n>poured myself into, then?",
+            "text": "Quer dizer então que você sabe o que<n>está faltando\nna equação à qual<n>venho me dedicando tanto?",
             "choice_data_list": [
-                "Well..."
+                "Bom..."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Sorry. I get it. This race is meant to<n>help me with\nthat."
+            "text": "Desculpe. Eu entendi. Essa corrida<n>serve\njustamente para me ajudar<n>com isso."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I'll get ready. And I'm <i>not</i> going to<n>lose."
+            "text": "Vou me preparar. E eu <i>não</i> vou<n>perder."
         },
         {
             "name": "",
-            "text": "The race between Winning Ticket and<n>Biwa\nHayahide begins."
+            "text": "Começa a corrida entre a Winning<n>Ticket e a Biwa\nHayahide."
         },
         {
             "name": "",
-            "text": "Things start getting interesting on the<n>straightaway,\nright after the fourth<n>corner..."
+            "text": "A disputa começa a esquentar na reta<n>final, logo\napós a quarta curva..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "<i>Pant... pant...</i>"
+            "text": "<i>Arf... arf...</i>"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "(I've pulled quite far ahead of Ticket.<n>Her sprint\nspeed is worrisome, but<n>according to our data, I\nshould be fine<n>with this big of a lead.)"
+            "text": "(Abri uma boa vantagem sobre a<n>Ticket. A\narrancada dela preocupa,<n>mas, segundo os nossos\ndados,<n>essa distância deve ser mais que<n>suficiente.)"
         },
         {
             "name": "Winning Ticket",
@@ -64,11 +64,11 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "(Is... Is she charging forward already?<n>That's fast!\nBut that speed's not<n>sustainable. She'll be out of\nstamina<n>in 200 meters!)"
+            "text": "(Ela... Ela já está partindo para o<n>ataque? Que\nrápida! Mas não dá para<n>sustentar essa\nvelocidade. Ela vai<n>ficar sem vigor em 200 metros!)"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "(I'm not going to let her reckless<n>gambit shake me\nup, though. As long<n>as I maintain this pace and\nsprint in<n>the final stretch...)"
+            "text": "(Não vou deixar essa jogada<n>imprudente me\nabalar. Contanto que<n>eu mantenha este ritmo e\narranque<n>nos metros finais...)"
         },
         {
             "name": "Winning Ticket",
@@ -76,37 +76,37 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Wha?!"
+            "text": "Quê?!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "(I'm still in the lead. Stay calm. Just<n>300 meters to\ngo. I can maintain this<n>lead. And once she runs out\nof<n>steam—)",
+            "text": "(Ainda estou na liderança. Mantenha<n>a calma.\nFaltam só 300 metros.<n>Consigo segurar essa\nvantagem. E,<n>assim que ela perder o fôlego...)",
             "choice_data_list": [
-                "You need to go on the offensive, Hayahide."
+                "Você precisa partir para o ataque, Hayahide."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Ngh, even if I wanted to—"
+            "text": "Ngh, mesmo que eu quisesse..."
         },
         {
             "name": "Winning Ticket",
-            "text": "Hrrrngh... WAAAGH! I... WILL... WIN!"
+            "text": "Hrrrngh... WAAAGH! EU... VOU...<n>VENCER!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "(No way... How... How are you next to<n>me? Now\nyou're in front?)"
+            "text": "(Não pode ser... Como... Como ela já<n>está do meu\nlado? E agora na minha<n>frente?!)"
         },
         {
             "name": "",
-            "text": "Winning Ticket overtakes Biwa<n>Hayahide and flies\nacross the finish<n>line."
+            "text": "A Winning Ticket ultrapassa a Biwa<n>Hayahide e\ncruza a linha de chegada<n>voando."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "<i>Huff... Wheeze...</i> How?! How could I<n>have...",
+            "text": "<i>Arf... Arf...</i> Como?! Como foi que eu...",
             "choice_data_list": [
-                "Why didn't you go on offense?",
-                "Why didn't you go on offense?"
+                "Por que você não partiu para o ataque?",
+                "Por que você não partiu para o ataque?"
             ]
         },
         {
@@ -115,31 +115,31 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Pheeew! That was a nice one! Wanna<n>go again? I\nknow how much it sucks<n>to lose!"
+            "text": "Ufaaa! Essa foi demais! Quer ir mais<n>uma? Eu sei o\nquanto é horrível<n>perder!"
         },
         {
             "name": "Winning Ticket",
-            "text": "But I like winning a lot too, so I won't<n>just give you\nthe victory!"
+            "text": "Mas eu também adoro vencer, então<n>não vou\nentregar a vitória de<n>bandeja!"
         },
         {
             "name": "Narita Taishin",
-            "text": "I think that's enough, wild child."
+            "text": "Acho que já deu por hoje,<n>escandalosa."
         },
         {
             "name": "Winning Ticket",
-            "text": "Whoa, Taishin!"
+            "text": "Opa, Taishin!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Let her work at her own pace. If you<n>still have\nenergy left over, why don't<n>you go for a run with\nme?"
+            "text": "Deixa ela no tempo dela. Se você<n>ainda tá com\nenergia sobrando, por<n>que não vem correr comigo?"
         },
         {
             "name": "Winning Ticket",
-            "text": "But..."
+            "text": "Mas..."
         },
         {
             "name": "Narita Taishin",
-            "text": "Come on, let's go! Later, Hayahide."
+            "text": "Anda, vamos logo! Até mais,<n>Hayahide."
         },
         {
             "name": "Biwa Hayahide",
@@ -147,100 +147,100 @@
         },
         {
             "name": "",
-            "text": "After she finishes her cooldown, I<n>hand Biwa\nHayahide a drink."
+            "text": "Depois que ela termina o<n>desaquecimento, entrego\numa bebida<n>para a Biwa Hayahide."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Remember how you told me I needed<n>to go on the\noffensive during the<n>race?",
+            "text": "Lembra quando você me disse que<n>eu precisava\npartir para o ataque<n>durante a corrida?",
             "choice_data_list": [
-                "Yeah.",
-                "Yeah."
+                "Sim.",
+                "Sim."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I finally figured it out."
+            "text": "Eu finalmente entendi o motivo."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It's not that I didn't go on the<n>offensive. It's that I\nwas too busy<n>playing defense. That's the\ndifference between me and them."
+            "text": "Não é que eu não tenha atacado. É<n>que eu estava\nocupada demais na<n>defensiva. Essa é a diferença\nentre<n>mim e elas."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I was trying not to lose.",
+            "text": "Eu estava tentando não perder.",
             "choice_data_list": [
                 "..."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Now that I think about it, I'm always<n>playing it safe.\nThey invariably say<n>they want to win, but I only\nthink<n>about not wanting to lose."
+            "text": "Pensando bem, eu sempre jogo no<n>seguro. Elas\nsempre dizem que<n>querem vencer, mas eu só\npenso em<n>não querer perder."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Even the winning equation I've been<n>working on\nsince I was young..."
+            "text": "Até mesmo a equação da vitória na<n>qual venho\ntrabalhando desde<n>pequena..."
         },
         {
-            "name": "Child",
-            "text": "Wow! Brian is even faster than<n>Hayahide!"
+            "name": "Criança",
+            "text": "Uau! A Brian é ainda mais rápida que<n>a Hayahide!"
         },
         {
-            "name": "Parent",
-            "text": "She really is! Brian's so amazing. She<n>might\noutshine her older sister!"
+            "name": "Adulto",
+            "text": "É mesmo! A Brian é incrível. Capaz<n>de ela ofuscar a\nirmã mais velha!"
         },
         {
-            "name": "Young Hayahide",
-            "text": "<i>Pant... Pant...</i> Don't count... me out!<n>I'm gonna get...\nso much faster! I'll<n>be.. the fastest anyone's ever\nseen!"
+            "name": "Jovem Hayahide",
+            "text": "<i>Arf... Arf...</i> Não me... subestimem! Eu<n>ainda vou\nficar... muito mais rápida!<n>Vou ser... a mais rápida\nque já viram!"
         },
         {
-            "name": "Young Hayahide",
-            "text": "I'll be fast enough... to beat Brian one<n>day!"
+            "name": "Jovem Hayahide",
+            "text": "Rápida o bastante... pra vencer a<n>Brian um dia!"
         },
         {
             "name": "",
-            "text": "<i>Crash!</i>"
+            "text": "<i>Tum!</i>"
         },
         {
-            "name": "Young Brian",
-            "text": "Sis?!"
+            "name": "Jovem Brian",
+            "text": "Mana?!"
         },
         {
-            "name": "Young Hayahide",
-            "text": "I... I lost again... <i>Sniffle...</i>"
+            "name": "Jovem Hayahide",
+            "text": "Eu... Eu perdi de novo... <i>Snif...</i>"
         },
         {
-            "name": "Young Hayahide",
-            "text": "I'll win next time! I'll come up with an<n>equation to\nwin so I'll never lose to<n>anyone! Especially not\nher..."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "The whole reason I started working<n>on my winning\nequation was because<n>I didn't want to lose."
+            "name": "Jovem Hayahide",
+            "text": "Da próxima vez eu vou vencer! Vou<n>criar uma\nequação da vitória pra<n>nunca mais perder pra\nninguém!<n>Muito menos pra ela..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Ironic, isn't it?"
+            "text": "O único motivo pelo qual comecei a<n>desenvolver a\nminha equação da<n>vitória foi porque eu não queria\nperder."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It's no wonder Ticket and Taishin<n>always exceed\nthe parameters of my<n>little calculations. Of course\nthey do."
+            "text": "Irônico, não é?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "They're always on the<n>offensive—willing to do\nwhatever it<n>takes for a chance at victory because\nthey're trying to <i>win.</i>"
+            "text": "Não é à toa que a Ticket e a Taishin<n>sempre\nsuperam os parâmetros dos<n>meus calculozinhos. É\nóbvio que<n>superam."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Their way of thinking differs from<n>mine on a\nfundamental level. There's<n>simply no way my\nequation can<n>compete with them."
+            "text": "Elas estão sempre no ataque,<n>dispostas a fazer o\nque for preciso<n>por uma chance de vitória, porque\nestão correndo para <i>vencer.</i>"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "How stupid of me to call it a \"winning<n>equation\"\nwhen all I've been doing is<n>calculating how not to\nlose!"
+            "text": "A mentalidade delas é<n>fundamentalmente diferente\nda<n>minha. Simplesmente não há como a<n>minha\nequação competir com elas."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Why did it take me so long to figure it<n>out? What's\nthe point anymore?!",
+            "text": "Quanta estupidez a minha chamar<n>isso de \"equação\nda vitória\" quando<n>tudo o que fiz até agora foi\ncalcular<n>como não perder!"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Por que demorei tanto para perceber<n>isso? De que\nadianta agora?!",
             "choice_data_list": [
-                "Mistakes are learning opportunities. You can fix it\nnow that you've realized what's wrong."
+                "Erros são oportunidades de aprendizado. Agora\nque você percebeu o problema, pode consertá-lo."
             ]
         },
         {
@@ -249,97 +249,97 @@
         },
         {
             "name": "",
-            "text": "If Biwa Hayahide was the type of<n>Umamusume to\nthrow away her<n>dreams over something like this..."
+            "text": "Se a Biwa Hayahide fosse o tipo de<n>Umamusume\nque joga seus sonhos<n>para o alto por causa de\nalgo assim..."
         },
         {
             "name": "",
-            "text": "Then she would have given up a long<n>time ago\nwhen she got hurt trying to<n>catch up to her sister."
+            "text": "Então ela teria desistido há muito<n>tempo, quando se\nmachucou tentando<n>alcançar a irmã."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "That might be true, but we'll have to<n>start over from\nsquare one."
+            "text": "Pode até ser verdade, mas teremos<n>que recomeçar\nda estaca zero."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I established the equation on the<n>wrong basis, and\nnow I have to scrap<n>it and rebuild everything from\nscratch."
+            "text": "Construí a equação sobre a premissa<n>errada, e\nagora vou ter que descartar<n>tudo e refazer do zero."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "There's not much time until the<n>Kikuka Sho. If we\ndo this, it's going to<n>take up a lot of your time too.",
+            "text": "Não resta muito tempo até o Kikuka<n>Sho. Se\nfizermos isso, também vai<n>consumir muito do seu\ntempo.",
             "choice_data_list": [
-                "You want to win the Kikuka Sho, right?",
-                "You want to win the Kikuka Sho, right?"
+                "Você quer vencer o Kikuka Sho, não quer?",
+                "Você quer vencer o Kikuka Sho, não quer?"
             ]
         },
         {
             "name": "Biwa Hayahide",
             "text": "...!",
             "choice_data_list": [
-                "If so, I'm here to help."
+                "Então eu estou aqui para ajudar."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "You're... You're an idiot..."
+            "text": "Você... Você é mesmo idiota..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "But I'm an even bigger idiot, which is<n>why I'm\naccepting your offer."
+            "text": "Mas eu sou ainda mais idiota, e é por<n>isso que vou\naceitar a sua oferta."
         },
         {
             "name": "",
-            "text": "We resume training immediately to<n>reformulate her\nwinning equation."
+            "text": "Retomamos o treino imediatamente<n>para reformular\na equação da vitória<n>dela."
         },
         {
             "name": "Winning Ticket",
-            "text": "Ah! Hayahide, you really came!"
+            "text": "Ah! Hayahide, você veio mesmo!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Ticket? What are you doing here?"
+            "text": "Ticket? O que vocês estão fazendo<n>aqui?"
         },
         {
             "name": "Winning Ticket",
-            "text": "Hehe! Taishin said you were sure to<n>show up if we\nwaited! Right, Taishin?"
+            "text": "Hehe! A Taishin disse que era<n>certeza que você ia\naparecer se a<n>gente esperasse! Né, Taishin?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Maybe <i>you</i> were waiting. I was<n>letting you take a\nbreak so we could<n>go for a run."
+            "text": "Quem tava esperando era <i>você</i>. Eu<n>só deixei você\ndescansar um pouco<n>pra gente ir correr."
         },
         {
             "name": "Winning Ticket",
-            "text": "Taishin! You're such a meanie!"
+            "text": "Taishin! Sua chata!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Whatever."
+            "text": "Tanto faz."
         },
         {
             "name": "Narita Taishin",
-            "text": "I'm gonna go for a run. Join us if you<n>want. Or\ndon't.",
+            "text": "Eu vou dar uma corrida. Vem junto<n>se quiser. Ou\nnão.",
             "choice_data_list": [
-                "Are you two here to cheer Hayahide up?"
+                "Vocês duas vieram animar a Hayahide?"
             ]
         },
         {
             "name": "Winning Ticket",
-            "text": "Hehe! Yeah! We might be rivals, but<n>we're friends\nfirst and foremost!"
+            "text": "Hehe! Isso aí! A gente pode até ser<n>rival, mas\nsomos amigas acima de<n>tudo!"
         },
         {
             "name": "Winning Ticket",
-            "text": "You know you can always talk to us if<n>you've got\nsomething on your mind,<n>right, Hayahide?",
+            "text": "Você sabe que sempre pode<n>desabafar com a\ngente se tiver<n>alguma coisa te incomodando, né,\nHayahide?",
             "choice_data_list": [
-                "You have good friends.",
-                "You have good friends."
+                "Você tem ótimas amigas.",
+                "Você tem ótimas amigas."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I do... It seems I've been too<n>narrow-minded. I'll\nneed to do<n>something about that."
+            "text": "Tenho mesmo... Parece que andei<n>com a visão\nmuito fechada. Vou<n>precisar mudar isso."
         },
         {
             "name": "",
-            "text": "Biwa Hayahide jogs toward the track<n>after her\nfriends."
+            "text": "A Biwa Hayahide corre em direção à<n>pista atrás\ndas amigas."
         }
     ]
 }

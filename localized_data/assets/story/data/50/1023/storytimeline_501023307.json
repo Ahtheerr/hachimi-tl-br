@@ -1,20 +1,20 @@
 {
     "text_block_list": [
         {
-            "name": "Spectators",
-            "text": "Wooooo!"
+            "name": "Espectadores",
+            "text": "Uhuuuu!"
         },
         {
-            "name": "Caster",
-            "text": "And the winner of the Satsuki Sho, the<n>very first\nrace of the Classic Triple<n>Crown, is..."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "<i>Pant... pant...</i>"
+            "name": "Locutor",
+            "text": "E a vencedora do Satsuki Sho, a<n>primeiríssima\nprova da Tríplice Coroa<n>Clássica, é..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "What happened in that race? And<n>what is this\nfeeling?"
+            "text": "<i>Arf... arf...</i>"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "O que aconteceu nessa corrida? E<n>que sensação é\nesta?"
         },
         {
             "name": "Narita Taishin",
@@ -22,15 +22,15 @@
         },
         {
             "name": "",
-            "text": "(Urk!)"
+            "text": "(Gulp!)"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "(I still feel so overwhelmed by the<n>intensity in her\nvoice!)"
+            "text": "(A intensidade da voz dela ainda me<n>deixa tão\nintimidada!)"
         },
         {
             "name": "Narita Taishin",
-            "text": "GAAAHHH! UNGH!"
+            "text": "GAAAHHH! URGH!"
         },
         {
             "name": "Biwa Hayahide",
@@ -38,15 +38,15 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "I'll win the next one even if it kills me!<n>Don't you\ndare think you've seen<n>the last of me!"
+            "text": "Eu vou ganhar a próxima nem que<n>isso me mate!\nNão ousem achar que<n>já se livraram de mim!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Is it possible for her to get<n>better—more than she\nalready has?"
+            "text": "Será possível ela evoluir ainda mais<n>do que já\nevoluiu?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "If she does, then next time I face off<n>against her, I'll\nsurely—"
+            "text": "Se isso acontecer, na próxima vez em<n>que eu a\nenfrentar, certamente vou..."
         },
         {
             "name": "Biwa Hayahide",
@@ -54,39 +54,39 @@
         },
         {
             "name": "",
-            "text": "Biwa Hayahide returns to the waiting<n>room with a\ndark expression on her<n>face.",
+            "text": "A Biwa Hayahide volta para a sala de<n>espera com\no semblante carregado.",
             "choice_data_list": [
-                "Is everything okay?",
-                "Is everything okay?"
+                "Está tudo bem?",
+                "Está tudo bem?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Yes. I'm fine."
+            "text": "Sim. Estou bem."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "This is all because I let myself<n>become arrogant... Or\nmaybe it means<n>there's a flaw in my equation."
+            "text": "Isso tudo aconteceu porque me deixei<n>levar pela\narrogância... Ou talvez<n>signifique que há uma falha\nna minha<n>equação."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I just need to figure out what my<n>mistake was.\nThere must be a<n>solution to it."
+            "text": "Só preciso descobrir onde foi que<n>errei. Tem que\nhaver uma solução."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "This was the result of a simple<n>miscalculation."
+            "text": "Isso foi apenas o resultado de um<n>simples erro de\ncálculo."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "As long as I fix it, the equation should<n>produce the\nappropriate results, and I<n>won't have to worry\nabout losing<n>ever again..."
+            "text": "Contanto que eu o corrija, a equação<n>voltará a\nproduzir os resultados<n>esperados, e não precisarei\nme<n>preocupar em perder nunca mais..."
         },
         {
             "name": "",
-            "text": "Her voice keeps getting smaller and<n>smaller until\nshe's nearly inaudible."
+            "text": "A voz dela vai diminuindo cada vez<n>mais, até ficar\nquase inaudível."
         },
         {
             "name": "Winning Ticket",
-            "text": "Woohoo! Yeaaah!"
+            "text": "Uhuuul! Isso aííí!"
         },
         {
             "name": "Biwa Hayahide",
@@ -94,38 +94,38 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Next up is the Derby! And I'm taking<n>the crown\nhome!"
+            "text": "A próxima parada é o Derby! E eu<n>vou levar essa\ncoroa pra casa!"
         },
         {
             "name": "Winning Ticket",
-            "text": "I'm gonna win no matter <i>what!</i> You<n>hear me?!"
+            "text": "Eu vou vencer custe o que <i>custar!</i><n>Ouviram bem?!"
         },
         {
             "name": "Winning Ticket",
-            "text": "I'm gonna be the Derby Champion!<n>Yeaaah!\nWooooo!"
+            "text": "Eu vou ser a Campeã do Derby! É<n>isso aííí! Uhuuuu!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "She certainly is excited... I can't<n>believe we can\nhear her all the way in<n>here."
+            "text": "Ela está mesmo empolgada... Custa a<n>acreditar que\ndá para ouvi-la daqui de<n>dentro."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "But I have to admit... she is good.",
+            "text": "Mas tenho que admitir... ela é boa.",
             "choice_data_list": [
                 "Hayahide?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Oh, sorry! Let's reanalyze things right<n>away.\nThere's not much time left until<n>the Derby, so we\ncan't waste any<n>time..."
+            "text": "Oh, desculpe! Vamos reanalisar tudo<n>imediatamente.\nFalta pouco tempo<n>para o Derby, então não\npodemos<n>perder um segundo sequer..."
         },
         {
             "name": "",
-            "text": "The next stop on our journey<n>together is the\nsecond race of the<n>Classic Triple Crown tour—the\nJapanese Derby."
+            "text": "A próxima parada da nossa jornada<n>é a segunda\ncorrida da Tríplice Coroa<n>Clássica: o Japanese\nDerby."
         },
         {
             "name": "",
-            "text": "But hearing such urgency in her voice<n>makes me\nworry that something in<n>her is beginning to crack."
+            "text": "Mas ouvir tamanha urgência na voz<n>dela me deixa\ncom receio de que algo<n>dentro dela esteja\ncomeçando a ruir."
         }
     ]
 }

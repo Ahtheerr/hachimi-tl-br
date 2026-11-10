@@ -2,27 +2,27 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Today's the Spring Fan Fest, and<n>Tracen's\nUmamusume are putting on<n>a show for their fans\nby competing in<n>different contests."
-        },
-        {
-            "name": "",
-            "text": "Run a three-legged race with your<n>trainer? What's\nthe meaning of this?!"
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Exactly what it sounds like. You have<n>to partner up\nwith your trainer and do<n>a three-legged race\ntogether."
-        },
-        {
-            "name": "Narita Brian",
-            "text": "Destroy the competition and win.<n>That's all there is\nto it."
+            "text": "Hoje é o Festival de Fãs da<n>Primavera, e as\nUmamusume da<n>Tracen estão preparando um show\npara seus fãs, participando de várias<n>competições."
         },
         {
             "name": "Narita Taishin",
-            "text": "That's not what I meant. I mean why<n>the heck was\nI entered in this?!"
+            "text": "Correr numa corrida de três pernas<n>com seu\ntreinador? O que diabos é<n>isso?!"
         },
         {
             "name": "Narita Brian",
-            "text": "Cause you were playing hooky when<n>we were\ndeciding who would do<n>what."
+            "text": "Exatamente o que parece. Você<n>precisa formar\ndupla com seu<n>treinador e participar de uma corrida\nde três pernas juntos."
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Derrote a concorrência e vença. É só<n>isso."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Não foi isso que eu quis dizer. Quero<n>saber por que\ndiabos me inscreveram<n>nisso?!"
+        },
+        {
+            "name": "Narita Brian",
+            "text": "Porque você estava matando aula<n>quando\ndecidimos quem faria o quê."
         },
         {
             "name": "Narita Taishin",
@@ -30,23 +30,23 @@
         },
         {
             "name": "Narita Brian",
-            "text": "No one applied for this race, but<n>someone had to do\nit."
+            "text": "Ninguém se inscreveu pra essa<n>corrida, mas\nalguém precisava<n>participar."
         },
         {
             "name": "Narita Brian",
-            "text": "The student council decided, so if you<n>have a\nproblem, take it up with them."
+            "text": "O conselho estudantil decidiu, então,<n>se tiver algum\nproblema, vá reclamar<n>com elas."
         },
         {
             "name": "Narita Taishin",
-            "text": "You know what? I <i>do</i> have a problem!<n>Why me of\nall people?"
+            "text": "Sabe de uma coisa? Eu <i>tenho</i> um<n>problema! Por\nque eu, justo eu?!"
         },
         {
             "name": "Narita Brian",
-            "text": "Hayahide said the best way to keep<n>you from\nslacking off was to pair you<n>up with your trainer."
+            "text": "A Hayahide disse que a melhor<n>maneira de impedir\nvocê de matar<n>aula era colocar você em dupla com\nseu treinador."
         },
         {
             "name": "Narita Brian",
-            "text": "Isn't that nice?"
+            "text": "Não é ótimo?"
         },
         {
             "name": "Narita Taishin",
@@ -54,56 +54,56 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Here, take my dang right foot and tie<n>it up already!\nUgh, let's just get this<n>over with!",
+            "text": "Anda, pega logo meu pé direito e<n>amarra essa\ndroga! Aff, vamos<n>acabar logo com isso!",
             "choice_data_list": [
                 "O-okay!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I don't know why Taishin is so upset,<n>but whether\nshe likes it or not, we're<n>running a three-legged\nrace together!"
+            "text": "Não sei por que a Taishin está tão<n>irritada, mas,\ngostando ou não, vamos<n>participar de uma corrida\nde três<n>pernas juntos!"
         },
         {
-            "name": "Umamusume Commentator",
-            "text": "Racers, are you ready? Get set... and<n>start!"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "One, two! One, two! One—"
+            "name": "Comentadora Umamusume",
+            "text": "Competidores, estão prontos?<n>Preparar... e já!"
         },
         {
             "name": "Narita Taishin",
-            "text": "H-hey! Come on, is this all you've<n>got?!",
+            "text": "Um, dois! Um, dois! Um—"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "E-ei! Vamos lá, é só isso que você<n>consegue?!",
             "choice_data_list": [
-                "I'm sorry!"
+                "Desculpa."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Taishin's doing her best to work with<n>me, but\nshe's still an Umamusume.<n>There's no way I can\nrun as fast as<n>her!"
+            "text": "A Taishin está se esforçando para<n>trabalhar em\nequipe comigo, mas ela<n>ainda é uma Umamusume.\nNão tem<n>como eu correr tão rápido quanto ela!"
         },
         {
             "name": "Monólogo",
-            "text": "At this rate, we'll lose for sure!",
+            "text": "Desse jeito, com certeza vamos<n>perder!",
             "choice_data_list": [
-                "Forget about me. Give it all you've got, Taishin!",
-                "Forget about me. Give it all you've got, Taishin!"
+                "Esquece de mim. Dê tudo de si, Taishin!",
+                "Esquece de mim. Dê tudo de si, Taishin!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Huh?! If I do that, you'll—",
+            "text": "O quê?! Se eu fizer isso, você vai—",
             "choice_data_list": [
-                "I'm with you all the way!"
+                "Vou até o fim com você!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "You better not regret this!"
+            "text": "É melhor não se arrepender disso!"
         },
         {
             "name": "Monólogo",
-            "text": "She begins running without heed to<n>my pace..."
+            "text": "Ela começa a correr sem se importar<n>com o meu\nritmo..."
         },
         {
             "name": "Monólogo",
@@ -111,14 +111,14 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Oh, you're awake."
+            "text": "Ah, você acordou."
         },
         {
             "name": "Narita Taishin",
-            "text": "Tch, I knew this was gonna happen.<n>You way\noverdid it, idiot.",
+            "text": "Tch, eu sabia que isso ia acontecer.<n>Você exagerou\ndemais, idiota.",
             "choice_data_list": [
-                "Huh? Did I pass out—",
-                "Huh? Did I pass out—"
+                "Hã? Eu desmaiei—",
+                "Hã? Eu desmaiei—"
             ]
         },
         {
@@ -130,106 +130,106 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "See? Now all your muscles are<n>spasming."
+            "text": "Viu? Agora todos os seus músculos<n>estão tendo\nespasmos."
         },
         {
             "name": "Narita Taishin",
-            "text": "C'mon, lie face down. I'll help<n>massage out the\ncramps.",
+            "text": "Anda, deita de barriga pra baixo. Vou<n>ajudar a\naliviar essas cãibras com<n>uma massagem.",
             "choice_data_list": [
-                "You don't have to do tha—"
+                "Não precisa fazer is—"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Just be quiet!"
+            "text": "Fica quieto!"
         },
         {
             "name": "",
-            "text": "Narita Taishin begins to knead my<n>seized muscles.",
+            "text": "Narita Taishin começa a massagear<n>meus\nmúsculos contraídos.",
             "choice_data_list": [
-                "Ow! <i>Ow!</i> Gently! Please!"
+                "Ai! <i>Ai!</i> Com cuidado! Por favor!"
             ]
         },
         {
-            "name": "",
-            "text": "Shut your trap!"
+            "name": "Narita Taishin",
+            "text": "Fecha essa matraca!"
         },
         {
             "name": "Narita Taishin",
-            "text": "This is what boneheads like you get<n>for trying too\nhard."
+            "text": "É isso que acontece com idiotas como<n>você que se\nesforçam demais."
         },
         {
             "name": "Monólogo",
-            "text": "We hurriedly pick up our pace."
+            "text": "Apressamos o passo."
         },
         {
             "name": "Narita Taishin",
-            "text": "Hey, slow down. I don't want you to<n>overdo it. Slow\ndown!",
+            "text": "Ei, mais devagar. Não quero que você<n>se esforce\ndemais. Vai mais devagar!",
             "choice_data_list": [
-                "But if we don't speed up—"
+                "Mas, se não acelerarmos—"
             ]
         },
         {
-            "name": "",
-            "text": "It's fine to hang back for now. Just<n>match my\nstride at the last stretch."
+            "name": "Narita Taishin",
+            "text": "Não tem problema ficar um pouco<n>para trás por\nenquanto. Basta<n>acompanhar meu ritmo no trecho\nfinal."
         },
         {
             "name": "Narita Taishin",
-            "text": "That's all we need to do to catch up.<n>We'll give it a\nbig boost at the end!",
+            "text": "É só isso que precisamos fazer para<n>alcançar as\noutras. Vamos dar um<n>grande gás no final!",
             "choice_data_list": [
                 "Wow, Taishin!"
             ]
         },
         {
-            "name": "Umamusume Commentator",
-            "text": "The runners are coming up on the<n>final stretch!\nWhich pair will finish<n>first?!"
+            "name": "Umamusume Comentadora",
+            "text": "Os competidores estão chegando ao<n>trecho final!\nQual dupla cruzará a linha<n>de chegada primeiro?!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Here we go! One, two! One, two!"
+            "text": "Lá vamos nós! Um, dois! Um, dois!"
         },
         {
-            "name": "Umamusume Commentator",
-            "text": "What's this?! Narita Taishin and her<n>trainer are\ncharging up from behind!"
+            "name": "Umamusume Comentadora",
+            "text": "O que é isso?! Narita Taishin e seu<n>treinador estão\navançando por trás!"
         },
         {
-            "name": "",
-            "text": "They're making an electrifying break<n>for it—they're\npassing all the others!<n>Wow, they've done it!\nThey've won<n>first!"
+            "name": "Umamusume Comentadora",
+            "text": "Eles estão disparando como um raio<n>e\nultrapassando todos os outros! Uau,<n>conseguiram!\nFicaram em primeiro<n>lugar!"
         },
         {
             "name": "Fans",
-            "text": "Wooo! Great job, Team Taishin!"
+            "text": "Uhuu! Muito bem, Equipe Taishin!"
         },
         {
-            "name": "",
-            "text": "<i>Huff... huff...</i> That was way harder...<n>than any race\nI've ever run..."
+            "name": "Narita Taishin",
+            "text": "<i>Ofegante... arf...</i> Isso foi muito mais<n>difícil... do que\nqualquer corrida que já<n>disputei..."
         },
         {
             "name": "Monólogo",
-            "text": "I've never felt more exhausted in my<n>life. I feel\nabout ready to collapse on<n>the spot.",
+            "text": "Nunca me senti tão exausto na vida.<n>Acho que\nestou prestes a desabar<n>aqui mesmo.",
             "choice_data_list": [
-                "(But the way we ran at the last stretch...)"
+                "(Mas aquele jeito como corremos no trecho final...)"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "What? Why are you staring at me?",
+            "text": "O quê? Por que tá olhando pra mim?",
             "choice_data_list": [
-                "Your final sprint is seriously incredible.",
-                "Your final sprint is seriously incredible."
+                "Sua arrancada final é realmente incrível.",
+                "Sua arrancada final é realmente incrível."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Huh?"
+            "text": "Hã?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Don't get all weird... dummy."
+            "text": "Não fica todo esquisito... idiota."
         },
         {
             "name": "Monólogo",
-            "text": "This experience was truly an amazing<n>one."
+            "text": "Essa experiência foi realmente<n>incrível."
         }
     ]
 }

@@ -2,19 +2,19 @@
     "text_block_list": [
         {
             "name": "Narita Taishin",
-            "text": "Can I get the B combo with a salad<n>as the side?"
+            "text": "Pode me ver um combo B com uma<n>salada?"
         },
         {
-            "name": "Cafe Lady",
-            "text": "Uh-oh, I'm sorry! Looks like we only<n>have the A\ncombo left, dearie."
+            "name": "Moça da Cafeteria",
+            "text": "Ah, que pena! Parece que só temos o<n>combo A,\nquerida."
         },
         {
-            "name": "",
-            "text": "What? That's the deep-fried stuff,<n>isn't it? In that\ncase..."
+            "name": "Narita Taishin",
+            "text": "O quê? Aquele que vem com frituras,<n>não é? Nesse\ncaso..."
         },
         {
-            "name": "",
-            "text": "And the only side left is the bucket of<n>fries... But\nyou're a growing girl, so<n>you should eat up!"
+            "name": "Moça da Cafeteria",
+            "text": "E o único acompanhamento que<n>sobrou é um balde\nde batatas fritas...<n>Mas você ainda está em fase de\ncrescimento, então coma bastante!"
         },
         {
             "name": "Narita Taishin",
@@ -22,19 +22,19 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Oof.",
+            "text": "Uff.",
             "choice_data_list": [
-                "You all right?",
-                "You all right?"
+                "Tudo bem?",
+                "Tudo bem?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "...Don't ask."
+            "text": "...Não pergunte."
         },
         {
             "name": "Monólogo",
-            "text": "Narita Taishin doesn't look very well..."
+            "text": "Narita Taishin não parece estar se<n>sentindo muito\nbem..."
         }
     ]
 }

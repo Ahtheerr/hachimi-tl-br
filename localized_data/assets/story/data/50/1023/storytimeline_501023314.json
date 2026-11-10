@@ -1,24 +1,24 @@
 {
     "text_block_list": [
         {
-            "name": "Caster",
-            "text": "What a fierce contest between these<n>fantastic\nsenior racers!"
+            "name": "Locutor",
+            "text": "Que disputa feroz entre essas<n>fantásticas\ncorredoras do ano sênior!"
         },
         {
-            "name": "Caster",
-            "text": "The winner of today's race is—"
+            "name": "Locutor",
+            "text": "A vencedora da prova de hoje é..."
         },
         {
             "name": "Narita Taishin",
-            "text": "...Good race."
+            "text": "...Boa corrida."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "You too. You looked good out there,<n>as usual. But..."
+            "text": "Igualmente. Você correu muito bem lá<n>na pista,\ncomo sempre. Mas..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Things will be different tomorrow. <i>I'll</i><n>be different\ntomorrow. So long as I<n>get another chance, I will\nwin!"
+            "text": "Amanhã será diferente. <i>Eu</i> serei<n>diferente amanhã.\nEnquanto eu tiver<n>uma nova chance, eu vou\nvencer!"
         },
         {
             "name": "Narita Taishin",
@@ -26,44 +26,44 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Heh... And I'll be right there to take<n>you on."
+            "text": "Heh... E eu vou estar lá pra te<n>encarar."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I'm back.",
+            "text": "Voltei.",
             "choice_data_list": [
-                "You did great!"
+                "Você mandou muito bem!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Thank you. I think so too. I was able<n>to run at my\nvery best today."
+            "text": "Obrigada. Eu também acho. Consegui<n>dar o meu\nmáximo na pista hoje."
         },
         {
             "name": "",
-            "text": "As I see Biwa Hayahide smiling<n>proudly, a sense of\nregret fills me.",
+            "text": "Ao ver a Biwa Hayahide sorrindo<n>com orgulho, uma\nponta de frustração<n>toma conta de mim.",
             "choice_data_list": [
-                "(If only we'd known this race would be at Hanshin\nfrom the beginning...)"
+                "(Se ao menos soubéssemos desde o começo que\na corrida seria em Hanshin...)"
             ]
         },
         {
             "name": "",
-            "text": "Then maybe she would've been able<n>to put on an\neven better performance.<n>She might've..."
+            "text": "Talvez ela tivesse conseguido<n>apresentar um\ndesempenho ainda<n>melhor. Quem sabe ela até..."
         },
         {
-            "name": "Caster",
-            "text": "This is incredible, folks! Narita Brian<n>has not only\nwon the race, she's set<n>a new record!"
+            "name": "Locutor",
+            "text": "Isso é inacreditável, senhoras e<n>senhores! Narita\nBrian não só venceu<n>a prova, como também\nestabeleceu<n>um novo recorde!"
         },
         {
             "name": "",
-            "text": "She might've even set a new record..."
+            "text": "Quem sabe ela até tivesse batido o<n>recorde..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Earth to Trainer! What are you mulling<n>about so\nseriously?",
+            "text": "Terra chamando! No que você está<n>pensando com\nessa cara tão séria?",
             "choice_data_list": [
-                "I was thinking about how you were so close to an\neven better result.",
-                "I was thinking about how you were so close to an\neven better result."
+                "Estava pensando em como faltou pouco para você\nalcançar um resultado ainda melhor.",
+                "Estava pensando em como faltou pouco para você\nalcançar um resultado ainda melhor."
             ]
         },
         {
@@ -72,49 +72,49 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hehe. It's certainly important not to<n>grow\ncomplacent. And I agree—I'm<n>not satisfied with my\nperformance<n>today either."
+            "text": "Hehe. Certamente é importante nunca<n>se\nacomodar. E eu concordo:<n>também não estou\nplenamente<n>satisfeita com o meu desempenho de\nhoje."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "That's why I want to test myself at<n>the Takarazuka\nKinen next. I must if<n>I'm to be the best of my\ngeneration.",
+            "text": "É por isso que quero me colocar à<n>prova no\nTakarazuka Kinen a seguir.<n>Preciso fazer isso se\nquiser ser a<n>melhor da minha geração.",
             "color_text_info_list": [
                 "Takarazuka Kinen"
             ]
         },
         {
             "name": "",
-            "text": "The Takarazuka Kinen... Only the best<n>and most\nfamous Umamusume are<n>invited to take part in it.\nNot only that...",
+            "text": "O Takarazuka Kinen... Apenas as<n>melhores e mais\npopulares<n>Umamusume são convidadas para\ndisputá-lo. Além disso...",
             "choice_data_list": [
-                "The Takarazuka Kinen is held at Hanshin, right?",
-                "The Takarazuka Kinen is held at Hanshin, right?"
+                "O Takarazuka Kinen também é em Hanshin, né?",
+                "O Takarazuka Kinen também é em Hanshin, né?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Right. The length of the race is<n>different, but yes,\nit's also held here<n>at the Hanshin Racecourse."
+            "text": "Isso mesmo. A distância da prova é<n>diferente, mas\nsim, também acontece<n>aqui no Hipódromo de\nHanshin."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Are you still upset about the venue<n>change?",
+            "text": "Você ainda está remoendo a<n>mudança de local?",
             "choice_data_list": [
-                "A little..."
+                "Um pouco..."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Goodness. There's no point fussing<n>over it. It's not\nas if anything<n>could've been done about it."
+            "text": "Francamente. Não adianta chorar pelo<n>leite\nderramado. Não é como se<n>pudéssemos ter feito\nalgo a respeito."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Let's just focus on the next race.<n>First, we should\nlook up who I'm<n>most likely to be up against in the\nTakarazuka Kinen..."
+            "text": "Vamos apenas focar na próxima<n>corrida. Primeiro,\ndevemos levantar<n>quem são as minhas prováveis\nadversárias no Takarazuka Kinen..."
         },
         {
             "name": "",
-            "text": "I do my best to leave my worries<n>behind and switch\ngears to start<n>preparing for the Takarazuka Kinen\ntogether with Biwa Hayahide."
+            "text": "Faço o possível para deixar minhas<n>preocupações\nde lado e viro a chave<n>para começar os\npreparativos para o<n>Takarazuka Kinen junto com a\nBiwa<n>Hayahide."
         },
         {
             "name": "",
-            "text": "This time, I'll make sure she can<n>really run at her\nfull potential!"
+            "text": "Desta vez, vou garantir que ela<n>consiga correr com\ntodo o seu<n>potencial!"
         }
     ]
 }

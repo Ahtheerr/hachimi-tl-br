@@ -2,33 +2,33 @@
     "text_block_list": [
         {
             "name": "Narita Taishin",
-            "text": "Hey, you wanna play RDLI again?",
+            "text": "Ei, quer jogar RDLI de novo?",
             "choice_data_list": [
-                "Absolutely!"
+                "Com certeza!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "After that one day we hung out, Narita<n>Taishin and I\nhave been battling each<n>other on RDLI regularly."
+            "text": "Depois daquele dia que passamos<n>juntos, Narita\nTaishin e eu<n>começamos a batalhar regularmente<n>no\nRDLI."
         },
         {
             "name": "Narita Taishin",
-            "text": "I'm getting bored beating you every<n>time. It's\ngotten to the point where I<n>think I'm kind of done\nwith this game<n>entirely...",
+            "text": "Tô ficando entediada de vencer você<n>todas as\nvezes. Chegou a um ponto<n>em que acho que estou\nmeio que<n>perdendo o interesse nesse jogo...",
             "choice_data_list": [
-                "Fine, this'll be our last match, but I'm not losing!"
+                "Tudo bem, esta será nossa última partida, mas não\nvou perder!"
             ]
         },
         {
-            "name": "",
-            "text": "You seem pretty sure of yourself."
+            "name": "Narita Taishin",
+            "text": "Você parece bem confiante."
         },
         {
             "name": "Narita Taishin",
-            "text": "Whatever. Let's finish this for good,<n>then."
+            "text": "Tanto faz. Vamos acabar com isso de<n>uma vez,\nentão."
         },
         {
             "name": "Monólogo",
-            "text": "There's a reason I'm so confident,<n>and that's\nbecause I met up with one<n>of her close friends for\nadvice on how<n>to win. That person was...",
+            "text": "Tenho um motivo para estar tão<n>confiante:\nencontrei uma das amigas<n>próximas dela para pedir\nconselhos<n>sobre como vencer. E essa pessoa<n>foi...",
             "choice_data_list": [
                 "Winning Ticket.",
                 "Biwa Hayahide.",
@@ -37,85 +37,85 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "The way to beat Taishin is..."
+            "text": "A maneira de derrotar Taishin é..."
         },
         {
             "name": "Winning Ticket",
-            "text": "Just trying really, <i>really</i> hard!",
+            "text": "Se esforçar muito, <i>muito mesmo!</i>",
             "choice_data_list": [
-                "That's it?!"
+                "É isso?!"
             ]
         },
         {
             "name": "Winning Ticket",
-            "text": "Yep! The key to anything is having the<n>right\nmindset!"
+            "text": "Isso mesmo! O segredo para<n>qualquer coisa é ter a\natitude certa!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Taishin's not the most open person<n>in the world,\nwhich can be tough..."
+            "text": "Taishin não é exatamente a pessoa<n>mais aberta do\nmundo, o que pode<n>ser complicado..."
         },
         {
             "name": "Winning Ticket",
-            "text": "But she's not a bad person either! So<n>all you gotta\ndo is be persistent!",
+            "text": "Mas ela também não é uma pessoa<n>ruim! Então,\ntudo o que você precisa<n>fazer é ter persistência!",
             "choice_data_list": [
                 "Oookay..."
             ]
         },
         {
             "name": "Winning Ticket",
-            "text": "But wow, I'm so glad Taishin has<n>you as her\ntrainer! You really care<n>about her so much!"
+            "text": "Mas nossa, fico tão feliz que Taishin<n>tenha você\ncomo treinador! Você se<n>importa tanto com ela!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Ooooh! I'm sooo <i>happy!</i>"
+            "text": "Aaaah! Estou tão <i>feliz!</i>"
         },
         {
             "name": "Winning Ticket",
-            "text": "I know this might be a tall ask, but<n>please take good\ncare of her!"
+            "text": "Sei que talvez esteja pedindo<n>demais, mas, por\nfavor, cuide bem<n>dela!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Please, oh please, <i>oh pleeeaaase!</i>"
+            "text": "Por favor, por favor, <i>por favoooor!</i>"
         },
         {
             "name": "Monólogo",
-            "text": "Now that I think about it, we really<n>didn't talk much\nabout the game<n>itself. What's important is...",
+            "text": "Pensando bem, nós nem<n>conversamos muito sobre\no jogo em<n>si. O importante é...",
             "choice_data_list": [
-                "(I have to try!)"
+                "(Tenho que me esforçar!)"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Uh, you ready? Let's start."
+            "text": "É... Tá pronto? Vamos começar."
         },
         {
             "name": "Monólogo",
-            "text": "And the final result of our fierce<n>match is..."
+            "text": "E o resultado final da nossa batalha<n>acirrada é..."
         },
         {
             "name": "Monólogo",
-            "text": "YOU LOSE."
+            "text": "VOCÊ PERDEU."
         },
         {
             "name": "Narita Taishin",
-            "text": "Wow, you still suck."
+            "text": "Uau, você continua péssimo."
         },
         {
             "name": "Monólogo",
-            "text": "My final game against Narita Taishin<n>is a one-sided\nstomp."
+            "text": "Meu último jogo contra Narita Taishin<n>é uma\nderrota esmagadora."
         },
         {
             "name": "Narita Taishin",
-            "text": "It looked like you had some kind of<n>strategy, but\nyou still lost... What were<n>you doing anyway?",
+            "text": "Parecia que você tinha alguma<n>estratégia, mas\nainda assim perdeu...<n>O que tava tentando fazer,\nafinal?",
             "choice_data_list": [
-                "I was trying really hard!"
+                "Eu estava me esforçando muito!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "What?",
+            "text": "Quê?",
             "choice_data_list": [
-                "The secret to victory is willpower, so I just tried\nreally hard to win!"
+                "O segredo da vitória é a força de vontade, então\nsimplesmente me esforcei ao máximo para vencer!"
             ]
         },
         {
@@ -124,42 +124,42 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Pfft. The heck are you on about? You<n>sound just\nlike Ticket—"
+            "text": "<i>Pfft.</i> Do que você tá falando? Parece<n>até a Ticket..."
         },
         {
             "name": "Narita Taishin",
-            "text": "—I mean...",
+            "text": "—Quer dizer...",
             "choice_data_list": [
-                "Was that a chuckle I heard from you?"
+                "Foi uma risadinha que ouvi?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "N-no! You heard wrong!"
+            "text": "N-não! Você ouviu errado!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Ugh! I'm leaving."
+            "text": "Ugh! Estou indo embora."
         },
         {
             "name": "Monólogo",
-            "text": "I expect her to storm off after her<n>mood worsens,\nbut instead, she<n>stands there and stares at me."
+            "text": "Espero que ela vá embora furiosa<n>depois de ficar\nainda mais irritada,<n>mas, em vez disso, ela fica\nparada,<n>olhando para mim."
         },
         {
             "name": "Narita Taishin",
-            "text": "What are you just standing there for?"
+            "text": "O que tá fazendo aí parado?"
         },
         {
             "name": "Monólogo",
-            "text": "It hits me that she's waiting for me<n>so we can\nleave together. I've never<n>felt closer to Narita\nTaishin than I do in<n>that moment."
+            "text": "Percebo que ela está esperando por<n>mim para\nirmos embora juntos.<n>Nunca me senti tão próximo\nde Narita<n>Taishin quanto naquele momento."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Oh, you play games with Taishin—it all<n>makes sense\nnow. I've been<n>wondering why she's been in such\na<n>good..."
+            "text": "Ah, então você joga com a Taishin.<n>Agora tudo faz\nsentido. Eu bem<n>estava me perguntando por que\nela<n>andava com um humor tão..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Oops, don't mind me. Sorry, I'd love<n>to give you\nadvice on how to beat her,<n>but gaming is\nunfortunately outside<n>my area of expertise.",
+            "text": "Opa, não ligue para mim. Desculpe,<n>adoraria dar\ndicas de como vencê-la,<n>mas, infelizmente, jogos\nnão são<n>minha especialidade.",
             "choice_data_list": [
                 "Oh...",
                 "Oh..."
@@ -167,163 +167,163 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "However, I can give you information<n>on Taishin\nherself.",
+            "text": "No entanto, posso contar algumas<n>coisas sobre a\nprópria Taishin.",
             "choice_data_list": [
-                "You can?"
+                "Pode?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hehe. There's nothing stopping you<n>from\nemploying some tricks outside<n>the game in order to\nwin."
+            "text": "Hehe. Nada impede você de usar<n>alguns truques\nfora do jogo para<n>conseguir vencer."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Still, it won't be as easy as I make it<n>out to be. This\nis between you and<n>me, but Taishin..."
+            "text": "Mesmo assim, não será tão fácil<n>quanto estou\nfazendo parecer. Isto<n>fica entre nós, mas a Taishin..."
         },
         {
             "name": "Monólogo",
-            "text": "After stubbornly refusing to lose<n>multiple battles,\nwe're thrown into<n>sudden death. I can finally put\nBiwa<n>Hayahide's tip to use."
+            "text": "Depois de se recusar teimosamente<n>a perder em\nvárias batalhas,<n>chegamos à morte súbita.\nFinalmente<n>posso colocar em prática a dica de<n>Biwa\nHayahide."
         },
         {
             "name": "Narita Taishin",
-            "text": "Grr, you just won't die, will you?<n>Give up already."
+            "text": "Grr, você simplesmente não morre,<n>hein? Desiste\nlogo."
         },
         {
             "name": "Narita Taishin",
             "text": "Tch!",
             "choice_data_list": [
-                "(Now!)"
+                "(Agora!)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Biwa Hayahide told me that Narita<n>Taishin clicks her\ntongue when she's<n>impatient, and that's when I\nshould<n>strike if I want to win!"
+            "text": "Biwa Hayahide me contou que Narita<n>Taishin morde\na língua quando está<n>impaciente, e é nessa hora\nque devo<n>atacar se quiser vencer!"
         },
         {
             "name": "Narita Taishin",
-            "text": "What? Hey! What are you—"
+            "text": "O quê? Ei! O que você está..."
         },
         {
             "name": "Monólogo",
-            "text": "YOU WIN!",
+            "text": "VOCÊ VENCEU!",
             "choice_data_list": [
-                "I beat you!"
+                "Eu te venci!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "...No way."
+            "text": "...Não pode ser."
         },
         {
             "name": "Narita Taishin",
-            "text": "You won? Against <i>me?!</i> Did I<n>seriously just lose to\na low-rank<n>noob like you?"
+            "text": "Você venceu? Contra <i>mim?!</i> Eu<n>realmente perdi pra\num noob de rank<n>baixo como você?"
         },
         {
             "name": "Monólogo",
-            "text": "She mumbles to herself in disbelief,<n>apparently very\nshocked by her loss.",
+            "text": "Ela murmura incrédula,<n>aparentemente muito\nchocada com a<n>derrota.",
             "choice_data_list": [
-                "Thanks for playing with me one last time."
+                "Obrigado por jogar comigo uma última vez."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "What do you mean? Oh, right. I did<n>say that...",
+            "text": "O que quer dizer? Ah, é verdade. Eu<n>disse aquilo...",
             "choice_data_list": [
-                "Well, see you."
+                "Bom, até mais."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "...Wait."
+            "text": "...Espera."
         },
         {
             "name": "Narita Taishin",
-            "text": "That was a fluke. You only won<n>because I messed\nup, and I'm not<n>gonna let things end like this."
+            "text": "Aquilo foi pura sorte. Você só venceu<n>porque cometi\num erro, e não vou<n>deixar as coisas terminarem\nassim."
         },
         {
             "name": "Narita Taishin",
-            "text": "I challenge you to a rematch!",
+            "text": "Eu quero uma revanche!",
             "choice_data_list": [
-                "But you said that was the last time..."
+                "Mas você disse que aquela seria a última vez..."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "You want to entertain me, right? Then<n>keep gaming\nwith me.",
+            "text": "Você quer me divertir, não é? Então<n>continue\njogando comigo.",
             "choice_data_list": [
-                "So you <i>are</i> having fun!"
+                "Então você <i>está</i> se divertindo!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Ngh! That's not what I said! Come on,<n>let's play\nalready!"
+            "text": "Ngh! Não foi isso que eu disse! Anda,<n>vamos jogar\nlogo!"
         },
         {
             "name": "Monólogo",
-            "text": "This isn't exactly how I thought<n>things would go,\nbut I feel a little<n>closer to Narita Taishin."
+            "text": "Não foi exatamente assim que<n>imaginei que as\ncoisas aconteceriam,<n>mas sinto que estou um\npouco mais<n>próximo de Narita Taishin."
         },
         {
             "name": "Narita Taishin",
-            "text": "I'm not gonna let the score end this<n>way! No more\nholding back—you're<n>dead!"
+            "text": "Não vou deixar o placar terminar<n>assim! Chega de\npegar leve — você<n>já era!"
         },
         {
             "name": "Monólogo",
-            "text": "At least, I think we're closer?"
+            "text": "Pelo menos, acho que estamos mais<n>próximos?"
         },
         {
             "name": "Super Creek",
-            "text": "Oh, wow! So you're trying to entertain<n>her with\nsome fun playtime?"
+            "text": "Ah, nossa! Então você está tentando<n>entretê-la com\num tempinho divertido<n>de brincadeiras?"
         },
         {
             "name": "Super Creek",
-            "text": "What a nice trainer you are! Oh,<n>yes-you-are!",
+            "text": "Que treinador gentil você é! Sim, você<n>é!",
             "choice_data_list": [
-                "Um, I...",
-                "Um, I..."
+                "Hã, Eu...",
+                "Hã, Eu..."
             ]
         },
         {
             "name": "Super Creek",
-            "text": "Oh, that Taishin can be just a<n>little—and I do mean\njust a <i>tiny<n>bit</i>—difficult to handle, but that's what\nmakes her so charming!",
+            "text": "Ah, a Taishin pode ser só um<n>pouquinho — e quero\ndizer só um<n><i>tiquinho</i> — difícil de lidar, mas é isso<n>que\na torna tão encantadora!",
             "choice_data_list": [
-                "You're right, but that's not what I wanted to talk\nabo—"
+                "Você tem razão, mas não era sobre isso que eu\nqueria falar..."
             ]
         },
         {
             "name": "Super Creek",
-            "text": "Ah! Where are my manners? You<n>wait right here,\nand I'll go make us<n>some tea."
+            "text": "Ah! Onde estão meus modos? Espere<n>aqui mesmo,\nvou preparar um chá<n>para nós."
         },
         {
             "name": "Super Creek",
-            "text": "I hardly ever get the chance to talk to<n>someone else\nabout little Taishin after<n>all.",
+            "text": "Afinal, raramente tenho a<n>oportunidade de\nconversar com<n>alguém sobre a nossa pequena\nTaishin.",
             "choice_data_list": [
-                "You really don't have to—",
-                "You really don't have to—"
+                "Você realmente não precisa...",
+                "Você realmente não precisa..."
             ]
         },
         {
             "name": "Super Creek",
-            "text": "No need to be polite! You just sit back<n>and relax."
+            "text": "Não precisa ser tão educado! Fique à<n>vontade e\nrelaxe."
         },
         {
             "name": "Super Creek",
-            "text": "There, there! You're such a nice<n>trainer! ♪"
+            "text": "Ora, ora! Você é um treinador tão<n>gentil! ♪"
         },
         {
             "name": "Monólogo",
-            "text": "Now that I think about it, I didn't learn<n>anything at all\nfrom Super Creek!"
+            "text": "Agora que penso nisso, não aprendi<n>absolutamente\nnada com a Super<n>Creek!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Why are you sweating bullets out of<n>nowhere?"
+            "text": "Por que tá suando tanto de repente?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Whatever. Let's just start."
+            "text": "Tanto faz. Vamos começar logo."
         },
         {
             "name": "Monólogo",
-            "text": "<i>Swish! Slash, slash! Pow!</i>"
+            "text": "<i>Vush! Tchá, tchá! Pow!</i>"
         },
         {
             "name": "Narita Taishin",
@@ -331,7 +331,7 @@
         },
         {
             "name": "Monólogo",
-            "text": "Narita Taishin is on fire, and I can't<n>think of any\ncountermeasures to<n>stave her off. I'm fighting for\nmy life!"
+            "text": "Narita Taishin está arrasando, e não<n>consigo pensar\nem nenhuma maneira<n>de contra-atacar. Estou\nlutando pela<n>minha vida!"
         },
         {
             "name": "Narita Taishin",
@@ -339,75 +339,75 @@
         },
         {
             "name": "Monólogo",
-            "text": "Just when I think I'm doomed to lose,<n>the screen\ndisplays a message."
+            "text": "Quando penso que estou prestes a<n>perder, uma\nmensagem aparece na<n>tela."
         },
         {
             "name": "Narita Taishin",
-            "text": "Dang it. Time's up."
+            "text": "Droga. O tempo acabou."
         },
         {
             "name": "Monólogo",
-            "text": "Time runs out, and we end in a draw.",
+            "text": "O tempo se esgota, e a partida<n>termina empatada.",
             "choice_data_list": [
-                "Why didn't you finish me?"
+                "Por que não me derrotou?"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Usually, she's all about going on the<n>offensive, but\nthis time, she mostly<n>observed and hardly attacked."
+            "text": "Normalmente, ela só pensa em partir<n>para o ataque,\nmas, desta vez,<n>passou a maior parte do tempo\nobservando e quase não atacou."
         },
         {
             "name": "Narita Taishin",
-            "text": "I just wanted to see what you were<n>up to.",
+            "text": "Só queria ver o que você tava<n>aprontando.",
             "choice_data_list": [
-                "What do you mean?"
+                "Como assim?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "You seemed so sure of yourself, so I<n>wanted to see\nwhat kind of strategy<n>you had up your sleeves."
+            "text": "Você parecia tão confiante, então<n>queria ver que\ntipo de estratégia<n>estava preparando."
         },
         {
             "name": "Monólogo",
-            "text": "The fact that she purposefully held<n>back to give me\na chance to win<n>really touches me. Without\nrealizing, I<n>suddenly blurt out...",
+            "text": "O fato de ela ter segurado as forças<n>de propósito\npara me dar uma chance<n>de vencer me comove\nmuito. Sem<n>perceber, acabo soltando...",
             "choice_data_list": [
-                "You're such a nice kid.",
-                "You're such a nice kid."
+                "Você é uma garotinha tão gentil.",
+                "Você é uma garotinha tão gentil."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Excuse you?!"
+            "text": "<i>Como é que é?!</i>"
         },
         {
             "name": "Narita Taishin",
-            "text": "Nice? <i>Kid?</i> Are you joking?",
+            "text": "Boa? <i>Garotinha?</i> Tá de brincadeira<n>comigo?",
             "choice_data_list": [
-                "(Oh no, Super Creek's way of talking rubbed off on\nme!)"
+                "(Ah, não! Acabei pegando o jeito de falar da Super\nCreek!)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I brace myself for the barrage of<n>angry insults\nheaded my way... but<n>they never come."
+            "text": "Me preparo para uma enxurrada de<n>insultos\nfuriosos... mas eles nunca<n>vêm."
         },
         {
             "name": "Narita Taishin",
-            "text": "Don't treat me like a child. Sheesh.",
+            "text": "Não me trate como criança. Caramba.",
             "choice_data_list": [
                 "(Huh?)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Her words are harsh, but she<n>doesn't seem angry.\nNormally, she<n>hates being treated like a kid..."
+            "text": "As palavras dela são duras, mas ela<n>não parece\nirritada. Normalmente, ela<n>odeia ser tratada como\ncriança..."
         },
         {
             "name": "Narita Taishin",
-            "text": "Look, if you didn't get to do your<n>strategy, we can\nplay again."
+            "text": "Olha, se você não conseguiu colocar<n>sua estratégia\nem prática, podemos<n>jogar de novo."
         },
         {
             "name": "Monólogo",
-            "text": "For some reason, she's a lot nicer<n>than normal."
+            "text": "Por algum motivo, ela está sendo<n>muito mais gentil\ndo que de costume."
         }
     ]
 }

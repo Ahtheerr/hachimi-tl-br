@@ -2,63 +2,63 @@
     "text_block_list": [
         {
             "name": "",
-            "text": "After a day out..."
+            "text": "Depois de passarmos o dia fora..."
         },
         {
             "name": "Narita Taishin",
-            "text": "I'm gonna head back now.",
+            "text": "Vou voltar para casa agora.",
             "choice_data_list": [
-                "Already?!"
+                "Já?!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "What? There something you wanted<n>to do?"
+            "text": "O quê? Queria fazer alguma coisa?"
         },
         {
             "name": "Monólogo",
-            "text": "That's not it, but I'm taken aback by<n>her coldness\ntoward me despite<n>having spent the whole day\ntogether.",
+            "text": "Não é isso, mas fiquei surpreso com<n>a frieza dela\ncomigo, apesar de<n>termos passado o dia inteiro\njuntos.",
             "choice_data_list": [
-                "Did you not have a good time today?"
+                "Você não se divertiu hoje?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "What do you mean? It was fine.",
+            "text": "O que quer dizer? Foi ok.",
             "choice_data_list": [
-                "I wanted you to have fun..."
-            ]
-        },
-        {
-            "name": "",
-            "text": "Ugh, ease off already. That's for me<n>to decide."
-        },
-        {
-            "name": "",
-            "text": "Whether or not I have fun is none of<n>your business."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "We done? I wanna go home already."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "A new weapon comes out today. I<n>gotta check it out\nASAP."
-        },
-        {
-            "name": "",
-            "text": "It's true that I can't force her to have<n>fun, but I\nreally want her to feel glad<n>that she came out today.",
-            "choice_data_list": [
-                "Then I'll just bring the fun to you!",
-                "Then I'll just bring the fun to you!"
+                "Eu queria que você se divertisse..."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Huh? I have absolutely no idea what<n>you're talking\nabout.",
+            "text": "Ugh, já chega. Quem decide isso sou<n>eu."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Se eu me divirto ou não não é da sua<n>conta."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Acabamos? Já quero ir para casa."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hoje lança uma arma nova. Preciso<n>conferir o\nquanto antes."
+        },
+        {
+            "name": "Monólogo",
+            "text": "É verdade que não posso obrigá-la a<n>se divertir,\nmas quero muito que ela<n>fique feliz por ter saído\nhoje.",
             "choice_data_list": [
-                "I want to see you smile.",
-                "I want to see you smile."
+                "Então vou trazer a diversão até você!",
+                "Então vou trazer a diversão até você!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Hã? Não faço a menor ideia do que<n>você está\nfalando.",
+            "choice_data_list": [
+                "Quero ver você sorrir.",
+                "Quero ver você sorrir."
             ]
         },
         {
@@ -66,169 +66,169 @@
             "text": "...Tch."
         },
         {
-            "name": "",
-            "text": "You're an idiot."
+            "name": "Narita Taishin",
+            "text": "Você é um idiota."
         },
         {
             "name": "Monólogo",
-            "text": "I expect her to leave after insulting<n>me, but she\ndoesn't. It seems like<n>she's waiting for my next\nmove."
+            "text": "Espero que ela vá embora depois de<n>me insultar,\nmas ela não vai. Parece<n>estar esperando para ver o\nque farei<n>em seguida."
         },
         {
             "name": "Monólogo",
-            "text": "Since she likes gaming, maybe I<n>should suggest\nsome kind of game<n>we can play. That would surely\nkeep<n>her entertained!",
+            "text": "Já que ela gosta de jogos, talvez eu<n>devesse\nsugerir algum que<n>possamos jogar. Com certeza\nisso<n>vai entretê-la!",
             "choice_data_list": [
-                "Let's play the rhyme game!",
-                "Let's play tag!"
+                "Vamos brincar de rima!",
+                "Vamos jogar pique-pega!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "What am I, a child? No way."
+            "text": "Eu tenho cara de criança por acaso?<n>Nem pensar."
         },
         {
             "name": "Narita Taishin",
-            "text": "Why did I even stay? I should've<n>just left..."
+            "text": "Por que eu fiquei aqui, afinal? Era só<n>ter ido\nembora..."
         },
         {
             "name": "Monólogo",
-            "text": "Well, that was a total flop. She looks<n>beyond\nunimpressed, but I can't let<n>this chance slip away!"
+            "text": "Bem, isso foi um fracasso total. Ela<n>parece\ncompletamente<n>desinteressada, mas não posso\ndeixar essa oportunidade escapar!"
         },
         {
             "name": "Narita Taishin",
             "text": "...",
             "choice_data_list": [
-                "Rhyme!"
+                "Monho!"
             ]
         },
         {
             "name": "",
             "text": "...",
             "choice_data_list": [
-                "Time!"
+                "Tristonho!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Are you seriously playing by<n>yourself? Do you\nhave any shame at<n>all?",
+            "text": "Você está mesmo brincando sozinho?<n>Não tem\nvergonha na cara?",
             "choice_data_list": [
-                "Shame, shame... Fame!"
+                "Proponho, suponho um... Gatimonho !"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "<i>Siiigh...</i>"
+            "text": "<i>Suspiiiiiiro...</i>"
         },
         {
             "name": "Monólogo",
-            "text": "I struggle to keep the game going by<n>myself while\nshe pointedly ignores<n>me.",
+            "text": "Tento manter o jogo funcionando<n>sozinho enquanto\nela me ignora<n>descaradamente.",
             "choice_data_list": [
-                "Mustard!"
+                "Bisonho!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Seriously, will you knock it off<n>already?"
+            "text": "Sério, dá pra parar com isso de uma<n>vez?"
         },
         {
-            "name": "",
-            "text": "Welcome! We've got some freshly<n>baked pastries\nand desserts of all<n>kinds! Come and take a look! ♪"
-        },
-        {
-            "name": "",
-            "text": "Oh, they even have custard..."
+            "name": "Padeiro",
+            "text": "Sejam bem-vindos! Temos doces e<n>sobremesas\nde todos os tipos,<n>acabados de sair do forno!\nVenham<n>dar uma olhada! ♪"
         },
         {
             "name": "Narita Taishin",
-            "text": "Ack! N-no, I didn't mean to say that!",
+            "text": "Ah, eles têm até sonho..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ah! N-não, não foi isso que eu quis<n>dizer!",
             "choice_data_list": [
                 "Huh?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "I wasn't playing your stupid game! I<n>was just\nlooking at the custard<n>pastry!",
+            "text": "Eu não estava brincando desse jogo<n>idiota! Só\nestava olhando o sonho da<n>padaria!",
             "choice_data_list": [
-                "Ohhh! I said \"mustard\" and you followed up with\n\"custard\"!"
-            ]
-        },
-        {
-            "name": "",
-            "text": "Wait, are you telling me you didn't<n>even notice?"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Arrgh! Me and my big mouth!",
-            "choice_data_list": [
-                "So you <i>do</i> want to play!",
-                "So you <i>do</i> want to play!"
+                "Ahhh! Eu disse \"Bisnho\" e você respondeu com\n\"sonho\"!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "I <i>don't,</i> and I wasn't playing with<n>you! Ugh, wipe\nthat dumb smile off<n>your face!"
-        },
-        {
-            "name": "",
-            "text": "Seriously?"
+            "text": "Espera, quer dizer que você nem<n>percebeu?"
         },
         {
             "name": "Narita Taishin",
-            "text": "You really think you're a match for<n>me?",
+            "text": "Arrgh! Minha boca grande!",
             "choice_data_list": [
-                "I might be able to catch you if I try really hard?",
-                "I might be able to catch you if I try really hard?"
+                "Então você <i>quer</i> brincar!",
+                "Então você <i>quer</i> brincar!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Why would you suggest a battle you<n>can't win?\nYou could've said literally<n>any other game.",
+            "text": "Eu <i>não quero,</i> e não estava brincando<n>com você!\nUgh, tira esse sorriso idiota<n>da cara!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Sério?"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Você realmente acha que consegue<n>competir\ncomigo?",
             "choice_data_list": [
-                "I wanted to play something you would enjoy."
+                "Talvez eu consiga alcançar você se me esforçar\nbastante?",
+                "Talvez eu consiga alcançar você se me esforçar\nbastante?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "You make it sound like I'm some<n>hyperactive kid..."
+            "text": "Por que sugerir uma competição que<n>você\nliteralmente não pode vencer?<n>Podia ter escolhido\nliteralmente<n>qualquer outro jogo.",
+            "choice_data_list": [
+                "Eu queria jogar de algo de que você gostasse."
+            ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Whatever. You asked for it."
+            "text": "Tá falando como se eu fosse uma<n>criança\nhiperativa..."
         },
         {
             "name": "Narita Taishin",
-            "text": "Well, see ya."
+            "text": "Tanto faz. Você pediu."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Bom, valeu aí."
         },
         {
             "name": "Monólogo",
-            "text": "Whoa! I have to catch up!"
+            "text": "Whoa! Preciso alcançá-la!"
         },
         {
             "name": "",
-            "text": "Unfortunately for me, Umamusume<n>are fast even\nwhen they're not<n>trying. No matter how hard I run,\nthere's no way I can catch her..."
+            "text": "Infelizmente pra mim, as Umamusume<n>são rápidas\naté quando não estão se<n>esforçando. Por mais que\neu corra,<n>não tenho a menor chance de<n>alcançá-la..."
         },
         {
             "name": "Narita Taishin",
-            "text": "...Still no sign of my dumb trainer."
+            "text": "...Meu treinador idiota ainda não<n>apareceu."
         },
         {
             "name": "Narita Taishin",
-            "text": "Psh... There's no way a regular<n>person could stand\na chance against<n>me. How'd I get stuck with the\nworld's stupidest trainer?"
+            "text": "Pfft... Como um humano normal teria<n>alguma\nchance contra mim? Como fui<n>acabar com o\ntreinador mais idiota do<n>mundo?"
         },
         {
             "name": "Narita Taishin",
-            "text": "And what was that whole thing about<n>wanting to\nsee me smile? What a<n>weirdo."
+            "text": "E o que foi aquilo de querer me ver<n>sorrir? Que\nesquisitão."
         },
         {
             "name": "Narita Taishin",
             "text": "..."
         },
         {
-            "name": "",
-            "text": "I probably should have waited instead<n>of sprinting\noff so fast..."
+            "name": "Narita Taishin",
+            "text": "Acho que deveria ter esperado em<n>vez de sair\ncorrendo daquele jeito..."
         },
         {
-            "name": "",
-            "text": "What am I even saying? This is<n>ridiculous."
+            "name": "Narita Taishin",
+            "text": "O que eu tô falando? Isso é ridículo."
         }
     ]
 }

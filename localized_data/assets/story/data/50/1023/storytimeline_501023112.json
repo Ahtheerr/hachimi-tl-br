@@ -2,172 +2,172 @@
     "text_block_list": [
         {
             "name": "",
-            "text": "I'm gathering some data with Biwa<n>Hayahide in\npreparation for our next<n>race when a muscle in my\narm<n>twinges painfully."
+            "text": "Estou levantando alguns dados com<n>a Biwa\nHayahide em preparação para<n>a nossa próxima\ncorrida quando sinto<n>uma fisgada dolorosa no\nbraço."
         },
         {
             "name": "",
-            "text": "<i>Crick.</i>",
+            "text": "<i>Estalo.</i>",
             "choice_data_list": [
-                "Ouch!"
+                "Ai!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Trainer?!"
+            "text": "O que houve?!"
         },
         {
             "name": "",
-            "text": "Biwa Hayahide looks worried as she<n>watches me\nhold my injured arm."
+            "text": "A Biwa Hayahide me olha<n>preocupada enquanto\nseguro o braço<n>machucado."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "How much pain are you in? Where<n>does it hurt? Is\nthere any swelling?",
+            "text": "Qual é a intensidade da dor? Onde dói<n>exatamente?\nEstá inchado?",
             "choice_data_list": [
-                "I-I'm fine..."
+                "E-eu tô bem..."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "No, you're not! What if it's something<n>serious? We\nneed to get that looked<n>at right away!"
+            "text": "Não está, não! E se for algo grave?<n>Precisamos\nexaminar isso<n>imediatamente!"
         },
         {
             "name": "",
-            "text": "She drags me to the infirmary..."
+            "text": "Ela me arrasta até a enfermaria..."
         },
         {
-            "name": "Infirmary Doctor",
-            "text": "It's tendinitis."
+            "name": "Médica da Enfermaria",
+            "text": "É tendinite."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "What?"
+            "text": "O quê?"
         },
         {
-            "name": "Infirmary Doctor",
-            "text": "You're going to have to give your arm<n>and hand\nsome rest. If it worsens,<n>you might even require\nsurgery.",
+            "name": "Médica da Enfermaria",
+            "text": "Você vai ter que descansar o braço e<n>a mão. Se o\nquadro piorar, pode até<n>precisar de cirurgia.",
             "choice_data_list": [
-                "I feel so bad about this..."
+                "Que situação chata..."
             ]
         },
         {
-            "name": "Infirmary Doctor",
-            "text": "Icing the area won't be enough.<n>You'll have to stop\nusing your arm for<n>a bit. The good news is there's\nno<n>swelling, so it's not too serious."
+            "name": "Médica da Enfermaria",
+            "text": "Só colocar gelo não vai resolver. Você<n>vai ter que\npoupar esse braço por um<n>tempo. A boa notícia é\nque não há<n>inchaço, então não é nada muito<n>grave."
         },
         {
-            "name": "Infirmary Doctor",
-            "text": "If the pain is still unbearable after<n>you've rested it\nfor a while, come<n>back so I can look at it again,\nokay?"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "<i>Sigh...</i>"
-        },
-        {
-            "name": "Infirmary Doctor",
-            "text": "Hehe, bit of a worrywart? I get the<n>feeling you\nalready knew the injury<n>wasn't that bad from the\nstart."
-        },
-        {
-            "name": "Infirmary Doctor",
-            "text": "But the fact that you insisted on<n>coming here\nproves just how much<n>you care about your trainer."
+            "name": "Médica da Enfermaria",
+            "text": "Se a dor continuar insuportável<n>mesmo depois de\num período de<n>repouso, volte aqui para eu dar outra\nolhada, combinado?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I-I, uh..."
+            "text": "<i>Suspiro...</i>"
+        },
+        {
+            "name": "Médica da Enfermaria",
+            "text": "Hehe, preocupada demais, hein?<n>Tenho a\nimpressão de que você já<n>sabia desde o começo\nque a lesão<n>não era tão grave assim."
+        },
+        {
+            "name": "Médica da Enfermaria",
+            "text": "Mas o fato de você ter insistido em<n>vir até aqui\nprova o quanto se importa<n>com quem te treina."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "E-eu, ahn..."
         },
         {
             "name": "Biwa Hayahide",
             "text": "...",
             "choice_data_list": [
-                "I really appreciate your concern."
+                "Agradeço de verdade pela preocupação."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "If you're feeling better in two or three<n>days, let's\ngo to a hot spring.",
+            "text": "Se você estiver se sentindo melhor<n>daqui a dois ou\ntrês dias, vamos a<n>uma fonte termal.",
             "choice_data_list": [
-                "That's sudden... Why?"
+                "Assim do nada... Por quê?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Because the least I can do is take<n>care of you, and\nyou need plenty of<n>rest. You'd better not worry\nabout my<n>training for at least a week."
+            "text": "Porque o mínimo que posso fazer é<n>cuidar de você,\ne você precisa de<n>muito repouso. Trate de esquecer\no<n>meu treino por pelo menos uma<n>semana."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "You should apply for some time off<n>and take a\nbreak. If something needs<n>to be handled right away,\nwe can ask<n>Tazuna to help."
+            "text": "Você deveria pedir uns dias de folga<n>para\ndescansar. Se surgir algo<n>urgente para resolver,\npodemos pedir<n>ajuda à Tazuna."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I want you to contact me right away if<n>your\nsymptoms worsen or if you<n>develop a fever. And\non the day we<n>go to the hot spring—",
+            "text": "Quero que entre em contato comigo<n>imediatamente\nse os sintomas<n>piorarem ou se tiver febre. E, no dia\nem que formos para as águas<n>termais...",
             "choice_data_list": [
-                "Wait, I never said—"
+                "Espera, eu nem disse que..."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Excuse me? Do you really think<n>you're in any\nposition to object?"
+            "text": "Como é que é? Você acha mesmo<n>que está em\nposição de recusar?"
         },
         {
             "name": "",
-            "text": "That look in her eyes... She's not<n>messing around!"
+            "text": "Esse olhar dela... Ela não está para<n>brincadeira!"
         },
         {
             "name": "",
-            "text": "The day of our hot spring getaway<n>arrives."
+            "text": "Chega o dia da nossa viagem para a<n>fonte termal."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "According to my research, the water<n>here is highly\nrecommended for<n>soothing medical ailments. It\nshould<n>be well-suited to heal your injury.",
+            "text": "De acordo com a minha pesquisa, as<n>águas daqui\nsão altamente<n>recomendadas para fins\nterapêuticos.<n>Devem ser ideais para tratar a sua\nlesão.",
             "choice_data_list": [
-                "Sounds expensive..."
+                "Parece caro..."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Don't worry. This just so happens to<n>be the same\nplace I won a free trip to<n>a while back. Therefore,\nwe can<n>enjoy this vacation free of charge."
+            "text": "Não se preocupe. Por coincidência,<n>este é\njustamente o lugar para onde<n>ganhei uma viagem\ngratuita há um<n>tempo. Portanto, podemos aproveitar\na estadia sem custo algum."
         },
         {
             "name": "",
-            "text": "Come to think of it, I do remember her<n>getting a\nvoucher for a hot spring<n>vacation some time ago..."
+            "text": "Pensando bem, eu lembro mesmo de<n>ela ter\nganhado um cupom de viagem<n>para águas termais\nna rifa um tempo<n>atrás..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Let's not waste any time and go in."
+            "text": "Não vamos perder tempo, vamos<n>entrar."
         },
         {
             "name": "",
-            "text": "Soaking in the hot spring..."
+            "text": "Relaxando nas águas termais..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Phew... That was great. Did you<n>enjoy your bath\ntoo?",
+            "text": "Ufa... Foi maravilhoso. Você também<n>aproveitou o\nbanho?",
             "choice_data_list": [
-                "Absolutely. All my muscle tension's gone."
+                "Com certeza. Toda a tensão muscular sumiu."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Good. That soak must've improved<n>your blood\ncirculation."
+            "text": "Ótimo. A imersão na água quente<n>deve ter\nmelhorado a sua circulação<n>sanguínea."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Next is dinner. I went ahead and<n>ordered a hot pot\nfor us. It's loaded<n>with vitamins B1 and B2,\nbeta-carotene, allicin—",
+            "text": "O próximo passo é o jantar. Já me<n>adiantei e pedi\num cozido para nós. É<n>riquíssimo em vitaminas B1\ne B2,<n>betacaroteno, alicina...",
             "choice_data_list": [
-                "Wait, wait, wait."
+                "Calma, calma, calma."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hm? Oh, I should've asked if there<n>were any foods\nyou don't like. I did<n>make sure to avoid the allergies\nyou<n>told me about, but...",
+            "text": "Hã? Ah, eu deveria ter perguntado se<n>há algum\ningrediente de que você não<n>gosta. Fiz questão de\nevitar as<n>alergias que você havia mencionado<n>antes,\nmas...",
             "choice_data_list": [
-                "No, it's not that. I just want you to slow down a\nlittle."
+                "Não, não é isso. Só quero que você desacelere um\npouco."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "...Slow down?",
+            "text": "...Desacelerar?",
             "choice_data_list": [
-                "I want you to enjoy yourself, since we're here.",
-                "I want you to enjoy yourself, since we're here."
+                "Quero que você aproveite o passeio também, já\nque estamos aqui.",
+                "Quero que você aproveite o passeio também, já\nque estamos aqui."
             ]
         },
         {
@@ -176,48 +176,48 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "You're constantly worrying about me<n>and putting\nmy needs ahead of yours."
+            "text": "Você vive se preocupando comigo e<n>colocando as\nminhas necessidades<n>acima das suas."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "So why don't you just let me worry<n>about <i>you</i> for\nonce?",
+            "text": "Então por que não me deixa cuidar de<n><i>você</i> pelo\nmenos uma vez?",
             "choice_data_list": [
-                "I know you're concerned, but you need to take it\neasy too."
+                "Eu sei que você se preocupa, mas você também\nprecisa relaxar."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hmph...",
+            "text": "Humpf...",
             "choice_data_list": [
-                "Come on, let's get some drinks to hydrate\nourselves."
+                "Vem, vamos pegar algo para beber e nos hidratar."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "...Okay. Good idea."
+            "text": "...Está bem. Boa ideia."
         },
         {
             "name": "Biwa Hayahide",
             "text": "Ahh...",
             "choice_data_list": [
-                "Do you feel a little more relaxed now?"
+                "Está se sentindo um pouco mais relaxada agora?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I've been feeling relaxed from the<n>beginning, since\nyou're by my side."
+            "text": "Eu já estava relaxada desde o<n>começo, afinal,\nestou ao seu lado."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Let's have them bring us our dinner<n>now. It'll be\nnice to sit back and<n>enjoy a meal."
+            "text": "Vamos pedir para trazerem o nosso<n>jantar agora.\nVai ser bom sentar com<n>calma e aproveitar a\nrefeição."
         },
         {
             "name": "",
-            "text": "After our meal is brought to us, we<n>enjoy a\ndelicious and nutritious<n>dinner together."
+            "text": "Assim que a comida é servida,<n>saboreamos um\njantar delicioso e<n>nutritivo juntos."
         },
         {
             "name": "",
-            "text": "I sense that Biwa Hayahide and I<n>have formed an\nirreplaceable bond<n>during this time together."
+            "text": "Sinto que eu e a Biwa Hayahide<n>formamos um laço\ninsubstituível<n>durante esse tempo juntos."
         }
     ]
 }

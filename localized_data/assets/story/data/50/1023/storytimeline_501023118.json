@@ -2,46 +2,46 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Less than one month remains until<n>the Arima Kinen.\nThere's just one<n>problem..."
+            "text": "Falta menos de um mês para o Arima<n>Kinen. Só tem\num problema..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "<i>Pant... pant...</i>"
+            "text": "<i>Arf... arf...</i>"
         },
         {
             "name": "Monólogo",
-            "text": "Biwa Hayahide's running is stiff.<n>Everything about\nher just seems<n>rigid. Now that the showdown is\nalmost here, it seems she's feeling<n>the pressure.",
+            "text": "A corrida da Biwa Hayahide está<n>travada. O corpo\ninteiro dela parece<n>tenso. Agora que o grande\nconfronto<n>está batendo à porta, parece que a\npressão finalmente pesou.",
             "choice_data_list": [
-                "Let's take a couple deep breaths to relax."
+                "Vamos respirar fundo algumas vezes para relaxar."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Okay."
+            "text": "Certo."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Breathe in. Breathe out.",
+            "text": "Inspira. Expira.",
             "choice_data_list": [
-                "(Her breathing is still shallow...)",
-                "(Her breathing is still shallow...)"
+                "(A respiração dela ainda tá curta...)",
+                "(A respiração dela ainda tá curta...)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "We're almost out of track time, and<n>the other\nUmamusume are starting to<n>wrap things up. I need\nto figure<n>something out fast..."
+            "text": "Nosso horário de pista já está quase<n>acabando, e\nas outras Umamusume<n>começam a encerrar o\ntreino. Preciso<n>pensar em alguma coisa rápido..."
         },
         {
             "name": "Winning Ticket",
-            "text": "BREATHE IIIN!"
+            "text": "PUXA O AAAR!"
         },
         {
             "name": "Winning Ticket",
-            "text": "And BREATHE OOOUT!"
+            "text": "E SOLTA O AAAR!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Come on, Hayahide! Do it with me!<n>IIIN!"
+            "text": "Vem, Hayahide! Faz comigo! PUXAAA!"
         },
         {
             "name": "Monólogo",
@@ -49,11 +49,11 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Huh?"
+            "text": "Hã?"
         },
         {
             "name": "Narita Taishin",
-            "text": "<i>Sigh...</i> There's a fine line between<n>being helpful and\nobnoxious, dummy."
+            "text": "<i>Suspiro...</i> Existe uma linha tênue entre<n>ajudar e\nencher o saco, sua tonta."
         },
         {
             "name": "Winning Ticket",
@@ -61,58 +61,58 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Lift your head up, Hayahide.<n>Slouching like that\nmakes it look<n>bigger than usual."
+            "text": "Levanta essa cabeça, Hayahide.<n>Ficar corcunda\ndesse jeito faz ela<n>parecer ainda maior que o\nnormal."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "What?! My head's perfectly—"
+            "text": "O quê?! Minha cabeça tem um<n>tamanho\nperfeitamente..."
         },
         {
             "name": "Narita Taishin",
-            "text": "There, your back just straightened<n>out. That should\nmake it easier for<n>you to breathe."
+            "text": "Pronto, endireitou a coluna. Assim<n>deve ficar mais\nfácil de respirar."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Oh...",
+            "text": "Ah...",
             "choice_data_list": [
-                "Thanks!"
+                "Valeu!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Whatever. I didn't come here for<n>thanks. I only said\nit because she's<n>hogging the track, and\neveryone's<n>waiting."
+            "text": "Tanto faz. Não vim aqui atrás de<n>agradecimento. Só\nfalei porque ela tá<n>empatando a pista e tá todo\nmundo<n>esperando."
         },
         {
             "name": "Narita Taishin",
-            "text": "Your time slot's almost over, and you<n>two are just\nstanding around like you<n>own the place."
+            "text": "O horário de vocês já tá quase<n>acabando, e vocês\nficam aí<n>moscando como se fossem donos da<n>pista."
         },
         {
             "name": "Winning Ticket",
-            "text": "Oh, come on, Taishin! You're the one<n>who was all,\n\"Oh no, let's go see<n>what's wrong with Hayahide!\""
+            "text": "Ah, qual é, Taishin! Foi você mesma<n>que falou: \"Ai,\nnão, vamos lá ver o<n>que deu na Hayahide!\""
         },
         {
             "name": "Narita Taishin",
-            "text": "Shut up. I never said that...",
+            "text": "Cala a boca. Eu nunca falei isso...",
             "choice_data_list": [
-                "You're lucky to have such good friends.",
-                "You're lucky to have such good friends."
+                "Você tem sorte de ter amigas tão boas.",
+                "Você tem sorte de ter amigas tão boas."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I really am. They're almost too good<n>for me."
+            "text": "Tenho mesmo. Elas são boas até<n>demais para mim."
         },
         {
             "name": "Winning Ticket",
-            "text": "Hey, why don't we all go for one<n>more lap and end\ntoday's training<n>with a bang?!"
+            "text": "Ei, por que a gente não dá mais uma<n>volta na pista\njuntas pra fechar o<n>treino de hoje com chave de\nouro?!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Seriously?"
+            "text": "Sério isso?"
         },
         {
             "name": "Winning Ticket",
-            "text": "Come on you guys! Let's gooo!"
+            "text": "Bora, gente! Vamos lááá!"
         },
         {
             "name": "Winning Ticket",
@@ -120,35 +120,35 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "I wonder if she noticed the Derby's<n>over already..."
+            "text": "Será que ela já se tocou de que o<n>Derby já\npassou...?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It wouldn't be Ticket if she didn't<n>shout random\nthings all the time.<n>Besides, her energy always\ncheers<n>me up."
+            "text": "Não seria a Ticket se ela não saísse<n>gritando coisas\naleatórias o tempo<n>todo. Além do mais, a energia\ndela<n>sempre me anima."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I'm so grateful to have met you two."
+            "text": "Sou tão grata por ter conhecido vocês<n>duas."
         },
         {
             "name": "Narita Taishin",
-            "text": "Yeah, okay, that's very sweet and<n>everything.\nAnyway..."
+            "text": "É, tá bom, muito fofo e tal. Enfim..."
         },
         {
             "name": "Narita Taishin",
-            "text": "You gonna run or what?"
+            "text": "Vai correr ou não vai?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hehe, count me in!"
+            "text": "Hehe, tô dentro!"
         },
         {
             "name": "Monólogo",
-            "text": "Forgetting all about their agreement to<n>run just one\nlap, the three friends<n>keep going until time runs out."
+            "text": "Esquecendo completamente o<n>combinado de dar só\numa volta, as<n>três amigas continuam correndo até o\ntempo acabar."
         },
         {
             "name": "Monólogo",
-            "text": "All the tension seems to melt from<n>Biwa\nHayahide's shoulders, and her<n>form looks great\nonce more."
+            "text": "Toda a tensão parece derreter dos<n>ombros da Biwa\nHayahide, e a<n>postura dela volta a ficar impecável."
         },
         {
             "name": "Winning Ticket",
@@ -156,7 +156,7 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Oh, please... We're using names as a<n>running chant\nnow?"
+            "text": "Ah, me poupe... Agora a gente vai<n>ficar gritando\nnome pra marcar<n>passo?"
         },
         {
             "name": "Biwa Hayahide",
@@ -168,35 +168,35 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Seriously?!"
+            "text": "Fala sério?!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hehe! Hey, it's not bad! Besides, the<n>act of\nvocalizing has a demonstrable<n>effect on gross\nmotor movements."
+            "text": "Hehe! Ei, até que não é má ideia!<n>Além do mais, o\nato de vocalizar tem<n>um efeito comprovado na\ncoordenação motora grossa."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "But more than that, shouting your<n>names really\nmotivates me."
+            "text": "Mas, acima de tudo, gritar o nome de<n>vocês\nrealmente me motiva."
         },
         {
             "name": "Narita Taishin",
-            "text": "Don't tell me you're losing your mind<n>too..."
+            "text": "Não me diz que você também perdeu<n>o parafuso..."
         },
         {
             "name": "Narita Taishin",
-            "text": "So? Are we gonna catch up to the<n>wild child or\nwhat?"
+            "text": "E aí? Vamos alcançar aquela<n>escandalosa ou não?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Let's do it!"
+            "text": "Vamos nessa!"
         },
         {
             "name": "Monólogo",
-            "text": "Biwa Hayahide, Winning Ticket, and<n>Narita Taishin\nkeep racing around the<n>track without a care in the\nworld."
+            "text": "Biwa Hayahide, Winning Ticket e<n>Narita Taishin\ncontinuam correndo<n>pela pista sem nenhuma\npreocupação<n>no mundo."
         },
         {
             "name": "Monólogo",
-            "text": "It seems her friends' shouts of<n>encouragement\nhave a positive effect<n>on Hayahide, who can't stop\ngrinning."
+            "text": "Os gritos de incentivo das amigas<n>parecem surtir\num ótimo efeito na<n>Hayahide, que não consegue\nparar<n>de sorrir."
         },
         {
             "name": "Biwa Hayahide",
@@ -204,43 +204,43 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Wha?!"
+            "text": "Quê?!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Did I do that right? I could've sworn<n>that was the\nright time to yell..."
+            "text": "Eu fiz certo? Podia jurar que essa<n>era a hora certa\nde dar um grito..."
         },
         {
             "name": "Narita Taishin",
-            "text": "Pfft! Hahaha! Nah, that was perfect.<n>Come on, let's\nrun."
+            "text": "Pfft! Hahaha! Que nada, foi perfeito.<n>Anda, bora\ncorrer."
         },
         {
             "name": "Narita Taishin",
-            "text": "See ya!"
+            "text": "Fui!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Hey! No fair, Taishiiin!"
+            "text": "Ei! Assim não vale, Taishiiin!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Mind if I go too, Trainer?",
+            "text": "Se importa se eu for também?",
             "choice_data_list": [
-                "Go for it! Get that W!",
-                "Go for it! Get that W!"
+                "Vai com tudo! Garante essa vitória!",
+                "Vai com tudo! Garante essa vitória!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Roger!"
+            "text": "Entendido!"
         },
         {
             "name": "Monólogo",
-            "text": "Biwa Hayahide chases after Winning<n>Ticket and\nNarita Taishin."
+            "text": "A Biwa Hayahide sai em disparada<n>atrás da\nWinning Ticket e da Narita<n>Taishin."
         },
         {
             "name": "Monólogo",
-            "text": "She ends up crossing the finish line<n>first despite\ntheir head start."
+            "text": "E acaba cruzando a linha de chegada<n>em primeiro\nlugar, mesmo com a<n>vantagem inicial delas."
         }
     ]
 }

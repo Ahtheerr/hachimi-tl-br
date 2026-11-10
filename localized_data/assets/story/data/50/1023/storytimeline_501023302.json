@@ -2,195 +2,195 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "It's the evening, and Biwa Hayahide<n>and I have\njust finished buying some<n>training supplies. We're\non our way<n>home, when..."
+            "text": "Já é fim de tarde, e eu e a Biwa<n>Hayahide\nacabamos de comprar<n>alguns materiais de treino.\nEstamos a<n>caminho de casa quando..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hm? It looks like something's going<n>on over there..."
+            "text": "Hã? Parece que está acontecendo<n>alguma coisa\nali..."
         },
         {
-            "name": "Raffle Clerk",
-            "text": "Step right up and try your luck with<n>our New Year's\nraffle! This year's<n>grand prize is a hot spring\nvacation<n>for two!",
+            "name": "Atendente da Rifa",
+            "text": "Cheguem mais e tentem a sorte no<n>nosso sorteio\nde Ano-Novo! O grande<n>prêmio deste ano é uma\nviagem para<n>águas termais com acompanhante!",
             "color_text_info_list": [
-                "hot spring vacation"
+                "viagem para águas termais"
             ]
         },
         {
-            "name": "Raffle Clerk",
-            "text": "First-prize winners get a deluxe carrot<n>hamburger\nsteak! Second-prize<n>winners get a bushel of\ncarrots! And<n>third-prize winners can take home a\nsingle carrot!"
+            "name": "Atendente da Rifa",
+            "text": "O primeiro prêmio é um hambúrguer<n>de cenoura\nespecial no prato! O<n>segundo prêmio é um cesto\ncheio de<n>cenouras! E o terceiro prêmio leva<n>para\ncasa uma cenoura avulsa!"
         },
         {
-            "name": "Raffle Clerk",
-            "text": "Don't let this opportunity pass you<n>by! Get a ticket\nnow and spin for your<n>chance to win!"
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "A raffle, huh? Didn't we get<n>something that looked\nlike a raffle<n>ticket from the store?"
+            "name": "Atendente da Rifa",
+            "text": "Não deixem essa oportunidade<n>passar! Tragam\nseus bilhetes e girem<n>a roleta para tentar a sorte!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Since we have one, why don't you<n>give it a—",
+            "text": "Um sorteio, é? A gente não ganhou<n>um papelzinho\nparecido com um<n>bilhete na loja agora há pouco?"
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Já que temos um bilhete, por que<n>você não tenta a...",
             "choice_data_list": [
-                "Get out there and win a big one, Hayahide!"
+                "Vai lá e tira a sorte grande, Hayahide!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "What?"
+            "text": "O quê?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "You want <i>me</i> to go up there?",
+            "text": "Você quer que <i>eu</i> vá lá girar?",
             "choice_data_list": [
-                "Do you not want to?"
+                "Você não quer ir?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It's not that! I just... hadn't<n>considered going\nmyself."
+            "text": "Não é isso! É só que... eu não tinha<n>cogitado ir\npessoalmente."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I'm usually the one watching things<n>unfold, not the\none participating in the<n>actual event...",
+            "text": "Eu costumo ficar só olhando de longe<n>nessas\ncoisas, em vez de participar...",
             "choice_data_list": [
-                "Did you always let Brian take the spotlight?"
+                "Você sempre deixava a vez para a Brian?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Well, yes... She was always so sweet<n>when she\nwon something."
+            "text": "Bom, sim... Ela ficava tão fofa sempre<n>que ganhava\nalguma coisa."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Back when she was still quiet and<n>shy, the only\ntime she would get<n>excited and yell aloud was\nwhen she<n>won something.",
+            "text": "Na época em que ela ainda era<n>quietinha e tímida, a\núnica hora em<n>que ela se empolgava e\ncomemorava<n>alto era quando ganhava algum\nprêmio.",
             "choice_data_list": [
-                "Well, today, it's your turn to get excited.",
-                "Well, today, it's your turn to get excited."
+                "Bom, hoje é a sua vez de comemorar.",
+                "Bom, hoje é a sua vez de comemorar."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Um... I'd hate to disappoint you, but I<n>don't think\nthat'll be happening..."
+            "text": "Ahn... Odeio te decepcionar, mas acho<n>difícil isso\nacontecer..."
         },
         {
             "name": "Monólogo",
-            "text": "Biwa Hayahide gathers her courage,<n>walks up to\nthe raffle spinner, and<n>gives the handle a crank."
+            "text": "A Biwa Hayahide cria coragem, vai<n>até o globo do\nsorteio e gira a<n>manivela."
         },
         {
             "name": "Monólogo",
-            "text": "A small plastic ball drops from the<n>tumbler's\nopening..."
+            "text": "Uma bolinha de plástico cai pela<n>abertura do globo..."
         },
         {
-            "name": "Raffle Clerk",
-            "text": "Holy mackerel! We've got ourselves<n>a grand-prize\nwinner! Come and get<n>the coupon for your hot\nspring<n>vacation! Congratulations!"
+            "name": "Atendente da Rifa",
+            "text": "Minha nossa! Temos uma ganhadora<n>do prêmio\nmáximo! Venha receber o<n>seu cupom da viagem\npara as águas<n>termais! Meus parabéns!"
         },
         {
             "name": "Monólogo",
-            "text": "You obtained: <itemname>",
+            "text": "Você obteve: <itemname>",
             "color_text_info_list": [
                 "<itemname>"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "...What?"
+            "text": "...Quê?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I won the grand prize?!",
+            "text": "Eu ganhei o prêmio máximo?!",
             "choice_data_list": [
-                "That's awesome!",
-                "That's awesome!"
+                "Isso é incrível!",
+                "Isso é incrível!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I-indeed..."
+            "text": "D-de fato..."
         },
         {
             "name": "Biwa Hayahide",
             "text": "...",
             "choice_data_list": [
-                "You okay?"
+                "Tudo bem aí?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I-I'm fine. I'm just still in shock..."
+            "text": "E-eu estou bem. Só estou em choque<n>ainda..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "The odds seem so impossible. There<n>must be 300\nballs in the machine, and<n>of those, there can't be\nmany for the<n>grand prize—"
+            "text": "As probabilidades parecem tão<n>impossíveis. Deve\nhaver umas 300<n>bolinhas ali dentro e, dentre elas,\nnão<n>deve ter quase nenhuma do prêmio<n>máximo..."
         },
         {
-            "name": "Raffle Clerk",
-            "text": "That's right! There's only <i>one</i> ball for<n>the grand\nprize!"
+            "name": "Atendente da Rifa",
+            "text": "Exatamente! Só tem <i>uma</i> bolinha do<n>prêmio\nmáximo!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "We beat 300-to-1 odds on our first<n>try?!",
+            "text": "Vencemos uma probabilidade de 1 em<n>300 logo de\nprimeira?!",
             "choice_data_list": [
-                "Talk about lucky!",
-                "Talk about lucky!"
+                "Bota sorte nisso!",
+                "Bota sorte nisso!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I-I guess..."
+            "text": "É-é mesmo..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "But wow, a voucher for a hot spring<n>vacation... It'd\nbe nice to go once<n>things calm down.",
+            "text": "Mas uau, um cupom de viagem para<n>uma fonte\ntermal... Seria ótimo ir<n>quando as coisas acalmarem.",
             "choice_data_list": [
-                "Do you want to go?"
+                "Você quer ir?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Oh! I'm sorry! This is your prize too,<n>so of course\nyou're free to invite<n>whoever you'd like. I'm not\nsure<n>why I assumed it would be me."
+            "text": "Oh! Me desculpe! O prêmio também é<n>seu, então é\nclaro que você tem total<n>liberdade para convidar\nquem quiser.<n>Não sei onde eu estava com a cabeça\npara presumir que seria comigo."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "What was I thinking? I guess I must<n>still be in\nshock.",
+            "text": "Onde já se viu? Acho que ainda<n>estou em choque.",
             "choice_data_list": [
-                "I don't mind if you want to use it for yourself.",
-                "I don't mind if you want to use it for yourself."
+                "Não me importo se você quiser ficar com o cupom.",
+                "Não me importo se você quiser ficar com o cupom."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "What?! You're all right letting me<n>have it?! Hm..."
+            "text": "O quê?! Tudo bem para você deixar<n>comigo?! Hm..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "All right, how's this? After the<n>Twinkle Series is\nover, we can give<n>more thought as to which one of\nus<n>should use it and how."
+            "text": "Certo, que tal fazermos assim?<n>Depois que a\nTwinkle Series terminar,<n>pensamos com mais calma\nem quem<n>vai usar e como."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "And if we both happen to be free...<n>Well, we can\ncross that bridge when<n>we get to it."
+            "text": "E, se por acaso nós dois estivermos<n>livres... Bom,\nquando chegar a hora a<n>gente vê isso."
         },
         {
             "name": "Monólogo",
-            "text": "And with that, Biwa Hayahide puts<n>away the\nvoucher very carefully."
+            "text": "Dito isso, a Biwa Hayahide guarda o<n>cupom com\ntodo o cuidado."
         },
         {
-            "name": "Raffle Clerk",
-            "text": "Looks like we have another first-prize<n>winner!\nCongratulations! You get one<n>deluxe carrot\nhamburger steak!"
+            "name": "Atendente da Rifa",
+            "text": "Olha só, saiu o primeiro prêmio!<n>Parabéns! Você\nganhou um<n>hambúrguer de cenoura especial!"
         },
         {
             "name": "Monólogo",
-            "text": "You obtained: <itemname>",
+            "text": "Você obteve: <itemname>",
             "color_text_info_list": [
                 "<itemname>"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Yay! I won something!"
+            "text": "Eba! Eu ganhei!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hehe! I can't believe I actually won—"
+            "text": "Hehe! Nem acredito que ganhei mes..."
         },
         {
             "name": "Biwa Hayahide",
@@ -198,154 +198,154 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Ahem... Yes, well, now I can certainly<n>see how one\nmight get a little excited<n>about winning first prize."
+            "text": "Aham... Bom, agora certamente<n>consigo\ncompreender por que alguém<n>ficaria um pouco\nempolgado ao<n>ganhar o primeiro prêmio."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "We won this with that ticket we got at<n>the training\nsupply store, so..."
+            "text": "Nós ganhamos isso com o bilhete da<n>loja de\nartigos de treino, então..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I think it's only fair if we split it.",
+            "text": "Acho que nada mais justo do que<n>dividirmos.",
             "choice_data_list": [
-                "Are you sure?",
-                "Are you sure?"
+                "Tem certeza?",
+                "Tem certeza?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Of course! But only if you promise not<n>to tell anyone\nabout my little outburst<n>here.",
+            "text": "Claro! Mas só se você prometer não<n>contar a\nninguém sobre essa minha<n>pequena exaltação\nagora há pouco.",
             "choice_data_list": [
-                "Ah, so it's a bribe of sorts."
+                "Ah, então é basicamente um suborno."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "N-no! Just... please don't let anyone<n>know."
+            "text": "N-não! Só... por favor, não comente<n>com ninguém."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "If Brian were to find out I was acting<n>like a little kid\nover some raffle... Ugh,<n>the whole thing would be far\ntoo<n>embarrassing..."
+            "text": "Se a Brian descobrisse que agi feito<n>criança por\ncausa de um sorteio...<n>Urgh, eu morreria de\nvergonha..."
         },
         {
             "name": "Monólogo",
-            "text": "I promise to take her secret to the<n>grave, and we\nenjoy the hamburger<n>steak together."
+            "text": "Prometo levar o segredo dela para o<n>túmulo, e\nsaboreamos o hambúrguer<n>juntos."
         },
         {
-            "name": "Raffle Clerk",
-            "text": "We got a second-prize winner! It's<n>your lucky day!\nYou're going home<n>with a bushel of carrots!"
+            "name": "Atendente da Rifa",
+            "text": "Temos uma ganhadora do segundo<n>prêmio! Hoje é\no seu dia de sorte!<n>Vai levar para casa um cesto\ncheio de<n>cenouras!"
         },
         {
             "name": "Monólogo",
-            "text": "You obtained: <itemname>",
+            "text": "Você obteve: <itemname>",
             "color_text_info_list": [
                 "<itemname>"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Wow, this is... a lot of carrots. Well, I<n>guess I won't\nneed to buy any for a<n>while."
+            "text": "Uau, isso é... cenoura que não acaba<n>mais. Bom,\nacho que não vou<n>precisar comprar nenhuma por\num<n>bom tempo."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Since I have so many, I'd like to give<n>you some as\na small token of my<n>gratitude for all your hard work!",
+            "text": "Já que tenho tantas, gostaria de dar<n>algumas para\nvocê como um<n>pequeno gesto de gratidão por todo\no<n>seu esforço!",
             "choice_data_list": [
-                "And what about Ticket and Taishin over there?"
+                "E que tal dar algumas para a Ticket e a Taishin ali?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "You read my mind. I was planning to<n>share some\nwith them too."
+            "text": "Você leu a minha mente. Eu já<n>estava planejando\ndividir com elas<n>também."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Ticket! Taishin! Over here!"
+            "text": "Ticket! Taishin! Venham cá!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Thank youuu!"
+            "text": "Brigadaaa!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hehe! Look out, Trainer. Make sure<n>she doesn't\nknock you over when<n>she comes flying over he—"
+            "text": "Hehe! Cuidado! Vê se não deixa ela<n>te atropelar\nvindo correndo daquele<n>jei..."
         },
         {
             "name": "Monólogo",
-            "text": "<i>Crash!</i>"
+            "text": "<i>Pá!</i>"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Oh my gosh! Are you two okay?!"
+            "text": "Meu Deus! Vocês estão bem?!"
         },
         {
             "name": "Monólogo",
-            "text": "And that's how we end up sharing a<n>whole bushel\nof carrots with Winning<n>Ticket and Narita Taishin."
+            "text": "E é assim que acabamos dividindo<n>um cesto inteiro\nde cenouras com a<n>Winning Ticket e a Narita\nTaishin."
         },
         {
-            "name": "Raffle Clerk",
-            "text": "Would you lookie here! You've won<n>the third prize!\nHere's your carrot!"
+            "name": "Atendente da Rifa",
+            "text": "Mas olha só! Você tirou o terceiro<n>prêmio! Aqui está\na sua cenoura!"
         },
         {
             "name": "Monólogo",
-            "text": "You obtained: <itemname>",
+            "text": "Você obteve: <itemname>",
             "color_text_info_list": [
                 "<itemname>"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Yay!",
+            "text": "Eba!",
             "choice_data_list": [
-                "You did it!",
-                "You did it!"
+                "Você conseguiu!",
+                "Você conseguiu!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "<i>Gasp!</i>"
+            "text": "<i>Ah!</i>"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Ahem... Yes, well, winning third prize<n>is quite a feat."
+            "text": "Aham... Sim, bom, ganhar o terceiro<n>prêmio é um\nbelo feito."
         },
         {
             "name": "Monólogo",
-            "text": "We decide to split the prize, so we<n>each have half a\ncarrot."
+            "text": "Decidimos dividir o prêmio, então<n>cada um fica com\nmeia cenoura."
         },
         {
-            "name": "Raffle Clerk",
-            "text": "Ohhh, tough luck! Looks like you<n>pulled a blank one!\nTake this pack of<n>tissues as a consolation prize."
+            "name": "Atendente da Rifa",
+            "text": "Aaah, que azar! Parece que não veio<n>nada! Leve\neste pacote de lencinhos<n>como prêmio de\nconsolação."
         },
         {
             "name": "Monólogo",
-            "text": "You obtained: <itemname>",
+            "text": "Você obteve: <itemname>",
             "color_text_info_list": [
                 "<itemname>"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "What? I only get a pack of tissues?",
+            "text": "O quê? Só ganhei um pacote de<n>lencinhos?",
             "choice_data_list": [
-                "It just wasn't your lucky day.",
-                "It just wasn't your lucky day."
+                "Hoje simplesmente não era o seu dia de sorte.",
+                "Hoje simplesmente não era o seu dia de sorte."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I... guess not. But I did learn<n>something."
+            "text": "É... acho que não. Mas pelo menos<n>aprendi uma\ncoisa."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Brian used to be crushed when she<n>didn't win. I\nthought she was<n>adorable whenever she wilted like\nthat."
+            "text": "A Brian ficava arrasada quando não<n>ganhava. Eu\nachava uma graça<n>sempre que ela murchava\ndaquele<n>jeito."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "But now I understand how<n>disappointing it actually\nfeels not to<n>win anything."
+            "text": "Mas agora entendo na pele o quão<n>frustrante é sair\nde mãos abanando."
         },
         {
             "name": "Monólogo",
-            "text": "I console Biwa Hayahide as we<n>resume our walk\nback home..."
+            "text": "Consolo a Biwa Hayahide enquanto<n>retomamos o\ncaminho de casa..."
         }
     ]
 }

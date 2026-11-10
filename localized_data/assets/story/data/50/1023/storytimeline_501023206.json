@@ -1,71 +1,71 @@
 {
     "text_block_list": [
         {
-            "name": "Caster",
-            "text": "It's the final G1 race of spring—the<n>Takarazuka\nKinen! Which one of<n>these fine competitors will\ncross the<n>finish line first?"
+            "name": "Locutor",
+            "text": "Chegou a última corrida G1 da<n>primavera: o\nTakarazuka Kinen! Qual<n>dessas excelentes\ncompetidoras vai<n>cruzar a linha de chegada em\nprimeiro<n>lugar?"
         },
         {
-            "name": "Caster",
-            "text": "Each and every one of these<n>Umamusume carry\nthe hopes of their<n>fans on their shoulders... and\nhere<n>they come to the paddock!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "The venue for the Takarazuka Kinen<n>is the Hanshin\nRacecourse, as<n>scheduled."
+            "name": "Locutor",
+            "text": "Cada uma dessas Umamusume<n>carrega as\nesperanças dos seus fãs<n>nos ombros... e lá vêm\nelas entrando<n>no paddock!"
         },
         {
             "name": "Monólogo",
-            "text": "We have a final meeting in the waiting<n>room to\nwrap up some loose ends<n>before the race."
+            "text": "O palco do Takarazuka Kinen é o<n>Hipódromo de\nHanshin, conforme<n>programado."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Fazemos uma última reunião na sala<n>de espera\npara acertar os detalhes<n>finais antes da corrida."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Okay, let's go over some things.<n>Were you able to\nget data on the<n>other runners, Trainer?",
+            "text": "Certo, vamos repassar alguns<n>pontos. Você\nconseguiu levantar os<n>dados sobre as outras\ncorredoras?",
             "choice_data_list": [
-                "You know it!"
+                "Pode apostar que sim!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Excellent. Let's look over them while<n>we—"
+            "text": "Excelente. Vamos dar uma olhada<n>neles enquanto..."
         },
         {
             "name": "Biwa Hayahide",
             "text": "...!",
             "choice_data_list": [
-                "Is something wrong?",
-                "Is something wrong?"
+                "Algum problema?",
+                "Algum problema?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "No, not at all. This is... amazing."
+            "text": "Não, de jeito nenhum. Isso aqui está...<n>incrível."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "You even have data on their training<n>methods here.\nLooking at this, it<n>seems like it will be an intense\nrace."
+            "text": "Você conseguiu até informações<n>sobre os métodos\nde treino delas.<n>Olhando por aqui, parece que vai\nser<n>uma corrida intensa."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hm, the runner-up of the pre-race<n>favorite poll will\nlikely pull away at the<n>third turn, so I should be\nready by the<n>second turn. And..."
+            "text": "Hm, a segunda mais votada pelo<n>público\nprovavelmente vai tentar<n>disparar na terceira curva,\nentão<n>preciso estar pronta já na segunda.<n>E..."
         },
         {
             "name": "Monólogo",
-            "text": "The data I collected prove helpful, and<n>we have a\nvery productive meeting<n>together."
+            "text": "Os dados que coletei se mostram<n>muito úteis, e\ntemos uma reunião<n>bastante produtiva."
         },
         {
             "name": "Monólogo",
-            "text": "<i>Step, step, step...</i>"
+            "text": "<i>Passo, passo, passo...</i>"
         },
         {
-            "name": "Caster",
-            "text": "And here comes Biwa Hayahide!"
+            "name": "Locutor",
+            "text": "E aí vem Biwa Hayahide!"
         },
         {
-            "name": "Caster",
-            "text": "Give it up for the grand winner of our<n>pre-race\nfavorite poll!"
+            "name": "Locutor",
+            "text": "Uma salva de palmas para a grande<n>vencedora da\nvotação popular!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "That's right! And I'm about to prove<n>to everyone\nwho voted for me that<n>they picked the winning\nracer!"
+            "text": "Isso mesmo! E estou prestes a<n>provar a todos os\nque votaram em<n>mim que fizeram a escolha certa!"
         }
     ]
 }

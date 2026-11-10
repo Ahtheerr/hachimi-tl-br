@@ -2,93 +2,93 @@
     "text_block_list": [
         {
             "name": "",
-            "text": "Biwa Hayahide and I are walking<n>past the train\nstation when she<n>suddenly remembers something\nand<n>stops in her tracks."
+            "text": "Biwa Hayahide e eu estamos<n>passando pela\nestação de trem<n>quando ela se lembra de algo de\nrepente e para no meio do caminho."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "By the way, Trainer..."
+            "text": "A propósito, Treinador..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Do you remember that cafe we tried<n>going to the\nother day?",
+            "text": "Você se lembra daquele café a que<n>tentamos ir\noutro dia?",
             "choice_data_list": [
-                "The one that was closed?"
+                "Aquele que estava fechado?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Yes. I'm still baffled as to why it was<n>closed so\nearly. Do you mind if we go<n>back and check it out?"
+            "text": "Sim. Ainda estou intrigada com o<n>motivo de ter\nfechado tão cedo. Você<n>se importa se voltarmos lá\npara<n>conferir?"
         },
         {
             "name": "",
-            "text": "And with that request, we make our<n>way to the cafe\ntogether."
+            "text": "Com esse pedido, seguimos juntos<n>até o café."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It closes at 8 p.m., so it should still be<n>open..."
+            "text": "Ele fecha às oito da noite, então ainda<n>deveria estar\naberto..."
         },
         {
             "name": "",
-            "text": "We're almost at the cafe when we<n>see someone\nwho appears to be the<n>owner pulling down the\nshutters.",
+            "text": "Estamos quase chegando ao café<n>quando vemos\nalguém que parece<n>ser o dono abaixando as\nportas.",
             "choice_data_list": [
-                "They're closing up already?"
+                "Já estão fechando?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It seems like it. I wonder why. I'll go<n>ask."
+            "text": "Parece que sim. Por que será? Vou lá<n>perguntar."
         },
         {
             "name": "",
-            "text": "I follow her as she approaches the<n>owner."
+            "text": "Vou atrás dela enquanto ela se<n>aproxima do\nproprietário."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Excuse me. Have your store hours<n>changed\nrecently? I thought you were<n>supposed to be open\nfor a while yet."
+            "text": "Com licença. O horário de<n>funcionamento mudou\nrecentemente?<n>Achei que vocês ficariam abertos\npor<n>mais um tempo."
         },
         {
-            "name": "Cafe Owner",
-            "text": "Terribly sorry about that, but yes,<n>we've been\nclosing a little early<n>lately."
+            "name": "Dono do Café",
+            "text": "Sinto muito por isso, mas sim, temos<n>fechado um\npouco mais cedo<n>ultimamente."
         },
         {
-            "name": "Cafe Owner",
-            "text": "It just doesn't make sense to stay<n>open when we\nget no customers."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "You don't?"
-        },
-        {
-            "name": "Cafe Owner",
-            "text": "No... Not since that new place down<n>the street run\nby some famous<n>celebrity barista opened up."
-        },
-        {
-            "name": "Cafe Owner",
-            "text": "Business dried up as soon as that<n>place started.\nHonestly, we might<n>have to close up shop\n<i>permanently</i><n>soon."
+            "name": "Dono do Café",
+            "text": "Simplesmente não compensa manter<n>as portas\nabertas quando não<n>aparece nenhum cliente."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "That can't be..."
+            "text": "Não tem aparecido ninguém?"
+        },
+        {
+            "name": "Dono do Café",
+            "text": "Não... Não desde que inaugurou<n>aquele lugar novo\nali na rua,<n>gerenciado por um tal de barista<n>famoso."
+        },
+        {
+            "name": "Dono do Café",
+            "text": "O movimento secou assim que eles<n>abriram.\nSinceramente, é capaz de<n>termos que fechar as\nportas <i>em<n>definitivo</i> logo, logo."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Não pode ser..."
         },
         {
             "name": "",
-            "text": "There's no question as to what cafe<n>that must be.\nNo doubt, it's the one I<n>visited with Biwa Hayahide\nthe other<n>day."
+            "text": "Não resta dúvida de qual café ele<n>está falando.\nCom certeza é aquele<n>que visitei com a Biwa\nHayahide no<n>outro dia."
         },
         {
-            "name": "Cafe Owner",
-            "text": "Up until recently, we managed to<n>scrape by\nsomehow."
+            "name": "Dono do Café",
+            "text": "Até pouco tempo atrás, a gente ainda<n>conseguia se\nvirar de algum jeito."
         },
         {
-            "name": "Cafe Owner",
-            "text": "We've come up with seasonal menu<n>items and\nlistened to the requests of<n>our regulars..."
+            "name": "Dono do Café",
+            "text": "Criamos itens sazonais para o<n>cardápio e\natendemos aos pedidos<n>dos fregueses mais fiéis..."
         },
         {
-            "name": "Cafe Owner",
-            "text": "But no matter what we do, it's not<n>enough to\ncompete against a famous<n>barista."
+            "name": "Dono do Café",
+            "text": "Mas, não importa o que a gente faça,<n>não dá para\ncompetir contra um<n>barista famoso."
         },
         {
-            "name": "Cafe Owner",
-            "text": "It makes sense. When someone like<n>that, with both\nskills and fame, opens<n>a shop down the street,\nthere's not<n>much a small cafe like us can do."
+            "name": "Dono do Café",
+            "text": "Faz sentido. Quando alguém assim,<n>que tem tanto\ntalento quanto fama,<n>abre uma loja na mesma rua,\nnão há<n>muito que um café pequeno como o<n>nosso\npossa fazer."
         },
         {
             "name": "Biwa Hayahide",
@@ -96,110 +96,110 @@
         },
         {
             "name": "",
-            "text": "Biwa Hayahide's expression clouds<n>as she mulls\nover the matter."
+            "text": "A expressão da Biwa Hayahide se<n>fecha enquanto\nela reflete sobre o<n>assunto."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I understand how you feel. However..."
+            "text": "Eu compreendo como o senhor se<n>sente.\nEntretanto..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "What I love most about your cafe is<n>how cozy its\natmosphere is and what<n>a wonderful person you\nare."
+            "text": "O que eu mais amo no seu café é o<n>ambiente\nacolhedor e a pessoa<n>maravilhosa que o senhor é."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "And those things are all a result of<n>how much effort\nyou've put into<n>making your customers happy."
+            "text": "E tudo isso é fruto de todo o esforço<n>que o senhor\ndedicou para deixar<n>seus clientes felizes."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "You've accomplished so much<n>already. Why don't\nyou try just a<n>little harder and see what comes of\nit?"
+            "text": "O senhor já conquistou tanta coisa.<n>Por que não\ninsiste só mais um pouco<n>para ver o que acontece?"
         },
         {
             "name": "",
-            "text": "Her impassioned speech is inspiring. I<n>feel as\nthough it's enough to fire<n>anyone up. However..."
+            "text": "O discurso apaixonado dela é<n>inspirador. Sinto que\nseria capaz de<n>motivar qualquer um. Porém..."
         },
         {
-            "name": "Cafe Owner",
-            "text": "Thank you. Your kind words mean a<n>great deal to\nme."
+            "name": "Dono do Café",
+            "text": "Obrigado. Suas palavras gentis<n>significam muito\npara mim."
         },
         {
-            "name": "Cafe Owner",
-            "text": "But running a business isn't easy.<n>Sometimes, you\njust have to cut your<n>losses."
-        },
-        {
-            "name": "",
-            "text": "Unfortunately, Biwa Hayahide's<n>encouragement\nisn't enough to spur<n>the owner into further action."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "I suppose life is difficult no matter<n>what one\npursues."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "I only wish there was something I<n>could do to help..."
+            "name": "Dono do Café",
+            "text": "Mas tocar um negócio não é fácil. Às<n>vezes, a\ngente só precisa aceitar a<n>derrota antes que o\nprejuízo seja<n>maior."
         },
         {
             "name": "",
-            "text": "Pursuing a dream is tough. She<n>knows that better\nthan anyone.",
+            "text": "Infelizmente, o incentivo da Biwa<n>Hayahide não\nbasta para fazer o<n>dono mudar de ideia."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Suponho que a vida seja difícil não<n>importa o\ncaminho que se escolha<n>seguir."
+        },
+        {
+            "name": "Biwa Hayahide",
+            "text": "Eu só queria que houvesse algo ao<n>meu alcance\npara ajudar..."
+        },
+        {
+            "name": "",
+            "text": "Correr atrás de um sonho é duro, e<n>ela sabe disso\nmelhor do que<n>ninguém.",
             "choice_data_list": [
-                "If only the cafe could do something to set it apart...",
-                "Maybe we can help promote the cafe."
+                "Se ao menos o café tivesse algum diferencial para\nse destacar...",
+                "Talvez a gente possa ajudar a divulgar o café."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Set it apart... Yes, that's it!"
+            "text": "Um diferencial para se destacar... Sim,<n>é isso!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I go there all the time! I would know<n>better than\nanyone how it can best<n>stand out!"
+            "text": "Eu vou lá o tempo todo! Sei melhor do<n>que ninguém\ncomo aquele espaço<n>pode se destacar!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "This information might be just what<n>we need to\nchange the owner's<n>mind!",
+            "text": "Essa informação pode ser<n>exatamente o que\nprecisamos para<n>fazer o dono mudar de ideia!",
             "choice_data_list": [
-                "Do your thing, Hayahide!"
+                "Manda ver, Hayahide!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Thanks for helping me come up with<n>something I\ncan do!"
+            "text": "Obrigada por me ajudar a pensar em<n>uma solução!"
         },
         {
             "name": "",
-            "text": "I have high hopes that Biwa<n>Hayahide can get\nthrough to the<n>owner as we walk home together."
+            "text": "Enquanto voltamos juntos, tenho<n>grandes\nesperanças de que a Biwa<n>Hayahide conseguirá\nconvencer o<n>proprietário."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I guess, realistically speaking, that's<n>about all we\ncan do."
+            "text": "Acho que, sendo realista, é<n>basicamente tudo o que\npodemos<n>fazer."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "But simply promoting the cafe<n>probably won't yield\nany significant<n>results...",
+            "text": "Mas apenas divulgar o café<n>provavelmente não\ntrará nenhum<n>resultado significativo...",
             "choice_data_list": [
-                "If only we had something to work with...",
-                "If only we had something to work with..."
+                "Se ao menos tivéssemos um ponto de partida...",
+                "Se ao menos tivéssemos um ponto de partida..."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "But of course! If there's nothing to<n>work with yet,\nwe can start from<n>scratch and try to catch people's\nattention with a new idea!"
+            "text": "Mas é claro! Se ainda não temos um<n>ponto de\npartida, podemos começar<n>do zero e tentar atrair a\natenção das<n>pessoas com uma nova ideia!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I'll start putting together everything<n>we need once I\nget back!",
+            "text": "Vou começar a estruturar tudo de que<n>precisamos\nassim que voltar!",
             "choice_data_list": [
-                "Let me know if I can help.",
-                "Let me know if I can help."
+                "Me avise se eu puder ajudar em algo.",
+                "Me avise se eu puder ajudar em algo."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Thank you so much. I'm going to<n>make sure that\ncafe stays in<n>business!"
+            "text": "Muito obrigada. Vou garantir que<n>aquele café\ncontinue de portas<n>abertas!"
         },
         {
             "name": "",
-            "text": "With that strong declaration, it's clear<n>that Biwa\nHayahide is filled with<n>determination."
+            "text": "Com essa declaração firme, fica<n>evidente que a\nBiwa Hayahide está<n>transbordando determinação."
         }
     ]
 }

@@ -2,61 +2,61 @@
     "text_block_list": [
         {
             "name": "",
-            "text": "Biwa Hayahide and I have just<n>finished our training\nsession for the<n>day."
+            "text": "Biwa Hayahide e eu acabamos de<n>encerrar nossa\nsessão de treino do<n>dia."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hm? Where's my bottle? Did I leave<n>it on the\ntrack?"
+            "text": "Hm? Onde está a minha garrafinha?<n>Será que\ndeixei na pista?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Sorry, Trainer. I need to get my bottle.<n>I'll head\nstraight home afterward.",
+            "text": "Desculpe, Treinador. Preciso buscar<n>minha\ngarrafinha. Vou direto para o<n>dormitório depois.",
             "choice_data_list": [
-                "It's dark already, so I'll go with you."
+                "Já está escuro, então eu vou com você."
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Really? Thank you."
+            "text": "Sério? Obrigada."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I'm pretty sure it was around there..."
+            "text": "Tenho quase certeza de que deixei<n>por ali..."
         },
         {
-            "name": "Assertive Umamusume",
-            "text": "Did you not hear us the first time? We<n>have a race\ncoming up soon so get<n>out of our way and scram."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Excuse you? <i>I'm</i> in your way?<n>That's strange\nbecause I'm pretty<n>sure I was here first."
-        },
-        {
-            "name": "Sharp-eyed Umamusume",
-            "text": "What does that matter to us?<n>Seriously, get lost\nalready!"
+            "name": "Umamusume Mandona",
+            "text": "Você é surda, por acaso? A gente tem<n>uma corrida\nchegando, então sai da<n>frente e vaza."
         },
         {
             "name": "Narita Taishin",
-            "text": "Oh, now you're asking for it!",
+            "text": "Como é que é? <i>Eu</i> tô no caminho de<n>vocês?\nEngraçado, porque tenho<n>certeza de que cheguei\naqui primeiro."
+        },
+        {
+            "name": "Umamusume de Olhar Afiado",
+            "text": "E o que a gente tem a ver com isso?<n>Sério, rala\npeito logo!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Ah, agora vocês tão pedindo!",
             "choice_data_list": [
-                "Isn't that Narita Taishin?"
+                "Aquela não é a Narita Taishin?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Looks like it... I'm going to see<n>what's wrong."
+            "text": "Parece que sim... Vou lá ver o que<n>está\nacontecendo."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Excuse me."
+            "text": "Com licença."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I was under the impression that there<n>were no\nrestrictions on the use of this<n>track today."
+            "text": "Eu tinha a impressão de que não<n>havia restrições\npara o uso desta<n>pista hoje."
         },
         {
-            "name": "Assertive Umamusume",
-            "text": "Great, another nosy meddler. What do<n>you want?"
+            "name": "Umamusume Mandona",
+            "text": "Maravilha, mais uma intrometida. O<n>que você quer?"
         },
         {
             "name": "Narita Taishin",
@@ -64,129 +64,129 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I'm trying to understand if special<n>permission is\nrequired to use this<n>track today for some reason."
+            "text": "Estou tentando entender se, por<n>algum motivo, é\nnecessária uma<n>permissão especial para usar esta\npista hoje."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "If so, please let me know who I need<n>to speak to in\norder to get permission.<n>I can go to them on\nTaishin's behalf."
+            "text": "Se for o caso, por favor, informem-me<n>com quem\ndevo falar para obtê-la.<n>Posso solicitá-la em nome\nda Taishin."
         },
         {
-            "name": "Assertive Umamusume",
-            "text": "Well, uh... It's not exactly..."
-        },
-        {
-            "name": "Biwa Hayahide",
-            "text": "Apologies, I couldn't quite hear you.<n>It's not exactly\nwhat? Are you saying<n>that special permission is <i>not</i>\nrequired<n>to use this track?"
+            "name": "Umamusume Mandona",
+            "text": "Bom, é que... Não é bem assim..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "In that case, would you care to<n>explain why you told\nTaishin to<n>leave? Did she commit some sort of\ninfraction, perhaps?"
+            "text": "Perdão, não consegui ouvir direito.<n>Não é bem\nassim o quê? Estão<n>dizendo que <i>não</i> é necessário\nter<n>permissão especial para usar esta<n>pista?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "If she interfered with your training in<n>any way,\nplease let me know."
-        },
-        {
-            "name": "Assertive Umamusume",
-            "text": "Uh... Um..."
+            "text": "Nesse caso, importam-se de explicar<n>por que\nmandaram a Taishin sair? Por<n>acaso ela cometeu\nalgum tipo de<n>infração?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "What's the matter? Can it be that you<n>had no\nlegitimate reason to harass<n>Taishin and simply\nwanted to throw<n>your weight around?"
+            "text": "Se ela interferiu no treino de vocês de<n>alguma\nforma, peço que me digam."
+        },
+        {
+            "name": "Umamusume Mandona",
+            "text": "Hã... É..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "If that's the case, then I believe it's<n><i>you</i> who is in\nthe wrong."
+            "text": "Qual é o problema? Seria possível que<n>vocês não\ntivessem nenhum motivo<n>legítimo para importunar a\nTaishin e<n>quisessem apenas se impor à força?"
         },
         {
-            "name": "Assertive Umamusume",
-            "text": "Ngh! Okay, we get it already!"
+            "name": "Biwa Hayahide",
+            "text": "Se for esse o caso, acredito que são<n><i>vocês</i> que\nestão erradas."
         },
         {
-            "name": "Sharp-eyed Umamusume",
-            "text": "This is so stupid! Let's just get out<n>of here!"
+            "name": "Umamusume Mandona",
+            "text": "Tsc! Tá bom, a gente já entendeu!"
+        },
+        {
+            "name": "Umamusume de Olhar Afiado",
+            "text": "Que palhaçada! Vamos logo embora<n>daqui!"
         },
         {
             "name": "",
-            "text": "The two are no match for Biwa<n>Hayahide's cold,\nhard logic and run<n>off without another word."
+            "text": "As duas não são páreo para a lógica<n>fria e\nimplacável da Biwa Hayahide e<n>saem correndo\nsem dar mais um pio."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Honestly, the audacity! Acting like<n>they're the only\nones allowed on the<n>track..."
+            "text": "Francamente, quanta audácia! Agindo<n>como se\nfossem as donas da pista..."
         },
         {
             "name": "Narita Taishin",
-            "text": "...Sorry. You didn't need to do that for<n>me."
+            "text": "...Foi mal. Você não precisava ter feito<n>isso por mim."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Oh, it's fine. I don't mind."
+            "text": "Ora, tudo bem. Eu não me importo."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Try not to stay out too late, okay? And<n>make sure to\neat something once you<n>get back to the dorm."
+            "text": "Tente não ficar na rua até muito tarde,<n>está bem? E\nnão deixe de comer<n>alguma coisa quando voltar\npara o<n>dormitório."
         },
         {
             "name": "Narita Taishin",
-            "text": "Yeah, yeah, I know."
+            "text": "Tá, tá, eu sei."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Hehe, good!"
+            "text": "Hehe, ótimo!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Sorry to keep you waiting, Trainer.",
+            "text": "Desculpe fazer você esperar,<n>Treinador.",
             "choice_data_list": [
-                "That was so awesome of you!",
-                "Your logical thinking and reasoning got them good!",
-                "Your logical argument and reasoning got them good!"
+                "Você mandou muito bem!",
+                "Seu pensamento lógico e raciocínio deixaram elas\nsem palavras!",
+                "Seus argumentos lógicos e raciocínio deixaram elas\nsem palavras!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Sorry to keep you waiting, Trainer.",
+            "text": "Desculpe fazer você esperar,<n>Treinador.",
             "choice_data_list": [
-                "That was so awesome of you!",
-                "Your logical thinking and reasoning got them good!",
-                "Your logical argument and reasoning got them good!"
+                "Você mandou muito bem!",
+                "Seu pensamento lógico e raciocínio deixaram elas\nsem palavras!",
+                "Seus argumentos lógicos e raciocínio deixaram elas\nsem palavras!"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "R-really? I was just being my usual<n>self, honestly..."
+            "text": "S-sério? Sinceramente, eu só agi<n>como sempre..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I will say one thing, though."
+            "text": "Mas uma coisa eu digo."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "The best way to handle overly<n>emotional arguments\nis to strike them<n>down with sound logic."
+            "text": "A melhor maneira de lidar com<n>argumentos\npuramente emocionais é<n>rebatê-los com uma lógica\nsólida."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Doing so usually trips up the other<n>person so much,\nthey give up on their<n>own."
+            "text": "Fazer isso costuma desconcertar<n>tanto a outra\nparte que ela acaba<n>desistindo por conta própria."
         },
         {
             "name": "",
-            "text": "Biwa Hayahide is a little prouder of<n>her logical\napproach to things than<n>usual today."
+            "text": "Hoje, Biwa Hayahide está um pouco<n>mais\norgulhosa do que de costume<n>da sua abordagem\nlógica."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I didn't expect it to have come in<n>handy in such a\nsituation."
+            "text": "Eu não esperava que isso fosse vir a<n>calhar em\numa situação dessas."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I know sometimes I can come off as<n>cold and\ninflexible because of my<n>overly logical thinking,\nbut..."
+            "text": "Sei que às vezes posso parecer fria e<n>inflexível por\nconta do meu<n>pensamento excessivamente lógico,\nmas..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "If I can use it to help my friends out,<n>then I think it's\nsafe to call it a<n>strength. Hehe."
+            "text": "Se posso usá-lo para ajudar minhas<n>amigas, acho\nque já dá para<n>chamá-lo de ponto forte. Hehe."
         },
         {
             "name": "",
-            "text": "After successfully defending a friend,<n>Biwa\nHayahide seems to feel even<n>more confident in her\nreasoning<n>abilities."
+            "text": "Depois de defender uma amiga com<n>sucesso, Biwa\nHayahide parece se<n>sentir ainda mais confiante na\nprópria<n>capacidade de raciocínio."
         }
     ]
 }

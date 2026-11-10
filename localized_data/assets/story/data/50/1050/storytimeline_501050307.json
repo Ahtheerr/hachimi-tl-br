@@ -2,11 +2,11 @@
     "text_block_list": [
         {
             "name": "Narita Taishin",
-            "text": "<i>Huff... Huff...</i> I... won?"
+            "text": "<i>Ofegante... Ofegante...</i> Eu... venci?"
         },
         {
             "name": "Spectators",
-            "text": "Wooooo! You did it, Taishiiiin!"
+            "text": "Uhuuuu! Você conseguiu, Taishiiiin!"
         },
         {
             "name": "Narita Taishin",
@@ -14,61 +14,61 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "(The crowd is so loud.)"
+            "text": "(A torcida tá fazendo tanto barulho.)"
         },
         {
             "name": "Narita Taishin",
-            "text": "(I'm so... tired.)",
+            "text": "(Estou tão... cansada.)",
             "choice_data_list": [
                 "Taishin?!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Despite winning the Derby, it seems<n>Narita Taishin\ncompletely exhausted<n>herself battling against her\nrivals."
+            "text": "Apesar de ter vencido o Derby,<n>parece que Narita\nTaishin se esgotou<n>completamente ao competir\ncontra<n>suas rivais."
         },
         {
-            "name": "Doctor",
-            "text": "Well, nothing's too out of the<n>ordinary. It looks like\nshe just<n>overexerted herself."
+            "name": "Doutor",
+            "text": "Bem, nada muito fora do comum.<n>Parece que ela\nsimplesmente se<n>esforçou além dos próprios\nlimites."
         },
         {
-            "name": "Doctor",
-            "text": "With a little rest, she should regain\nconsciousness—oh, looks like I spoke<n>too soon."
+            "name": "Doutor",
+            "text": "Com um pouco de descanso, ela<n>deve recuperar a\nconsciência... Ah,<n>parece que falei cedo demais."
         },
         {
             "name": "Narita Taishin",
-            "text": "Was I asleep?",
+            "text": "Eu tava dormindo?",
             "choice_data_list": [
-                "Taishin! Oh, thank goodness!"
+                "Taishin! Ah, que alívio!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Stop freaking out..."
+            "text": "Para de fazer tanto escândalo..."
         },
         {
-            "name": "Doctor",
-            "text": "How's your body feel? Are you<n>dizzy?"
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Oh. No, I'm fine. Thanks."
-        },
-        {
-            "name": "Doctor",
-            "text": "That's good, then. Make sure you<n>take it easy and\nrest up."
+            "name": "Doutor",
+            "text": "Como está se sentindo? Está tonta?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Okay..."
+            "text": "Ah. Não, estou bem. Obrigada."
+        },
+        {
+            "name": "Doutor",
+            "text": "Que bom, então. Não se esforce<n>demais e descanse\nbastante."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Está bem..."
         },
         {
             "name": "Monólogo",
-            "text": "After the doctor leaves, a whirlwind<n>blows into the\nroom."
+            "text": "Assim que o médico sai, um furacão<n>invade o\nquarto."
         },
         {
             "name": "Winning Ticket",
-            "text": "Waaaaah! Taishiiiiin!"
+            "text": "Aaaaaah! Taishiiiiin!"
         },
         {
             "name": "Narita Taishin",
@@ -76,35 +76,35 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Taishin, Taishin, <i>Taishin!</i> Y-y-you<n>collasped! I can't\nbelieve you<n>collaaasped!"
+            "text": "Taishin, Taishin, <i>Taishin!</i> V-v-você<n>desmaiou! Não\nacredito que você<n>desmaiou!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Waaaaah!"
+            "text": "Aaaaaah!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Are you all right, Taishin? What did<n>the doctor say?"
+            "text": "Você está bem, Taishin? O que o<n>médico disse?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Yeah, yeah—I'm fine. You guys worry<n>too much."
+            "text": "É, é, estou bem. Vocês se preocupam<n>demais."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Well, I'm glad... I assume you're still<n>planning to\nrun in the Kikuka Sho,<n>then?"
+            "text": "Bem, fico aliviada... Imagino que ainda<n>pretenda\nparticipar da Kikuka Sho,<n>certo?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Duh. Was there any doubt?"
+            "text": "Óbvio. Por acaso havia alguma<n>dúvida?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Good. There's something you should<n>know, then."
+            "text": "Ótimo. Então tem uma coisa que você<n>precisa\nsaber."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Next time, it's my turn."
+            "text": "Na próxima, é a minha vez."
         },
         {
             "name": "Narita Taishin",
@@ -112,19 +112,19 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Ohhh! Hayahide's not playing around!"
+            "text": "Oooooh! A Hayahide não está pra<n>brincadeira!"
         },
         {
             "name": "Winning Ticket",
-            "text": "And I'm... I'm not gonna back down<n>in the Kikuka\nSho either, Taishin!"
+            "text": "E eu... Eu também não vou recuar na<n>Kikuka Sho,\nTaishin!"
         },
         {
             "name": "Winning Ticket",
-            "text": "It sucks <i>really</i> bad that you stole the<n>Derby from\nme, and I'm so, sooo<n>mad!"
+            "text": "É <i>muito</i> ruim que você tenha roubado<n>o Derby de\nmim, e estou tão, tão<n>furiosa!"
         },
         {
             "name": "Winning Ticket",
-            "text": "But I'm gonna turn this anger into<n>energy! And I'm\ngonna use it to run<n>as fast as lightning down the\ntrack!"
+            "text": "Mas vou transformar essa raiva em<n>energia! E vou\nusá-la para correr pela<n>pista como um raio!"
         },
         {
             "name": "Narita Taishin",
@@ -132,55 +132,55 @@
         },
         {
             "name": "Winning Ticket",
-            "text": "Raaaaah! The Kikuka Sho will be<n>miiiiine!"
+            "text": "Raaaaah! A Kikuka Sho será<n>meeeeeu troféu!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Oh, sure. Just barge in here, make<n>some grand\ndeclarations, and leave..."
+            "text": "Ah, claro. Simplesmente invade o<n>quarto, faz um\ndiscurso grandioso e<n>vai embora..."
         },
         {
             "name": "Narita Taishin",
-            "text": "(For some reason...)"
+            "text": "(Por algum motivo...)"
         },
         {
             "name": "Narita Taishin",
-            "text": "(They look almost... radiant.)",
+            "text": "(Elas parecem quase... radiantes.)",
             "choice_data_list": [
-                "Taishin? Are you all right?",
-                "Taishin? Are you all right?"
+                "Taishin? Está tudo bem?",
+                "Taishin? Está tudo bem?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "I told you I'm fine! Come on, let's go<n>already."
+            "text": "Eu já disse que tõ bem! Vamos,<n>vamos embora\nlogo."
         },
         {
             "name": "Narita Taishin",
-            "text": "Listen up—you'd better not go easy<n>on me during\ntraining tomorrow."
+            "text": "Escuta bem: é melhor não pegar leve<n>comigo\ndurante o treino de amanhã."
         },
         {
             "name": "Narita Taishin",
-            "text": "If I catch you holding back on me, I'm<n>gonna launch\nyou into another galaxy."
+            "text": "Se eu perceber que está pegando<n>leve comigo, vou\nte mandar pra outra<n>galáxia."
         },
         {
             "name": "Narita Taishin",
-            "text": "The Kikuka Sho's gonna be mine!"
+            "text": "A Kikuka Sho será minha!"
         },
         {
             "name": "Monólogo",
-            "text": "The finale of the Triple Crown tour,<n>the Kikuka Sho,\nawaits us next."
+            "text": "A etapa final da Tríplice Coroa, a<n>Kikuka Sho, é o\nnosso próximo<n>desafio."
         },
         {
             "name": "Monólogo",
-            "text": "Narita Taishin reaffirms her dedication<n>to keep\npushing on, so she can<n>surpass her two rivals."
+            "text": "Narita Taishin reafirma sua<n>determinação em\ncontinuar<n>avançando para superar suas duas<n>rivais."
         },
         {
             "name": "Narita Taishin",
-            "text": "All that matters is that I win."
+            "text": "Tudo o que importa é vencer."
         },
         {
             "name": "Narita Taishin",
-            "text": "As long as I keep winning, then one<n>day..."
+            "text": "Enquanto eu continuar vencendo, um<n>dia..."
         }
     ]
 }

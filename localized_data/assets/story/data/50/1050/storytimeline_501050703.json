@@ -2,173 +2,173 @@
     "text_block_list": [
         {
             "name": "",
-            "text": "After a day out...",
+            "text": "Depois de passarmos o dia fora...",
             "choice_data_list": [
-                "This time I'll make sure you have fun!",
-                "This time I'll make sure you have fun!"
+                "Desta vez, vou garantir que você se divirta!",
+                "Desta vez, vou garantir que você se divirta!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "<i>...Sigh.</i>"
-        },
-        {
-            "name": "",
-            "text": "Look, I didn't have <i>any</i> fun the last<n>time you tried to\nplay a game with me."
+            "text": "<i>...Suspiro.</i>"
         },
         {
             "name": "Narita Taishin",
-            "text": "Stop with the kiddy games. It's not<n>gonna happen."
+            "text": "Olha, eu não me diverti <i>nem um pouco</i><n>da última vez\nque você tentou brincar<n>comigo."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Chega dessas brincadeiras infantis.<n>Não vai rolar."
         },
         {
             "name": "",
-            "text": "Sure—last time ended in failure—but<n>today, I have an\nace up my sleeve. I<n>know all about the game she's\nbeen<n>obsessed with recently.",
+            "text": "Tudo bem, da última vez foi um<n>fracasso, mas hoje\ntenho uma carta<n>na manga. Sei tudo sobre o jogo\npelo<n>qual ela anda obcecada ultimamente.",
             "choice_data_list": [
-                "Let's play RDLI!"
+                "Vamos jogar RDLI!"
             ]
         },
         {
-            "name": "",
+            "name": "Narita Taishin",
             "text": "...!"
         },
         {
             "name": "",
-            "text": "RDLI is a PvP FPS developed<n>overseas. What\nmakes it fun is the<n>wide arsenal of weapons\nplayers can<n>use to outwit their opponents."
+            "text": "RDLI é um FPS PvP desenvolvido no<n>exterior. A\ngraça do jogo está no<n>vasto arsenal de armas que\nos<n>jogadores podem usar para superar<n>seus\nadversários."
         },
         {
             "name": "Narita Taishin",
-            "text": "I thought I was the only one around<n>here who plays\nit..."
+            "text": "Achei que fosse a única pessoa<n>daqui que\njogava..."
         },
         {
             "name": "",
-            "text": "I heard from Super Creek that Narita<n>Taishin's been\ngrumbling about not<n>having anyone to play with."
+            "text": "Ouvi da Super Creek que Narita<n>Taishin andava\nreclamando por não<n>ter ninguém com quem jogar."
         },
         {
             "name": "",
-            "text": "I stand little chance of beating an<n>experienced\nplayer like her, but she'll<n>probably enjoy it if I put\nup a good<n>enough fight.",
+            "text": "Tenho poucas chances de vencer<n>uma jogadora\nexperiente como ela,<n>mas provavelmente vai gostar\nse eu<n>der um pouco de trabalho.",
             "choice_data_list": [
-                "Let's battle!"
+                "Vamos lutar!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Fine. I accept your challenge."
+            "text": "Tudo bem. Aceito seu desafio."
         },
         {
             "name": "",
-            "text": "I'm a little unsettled by how readily<n>she accepts my\noffer, but I charge<n>into battle nevertheless, ready to\ngive<n>the fight of my life."
+            "text": "Fico um pouco desconcertado com a<n>facilidade com\nque ela aceita minha<n>proposta, mas entro na\nbatalha<n>mesmo assim, pronto para dar tudo<n>de mim."
         },
         {
             "name": "",
-            "text": "YOU LOSE."
+            "text": "VOCÊ PERDEU."
         },
         {
-            "name": "",
-            "text": "That's another win for me. I'm five<n>for five now.",
+            "name": "Narita Taishin",
+            "text": "Mais uma vitória pra mim. Agora são<n>cinco\nseguidas.",
             "choice_data_list": [
-                "Y-you're so good at this!"
+                "V-você é boa nisso!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Yeah? I mean, I do play a lot."
+            "text": "É mesmo? Quer dizer, eu jogo<n>bastante."
         },
         {
             "name": "Narita Taishin",
-            "text": "Anyway, you had a lot of nerve<n>challenging me\ndespite being trash at<n>the game."
+            "text": "Enfim, teve muita coragem de me<n>desafiar mesmo\nsendo tão ruim no<n>jogo."
         },
         {
             "name": "Narita Taishin",
-            "text": "You choose terrible weapons and<n>stages, and you\nsuck at using the<n>NPCs. Did you even change the\nsettings to match your play style?"
+            "text": "Você escolhe armas e mapas<n>péssimos, além de\nnão saber usar os<n>NPCs. Você sequer mudou as\nconfigurações pra combinar com seu<n>estilo de\njogo?"
         },
         {
             "name": "Narita Taishin",
-            "text": "This is my first time playing PvP<n>mode, so I was\nlooking forward to it,<n>but playing against you is\ndisappointing as hell."
+            "text": "Essa é a minha primeira vez jogando<n>no modo\nPvP, então eu tava meio<n>animada, mas jogar contra\nvocê é<n>decepcionante pra caramba."
         },
         {
             "name": "",
-            "text": "Narita Taishin is rarely this chatty. She<n>seems to be\nin a good mood now that<n>she's found someone to\nwipe the<n>floor with."
+            "text": "Narita Taishin raramente fala tanto<n>assim. Parece\nestar de bom humor<n>agora que encontrou alguém\nque<n>consegue derrotar sem esforço."
         },
         {
             "name": "Narita Taishin",
-            "text": "It's no fun like this... Want me to<n>make things\neasier for you?",
+            "text": "Assim não tem graça... Quer que eu<n>facilite para\nvocê?",
             "choice_data_list": [
-                "Please!",
-                "Not yet!"
+                "Por favor!",
+                "Ainda não!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Wow, no hesitation. Don't you have<n>any pride?",
+            "text": "Uau, nem hesitou. Você não tem<n>orgulho?",
             "choice_data_list": [
-                "I just want to keep hanging out with you."
+                "Só quero continuar passando um tempo com você."
             ]
         },
         {
-            "name": "",
+            "name": "Narita Taishin",
             "text": "Huh?"
         },
         {
             "name": "",
-            "text": "If I keep losing so easily, she's going<n>to get bored.\nI'll gladly throw away<n>my pride to give her a better\nmatch."
+            "text": "Se eu continuar perdendo tão<n>facilmente, ela vai\nficar entediada. Não<n>me importo de abrir mão do\nmeu<n>orgulho para proporcionar uma<n>partida melhor."
         },
         {
             "name": "Narita Taishin",
-            "text": "Do you hear yourself? You are<n>seriously have no\nshame at all."
+            "text": "Você tá se ouvindo? Você realmente<n>não tem\nvergonha nenhuma."
         },
         {
             "name": "Narita Taishin",
-            "text": "I'll only use the default weapons, and<n>you can\nborrow one of my SSRs. If<n>you still can't win, then\nyou're a lost<n>cause.",
+            "text": "Vou usar apenas as armas padrão, e<n>você pode\npegar emprestada uma<n>das minhas armas SSR. Se\nainda<n>assim não conseguir vencer, então<n>não tem\nmais jeito pra você.",
             "choice_data_list": [
-                "Thanks!"
+                "Valeu!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Hmph, whatever."
+            "text": "Hmph, tanto faz."
         },
         {
             "name": "",
-            "text": "YOU LOSE."
+            "text": "VOCÊ PERDEU."
         },
         {
             "name": "Narita Taishin",
-            "text": "I knew you couldn't do it.",
+            "text": "Eu sabia que ia dar no mesmo.",
             "choice_data_list": [
-                "...I give up."
+                "...Desisto"
             ]
         },
         {
             "name": "",
-            "text": "Even after countless rematches, I<n>just can't win\nagainst her. I try to<n>apologize for being a terrible\npartner,<n>but she cuts me off."
+            "text": "Mesmo depois de inúmeras<n>revanche,\nsimplesmente não consigo<n>vencê-la. Tento me\ndesculpar por ser<n>uma péssima parceira de jogo,\nmas<n>ela me interrompe."
         },
         {
             "name": "Narita Taishin",
-            "text": "It's fine. We can play again some<n>other time.",
+            "text": "Tá tranquilo. Podemos jogar de novo<n>outra hora.",
             "choice_data_list": [
-                "Wait... Really?"
+                "Espera... Sério?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "The rewards they give out for winning<n>PvP matches\nare pretty good. Plus,<n>crushing you is kinda fun."
+            "text": "As recompensas por vencer partidas<n>PvP são muito\nboas. Além disso, é<n>meio divertido acabar com\nvocê."
         },
         {
             "name": "",
-            "text": "Her words are harsh, but at least<n>she's giving me\na chance."
+            "text": "As palavras dela são duras, mas pelo<n>menos está\nme dando outra chance."
         },
         {
             "name": "Narita Taishin",
-            "text": "Hmm? You really think you can beat<n>me without\nany boosts?",
+            "text": "Hmm? Você realmente acha que<n>consegue me\nvencer sem nenhuma<n>vantagem?",
             "choice_data_list": [
-                "Not really..."
+                "Não exatamente..."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Then you should just ask for a<n>handicap. It'll even\nthe playing field.",
+            "text": "Então é só pedir uma vantagem.<n>Assim, a disputa\nfica mais<n>equilibrada.",
             "choice_data_list": [
-                "This game is super fun, so I want to try winning by\nmyself."
+                "Esse jogo é muito divertido, então quero tentar\nvencer por conta própria."
             ]
         },
         {
@@ -177,57 +177,57 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "I thought you were gonna complain<n>about being bad\nat strategizing, not<n>getting the controls, or that the\ngame's too violent and scary.",
+            "text": "Achei que você fosse reclamar que é<n>ruim em\nestratégia, que não entende<n>os controles ou que o\njogo é violento<n>e assustador demais.",
             "choice_data_list": [
-                "That's what makes it fun!"
+                "É isso que o torna divertido!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "If you say so. Give me your best."
+            "text": "Se você diz. Dê o seu melhor."
         },
         {
             "name": "",
-            "text": "She seems to be in an even better<n>mood, but..."
+            "text": "Ela parece estar de ainda melhor<n>humor, mas..."
         },
         {
             "name": "Narita Taishin",
             "text": "...",
             "choice_data_list": [
-                "Huh? I missed the landing."
+                "Hã? Errei o pouso."
             ]
         },
         {
             "name": "Narita Taishin",
             "text": "...",
             "choice_data_list": [
-                "Uh... What does this item do again?"
+                "É... O que esse item faz mesmo?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Ugggh! Stop!"
+            "text": "Ugggh! Para!"
         },
         {
             "name": "Narita Taishin",
-            "text": "I'm getting ticked off just watching<n>you play! You\nshould use that item<n>you got earlier and..."
+            "text": "Só de assistir você jogar já fico<n>irritada! Você\ndevia usar aquele item<n>que pegou antes e..."
         },
         {
             "name": "Narita Taishin",
-            "text": "See? Now you get more health back.<n>Restoration\nitems are vital to winning.",
+            "text": "Viu? Agora você recupera mais vida.<n>Itens de\nrecuperação são essenciais<n>pra vencer.",
             "choice_data_list": [
-                "I see now! You're incredible, Taishin!"
+                "Agora entendi! Você é incrível, Taishin!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "...This is, like, the most basic of basic<n>knowledge."
+            "text": "...Isso é o básico do básico."
         },
         {
             "name": "Narita Taishin",
-            "text": "Whatever. Agh, look at the time! I've<n>wasted the\nwhole day with you!",
+            "text": "Tanto faz. Ah, olha só a hora! Perdi o<n>dia inteiro com\nvocê!",
             "choice_data_list": [
-                "Thanks for teaching me so much, Taishin!"
+                "Obrigada por me ensinar tanta coisa, Taishin!"
             ]
         },
         {
@@ -236,11 +236,11 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "I don't need your thanks! I'm<n>leaving!"
+            "text": "Não preciso do seu obrigado! Tô indo<n>embora!"
         },
         {
             "name": "",
-            "text": "She leaves in a huff, but I'm glad I<n>got to play so\nmany rounds against<n>her."
+            "text": "Ela vai embora irritada, mas fico feliz<n>por ter\nconseguido jogar tantas<n>partidas contra ela."
         }
     ]
 }

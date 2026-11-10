@@ -2,171 +2,171 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "While walking around campus, I<n>happen to see\nBiwa Hayahide and Air<n>Groove talking with each\nother."
+            "text": "Caminhando pelo campus, acabo<n>vendo a Biwa\nHayahide e a Air<n>Groove conversando."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "In short, I apologize for Brian's<n>continued absence\nfrom student<n>council meetings..."
+            "text": "Em suma, peço desculpas pelas<n>constantes\nausências da Brian nas<n>reuniões do conselho\nestudantil..."
         },
         {
             "name": "Air Groove",
-            "text": "Oh, you needn't apologize. I'm quite<n>accustomed to\nher absence, actually.<n>And to the president's as\nwell, what<n>with her outings."
+            "text": "Ora, não precisa se desculpar. Na<n>verdade, já estou\nbem acostumada<n>às ausências dela. E às da\npresidente também, com todas<n>aquelas saídas."
         },
         {
             "name": "Air Groove",
-            "text": "That said, today's meeting concerns<n>a matter of\nsome urgency, which<n>means it can't be postponed\nover an<n>absence or two."
+            "text": "Dito isso, a pauta da reunião de hoje<n>é de certa\nurgência, o que significa<n>que não pode ser adiada\npor causa<n>de uma ou duas ausências."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "In that case, allow me to attend in<n>Brian's place.",
+            "text": "Nesse caso, permita-me comparecer<n>no lugar da\nBrian.",
             "choice_data_list": [
-                "You're going to help out with the student council?",
-                "You're going to help out with the student council?"
+                "Você vai ajudar o conselho estudantil?",
+                "Você vai ajudar o conselho estudantil?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Yes, precisely. I'm sorry but it<n>appears today's\ntraining session<n>might suffer a small delay."
+            "text": "Sim, precisamente. Peço desculpas,<n>mas parece\nque o treino de hoje<n>sofrerá um pequeno atraso."
         },
         {
             "name": "Monólogo",
-            "text": "Since Biwa Hayahide is attending, I<n>decide to take\nthe opportunity to sit in<n>and observe the meeting\nmyself."
+            "text": "Já que a Biwa Hayahide vai<n>participar, decido\naproveitar a<n>oportunidade para acompanhar e\nobservar a reunião também."
         },
         {
             "name": "Air Groove",
-            "text": "So, to start with, if you would all turn<n>your attention\nto the screen for<n>today's topic..."
+            "text": "Muito bem, para começar, peço que<n>todas voltem a\natenção para o telão<n>com o tema de hoje..."
         },
         {
             "name": "Air Groove",
-            "text": "Wait... where's the file? Who was the<n>last person\nto update this?"
+            "text": "Esperem... onde está o arquivo?<n>Quem foi a última\npessoa a atualizar<n>isto?"
         },
         {
-            "name": "Timid Umamusume",
-            "text": "I'm... I'm sorry! I think this might be<n>my fault!\nUmm... I'm sure the data<n>was in here—oh no!"
+            "name": "Umamusume Tímida",
+            "text": "M-mil desculpas! Acho que a culpa<n>pode ser minha!\nHã... Eu tinha certeza<n>de que os dados estavam\naqui... Ah,<n>não!"
         },
         {
             "name": "Air Groove",
-            "text": "Forget it. We haven't the time to<n>spare. I'll just\nimprovise."
+            "text": "Esqueça. Não temos tempo a perder.<n>Vou\nimprovisar."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "That won't be necessary. I've<n>prepared the\nrelevant data. Here, I'll<n>put it through the projector."
+            "text": "Não será necessário. Eu preparei os<n>dados\nrelevantes. Aqui, vou<n>colocá-los no projetor."
         },
         {
             "name": "Air Groove",
-            "text": "Really? I appreciate it."
+            "text": "Sério? Agradeço muito."
         },
         {
             "name": "Air Groove",
-            "text": "Hm? What's this? I don't remember<n>creating any\ngraphs..."
+            "text": "Hm? O que é isto? Não me lembro de<n>ter criado\nnenhum gráfico..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Ah, I whipped that up a moment ago. I<n>figured that\nthe information would be<n>easier to digest this way."
+            "text": "Ah, eu montei isso agora há pouco.<n>Imaginei que as\ninformações ficariam<n>mais fáceis de assimilar\ndessa forma."
         },
         {
             "name": "Air Groove",
-            "text": "...All right. Well, it seems we've heard<n>most of your\nopinions. Does anyone<n>have any questions before\nwe vote?"
+            "text": "...Muito bem. Parece que já ouvimos<n>a maioria das\nopiniões. Alguém tem<n>alguma dúvida antes de\nabrirmos a<n>votação?"
         },
         {
-            "name": "Absentminded Umamusume",
-            "text": "Um, would you mind repeating that<n>thing you\nmentioned earlier? What<n>was it—I think it had to do\nwith the<n>dorms."
+            "name": "Umamusume Distraída",
+            "text": "Hã, você se importaria de repetir<n>aquilo que\nmencionou antes? O que<n>era mesmo? Acho que\ntinha a ver<n>com os dormitórios."
         },
         {
             "name": "Air Groove",
-            "text": "That's a little vague... Do you at least<n>remember\nwhose statement it was?"
+            "text": "Isso é um pouco vago... Você ao<n>menos se lembra\nde quem fez a<n>declaração?"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It's okay. I'm reviewing the meeting<n>transcript. The\nstatement was made<n>by the third speaker."
+            "text": "Tudo bem. Estou conferindo a ata da<n>reunião. A\ndeclaração foi feita pela<n>terceira oradora."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It reads as follows, \"Since the number<n>of students\nin attendance has risen, I<n>propose that we increase\neach<n>dorm's stock of household supplies.\""
+            "text": "Diz o seguinte: \"Como o número de<n>alunas\nmatriculadas aumentou,<n>proponho que ampliemos o\nestoque<n>de itens de uso diário de cada<n>dormitório.\""
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Excellent work today, Air Groove. I<n>think the\nmeeting concluded without a<n>hitch."
+            "text": "Excelente trabalho hoje, Air Groove.<n>Acredito que a\nreunião foi concluída<n>sem nenhum contratempo."
         },
         {
             "name": "Air Groove",
-            "text": "Hayahide! Would you consider<n>joining the student\ncouncil?!"
+            "text": "Hayahide! Você consideraria entrar<n>para o conselho\nestudantil?!"
         },
         {
             "name": "Air Groove",
-            "text": "I know I've extended you countless<n>invitations\nbefore, but today you<n>convinced me! Your presence\nin the<n>council would solve so many of our<n>problems!"
+            "text": "Sei que já lhe fiz inúmeros convites<n>antes, mas\nhoje você me convenceu<n>de vez! Sua presença no\nconselho<n>resolveria tantos dos nossos<n>problemas!"
         },
         {
             "name": "Symboli Rudolf",
-            "text": "I agree with Air Groove. I only joined<n>the meeting\nmidway through, but from<n>what I saw, your\ncontributions were<n>magnificent."
+            "text": "Concordo com a Air Groove. Só<n>cheguei na metade\nda reunião, mas,<n>pelo que vi, suas contribuições\nforam<n>magníficas."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "With all due respect... I'm afraid I<n>would lack the\nflexibility to balance<n>council responsibilities with\nracing.<n>Trainer, would you agree?",
+            "text": "Com todo o respeito... receio não ter a<n>flexibilidade\nnecessária para conciliar<n>as responsabilidades do\nconselho<n>com as corridas. Treinador, você não\nconcorda?",
             "choice_data_list": [
-                "Why not try it out for a day?",
-                "What if you join on the condition that they look\nafter your sister?"
+                "Por que não faz um teste por um dia?",
+                "E se você entrar com a condição de que cuidem da\nsua irmã?"
             ]
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Just for a day? I suppose I could<n>manage that..."
+            "text": "Apenas por um dia? Suponho que eu<n>dê conta\ndisso..."
         },
         {
             "name": "Monólogo",
-            "text": "And so, Biwa Hayahide spends the<n>rest of her day\nhelping the student<n>council with their work.\nHowever..."
+            "text": "E assim, Biwa Hayahide passa o<n>resto do dia\najudando o conselho<n>estudantil com o trabalho.\nEntretanto..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "The pool's temperature setting? Yes,<n>I do wonder\nwhy it's been set at this<n>many degrees. Hmm, I\nmight find the<n>reason if I trace backwards through\nthese records."
+            "text": "O ajuste de temperatura da piscina?<n>De fato, eu me\npergunto por que foi<n>configurado exatamente nessa\ntemperatura. Hmm, talvez eu<n>descubra o motivo se\nvasculhar os<n>registros anteriores."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "There are daily scrambles to<n>purchase baked\ngoods from the<n>school store? Well, increasing the\nstock should solve that issue, but I<n>wonder if\nsomething else is at play<n>here... Okay, I'll look into\nit."
+            "text": "Há uma disputa diária para comprar<n>pães na\ncantina da escola? Bem,<n>aumentar o estoque deve\nresolver a<n>questão, mas me pergunto se há<n>outro\nfator em jogo aqui... Certo, vou<n>investigar."
         },
         {
             "name": "Monólogo",
-            "text": "Perhaps it's her tendency to go the<n>extra mile, but\nBiwa Hayahide always<n>has trouble knowing when\nto clock<n>out..."
+            "text": "Talvez seja sua mania de ir sempre<n>até o fim em\ntudo, mas a Biwa<n>Hayahide tem muita dificuldade\npara<n>saber a hora de encerrar o<n>expediente..."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Biwa Hayahide, is everything okay?<n>You do realize\nit's nighttime? I believe<n>you're pushing yourself a\nlittle hard..."
+            "text": "Biwa Hayahide, está tudo bem? Você<n>percebeu que\njá é noite? Acredito<n>que esteja se esforçando\nalém da<n>conta..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It's already nighttime?! I'm sorry, I<n>didn't notice at\nall! Perhaps I was<n>right to presume I'm not cut out\nfor<n>this..."
+            "text": "Já é noite?! Peço desculpas, nem<n>percebi o tempo\npassar! Talvez eu<n>tivesse razão em presumir que\nnão<n>levo jeito para a função..."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Well, the role does require that you<n>set your\npriorities properly. Let's<n>have you take a hiatus\nfrom student<n>council for now."
+            "text": "Bem, o cargo de fato exige saber<n>definir bem as\nprioridades. Por ora, é<n>melhor você dar uma pausa\nnas<n>atividades do conselho estudantil."
         },
         {
             "name": "Air Groove",
-            "text": "But she was getting so much done...<n>Urk! So close!"
+            "text": "Mas ela estava adiantando tanta<n>coisa... Argh! Foi\npor tão pouco!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I see... That's a great idea!"
+            "text": "Entendo... Essa é uma excelente<n>ideia!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Brian always goes overboard the<n>minute I let her\nout of my sight. But I<n>can't keep an eye on her all\nday long.<n>With the help of the student council,\nthough..."
+            "text": "A Brian sempre passa dos limites no<n>instante em\nque a perco de vista.<n>Mas não consigo vigiá-la o\ndia inteiro.<n>Com a ajuda do conselho estudantil,\nporém..."
         },
         {
             "name": "Air Groove",
-            "text": "I'm afraid I must object. We don't<n>have the means\nto manage that one."
+            "text": "Receio ter de vetar essa condição.<n>Não temos\nestrutura para dar conta<n>daquela lá."
         },
         {
             "name": "Symboli Rudolf",
-            "text": "Agreed. We supervise her where<n>possible, but full\ncustody would be a<n>tall order."
+            "text": "De acordo. Nós a supervisionamos na<n>medida do\npossível, mas assumir a<n>guarda integral seria pedir\ndemais."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I see... Then, please forget we ever<n>discussed this."
+            "text": "Compreendo... Nesse caso, por favor,<n>esqueçam\nque tocamos nesse<n>assunto."
         },
         {
             "name": "Air Groove",
-            "text": "Still, Hayahide, you're welcome to<n>join the student\ncouncil whenever<n>you feel so inclined! And I do\nmean<n><i>whenever!</i>"
+            "text": "Ainda assim, Hayahide, as portas do<n>conselho\nestudantil estarão abertas<n>para você sempre que\nquiser! E<n>quando digo sempre, é <i>sempre<n>mesmo!</i>"
         }
     ]
 }

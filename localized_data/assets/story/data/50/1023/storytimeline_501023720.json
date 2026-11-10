@@ -2,41 +2,41 @@
     "text_block_list": [
         {
             "name": "",
-            "text": "One day, I bring <chrname> to the infirmary for a<n>checkup."
+            "text": "Certo dia, levo a <chrname> à enfermaria para<n>um check-up."
         },
         {
             "name": "???",
-            "text": "Oh! A custo—I mean, a student! Hello!"
+            "text": "Oh! Uma clien— digo, uma aluna! Olá!"
         },
         {
             "name": "???",
-            "text": "Are you hurt? Sick? Stressed?<n>Whatever it is, I treat\nit all!",
+            "text": "Machucada? Doente? Estressada?<n>Seja lá o que\nfor, eu curo tudo!",
             "choice_data_list": [
-                "Who are you?!"
+                "Quem é você?!"
             ]
         },
         {
             "name": "???",
-            "text": "Well, considering you're at the<n>academy infirmary,\nI'd say that<n>makes me your trusty school nurse!\nYup, just your average school<n>employee!",
+            "text": "Ora, considerando que vocês estão<n>na enfermaria\nda academia, isso faz<n>de mim a sua enfermeira\nescolar de<n>confiança! Isso mesmo, apenas uma\nfuncionária comum da escola!",
             "choice_data_list": [
-                "No you aren't?"
+                "Não é nada disso, né?"
             ]
         },
         {
             "name": "???",
-            "text": "Ahaha! Guess there's no fooling you.<n>I suppose I\nshould start by giving you<n>my name."
+            "text": "Ahaha! Pelo visto não dá pra enganar<n>você. Acho\nque devo começar me<n>apresentando."
         },
         {
             "name": "???",
-            "text": "Ahem! Allow me to introduce myself!"
+            "text": "Cof, cof! Permitam-me apresentar!"
         },
         {
             "name": "???",
-            "text": "I am the (likely) savior of all<n>Umamusume, the\n(self-proclaimed)<n>legendary acupuncturist with the\nmagic touch..."
+            "text": "Eu sou a (provável) salvadora de<n>todas as\nUmamusume, a<n>(autointitulada) acupunturista\nlendária<n>do toque mágico..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "The one and only Sasami<n>Anshinzawa! See? No\nworries! ☆",
+            "text": "A única e inigualável Sasami<n>Anshinzawa! Viu só?\nSem<n>preocupações! ☆",
             "choice_data_list": [
                 "..."
             ],
@@ -46,521 +46,521 @@
         },
         {
             "name": "Biwa Hayahide",
-            "text": "...In other words, you're a shady,<n>unreliable\nstranger. Unfortunately for<n>you, I'm in perfect health\nand require<n>no treatment."
+            "text": "...Em outras palavras, você é uma<n>desconhecida\nsuspeita e nada<n>confiável. Infelizmente para você,\nestou em perfeita saúde e não<n>necessito de\ntratamento algum."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Gosh! You sure seem worried! ☆"
+            "text": "Puxa! Você parece bem preocupada,<n>hein! ☆"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "No matter! No matter! We've made<n>our\nintroductions, so lie down and let<n>me put these\nneedles to work!"
+            "text": "Não importa! Deixa pra lá!<n>Apresentações feitas,\nagora deite aí e<n>deixe-me colocar estas agulhas\npara<n>trabalhar!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Wait! At least show me some clinical<n>data for this\ntreatment! What kind of<n>post-procedure effects are\nthere?<n>Trainer, help!"
+            "text": "Espere! Mostre-me ao menos alguns<n>dados\nclínicos desse tratamento!<n>Quais são os efeitos\npós-procedimento? Treinador,<n>socorro!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Hahaha! No need to be scared! All<n>I'm going to do\nis slip these<n>extraordinary needles precisely into\nyour chakra points."
+            "text": "Hahaha! Não precisa ter medo! Tudo<n>o que vou\nfazer é espetar estas<n>agulhas extraordinárias com\nprecisão<n>nos seus pontos de chakra."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Then voilà, presto! Something<n>indescribable will\nhappen!",
+            "text": "E então, voilà, zás-trás! Algo<n>indescritível vai\nacontecer!",
             "choice_data_list": [
-                "(This is indescribably sketchy...)"
+                "(Isso é indescritivelmente suspeito...)"
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "And let me assure you, there's<n>absolutely nothing\nsketchy about this<n>at all! It's never gone anything\nless<n>than perfectly!"
+            "text": "E garanto a vocês que não há<n>absolutamente nada\nde suspeito<n>nisto! Nunca deu menos do que\nperfeitamente certo!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "...For my master.",
+            "text": "...Com o meu mestre.",
             "choice_data_list": [
-                "For your master?! What about for you?!"
+                "Com o seu mestre?! E com você?!"
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Don't fret! This is my first time, so<n>technically, I've\nnever failed a patient<n>either!"
+            "text": "Não esquenta! Esta é a minha<n>primeira vez, então,\ntecnicamente, eu<n>nunca falhei com nenhum\npaciente<n>também!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "And it's not like I have no<n>experience! I spent ten\nyears under a<n>legendary master, fetching dri—I\nmean, training!"
+            "text": "E não é como se eu não tivesse<n>experiência!\nPassei dez anos sob a<n>tutela de um mestre\nlendário,<n>servindo bebi— digo, treinando!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "See? No worries! ☆",
+            "text": "Viu só? Sem preocupações! ☆",
             "choice_data_list": [
-                "(We need to get outta here, stat!)"
+                "(Precisamos dar o fora daqui, e já!)"
             ]
         },
         {
             "name": "",
-            "text": "There's no way we're doing this. I<n>take <chrname> and head\nfor the door, when..."
+            "text": "Sem chance de toparmos uma furada<n>dessas. Pego\na <chrname> e vou em direção à<n>porta, quando..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "W-wait! Where are you going?!"
+            "text": "E-esperem! Aonde vocês vão?!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "You're Biwa Hayahide, right? The<n>Umamusume\nwho's creating a<n>winning equation using logic and\ndata?",
+            "text": "Você é a Biwa Hayahide, não é? A<n>Umamusume\nque está criando a<n>equação da vitória com lógica e\ndados?",
             "choice_data_list": [
-                "You've heard of her?"
+                "Você já ouviu falar dela?"
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Have I heard of her? Of course I<n>have! I'm a big\nfan!"
+            "text": "Se já ouvi falar?! Claro que sim! Sou<n>super fã!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "That's precisely why I'm here! To<n>give you my\nsupport! Let me help<n>you!"
+            "text": "É exatamente por isso que estou<n>aqui! Para dar o\nmeu apoio! Deixe-me<n>ajudar você!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Just give me a chance! Pleeease!"
+            "text": "Só me dê uma chance! Por favooor!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "You can plead all you want, but this is<n>a medical\nprocedure we're talking<n>about..."
+            "text": "Você pode implorar o quanto quiser,<n>mas estamos\nfalando de um<n>procedimento médico..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Please! Pretty please with a carrot on<n>top! I'll even\nlet you choose which<n>chakra I activate!"
+            "text": "Por favor! Por favorzinho com uma<n>cenoura em\ncima! Eu até deixo você<n>escolher qual chakra vou\nativar!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "I'm <i>sure</i> I won't mess up!"
+            "text": "Tenho <i>certeza</i> de que não vou errar!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Well... pretty sure.",
+            "text": "Bom... quase certeza.",
             "choice_data_list": [
-                "<i>Pretty</i> sure?!"
+                "<i>Quase</i> certeza?!"
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "I mean, it's on the sure side! That's<n><i>good,</i> right?\nAnyway, don't get hung<n>up on the details!"
+            "text": "Quer dizer, tá mais pra certeza do que<n>pra dúvida!\nIsso é <i>bom,</i> né? Enfim,<n>não vamos nos apegar aos\ndetalhes!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Let's get to the good stuff! Which<n>chakra should I\nactivate? Do you<n>want a boost to your abilities?\nYour<n>health? Or maybe your <i>charm?</i>"
+            "text": "Vamos ao que interessa! Qual chakra<n>devo ativar?\nQuer dar um gás nas<n>suas habilidades? Na sua\nsaúde? Ou<n>quem sabe no seu <i>charme?</i>"
         },
         {
             "name": "",
-            "text": "I smell danger in the air, but I figure<n>there might—and\nI emphasize<n><i>might</i>—be a chance of getting<n>something\nspecial out of this<n>treatment."
+            "text": "Sinto cheiro de perigo no ar, mas<n>calculo que pode —\ne bota <i>pode</i> nisso<n>— haver uma chance de\nconseguirmos algo especial com<n>esse tratamento."
         },
         {
             "name": "",
-            "text": "What should we do?",
+            "text": "O que devemos fazer?",
             "choice_data_list": [
-                "Activate the strength chakra.",
-                "Activate the winning chakra.",
-                "Activate the health chakra.",
-                "Activate the charm chakra.",
-                "This is too sketchy. Let's quit while we still can."
+                "Ativar o chakra da força.",
+                "Ativar o chakra da vitória.",
+                "Ativar o chakra da saúde.",
+                "Ativar o chakra do charme.",
+                "Isso é suspeito demais. Vamos cair fora enquanto\ndá tempo."
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "I see, I see. So you want me to<n>activate the strength\nchakra?"
+            "text": "Entendi, entendi. Então você quer que<n>eu ative o\nchakra da força?"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Then let's get started! Are you<n>ready? There's no\ngoing back after!",
+            "text": "Então vamos começar! Pronta?<n>Depois não tem\nvolta!",
             "choice_data_list": [
-                "Go ahead.",
-                "Wait, hold on."
+                "Pode mandar ver.",
+                "Espera aí, segura a onda."
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "All right, leave it to me! Time to locate<n>that chakra!\nOllie, ollie, oxen free!"
+            "text": "Muito bem, deixa comigo! Hora de<n>localizar esse\nchakra! Cadê você,<n>pode aparecer!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Now, just relaaax... See? No worries!<n>☆"
+            "text": "Agora, só relaaaxa... Viu só? Sem<n>preocupações! ☆"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Aaand poke!"
+            "text": "Eee... espetou!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "O-ouch!"
+            "text": "A-ai!"
         },
         {
             "name": "",
-            "text": "Puncture Perfect!"
+            "text": "Agulhada Perfeita!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "How can this be? Trainer!"
+            "text": "Como isso é possível? Treinador!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "My heart rate, body temperature,<n>muscle\nelasticity—everything is<n>functioning at near optimal\nlevels. She<n>really knows what she's doing!"
+            "text": "Minha frequência cardíaca,<n>temperatura corporal,\nelasticidade<n>muscular... Tudo está funcionando em\nníveis quase ideais. Ela realmente<n>sabe o que está\nfazendo!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "<i>Gasp...</i> You're kidding... It actually<n>worked?!"
+            "text": "<i>Ah...</i> Tá brincando... Funcionou<n>mesmo?!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "No waaay! I can't believe it! I'm a<n>total genius!"
+            "text": "Mentiiira! Não acredito! Eu sou uma<n>gênia!"
         },
         {
             "name": "",
-            "text": "<chrname> is overflowing with so much power<n>she's almost\nunrecognizable!"
+            "text": "A <chrname> está transbordando tanta força que<n>fica quase\nirreconhecível!"
         },
         {
             "name": "",
-            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+            "text": "Arriscamos e valeu a pena! Demos<n>um grande\nsalto rumo ao nosso<n>objetivo!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Oof... My head... It feels like it's the<n>size of a\nwatermelon."
+            "text": "Urgh... Minha cabeça... Parece que<n>está do tamanho\nde uma melancia."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It isn't actually the size of a<n>watermelon, is it,\nTrainer?!"
+            "text": "Ela não ficou do tamanho de uma<n>melancia de\nverdade, ficou,<n>Treinador?!"
         },
         {
             "name": "",
-            "text": "<chrname>'s condition deteriorates rapidly."
+            "text": "O estado da <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "So... That's that, I guess..."
+            "text": "Bom... É isso aí, né..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Well, would you look at the time? I<n>should get going!\nBye! ☆"
+            "text": "Nossa, olha só a hora! Preciso ir<n>andando!\nTchauzinho! ☆"
         },
         {
             "name": "",
-            "text": "I should've known better than to test<n>our luck. I'm\nnot the one suffering,<n>yet I'm full of regret."
+            "text": "Eu não devia ter abusado da sorte.<n>Mesmo não\nsendo eu quem está<n>sofrendo, bate um\narrependimento<n>imenso."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "I see, I see. So, you want me to<n>activate the winning\nchakra?"
+            "text": "Entendi, entendi. Então você quer que<n>eu ative o\nchakra da vitória?"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Then let's get started! Are you<n>ready? There's no\ngoing back after!",
+            "text": "Então vamos começar! Pronta?<n>Depois não tem\nvolta!",
             "choice_data_list": [
-                "Go ahead.",
-                "Wait, hold on."
+                "Pode mandar ver.",
+                "Espera aí, segura a onda."
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "All right, leave it to me! Time to locate<n>that chakra!\nOllie, ollie, oxen free!"
+            "text": "Muito bem, deixa comigo! Hora de<n>localizar esse\nchakra! Cadê você,<n>pode aparecer!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Now, just relaaax... See? No worries!<n>☆"
+            "text": "Agora, só relaaaxa... Viu só? Sem<n>preocupações! ☆"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Aaand poke!"
+            "text": "Eee... espetou!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "O-ouch!"
+            "text": "A-ai!"
         },
         {
             "name": "",
-            "text": "Puncture Perfect!"
+            "text": "Agulhada Perfeita!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "How can this be? Trainer!"
+            "text": "Como isso é possível? Treinador!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "My heart rate, body temperature,<n>muscle\nelasticity—everything is<n>functioning at near optimal\nlevels. She<n>really knows what she's doing!"
+            "text": "Minha frequência cardíaca,<n>temperatura corporal,\nelasticidade<n>muscular... Tudo está funcionando em\nníveis quase ideais. Ela realmente<n>sabe o que está\nfazendo!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "<i>Gasp...</i> You're kidding... It actually<n>worked?!"
+            "text": "<i>Ah...</i> Tá brincando... Funcionou<n>mesmo?!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "No waaay! I can't believe it! I'm a<n>total genius!"
+            "text": "Mentiiira! Não acredito! Eu sou uma<n>gênia!"
         },
         {
             "name": "",
-            "text": "I can sense a huge improvement in<n><chrname>'s skills!"
+            "text": "Consigo sentir uma evolução enorme<n>nas\nhabilidades da <chrname>!"
         },
         {
             "name": "",
-            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+            "text": "Arriscamos e valeu a pena! Demos<n>um grande\nsalto rumo ao nosso<n>objetivo!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Oof... My head... It feels like it's the<n>size of a\nwatermelon."
+            "text": "Urgh... Minha cabeça... Parece que<n>está do tamanho\nde uma melancia."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It isn't actually the size of a<n>watermelon, is it,\nTrainer?!"
+            "text": "Ela não ficou do tamanho de uma<n>melancia de\nverdade, ficou,<n>Treinador?!"
         },
         {
             "name": "",
-            "text": "<chrname>'s condition deteriorates rapidly."
+            "text": "O estado da <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "So... That's that, I guess..."
+            "text": "Bom... É isso aí, né..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Well, would you look at the time? I<n>should get going!\nBye! ☆"
+            "text": "Nossa, olha só a hora! Preciso ir<n>andando!\nTchauzinho! ☆"
         },
         {
             "name": "",
-            "text": "I should've known better than to test<n>our luck. I'm\nnot the one suffering,<n>yet I'm full of regret."
+            "text": "Eu não devia ter abusado da sorte.<n>Mesmo não\nsendo eu quem está<n>sofrendo, bate um\narrependimento<n>imenso."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "I see, I see. So, you want me to<n>activate the health\nchakra?"
+            "text": "Entendi, entendi. Então você quer que<n>eu ative o\nchakra da saúde?"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Then let's get started! Are you<n>ready? There's no\ngoing back after!",
+            "text": "Então vamos começar! Pronta?<n>Depois não tem\nvolta!",
             "choice_data_list": [
-                "Go ahead.",
-                "Wait, hold on."
+                "Pode mandar ver.",
+                "Espera aí, segura a onda."
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "All right, leave it to me! Time to locate<n>that chakra!\nOllie, ollie, oxen free!"
+            "text": "Muito bem, deixa comigo! Hora de<n>localizar esse\nchakra! Cadê você,<n>pode aparecer!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Now, just relaaax... See? No worries!<n>☆"
+            "text": "Agora, só relaaaxa... Viu só? Sem<n>preocupações! ☆"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Aaand poke!"
+            "text": "Eee... espetou!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "O-ouch!"
+            "text": "A-ai!"
         },
         {
             "name": "",
-            "text": "Puncture Perfect!"
+            "text": "Agulhada Perfeita!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "How can this be? Trainer!"
+            "text": "Como isso é possível? Treinador!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "My heart rate, body temperature,<n>muscle\nelasticity—everything is<n>functioning at near optimal\nlevels. She<n>really knows what she's doing!"
+            "text": "Minha frequência cardíaca,<n>temperatura corporal,\nelasticidade<n>muscular... Tudo está funcionando em\nníveis quase ideais. Ela realmente<n>sabe o que está\nfazendo!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "<i>Gasp...</i> You're kidding... It actually<n>worked?!"
+            "text": "<i>Ah...</i> Tá brincando... Funcionou<n>mesmo?!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "No waaay! I can't believe it! I'm a<n>total genius!"
+            "text": "Mentiiira! Não acredito! Eu sou uma<n>gênia!"
         },
         {
             "name": "",
-            "text": "<chrname>'s entire body is radiating a healthy<n>glow! She's\nthe absolute picture of<n>health!"
+            "text": "O corpo inteiro da <chrname> irradia um brilho<n>saudável! Ela é\na própria imagem da<n>saúde!"
         },
         {
             "name": "",
-            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+            "text": "Arriscamos e valeu a pena! Demos<n>um grande\nsalto rumo ao nosso<n>objetivo!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Oof... My head... It feels like it's the<n>size of a\nwatermelon."
+            "text": "Urgh... Minha cabeça... Parece que<n>está do tamanho\nde uma melancia."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It isn't actually the size of a<n>watermelon, is it,\nTrainer?!"
+            "text": "Ela não ficou do tamanho de uma<n>melancia de\nverdade, ficou,<n>Treinador?!"
         },
         {
             "name": "",
-            "text": "<chrname>'s condition deteriorates rapidly."
+            "text": "O estado da <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "So... That's that, I guess..."
+            "text": "Bom... É isso aí, né..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Well, would you look at the time? I<n>should get going!\nBye! ☆"
+            "text": "Nossa, olha só a hora! Preciso ir<n>andando!\nTchauzinho! ☆"
         },
         {
             "name": "",
-            "text": "I should've known better than to test<n>our luck. I'm\nnot the one suffering,<n>yet I'm full of regret."
+            "text": "Eu não devia ter abusado da sorte.<n>Mesmo não\nsendo eu quem está<n>sofrendo, bate um\narrependimento<n>imenso."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "I see, I see. So, you want me to<n>activate the charm\nchakra?"
+            "text": "Entendi, entendi. Então você quer que<n>eu ative o\nchakra do charme?"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Then let's get started! Are you<n>ready? There's no\ngoing back after!",
+            "text": "Então vamos começar! Pronta?<n>Depois não tem\nvolta!",
             "choice_data_list": [
-                "Go ahead.",
-                "Wait, hold on."
+                "Pode mandar ver.",
+                "Espera aí, segura a onda."
             ]
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "All right, leave it to me! Time to locate<n>that chakra!\nOllie, ollie, oxen free!"
+            "text": "Muito bem, deixa comigo! Hora de<n>localizar esse\nchakra! Cadê você,<n>pode aparecer!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Now, just relaaax... See? No worries!<n>☆"
+            "text": "Agora, só relaaaxa... Viu só? Sem<n>preocupações! ☆"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Aaand poke!"
+            "text": "Eee... espetou!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "O-ouch!"
+            "text": "A-ai!"
         },
         {
             "name": "",
-            "text": "Puncture Perfect!"
+            "text": "Agulhada Perfeita!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "How can this be? Trainer!"
+            "text": "Como isso é possível? Treinador!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "My heart rate, body temperature,<n>muscle\nelasticity—everything is<n>functioning at near optimal\nlevels. She<n>really knows what she's doing!"
+            "text": "Minha frequência cardíaca,<n>temperatura corporal,\nelasticidade<n>muscular... Tudo está funcionando em\nníveis quase ideais. Ela realmente<n>sabe o que está\nfazendo!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "<i>Gasp...</i> You're kidding... It actually<n>worked?!"
+            "text": "<i>Ah...</i> Tá brincando... Funcionou<n>mesmo?!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "No waaay! I can't believe it! I'm a<n>total genius!"
+            "text": "Mentiiira! Não acredito! Eu sou uma<n>gênia!"
         },
         {
             "name": "",
-            "text": "<chrname> is overflowing with charm! She's<n>bound to turn\nheads everywhere she<n>goes!"
+            "text": "A <chrname> está esbanjando charme! Com<n>certeza vai atrair\nolhares por onde<n>passar!"
         },
         {
             "name": "",
-            "text": "We took a chance and it paid off! This<n>is a great\nleap toward achieving our<n>goal!"
+            "text": "Arriscamos e valeu a pena! Demos<n>um grande\nsalto rumo ao nosso<n>objetivo!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "Oof... My head... It feels like it's the<n>size of a\nwatermelon."
+            "text": "Urgh... Minha cabeça... Parece que<n>está do tamanho\nde uma melancia."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "It isn't actually the size of a<n>watermelon, is it,\nTrainer?!"
+            "text": "Ela não ficou do tamanho de uma<n>melancia de\nverdade, ficou,<n>Treinador?!"
         },
         {
             "name": "",
-            "text": "<chrname>'s condition deteriorates rapidly."
+            "text": "O estado da <chrname> piora rapidamente."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "So... That's that, I guess..."
+            "text": "Bom... É isso aí, né..."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Well, would you look at the time? I<n>should get going!\nBye! ☆"
+            "text": "Nossa, olha só a hora! Preciso ir<n>andando!\nTchauzinho! ☆"
         },
         {
             "name": "",
-            "text": "I should've known better than to test<n>our luck. I'm\nnot the one suffering,<n>yet I'm full of regret."
+            "text": "Eu não devia ter abusado da sorte.<n>Mesmo não\nsendo eu quem está<n>sofrendo, bate um\narrependimento<n>imenso."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Aw, c'mon! Don't be like that!",
+            "text": "Ah, qual é! Não seja assim!",
             "choice_data_list": [
-                "Decline.",
-                "Reconsider."
+                "Recusar.",
+                "Reconsiderar."
             ]
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Hey! You there! I hope you know<n>trespassers <i>will</i>\nbe prosecuted!"
+            "text": "Ei! Você aí! Saiba que invasores<n><i>serão</i>\nprocessados!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Gah! I've been found out!"
+            "text": "Eita! Fui descoberta!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Welp, I'm outta here! ☆"
+            "text": "Bom, fui nessa! ☆"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Hey! Stop right there!"
+            "text": "Ei! Pare aí mesmo!"
         },
         {
             "name": "Biwa Hayahide",
-            "text": "That was bizarre, to say the least..."
+            "text": "Isso foi bizarro, para dizer o mínimo..."
         },
         {
             "name": "Biwa Hayahide",
-            "text": "I'm glad I didn't let her treat me. I<n>fear to think\nwhat might have<n>happened to me.",
+            "text": "Ainda bem que não deixei que ela me<n>tratasse.\nTenho até medo de pensar<n>no que poderia ter me\nacontecido.",
             "choice_data_list": [
-                "No kidding.",
-                "No kidding."
+                "Nem me fale.",
+                "Nem me fale."
             ]
         },
         {
             "name": "",
-            "text": "I'm curious who this Anshinzawa<n>character really\nis, but there's no use<n>ruminating over it. Best to\nforget<n>about today and move on."
+            "text": "Fico com uma pulga atrás da orelha<n>sobre quem\nrealmente é essa tal de<n>Anshinzawa, mas não\nadianta ficar<n>remoendo isso. Melhor esquecer o<n>que\nhouve hoje e seguir em frente."
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Had a change of heart, did you? No<n>worries, it\nhappens!"
+            "text": "Mudou de ideia, foi? Sem problemas,<n>acontece!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Go ahead and tell me which chakra<n>you want me to\nactivate, then!"
+            "text": "Vamos lá, pode me dizer qual chakra<n>você quer que\neu ative!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Well?! Don't leave us in suspense!<n>Wait a second...\nHow long have I<n>been here?"
+            "text": "E então?! Não faça suspense! Espera<n>um\nsegundo... Há quanto tempo estou<n>aqui?"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Hey! You there! I hope you know<n>trespassers <i>will</i>\nbe prosecuted!"
+            "text": "Ei! Você aí! Saiba que invasores<n><i>serão</i>\nprocessados!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Gah! I've been found out!"
+            "text": "Eita! Fui descoberta!"
         },
         {
             "name": "Sasami Anshinzawa",
-            "text": "Welp, I'm outta here! ☆"
+            "text": "Bom, fui nessa! ☆"
         },
         {
             "name": "Tazuna Hayakawa",
-            "text": "Hey! Stop right there!"
+            "text": "Ei! Pare aí mesmo!"
         },
         {
             "name": "",
-            "text": "The situation takes a sharp turn<n>before I can make\na decision."
+            "text": "A situação dá uma reviravolta brusca<n>antes que eu\npossa tomar uma<n>decisão."
         },
         {
             "name": "",
-            "text": "What was that all about?<n><chrname> and I look at each other in\nbewilderment."
+            "text": "Mas o que foi isso? A<n><chrname> e eu nos entreolhamos,\ncompletamente perplexos."
         }
     ]
 }

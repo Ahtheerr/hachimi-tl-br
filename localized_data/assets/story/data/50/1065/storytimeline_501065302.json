@@ -1,0 +1,516 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Depois do treino, acompanho a<n>Daitaku Helios em\num passeio sem<n>rumo pela cidade, quando..."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Opa!",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Cheguem mais e tentem a sorte no<n>nosso sorteio\nde Ano Novo! O prêmio<n>principal deste ano é uma\nviagem<n>com acompanhante para as águas<n>termais!",
+            "color_text_info_list": [
+                "viagem para águas termais"
+            ]
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "O primeiro prêmio é um hambúrguer<n>de cenoura\nespecial! O segundo<n>prêmio é um cesto cheio de\ncenouras!<n>E o terceiro prêmio leva para casa<n>uma\ncenoura avulsa!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Não deixem essa oportunidade<n>passar! Peguem já\no seu cupom e<n>girem a roleta para concorrer a—"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Ora, ora, se não é a Helichefe! Wei!",
+            "color_text_info_list": [
+                "Helichefe"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Weeeei! ☆",
+            "choice_data_list": [
+                "(Ela conhece mesmo meio mundo!)"
+            ]
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Vamos lá, tenta a sorte aí na roleta! ☆"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Fechou! Não é todo dia que eu<n>participo de um\nsorteio desses! Mó<n>vibe de experiência inédita!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "...Inédita? Bom, deixa pra lá. Você tem<n>algum cupom\ndo sorteio aí?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Não faço ideia! Mas tô sentindo que<n>deve ter algum\nperdido aqui no meu<n>bolso!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Daitaku Helios revira os bolsos,<n>tirando de lá uma\nnotinha de loja de<n>doces, um chiclete, um pirulito,\num<n>elástico de cabelo arrebentado,<n>alguns adesivos\ne, finalmente..."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Achei um! Lá vaiii!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Daitaku Helios se empolga toda e dá<n>um giro\ncaprichado na roleta!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uma bolinha de plástico cai pela<n>abertura..."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Minha nossa senhora! Temos uma<n>ganhadora do\nprêmio principal! Toma<n>aqui o seu cupom para a\nviagem às<n>águas termais! Meus parabéns!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Uma viagem pras águas termais!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Mentiraaaa! Eu sou muito abençoada<n>ou não sou?!",
+            "choice_data_list": [
+                "Parabéns!"
+            ]
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Eu sabia que você tinha estrela,<n>Helichefe! Mas\ntem certeza de que<n>curte esse tipo de passeio?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Como assim?"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "É só uma viagem tranquila para uma<n>pousada de\náguas termais. Imagino<n>que seja meio parado\ndemais para<n>uma jovem como você..."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Que nada! Eu <i>amo</i> águas termais!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Contanto que dê pra curtir no talo, eu<n>tô feliz! ☆ E\nainda vou levar o Treinê<n>comigo!",
+            "choice_data_list": [
+                "...Ah, é mesmo?",
+                "...Ah, é mesmo?"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Óbvio! ☆ Onde eu vou, você vai atrás,<n>né?!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Sem chance de eu te deixar pra trás!<n>☆",
+            "choice_data_list": [
+                "Puxa, obrigado..."
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Tá fechado então! Quer colar junto<n>também,\ntiozão?!",
+            "choice_data_list": [
+                "Hã?"
+            ]
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Quê?! N-não, tô de boa. Não é como<n>se eu fosse\numa das suas besties<n>nem nada disso!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Não se rebaixa assim não! Eu e você<n>somos, tipo, a\nalma desse centro<n>comercial!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Bom, pode até ser verdade, mas<n>mesmo assim... O\nque você acha,<n>Treinador?",
+            "choice_data_list": [
+                "Bom, você sabe como ela é. Não dá muito bem para\ndizer \"não\" para ela..."
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Opa! E se a gente alugasse o lugar<n>inteirinho?!\nDava pra fazer um baita<n>festival das águas\ntermais! Eu sou<n>uma gênia ou não sou?!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "A gente pode chamar geral! E super<n>dá pra montar\numa pista de dança<n>fervendo a 100 graus, né?!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Depois disso, as ideias da Daitaku<n>Helios vão\nficando cada vez mais<n>grandiosas."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Vai ser muito brabo! Mas primeiro de<n>tudo, temos\nque ir lá fazer o<n>reconhecimento do local!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Encerramos nossa conversa caótica<n>decidindo\nconhecer a pousada de<n>águas termais antes de\nbater o<n>martelo em qualquer coisa."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Opa! É a tia Tetê da floricultura! Aê,<n>Tetê!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Olha, tiro o chapéu para você,<n>Treinador. Você sabe\nmesmo como<n>lidar com ela. Um festival nas águas\ntermais... Já imaginou?",
+            "choice_data_list": [
+                "Não precisa só imaginar. Nós vamos fazer\nacontecer."
+            ]
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Ah, é? Quer dizer que... vocês vão<n>mesmo lá sondar\na pousada?",
+            "choice_data_list": [
+                "Bom, a ideia parece divertida."
+            ]
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Essa me pegou de surpresa. Você é<n>mesmo o\ntreinador ideal para a<n>Helios."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Aê, Treinê!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "A Tetê falou que desenrola as flores<n>pro nosso\nfestival! Quais você curte<n>mais?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Tô pensando em pegar umas a mais<n>pra dar uma\nvibe bem carnaval e<n>samba!",
+            "choice_data_list": [
+                "Não feche nada ainda! Já estou indo aí!"
+            ]
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Isso sim é o que eu chamo de<n>parceria."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Parece que temos mais uma<n>ganhadora do primeiro\nprêmio!<n>Parabéns! Você leva um hambúrguer<n>de\ncenoura especial!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Manooo! Isso tá com uma cara<n>absurda de boa!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Tô babando aqui!",
+            "choice_data_list": [
+                "Fecha essa boca!"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Tá bom, tá bom!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Mas, sem meme, se liga na estética<n>desse prato!\nParece que foi <i>feito</i> pra<n>postar nas redes! Não dava\npra<n>esperar menos do tiozão mais chave<n>do centro\ncomercial! ☆"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Hehe, bom olho! Eu fiz pensando que<n>o pessoal ia\nadorar, mas até agora<n>não chamou muita atenção."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Capaz, isso aqui vai viralizar na certa!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Tira uma foto minha com ele,<n>Treinador! ☆"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Direto pro feed! ♪"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Beleza, bora amassar!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Nossaaa! Isso aqui tá MUITO BOM!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Prova um pedaço, Treinê! ...Pera, tira<n>uma foto\nantes! Posta nos Stories!",
+            "choice_data_list": [
+                "Pode ser só uma foto normal?",
+                "Pode ser só uma foto normal?"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Ah, bem pensado!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Que tal em vídeo assim, mandando<n>uma dancinha?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Próxima parada: UmaTok! ♪",
+            "color_text_info_list": [
+                "UmaTok"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Meeeeu... Deeeeus... DO CÉÉÉÉU! ♪"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Daitaku Helios come com gosto e tira<n>ótimas fotos.\nComo resultado..."
+        },
+        {
+            "name": "Morador Local A",
+            "text": "Eu quero tentar a sorte na roleta, por<n>favor! Estou\nde olho naquele<n>hambúrguer especial! <i>Chega a dar\nágua na boca!</i>"
+        },
+        {
+            "name": "Pessoal do Centro Comercial",
+            "text": "Eu também! Eu também quero!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Opa, encheu de gente do nada! Não<n>que eu esteja\nreclamando, claro!<n>Beleza, façam fila aí, pessoal, e\nvamos girar a roleta!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Temos uma ganhadora do segundo<n>prêmio! Hoje é\no seu dia de sorte!<n>Vai levar para casa um cesto\ncheio de<n>cenouras!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Tô passada!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Que isso, é a Montanha da<n>Hospitalidade?! Não sei\nse eu dou<n>conta de comer tudo isso sozinha<n>não,\nchefe! ☆"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Ah... Imaginei que pudesse ter<n>exagerado na\nquantidade. Vai dar<n>muito trabalho para levar para\ncasa?"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Andei pensando nisso ultimamente.<n>Eu acho um\nbaita prêmio, mas talvez<n>eu só esteja empurrando\no meu<n>gosto pessoal para cima dos outros..."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Imagina! No meu dicionário, quanto<n>mais, melhor\nsempre!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Você acha mesmo?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Pô! Acha que eu tô metendo o louco?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Vou te mostrar o que uma festeira de<n>verdade faz\ncom tudo isso! ☆"
+        },
+        {
+            "name": "Amiga da Helios A",
+            "text": "Valeu, família! Essa cenoura tá uma<n>delícia!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Né?! Podem pegar quantas quiserem!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Minha nossa. Não para de chegar<n>gente..."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Se liga só, tiozão! Suas cenouras tão<n>viralizando!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Geral tá amando! O que foi que eu te<n>disse? Mais\ncenoura é igual a mais<n>hype! ☆"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Isso aí! Falou tudo!"
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "A Helios tem mesmo um coração de<n>ouro... Não\nacha, Treinador?",
+            "choice_data_list": [
+                "Concordo plenamente."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, a montanha de cenouras<n>desaparece num\npiscar de olhos,<n>cada uma levada por uma\nUmamusume sorridente."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Olha só o que temos aqui! Você<n>ganhou o terceiro\nprêmio! Toma aqui<n>a sua cenoura!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Alô, som, testando! Essa parada tá<n>ligada? ☆"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Olha só, parece um microfone! Toma,<n>segura aí! ☆"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Agora me entrevista!",
+            "choice_data_list": [
+                "Hã?"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Me faz qualquer pergunta aí! ☆ Bora,<n>sem enrolar!",
+            "choice_data_list": [
+                "...Como você está se sentindo hoje?"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Vou mandar o papo reto pra você,<n>família... Tô\nvarada de fome.",
+            "choice_data_list": [
+                "E o que você gostaria de comer?"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Macarrão! Udon, lámen... ou quem<n>sabe sobá!",
+            "choice_data_list": [
+                "E se tivesse que escolher apenas um desses três?"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Excelente pergunta!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Se eu tivesse que escolher um só,<n>seria lámen na\ncerta! Capricha nas<n>fatias de porco por cima que\nfica<n>perfeito pro Umasta! ☆"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Beleza, próxima pergunta!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ela me faz continuar inventando<n>perguntas por um\nbom tempo."
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Eu simplesmente aaamo doce de<n>feijão-branco!\nPróxima pergunta, por<n>favooor! ☆",
+            "choice_data_list": [
+                "Ainda nisso?!"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Sim! Até eu enjoar da brincadeira!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Nossa entrevista bizarra continua até<n>mesmo\ndepois de voltarmos para a<n>academia."
+        },
+        {
+            "name": "Atendente do Sorteio",
+            "text": "Oooh, que azar! Parece que saiu a<n>bolinha branca!\nLeve este pacotinho<n>de lenços de papel como\nprêmio de<n>consolação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Você obteve: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "...Prêmio de consolação, é?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Mas, tipo... lenço de papel sempre<n>tem <i>utilidade</i>,\nné? Nem foi tão ruim<n>assim!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Ei, tiozão! Deixa eu te perguntar uma<n>parada! Qual\nera o prêmio principal<n>mesmo?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "...Pera, QUÊ?!"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Tipo, sério mesmo? Eu podia ter<n>ganhado uma\nviagem pras águas<n>termais?!",
+            "choice_data_list": [
+                "Pois é.",
+                "Pois é."
+            ]
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Eu literalmente nem tinha prestado<n>atenção nisso!\nEntão quer dizer que...<n>Só lencinho, né?"
+        },
+        {
+            "name": "Daitaku Helios",
+            "text": "Buááá!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com um certo atraso, a ficha cai e a<n>decepção bate\nforte na Daitaku<n>Helios."
+        }
+    ]
+}

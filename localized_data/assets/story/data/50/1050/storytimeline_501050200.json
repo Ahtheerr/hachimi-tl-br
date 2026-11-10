@@ -2,141 +2,141 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "It's finally time for Narita Taishin's<n>debut race!",
+            "text": "Finalmente chegou a hora da corrida<n>de estreia de\nNarita Taishin!",
             "color_text_info_list": [
                 "debut race"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "<i>Sigh...</i>"
+            "text": "<i>Suspiro...</i>"
         },
         {
             "name": "Monólogo",
-            "text": "However, she seems very uneasy.",
+            "text": "No entanto, ela parece muito nervosa.",
             "choice_data_list": [
-                "Want to do some breathing exercises with me?"
+                "Quer fazer alguns exercícios de respiração comigo?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Bug off. I'm not scared or anything.<n>Got it?",
+            "text": "Cai fora. Não tô com medo nem nada,<n>entendeu?",
             "choice_data_list": [
-                "But—"
+                "Mas—"
             ]
         },
         {
-            "name": "Race Attendant",
-            "text": "Narita Taishin! Please make your way<n>to the\npaddock!"
-        },
-        {
-            "name": "",
-            "text": "Oh... Right, okay."
+            "name": "Antendente da Corrida",
+            "text": "Narita Taishin! Por favor, dirija-se ao<n>paddock!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Well, see ya later."
+            "text": "Ah... Tá, tá bom."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Bom, até mais."
         },
         {
             "name": "Monólogo",
-            "text": "As she leaves, I can see her legs are<n>trembling\never so slightly.",
+            "text": "Enquanto ela se afasta, consigo ver<n>suas pernas\ntremendo levemente.",
             "choice_data_list": [
-                "(What can I do to encourage her?)",
-                "(What can I do to encourage her?)"
+                "(O que posso fazer para incentivá-la?)",
+                "(O que posso fazer para incentivá-la?)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Spectators crowd about, eager to<n>catch a glimpse of\nthe Umamusume in<n>the paddock who may one day\nbecome legends in their own right."
+            "text": "Os espectadores se aglomeram,<n>ansiosos para ver\nde perto as<n>Umamusume no paddock, que um dia\npoderão se tornar lendas."
         },
         {
             "name": "Monólogo",
-            "text": "I spot Narita Taishin standing among<n>her fellow\nracers."
+            "text": "Vejo Narita Taishin entre as outras<n>corredoras."
         },
         {
             "name": "Fan A",
-            "text": "Hey, what's up with that one over<n>there? She's\npretty darn tiny..."
+            "text": "Ei, o que há com aquela ali? Ela é<n>bem\npequenininha..."
         },
         {
             "name": "Fan B",
-            "text": "Does she even stand a chance with<n>that stature?\nSeems like she could get<n>blown away."
+            "text": "Será que ela tem alguma chance com<n>esse\ntamanho? Parece que pode ser<n>levada pelo vento."
         },
         {
             "name": "Fan C",
-            "text": "I-Is she going to be okay? I hope she<n>doesn't get\nhurt..."
+            "text": "S-Será que ela vai ficar bem? Espero<n>que não se\nmachuque..."
         },
         {
             "name": "Narita Taishin",
-            "text": "Tch."
+            "text": "Tsc."
         },
         {
-            "name": "",
-            "text": "No one seems to expect much from<n>her. She hangs\nher head down amid<n>the murmuring voices whirling\naround<n>her."
+            "name": "Monólogo",
+            "text": "Parece que ninguém espera muito<n>dela. Ela mantém\na cabeça baixa em<n>meio às vozes murmurantes\nque a<n>cercam."
         },
         {
-            "name": "",
-            "text": "No one can deny that her lack of<n>height is a\ndisadvantage when it<n>comes to racing.",
+            "name": "Monólogo",
+            "text": "Ninguém pode negar que sua baixa<n>estatura é uma\ndesvantagem nas<n>corridas.",
             "choice_data_list": [
-                "(But...)"
+                "(Mas...)"
             ]
         },
         {
-            "name": "",
-            "text": "You're too short! \"You're too frail!\"<n>\"You're not cut\nout to be a racer!\""
+            "name": "Narita Taishin",
+            "text": "\"Você é tampinha demais! \"É frágil<n>demais!\" \"Você\nnão nasceu pra ser<n>corredora!\""
         },
         {
             "name": "Narita Taishin",
-            "text": "All that junk—I'm sick and tired of<n>hearing it!"
+            "text": "Já tô de saco cheio de ouvir todas<n>essas coisas!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Okay?! I don't care what people say!<n>I'm gonna\nstay right on the turf! I'll<n>show all you whiny\nmorons!"
+            "text": "Entenderam?! Não me importo com o<n>que dizem!\nVou continuar firme na<n>pista de grama! Vou mostrar\na todos<n>vocês, seus idiotas!"
         },
         {
             "name": "Narita Taishin",
-            "text": "I'll show you exactly where I should<n>be!"
+            "text": "Vou mostrar exatamente aonde eu<n>pertenço!"
         },
         {
             "name": "Narita Taishin",
-            "text": "And I'll be laughing when I tell you to<n>shove it from\nthe winner's circle!"
+            "text": "E vou rir da cara de todos vocês<n>enquanto mando\nvocês engolirem, lá<n>do pódio da vitória!"
         },
         {
             "name": "Monólogo",
-            "text": "Narita Taishin is stronger and more<n>determined to\nwin than anyone, and<n>she has the ability to make all\nher<n>declarations come true."
+            "text": "Narita Taishin é mais forte e<n>determinada a vencer\ndo que<n>qualquer outra pessoa, e tem<n>capacidade\npara transformar todas<n>as suas declarações em\nrealidade."
         },
         {
             "name": "Monólogo",
-            "text": "As her trainer, I know this better than<n>anyone.",
+            "text": "Como seu Treinador, sei disso melhor<n>do que\nninguém.",
             "choice_data_list": [
                 "Taishiiin!"
             ]
         },
         {
-            "name": "",
-            "text": "What?!"
+            "name": "Narita Taishin",
+            "text": "Quê?"
         },
         {
             "name": "Monólogo",
-            "text": "I'm shouting before I realize what<n>I'm doing.",
+            "text": "Começo a gritar antes mesmo de<n>perceber o que\nestou fazendo.",
             "choice_data_list": [
-                "Taishiiin! You've got thiiis!"
+                "Taishiiin! Você consegue!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Hey, stop yelling! Seriously!"
+            "text": "Ei, para de gritar! Sério!"
         },
         {
             "name": "Fan A",
-            "text": "Geez, what are we doing? We should<n>be cheering\nher on. It's her debut,<n>after all."
+            "text": "Poxa, o que estamos fazendo?<n>Deveríamos estar\ntorcendo por ela.<n>Afinal, é sua estreia."
         },
         {
             "name": "Fan B",
-            "text": "Yeah! Go get 'em, Taishin!"
+            "text": "Isso aí! Vai com tudo, Taishin!"
         },
         {
             "name": "Fan C",
-            "text": "We're behind you all the way!"
+            "text": "Estamos torcendo por você!"
         },
         {
             "name": "Narita Taishin",
@@ -144,11 +144,11 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "Look what that idiot started!"
+            "text": "Olha só a besteira que aquele idiota<n>começou!"
         },
         {
             "name": "Narita Taishin",
-            "text": "First, I'm going to win, then I'm<n>kicking that doofus\nto the other side<n>of the world!"
+            "text": "Primeiro, vou vencer. Depois, vou<n>chutar aquele\npateta pro o outro lado<n>do mundo!"
         }
     ]
 }

@@ -2,199 +2,199 @@
     "text_block_list": [
         {
             "name": "Winning Ticket",
-            "text": "Whoa! Is this a theater prop?! It's so<n>detailed!"
+            "text": "Uau! Isso é um acessório de teatro?!<n>É tão\ndetalhado!"
         },
         {
-            "name": "Theater Club Student",
-            "text": "Ehehe. Thanks! I made it. If there's<n>one thing I'm\ngood at, it's detailed<n>handiwork like this."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Hmm... Oh, there's a mini bed, too."
-        },
-        {
-            "name": "Theater Club Student",
-            "text": "They're all deeply sentimental pieces,<n>but the\nclubroom will overflow if we<n>keep everything.\nThat's why I'm<n>trying to decide what to throw out."
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Yeah, that sure is a lotta stuff. Oh, I<n>know! How's\nabout I give you a<n>hand?"
-        },
-        {
-            "name": "Winning Ticket",
-            "text": "Taishin, I'm gonna help her out, so<n>you can go on\nahead!"
+            "name": "Estudante do Clube de Teatro",
+            "text": "Hehehe. Obrigada! Fui eu que fiz. Se<n>tem uma coisa\nque sei fazer bem, é<n>esse tipo de trabalho manual\ncheio de<n>detalhes."
         },
         {
             "name": "Narita Taishin",
-            "text": "Nah, I'll help, too."
+            "text": "Hmm... Ah, também tem uma caminha<n>em miniatura."
+        },
+        {
+            "name": "Estudante do Clube de Teatro",
+            "text": "Todas essas peças têm um grande<n>valor\nsentimental, mas a sala do<n>clube vai ficar lotada se\ncontinuarmos<n>guardando tudo. Por isso, estou\ntentando decidir o que jogar fora."
         },
         {
             "name": "Winning Ticket",
-            "text": "Huh? You will?"
+            "text": "É, tem bastante coisa mesmo. Ah, já<n>sei! Que tal eu\nte dar uma mão?"
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Taishin, vou ajudá-la, então pode ir<n>na frente!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Yeah. But I've got a favor to ask in<n>return."
-        },
-        {
-            "name": "Theater Club Student",
-            "text": "And what's that?"
+            "text": "Não, eu também vou ajudar."
         },
         {
             "name": "Winning Ticket",
-            "text": "Aaaand done and dusted!<n>Everything's tidied up!"
-        },
-        {
-            "name": "Theater Club Student",
-            "text": "Thanks so much, you two! I<n>appreciate your help.\nAnd as<n>promised, here's what you wanted,<n>Taishin."
+            "text": "Hã? Você vai?"
         },
         {
             "name": "Narita Taishin",
-            "text": "...Thanks."
+            "text": "Vou. Mas quero pedir um favor em<n>troca."
+        },
+        {
+            "name": "Estudante do Clube de Teatro",
+            "text": "E o que seria?"
         },
         {
             "name": "Winning Ticket",
-            "text": "That's the mini bed from before... Is<n>that what you\nasked for in exchange<n>for helping out?"
+            "text": "Praaonto! Terminamos! Está tudo<n>arrumadinho!"
+        },
+        {
+            "name": "Estudante do Clube de Teatro",
+            "text": "Muito obrigada a vocês duas!<n>Agradeço pela\najuda. E, como<n>prometido, aqui está o que você\nqueria, Taishin."
         },
         {
             "name": "Narita Taishin",
-            "text": "Well... yeah."
+            "text": "...Obrigada."
         },
         {
             "name": "Winning Ticket",
-            "text": "Whaaat?! I mean, you're pretty small,<n>but won't it\nbe hard to sleep if you're<n>all crammed into that\nthing?! Just the<n>thought is painful!"
+            "text": "É aquela caminha em miniatura de<n>antes... Foi isso\nque você pediu em<n>troca de ajudar?"
         },
         {
             "name": "Narita Taishin",
-            "text": "I'm not gonna be the one sleeping in<n>it, bonehead!\n...I'm out of here."
+            "text": "Bem... É."
         },
         {
             "name": "Winning Ticket",
-            "text": "Nooo! Wait for me, Taishiiin!"
+            "text": "O quêêê?! Quer dizer, você é bem<n>pequenininha,\nmas não vai ser difícil<n>dormir toda espremida aí\ndentro?! Só<n>de imaginar já me dá agonia!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Não sou eu que vou dormir nela, sua<n>idiota! ...Tôindo\nembora."
+        },
+        {
+            "name": "Winning Ticket",
+            "text": "Nããão! Me espera, Taishiiin!"
         },
         {
             "name": "Monólogo",
-            "text": "As I pass by the academy gate in the<n>evening, I\nnotice Winning Ticket<n>looking around the area\nrestlessly.",
+            "text": "Ao passar pelo portão da academia<n>no fim da tarde,\nvejo Winning Ticket<n>olhando inquieta ao redor.",
             "choice_data_list": [
-                "Is something wrong?",
-                "Is something wrong?"
+                "Aconteceu alguma coisa?",
+                "Aconteceu alguma coisa?"
             ]
         },
         {
             "name": "Winning Ticket",
-            "text": "I could have sworn I spotted Taishin<n>just now, but\nshe disappeared. I<n>wonder where she's run off to..."
+            "text": "Tenho quase certeza de que vi a<n>Taishin agora há\npouco, mas ela<n>desapareceu. Onde será que foi\nparar..."
         },
         {
             "name": "Winning Ticket",
-            "text": "Oh, there she is! Heeey!"
+            "text": "Ah, ali está ela! Eeei!"
         },
         {
             "name": "Narita Taishin",
-            "text": "I hope it's around right now..."
+            "text": "Espero que esteja por aqui agora..."
         },
         {
-            "name": "Black Kitten",
-            "text": "Mew..."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "Ahh, there you are. Still feeling down?<n>Silly fluff ball.\nHere, I got you a new<n>bed."
-        },
-        {
-            "name": "Black Kitten",
-            "text": "<i>Sniff, sniff...</i> Mraow."
+            "name": "Gatinho Preto",
+            "text": "Miau..."
         },
         {
             "name": "Narita Taishin",
-            "text": "Why're you rubbing all over me?<n>Trying to butter\nme up? Anyway, this<n>should be a good replacement\nfor that<n>cushion of yours."
+            "text": "Ahh, aí está você. Ainda está<n>tristinho? Sua bolinha\nde pelos boba.<n>Aqui, trouxe uma caminha nova para\nvocê."
+        },
+        {
+            "name": "Gatinho Preto",
+            "text": "<i>Sniff, sniff...</i> Miau."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Por que está se esfregando em mim<n>toda? Está\ntentando me bajular?<n>Enfim, essa deve ser uma\nboa<n>substituta para aquela sua almofada."
         },
         {
             "name": "Monólogo",
-            "text": "Narita Taishin watches over the kitten<n>with a gentle\nlook in her eyes as it<n>makes itself comfortable on\nthe bed.",
+            "text": "Narita Taishin observa o filhote com<n>um olhar\ncarinhoso enquanto ele se<n>acomoda na caminha.",
             "choice_data_list": [
-                "(We probably shouldn't interrupt them.)",
-                "Is that a present for the cat?"
+                "(É melhor não interromper ela.)",
+                "Esse é um presente para o gato?"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Right as I'm about to tell Winning<n>Ticket we should\nhead back to the<n>academy..."
+            "text": "Bem quando estou prestes a dizer a<n>Winning Ticket\nque devemos voltar<n>para a academia..."
         },
         {
             "name": "Winning Ticket",
-            "text": "Waaaaah! That's so touchiiing!"
+            "text": "Uaaaaah! Que coisa mais<n>emocionaante!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Huh?! What are you doing here?!"
+            "text": "Hã?! O que tá fazendo aqui?!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Taishin! I can't believe you helped<n>out the theater\nclub so you could get a<n>present for that little kitten!\nYou're<n>such a kind soul!"
+            "text": "Taishin! Não acredito que você<n>ajudou o clube de\nteatro só pra<n>conseguir um presente praquele\nfilhotinho! Você tem um coração tão<n>bondoso!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Sh-shut it! And quit being a gross<n>stalker, seriously!\nGet lost!"
+            "text": "C-cala a boca! E para de me<n>perseguir como uma\nesquisita, sério!<n>Cai fora!"
         },
         {
-            "name": "Black Kitten",
+            "name": "Gatinho Preto",
             "text": "Hiss!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Oh no! Don't leave, kitty! C'mere!<n>There's nothing\nto be afraid of!"
+            "text": "Ah, não! Não vá embora, gatinho! Vem<n>cá! Não\nprecisa ter medo!"
         },
         {
             "name": "Narita Taishin",
-            "text": "It ran away because of you and your<n>megaphone\nmouth! Quiet down! Or<n>better yet—get out of here!"
+            "text": "Ele fugiu por sua causa e por essa<n>sua boca de\nmegafone! Fique quieta!<n>Ou melhor, vá embora\ndaqui!"
         },
         {
             "name": "Winning Ticket",
-            "text": "Nooo! I'm sorry, kitty! I'll be quiet, so<n>please come\nback!"
+            "text": "Nããão! Desculpa, gatinho! Vou ficar<n>quietinha,\nentão, por favor, volte!"
         },
         {
             "name": "Narita Taishin",
-            "text": "You're <i>still</i> yelling!"
+            "text": "Você <i>ainda</i> tá gritando!"
         },
         {
             "name": "Monólogo",
-            "text": "The kitten watches from a distance<n>as the two flail\naround and argue. I<n>see what I imagine is equal\nparts<n>bewilderment and amusement in its\nexpression."
+            "text": "O filhote observa de longe enquanto<n>as duas se\nagitam e discutem. Sua<n>expressão parece misturar\nperplexidade e diversão em partes<n>iguais."
         },
         {
             "name": "Narita Taishin",
-            "text": "Huh?! How long have you guys been<n>there?!"
+            "text": "Hã?! Há quanto tempo vocês estão<n>aí?!"
         },
         {
             "name": "Winning Ticket",
-            "text": "<i>Sniffle... Hic!</i> I-I'm sooo tooouuuched!"
+            "text": "<i>Snif... Soluço!</i> E-estou tããão<n>emocioonaaada!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Hey, keep it down! You'll scare the<n>cat away.\nGeez!"
+            "text": "Ei, fale baixo! Você vai assustar o<n>gato e fazer ele\nfugir. Aff!"
         },
         {
             "name": "Narita Taishin",
-            "text": "This shrine here runs a community<n>cat program,\nand they've been taking<n>care of this little one."
+            "text": "Esse santuário tem um programa<n>comunitário de\ncuidado de gatos, e<n>eles estão cuidando deste\npequenino."
         },
         {
             "name": "Narita Taishin",
-            "text": "Its favorite cushion was all beat up,<n>so it had\nnothing to sleep on. Looked<n>pretty down about it\ntoo, so... yeah."
+            "text": "A almofada favorita dele estava toda<n>destruída,\nentão não tinha mais onde<n>dormir. Ele também\nparecia bem<n>tristinho por causa disso, então... É."
         },
         {
             "name": "Winning Ticket",
-            "text": "W-waaaaah! I had no idea there was<n>such a sad\nstory behind all this!"
+            "text": "S-sério?! Eu não fazia ideia de que<n>havia uma\nhistória tão triste por trás<n>disso tudo!"
         },
         {
             "name": "Winning Ticket",
-            "text": "I've gotta tell everyone about this<n>touching tale!\nHold on, I'm gonna go<n>spread the word back at the\nacademy!"
+            "text": "Preciso contar essa história<n>emocionante para todo\nmundo!<n>Espera aí, vou voltar à academia e<n>espalhar\na notícia!"
         },
         {
             "name": "Narita Taishin",
-            "text": "What?! Don't do that, Ticket! Hey!<n>Come back\nhere, dammit!"
+            "text": "O quê?! Não faz isso, Ticket! Ei! Volta<n>aqui, droga!"
         },
         {
             "name": "Monólogo",
-            "text": "Narita Taishin rushes after Winning<n>Ticket in a huff\nwhile the kitten curls<n>up into a satisfied little ball on\nits new<n>bed."
+            "text": "Narita Taishin sai correndo atrás de<n>Winning Ticket,\nfuriosa, enquanto o<n>filhote se enrosca todo,\nsatisfeito, em<n>sua nova caminha."
         }
     ]
 }

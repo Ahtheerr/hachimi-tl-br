@@ -2,41 +2,41 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "On my day off, I notice Narita Taishin<n>near the\nstation. She must've just<n>finished something,\nbecause she's<n>heading back to the academy."
+            "text": "No meu dia de folga, vejo Narita<n>Taishin perto da\nestação. Ela deve ter<n>acabado de resolver alguma\ncoisa,<n>pois está voltando para a academia."
         },
         {
             "name": "Narita Taishin",
-            "text": "Hang on, isn't there supposed to be<n>a\nlimited-edition <i>Animal Hunt</i><n>character that spawns\naround here?"
+            "text": "Espera aí, não era para aparecer por<n>aqui um\npersonagem de edição<n>limitada do <i>Animal Hunt</i>?"
         },
         {
             "name": "Narita Taishin",
-            "text": "I might as well catch it while I have<n>the chance."
+            "text": "Já que estou aqui, posso aproveitar<n>pra capturar."
         },
         {
             "name": "Narita Taishin",
-            "text": "I don't see it on the radar—"
+            "text": "Não estou vendo nada no radar—"
         },
         {
-            "name": "",
+            "name": "Narita Taishin",
             "text": "Bwah?!"
         },
         {
             "name": "Narita Taishin",
-            "text": "What the—?! \"Wet concrete. Please<n>watch your\nstep\"?!"
+            "text": "Mas que...?! \"Concreto fresco.<n>Cuidado por onde\npisa\"?!"
         },
         {
-            "name": "Construction Worker",
-            "text": "Sorry, miss. I think your boot's done<n>for. Such a\nshame."
+            "name": "Operário de Obra",
+            "text": "Sinto muito, senhorita. Acho que sua<n>bota já era.\nQue pena."
         },
         {
             "name": "Narita Taishin",
-            "text": "...Oops."
+            "text": "...Ops."
         },
         {
-            "name": "",
-            "text": "(Great, now I only have one boot.<n>How am I\nsupposed to get home<n>barefoot?)",
+            "name": "Narita Taishin",
+            "text": "(Ótimo, agora só tenho uma bota.<n>Como vou voltar\npra casa descalça?)",
             "choice_data_list": [
-                "Taishin? Is that you?"
+                "Taishin? É você?"
             ]
         },
         {
@@ -44,12 +44,12 @@
             "text": "...Ugh."
         },
         {
-            "name": "",
-            "text": "Oh, do you know this little lady? She<n>stuck her foot\nstraight into the wet<n>concrete."
+            "name": "Operário de Obra",
+            "text": "Ah, você conhece essa mocinha? Ela<n>enfiou o pé\ndireto no concreto fresco."
         },
         {
-            "name": "Construction Worker",
-            "text": "Good thing your friend's here now,<n>miss! Take\ncare getting home!"
+            "name": "Operário de Obra",
+            "text": "Ainda bem que seu amigo chegou,<n>senhorita! Tenha\ncuidado na volta<n>para casa!"
         },
         {
             "name": "Narita Taishin",
@@ -57,88 +57,88 @@
         },
         {
             "name": "",
-            "text": "Narita Taishin is bright red with<n>embarrassment as\nthe construction<n>worker waves goodbye and\nleaves."
+            "text": "Narita Taishin está com o rosto<n>vermelho de\nvergonha enquanto o<n>operário acena em despedida\ne vai<n>embora."
         },
         {
             "name": "Narita Taishin",
-            "text": "It's not like I need help or anything.<n>Leave me\nalone."
+            "text": "Não é como se eu precisasse de<n>ajuda nem nada.\nMe deixa em paz."
         },
         {
             "name": "Monólogo",
-            "text": "Despite what she says, it's clear that<n>she'll have\ntrouble getting back to her<n>dorm on her own.",
+            "text": "Apesar do que diz, está claro que ela<n>terá\ndificuldades para voltar sozinha<n>ao dormitório.",
             "choice_data_list": [
-                "Hang on, I'll buy you some shoes.",
-                "Hang on, I'll buy you some shoes.",
-                "Let me get you to a shoe shop. You can lean on my\nshoulder."
+                "Espera, vou comprar sapatos para você.",
+                "Espera, vou comprar sapatos para você.",
+                "Deixe-me levar você a uma loja de calçados. Pode\nse apoiar no meu ombro."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Despite what she says, it's clear that<n>she'll have\ntrouble getting back to her<n>dorm on her own.",
+            "text": "Apesar do que diz, está claro que ela<n>terá\ndificuldades para voltar sozinha<n>ao dormitório.",
             "choice_data_list": [
-                "Hang on, I'll buy you some shoes.",
-                "Hang on, I'll buy you some shoes.",
-                "Let me get you to a shoe shop. You can lean on my\nshoulder."
-            ]
-        },
-        {
-            "name": "",
-            "text": "You got wax in your ears? I said I<n>don't need your\nhelp.",
-            "choice_data_list": [
-                "Should I give your dorm a call instead, then?",
-                "Should I give your dorm a call instead, then?"
+                "Espera, vou comprar sapatos para você.",
+                "Espera, vou comprar sapatos para você.",
+                "Deixe-me levar você a uma loja de calçados. Pode\nse apoiar no meu ombro."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "N-no! That'll just make things worse!"
+            "text": "Tá com cera nos seus ouvidos? Eu<n>disse que não\npreciso da sua ajuda.",
+            "choice_data_list": [
+                "Então devo ligar para o seu dormitório?",
+                "Então devo ligar para o seu dormitório?"
+            ]
         },
         {
             "name": "Narita Taishin",
-            "text": "<i>Sigh.</i> Fine. Here, take this money and<n>get me new\nshoes."
+            "text": "N-não! Isso só vai piorar as coisas!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "<i>Suspiro.</i> Tá bom. Aqui, pega esse<n>dinheiro e compra\nsapatos novos pra<n>mim."
         },
         {
             "name": "Monólogo",
-            "text": "Since I got her permission, I bring her<n>to a nearby\npark to wait for me, then<n>rush to a shoe shop."
+            "text": "Como ela me deu permissão, levo-a<n>até um parque\npróximo para esperar<n>por mim e corro até uma loja\nde<n>calçados."
         },
         {
-            "name": "Shoe Store Employee",
-            "text": "Young people these days love this<n>style! They're\nalso great to run in, so<n>I highly recommend them!"
+            "name": "Funcionário da Loja de Calçados",
+            "text": "Os jovens de hoje em dia adoram<n>esse estilo!\nEles também são ótimos<n>para correr, então\nrecomendo muito!"
         },
         {
-            "name": "Shoe Store Employee",
-            "text": "And since you mentioned it earlier,<n>these shoes go\ngreat with street<n>fashion too!",
+            "name": "Funcionário da Loja de Calçados",
+            "text": "E, já que você mencionou isso antes,<n>esses\nsapatos também combinam<n>muito bem com moda\nurbana!",
             "choice_data_list": [
-                "I see..."
+                "Entendo..."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I figure I can't go wrong with shoes<n>that have the\nemployee's seal of<n>approval, so I buy the pair she\nrecommends."
+            "text": "Acho que não tem erro escolher<n>sapatos\naprovados pela funcionária,<n>então compro o par\nque ela<n>recomenda."
         },
         {
             "name": "Monólogo",
-            "text": "After that, I run back to Narita Taishin<n>and show her\nthe new shoes."
-        },
-        {
-            "name": "",
-            "text": "Oh, thanks. You're a lifesav—"
+            "text": "Depois disso, volto correndo até<n>Narita Taishin e\nmostro os sapatos<n>novos."
         },
         {
             "name": "Narita Taishin",
-            "text": "What the hell's with this cutesy<n>nonsense?!"
+            "text": "Ah, obrigada. Você me salv—"
         },
         {
             "name": "Narita Taishin",
-            "text": "These aren't my style at all! You<n>should know\nbetter!",
+            "text": "Que diabos é essa coisa toda<n>fofinha?!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Eles não fazem meu estilo nem um<n>pouco! Você\ndeveria saber disso!",
             "choice_data_list": [
-                "But the clerk said they go well with street fashion.",
-                "But the clerk said they go well with street fashion."
+                "Mas a atendente disse que combinam com moda\nurbana.",
+                "Mas a atendente disse que combinam com moda\nurbana."
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Now you're just admitting you got<n>conned by a\nsales pitch. Ugh,<n>whatever. I guess I'll put them on."
+            "text": "Agora você está admitindo que caiu<n>no papo de\numa vendedora. Aff, tanto<n>faz. Acho que vou\ncalçá-los."
         },
         {
             "name": "Narita Taishin",
@@ -146,145 +146,145 @@
         },
         {
             "name": "Narita Taishin",
-            "text": "(Huh... These actually don't feel so<n>bad once you\nput them on.)"
+            "text": "(Hmm... Na verdade, eles nem são tão<n>ruins depois\nque os calço.)"
         },
         {
             "name": "Narita Taishin",
             "text": "...Urgh.",
             "choice_data_list": [
-                "They look great on you, Taishin!",
-                "They look great on you, Taishin!"
+                "Ficaram ótimos em você, Taishin!",
+                "Ficaram ótimos em você, Taishin!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "I-I don't need your flattery. As long<n>as they don't\nlook weird, they're<n>fine."
+            "text": "E-eu não preciso de elogios. Desde<n>que não fiquem\nestranhos, está bom."
         },
         {
             "name": "Monólogo",
-            "text": "Narita Taishin seems indifferent about<n>her new\nshoes, but..."
+            "text": "Narita Taishin parece indiferente em<n>relação aos\nsapatos novos, mas..."
         },
         {
             "name": "Super Creek",
-            "text": "Oh, Taishin? Heading out<n>somewhere?"
+            "text": "Ah, Taishin? Vai sair para algum<n>lugar?"
         },
         {
             "name": "Super Creek",
-            "text": "Looks like you really like those new<n>shoes of\nyours! ♪ They look amazing<n>with your outfit today!"
+            "text": "Parece que você gostou bastante dos<n>seus\nsapatos novos! ♪ Eles ficaram<n>incríveis com sua\nroupa de hoje!"
         },
         {
             "name": "Narita Taishin",
-            "text": "Y-you think?"
+            "text": "V-você acha?"
         },
         {
             "name": "Narita Taishin",
-            "text": "Well, yeah... I guess they do."
-        },
-        {
-            "name": "",
-            "text": "Absolutely not! I'd rather hop there<n>on my own\nthan lean on you!"
+            "text": "Bom, sim... Acho que ficaram mesmo."
         },
         {
             "name": "Narita Taishin",
-            "text": "Hup... Gah!"
+            "text": "De jeito nenhum! Prefiro ir pulando<n>sozinha a me\napoiar em você!"
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Um, dois... Gah!"
         },
         {
             "name": "Monólogo",
-            "text": "Narita Taishin attempts to hop her<n>way over but\nloses balance after a<n>few bounds.",
+            "text": "Narita Taishin tenta chegar pulando,<n>mas perde o\nequilíbrio depois de<n>alguns pulos.",
             "choice_data_list": [
-                "You're going to hurt yourself! Come on, hold onto\nme!",
-                "You're going to hurt yourself! Come on, hold onto\nme!"
+                "Você vai acabar se machucando! Vamos, segure\nem mim!",
+                "Você vai acabar se machucando! Vamos, segure\nem mim!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "...Ugh, fine."
+            "text": "...Ugh, tá."
         },
         {
             "name": "",
-            "text": "She reluctantly grabs hold of my<n>shoulder."
+            "text": "Ela segura meu ombro de má<n>vontade."
         },
         {
             "name": "",
-            "text": "After walking for a while together, we<n>come across\na park and decide to<n>rest on a bench.",
+            "text": "Depois de caminharmos juntos por<n>um tempo,\nencontramos um parque e<n>decidimos descansar em\num banco.",
             "choice_data_list": [
-                "So, what were you doing around there?",
-                "So, what were you doing around there?"
+                "Então, o que estava fazendo por ali?",
+                "Então, o que estava fazendo por ali?"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "...Playing a game. One of those<n>location-based ones."
+            "text": "...Jogando um jogo. Um daqueles<n>baseados em\nlocalização."
         },
         {
             "name": "Monólogo",
-            "text": "The game involves finding and<n>capturing characters\nthat are<n>projected into the real world via<n>augmented\nreality."
+            "text": "O jogo consiste em encontrar e<n>capturar\npersonagens projetados no<n>mundo real por meio\nde realidade<n>aumentada."
         },
         {
             "name": "Monólogo",
-            "text": "She had been trying to catch a<n>limited-edition\ncharacter when I saw<n>her in front of the station.",
+            "text": "Ela estava tentando capturar um<n>personagem de\nedição limitada<n>quando a vi em frente à estação.",
             "choice_data_list": [
-                "Maybe we'll find the character while we're\nwalking.",
-                "Maybe we'll find the character while we're\nwalking."
+                "Talvez encontremos o personagem enquanto\ncaminhamos.",
+                "Talvez encontremos o personagem enquanto\ncaminhamos."
             ]
         },
         {
-            "name": "",
-            "text": "As if it'd be that—"
+            "name": "Monólogo",
+            "text": "Como se fosse tão fác—"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Não acredito! Tem um sinal no radar!"
         },
         {
             "name": "",
-            "text": "No way! There's a blip on the radar!"
-        },
-        {
-            "name": "",
-            "text": "Apparently, the character she's after<n>has actually\nappeared. She tells me<n>its coordinates, which aren't\ntoo far<n>from where we are now.",
+            "text": "Pelo visto, o personagem que ela está<n>procurando\nrealmente apareceu. Ela<n>me informa as\ncoordenadas, que não<n>ficam muito longe de onde\nestamos.",
             "choice_data_list": [
-                "It's close by. Let's go!"
-            ]
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "What?",
-            "choice_data_list": [
-                "You gotta let off some steam after that whole shoe\nfiasco!",
-                "You gotta let off some steam after that whole shoe\nfiasco!"
+                "Está perto daqui. Vamos!"
             ]
         },
         {
             "name": "Narita Taishin",
-            "text": "Hm..."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "That's not a bad way to look at it. It'd<n>suck to go\nback with a bad taste in<n>my mouth because of that."
-        },
-        {
-            "name": "Narita Taishin",
-            "text": "All right. I'm definitely gonna catch it!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Narita Taishin nods, and I lend her my<n>shoulder\nagain. We head off to where<n>the character has\nappeared."
-        },
-        {
-            "name": "Monólogo",
-            "text": "Our teamwork pays off, and Narita<n>Taishin manages\nto capture the<n>limited-edition character.",
+            "text": "Quê?",
             "choice_data_list": [
-                "Congrats, Taishin!"
+                "Você precisa se distrair um pouco depois de toda\naquela confusão com os sapatos!",
+                "Você precisa se distrair um pouco depois de toda\naquela confusão com os sapatos!"
             ]
         },
         {
-            "name": "",
-            "text": "Yeah, thanks. I guess I do feel a little<n>better."
+            "name": "Narita Taishin",
+            "text": "Hmm..."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Não é uma má maneira de encarar as<n>coisas. Seria\npéssimo voltar pra casa<n>com aquele gosto amargo\nna boca<n>por causa do que aconteceu."
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "Certo. Vou capturá-lo de qualquer<n>jeito!"
         },
         {
             "name": "Monólogo",
-            "text": "Having finally arrived at a shop, Narita<n>Taishin buys\nnew shoes. She seems<n>to be in a better mood\nwhen we part."
+            "text": "Narita Taishin concorda com a cabeça,<n>e ofereço\nmeu ombro novamente.<n>Partimos em direção ao\nlocal onde o<n>personagem apareceu."
         },
         {
             "name": "Monólogo",
-            "text": "I feel like I've grown a little closer to<n>Narita Taishin\nafter working together<n>with her."
+            "text": "Nosso trabalho em equipe dá<n>resultado, e Narita\nTaishin consegue<n>capturar o personagem de edição\nlimitada.",
+            "choice_data_list": [
+                "Parabéns, Taishin!"
+            ]
+        },
+        {
+            "name": "Narita Taishin",
+            "text": "É, valeu. Acho que me sinto um pouco<n>melhor."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Finalmente chegando a uma loja,<n>Narita Taishin\ncompra sapatos novos.<n>Ela parece estar de melhor\nhumor<n>quando nos despedimos."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sinto que fiquei um pouco mais<n>próximo de Narita\nTaishin depois de<n>trabalharmos juntos."
         }
     ]
 }

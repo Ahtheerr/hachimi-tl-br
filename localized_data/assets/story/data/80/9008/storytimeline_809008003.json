@@ -2,7 +2,7 @@
     "text_block_list": [
         {
             "name": "Light Hello",
-            "text": "Ótimo trabalho hoje, Treinador <username>. Tive o<n>prazer de\nobservar sua sessão de<n>treinamento!"
+            "text": "Ótimo trabalho hoje, Treinador <username>.\nTive o prazer de observar sua<n>sessão de\ntreinamento!"
         },
         {
             "name": "Light Hello",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Ah, mas estou tomando seu tempo.<n>Só quero que\nsaiba que estarei<n>torcendo por vocês!"
+            "text": "Ah, mas estou tomando seu tempo.<n>Só quero\nque saiba que estarei torcendo por<n>vocês!"
         }
     ]
 }

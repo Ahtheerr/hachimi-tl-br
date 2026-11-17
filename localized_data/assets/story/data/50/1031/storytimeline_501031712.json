@@ -1,0 +1,32 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "Ines Fujin hasn't arrived for our<n>training session.\nJust as I'm starting<n>to think she might not show up\nat all..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Sorry... I'm super late today.",
+            "choice_data_list": [
+                "What happened?",
+                "What happened?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Well, my bike tire burst, and it took a<n>while to get it\nfixed..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "The front one punctures so easily.<n>Hmm. Maybe I\nput too much weight<n>on it."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "But forget all that—I'm really sorry<n>about this!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Although her tardiness wasn't her<n>fault, I warn\nInes Fujin to be more<n>careful."
+        }
+    ]
+}

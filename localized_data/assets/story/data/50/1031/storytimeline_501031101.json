@@ -1,0 +1,324 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "O tempo passa num piscar de olhos e<n>logo o ano\nnovo bate à porta.<n>Enquanto as estudantes estão\nnas<n>férias de inverno..."
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "Aqui está, um shio lámen!",
+            "choice_data_list": [
+                "Muito obrigado!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Encontro uma loja de lámen que está<n>aberta no dia\nprimeiro de janeiro e<n>me sento pra revisar nosso\ncronograma de treinamento<n>acompanhado de uma\nrefeição<n>quente."
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "Opa, o que temos aqui? O treinador da<n>Fu,\ncomeçando o ano novo com um<n>almoço de\nnegócios?",
+            "choice_data_list": [
+                "Sim — afinal de contas, é o começo do ano clássico\ndela."
+            ],
+            "color_text_info_list": [
+                "Fu"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ines Fujin está louca pra disputar a<n>Tríplice Coroa\nClássica — uma série<n>que inclui o Satsuki Sho, o\nJapanese<n>Derby e o Kikuka Sho. É uma\noportunidade única na vida de<n>qualquer corredora.",
+            "color_text_info_list": [
+                "Kikuka Sho"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Imagino que ela vai enfrentar uma<n>competição\nacirrada nas três corridas.<n>Se quisermos ter alguma\nchance de<n>vencer, o esforço dela sozinho não<n>será\nsuficiente...",
+            "choice_data_list": [
+                "É por isso que eu prometi que faríamos isso\njuntos!"
+            ]
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "...! Entendo."
+        },
+        {
+            "name": "Ramen Shop Owner",
+            "text": "Muito bem, pode pegar mais um ovo<n>— é por conta\nda casa. Capriche nos<n>nutrientes antes de ir ver a\nFu!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ao sair, o dono da loja de lámen me<n>dá uma dica\ndo paradeiro da Ines<n>Fujin e, como esperado, eu a\nencontro no santuário."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Feliz Ano Novo! Tem mais duas filas<n>disponíveis na\ndireita, então por<n>favor—"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ué? ...Treinador?!",
+            "choice_data_list": [
+                "Fiquei sabendo que você tava trabalhando aqui."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ah, você tava esperando me ver<n>numa roupa de\nsacerdotisa de<n>santuário? Poxa, que pena! Hoje eu\ntô fazendo o controle da multidão!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Brincadeirinha."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Então como é que você veio parar<n>aqui? Tô\nsurpresa que você veio me<n>ver no meio do\nexpediente."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Aconteceu alguma emergência? Ou<n>talvez..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Você tá aqui pra me convencer que o<n>tempo que eu\npasso trabalhando é<n>tempo jogado fora?",
+            "choice_data_list": [
+                "Sim, e não podemos perder um único segundo!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ah... Haha. Eu já devia ter<n>imaginado...",
+            "choice_data_list": [
+                "Então que tal a gente transformar o seu trabalho\nnum treino também?!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Hã?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Puxando minhas pastas, mostro a ela<n>o\ncronograma que fiz durante as<n>férias de inverno."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ultimamente, as colegas dela estão<n>ficando cada\nvez melhores em dar<n>avanços finais. Se ela for\nconseguir<n>uma fuga bem-sucedida, precisamos\nesgotar as reservas de energia da<n>concorrência."
+        },
+        {
+            "name": "Monólogo",
+            "text": "É por isso que quero que ela aprenda<n>a manipular o\nritmo das adversárias.<n>Por exemplo, ela deve ser\ncapaz de...",
+            "choice_data_list": [
+                "Controlar o fluxo das filas de visitantes!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "O quêêê?",
+            "choice_data_list": [
+                "...Tô pedindo demais?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Bom... eu só não entendi o que isso<n>tem a ver com\norganizar esse bando<n>de gente.",
+            "choice_data_list": [
+                "Que pena..."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Pois ééé."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Hehe. Então você quer que os meus<n>turnos de\ntrabalho virem turnos de<n>treinamento também, né?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ei, Treinador. É só um palpite, com<n>base no quão\nempolgado você tá com<n>tudo isso, mas... aposto\nque essa não<n>é a única ideia que você teve, né?",
+            "choice_data_list": [
+                "Quero testar novos jeitos de melhorar a sua\nrapidez!",
+                "Tô pensando em trabalhar meio período no Hospital\nShinkyu.",
+                "Tô pensando em trabalhar meio período no Hospital\nShinkyu.",
+                "Quero que você encare as suas entregas como\ncorridas na pista!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ei, Treinador. É só um palpite, com<n>base no quão\nempolgado você tá com<n>tudo isso, mas... aposto\nque essa não<n>é a única ideia que você teve, né?",
+            "choice_data_list": [
+                "Quero testar novos jeitos de melhorar a sua\nrapidez!",
+                "Tô pensando em trabalhar meio período no Hospital\nShinkyu.",
+                "Tô pensando em trabalhar meio período no Hospital\nShinkyu.",
+                "Quero que você encare as suas entregas como\ncorridas na pista!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Hm?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Treinamento de força não é o único<n>jeito da gente\nmelhorar a rapidez<n>dela."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Diminuir o peso dos sapatos pode<n>dar certo, assim\ncomo fazer uma<n>manutenção nos dentes, ajudando\nela a mantê-los cerrados durante as<n>corridas..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ah, agora saquei. Bom, a gente pode<n>testar tudo\nisso.",
+            "choice_data_list": [
+                "Isso aí!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ufa. Amanhã o dia vai ser bem<n>puxado."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hã?! <i>Você</i> também quer arranjar um<n>trabalho de\nmeio período?!",
+            "choice_data_list": [
+                "Seria só na recepção..."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Mas se eu conhecer os médicos<n>numa clínica de\ntratamento, eu talvez<n>consiga solicitar serviços\nmédicos<n>móveis depois dos treinos e antes<n>das\ncorridas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Recentemente, reparei que a Ines<n>Fujin está\nforçando os músculos das<n>costas. Se eu puder\nfazer qualquer<n>coisa pra aliviar esse peso..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Você é muito bobo.",
+            "choice_data_list": [
+                "Mas eu tô falando sério!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Tá, vou ser sincera com você. Se<n>você tá tão\npreocupado assim, bora<n>só agendar umas visitas\ndireitinho no<n>hospital."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Eu posso ajustar o meu horário de<n>trabalho se\nvocê me avisar o plano<n>com antecedência, e isso\nseria bem<n>mais fácil do que você arrumar mais<n>um\nemprego."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Você realmente me coloca em<n>primeiro lugar, né?\nE ainda fica mega<n>preocupado enquanto faz isso."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ooh! Parece uma ideia muito buono!<n>Bora começar\namanhã de manhã!",
+            "choice_data_list": [
+                "Parece, não é?!",
+                "Parece, não é?!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Haha. Não vai se empolgando."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Treinador, agacha aqui um pouquinho.<n>Seu cadarço\ntá desamarrado.",
+            "choice_data_list": [
+                "Sério?!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Não, brincadeirinha."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Um momento depois, sinto dois<n>tapinhas gentis na\nminha cabeça."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Mas você pensou muito nisso tudo,<n>hein! Ganhou\numa estrelinha<n>dourada! Bom trabalho!",
+            "choice_data_list": [
+                "Ué... O que foi isso?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Uma demonstração de gratidão. Só<n>isso."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Hehe."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Treinador, sabe, todas as suas ideias<n>foram feitas\nbaseadas no meu<n>trabalho de meio período.",
+            "choice_data_list": [
+                "É porque eu te fiz uma promessa.",
+                "É porque eu te fiz uma promessa."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Fez?",
+            "choice_data_list": [
+                "Se é importante pra você, é importante pra mim\ntambém.",
+                "Se é importante pra você, é importante pra mim\ntambém."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "...Ines Fujin ama correr. Mas ela ama<n>sua família\nna mesma intensidade."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Se trabalhar meio período é a forma<n>que ela\nencontrou de apoiar as irmãs,<n>então não tenho o\ndireito de interferir.",
+            "choice_data_list": [
+                "Gosto de te ver curtindo correr.",
+                "Gosto de te ver curtindo correr."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Me ver curtindo correr, hein. Hehe, é<n>mesmo, é."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Então talvez eu aproveite a<n>oportunidade pra fazer\nuns pedidos<n>egoístas! Tipo quando a Tríplice<n>Coroa\nClássica acabar, talvez eu<n>peça pra competir numa\ncorrida ainda<n>maior. ♪"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "E sem largar <i>nenhum</i> dos meus<n>trampos. Não\nquero perder nada,<n>sabe?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Você ainda vai gostar de mim se eu<n>começar a\ndizer umas doideiras<n>assim?",
+            "choice_data_list": [
+                "Sim, farei tudo que estiver ao meu alcance pra te\napoiar!",
+                "Sim, farei tudo que estiver ao meu alcance pra te\napoiar!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Fala clichê adquirida! Ahaha, eu tava<n>esperando\nque você dissesse isso.<n>Mais uma vitória pra mim!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Beleza. Então bora pra mais um ótimo<n>ano,\nTreinador!"
+        }
+    ]
+}

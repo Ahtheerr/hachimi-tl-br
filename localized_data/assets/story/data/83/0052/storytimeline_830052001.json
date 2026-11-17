@@ -1,8 +1,8 @@
 {
     "text_block_list": [
         {
-            "name": "Monologue",
-            "text": "Parece que o destino desta noite é<n>um lugar muito\nespecial para Light<n>Hello."
+            "name": "Monólogo",
+            "text": "Parece que o destino desta noite é<n>um\nlugar muito especial para Light Hello."
         },
         {
             "name": "Light Hello",
@@ -57,7 +57,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "D-desculpe! Por favor, esqueça o que<n>acabei de\ndizer!",
+            "text": "D-desculpe! Por favor, esqueça o que<n>acabei\nde dizer!",
             "choice_data_list": [
                 "Mas fico muito feliz em ouvir isso!"
             ]
@@ -68,11 +68,11 @@
         },
         {
             "name": "Light Hello",
-            "text": "Talvez, no fundo, eu soubesse que<n>queria contar\nessa história a você em<n>algum momento..."
+            "text": "Talvez, no fundo, eu soubesse que<n>queria\ncontar essa história a você em algum<n>momento..."
         },
         {
-            "name": "Monologue",
-            "text": "Nesse instante, percebo um clarão<n>pelo canto do\nolho."
+            "name": "Monólogo",
+            "text": "Nesse instante, percebo um clarão<n>pelo\ncanto do olho."
         },
         {
             "name": "Light Hello",
@@ -95,11 +95,11 @@
         },
         {
             "name": "Light Hello",
-            "text": "E, até esse dia chegar, vamos<n>continuar dando o\nnosso melhor no<n>plano de retomada!"
+            "text": "E, até esse dia chegar, vamos<n>continuar\ndando o nosso melhor no plano de<n>retomada!"
         },
         {
             "name": "Light Hello",
-            "text": "Nada nos prepara melhor para mais<n>trabalho duro\ndo que uma boa<n>refeição!"
+            "text": "Nada nos prepara melhor para mais<n>trabalho\nduro do que uma boa refeição!"
         },
         {
             "name": "???",
@@ -119,11 +119,11 @@
         },
         {
             "name": "Light Hello",
-            "text": "Ah! Sim, estou mesmo<n>supervisionando a produção\ndesse<n>evento."
+            "text": "Ah! Sim, estou mesmo<n>supervisionando a\nprodução desse evento."
         },
         {
             "name": "Colega da Light Hello",
-            "text": "Também vi no jornal! Saiba que<n>estou torcendo por\nvocê!"
+            "text": "Também vi no jornal! Saiba que<n>estou\ntorcendo por você!"
         },
         {
             "name": "Light Hello",
@@ -149,7 +149,7 @@
             "text": "Talvez o dia em que eu finalmente<n>possa revelar\nmeu desejo a você<n>não esteja tão distante assim."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "<i>Plic... plic...</i>"
         },
         {
@@ -158,10 +158,10 @@
         },
         {
             "name": "Light Hello",
-            "text": "Eek! Foi uma gota de chuva, não foi?!<n>Vamos sair\ndaqui!"
+            "text": "Eek! Foi uma gota de chuva, não foi?!<n>Vamos\nsair daqui!"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Corremos em direção às árvores<n>para nos abrigar\ndo temporal<n>repentino. Tudo o que podemos fazer<n>é\nesperar a chuva passar..."
         },
         {
@@ -177,7 +177,7 @@
         },
         {
             "name": "???",
-            "text": "Ora? É você, Hello? Se ia vir nos<n>visitar, deveria ter\nligado!"
+            "text": "Ora? É você, Hello? Se ia vir nos<n>visitar,\ndeveria ter ligado!"
         },
         {
             "name": "Light Hello",
@@ -196,7 +196,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "N-não precisa! Vou dar um jeito. Você<n>realmente\nnão deveria mais me tratar<n>como criança."
+            "text": "N-não precisa! Vou dar um jeito. Você\nrealmente não deveria mais me tratar<n>como criança."
         },
         {
             "name": "Mãe da Hello",
@@ -218,7 +218,7 @@
             ]
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "E assim, aceitamos o convite da mãe<n>de Light Hello\ne descansamos na<n>casa onde ela passou a\ninfância."
         }
     ]

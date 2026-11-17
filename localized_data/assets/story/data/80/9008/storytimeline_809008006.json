@@ -1,16 +1,16 @@
 {
     "text_block_list": [
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Hoje, vim visitar uma galeria de arte<n>com Light\nHello para fugir um pouco<n>da correria do dia a dia."
         },
         {
             "name": "Light Hello",
-            "text": "Uau... Que exposição incrível! Havia<n>tantas obras\nfamosas em exibição."
+            "text": "Uau... Que exposição incrível! Havia<n>tantas\nobras famosas em exibição."
         },
         {
             "name": "Light Hello",
-            "text": "É de tirar o fôlego. Estou quase<n>transbordando de\ninspiração!",
+            "text": "É de tirar o fôlego. Estou quase<n>transbordando\nde inspiração!",
             "choice_data_list": [
                 "Alguma obra chamou sua atenção em particular?"
             ]
@@ -47,7 +47,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Embora talvez eu simplesmente não<n>tivesse talento\nsuficiente para<n>alcançar a grandeza. Haha...",
+            "text": "Embora talvez eu simplesmente não<n>tivesse\ntalento suficiente para alcançar a<n>grandeza. Haha...",
             "choice_data_list": [
                 "Acho que essa dedicação, por si só, já é um\ntalento."
             ]
@@ -62,7 +62,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Hum... Uau! Olhe só! Estão realizando<n>uma oficina\nde pintura!"
+            "text": "Hum... Uau! Olhe só! Estão realizando<n>uma\noficina de pintura!"
         },
         {
             "name": "Light Hello",
@@ -85,7 +85,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Uau! Você está sendo modesto<n>demais! Sua pintura\nficou linda!"
+            "text": "Uau! Você está sendo modesto<n>demais! Sua\npintura ficou linda!"
         },
         {
             "name": "Light Hello",
@@ -106,7 +106,7 @@
             "text": "De jeito nenhum! Comparado a mim,<n>você é um\nartista mestre."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Apesar de sua modéstia, Light Hello<n>conseguiu\ncaptar muito bem as<n>características da paisagem.\nEla<n>realmente tem um olhar apurado para<n>essas\ncoisas."
         },
         {
@@ -118,14 +118,14 @@
         },
         {
             "name": "Light Hello",
-            "text": "Ah, não precisa me agradar! Sei muito<n>bem que não\ntenho talento.",
+            "text": "Ah, não precisa me agradar! Sei muito<n>bem\nque não tenho talento.",
             "choice_data_list": [
                 "Mas você retratou muito bem a vegetação."
             ]
         },
         {
             "name": "Light Hello",
-            "text": "Hum... E quanto aos defeitos? Pode<n>fazer críticas\nconstrutivas, eu<n>aguento...",
+            "text": "Hum... E quanto aos defeitos? Pode<n>fazer\ncríticas construtivas, eu aguento...",
             "choice_data_list": [
                 "O uso das cores aqui está excelente."
             ]
@@ -144,7 +144,7 @@
         },
         {
             "name": "Instrutor de Workshop",
-            "text": "Hehe. Concordo com seu amigo, pois<n>sua pintura\nestá maravilhosa.",
+            "text": "Hehe. Concordo com seu amigo, pois<n>sua\npintura está maravilhosa.",
             "choice_data_list": [
                 "Viu? O que foi que eu disse?"
             ]
@@ -155,7 +155,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "A-acho que sim... E também devo<n>conseguir aplicar\no que aprendi aqui<n>ao planejar eventos."
+            "text": "A-acho que sim... E também devo<n>conseguir\naplicar o que aprendi aqui ao planejar<n>eventos."
         },
         {
             "name": "Light Hello",
@@ -166,7 +166,7 @@
             "text": "...Não estou mais aguentando!"
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Envergonhada, Light Hello sai<n>apressada para se\npreparar para ir<n>embora. No entanto, percebo que\nela<n>guarda cuidadosamente a pintura<n>dentro da\nbolsa."
         }
     ]

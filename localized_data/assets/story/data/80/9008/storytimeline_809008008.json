@@ -1,11 +1,11 @@
 {
     "text_block_list": [
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Ultimamente, tenho me dedicado<n>bastante, com a\nagenda lotada de<n>sessões de treinamento e\ncorridas.<n>Mas, certo dia, recebo uma ligação\ninesperada..."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "<i>Trim! Trim!</i>"
         },
         {
@@ -18,14 +18,14 @@
         },
         {
             "name": "Light Hello",
-            "text": "Humm... Que brisa agradável. O clima<n>está perfeito\npara um piquenique!",
+            "text": "Humm... Que brisa agradável. O clima<n>está\nperfeito para um piquenique!",
             "choice_data_list": [
                 "Obrigado pelo convite de hoje."
             ]
         },
         {
             "name": "Light Hello",
-            "text": "Não precisa agradecer! Fico feliz por<n>podermos\npassar um tempo juntos<n>assim! Além disso..."
+            "text": "Não precisa agradecer! Fico feliz por\npodermos passar um tempo juntos<n>assim! Além\ndisso..."
         },
         {
             "name": "???",
@@ -35,7 +35,7 @@
             "name": "Light Hello",
             "text": "...Não pode ser!",
             "choice_data_list": [
-                "Um amigo sua?"
+                "Um amigo seu?"
             ]
         },
         {
@@ -48,7 +48,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Sim! Ainda tenho muito a aprender,<n>mas estou\ndando o meu melhor!"
+            "text": "Sim! Ainda tenho muito a aprender,<n>mas\nestou dando o meu melhor!"
         },
         {
             "name": "Antigo Treinador",
@@ -76,7 +76,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Sou realmente muito grata. Foram<n>aqueles dias que\nme tornaram quem<n>sou hoje."
+            "text": "Sou realmente muito grata. Foram<n>aqueles\ndias que me tornaram quem sou<n>hoje."
         },
         {
             "name": "Light Hello",
@@ -88,7 +88,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Eu nunca percebi o quanto recebia<n>carinho. Deveria\nter contado mais<n>com meu treinador."
+            "text": "Eu nunca percebi o quanto recebia<n>carinho.\nDeveria ter contado mais com meu<n>treinador."
         },
         {
             "name": "Light Hello",
@@ -108,7 +108,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "E foi exatamente por isso que<n>convidei você para\neste piquenique!",
+            "text": "E foi exatamente por isso que<n>convidei\nvocê para este piquenique!",
             "choice_data_list": [
                 "Hã?"
             ]
@@ -119,22 +119,22 @@
         },
         {
             "name": "Light Hello",
-            "text": "Não existe momento melhor para<n>fazer uma pausa\ndo que agora! Não<n>concorda?",
+            "text": "Não existe momento melhor para<n>fazer uma\npausa do que agora! Não concorda?",
             "choice_data_list": [
                 "Light Hello..."
             ]
         },
         {
             "name": "Light Hello",
-            "text": "Então, para começar, vamos<n>revigorar esse seu\ncorpo cansado<n>com uma massagem!"
+            "text": "Então, para começar, vamos<n>revigorar esse\nseu corpo cansado com uma<n>massagem!"
         },
         {
             "name": "Light Hello",
             "text": "Muito bem! Agora que relaxamos<n>esses ombros\ntensos, está na hora<n>de encher a barriga e a alma\ncom<n>uma boa comida! ♪"
         },
         {
-            "name": "Monologue",
-            "text": "Light Hello continua me ajudando a<n>recuperar as\nenergias por um bom<n>tempo..."
+            "name": "Monólogo",
+            "text": "Light Hello continua me ajudando a<n>recuperar\nas energias por um bom tempo..."
         },
         {
             "name": "???",
@@ -142,7 +142,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Hehe. ♪ Bom dia. Pelo visto, alguém<n>dormiu como\numa pedra.",
+            "text": "Hehe. ♪ Bom dia. Pelo visto, alguém<n>dormiu\ncomo uma pedra.",
             "choice_data_list": [
                 "D-desculpe por isso!"
             ]
@@ -153,11 +153,11 @@
         },
         {
             "name": "Light Hello",
-            "text": "Avise quando estiver cansado de<n>novo, está bem?\nTerei prazer em<n>fazer isso outra vez."
+            "text": "Avise quando estiver cansado de<n>novo, está\nbem? Terei prazer em fazer isso<n>outra vez."
         },
         {
             "name": "Light Hello",
-            "text": "Também vou começar a contar muito<n>mais com a\ngentileza dos outros!"
+            "text": "Também vou começar a contar muito<n>mais com\na gentileza dos outros!"
         }
     ]
 }

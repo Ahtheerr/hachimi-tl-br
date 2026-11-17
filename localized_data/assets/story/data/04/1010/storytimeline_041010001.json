@@ -37,7 +37,7 @@
             "text": "Taiki Shuttle... O talento com certeza tá<n>lá, mas ela podia exercitar um pouco<n>mais de autocontrole."
         },
         {
-            "name": "Treinador(a) Habilidoso(a) A",
+            "name": "Treinadora Habilidosa A",
             "text": "Ela costuma se atrapalhar nas<n>partidas, mesmo em treinos. Como<n>será que ela vai se sair hoje?"
         },
         {
@@ -65,7 +65,7 @@
             "text": "Oh, o que é isso? Taiki Shuttle parece<n>estar perdendo o fôlego! Ela está<n>ficando para trás na reta final!"
         },
         {
-            "name": "Treinador(a) Habilidoso(a) A",
+            "name": "Treinadora Habilidosa A",
             "text": "O quê?! Logo agora ela se distrai! O<n>que ela está pensando?"
         },
         {
@@ -81,11 +81,14 @@
             "text": "Ao sair do local, vejo pelo canto do<n>olho alguém cambaleando."
         },
         {
-            "name": "Timid Umamusume",
-            "text": "Urgh... Minha cabeça tá girando..."
+            "name": "Umamusume Tímida",
+            "text": "Urgh... Minha cabeça tá girando...",
+            "choice_data_list": [
+                "(Ela não estava competindo contra a Taiki?)"
+            ]
         },
         {
-            "name": "Timid Umamusume",
+            "name": "Umamusume Tímida",
             "text": "Ai!"
         },
         {
@@ -94,7 +97,7 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Vruuum!"
+            "text": "Daaassh!"
         },
         {
             "name": "Monólogo",
@@ -102,10 +105,10 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "E peguei!"
+            "text": "E caaaatch!"
         },
         {
-            "name": "Timid Umamusume",
+            "name": "Umamusume Tímida",
             "text": "Hã?"
         },
         {
@@ -114,18 +117,18 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Boa! Cheguei bem na hora!"
+            "text": "Good! Cheguei bem na hora!"
         },
         {
-            "name": "Timid Umamusume",
+            "name": "Umamusume Tímida",
             "text": "Es-espera, o quê? Taiki Shuttle?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Eu achei que cê parecia meio down<n>mais cedo. Não é bom se esforçar too<n>hard!"
+            "text": "Eu achei que cê parecia meio pra<n>baixo mais cedo. Se esforçar até<n>demais é um no no!"
         },
         {
-            "name": "Timid Umamusume",
+            "name": "Umamusume Tímida",
             "text": "V-você percebeu?"
         },
         {
@@ -134,10 +137,10 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Agora, melhor te levar pra enfermaria.<n>Aqui—sobe aí e segura firme, okay?"
+            "text": "Agora, melhor te levar pra enfermaria.<n>Aqui—sobe aí e hold firme, okay?"
         },
         {
-            "name": "Timid Umamusume",
+            "name": "Umamusume Tímida",
             "text": "Hã?"
         },
         {
@@ -145,7 +148,7 @@
             "text": "Okay, vamo nessa! Abram caminho,<n>pessoal! Emergência médica, comin'<n>through!"
         },
         {
-            "name": "Timid Umamusume",
+            "name": "Umamusume Tímida",
             "text": "Aaahh!"
         },
         {
@@ -158,19 +161,19 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Fico tão happy que não foi nada<n>sério! Se cuida agora, ouviu?"
+            "text": "Fico tão feliz que não foi nada sério!<n>Se cuida agora, ouviu?"
         },
         {
-            "name": "Timid Umamusume",
-            "text": "Vou sim! Valeu, Taiki! Até logo!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "See ya!"
+            "name": "Umamusume Tímida",
+            "text": "Vou sim! Obrigada, Taiki! Até logo!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Hehe, fico tão happy de ver ela<n>sorrindo! A vida é boa quando todo<n>mundo tá happy!"
+            "text": "See you!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hehe, fico tão happy de ver ela<n>smiling! A vida é boa quando todo<n>mundo tá happy!"
         },
         {
             "name": "Taiki Shuttle",
@@ -190,7 +193,7 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Iirráaaaaa! Yes, yes, mil vezes yes!<n>Tô muito happy!",
+            "text": "Iirráaaaaa! Yes, yes, mil vezes yes!<n>I'm so happy!",
             "choice_data_list": [
                 "Espera, eu não disse nada sob—"
             ]
@@ -201,7 +204,7 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Ooh, e isso pede uma party! Cê tá<n>convidado também, of course!"
+            "text": "Ooh, e isso pede uma party! Cê tá<n>convidado também!"
         },
         {
             "name": "Taiki Shuttle",
@@ -216,7 +219,7 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Bom, see ya amanhã, Treinador! Mal<n>posso esperar pra esse show<n>começar!"
+            "text": "Bom, see ya tomorrow, Treinador!<n>Mal posso esperar pra esse show<n>começar!"
         },
         {
             "name": "Monólogo",

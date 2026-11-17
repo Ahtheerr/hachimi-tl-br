@@ -1,7 +1,7 @@
 {
     "text_block_list": [
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Convidei Light Hello para um passeio<n>divertido,\npara que ela pudesse<n>descansar um pouco. Quando\nchego<n>ao nosso ponto de encontro..."
         },
         {
@@ -9,7 +9,7 @@
             "text": "Certo, amanhã vamos trazer os<n>equipamentos\nde áudio. Agradeço pela ajuda."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "<i>Grrrr...</i>"
         },
         {
@@ -28,7 +28,7 @@
             "text": "E-estou perfeitamente bem! Já me<n>acostumei\na pular uma refeição de vez em<n>quando..."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "<i>Grrrrrr...</i>"
         },
         {
@@ -48,11 +48,11 @@
         },
         {
             "name": "Light Hello",
-            "text": "Uau... Isso me traz tantas lembranças.<n>Não mudou\nnadinha desde os tempos<n>em que eu estudava."
+            "text": "Uau... Isso me traz tantas lembranças.<n>Não\nmudou nadinha desde os tempos em<n>que eu\nestudava."
         },
         {
             "name": "Light Hello",
-            "text": "Ah! E eles ainda servem a<n>sobremesa da semana!\nQuem diria?",
+            "text": "Ah! E eles ainda servem a<n>sobremesa da\nsemana! Quem diria?",
             "choice_data_list": [
                 "Essa era a sua favorita?"
             ]
@@ -93,7 +93,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "É isso! O boca a boca! Eu tinha<n>esquecido que essa\nera uma opção!"
+            "text": "É isso! O boca a boca! Eu tinha<n>esquecido\nque essa era uma opção!"
         },
         {
             "name": "Light Hello",
@@ -105,7 +105,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Onde está meu bloco de notas?!<n>Preciso anotar tudo\nisso antes que eu<n>esqueça...",
+            "text": "Onde está meu bloco de notas?!<n>Preciso\nanotar tudo isso antes que eu<n>esqueça...",
             "choice_data_list": [
                 "Você deveria comer primeiro!"
             ]
@@ -119,7 +119,7 @@
             "text": "<i>Suspiro...</i> Fiz de novo, não foi? Estou<n>sempre\nplanejando cem passos à<n>frente..."
         },
         {
-            "name": "Monologue",
+            "name": "Monólogo",
             "text": "Parece que Light Hello não consegue<n>resistir à\ntentação de colocar o<n>trabalho em primeiro lugar.\nNesse<n>caso...",
             "choice_data_list": [
                 "Vamos sair juntos de novo quando você estiver\nlivre."
@@ -131,7 +131,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Não consigo deixar de pensar que<n>estou fazendo\nvocê se preocupar<n>comigo...",
+            "text": "Não consigo deixar de pensar que<n>estou\nfazendo você se preocupar comigo...",
             "choice_data_list": [
                 "Eu também tenho dificuldade para fazer pausas.",
                 "Eu também tenho dificuldade para fazer pausas."
@@ -139,7 +139,7 @@
         },
         {
             "name": "Light Hello",
-            "text": "Ah... Faz sentido. Você também é<n>bastante ocupado,\nTreinador."
+            "text": "Ah... Faz sentido. Você também é<n>bastante\nocupado, Treinador."
         },
         {
             "name": "Light Hello",
@@ -150,8 +150,8 @@
             "text": "Vamos reservar um tempinho de vez<n>em quando\npara recarregar as<n>energias!"
         },
         {
-            "name": "Monologue",
-            "text": "E assim, Light Hello e eu começamos<n>a sair juntos\npara relaxar e esquecer<n>um pouco do trabalho."
+            "name": "Monólogo",
+            "text": "E assim, Light Hello e eu começamos<n>a sair\njuntos para relaxar e esquecer um<n>pouco do\ntrabalho."
         }
     ]
 }

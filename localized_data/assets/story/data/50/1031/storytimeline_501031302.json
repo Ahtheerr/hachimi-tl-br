@@ -1,0 +1,369 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monólogo",
+            "text": "While I'm walking through the<n>shopping district one\nevening..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh! Trainer! Your timing couldn't be<n>better!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Could you draw this for me? I've got<n>to get to work\nsoon!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "She forcefully jams a slip of paper<n>into the palm of\nmy hand. I take a<n>closer look and see...",
+            "choice_data_list": [
+                "A raffle ticket?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Yep! I've got my sights set on the<n>second prize—a\nbushel of carrots!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "The line is over there! I'm counting on<n>you!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I look in the direction Ines Fujin is<n>pointing and see\na long line of<n>families who have just finished\nshopping."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with<n>our New Year's\nraffle! This year's<n>grand prize is a hot spring\nvacation<n>for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot<n>hamburger\nsteak! Second-prize<n>winners get a bushel of\ncarrots! And<n>third-prize winners can take home a\nsingle carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you<n>by! Get a ticket\nnow and spin for your<n>chance to win!",
+            "choice_data_list": [
+                "(I'll try and win something good!)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I hand over the ticket I got from Ines<n>Fujin and\neagerly turn the handle on<n>the raffle device."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A small plastic ball drops from the<n>tumbler's\nopening..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves<n>a grand-prize\nwinner! Come and get<n>the coupon for your hot\nspring<n>vacation! Congratulations!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "choice_data_list": [
+                "Whoa!"
+            ],
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Whaaaaat?! It's actually possible to<n>win the grand\nprize?!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Share some of that good luck with<n>me, will ya?!\nNext time I get a chance,<n>I'll win myself a grand\nprize, too!",
+            "choice_data_list": [
+                "Huh, but what about this coupon?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'll let you keep it. You were the one<n>who won it,\nafter all."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I wouldn't feel right taking it after the<n>fact. C'mon,\nhurry up and put it in<n>your pocket.",
+            "choice_data_list": [
+                "But it was your ticket in the first place...",
+                "But it was your ticket in the first place..."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I said it's fine. Just accept it!",
+            "choice_data_list": [
+                "No, I can't take it."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Why not?!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Huff... huff...</i> Just take it already,<n>Trainer!",
+            "choice_data_list": [
+                "But it's not mine!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Arrrgh! Wait, I've got an idea! How<n>about this?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Let's keep this coupon in reserve for<n>now! Once\nwe find a time that fits<n>both our schedules, we'll go.\nEnd of<n>story. Sound good?",
+            "choice_data_list": [
+                "I can get on board with that!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Phew... We've finally got that sorted,<n>then."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Let's keep it in this room for now.<n>That way you\ncan use it whenever<n>you feel like it.",
+            "choice_data_list": [
+                "Or when you do, Ines!",
+                "Or when you do, Ines!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Geez..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You're such a handful."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize<n>winner!\nCongratulations! You get one<n>deluxe carrot\nhamburger steak!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "choice_data_list": [
+                "First prize!"
+            ],
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Welcome! How many of you are<n>dining toda—"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Wait, Trainer?! Are you eating ramen<n>again?",
+            "choice_data_list": [
+                "No, no! I wanted to tell you I won first prize!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Huh?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Whoa! It's a carrot hamburger steak!<n>Is it really\nokay for me to have this?",
+            "choice_data_list": [
+                "Of course!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Thanks! I'll eat it after I'm done with<n>my shift!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Say, Trainer. You didn't come all the<n>way over\nhere <i>just</i> to give me this,<n>did you?",
+            "choice_data_list": [
+                "Yes!",
+                "Yes!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ahaha..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "You could've just given me it<n>tomorrow. You've\ngot a surprisingly<n>cute side to you."
+        },
+        {
+            "name": "Monólogo",
+            "text": "And so, I hand over the deluxe carrot<n>hamburger\nsteak to Ines Fujin."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's<n>your lucky day!\nYou're going home<n>with a bushel of carrots!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I receive a cardboard box packed full<n>of carrots,\nwhich I decide to carry to<n>the student dorms. But\nwhen I arrive..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Grrrowl...</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "..."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "<i>Grrrowl...</i>"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...Ugh!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I come across Oguri Cap, her stomach<n>loudly\nrumbling. With each rumble,<n>she visibly winces—it\nseems her<n>hunger has reached its limit.",
+            "choice_data_list": [
+                "(If Ines were here right now...)"
+            ],
+            "color_text_info_list": [
+                "Oguri Cap"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh, are you hungry, Oguri?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hehe, I'll share a few with you. I<n>don't have that\nmany, though, so<n>keep this a secret between us,\nokay?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ah, but they'd probably be tastier<n>cooked rather\nthan raw. How about I<n>whip you something up?"
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...",
+            "choice_data_list": [
+                "Erm..."
+            ]
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "...?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "So that's why we're being treated to<n>a hot pot,\nhuh? I was surprised when<n>I suddenly got a\nmessage saying to<n>come to your office after I finish\nwork."
+        },
+        {
+            "name": "Oguri Cap",
+            "text": "Ines! Your trainer's cooking is so<n>delicious!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "My trainer is top-class, after all! Right,<n>I think I'll try\na bit too!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "And so, the giant box of carrots<n>vanishes in a single\nnight,<n>disappearing into an abyss made up<n>of two\nUmamusume stomachs..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won<n>the third prize!\nHere's your carrot!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "A single carrot, huh? Well, it is just a<n>raffle, after all."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Thanks for helping out on short<n>notice, anyhow!\nThat raffle ticket was<n>going to expire after today, so\nI'm<n>glad it didn't go to waste!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Let me know if you ever have a<n>spare ticket of your\nown. I'll be there<n>to help you out, Trainer!",
+            "choice_data_list": [
+                "I wonder if that will ever happen..."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "It totally will!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Maybe."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I hand over the carrot to Ines Fujin<n>and we head\nhome."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you<n>pulled a blank one!\nTake this pack of<n>tissues as a consolation prize."
+        },
+        {
+            "name": "Monólogo",
+            "text": "You obtained: <itemname>",
+            "choice_data_list": [
+                "I guess luck wasn't on my side!"
+            ],
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hello-lo, Trainer! About that raffle<n>ticket I gave you\nyesterday..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hm? You're looking a bit down in the<n>dumps first\nthing in the morning...",
+            "choice_data_list": [
+                "I pulled a blank in the raffle..."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "What?! No way?!",
+            "choice_data_list": [
+                "S-sorry!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ah, no, no. I didn't mean it like that! I<n>just can't\nbelieve you're feeling<n>down because of something\nso silly!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Aaah, look, I'm sorry, okay? I never<n>expected you\nto feel guilty over a<n>raffle..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I end up making Ines Fujin worry<n>about me\nneedlessly."
+        }
+    ]
+}

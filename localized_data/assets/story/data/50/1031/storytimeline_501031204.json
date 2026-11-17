@@ -1,0 +1,193 @@
+{
+    "text_block_list": [
+        {
+            "name": "Flashy Part-Timer",
+            "text": "Huh? Morning shift again today,<n>Ines? I feel like I\nsee you all the time<n>lately."
+        },
+        {
+            "name": "Flashy Part-Timer",
+            "text": "Come to think of it, my boyfriend said<n>he saw you\nworking at some other<n>place..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hehe, yep! I've started another<n>part-time job."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ah, darn it. I've gotta get to class!<n>Let's chat again\nnext time we have a<n>shift together!"
+        },
+        {
+            "name": "Flashy Part-Timer",
+            "text": "...Yeah, okay. Hang in there!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "As we complete our final preparations<n>for the\nKikuka Sho, something about<n>Ines Fujin seems\noff..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "<i>Pant... pant...</i> Urgh..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "She has a bleak expression on her<n>face, and her\nlap time reflects her<n>shortness of breath."
+        },
+        {
+            "name": "Monólogo",
+            "text": "It's a mediocre time—a far cry from<n>her personal\nbest. Attempting to<n>suppress her natural instincts\nhas<n>caused her form to become rigid...",
+            "choice_data_list": [
+                "(She's in a bit of a slump...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "If she doesn't break out of this rut<n>soon, it might\nhave serious<n>implications for her future\nperformances.",
+            "choice_data_list": [
+                "Listen, Ines...",
+                "Listen, Ines..."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "What's up, Trainer?",
+            "choice_data_list": [
+                "You don't need to force yourself so much."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Huh?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I've been striving to help Ines<n>develop a new\nrunning style because<n>I believed that was the best\nway to<n>address her stamina issues."
+        },
+        {
+            "name": "Monólogo",
+            "text": "But if taking on that challenge is just<n>causing more\nissues for her, we<n>might be better off going back to\nher<n>original running style.",
+            "choice_data_list": [
+                "Don't forget I'm here to support you.",
+                "Don't forget I'm here to support you."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'm fine, I'm fine! Rather than<n>worrying, I want you\nto sit back and<n>expect big things!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I want to show my family that I'll<n>always be\nbrimming with energy, no<n>matter how tough the\nrace!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...Because I know those two will be<n>watching."
+        },
+        {
+            "name": "Monólogo",
+            "text": "The day of the Kikuka Sho has<n>arrived. Ines Fujin\nhas her eyes<n>tightly shut, as if trying to suppress\nher excitement."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Bzzzt... Bzzzt...</i>"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Oh—someone's calling me! Huh? But<n>this number\nis..."
+        },
+        {
+            "name": "Shift Supervisor",
+            "text": "Hello? Is this Ines Fujin? Where are<n>you at the\nmoment?"
+        },
+        {
+            "name": "Shift Supervisor",
+            "text": "As it's your first day working with us,<n>I wanted to\ngive you a quick rundown<n>of your duties. But you\ndidn't show<n>up to the assigned meeting place."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...?!"
+        },
+        {
+            "name": "Shift Supervisor",
+            "text": "Um? Hello? I don't have the wrong<n>number, do I?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I-I'm so sorry! I'm sorry! I'm sorry!<n>I'm—",
+            "choice_data_list": [
+                "Pass me the phone!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ines Fujin's face suddenly turns<n>pale before my\neyes, so I take the<n>phone and speak for her."
+        },
+        {
+            "name": "Monólogo",
+            "text": "In short, she accidentally scheduled a<n>shift at her\nnew part-time job that<n>overlaps with the race.",
+            "choice_data_list": [
+                "(That's not like her at all...)"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "After apologizing profusely, we're<n>able to settle the\nmatter without it<n>turning into too big of an incident."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "I'm sorry, Trainer. I messed up...",
+            "choice_data_list": [
+                "Don't worry about it."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Nothing like this has ever happened<n>before...",
+            "choice_data_list": [
+                "It's fine, so just relax."
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "I tell Ines Fujin that I'll explain the<n>situation to her\nemployer so that she<n>doesn't have to shoulder the\nblame<n>alone.",
+            "choice_data_list": [
+                "Take a deep breath and focus on the race."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...",
+            "choice_data_list": [
+                "Show everyone how much you enjoy racing!",
+                "Show everyone how much you enjoy racing!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "O-okay... You're right!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "At the very least, I've gotta redeem<n>myself on the\ntrack!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "I follow behind her as she hurries out<n>of the waiting\nroom."
+        },
+        {
+            "name": "Monólogo",
+            "text": "She shouldn't be left alone right now.<n>The least I\ncan do is wave to her from<n>the side of the paddock."
+        },
+        {
+            "name": "Monólogo",
+            "text": "I want to do whatever I can to support<n>her, no\nmatter how small..."
+        }
+    ]
+}

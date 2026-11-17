@@ -1,0 +1,207 @@
+{
+    "text_block_list": [
+        {
+            "name": "Doctor",
+            "text": "...Estou um pouco preocupado com o<n>inchaço nas\nsuas pernas. Acho que<n>seria prudente tirar um\ntempo de<n>folga para se recuperar."
+        },
+        {
+            "name": "Doctor",
+            "text": "Fiz um exame completo, mas parece<n>não haver\nnenhum problema grave.<n>Vamos apenas ficar de\nolho na sua<n>evolução por enquanto.",
+            "choice_data_list": [
+                "...Ainda bem."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "...É, ainda bem."
+        },
+        {
+            "name": "Monólogo",
+            "text": "<i>Bzzzt... Bzzzt...</i>"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Caramba, eu tenho quarenta<n>mensagens não lidas\nno LANE?!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Minha mãe e meu pai mandaram<n>mensagens\ndemais...",
+            "choice_data_list": [
+                "Isso mostra o quanto eles estavam preocupados\ncom você."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ahaha, acho que eu já devia<n>imaginar. Fui\ninternada de repente<n>depois de competir no Derby,\nafinal<n>de contas."
+        },
+        {
+            "name": "Monólogo",
+            "text": "A família da Ines Fujin veio torcer por<n>ela durante o\nDerby, e eles já foram<n>informados da situação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Eu disse a eles que não era nada<n>sério, e que\nficaria ao lado da Ines<n>enquanto ela se recupera.\nMas ainda<n>assim, devem ter ficado muito\npreocupados.",
+            "choice_data_list": [
+                "Por que não visita a sua família enquanto\ndescansa?",
+                "Por que não visita a sua família enquanto\ndescansa?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hmm, provavelmente é uma boa<n>ideia. Me ver\npessoalmente pode<n>acalmar os ânimos deles.",
+            "choice_data_list": [
+                "Elas vão adorar ter a irmãzona em casa de novo.",
+                "Elas vão adorar ter a irmãzona em casa de novo."
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Verdade! Eu com certeza ia morrer de<n>tédio\nenquanto descanso as pernas<n>de qualquer forma."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "E enquanto eu estiver fora, Treinador,<n>conto com\nvocê pra bolar uma rotina<n>de treino pra minha\npróxima corrida, o<n>Kikuka Sho!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Com isso decidido, envio um pedido<n>de licença para\na academia e faço a<n>Ines Fujin voltar para casa\npor uma<n>semana para descansar."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Não vá comer nenhuma besteira<n>enquanto eu\nestiver fora, beleza,<n>Treinador?",
+            "choice_data_list": [
+                "Claro que não!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Hmm, acho que vou ter que confiar<n>em você...\nBeleza, tô indo!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Fico olhando até o trem da Ines Fujin<n>deixar a\nestação."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Quando volto para o meu escritório,<n>noto que os\nmateriais do Derby que<n>deixei espalhados pela\nminha mesa<n>estão bem organizados.",
+            "choice_data_list": [
+                "Será que a Ines arrumou para mim?"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "Sento-me à minha mesa agora limpa<n>e começo a\npensar."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O Kikuka Sho é a corrida final da<n>Tríplice Coroa\nClássica. Com 3.000<n>metros, é uma verdadeira\nbatalha de<n>vigor. Se a Ines Fujin quiser ter uma\nchance..."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "...Então você teme que o corpo dela<n>não consiga\naguentar?",
+            "choice_data_list": [
+                "...Isso mesmo."
+            ]
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Eu entendo o seu ponto. Nós aqui da<n>academia\ntambém ficamos bem<n>preocupados com o estado\ndela após<n>o Derby."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Ela precisará de um apoio adicional. E<n>não apenas\nfísico... também<n>precisamos garantir que ela\npermaneça equilibrada mentalmente.",
+            "choice_data_list": [
+                "Você quer dizer o bem-estar mental dela?"
+            ]
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Sim. Levar o corpo dela aos limites<n>inevitavelmente\nsobrecarrega a<n>saúde mental também."
+        },
+        {
+            "name": "Infirmary Doctor",
+            "text": "Por favor, cuide dela com ainda mais<n>atenção daqui\npara a frente."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Opa! Voltei, Treinador!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Uma semana passa num piscar de<n>olhos. Após um\nexame no hospital,<n>parece que estamos prontos\npara<n>voltar aos treinos sem problemas,<n>mas..."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Treinador, tenho uma coisa muuuito<n>importante pra\nte falar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Ines Fujin entra no assunto assim<n>que chegamos\nà academia."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "O negócio é o seguinte... Eu tô<n>querendo\ndesenvolver um estilo de<n>corrida mais eficiente\npras minhas<n>próximas corridas.",
+            "choice_data_list": [
+                "Um estilo mais eficiente?"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "É. Quero dizer... eu desabei depois do<n>Derby, não\nfoi?"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Quero ter certeza de que isso nunca<n>mais aconteça.\nPreciso de um jeito<n>de evitar ficar tão exausta\nassim."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Aí eu pensei que precisaria criar um<n>novo estilo de\ncorrida! Que que você<n>acha?!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Monólogo",
+            "text": "O pedido dela é exatamente o que eu<n>esperava."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Algumas Umamusumes têm uma<n>dificuldade\nextrema em tentar alterar<n>o estilo com o qual se\nacostumaram.<n>É por isso que requer um\ncompromisso a longo prazo."
+        },
+        {
+            "name": "Monólogo",
+            "text": "No entanto, se isso ajudar a aliviar a<n>carga que ela\ncoloca em seu corpo,<n>então definitivamente vale a\npena<n>tentar.",
+            "choice_data_list": [
+                "Ótima ideia! Vamos trabalhar nisso durante o\nacampamento!"
+            ]
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Beleza! Vou deixar as mudanças na<n>rotina com\nvocê!"
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Espero que isso seja Buono pro meu<n>corpo\naguentar e diminua o tempo<n>que eu passo me\nrecuperando."
+        },
+        {
+            "name": "Ines Fujin",
+            "text": "Ahn, Chefe, preciso falar com você<n>sobre uma\ncoisa."
+        },
+        {
+            "name": "Convenience Store Manager",
+            "text": "Opa, o que foi, Ines?"
+        },
+        {
+            "name": "Monólogo",
+            "text": "O verão está se aproximando<n>rapidamente, o que\nsignifica que<n>participaremos do acampamento.\nPrecisarei bolar uma nova agenda de<n>treinos antes\ndisso."
+        },
+        {
+            "name": "Monólogo",
+            "text": "O próximo objetivo da Ines Fujin é o<n>Kikuka Sho."
+        }
+    ]
+}

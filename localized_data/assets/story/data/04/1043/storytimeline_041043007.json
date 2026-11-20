@@ -1,0 +1,231 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "We're at summer camp, normally the<n>perfect time\nto focus on training. But..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "<i>Pant, pant...</i> So, howdja like Windy's<n>running? All\neyes on the beach are..."
+        },
+        {
+            "name": "Student A",
+            "text": "Biko's so fired up! Okay, I gotta kick<n>my butt into\nhigh gear too!"
+        },
+        {
+            "name": "Student B",
+            "text": "Let's do this! I'm gonna be just like<n>those three.\nNo one is gonna beat me<n>on dirt!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Not on me! Guhhh... This leaves me<n>with no choice!",
+            "choice_data_list": [
+                "No pranks!",
+                "No pranks!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Graahhh! Now I'm angry! Screw you,<n>summer\ncamp!"
+        },
+        {
+            "name": "Monologue",
+            "text": "The lack of attention is tanking her<n>motivation and\nfocus. We're in for a<n>rough summer."
+        },
+        {
+            "name": "Monologue",
+            "text": "Or so I thought..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Huh? The summer festival's<n>canceled?"
+        },
+        {
+            "name": "Student A",
+            "text": "Yeah... Apparently it like clashed with<n>the festival in\nthe next town over or<n>something."
+        },
+        {
+            "name": "Student A",
+            "text": "They said if they're at the same time,<n>people will\njust go to the other<n>festival, so they just won't do\nit this<n>year."
+        },
+        {
+            "name": "Student B",
+            "text": "But we'd probably miss curfew if we<n>tried heading\nout there... <i>Sigh.</i> No<n>summer festival this year, I\nguess."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hmm..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I was planning on taking Windy to the<n>festival as a\npost-training treat, but oh<n>well...",
+            "choice_data_list": [
+                "Wait... Windy?"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I wait around until after sundown, but<n>Windy still\nhasn't returned to the<n>dorms."
+        },
+        {
+            "name": "Monologue",
+            "text": "Determined to find her, I venture out<n>along the\nnarrow, unlit roads. But just<n>then..."
+        },
+        {
+            "name": "???",
+            "text": "AHHH!",
+            "choice_data_list": [
+                "Was that a scream just now?!"
+            ]
+        },
+        {
+            "name": "???",
+            "text": "GYAHH! P-please, have mercy!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I hear scream after scream coming<n>from the woods.\nWhat's going on?<n>What if something's happened\nto<n>Windy?"
+        },
+        {
+            "name": "Village Leader",
+            "text": "Ohoho! Now that has a kick to it! I can<n>feel it tickling\nmy brain!",
+            "choice_data_list": [
+                "...Huh?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Wahahaha! Go on, go on—gimme<n>more! And let's\nget some fun goin'<n>on over there too!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Following the lively noises, I find a<n>clearing lined\nwith rows of lanterns<n>and handmade banners—a\nsmall<n>festival."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hm? Oh, Trainer! So, whaddya think<n>of Windy's\nfestival? Looks like a<n>super fun time, doesn't it?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Some of the takoyaki are laced with<n>mustard! All\nraffle draws are grand<n>prizes! And on stage, you\ncan try yer<n>hand at the mystery box challenge!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "With a dash of Windy mischief, we<n>can blow the\nneighboring town's<n>festival out of the water!",
+            "choice_data_list": [
+                "Wait, so the screams earlier..."
+            ]
+        },
+        {
+            "name": "Villager A",
+            "text": "GYAHHH! Aghh, I got one of the<n>mustard takoyaki."
+        },
+        {
+            "name": "Villager B",
+            "text": "Eeek! Wh-what the heck is in this<n>box?! It's all\nslimy and cold!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "C'mon now, do your best and make<n>a guess. ♪ Ya\ndon't want to miss out<n>on Windy's special prank\ngoods!"
+        },
+        {
+            "name": "Villager C",
+            "text": "I've never been to a festival like this!<n>There's so\nmuch variety!"
+        },
+        {
+            "name": "Villager D",
+            "text": "I know, right? Hey, don't you agree<n>this wouldn't\noverlap with the other<n>festival at all? It's nothing\nlike what<n>we had before!"
+        },
+        {
+            "name": "Village Leader",
+            "text": "If it's a student of Tracen Academy<n>giving us all\nthese ideas, we've got<n>to put them into practice,\ndon't we,<n>folks?"
+        },
+        {
+            "name": "Villagers",
+            "text": "Woo!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Word of the event reaches camp in<n>no time, and\nstudents start streaming<n>over."
+        },
+        {
+            "name": "Student A",
+            "text": "Thanks, Windy! This has been<n>nonstop excitement!"
+        },
+        {
+            "name": "Student B",
+            "text": "So, the mustard takoyaki—was that<n>your idea?! It's\namazing!"
+        },
+        {
+            "name": "Villager A",
+            "text": "We never would've thought of<n>anything like this.\nWe'll use some of<n>these ideas next year too.\nThanks!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Neeheehee. ♪"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Phew... Mission accomplished!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Cleanin' up was a pain, though...",
+            "choice_data_list": [
+                "People loved it!",
+                "People loved it!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Of course they did! I'm a prankster<n>genius! Don't\nyou know?",
+            "choice_data_list": [
+                "I know all too well."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...Remember what you told me<n>before? That I'm\nsuper-duper<n>creative?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Well, that's 'cause I'm a big bad.<n>Evil needs a\nsteady stream of ideas."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "So, you know... I have all these ideas<n>at my\ncommand..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "And... well, the thing is... they're goin'<n>to waste!\nI've got more ideas than I<n>can use!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "So I got to thinkin', maybe it wouldn't<n>be a bad idea\nto share some of 'em."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "In other words, I could give pranks to<n>those in need!\nI'll make everyone<n>dependent on me, and then\nthey'll all<n>be my lackeys!",
+            "choice_data_list": [
+                "I'm sure you'll be in high demand.",
+                "I'm sure you'll be in high demand."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Yep! Pretty soon <i>everyone</i> will want a<n>piece of my\npranks!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "And when that happens, I'll be too<n>busy to deal\nwith them all, so I'll<n>appoint you as my eternal\nassistant!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "And wouldn't ya like that?"
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing the smug look on her face<n>brimming with\nexcitement, I don't<n>have to think twice before giving\na<n>hearty nod."
+        }
+    ]
+}

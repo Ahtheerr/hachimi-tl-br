@@ -6,7 +6,10 @@
         },
         {
             "name": "Haru Urara",
-            "text": "Today's the day! I'm gonna win that<n>ice cream\ncushion!"
+            "text": "Today's the day! I'm gonna win that<n>ice cream\ncushion!",
+            "choice_data_list": [
+                "Marcador volte aqui"
+            ]
         },
         {
             "name": "Rice Shower",

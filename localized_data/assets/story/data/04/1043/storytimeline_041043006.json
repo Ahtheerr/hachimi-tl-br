@@ -1,0 +1,239 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One weekend, Shinko Windy takes<n>me to the zoo."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Crocodiles! Hippos! Gorillas! Let's<n>go, let's go! We\nhave so much to<n>see!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Those guys really know how to bite!<n>We definitely\ncan't miss out on<n>feedin' time!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "C'mon, hurry! We gotta get the best<n>spot!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Whoaaa! Look! Look how powerful<n>that crocodile\nis! Big jaw goes<n>chomp!"
+        },
+        {
+            "name": "Visitor A",
+            "text": "Wow, those teeth! I don't even want<n>to imagine\ngetting bit by those!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hmph."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "What about Windy? I've got a mean<n>bite too."
+        },
+        {
+            "name": "Visitor A",
+            "text": "It's so cute, munching away with that<n>big mouth!"
+        },
+        {
+            "name": "Visitor B",
+            "text": "I didn't know they stood up in the<n>water like that.\nI'm starting to think<n>it's kinda cute!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hmph! It's all about them—no fair!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "My bite's just as powerful!"
+        },
+        {
+            "name": "Monologue",
+            "text": "As we make our way around the<n>exhibits, Windy's\nmood only gets<n>worse and worse. This could be\nbad..."
+        },
+        {
+            "name": "Zookeeper",
+            "text": "Poor Goatson. No visitors today either,<n>huh."
+        },
+        {
+            "name": "Goatson",
+            "text": "Maa..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...What's up with that? A goat's<n>takin' a walk.",
+            "choice_data_list": [
+                "Some sort of petting event, maybe?"
+            ]
+        },
+        {
+            "name": "Zookeeper",
+            "text": "Ahaha... If you have a moment, why<n>don't you play\nwith him? He's an<n>adorable fella, but no one pays\nhim<n>any attention."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...Hey you, c'mere for a sec."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "We do like this, and this, and then<n>pull..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Nahahaha! Look! I braided his goatee!",
+            "choice_data_list": [
+                "Hey, don't be rude!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hmph! Look at you, mopin' around<n>just 'cause ya\ndon't get any<n>attention. Well, I'm different!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Just you watch. I'm gonna pull a<n>huge prank, and\nthen everybody's<n>eyes will be on me!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Windy provokes the melancholy goat,<n>but in a way,\nshe almost seems to be<n>comforting him too. Maybe\nshe feels<n>a sense of kinship with the poor<n>creature."
+        },
+        {
+            "name": "Monologue",
+            "text": "That's when it hits me: maybe this<n>could be a\nchance to harness her<n>creativity—to prove that her\ntalents<n>can be used for so much more than<n>pranks."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Huh? Whaddya mean, I should prank<n>Goatson?",
+            "choice_data_list": [
+                "I think Goatson wants some attention too."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hrm, you have a point... He might be a<n>good victim."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "All right, prepare yourself, Goatson!<n>Windy's about\nto show ya what a<n>prank's all about!"
+        },
+        {
+            "name": "Goatson",
+            "text": "M-maah?"
+        },
+        {
+            "name": "Visitors",
+            "text": "Okay, where to next? Looks like the<n>giraffes and\nrhinos are over there."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "WAAAHAHAHA!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Goatson! Wonderin' where your<n>meal went? Well\nguess what—Windy<n>ate it all!",
+            "choice_data_list": [
+                "How dastardly! Wicked Windy strikes again!"
+            ]
+        },
+        {
+            "name": "Zookeeper",
+            "text": "Oh, that girl—I only looked away for a<n>second! Sorry,\nGoatson!"
+        },
+        {
+            "name": "Visitors",
+            "text": "Wh-what are they doing over there?!<n>Look at her\nstanding on top of that<n>cliff!"
+        },
+        {
+            "name": "Visitors",
+            "text": "Did the goat get its food stolen?<n>That's so mean!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Haaahaha! Too bad for you, Goatson!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "If only you were stronger, ya<n>could've taken it\nback. Sucks to be<n>weak, doesn't it?"
+        },
+        {
+            "name": "Goatson",
+            "text": "Maa... Maahhh..."
+        },
+        {
+            "name": "Goatson",
+            "text": "MAAAAHHH!"
+        },
+        {
+            "name": "Visitor C",
+            "text": "Whoa! The goat's running up the cliff!"
+        },
+        {
+            "name": "Visitor A",
+            "text": "But it's practically vertical! Is that<n>even possible?!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Wha? Y-you actually climbed up...<n>Ahem! Well, you\nhave some strong<n>legs!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hmph! You've earned a spot in<n>Windy's Warriors!\nHere, have some<n>grass as a reward!"
+        },
+        {
+            "name": "Visitors",
+            "text": "You go, Goatson! Did Windy know<n>he'd do that?"
+        },
+        {
+            "name": "Visitors",
+            "text": "That was fun! Do more!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "More, you say? Wahaha! Guess I<n>have no choice!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Next, you'll witness how strong<n>Windy is! Goatson,\nyou can show off<n>how amazing you are too!"
+        },
+        {
+            "name": "Goatson",
+            "text": "Maaa! Maaaa!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Woo! I feel like I'm on top of the<n>world!"
+        },
+        {
+            "name": "Zookeeper",
+            "text": "Thank you so much! Goatson looks<n>thrilled to have\nall the new company!",
+            "choice_data_list": [
+                "Glad we could help out."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Smell ya later, Goatson! Don't let this<n>chance go to\nwaste, you hear?"
+        },
+        {
+            "name": "Monologue",
+            "text": "We leave the zoo and hurry back to<n>the academy.\nAlong the way, I notice<n>Windy looking up at the sky\nevery<n>now and then."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...You know, that was a lot of people,<n>wasn't it?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I mean, I was amazing. Needless to<n>say. Nothing\nnew there. But..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Pranks, huh..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Illuminated by the setting sun, Windy<n>looks just a\nbit more mature than<n>usual."
+        }
+    ]
+}

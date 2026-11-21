@@ -2,30 +2,30 @@
     "text_block_list": [
         {
             "name": "Taiki Shuttle",
-            "text": "Ouch! Yeeowch! I'm under attack!"
+            "text": "Ai! Aiii! Estou sendo atacada!"
         },
         {
             "name": "Monólogo",
-            "text": "Is Taiki Shuttle hurt?!"
+            "text": "Taiki Shuttle está machucada?!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Somebody's gotten inside my head!<n>Betcha this is\nthe work of a ninja!"
+            "text": "Alguém invadiu minha cabeça!<n>Aposto que isso é\nobra de um ninja!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "It feels all prickly—and sometimes it<n>throbs like ya\nwouldn't believe! That<n>ninja's throwin' daggers\nright on<n>beat!",
+            "text": "Está toda formigando e, às vezes,<n>lateja de um\njeito absurdo! Aquele<n>ninja está arremessando\nkunais no<n>ritmo da música!",
             "choice_data_list": [
-                "Do you mean you have a headache?"
+                "Você quer dizer que está com dor de cabeça?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oh, it's nothin'! Pain, pain, go away!<n>Don't come\nback another day!"
+            "text": "Ah, não é nada! Dor, dor, vá embora!<n>E não volte\nnunca mais!"
         },
         {
             "name": "Monólogo",
-            "text": "Taiki Shuttle is having a hard time<n>dealing with her\nheadache..."
+            "text": "Taiki Shuttle está tendo dificuldades<n>para lidar com\nsua dor de cabeça..."
         }
     ]
 }

@@ -2,145 +2,145 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "I pay a visit to a shrine with Taiki<n>Shuttle."
+            "text": "Faço uma visita a um santuário com<n>Taiki Shuttle."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "We made it to the shrine! It's so quiet<n>and\npeaceful!"
+            "text": "Chegamos ao santuário! É tão<n>silencioso e\ntranquilo!"
         },
         {
             "name": "Matikanefukukitaru",
             "text": "Woiya, woiya! Hoiya, hoiya!",
             "choice_data_list": [
-                "(Way to disturb the peace!)"
+                "(Que jeito de acabar com a tranquilidade!)"
             ]
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Namu, namu! Woiya, hoiya! Come<n>ooon, great\nfortune!"
-        },
-        {
-            "name": "",
-            "text": "Howdy, Fukukitaru! Whatcha doin'?"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Oh, hello there, Taiki! I was just<n>praying for great\nfortune!"
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "You see, I've received a divine<n>charge from the\ngreat Shiraoki. I must<n>pull \"great fortune\" on a\nfortune slip at<n>the shrine."
-        },
-        {
-            "name": "Matikanefukukitaru",
-            "text": "Why don't you join me and try your<n>luck, Taiki?"
+            "text": "Namu, namu! Woiya, hoiya!<n>Vamoooos, grande\nfortuna!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oh, fortune slips! That got something<n>to do with the\nfortune-telling stuff<n>you're always goin' on about?"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "I love when ya tell me 'bout all that!<n>It's awful fun!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "I wanna try pullin' in a whole mess of<n>happiness!"
+            "text": "Howdy, Fukukitaru! O que está<n>fazendo?"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Oho, you <i>are</i> known for spreading<n>happiness! With\nyou around, I'm sure<n>to get great fortune!"
+            "text": "Ah, olá, Taiki! Estava rezando para ter<n>muita sorte!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Okay, let's go! Fortune, come our<n>way!"
+            "text": "Veja bem, recebi uma missão divina<n>da grande\nShiraoki. Preciso tirar um<n>papelzinho da sorte com\n\"grande<n>fortuna\" aqui no santuário."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Ahoooyyy! Bring on the fortune!"
+            "text": "Por que não se junta a mim e tenta a<n>sorte, Taiki?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Great fortune, pretty please! All right,<n>let's give this\na go!"
+            "text": "Ah, aqueles papéis da sorte! Tem a<n>ver com\naquelas coisas de<n>adivinhação sobre as quais você\nvive<n>falando?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Trainer, look! I really got me a \"great<n>fortune\" slip!",
+            "text": "Adoro quando você me conta essas<n>coisas! É\ndivertido demais!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Quero atrair um montão de felicidade!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ora, você é mesmo conhecida por<n>espalhar\nfelicidade! Com você por<n>perto, tenho certeza de\nque vou<n>conseguir uma grande fortuna!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Certo, vamos lá! Que a sorte venha<n>até nós!"
+        },
+        {
+            "name": "Matikanefukukitaru",
+            "text": "Ahooooyyy! Pode vir, fortuna!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Grande fortuna, por favorzinho! Muito<n>bem, vamos\ntentar!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Trainer, olha só! Consegui mesmo um<n>papelzinho\nde \"grande fortuna\"!",
             "choice_data_list": [
-                "Nice!",
-                "Nice!"
+                "Boa!",
+                "Boa!"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Yippee! I like this fortune slip pullin'<n>thing!"
+            "text": "Eba! Gostei dessa história de tirar<n>papelzinhos da\nsorte!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "H-how come Taiki drew \"great<n>fortune\" and I pulled\n\"great <i>mis</i><n>fortune\"?! What is happening?!"
+            "text": "P-por que a Taiki tirou \"grande<n>fortuna\" e eu tirei\n\"grande<n><i>des</i>fortuna\"?! O que está<n>acontecendo?!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "No! Don't give up, Fukukitaru!"
+            "text": "Não! Não desista, Fukukitaru!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "If you draw a ton of 'em, I'm sure<n>you'll get \"great\nfortune\" eventually!"
+            "text": "Se você tirar um monte deles, tenho<n>certeza de que\numa hora vai<n>conseguir \"grande fortuna\"!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Taiki, that's not how you're<n>supposed to pull\nfortune sli—wait,<n>hang on!"
+            "text": "Taiki, não é assim que se tira<n>papelzinhos da sor—\nEspera aí!"
         },
         {
             "name": "",
-            "text": "Shiraoki didn't specify about the<n>number of slips I\ncould pull... I still<n>have a chance!"
+            "text": "Shiraoki não especificou quantos<n>papéis eu poderia\ntirar... Ainda tenho<n>uma chance!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "That's the ticket! Give it another shot,<n>Fukukitaru!"
+            "text": "É isso aí! Tente mais uma vez,<n>Fukukitaru!"
         },
         {
             "name": "",
-            "text": "Hoooo! One more try!"
+            "text": "Hoooo! Mais uma tentativa!"
         },
         {
             "name": "Monólogo",
-            "text": "In the end, the two of them leave with<n>\"great\nfortune\" slips."
+            "text": "No fim, as duas vão embora com<n>papéis da sorte\nque dizem \"grande<n>fortuna\"."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Now we both get to be happy!<n>Somethin' real good\nmust be on its<n>way! ♪"
+            "text": "Agora nós duas vamos poder ser<n>felizes! Algo\nmuito bom deve estar a<n>caminho! ♪"
         },
         {
             "name": "",
-            "text": "Aw shucks. I pulled \"great<n>misfortune.\"",
+            "text": "Ah, que pena. Tirei \"grande<n>desfortuna\".",
             "choice_data_list": [
-                "Oh..."
+                "Ah..."
             ]
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Don't worry, Taiki! Your luck can only<n>get better\nfrom here!"
+            "text": "Não se preocupe, Taiki! Sua sorte só<n>pode melhorar\ndaqui para a frente!"
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "This is a message worthy of<n>exaltation! Even in\ntimes of great<n>havoc, your good fortune will never\nfalter."
+            "text": "Esta é uma mensagem digna de<n>exaltação! Mesmo\nem tempos de<n>grande calamidade, sua boa fortuna\njamais vacilará."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Fukukitaru... I can't understand all<n>those difficult\nwords..."
+            "text": "Fukukitaru... Não consigo entender<n>essas palavras\ndifíceis..."
         },
         {
             "name": "Matikanefukukitaru",
-            "text": "Great misfortune brings great<n>happiness!"
+            "text": "Uma grande desfortuna traz uma<n>grande felicidade!"
         },
         {
             "name": "",
-            "text": "Oh! Great misfortune brings great<n>happiness?! Then\nI'm in luck!<n>Yeehaw!"
+            "text": "Ah! Uma grande desfortuna traz uma<n>grande\nfelicidade?! Então estou com<n>sorte! Uhuu!"
         },
         {
             "name": "Monólogo",
-            "text": "Taiki Shuttle looks happy enough... but<n>it doesn't\nchange the fact her slip has<n>\"great misfortune\" on it."
+            "text": "Taiki Shuttle parece estar bem feliz...<n>mas isso não\nmuda o fato de que o<n>papel dela diz \"grande\ndesfortuna\"."
         }
     ]
 }

@@ -2,26 +2,26 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "I go looking for Taiki Shuttle to see<n>how she's\ndoing before the race..."
+            "text": "Vou procurar Taiki Shuttle para ver<n>como ela está\nantes da corrida..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Okay. On the fourth corner, I'll kick it<n>into high gear,\nand..."
+            "text": "Certo. Na quarta curva, vou acelerar<n>com tudo e..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oh, hey there, Trainer! You gotta say<n>somethin'\nwhen you come in!",
+            "text": "Ah, oi, Trainer! Tem que avisar<n>quando entrar!",
             "choice_data_list": [
-                "Sorry, it looked like you were focusing."
+                "Desculpe, parecia que você estava concentrada."
             ]
         },
         {
-            "name": "",
-            "text": "Hehe, 'course I was! A real cowgirl<n>knows ya gotta\nget in the zone before<n>a showdown!"
+            "name": "Taiki Shuttle",
+            "text": "Hehe, e estava mesmo! Uma<n>verdadeira cowgirl\nsabe que precisa<n>entrar no clima antes de um\nduelo!"
         },
         {
-            "name": "",
-            "text": "I'm gonna show ya a true Texan<n>quick draw out\nthere on the turf!"
+            "name": "Taiki Shuttle",
+            "text": "Vou mostrar a vocês um verdadeiro<n>saque rápido\ntexano na pista!"
         }
     ]
 }

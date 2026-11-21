@@ -2,26 +2,26 @@
     "text_block_list": [
         {
             "name": "Taiki Shuttle",
-            "text": "Nnh... It's a holdup..."
+            "text": "Nnh... É um assalto..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oh! Just look at that bounty...",
+            "text": "Ah! Mas olha só que recompensa...",
             "choice_data_list": [
-                "Everything okay?"
+                "Tudo bem?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Mhm... Thing is, these Westerns I<n>rented are due\nback pretty soon."
+            "text": "É que esses filmes de faroeste que<n>aluguei\nprecisam ser devolvidos logo."
         },
         {
-            "name": "",
-            "text": "I figured it'd be a real waste not to<n>watch 'em all,\nso I went and pulled<n>me an all-nighter. <i>Yawn...</i>"
+            "name": "Taiki Shuttle",
+            "text": "Achei que seria um desperdício não<n>assistir a\ntodos, então virei a noite.<n><i>Bocejo...</i>"
         },
         {
-            "name": "",
-            "text": "Taiki Shuttle looks sleep-deprived for<n>the entire rest\nof the day..."
+            "name": "Monólogo",
+            "text": "Taiki Shuttle passa o resto do dia<n>inteiro parecendo\nque não dormiu<n>nada."
         }
     ]
 }

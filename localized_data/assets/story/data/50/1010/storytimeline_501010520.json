@@ -1,109 +1,109 @@
 {
     "text_block_list": [
         {
-            "name": "",
-            "text": "I hear a familiar voice while on a<n>walk..."
+            "name": "Monólogo",
+            "text": "Ouço uma voz familiar enquanto<n>caminho por aí..."
         },
         {
-            "name": "",
-            "text": "Somebody help me!"
+            "name": "Taiki Shuttle",
+            "text": "Somebody help meee!"
         },
         {
             "name": "Taiki Shuttle",
             "text": "Gyaaah!"
         },
         {
-            "name": "",
-            "text": "I go running toward the source, only<n>to find Taiki\nShuttle in the school field<n>tugging at some vines.",
+            "name": "Monólogo",
+            "text": "Corro na direção de onde veio a voz<n>e encontro\nTaiki Shuttle no campo da<n>escola, puxando algumas\ntrepadeiras.",
             "choice_data_list": [
-                "Are you okay?"
+                "Você está bem?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Urk... Trainer! Help me out here!"
+            "text": "Urgh... Trainer! Me dá uma mão aqui!"
         },
         {
             "name": "",
-            "text": "The director asked me to harvest<n>these here\npumpkins!",
+            "text": "A diretora pediu para eu colher essas<n>abóboras!",
             "choice_data_list": [
-                "Pumpkins?"
+                "Abóboras?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "That's right! My hometown's<n>famous for our\npumpkin festival!"
-        },
-        {
-            "name": "",
-            "text": "It's got stuff like a biggest pumpkin<n>contest and a\nrace where ya gotta lug<n>a pumpkin with you when\nya run!"
+            "text": "Isso mesmo! Minha cidade natal é<n>famosa pelo\nfestival das abóboras!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Not to mention singin' and dancin'<n>under the stars!\nIt's real exciting!"
+            "text": "Tem coisas como um concurso da<n>maior abóbora e\numa corrida em que<n>você precisa correr carregando\numa<n>abóbora!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Once I heard the word \"pumpkin,\"<n>there was no\nway I couldn't help!",
+            "text": "Sem falar nas músicas e danças sob<n>as estrelas! É\nemocionante demais!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Quando ouvi a palavra \"abóbora\", não<n>tinha como\nficar de fora!",
             "choice_data_list": [
-                "Time to put that experience to good use!",
-                "Time to put that experience to good use!"
+                "Está na hora de colocar essa experiência em\nprática!",
+                "Está na hora de colocar essa experiência em\nprática!"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "But now that I think about it... I've<n>never actually\nharvested a pumpkin<n>before."
-        },
-        {
-            "name": "",
-            "text": "Even though I never missed a<n>festival... Haha."
+            "text": "Mas agora que parei para pensar...<n>nunca cheguei\na colher uma abóbora<n>de verdade."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "What I'm tryin' to say is... ya gotta<n>help me out,\nTrainer!",
+            "text": "Mesmo sem nunca ter perdido um<n>festival... Haha."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "O que quero dizer é... preciso da sua<n>ajuda, Trainer!",
             "choice_data_list": [
-                "Let's make it a competition!",
-                "I'll show you how it's done."
+                "Vamos transformar isso numa competição!",
+                "Vou te mostrar como se faz."
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "A competition? You mean..."
+            "text": "Uma competição? Você quer dizer..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "You wanna see who can harvest 'em<n>the fastest?"
+            "text": "Quer ver quem consegue colher mais<n>rápido?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "That sounds awful fun! I got this in<n>the bag!"
-        },
-        {
-            "name": "",
-            "text": "Racing to see who can harvest the<n>most pumpkins,\nTaiki Shuttle and I<n>have a fun time clearing the\nwhole<n>field."
+            "text": "Parece divertido demais! Essa já é<n>minha!"
         },
         {
             "name": "Monólogo",
-            "text": "And so, I end up helping Taiki Shuttle<n>with the\npumpkin harvesting."
+            "text": "Taiki Shuttle e eu nos divertimos<n>bastante\ndisputando quem consegue<n>colher mais abóboras,\naté limparmos<n>o campo inteiro."
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, acabo ajudando Taiki<n>Shuttle na colheita\ndas abóboras."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oh, now it makes sense! You gotta<n>clear a gap so\nya can get on in there,<n>right?"
+            "text": "Ah, agora entendi! Precisa abrir um<n>espaço para\nconseguir entrar ali, né?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Ya know, I just might be able to put<n>this to use\nwhen I run too! Let's go<n>try it out in training!",
+            "text": "Sabe, acho que posso aproveitar isso<n>nas minhas\ncorridas também! Vamos<n>testar no treino!",
             "choice_data_list": [
                 "After we finish harvesting all these."
             ]
         },
         {
-            "name": "",
-            "text": "Oh, right..."
+            "name": "Taiki Shuttle",
+            "text": "Ah, é mesmo..."
         },
         {
-            "name": "",
-            "text": "We both get covered in mud<n>harvesting the\npumpkins, but at least<n>it seems she might have\nlearned<n>something."
+            "name": "Monólogo",
+            "text": "Nós dois acabamos cobertos de lama<n>durante a\ncolheita das abóboras, mas<n>pelo menos parece que\nela aprendeu<n>alguma coisa."
         }
     ]
 }

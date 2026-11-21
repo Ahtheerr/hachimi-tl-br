@@ -2,27 +2,27 @@
     "text_block_list": [
         {
             "name": "Taiki Shuttle",
-            "text": "Oh no! It fell...",
+            "text": "Ah, não! Caiu...",
             "choice_data_list": [
-                "Sorry...",
-                "Sorry..."
+                "Desculpe...",
+                "Desculpe..."
             ]
         },
         {
-            "name": "",
-            "text": "Don't ya worry yourself over it,<n>Trainer! No big\ndeal!"
+            "name": "Taiki Shuttle",
+            "text": "Não se preocupe com isso, Trainer!<n>Não foi nada!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Y'know what they say—fallin' off the<n>bull is part of\nlife!"
+            "text": "Sabe o que dizem: cair do touro faz<n>parte da vida!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Basically, everybody slips up now<n>and again.\nThat's just how the world<n>works."
+            "text": "Basicamente, todo mundo comete<n>erros de vez em\nquando. É assim que<n>o mundo funciona."
         },
         {
             "name": "Monólogo",
-            "text": "Well, that was disappointing."
+            "text": "Bem, que decepção."
         }
     ]
 }

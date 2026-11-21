@@ -2,262 +2,262 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Taiki Shuttle and I are on the way<n>home from an\nouting when we decide<n>to stop by the shopping\ndistrict."
+            "text": "Taiki Shuttle e eu estamos voltando<n>de um passeio\nquando decidimos dar<n>uma passada no centro\ncomercial."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "What's that sign say, Trainer? \"Rif\"...<n>\"Ruffle\"?"
+            "text": "O que está escrito naquela placa,<n>Trainer? \"Sort\"...\n\"Sortido\"?"
         },
         {
             "name": "Monólogo",
-            "text": "It looks like there's a raffle going on.",
+            "text": "Parece que está acontecendo um<n>sorteio.",
             "choice_data_list": [
-                "Actually, it says \"raffle.\""
+                "Na verdade, está escrito \"sorteio\"."
             ]
         },
         {
-            "name": "Raffle Clerk",
-            "text": "Step right up and try your luck with<n>our New Year's\nraffle! This year's<n>grand-prize is a hot spring\nvacation<n>for two!",
+            "name": "Funcionário do Sorteio",
+            "text": "Venham participar do nosso sorteio<n>de Ano-Novo! O\ngrande prêmio deste<n>ano é uma viagem para duas\npessoas a uma estação de águas<n>termais!",
             "color_text_info_list": [
                 "hot spring vacation"
             ]
         },
         {
-            "name": "Raffle Clerk",
-            "text": "First-prize winners get a deluxe carrot<n>hamburger\nsteak! Second-prize<n>winners get a bushel of\ncarrots! And<n>third-prize winners can take home a\nsingle carrot!"
+            "name": "Funcionário do Sorteio",
+            "text": "Quem ganhar o primeiro prêmio levará<n>um delicioso\nhambúrguer de cenoura<n>especial! O segundo\nprêmio é um<n>saco cheio de cenouras! E quem\nganhar o terceiro prêmio poderá levar<n>uma única\ncenoura para casa!"
         },
         {
-            "name": "Raffle Clerk",
-            "text": "You two over there! Care to try your<n>luck?"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Wow! So this is what a Japanese<n>raffle looks like!\nI've been itchin' to<n>try one!"
+            "name": "Funcionário do Sorteio",
+            "text": "Vocês aí! Gostariam de tentar a<n>sorte?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Let's check it out, Trainer! We could<n>win ourselves\nsomethin' big!",
+            "text": "Uau! Então é assim que funciona um<n>sorteio\njaponês! Sempre tive muita<n>vontade de participar\nde um!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Vamos dar uma olhada, Trainer!<n>Podemos ganhar\nalgo grandioso!",
             "choice_data_list": [
-                "We have to buy something to get a raffle ticket."
+                "Precisamos comprar alguma coisa para receber um\nbilhete do sorteio."
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oops, I clean forgot about that part!<n>Let's see...\nWhat should I buy?"
+            "text": "Ops, esqueci completamente dessa<n>parte! Vamos\nver... O que devo<n>comprar?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "All right, I've got just the thing! I'm<n>gonna buy me\na jug o' milk!"
+            "text": "Muito bem, já sei o que quero! Vou<n>comprar uma\ngarrafa de leite!"
         },
         {
             "name": "Monólogo",
-            "text": "...And so, we receive one raffle ticket."
+            "text": "...E assim, recebemos um bilhete para<n>o sorteio."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "We've only got one chance! Sure<n>seems like a long\nshot..."
+            "text": "Só temos uma chance! Parece bem<n>difícil conseguir\nalguma coisa..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "But I'm still gunnin' for the top prize!"
+            "text": "Mas ainda estou de olho no grande<n>prêmio!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Woohoo! C'mooon, grand-prize!"
+            "text": "Uhuuul! Vamoooos, grande prêmio!"
         },
         {
             "name": "Monólogo",
-            "text": "Taiki pumps herself up and gives the<n>raffle spinner\nan enthusiastic whirl."
+            "text": "Taiki se prepara e gira a roleta do<n>sorteio com\nentusiasmo."
         },
         {
             "name": "Monólogo",
-            "text": "A small plastic ball drops from the<n>spinner's\nopening..."
+            "text": "Uma pequena bolinha de plástico cai<n>pela abertura\nda roleta..."
         },
         {
-            "name": "Raffle Clerk",
-            "text": "Holy mackerel! We've got ourselves<n>a grand-prize\nwinner! Come and get<n>the coupon for your hot\nspring<n>vacation! Congratulations!"
+            "name": "Funcionário do Sorteio",
+            "text": "Minha nossa! Temos uma vencedora<n>do grande\nprêmio! Venha buscar seu<n>cupom para a viagem às\náguas<n>termais! Parabéns!"
         },
         {
             "name": "Monólogo",
-            "text": "You obtained: <itemname>",
+            "text": "Você obteve: <itemname>",
             "color_text_info_list": [
                 "<itemname>"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Yeehaaaw! Now this has made my<n>day!"
+            "text": "Yeeeehaw! Agora sim meu dia está<n>completo!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "I did it, Trainer! So when are we<n>goin'?",
+            "text": "Consegui, Trainer! Então, quando<n>vamos viajar?",
             "choice_data_list": [
-                "Y-you want to go with me?",
-                "Y-you want to go with me?"
+                "V-você quer ir comigo?",
+                "V-você quer ir comigo?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Well, of course! We're in this<n>together!"
+            "text": "É claro! Estamos juntos nessa!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "When do ya wanna head out? Maybe<n>tomorrow—or\nthe day after that? Or<n>how 'bout right now?! 'Kay,\nlet's<n>pack our things and go!",
+            "text": "Quando você quer ir? Talvez<n>amanhã... Ou depois de\namanhã? Ou<n>que tal agora mesmo?! Certo, vamos\narrumar nossas coisas e partir!",
             "choice_data_list": [
-                "H-hold on! Let's save it for later!",
-                "H-hold on! Let's save it for later!"
+                "E-espera um pouco! Vamos deixar para mais tarde!",
+                "E-espera um pouco! Vamos deixar para mais tarde!"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Later, huh?"
+            "text": "Mais tarde, é?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Hmm. Are you sayin' I haven't<n>worked hard\nenough to go to a hot<n>spring yet?"
+            "text": "Hmm. Está querendo dizer que ainda<n>não me\nesforcei o bastante para<n>merecer uma viagem às\náguas<n>termais?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "And it's a waste to go when you're<n>not tuckered\nout? That's some true<n>Japanese spirit right there!"
+            "text": "E que seria um desperdício ir sem<n>estar cansada?\nIsso sim é espírito<n>japonês de verdade!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Okay, I got ya! Let's go when the<n>time is right! It's\na promise!"
+            "text": "Entendi! Então vamos quando chegar<n>a hora certa!\nÉ uma promessa!"
         },
         {
             "name": "Monólogo",
-            "text": "It would be nice to use the trip as a<n>reward once\nshe reaches a<n>milestone..."
+            "text": "Seria bom usar a viagem como<n>recompensa\nquando ela alcançar<n>algum objetivo importante..."
         },
         {
             "name": "Monólogo",
-            "text": "With that in mind, I decide to hold on<n>to her ticket for\nthe time being."
+            "text": "Pensando nisso, decido guardar o<n>bilhete dela por\nenquanto."
         },
         {
-            "name": "Raffle Clerk",
-            "text": "Looks like we have another first-prize<n>winner!\nCongratulations! You get one<n>deluxe carrot\nhamburger steak!"
+            "name": "Funcionário do Sorteio",
+            "text": "Parece que temos outra vencedora do<n>primeiro\nprêmio! Parabéns! Você<n>ganhou um hambúrguer de\ncenoura<n>especial!"
         },
         {
             "name": "Monólogo",
-            "text": "You obtained: <itemname>",
+            "text": "Você obteve: <itemname>",
             "color_text_info_list": [
                 "<itemname>"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Nooo! I was so close!"
+            "text": "Nããão! Fiquei tão perto!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "But this big ol' hamburger steak does<n>look packed\nfull of energy!"
+            "text": "Mas esse hambúrguer enorme<n>parece estar cheio\nde energia!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Hehe. Plus, huge slabs of meat<n>remind me of my\nfamily back home!"
+            "text": "Hehe. Além disso, um pedaço de<n>carne tão grande\nme lembra minha<n>família lá de casa!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oh, we oughta take a picture so I can<n>show my\nfolks what I won!"
+            "text": "Ah, deveríamos tirar uma foto para eu<n>mostrar aos\nmeus pais o que ganhei!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Get over here, Trainer!"
+            "text": "Venha aqui, Trainer!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Say cheese!"
+            "text": "Diga \"xis\"!"
         },
         {
             "name": "Monólogo",
-            "text": "After that, Taiki Shuttle wolfs down<n>the deluxe\nhamburger steak and fills<n>up with enough energy to\nlast into the<n>next day."
+            "text": "Depois disso, Taiki Shuttle devora o<n>hambúrguer\nespecial e recupera<n>energia suficiente para durar\naté o dia<n>seguinte."
         },
         {
-            "name": "Raffle Clerk",
-            "text": "We got a second-prize winner! It's<n>your lucky day!\nYou're going home<n>with a bushel of carrots!"
+            "name": "Funcionário do Sorteio",
+            "text": "Temos uma vencedora do segundo<n>prêmio! Que dia\nde sorte! Você vai<n>levar um saco cheio de cenouras\npara casa!"
         },
         {
             "name": "Monólogo",
-            "text": "You obtained: <itemname>",
+            "text": "Você obteve: <itemname>",
             "color_text_info_list": [
                 "<itemname>"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Ooh, we almost had it! Drat!"
+            "text": "Ooh, quase conseguimos! Droga!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "But, these carrots are so shiny—they<n>look delicious!"
+            "text": "Mas essas cenouras estão tão<n>brilhantes...\nParecem deliciosas!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Since we got so many, what say we<n>invite\neverybody in the dorm over for<n>a big ol' barbecue?!"
+            "text": "Já que ganhamos tantas, que tal<n>convidarmos todo\nmundo do<n>dormitório para um grande<n>churrasco?!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "I'm sure it'll be a hoot! Let's go right<n>now and get\nstarted!"
+            "text": "Tenho certeza de que vai ser uma<n>festa e tanto!\nVamos começar agora<n>mesmo!"
         },
         {
             "name": "Monólogo",
-            "text": "That night, everyone thoroughly<n>enjoys themselves\nat the<n>carrot-centric barbecue."
+            "text": "Naquela noite, todos aproveitam<n>bastante o\nchurrasco, cujo<n>ingrediente principal são as\ncenouras."
         },
         {
-            "name": "Raffle Clerk",
-            "text": "Would you lookie here! You've won<n>the third-prize!\nHere's your carrot!"
+            "name": "Funcionário do Sorteio",
+            "text": "Olhem só! Você ganhou o terceiro<n>prêmio! Aqui está\nsua cenoura!"
         },
         {
             "name": "Monólogo",
-            "text": "You obtained: <itemname>",
+            "text": "Você obteve: <itemname>",
             "color_text_info_list": [
                 "<itemname>"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Aww! Third-prize?!",
+            "text": "Aww! Terceiro prêmio?!",
             "choice_data_list": [
-                "These things happen."
+                "Essas coisas acontecem."
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Urgh... That don't mean I gotta like it!"
+            "text": "Urgh... Isso não significa que eu tenha<n>que gostar!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Okay, here's what we're gonna do!<n>We're gonna\nkeep on shoppin' till<n>we get another ticket!"
+            "text": "Muito bem, já sei o que vamos fazer!<n>Vamos\ncontinuar fazendo compras<n>até conseguir outro\nbilhete!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "It won't be cheap, but I need that<n>grand-prize...\nHeck, I'll even make do<n>with first or second!"
+            "text": "Não vai sair barato, mas preciso<n>daquele grande\nprêmio... Ah, até<n>aceito o primeiro ou o segundo!"
         },
         {
             "name": "Monólogo",
-            "text": "I talk Taiki Shuttle out of her raffle<n>fervor and half\ndrag her back to the<n>academy."
+            "text": "Consigo convencer Taiki Shuttle a<n>abandonar sua\nobsessão pelo sorteio<n>e praticamente a arrasto de\nvolta para<n>a academia."
         },
         {
-            "name": "Raffle Clerk",
-            "text": "Ohhh, tough luck! Looks like you<n>pulled a blank one!\nTake this pack of<n>tissues as a consolation prize."
+            "name": "Funcionário do Sorteio",
+            "text": "Ohhh, que azar! Parece que você não<n>ganhou nada!\nAceite este pacote de<n>lenços como prêmio de\nconsolação."
         },
         {
             "name": "Monólogo",
-            "text": "You obtained: <itemname>",
+            "text": "Você obteve: <itemname>",
             "color_text_info_list": [
                 "<itemname>"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oof... This raffle's pretty rough. I<n>guess life ain't all\nsunshine and<n>rainbows, huh?"
+            "text": "Uff... Esse sorteio é bem cruel. Acho<n>que a vida não\né só alegria e flores,<n>hein?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "So this is how my first raffle ends..."
+            "text": "Então é assim que termina meu<n>primeiro sorteio..."
         },
         {
             "name": "Monólogo",
-            "text": "I join Taiki Shuttle in her<n>disappointment..."
+            "text": "Compartilho da decepção de Taiki<n>Shuttle..."
         }
     ]
 }

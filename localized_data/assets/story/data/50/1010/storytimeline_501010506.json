@@ -2,88 +2,88 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Taiki Shuttle asks me to watch her<n>dance practice."
+            "text": "Taiki Shuttle me pede para assistir ao<n>seu ensaio\nde dança."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Let's get this show on the road!<n>Ready to dance,\nTrainer?",
+            "text": "Vamos começar o show! Pronto para<n>dançar,\nTrainer?",
             "choice_data_list": [
-                "I'm dancing too?",
-                "I'm dancing too?"
+                "Eu também vou dançar?",
+                "Eu também vou dançar?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Ya sure are! It's no fun dancin' solo!"
-        },
-        {
-            "name": "",
-            "text": "Good to go? I'm starting the music!"
-        },
-        {
-            "name": "",
-            "text": "Caught off guard, I find myself<n>dancing with Taiki..."
-        },
-        {
-            "name": "",
-            "text": "Yeehaw! Keep on movin', now!"
+            "text": "Claro que sim! Dançar sozinha não<n>tem graça!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Hehe. It's so much fun dancin' with<n>ya, Trainer!",
-            "choice_data_list": [
-                "I-I'm glad to hear that..."
-            ]
-        },
-        {
-            "name": "",
-            "text": "You okay? You seem a little tuckered<n>out.",
-            "choice_data_list": [
-                "I'll dance till I drop!",
-                "I'll dance till I drop!",
-                "Could you teach me the choreography first?"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "You okay? You seem a little tuckered<n>out.",
-            "choice_data_list": [
-                "I'll dance till I drop!",
-                "I'll dance till I drop!",
-                "Could you teach me the choreography first?"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Oh, really? Sounds good to me! I'd<n>love to keep\ndancin' with ya!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "This here studio is our very own<n>dance floor! Ain't\nnobody gonna get<n>in our way!"
-        },
-        {
-            "name": "",
-            "text": "I'm puttin' the music back on! So<n>let's kick up our\nheels! ♪"
+            "text": "Tudo pronto? Vou colocar a música!"
         },
         {
             "name": "Monólogo",
-            "text": "We continue to dance right up until the<n>final school\nbell chimes."
+            "text": "Pego de surpresa, acabo dançando<n>com Taiki..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oh, did I jump the gun? Sorry 'bout<n>that! All right,\nthis time we'll take it<n>nice and slow!"
+            "text": "Uhuu! Continue se mexendo!"
         },
         {
-            "name": "",
-            "text": "Try to follow my lead, Trainer! ♪"
+            "name": "Taiki Shuttle",
+            "text": "Hehe. É tão divertido dançar com<n>você, Trainer!",
+            "choice_data_list": [
+                "Fico... fico feliz em ouvir isso..."
+            ]
         },
         {
-            "name": "",
-            "text": "Let's see... First of all, ya gotta lift<n>your arms like\nthis..."
+            "name": "Taiki Shuttle",
+            "text": "Tudo bem? Você parece um<n>pouquinho cansado.",
+            "choice_data_list": [
+                "Vou dançar até cair!",
+                "Vou dançar até cair!",
+                "Pode me ensinar a coreografia primeiro?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Tudo bem? Você parece um<n>pouquinho cansado.",
+            "choice_data_list": [
+                "Vou dançar até cair!",
+                "Vou dançar até cair!",
+                "Pode me ensinar a coreografia primeiro?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ah, é mesmo? Por mim, tudo bem!<n>Adoraria\ncontinuar dançando com<n>você!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Esse estúdio é a nossa própria pista<n>de dança!\nNinguém vai ficar no nosso<n>caminho!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Vou colocar a música de novo! Então,<n>vamos\nsacudir o esqueleto! ♪"
         },
         {
             "name": "Monólogo",
-            "text": "Walking me through the<n>choreography seems to aid\nin Taiki<n>Shuttle's own improvement as well."
+            "text": "Continuamos dançando até o sinal da<n>última aula\ntocar."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ah, me empolguei demais? Desculpe<n>por isso!\nCerto, desta vez vamos com<n>calma!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Tente acompanhar meus passos,<n>Trainer! ♪"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Vamos ver... Primeiro, você precisa<n>levantar os\nbraços assim..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Explicar a coreografia também parece<n>ajudar Taiki\nShuttle a aprimorar seus<n>próprios movimentos."
         }
     ]
 }

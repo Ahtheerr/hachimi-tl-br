@@ -2,100 +2,100 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Taiki Shuttle injures herself during<n>training, so I\nrush her to the infirmary."
+            "text": "Taiki Shuttle se machuca durante o<n>treino, então\ncorro com ela para a<n>enfermaria."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Now, don't you fret, Trainer!"
-        },
-        {
-            "name": "",
-            "text": "The doctor said I was healthy as a<n>mule! It's back\nto training startin'<n>tomorrow!"
-        },
-        {
-            "name": "",
-            "text": "And the timing couldn't be better! I'm<n>just happy I\nget to snuggle up in bed<n>for a spell!"
+            "text": "Não precisa se preocupar, Trainer!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "My friend lent me this comic, and it's<n>a real\nknee-slapper..."
+            "text": "O médico disse que estou forte como<n>um touro!\nAmanhã já volto aos<n>treinos!"
         },
         {
-            "name": "",
-            "text": "Whoops! Forget you heard that!",
+            "name": "Taiki Shuttle",
+            "text": "E não poderia ter vindo em melhor<n>hora! Fico feliz\nsó de poder ficar<n>aconchegadinha na cama por um\ntempinho!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Minha amiga me emprestou este<n>mangá, e ele é de\nmorrer de rir..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Opa! Finja que não ouviu isso!",
             "choice_data_list": [
-                "Make sure you get some good rest.",
-                "No comic books allowed!"
-            ]
-        },
-        {
-            "name": "",
-            "text": "Okay! I promise to be out like a light!"
-        },
-        {
-            "name": "",
-            "text": "Hehe... So where did I leave off..."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "...What?!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Nooo! I forgot the comic back at the<n>dorm!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Trainer! Can you do me a little favor<n>and go get it\nfor me? I need it now<n>more than ever!",
-            "choice_data_list": [
-                "...Please get some rest."
+                "Não deixe de descansar bastante.",
+                "Sem mangás!"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Nooooo!"
-        },
-        {
-            "name": "",
-            "text": "Trainers are prohibited from entering<n>the dorm\nrooms, so it's not like I<n>could help anyway... I make\nsure<n>she's well rested by day's end."
+            "text": "Tudo bem! Prometo que vou dormir<n>feito uma\npedra!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Aww, shucks! I really wanted to read<n>it..."
+            "text": "Hehe... Onde foi mesmo que parei..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "So what am I supposed to do?!<n>There's nothing in\nhere!",
+            "text": "...O quê?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Nããão! Esqueci o mangá lá no<n>dormitório!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Trainer! Pode me fazer um favorzinho<n>e ir buscá-lo\npra mim? Preciso dele<n>mais do que nunca!",
             "choice_data_list": [
-                "Sleep!"
+                "...Por favor, descanse um pouco."
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Gosh... You're awful strict, Trainer."
-        },
-        {
-            "name": "",
-            "text": "While the diagnosis suggests there's<n>nothing\nseriously wrong with Taiki,<n>she's not in great\nspirits."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "All right, I get it... I know you're just<n>worried about\nme."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Okay! If I can't read any comics, I'll<n>just pass the\ntime with a good movie!",
-            "choice_data_list": [
-                "No movies!"
-            ]
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "You're killin' me here, Trainer!"
+            "text": "NOOOOOOO!"
         },
         {
             "name": "Monólogo",
-            "text": "The next day, Taiki Shuttle is back to<n>normal and\nready to resume training."
+            "text": "Como os treinadores não podem<n>entrar nos\nquartos do dormitório, não<n>tenho como ajudá-la\nmesmo...<n>Garanto que ela descanse bastante<n>até o\nfim do dia."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Poxa vida! Eu queria tanto ler..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "E o que eu vou fazer agora?! Não tem<n>nada aqui!",
+            "choice_data_list": [
+                "Durma!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Puxa... Você é rigoroso demais,<n>Trainer."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "O diagnóstico indica que Taiki não tem<n>nada sério,\nmas ela não está muito<n>animada."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Tudo bem, eu entendi... Sei que você<n>só está\npreocupado comigo."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Certo! Se não posso ler mangás, vou<n>passar o\ntempo assistindo a um bom<n>filme!",
+            "choice_data_list": [
+                "Sem filmes!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Assim você acaba comigo, Trainer!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "No dia seguinte, Taiki Shuttle está<n>recuperada e\npronta para voltar aos<n>treinos."
         }
     ]
 }

@@ -1,66 +1,66 @@
 {
     "text_block_list": [
         {
-            "name": "",
-            "text": "One day, Taiki Shuttle asks me to<n>meet her in the\ncentral plaza."
+            "name": "Monólogo",
+            "text": "Certo dia, Taiki Shuttle me pede para<n>encontrá-la na\npraça central."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Heh-heh. I thought ya wouldn't show<n>up, Trainer. Or\nshould I say—<i>outlaw!</i>"
+            "text": "Heh-heh. Achei que você não fosse<n>aparecer,\nTrainer. Ou será que devo<n>dizer... <i>fora da lei!</i>"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Your crimes stop today, ya hear? I<n>hope you're\nready to get a belly full<n>of lead!",
+            "text": "Seus crimes acabam hoje, ouviu?<n>Espero que\nesteja preparado para<n>levar chumbo!",
             "choice_data_list": [
-                "What crimes?"
+                "Que crimes?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "You've been workin' up a storm<n>lately, but I\nhaven't seen one bit of<n>relaxing!"
+            "text": "Você tem trabalhado feito louco<n>ultimamente, mas\nnão vi você tirar<n>nem um minutinho de descanso!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "You're gonna burn up all the midnight<n>oil with so\nmuch overtime! All work<n>and no play is no laughin'\nmatter!"
+            "text": "Desse jeito, vai acabar virando a<n>noite\ntrabalhando! Só trabalhar e<n>nunca se divertir não\ntem graça<n>nenhuma!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "So you're spendin' the day with me<n>and giving that\nbody and mind of<n>yours some rest!",
+            "text": "Então hoje você vai passar o dia<n>comigo e dar um\ndescanso para esse<n>corpo e essa mente!",
             "choice_data_list": [
-                "My workload <i>has</i> been a little heavy lately..."
+                "Minha carga de trabalho <i>tem</i> sido um pouco\npesada ultimamente..."
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Right? Here's the deal. I'm a<n>gunslinger, and\nyou're part of a band<n>of outlaws!"
+            "text": "Muito bem, aqui vai o combinado. Eu<n>sou uma\npistoleira, e você faz parte<n>de uma gangue de foras\nda lei!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Time to duel! Let's see who's the<n>fastest gun in\nTracen!",
+            "text": "Hora do duelo! Vamos descobrir<n>quem é o\nsaqueador mais rápido de<n>Tracen!",
             "choice_data_list": [
-                "Okay, you're on!",
-                "Okay, you're on!"
+                "Beleza, aceito o desafio!",
+                "Beleza, aceito o desafio!"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "That's the spirit!"
+            "text": "É assim que se fala!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Ready to square off? Soon as the bell<n>rings, whip\nout your shooter and...<n><i>bang!</i>"
+            "text": "Preparado para o confronto? Assim<n>que o sino\ntocar, saque sua arma e...<n><i>BANG!</i>"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "My bullets blast right through evil,<n>bringing peace\nback to the Wild West!"
+            "text": "Minhas balas atravessam o mal,<n>trazendo a paz de\nvolta ao Velho<n>Oeste!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "All righty—let's do this! Wait for it...<n>Wait for it..."
+            "text": "Muito bem, vamos nessa! Espere<n>só... Espere só..."
         },
         {
-            "name": "",
-            "text": "<i>Ding-dong, bing-bong...</i>",
+            "name": "Monólogo",
+            "text": "<i>Dim-dom, bim-bom...</i>",
             "choice_data_list": [
                 "Bang!"
             ]
@@ -74,71 +74,71 @@
             "text": "Oh, that was a close one! And the<n>winner is...",
             "choice_data_list": [
                 "Taiki Shuttle.",
-                "Me."
+                "Eu."
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Yeehaw! Victory is mine!"
+            "text": "Uhuuu! A vitória é minha!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Hehe... There's nothin' slow about<n>your shot,\nTrainer."
+            "text": "Hehe... Você não é nada lento no<n>gatilho, Trainer."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "But you're too much of a greenhorn<n>to match <i>my</i>\nquick draw!"
+            "text": "Mas ainda é um novato perto da<n>minha rapidez no\nsaque!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Heh-heh. Know what happens if ya<n>get hit?",
+            "text": "Heh-heh. Sabe o que acontece<n>quando alguém leva\num tiro?",
             "choice_data_list": [
-                "What happens?",
-                "What happens?"
+                "O que acontece?",
+                "O que acontece?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "It means you're dead and gone! Night<n>night! So cut\nit out with the overtime<n>and get to sleepin'!"
+            "text": "Significa que você está mortinho e<n>enterrado! Boa\nnoite! Então chega de<n>fazer hora extra e vá dormir!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oh, but ya won't be down-and-out<n>forever! Once\nyou're feelin' better,<n>get on back here. I'll be\nlonely<n>without ya around."
+            "text": "Ah, mas você não vai ficar de cama<n>para sempre!\nQuando estiver melhor,<n>volte aqui. Vou ficar sozinha\nsem<n>você por perto."
         },
         {
             "name": "Monólogo",
-            "text": "Taiki forces me to take a break.<n>Thanks to her act\nof kindness, I'm<n>able to get some much-needed\nrest."
+            "text": "Taiki me obriga a tirar uma folga.<n>Graças a esse\ngesto de gentileza,<n>consigo descansar como\nprecisava."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Hm... You're a tough outlaw, ain't<n>ya?"
+            "text": "Hmm... Você é um fora da lei durão,<n>hein?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "But ya slipped up. Ya shoot, you're<n>guilty!"
+            "text": "Mas cometeu um deslize. Atirou em<n>alguém, então\né culpado!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "See, I'm the sheriff in these parts. I<n>gotta book ya\nnow for shootin'<n>somebody. And your punishment\nis..."
+            "text": "Veja bem, eu sou a xerife por aqui.<n>Preciso\nprendê-lo por atirar em<n>alguém. E sua punição\nserá..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "You're goin' straight to the<n>hoosegow! Time to\ntake a load off!",
+            "text": "Direto para o xilindró! Está na hora de<n>descansar!",
             "choice_data_list": [
-                "Um... Meaning what exactly?"
+                "Hmm... O que isso quer dizer exatamente?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "It means I want ya to kick your feet<n>up! It's not\nyour fault—your weary<n>bones are the culprit!"
+            "text": "Quer dizer que quero você de pernas<n>para o ar,\ndescansando! A culpa não<n>é sua, são esses seus\nossos<n>cansados!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Now, off to the hoosegow with ya!<n>And don't ya\nmake a peep, or you're<n>gettin' solitary!"
+            "text": "Agora, para o xilindró com você! E<n>nada de fazer\nbarulho, ou vai para a<n>solitária!"
         },
         {
             "name": "Monólogo",
-            "text": "I'm not a hundred percent sure what<n>she's saying,\nbut it seems I've been<n>given the day off to relax."
+            "text": "Não tenho certeza do que ela está<n>dizendo, mas\nparece que ganhei o dia<n>de folga para descansar."
         }
     ]
 }

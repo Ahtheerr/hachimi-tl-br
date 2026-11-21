@@ -2,26 +2,26 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Taiki Shuttle takes me to a mall to<n>shop for skin\ncare products on our<n>day off..."
+            "text": "Taiki Shuttle me leva a um shopping<n>para comprar\nprodutos de cuidados<n>com a pele no nosso dia de\nfolga..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Doesn't look like they have it here<n>either. But\nnothin' else'll do..."
+            "text": "Parece que aqui também não tem.<n>Mas não aceito\nnenhum outro!"
         },
         {
-            "name": "",
-            "text": "Urgh... If I don't get my hands on<n>some, my skin's\ngonna be as dry as<n>the desert at high noon...",
+            "name": "Taiki Shuttle",
+            "text": "Argh... Se eu não conseguir um pouco<n>disso, minha\npele vai ficar mais seca<n>que um deserto ao\nmeio-dia...",
             "choice_data_list": [
-                "Where do they sell it?"
+                "Onde vendem isso?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Well, truth is I've never seen it in<n>Japan before."
+            "text": "Bem, pra falar a verdade, nunca vi<n>isso por aqui no\nJapão."
         },
         {
-            "name": "",
-            "text": "<i>Sigh...</i> Guess there's nothing to do<n>but wait for my\nfamily to send me<n>some."
+            "name": "Taiki Shuttle",
+            "text": "<i>Suspiro...</i> Acho que só me resta<n>esperar minha\nfamília me mandar um<n>pouco."
         }
     ]
 }

@@ -2,55 +2,55 @@
     "text_block_list": [
         {
             "name": "",
-            "text": "On my way to the track, I am<n>intercepted by a\nvisibly chipper Taiki<n>Shuttle."
-        },
-        {
-            "name": "",
-            "text": "Get a load of this, Trainer! I just got<n>invited to go\npartner runnin' again!"
+            "text": "A caminho da pista, sou abordado por<n>uma Taiki\nShuttle visivelmente<n>animada."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "And it's all your fault!",
+            "text": "Olha só isso, Trainer! Acabei de<n>receber outro\nconvite para correr em<n>dupla!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "E a culpa é toda sua!",
             "choice_data_list": [
-                "<i>My</i> fault?",
-                "<i>My</i> fault?"
+                "<i>Minha</i> culpa?",
+                "<i>Minha</i> culpa?"
             ]
         },
         {
-            "name": "",
-            "text": "Yeah, <i>your</i> fault! The gal who asked<n>said she could\nlearn a lot from me!"
+            "name": "Taiki Shuttle",
+            "text": "Isso mesmo, <i>sua</i> culpa! A garota que<n>me convidou\ndisse que podia<n>aprender muito comigo!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "She was keen on finding out how I<n>spiced up my\nrunnin' so much!"
-        },
-        {
-            "name": "",
-            "text": "So I told her it was your fault for<n>expanding my\nhorizons!"
+            "text": "Ela tava superinteressada em<n>descobrir como dei\num toque tão<n>especial na minha corrida!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "You taught me about a world where<n>speed alone\nwon't score ya wins.<n>Now I get flutters thinkin'\nabout how<n>to overcome it!"
+            "text": "Então contei que a culpa era sua, por<n>ter ampliado\nmeus horizontes!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "I haven't been able to cool off since<n>the day we\nmet, Trainer!"
+            "text": "Você me apresentou um mundo em<n>que a\nvelocidade, por si só, não<n>garante a vitória. Agora\nfico toda<n>empolgada só de pensar em como<n>superar\nesse desafio!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "I'm always burnin' up with passion..."
+            "text": "Desde o dia em que nos<n>conhecemos, não consigo\nmais<n>esfriar a cabeça, Trainer!"
         },
         {
-            "name": "",
-            "text": "You better take responsibility for<n>lettin' me in on\nsomething so exciting!"
+            "name": "Taiki Shuttle",
+            "text": "Estou sempre ardendo de paixão..."
         },
         {
-            "name": "",
-            "text": "We're gonna forge this future of ours<n>together!\nBack out now, and I'm<n>huntin' ya down! Bang!"
+            "name": "Taiki Shuttle",
+            "text": "É melhor você assumir a<n>responsabilidade por ter\nme<n>apresentado algo tão empolgante!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Vamos construir esse nosso futuro<n>juntos! Se\ntentar desistir agora, vou<n>caçar você! Bang!"
         },
         {
             "name": "Monólogo",
-            "text": "While I appreciate the thought, I<n>should probably do\nsomething about<n>her choice of language before\nsomeone gets the wrong idea."
+            "text": "Embora eu aprecie a intenção,<n>provavelmente\ndeveria fazer algo a<n>respeito desse jeito de falar\ndela,<n>antes que alguém tenha uma ideia<n>errada."
         }
     ]
 }

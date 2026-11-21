@@ -2,49 +2,49 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "After spending a day out with Taiki<n>Shuttle, I take a\nbreather in my office."
+            "text": "Depois de passar o dia passeando<n>com Taiki\nShuttle, faço uma pausa no<n>meu escritório."
         },
         {
-            "name": "",
-            "text": "Hey, Trainer! Let's go home together!"
+            "name": "Taiki Shuttle",
+            "text": "Ei, Trainer! Vamos para casa juntos!"
         },
         {
-            "name": "",
-            "text": "We're not done hangin' out till I'm<n>back at my\ndorm! There's still more<n>fun to be had!",
+            "name": "Taiki Shuttle",
+            "text": "Nosso passeio só termina quando eu<n>voltar para o\ndormitório! Ainda tem<n>muita diversão pela frente!",
             "choice_data_list": [
-                "Sorry, but I need to work after this."
+                "Desculpe, mas preciso trabalhar depois daqui."
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oh... I guess that comes first."
+            "text": "Ah... Acho que isso vem primeiro."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Aww..."
+            "text": "Aaaah..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oh, I've got it! I'll just wait till you're<n>done!"
+            "text": "Ah, já sei! Vou esperar até você<n>terminar!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "You go ahead and work as much as<n>ya like!",
+            "text": "Pode trabalhar à vontade, o quanto<n>quiser!",
             "choice_data_list": [
-                "Are you sure? It might take until evening.",
-                "Are you sure? It might take until evening."
+                "Tem certeza? Talvez eu só termine à noite.",
+                "Tem certeza? Talvez eu só termine à noite."
             ]
         },
         {
-            "name": "",
-            "text": "That's no problem at all! I'll be real<n>quiet, so as not\nto disturb ya!"
+            "name": "Taiki Shuttle",
+            "text": "Sem problema algum! Vou ficar bem<n>quietinha para\nnão atrapalhar!"
         },
         {
             "name": "Monólogo",
-            "text": "It's completely dark outside by the<n>time I wrap up\nthe last of my work.",
+            "text": "Quando termino a última tarefa, já<n>está\ncompletamente escuro lá fora.",
             "choice_data_list": [
-                "All done. Sorry to make you wait so long.",
-                "All done. Sorry to make you wait so long."
+                "Prontinho. Desculpe por deixar você esperando\ntanto tempo.",
+                "Prontinho. Desculpe por deixar você esperando\ntanto tempo."
             ]
         },
         {
@@ -56,62 +56,62 @@
             "text": "Ah!"
         },
         {
-            "name": "",
-            "text": "Mornin', Trainer! See, you could<n>barely tell I was\nhere!",
+            "name": "Taiki Shuttle",
+            "text": "Bom dia, Trainer! Viu só? Mal deu<n>para perceber\nque eu estava aqui!",
             "choice_data_list": [
-                "Sorry there wasn't much for you to do.",
-                "Sorry there wasn't much for you to do.",
-                "You've got a bit of drool there.",
-                "You've got a bit of drool there."
+                "Desculpe por não ter tido muita coisa para você\nfazer.",
+                "Desculpe por não ter tido muita coisa para você\nfazer.",
+                "Você está babando um pouquinho.",
+                "Você está babando um pouquinho."
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Mornin', Trainer! See, you could<n>barely tell I was\nhere!",
+            "text": "Bom dia, Trainer! Viu só? Mal deu<n>para perceber\nque eu estava aqui!",
             "choice_data_list": [
-                "Sorry there wasn't much for you to do.",
-                "Sorry there wasn't much for you to do.",
-                "You've got a bit of drool there.",
-                "You've got a bit of drool there."
+                "Desculpe por não ter tido muita coisa para você\nfazer.",
+                "Desculpe por não ter tido muita coisa para você\nfazer.",
+                "Você está babando um pouquinho.",
+                "Você está babando um pouquinho."
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "What're ya talkin' about? Watchin'<n>ya work was\nplenty fun!"
+            "text": "Do que tá falando? Só de ficar vendo<n>você\ntrabalhar já foi divertido!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Though I did take a moment to rest<n>my eyeballs!\nHahaha!",
+            "text": "Embora eu tenha tirado um tempinho<n>para\ndescansar os olhos! Hahaha!",
             "choice_data_list": [
-                "I'll walk you back to the dorm."
+                "Vou acompanhar você até o dormitório."
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Now, Trainer! That ain't no way to<n>speak to a lady!"
+            "text": "Ora, Trainer! Não é assim que se fala<n>com uma\ndama!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "But I tell ya what. Walk me back to<n>my dorm, and\nI'll let ya off. ♪",
+            "text": "Mas vou te dar uma chance. Me<n>acompanha até o\ndormitório e deixo<n>passar. ♪",
             "choice_data_list": [
-                "Sure, I can do that."
+                "Claro, posso fazer isso."
             ]
         },
         {
-            "name": "",
-            "text": "Hehe, all right! Thanks a ton, my dear<n>trainer. ♪"
-        },
-        {
-            "name": "",
-            "text": "This can be my reward for keepin' ya<n>company.\nHeck, I can wait all day if<n>this kinda happiness is at\nthe end of<n>the road. ♪"
+            "name": "Taiki Shuttle",
+            "text": "Hehe, certo! Muito obrigada, meu<n>querido Trainer. ♪"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "I'm gonna walk real slow, so let's<n>chat it up like\nthere's no tomorrow!"
+            "text": "Este pode ser meu prêmio por ter<n>feito companhia\na você. Ora, eu<n>esperaria o dia inteiro se soubesse\nque tanta felicidade me aguarda no<n>final. ♪"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Vou andar bem devagarinho, então<n>vamos\nconversar como se não<n>houvesse amanhã!"
         },
         {
             "name": "Monólogo",
-            "text": "Taiki Shuttle chatters happily with me<n>all the way\nback, her face beaming<n>with joy."
+            "text": "Taiki Shuttle conversa alegremente<n>comigo durante\ntodo o caminho de<n>volta, com um sorriso radiante\nno<n>rosto."
         }
     ]
 }

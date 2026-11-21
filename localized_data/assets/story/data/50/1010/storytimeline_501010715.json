@@ -2,31 +2,31 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "I finish up training with Taiki Shuttle..."
+            "text": "Termino o treino com Taiki Shuttle..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Yay, all done!",
+            "text": "Uhuu, acabamos!",
             "choice_data_list": [
-                "Don't forget to cool down.",
-                "Don't forget to cool down."
+                "Não se esqueça de fazer o desaquecimento.",
+                "Não se esqueça de fazer o desaquecimento."
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Haha, I know! I'll cool down like a<n>champ!"
+            "text": "Haha, eu sei! Vou fazer um<n>desaquecimento de\nprimeira!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Hm? Who's that over there?"
+            "text": "Hmm? Quem é aquela ali?"
         },
         {
-            "name": "",
-            "text": "<i>Huff... Puff...</i> J-just twenty more laps<n>to... go..."
+            "name": "Meisho Doto",
+            "text": "<i>Ofegante... Ofegante...</i> S-só mais vinte<n>voltas..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Heeey, Doto! You're doing great out<n>there! Feelin'\nall right?"
+            "text": "Eeei, Doto! Você está indo muito bem!<n>Está tudo\nbem com você?"
         },
         {
             "name": "Meisho Doto",
@@ -34,73 +34,73 @@
         },
         {
             "name": "Meisho Doto",
-            "text": "I-I'm fine! I'm just training by<n>myself! So you\ndon't need to... I<n>mean..."
+            "text": "E-estou bem! Só estou treinando<n>sozinha! Então\nnão precisa... Quer<n>dizer..."
         },
         {
             "name": "Meisho Doto",
-            "text": "Y-you don't need to worry about me!"
+            "text": "N-não precisa se preocupar comigo!"
         },
         {
             "name": "Taiki Shuttle",
             "text": "Hmm..."
         },
         {
-            "name": "",
-            "text": "Trainer, can I ask ya something? Is it<n>all right if I\ncool down later?"
+            "name": "Taiki Shuttle",
+            "text": "Trainer, posso te perguntar uma<n>coisa? Tudo bem\nse eu fizer meu<n>desaquecimento mais tarde?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "I think Doto's overworking herself<n>again! I know\nit's nothin' new, but<n>this time I gotta step in..."
+            "text": "Acho que a Doto está se esforçando<n>demais de\nnovo! Sei que não é<n>novidade, mas dessa vez\npreciso<n>intervir..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "I'm gonna run over as fast as I can<n>and give her a\nbig ol' hug! These<n>arms of mine'll get her restin'!",
+            "text": "Vou correr até lá o mais rápido<n>possível e dar um\nabração nela! Com<n>esses meus braços, vou fazer\nela<n>descansar nem que seja à força!",
             "choice_data_list": [
-                "Go get her!",
-                "Go get her!",
-                "Wait a minute!"
+                "Vai lá!",
+                "Vai lá!",
+                "Espera aí!"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "I'm gonna run over as fast as I can<n>and give her a\nbig ol' hug! These<n>arms of mine'll get her restin'!",
+            "text": "Vou correr até lá o mais rápido<n>possível e dar um\nabração nela! Com<n>esses meus braços, vou fazer\nela<n>descansar nem que seja à força!",
             "choice_data_list": [
-                "Go get her!",
-                "Go get her!",
-                "Wait a minute!"
+                "Vai lá!",
+                "Vai lá!",
+                "Espera aí!"
             ]
         },
         {
-            "name": "",
-            "text": "Yes! I just knew you'd say that,<n>Trainer!"
+            "name": "Taiki Shuttle",
+            "text": "Yes! Eu sabia que você diria isso,<n>Trainer!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "All right, I'm off!"
+            "text": "Muito bem, estou indo!"
         },
         {
             "name": "Monólogo",
-            "text": "Taiki Shuttle runs off at top speed and<n>snatches up\nMeisho Doto. It looks<n>like the plan to make her take\na break<n>is working."
+            "text": "Taiki Shuttle dispara em velocidade<n>máxima e\nagarra Meisho Doto.<n>Parece que o plano de fazê-la\ndescansar está funcionando."
         },
         {
             "name": "Monólogo",
-            "text": "I suggest we ask some other trainers<n>for advice on\nhow to make Meisho<n>Doto get some rest."
-        },
-        {
-            "name": "",
-            "text": "Oh, I get it! Protecting Doto is<n>something we all gotta\ndo together—a<n>group mission!"
+            "text": "Sugiro pedirmos conselhos a outros<n>Trainers sobre\ncomo fazer Meisho<n>Doto descansar."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "You're one smart cookie, Trainer!<n>Okay!"
+            "text": "Ah, entendi! Proteger a Doto é algo<n>que todos\nprecisamos fazer juntos —<n>uma missão em equipe!"
         },
         {
-            "name": "",
-            "text": "Let's make this mission a big<n>success!"
+            "name": "Taiki Shuttle",
+            "text": "Você é esperto que só, Trainer! Muito<n>bem!"
         },
         {
-            "name": "",
-            "text": "And so, with everyone's help,<n>Meisho Doto finally\ngets some rest.<n>Taiki Shuttle seems very satisfied."
+            "name": "Taiki Shuttle",
+            "text": "Vamos fazer dessa missão um<n>sucesso!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "E assim, com a ajuda de todos,<n>Meisho Doto\nfinalmente consegue<n>descansar. Taiki Shuttle\nparece muito<n>satisfeita."
         }
     ]
 }

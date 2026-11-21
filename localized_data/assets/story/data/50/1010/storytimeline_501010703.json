@@ -2,94 +2,94 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Taiki Shuttle and I drop by the mall to<n>find her a\nfolding umbrella."
+            "text": "Taiki Shuttle e eu passamos no<n>shopping para\nprocurar um<n>guarda-chuva dobrável para ela."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oh, wow... So this is a foldin'<n>umbrella?"
+            "text": "Uau... Então é assim que é um<n>guarda-chuva\ndobrável?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "I don't need one of these doodads! It<n>weighs a ton\nand seems like a pain to<n>haul around!",
+            "text": "Não preciso de uma dessas<n>geringonças! Pesa uma\ntonelada e<n>parece um incômodo ficar carregando\npor aí!",
             "choice_data_list": [
-                "What if you get caught in the rain?",
-                "What if you get caught in the rain?"
+                "E se você for pega pela chuva?",
+                "E se você for pega pela chuva?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oh, like the other day? Well, if it<n>happens again,\nthen..."
+            "text": "Ah, tipo aquele dia? Bem, se<n>acontecer de novo,\nentão..."
         },
         {
-            "name": "",
-            "text": "I'll just hop under your umbrella! No<n>problem!"
+            "name": "Taiki Shuttle",
+            "text": "É só eu me abrigar debaixo do seu<n>guarda-chuva!\nNo problem!"
         },
         {
-            "name": "",
-            "text": "Even if there ain't a lot of space, I<n>know just what\nto do! I'll squeeze up<n>to ya real tight and squish my\nway in!",
+            "name": "Taiki Shuttle",
+            "text": "Mesmo que não tenha muito espaço,<n>sei\nexatamente o que fazer! Vou me<n>apertar bem\njuntinho de você e me<n>espremer para caber!",
             "choice_data_list": [
-                "What if I'm not with you?",
-                "What if I'm not with you?"
+                "E se eu não estiver com você?",
+                "E se eu não estiver com você?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "What?! You tellin' me you're not<n>gonna be by my\nside, Trainer?"
+            "text": "What?! Tá dizendo que não vai estar<n>ao meu lado,\nTrainer?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Gosh... I never thought of that! I just<n>figured you'd\nalways be around..."
+            "text": "Nossa... Nunca tinha pensado nisso!<n>Achei que você\nestaria sempre por<n>perto..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "That'd be a real pickle! I'd best go<n>grab myself an\numbrella!"
+            "text": "Isso seria um problemão! É melhor eu<n>comprar um\nguarda-chuva!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "But there're so many! I'm not sure<n>which one to\npick..."
+            "text": "Mas tem tantos! Não sei qual<n>escolher..."
         },
         {
-            "name": "",
-            "text": "Which do ya reckon I should buy,<n>Trainer?",
+            "name": "Taiki Shuttle",
+            "text": "Qual você acha que devo comprar,<n>Trainer?",
             "choice_data_list": [
-                "A light umbrella that's easy to run with.",
-                "A sturdy umbrella that's sure to last."
-            ]
-        },
-        {
-            "name": "",
-            "text": "Oh, this one'll suit me just fine! I can<n>tell!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Looks like it shouldn't weigh down<n>my bag. You\nweren't lying when ya<n>said ya can run with it!"
-        },
-        {
-            "name": "",
-            "text": "The following day..."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Trainer! Lemme borrow your<n>umbrella!",
-            "choice_data_list": [
-                "Didn't you just buy one?"
+                "Um guarda-chuva leve, fácil de correr com ele.",
+                "Um guarda-chuva resistente, que dure bastante."
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Ah... Well, ya see, it needs some<n>patchin' up. I ran\nso fast it got blown<n>to bits."
+            "text": "Ah, este aqui vai ser perfeito para<n>mim! Tenho\ncerteza!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Parece que não vai pesar na minha<n>bolsa. Você não\ntava brincando<n>quando disse que dava para correr\ncom ele!"
         },
         {
             "name": "Monólogo",
-            "text": "Before lending her my umbrella, I<n>warn her not to\nrun at full speed in the<n>rain."
+            "text": "No dia seguinte..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Hmm... But doesn't this one look a<n>smidge heavy?\nWell, I'll give it a<n>spin..."
+            "text": "Trainer! Me empresta seu<n>guarda-chuva!",
+            "choice_data_list": [
+                "Mas você não acabou de comprar um?"
+            ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Scuse me! Can I test out this<n>heavy-lookin'\numbrella?"
+            "text": "Ah... Bem, é que ele precisa de uns<n>reparos. Corri\ntão rápido que ele<n>acabou se despedaçando."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Antes de emprestar meu<n>guarda-chuva, aviso a ela\nque não<n>deve correr em velocidade máxima<n>na\nchuva."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Hmm... Mas este aqui não parece um<n>pouquinho\npesado? Bem, vou<n>experimentar..."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Com licença! Posso testar este<n>guarda-chuva que\nparece pesado?"
         },
         {
             "name": "Taiki Shuttle",
@@ -97,19 +97,19 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Haha, this one's got some real<n>weight to it! Way\nmore than I<n>expected!"
+            "text": "Haha, este aqui tem um peso e tanto!<n>Muito mais\ndo que eu esperava!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "But color me surprised—it's growin'<n>on me! I could\nuse it as a barbell!"
+            "text": "Mas olha só que surpresa... Estou<n>começando a\ngostar dele! Posso<n>usá-lo como uma barra de\nmusculação!"
         },
         {
-            "name": "",
-            "text": "I'll take it! In fact, I'd like a hundred<n>of 'em!"
+            "name": "Taiki Shuttle",
+            "text": "Vou levar! Na verdade, quero cem<n>deles!"
         },
         {
             "name": "Monólogo",
-            "text": "It takes a lot of work to convince her<n>she doesn't\nneed that many<n>umbrellas..."
+            "text": "Dá um trabalhão convencê-la de que<n>não precisa\nde tantos<n>guarda-chuvas..."
         }
     ]
 }

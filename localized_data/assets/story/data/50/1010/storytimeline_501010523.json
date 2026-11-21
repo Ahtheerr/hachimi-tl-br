@@ -2,85 +2,85 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Taiki Shuttle pesters me to go visit a<n>farm with her\non my day off..."
+            "text": "Taiki Shuttle insiste para irmos visitar<n>uma fazenda\nno meu dia de folga..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Hmm... It's not like the ones back<n>home, but a\nfarm's a farm!"
-        },
-        {
-            "name": "",
-            "text": "There's so much energy here! The<n>smell of the\npastures, the hummin' of<n>the tractors..."
-        },
-        {
-            "name": "",
-            "text": "The gentle breeze flowin' through the<n>farm, the\nbellowin' of stampeding<n>cattle..."
-        },
-        {
-            "name": "",
-            "text": "Wait, stampeding cattle?!"
-        },
-        {
-            "name": "",
-            "text": "It's an emergency! The cows have<n>escaped!"
-        },
-        {
-            "name": "",
-            "text": "We turn to see several cows running<n>through a\nbroken fence!"
+            "text": "Hmm... Não é igual às fazendas lá da<n>minha terra,\nmas fazenda é fazenda!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Heh-heh! They couldn't have<n>escaped at a better\ntime! Y'all leave<n>this to me, now!",
-            "choice_data_list": [
-                "It's seems kind of dangerous.",
-                "It's seems kind of dangerous."
-            ]
+            "text": "Tem tanta energia por aqui! O cheiro<n>do pasto, o\nronco dos tratores..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "S'all good! Wranglin' cows is what<n>my family\ndoes! I'm used to this<n>kinda thing!"
+            "text": "A brisa suave passando pela<n>fazenda, o mugido do\ngado<n>desgovernado por aí..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Git along, now!"
+            "text": "Espera, gado desgovernado?!"
         },
         {
-            "name": "Taiki Shuttle",
-            "text": "Yeehaw!"
+            "name": "Fazendeiro",
+            "text": "É uma emergência! As vacas fugiram!"
         },
         {
             "name": "Monólogo",
-            "text": "She approaches the escaped cows<n>from the side\nwhile shouting<n>commands, and they're back where\nthey belong in no time flat."
+            "text": "Nos viramos e vemos várias vacas<n>correndo por\numa cerca quebrada!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Whew! And that's more or less how<n>it's done!\nThat went surprisingly well<n>for bein' on my\nlonesome!",
+            "text": "Heh-heh! Não podiam ter escolhido<n>hora melhor pra\nfugir! Deixem<n>comigo!",
             "choice_data_list": [
-                "You'd never done it alone before?!"
+                "Parece meio perigoso.",
+                "Parece meio perigoso."
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Haha, nope! My mom and I always<n>did it together\nback home!"
-        },
-        {
-            "name": "",
-            "text": "But never mind that! My body feels<n>way lighter\nfrom all that herding!"
+            "text": "Isso não é problema! Minha família<n>trabalha com\ngado! Estou<n>acostumada com esse tipo de coisa!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "I get the feelin' I can take my speed<n>up a notch and\nmake sharp turns right<n>on the heel!",
-            "choice_data_list": [
-                "Is that so?"
-            ]
+            "text": "Vamos, andem!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Yessiree! I'm so glad we got out to<n>this here farm!\nThanks for takin' me!"
+            "text": "Yeeeeehaw!"
         },
         {
             "name": "Monólogo",
-            "text": "The next day, I notice Taiki Shuttle's<n>running has\ncertainly improved a lot,<n>just like she predicted."
+            "text": "Ela se aproxima das vacas fugitivas<n>pela lateral,\ngritando comandos, e em<n>pouquíssimo tempo elas\njá estão de<n>volta ao lugar."
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Ufa! E é mais ou menos assim que se<n>faz! Até que\ndeu tudo certo,<n>considerando que eu tava sozinha!",
+            "choice_data_list": [
+                "Você nunca tinha feito isso sozinha?!"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Haha, não! Lá em casa, eu sempre<n>fazia isso junto\ncom minha mãe!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Mas deixa isso pra lá! Meu corpo<n>está muito mais\nleve depois de tocar<n>aquele gado!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Tenho a sensação de que consigo<n>aumentar um\npouco minha velocidade<n>e fazer curvas bem mais\nfechadas!",
+            "choice_data_list": [
+                "É mesmo?"
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Pode apostar! Ainda bem que viemos<n>até essa\nfazenda! Obrigada por me<n>trazer!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "No dia seguinte, percebo que a corrida<n>de Taiki\nShuttle realmente melhorou<n>bastante, exatamente\ncomo ela havia<n>previsto."
         }
     ]
 }

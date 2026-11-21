@@ -1,32 +1,32 @@
 {
     "text_block_list": [
         {
-            "name": "",
-            "text": "Walking past the dorm, I happen to<n>catch sight of\nTaiki Shuttle cleaning<n>listlessly."
+            "name": "Monólogo",
+            "text": "Ao passar pelo dormitório, por acaso<n>vejo Taiki\nShuttle limpando tudo sem<n>muito ânimo."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "<i>Sigh...</i> Finally done with the entrance.<n>By now, I bet\neverybody's already..."
+            "text": "<i>Suspiro...</i> Finalmente terminei a<n>entrada. A essa\naltura, aposto que<n>todo mundo já..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "<i>Siiiiigh...</i>",
+            "text": "<i>Suspiiiiro...</i>",
             "choice_data_list": [
-                "That was one long sigh.",
-                "That was one long sigh."
+                "Foi um suspiro e tanto.",
+                "Foi um suspiro e tanto."
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "The whole dorm's playin' board<n>games today..."
+            "text": "Todo mundo no dormitório tá jogando<n>jogos de\ntabuleiro hoje..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "But I'm on cleaning duty 'cause I<n>broke curfew...\n<i>Sigh...</i>"
+            "text": "Mas estou de castigo limpando<n>porque quebrei o\ntoque de recolher...<n><i>Suspiro...</i>"
         },
         {
             "name": "Monólogo",
-            "text": "Perhaps due to the shock of the<n>whole ordeal, Taiki\nShuttle remains<n>down in the dumps for some time."
+            "text": "Talvez por causa do choque de toda<n>essa situação,\nTaiki Shuttle continua<n>desanimada por algum tempo."
         }
     ]
 }

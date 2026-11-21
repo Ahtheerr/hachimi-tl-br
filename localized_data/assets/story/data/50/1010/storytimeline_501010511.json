@@ -1,111 +1,111 @@
 {
     "text_block_list": [
         {
-            "name": "",
-            "text": "While at the mall on my day off, I spot<n>Taiki Shuttle\nwith some friends at a<n>pet shop."
-        },
-        {
-            "name": "",
-            "text": "...Are you okay, Taiki?"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "How could I possibly be okay with<n>this bundle of\ncuteness in front of<n>me?!"
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "I can't hold back any longer! Time to<n>give it a real\ngood cuddle!"
-        },
-        {
-            "name": "Puppy",
-            "text": "Woof, woof! Grr!"
-        },
-        {
-            "name": "",
-            "text": "Eek! B-but why?",
-            "choice_data_list": [
-                "What's up?"
-            ]
-        },
-        {
-            "name": "",
-            "text": "Trainer! <i>Sniffle...</i> You gotta help me!"
-        },
-        {
             "name": "Monólogo",
-            "text": "I try to comfort Taiki as she explains<n>the situation\nthrough her tears."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "Suzuka got to hug that little puppy, but<n>it won't even\nlet me touch its paw..."
-        },
-        {
-            "name": "Taiki Shuttle",
-            "text": "<i>Sigh...</i> It's breakin' my poor heart... I<n>wish I was\nSuzuka right now."
+            "text": "Enquanto estou no shopping durante<n>minha folga,\nvejo Taiki Shuttle com<n>algumas amigas em uma pet\nshop."
         },
         {
             "name": "Silence Suzuka",
-            "text": "U-um... Well... Hmm..."
-        },
-        {
-            "name": "",
-            "text": "Would you mind giving us some<n>suggestions on\nhow to get the puppy<n>to warm up to Taiki?"
+            "text": "...Você está bem, Taiki?"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "<i>Sniffle...</i> Tell me what to do, Trainer!",
+            "text": "Como eu poderia estar bem com<n>essa coisinha tão\nfofinha bem na<n>minha frente?!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Não consigo mais me segurar! Está<n>na hora de dar\num abraço bem<n>apertado nela!"
+        },
+        {
+            "name": "Cachorrinho",
+            "text": "Au, au! Grr!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Eep! M-mas por quê?",
             "choice_data_list": [
-                "Show no fear and hold it with confidence.",
-                "Loosen up and relax before you hold it."
+                "O que foi?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Makes sense! I bet the little fella can<n>smell my fear!\nOkay—time to give it<n>another whirl!"
+            "text": "Trainer! <i>Snif...</i> Você precisa me<n>ajudar!"
+        },
+        {
+            "name": "Monólogo",
+            "text": "Tento consolar Taiki enquanto ela<n>explica a\nsituação em meio às<n>lágrimas."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Listen up, pup! Look me in the eye!"
+            "text": "A Suzuka conseguiu abraçar aquele<n>cachorrinho,\nmas ele nem sequer me<n>deixa tocar na patinha\ndele..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "I'm the sheriff 'round these parts, so<n>what I say\ngoes! The only laws here<n>are the laws of the Wild\nWest!"
+            "text": "<i>Suspiro...</i> Isso tá partindo meu pobre<n>coração...\nQueria ser a Suzuka agora."
         },
         {
-            "name": "",
-            "text": "So... you better let me hug you!"
+            "name": "Silence Suzuka",
+            "text": "B-bem... Hm... Deixe-me pensar..."
         },
         {
-            "name": "",
-            "text": "I think that might have been a bit<n>much..."
+            "name": "Silence Suzuka",
+            "text": "Você poderia nos dar algumas<n>sugestões de como\nfazer o<n>cachorrinho se afeiçoar à Taiki?"
         },
         {
-            "name": "Puppy",
+            "name": "Taiki Shuttle",
+            "text": "<i>Snif...</i> Me diga o que fazer, Trainer!",
+            "choice_data_list": [
+                "Não demonstre medo e segure-o com confiança.",
+                "Relaxe e fique tranquila antes de pegá-lo no colo."
+            ]
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Faz sentido! Aposto que o pequenino<n>consegue\nsentir meu medo! Certo —<n>hora de tentar de novo!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Escute aqui, cachorrinho! Olhe nos<n>meus olhos!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Eu sou a xerife por estas bandas,<n>então aqui quem\nmanda sou eu! A<n>única lei por aqui é a lei do Velho\nOeste!"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "Então... é melhor me deixar te<n>abraçar!"
+        },
+        {
+            "name": "Silence Suzuka",
+            "text": "Acho que isso foi um pouco<n>exagerado..."
+        },
+        {
+            "name": "Cachorrinho",
             "text": "Woof, woof!"
         },
         {
-            "name": "",
-            "text": "Oh, here comes the puppy! It must be<n>lookin' for a\nhug!"
+            "name": "Taiki Shuttle",
+            "text": "Ah, lá vem o cachorrinho! Deve estar<n>procurando\num abraço!"
         },
         {
             "name": "Silence Suzuka",
-            "text": "No way..."
+            "text": "Não pode ser..."
         },
         {
             "name": "Monólogo",
-            "text": "The puppy has taken a liking to Taiki<n>Shuttle. Looks\nlike she managed to<n>show it who's boss."
+            "text": "O cachorrinho se afeiçoou a Taiki<n>Shuttle. Parece\nque ela conseguiu<n>mostrar quem é que manda."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Good idea. Maybe the puppy was<n>just nervous\nbecause Taiki was<n>nervous..."
+            "text": "Boa ideia. Talvez o cachorrinho<n>estivesse nervoso\nporque a Taiki<n>também estava..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oh, I see! Okay—I'll get things right<n>this time around!"
+            "text": "Ah, entendi! Certo — desta vez vou<n>fazer tudo\ndireitinho!"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Breathe in... and out..."
+            "text": "Inspire... e expire..."
         },
         {
             "name": "Taiki Shuttle",
@@ -113,35 +113,35 @@
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Breathe in... and out..."
+            "text": "Inspire... e expire..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Um, Taiki? I think that's enough<n>relaxing..."
+            "text": "Hm, Taiki? Acho que já está bom de<n>relaxar..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Whoops, my bad! Thanks for the<n>heads-up, Suzuka!"
+            "text": "Opa, foi mal! Obrigada pelo aviso,<n>Suzuka!"
         },
         {
-            "name": "",
-            "text": "Taiki attempts to hug the puppy<n>again..."
+            "name": "Monólogo",
+            "text": "Taiki tenta abraçar o cachorrinho mais<n>uma vez..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Oh my lucky stars..."
+            "text": "Minha nossa..."
         },
         {
             "name": "Silence Suzuka",
-            "text": "Hehe. I'm glad things worked out for<n>you."
+            "text": "Hehe. Fico feliz que tudo tenha dado<n>certo."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Aren't you just the cutest little thing?<n>Lemme get\nanother feel of that fluffy<n>fur of yours!"
+            "text": "Você não é a coisinha mais fofa do<n>mundo? Deixa\neu sentir mais um<n>pouquinho desse pelo tão macio!"
         },
         {
-            "name": "",
-            "text": "Looks like playtime with the puppy is<n>really helping\nTaiki Shuttle recover."
+            "name": "Monólogo",
+            "text": "Parece que brincar com o cachorrinho<n>está\najudando Taiki Shuttle a se<n>recuperar de verdade."
         }
     ]
 }

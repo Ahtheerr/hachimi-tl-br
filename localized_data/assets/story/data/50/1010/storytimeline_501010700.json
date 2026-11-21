@@ -1,35 +1,35 @@
 {
     "text_block_list": [
         {
-            "name": "",
-            "text": "<i>Yawn...</i> Mmm..."
+            "name": "Taiki Shuttle",
+            "text": "<i>Bocejo...</i> Hmmm..."
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Sorry, Trainer. I'm reeeal sleepy<n>today.",
+            "text": "Desculpa, Trainer. Hoje estou com<n>um soninho\ndanado.",
             "choice_data_list": [
-                "What did you do on your day off yesterday?",
-                "What did you do on your day off yesterday?"
+                "O que você fez no seu dia de folga ontem?",
+                "O que você fez no seu dia de folga ontem?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "We had a party over in the dorm! It<n>was awful fun!\n♪"
+            "text": "Teve uma festa lá no dormitório! Foi<n>divertido\ndemais! ♪"
         },
         {
             "name": "Taiki Shuttle",
-            "text": "Ol' Hishiama turned in early, so we<n>kicked off our\nboots and threw a real<n>hootenanny!",
+            "text": "A Hishiama foi dormir cedinho, então<n>tiramos as\nbotas e fizemos uma<n>festança daquelas!",
             "choice_data_list": [
-                "So basically... you had a good time?"
+                "Então, basicamente... você se divertiu bastante?"
             ]
         },
         {
             "name": "Taiki Shuttle",
-            "text": "You betcha! Hishiama really let us<n>have it when she\nwoke up though.<n>Haha!"
+            "text": "Pode apostar! Mas a Hishiama deu<n>uma bronca\ndaquelas na gente<n>quando acordou. Haha!"
         },
         {
-            "name": "",
-            "text": "It sounds like Taiki Shuttle didn't get<n>much sleep."
+            "name": "Monólogo",
+            "text": "Pelo visto, Taiki Shuttle não dormiu<n>muito."
         }
     ]
 }

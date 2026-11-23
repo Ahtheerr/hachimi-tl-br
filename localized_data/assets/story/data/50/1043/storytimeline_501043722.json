@@ -1,0 +1,31 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "For some reason, Shinko Windy<n>seems different\nfrom her usual self..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Ugh...",
+            "choice_data_list": [
+                "...Are you okay?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I took the medicine my mom brought<n>me, so I\nshould get better right away,<n>but..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Ngh..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "My mom even rubbed my head... and<n>wished the\npain away, but..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy appears troubled by<n>her nagging\nheadache."
+        }
+    ]
+}

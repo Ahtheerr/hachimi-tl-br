@@ -1,0 +1,185 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Ooohhh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy manages an<n>impressive performance\nthat exceeds<n>expectations. However..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hmph... How was that?"
+        },
+        {
+            "name": "Spectator A",
+            "text": "Well, I guess it wasn't too bad. A bit<n>boring when\nshe doesn't bite anyone<n>though. What happened to\nher<n>comedy act?"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Phew... I'm so relieved that nobody<n>got bitten... If\nshe pulled that kind of<n>thing during the race, it could\nhave led<n>to a big accident."
+        },
+        {
+            "name": "Spectator C",
+            "text": "I was really hoping that race would be<n>a rare\nspectacle, but she just ran like<n>normal... Ahahaha!",
+            "choice_data_list": [
+                "..."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...Trainer, I'm gonna head back to the<n>waiting room."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "You're coming too!",
+            "choice_data_list": [
+                "R-right!",
+                "R-right!"
+            ]
+        },
+        {
+            "name": "Windy Fan",
+            "text": "Huh? ...Oh, is Windy already leaving?"
+        },
+        {
+            "name": "Windy Fan",
+            "text": "But her running was so amazing. I<n>really wanted to\nshower her with<n>more cheers and applause..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Glancing over at the source of that<n>last comment, I\nsee a woman<n>clutching a Shinko Windy plushie\nclose to her chest.",
+            "choice_data_list": [
+                "(So Windy does have some fans out there...)"
+            ]
+        },
+        {
+            "name": "Windy Fan",
+            "text": "I don't think you're a comedy act at<n>all, Windy...\nYou were incredible..."
+        },
+        {
+            "name": "Umamusume A",
+            "text": "Gee... Seems everyone's really<n>pinned Windy as\nsome kind of clown,<n>huh?"
+        },
+        {
+            "name": "Umamusume B",
+            "text": "It's like nobody actually cares how<n>she runs—they\njust love seeing her<n>cause havoc..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "That's not fair... Windy is a really<n>great racer who\nputs care into herself<n>and her form!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "And she's improved so much since<n>the last time I\nsaw her..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "She's full of drive! When she says<n>she wants to\nwin and show off her<n>skills, she really means it!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "And she pulled it off today, even<n>among such an\nunpleasant crowd."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "...Meanwhile here I am, on the verge<n>of giving up."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Those people said so many mean<n>things to her...\nAnd yet..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "How is she able to keep pushing on?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Phew... I managed to hold myself<n>back again today!",
+            "choice_data_list": [
+                "You were great!",
+                "You were great!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Heh, I know that. You don't gotta<n>spell it out.",
+            "choice_data_list": [
+                "Didn't you feel like waving to the crowd?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Nah, it wasn't important."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "That kinda thing can wait until I've<n>achieved my\nambition.",
+            "choice_data_list": [
+                "Your ambition..."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I see a fierce determination in her<n>eyes. It seems\nshe's set on<n>redeeming herself first."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Nobody sees my strength right now,<n>so if I try to\ninteract with the crowd,<n>they'll just make fun of\nme.",
+            "choice_data_list": [
+                "You've got a point..."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "But! One day, it's gonna be different."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I just gotta stay patient until then!",
+            "choice_data_list": [
+                "Yeah, you're right.",
+                "Yeah, you're right."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Patience... If she's willing to be<n>patient, then instead\nof rushing for a<n>big win in a G1 race, it might be\nbetter<n>for us to choose a race that'll let her\nshowcase her skills."
+        },
+        {
+            "name": "Monologue",
+            "text": "We can focus on training for the time<n>being, and\nthen take on bigger races<n>once the new year\nbegins. In which<n>case, our next race shouldn't be a\nG1.",
+            "choice_data_list": [
+                "So about your next race..."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Oh? Decided, have ya? C'mon, spit it<n>out.",
+            "choice_data_list": [
+                "How about the Tokai Stakes?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hrrm, the Tokai Stakes, huh? I hear<n>there's a\nbunch of tasty food in Aichi.<n>♪"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Fine by me. I trust that my diabolical<n>strategist has\nsome sort of plan in the<n>works."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "All I gotta do is knock it outta the<n>park!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Even though she displayed some fine<n>running\ntoday, it's hardly done<n>anything to better her\nreputation."
+        },
+        {
+            "name": "Monologue",
+            "text": "Regardless, she continues to rise to<n>the challenge.\nFor now, we decide to<n>return to summer camp."
+        }
+    ]
+}

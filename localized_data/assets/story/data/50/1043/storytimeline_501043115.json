@@ -1,0 +1,416 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "It's the day of the exhibition race.<n>Shinko Windy is\nbeing interviewed at<n>the TV studio."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Ahem! ♪ I'm so strong, I'm gonna<n>make today's\nwin look easy!"
+        },
+        {
+            "name": "Host A",
+            "text": "Spoken like the true favorite! That<n>confidence is\ninfectious. So, who do<n>you see as your biggest\nrival?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Dunno! And who cares about the<n>other racers, ask\nanother question<n>about <i>me!</i>"
+        },
+        {
+            "name": "Celebrity A",
+            "text": "Hahaha! Confidence like hers is hard<n>to find! Kids\nthese days never toot<n>their own horn. She's a real\nbreath of<n>fresh air."
+        },
+        {
+            "name": "Host A",
+            "text": "Ahahaha! I know what you mean!<n>Let's see...\nSecond in the popularity<n>rankings is Yamato Marin!\nShe's<n>showing a ton of potential as well!"
+        },
+        {
+            "name": "Monologue",
+            "text": "After the studio bit wraps up, we<n>head to the\nracecourse, and the race<n>begins!"
+        },
+        {
+            "name": "Spectators",
+            "text": "Go! Race your heart out! Windy!<n>We're rooting for\nyou!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "<i>Huff, huff!</i>"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "(Ngh! ...How? How's she so fast?!)"
+        },
+        {
+            "name": "Caster",
+            "text": "Oh! Shinko Windy makes a beautiful<n>cut and breaks\nout of the pack! Can<n>she take the lead in time?!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "(I'm closing in! Just gotta go faster!<n>Faster!)"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "H-huh? <i>Huff... Puff...</i> N-no!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "(Why can't I pass her?! I'm... so...<n>close!)"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "(No way... This isn't right... I'm<n>supposed to win!\nI'm the strongest<n>one here!)"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "(No... No! No! No! No! I <i>have</i> to win... I<n>HAVE to!)"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "(I did all that training... every day, from<n>dawn till\ndusk!)"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "(I promised myself I'd win! That I'd<n>take the first\nstep towards achieving<n>my ambition!)"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "(But if I lose now... I might as well<n>kiss my\nhundred-years dream<n>goodbye!)"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...!"
+        },
+        {
+            "name": "Spectators",
+            "text": "Who's in front?! You've got this!<n>Keep going! Go!\nGo! Go! Go for the<n>win, Yamato Marin!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Shut up, shaddup! The only name you<n>should be\nyelling is MINE!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "RAAAHHH!",
+            "choice_data_list": [
+                "WINDY?!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "<i>CHOMP!</i>",
+            "choice_data_list": [
+                "...?!"
+            ]
+        },
+        {
+            "name": "Yamato Marin",
+            "text": "Kyaaaah?!"
+        },
+        {
+            "name": "Caster",
+            "text": "Yamato Marin starts speeding ahead<n>completely\nout of the blue! Huh? Wait,<n>what just happened?\nWas she<n>bitten?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Yamato Marin keeps the lead all the<n>way to the\nfinish line. Leaning over to<n>bite her made Shinko\nWindy lose her<n>balance and finish in second place.",
+            "choice_data_list": [
+                "I don't believe this!",
+                "I don't believe this!"
+            ]
+        },
+        {
+            "name": "Caster",
+            "text": "Well folks, this is a first... We're<n>currently checking\nover the footage..."
+        },
+        {
+            "name": "Monologue",
+            "text": "After some tense deliberation, the<n>official verdict is\nthat Shinko Windy's<n>actions did not count as an\nobstruction."
+        },
+        {
+            "name": "Monologue",
+            "text": "Seeing as the bite left no injury on<n>Yamato Marin\nand in fact directly led<n>to her victory, it couldn't be\ndefined<n>as \"behavior that grants an unfair\nadvantage.\""
+        },
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy isn't punished or<n>disqualified, but\nshe's given a stern<n>warning."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "..."
+        },
+        {
+            "name": "Spectator B",
+            "text": "You've got to be kidding me! What<n>was she\nthinking? She'd have won if<n>she kept her teeth to\nherself."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "B-but... I-I..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...!",
+            "choice_data_list": [
+                "(Windy!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "News of her biting Yamato Marin<n>spreads\nthroughout Japan almost<n>instantaneously."
+        },
+        {
+            "name": "Woman A",
+            "text": "Hey, did you see the news about<n>Shinko Windy?\nIsn't that crazy?<n>Hehe!"
+        },
+        {
+            "name": "Woman B",
+            "text": "It's no laughing matter. I knew she<n>wasn't the\nmost serious athlete, but<n>my word... what did she\nthink was<n>going to happen?"
+        },
+        {
+            "name": "Commentator A",
+            "text": "Violent behavior during a race is<n>completely\nunacceptable. Are they<n>being strict enough with\ntheir students<n>over there at the academy?"
+        },
+        {
+            "name": "Internet Comments",
+            "text": "\"It's cause she has all that energy...\"<n>\"Yamato\nMarin lucked out! lololol\"<n>\"Think Shinko Bitey would\nchomp<n>me?\""
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Ngh...",
+            "choice_data_list": [
+                "Windy, are you listening?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Yeah... Biting in a race is dangerous.<n>Someone could\ntrip and fall..."
+        },
+        {
+            "name": "Monologue",
+            "text": "The day after the race, I give Shinko<n>Windy a stern\nlecture about her<n>behavior. She does appear to be\nsorry... but at the same time falls\nuncharacteristically quiet."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Excuse us, dearies. I hope you don't<n>mind us\npaying a visit."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Windy! We saw you on the news.<n>What in the\nworld were you doing?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I got annoyed, that's all..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Listen, we all get angry from time to<n>time, but that\ndoesn't mean you can<n>go around biting people."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "No duh... I know that already..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Windy..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Well, I hope you've learned your<n>lesson."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hey, we're kinda busy here, so<n>would you scram\nalready?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Trainer and I gotta go buy a box of<n>sweets so I can\napologize."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "...Oh, okay!",
+            "choice_data_list": [
+                "Sorry about that, but would you mind coming back\nanother time?",
+                "Sorry about that, but would you mind coming back\nanother time?"
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "That won't be a problem. We're<n>sorry for causing\nyou delay."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "...Trainer, do keep a close eye on her<n>for me, will\nyou?"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "We'll do what we can as well, okay?",
+            "choice_data_list": [
+                "Thanks for looking out for her, both of you."
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Think nothing of it. We dirt runners<n>look after our\nown. And after all, that<n>is all we <i>can</i> do for her right\nnow."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Windy did a bad thing, but... she..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Later that day, we meet up with the<n>other\nUmamusume involved in the<n>incident and her trainer\nin a hotel<n>lounge and apologize again."
+        },
+        {
+            "name": "Yamato Marin",
+            "text": "Th-this wasn't necessary! I'm not<n>hurt at all, and I\nwon first place<n>because of it...",
+            "choice_data_list": [
+                "Even so, we're truly sorry."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Lowering my head, I glance at Shinko<n>Windy. In her\nown way, she does<n>look like she's trying, but..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...Nngh.",
+            "choice_data_list": [
+                "Come on, Windy..."
+            ]
+        },
+        {
+            "name": "Yamato Marin",
+            "text": "Um... Are you doing okay, Windy? The<n>media hasn't\nbeen very kind to you..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I'm fine, thank you very much! A big<n>bad like me\ncan take this type of heat<n>any day!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "But, um..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I shouldn't have bit you on the<n>racecourse."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I just got so pissed off 'cause I<n>couldn't pass you,\nand I... lost<n>control..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "It was dangerous, and it messed up<n>the whole race,\nso..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I'm sorry."
+        },
+        {
+            "name": "Monologue",
+            "text": "It may not be the most eloquent of<n>deliveries, but\nshe manages to<n>apologize with her own words."
+        },
+        {
+            "name": "Yamato Marin",
+            "text": "Thank you... for opening up so much.<n>If there's\never a chance, let's race<n>again!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "She's way too nice...",
+            "choice_data_list": [
+                "I'm glad she forgave you.",
+                "I'm glad she forgave you."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Yeah... I put you in a tough spot too,<n>didn't I,\nLackey?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I don't get how she can be that<n>strong and so nice\nat the same time..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "She must've put in just as many<n>laps as I did\nduring training, if not<n>more."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Meanwhile... the only thing going<n>through my head\nwas..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "How ticked off I was that I couldn't<n>win... and I just\nexploded. I didn't<n>know how to handle it...",
+            "choice_data_list": [
+                "So you bit her."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Yeah..."
+        },
+        {
+            "name": "Monologue",
+            "text": "I wonder if it comes from her overly<n>competitive\npersonality. It shows just<n>how strongly she wanted\nto win.",
+            "choice_data_list": [
+                "As long as you learn from this experience, I'm sure\nthings will work out."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...",
+            "choice_data_list": [
+                "You'll be fine."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Obviously..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I'll never bite anyone during a race<n>again.",
+            "choice_data_list": [
+                "Promise?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Yeah... pinkie swear. A true villain<n>keeps her\npromises."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Biting only happens off the track."
+        },
+        {
+            "name": "Monologue",
+            "text": "If she can learn to control herself, this<n>incident\nwon't happen again. It's my<n>job to provide her\nguidance so she<n>can do just that.",
+            "choice_data_list": [
+                "All right, then... It's time to change gears!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Yeah. Next time... I'mma run like the<n>wind and win\nfair and square!"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's time to get to work training for<n>our next goal,\nthe Unicorn Stakes!"
+        }
+    ]
+}

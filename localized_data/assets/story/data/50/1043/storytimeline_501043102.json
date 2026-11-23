@@ -1,0 +1,370 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy and I visit a shrine on<n>New Year's\nDay.",
+            "choice_data_list": [
+                "(May we win the Tokai Stakes.)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "Once we finish praying, I turn to<n>Shinko Windy.",
+            "choice_data_list": [
+                "Do you have any New Year's resolutions?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Of course I do! I'm gonna fulfill my<n>ambition!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Oh, and I'm gonna upgrade my<n>reputation from\nplain ol' <i>bad</i> to <i>the<n>big bad!</i>"
+        },
+        {
+            "name": "Monologue",
+            "text": "It's been almost a year since her<n>biting incident.\nThe dust is starting to<n>settle, and the event itself\nseems to<n>be disappearing from collective<n>memory,\nbut..."
+        },
+        {
+            "name": "Child A",
+            "text": "Ah! The naughty Umamusume who<n>bites! Did you\ncome to steal coins<n>from the shrine?!"
+        },
+        {
+            "name": "Mother A",
+            "text": "Stop it! We don't talk about people<n>like that! I'm\nterribly sorry. I'll give<n>him a strong talking-to later!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Her reputation remains unchanged.<n>She's still the\n\"biter\" in the eyes of<n>the public."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Mrggghhh! I'm no stinky coin<n>snatcher!"
+        },
+        {
+            "name": "???",
+            "text": "It's all right, dearie. Plenty of folks<n>already know\nthat, trust me.",
+            "choice_data_list": [
+                "Oh, hello, Wonder Acute.",
+                "Oh, hello, Wonder Acute."
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Happy New Year. Heehee, I see<n>you're out visiting\na shrine as well.",
+            "choice_data_list": [
+                "A Happy New Year to you too. I hope you have a\ngood one."
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "How nice of you to say. Do be careful<n>not to catch a\ncold. Stuffy noses are<n>no fun at all."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "And you know, it's just marvelous<n>what the two of\nyou have<n>accomplished this past year. All us<n>dirt\nrunners have taken notice."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Yeah, whatever. You're just buttering<n>me up,\nyeah?"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh dear me, I would never."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "...Here, Windy. Help yourself to some<n>crunchy\nmunchies and relax a<n>moment. There's some really\ncrunchy ones, I'll have you know."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...Mnph!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "F-fine then. I'll take some off your<n>hands. Was\nfiending to crush<n>something between my teeth\nanyway."
+        },
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy devours one pickled<n>veggie after\nanother, along with some<n>grilled corn from a nearby\nfood stall<n>for good measure. Thanks to that, it\nseems like she's in a better mood<n>now."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Whew! That's good stuff!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Yes, yes, dearie. Glad you're back to<n>your old self."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Heck yeah! Sometimes, I just gotta<n>munch on\nsomething to clear my<n>head! Now I feel like I can\nenjoy the<n>holiday!",
+            "choice_data_list": [
+                "Good idea! Let's do that.",
+                "Good idea! Let's do that."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "All right! Take me somewhere fun,<n>Trainer!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Bwahaha! Ya know what, Acute? You<n>come along\ntoo. Trainer'll treat ya!",
+            "color_text_info_list": [
+                "Acute"
+            ]
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh my, how sweet of you to consider<n>me. But it's\nso out of the blue... I do<n>hope I won't be a bother.",
+            "choice_data_list": [
+                "Not at all. Think of it as a thank-you for the pickled\nvegetables."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "It's the least I could do for her help in<n>getting\nShinko Windy out of the<n>doldrums."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Are you sure? Then I'll take you up<n>on the offer."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Sweet! My trusty lackey doesn't<n>disappoint!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "So? Where're we headed?",
+            "choice_data_list": [
+                "Let's have some dessert.",
+                "Let's go get some exercise!",
+                "Up for a trip to the beach?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I like the sound of that! My belly's<n>still got plenty of\nroom left for treats!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Huh? Oh! It's Windy and Acute! ♪"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Happy New Year! ☆ I don't think I've<n>ever seen the\ntwo of you in a shop<n>like this!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Oh! Falcon! Happy New Year. Looks<n>like you've got\nsomething real tasty<n>there. <i>Drool...</i>",
+            "color_text_info_list": [
+                "Falcon"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I want one too! Ummm, I don't see it<n>on the\nmenu—oh, is this the same<n>thing?"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Which one, dearie? Bunny's<n>Strawberry Caramel\nCheese...<n>F...Frooo..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "What kinda spell are you castin'?!"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "That's \"Bunny's Strawberry<n>Caramel Cheese\nFromage\"! Ehehe!<n>I'll order one for you! ♪",
+            "color_text_info_list": [
+                "★★★"
+            ]
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "And for Acute... I recommend a<n>classic—dense and\nmoist rum cake! ♪"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh my. It looks so scrumptious."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Hehe! ♪ Yaaay! ☆ Why don't the<n>three of you sit\ndown with me?"
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "Actually, I've been wanting to chat<n>with you,\nWindy! You were so cool in<n>that last race."
+        },
+        {
+            "name": "Smart Falcon",
+            "text": "...I know lots happened, but there's<n>something\nabout how you run. I can<n>really tell you're working\nyour tail off<n>every day."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Heehee, didn't I tell you? All us dirt<n>runners are\ntaking notice."
+        },
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy looks embarrassed but<n>happy as\nwell. The conversation<n>picks up from there and\neveryone<n>has a great time."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Now that sounds fun! C'mon, let's<n>go!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We arrive at a nature park with a ton<n>of extra\nattractions. Once the<n>admission fee is paid, we step\ninside<n>and..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Ahhh... The qi sure is flowing nicely! ♪<n>It must be\ncoming from the positive<n>energy of all these kids\nplaying in the<n>park."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Rickey! You're out for some fun too?",
+            "color_text_info_list": [
+                "Rickey"
+            ]
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Oh! Happy New Year! ☆ What a nice<n>coincidence!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Or should I say... my lucky direction<n>was spot-on?\nAfter all, it led me to the<n>person I most wanted to\nmeet right<n>now. ♪"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Mrgh? What do you mean?"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hehe! ♪ I've been following your<n>progress since\nlast year, Windy!"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "At times lashing out due to your<n>overbearing yang,\nat others being<n>swallowed up by a powerful surge\nof<n>yin, you went through some troubled<n>phases for\nsure..."
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "But recently, I can tell you've found a<n>good\nbalance. How else could your<n>skin look so healthy\nand your tail<n>glisten with that brilliant sheen?! ♪"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "I can see you growing even stronger<n>from here on\nout. That's why I've<n>become drawn to you!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Oh? I'mma get stronger, eh?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I dunno much about feng shui, but I<n>can tell you've\ngot a good eye! ♪"
+        },
+        {
+            "name": "Copano Rickey",
+            "text": "Hey! How about a game of tag? It'll<n>be a fun and\ncasual test of our skills!<n>☆"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Now <i>that's</i> what I'm talkin' about!<n>I'mma pounce\non ya so fast that<n>you'll run home crying!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "As I said, we dirt athletes have taken<n>notice of her...\nHehe, I think I'll join<n>them for a spell. ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy chases the two of them<n>around the\npark. Looks like they're<n>getting some training and\nfun in at the<n>same time!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "The beach on New Year's! Toughin'<n>out the cold\nwaves sounds<n>awesome!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A crowd of people has gathered<n>around a small\nshop on the beach.<n>We go closer and find..."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Happy New Year, everyone! ♪ I'm<n>Hokko Tarumae!\n♪ The surf clam<n>lov'n local idol from Tomakomai! ☆",
+            "color_text_info_list": [
+                "Hokko Tarumae"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "From the big blue right to you, I've<n>got a bunch of\ntasty treats straight<n>from Tomakomai! Mmm! ♪\nDoesn't<n>everyth'n look delish? Don't miss<n>out! ☆"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Tarumae! You're working on New<n>Year's?!",
+            "color_text_info_list": [
+                "Tarumae"
+            ]
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Huh? Oh, hi there, Windy, everybody!<n>I'm\nvolunteering, to tell the truth. The<n>fishermen from\nback home asked me<n>for a favor."
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Oh my, how scrumptious looking.<n>Perhaps I should\npurchase a thing or<n>two."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "By all means! And take your time.<n>We've put a\nNew Year's discount on<n>all the products!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "If memory serves, you like snacks<n>you can really\nsink your teeth into,<n>right, Windy? What do you\nthink of<n>these dried surf clams?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Whoa! How'd you know that?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Spill it! What else do you know about<n>me?!"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Huh? ...What else? Well, I know about<n>your running\nstyle and where you<n>placed in your last race. Is that\nwhat<n>you're asking for?"
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "I do keep a close eye on other dirt<n>runners. So, yes,\nI do know quite a bit."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Heh-heh-heh! ♪ You've been<n>watchin' real close,\neh? Heehee!"
+        },
+        {
+            "name": "Wonder Acute",
+            "text": "Windy really does love being the<n>center of attention."
+        },
+        {
+            "name": "Hokko Tarumae",
+            "text": "Hehe... I guess she does."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hehehe! ♪ Weeeheehee! ♪ Watch out,<n>next race!\nI'm comin' for ya at full<n>speed!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy is in a fantastic mood.<n>We buy some\ndried surf clams and<n>head on home."
+        }
+    ]
+}

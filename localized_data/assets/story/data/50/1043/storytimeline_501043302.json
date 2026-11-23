@@ -1,0 +1,418 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "One evening, while on our way back<n>to the\nacademy, Shinko Windy and I<n>pass through the\nshopping district..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Mgh? That's a big crowd. What's<n>going on?"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Step right up and try your luck with<n>our New Year's\nraffle! This year's<n>grand prize is a hot spring\nvacation<n>for two!",
+            "color_text_info_list": [
+                "hot spring vacation"
+            ]
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "First-prize winners get a deluxe carrot<n>hamburger\nsteak! Second-prize<n>winners get a bushel of\ncarrots! And<n>third-prize winners can take home a\nsingle carrot!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Don't let this opportunity pass you<n>by! Get a ticket\nnow and spin for your<n>chance to win!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Ya hear that, lackey?! It's a raffle!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hey, raffle man! I wanna try!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Hahaha! That's the spirit! Have you<n>got a ticket?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "What? I gotta have a ticket first?<n>Grrrr!",
+            "choice_data_list": [
+                "Looks like we can get one if we buy something."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Really? Why didn't you say so<n>sooner?!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "C'mon! Let's go shopping!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hehehe! I'm gonna win something<n>good!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With our newly acquired ticket in<n>hand, Shinko\nWindy strides right up to<n>the raffle machine and\nspins the<n>lever!"
+        },
+        {
+            "name": "Monologue",
+            "text": "A small plastic ball drops from the<n>tumbler's\nopening..."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Holy mackerel! We've got ourselves<n>a grand-prize\nwinner! Come and get<n>the coupon for your hot\nspring<n>vacation! Congratulations!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Ohhhhh yeah!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Yes! Yes! Yes! I did it! I won the best<n>prize on offer!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Which means we get to go to a hot<n>spring, right?!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Sweet! Huge baths, scrumptious grub,<n>and comfy\nfutons will all be ours for<n>the taking! ♪",
+            "choice_data_list": [
+                "\"Ours\"?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Yeah, for you and me..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "C-c'mon, just look! It's got \"pair\"<n>written on it right\nhere! I can't go<n>alone!",
+            "choice_data_list": [
+                "Isn't there anyone else you want to invite?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "What's the matter with you?! I need<n>a personal\nporter to carry my<n>suitcases!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "The dastardly Windy doesn't go<n>around handing\nout free vacations! A<n>lackey to do my bidding is all I\nneed!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "So, you better prepare yourself. You'll<n>have to prep\nmy bags, navigate, then<n>put everything away once\nwe've<n>returned! Capisce?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With that, Shinko Windy shoves the<n>hot spring ticket\ninto my hand."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Lose it and ya get chomped!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "We're going once my schedule<n>opens up! Got\nthat?!",
+            "choice_data_list": [
+                "Are you really sure you want me to come?",
+                "Are you really sure you want me to come?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Ngh..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Are you asking 'cause you don't<n>wanna?",
+            "choice_data_list": [
+                "No, that's not it! I'd love to go!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Heheeeh! ♪ Then we're going!"
+        },
+        {
+            "name": "Monologue",
+            "text": "And so, I end up holding onto the<n>ticket for the hot\nspring vacation. This<n>could be a nice reward for her\nafter<n>she reaches that lofty goal of hers!"
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Looks like we have another first-prize<n>winner!\nCongratulations! You get one<n>deluxe carrot\nhamburger steak!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Ooooh! Now that's a tasty looking<n>piece of meat\nright there! <i>Drool...</i>"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I'm starting to feel hungry just<n>lookin' at it! Let's\nrace back to the<n>academy so I can eat it!"
+        },
+        {
+            "name": "Monologue",
+            "text": "We visit another shop to buy salad,<n>some rice balls,\nand dessert, then<n>return to my office to eat together."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Wow, this smells amazing! Where's<n>the knife?\nHurry up and slice it in half<n>already!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Come to Windy!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "<i>CHOMP! Munch, munch...</i> Mmmm!<n>Th-this is..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Just how I like it! Tough and chewy!",
+            "choice_data_list": [
+                "Come again?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "You know! It's real thick and meaty,<n>so your jaw's\ngotta do some work.<n>And the taste is pure and\nsimple."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "The carrots weren't overboiled either,<n>leavin' them\nwith just the right<n>amount of sweetness while still\nstayin' firm. It's perfect! Hehe! ♪"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Reminds me of how Mom makes<n>'em! Hers are\nmuch tastier, though!",
+            "choice_data_list": [
+                "Glad you like it!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I make a mental note of Shinko<n>Windy's culinary\npreferences while<n>the two of us enjoy a laid-back\ndinner together."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "We got a second-prize winner! It's<n>your lucky day!\nYou're going home<n>with a bushel of carrots!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Whoa, just look at 'em all! That's a<n>pretty\ngenerous second prize if you<n>ask me.",
+            "choice_data_list": [
+                "It might as well be all-you-can-eat.",
+                "It might as well be all-you-can-eat."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Yeah, I can eat my heart out..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Wait, no! There's too many to just<n>eat 'em all. That\nwould be wasteful!",
+            "choice_data_list": [
+                "Huh?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Mwahahaha! Oh, the pranks I can pull<n>with these!",
+            "choice_data_list": [
+                "Wh-what are you going to do?!",
+                "Wh-what are you going to do?!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "<i>Knock, knock.</i>"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Coming... There's no one here?<n>That's odd... Huh?\nWhat's this?"
+        },
+        {
+            "name": "Taiki Shuttle",
+            "text": "What?! Well I'll be! A carrot! Who's<n>the angel that\nleft me such a sweet<n>surprise?!"
+        },
+        {
+            "name": "Hishi Amazon",
+            "text": "Ugh! Windy! I know it's you! The<n>carrot-dropping\nding-dong ditcher!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hmph! I don't have a clue what<n>you're talking\nabout. I'm innocent!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hahaha! I discovered one in my<n>locker as well. It\nwas a truly<n>incarrotable moment."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Huh? Whoooa! President, ya actually<n>noticed?!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "You hadn't said anything so I thought<n>you missed it\nsince I put it waaaay in<n>the—"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Bleeeegh! I'm just pullin' your leg!"
+        },
+        {
+            "name": "Symboli Rudolf",
+            "text": "Hehe, normally this mischievous<n>behavior of yours\nwould warrant a<n>terse reprimanding."
+        },
+        {
+            "name": "Grass Wonder",
+            "text": "Hehehe, but this time, you're<n>brightening\neveryone's day. Thank<n>you so much for sharing,\nWindy."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Nuh-uh! Whatcha thankin' me for?! I<n>told you, I\ndunno what you're talkin'<n>about!"
+        },
+        {
+            "name": "Mejiro Dober",
+            "text": "Sheesh... she's so stubborn. Is<n>sharing with others\nreally so<n>embarrassing?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "How 'bout that?! I got 'em all real<n>good, didn't I?!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hehehe! Everybody's talking about<n>the mysterious\nCarrot Phantom of<n>Miho Dormitory!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy is absolutely beaming.<n>Seeing that\nher prank made everyone<n>happy this time, I breathe\na small sigh<n>of relief."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Would you lookie here! You've won<n>the third prize!\nHere's your carrot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "A carrot... Just a carrot?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hmmmm."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I'll take it... but only to make up for<n>the shopping we\nhad to do."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "This... makes things... even... I guess..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Ugh... Graaagh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy suddenly sinks her<n>teeth into the\ncarrot's head and<n>ferociously chomps away!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Phew!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hmph! Serves you right, carrot!",
+            "choice_data_list": [
+                "You must've been hungry..."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "A wild animal's what I am! What you<n>saw were my\nferal instincts takin'<n>over!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Plus, that carrot had to pay the price<n>for\ndisappointin' me! It had the<n>unfortunate fate of\nbecomin' my<n>prey!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She nods to herself in satisfaction. I<n>hope she can\nkeep up the appetite<n>moving forward and grow\nhealthy<n>and strong."
+        },
+        {
+            "name": "Raffle Clerk",
+            "text": "Ohhh, tough luck! Looks like you<n>pulled a blank one!\nTake this pack of<n>tissues as a consolation prize."
+        },
+        {
+            "name": "Monologue",
+            "text": "You obtained: <itemname>",
+            "color_text_info_list": [
+                "<itemname>"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Ya gotta be kiddin'... Tissues?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Grrrr! This sucks!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I wanted somethin' I could actually<n>celebrate about!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hrrrrngh! It's time to ditch this sorry<n>spot!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy drags her feet in the<n>direction of the\nacademy."
+        }
+    ]
+}

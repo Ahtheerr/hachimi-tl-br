@@ -1,0 +1,31 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy hasn't shown up for<n>training.\nWorried, I begin searching for<n>her when..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Oh, it's you! Great timing! Ta-daaah!<n>Look at this!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Whatcha think? Isn't Shishimai all<n>shiny and\nsparklin'? I spent hours<n>polishin' them up!",
+            "choice_data_list": [
+                "And what about your training?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Huh? Training..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Ahhh! I totally forgot about that!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I warn Shinko Windy to not get so<n>absorbed in\nthings that she misses<n>her training."
+        }
+    ]
+}

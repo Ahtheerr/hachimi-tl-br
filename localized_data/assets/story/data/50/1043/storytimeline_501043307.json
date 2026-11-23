@@ -1,0 +1,382 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy completes the Tokai<n>Stakes with\nsupreme focus the whole<n>way through."
+        },
+        {
+            "name": "Reporter A",
+            "text": "Whoa... I didn't realize Shinko Windy<n>could run like\nthat. She's a lot more<n>focused than when she first\ndebuted."
+        },
+        {
+            "name": "Reporter B",
+            "text": "Yeah, she seems more stable<n>recently. Less\ndistracted, and more<n>focused on the track in front of\nher. I<n>guess she's good for more than just<n>a quick\nlaugh."
+        },
+        {
+            "name": "Windy Fan",
+            "text": "E-exactly! Windy is a really talented<n>runner!",
+            "choice_data_list": [
+                "(The strategy's working!)"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "This is the result of her centering her<n>thoughts and\nconcentrating solely on<n>running. I'm starting to see\neven<n>greater potential in her."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "<i>Wheeze... huff... huff... wheeze!</i>"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Yaaah!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Pheeew... I'm beeeat!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I ran real fast though, didn't I? It felt<n>really good,\ntoo. Didn't get annoyed<n>one bit."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "(And hang on... I didn't even <i>think</i><n>about biting\nanybody! Not even once!)"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "(That's weird... Normally, I really gotta<n>hold back the\nurge to chomp<n>someone as I run...)"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...Heh, hehe."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "A-amazing... Windy's truly incredible!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "She's totally evolved since the last<n>time I watched\nher. Even the<n>atmosphere in the venue feels a little\ndifferent."
+        },
+        {
+            "name": "Commentator",
+            "text": "The infamous biter ran better than<n>anyone\nexpected. I won't lie,<n>though—she had me on the\nedge of<n>my seat! Ahahaha!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Just better than expected? They're<n>all still\nunderestimating Windy's skill."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Why can't they see her for how<n>strong she is?"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "It doesn't make any sense!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "At times like this, it's a hero's job to<n>lend a helping\nhand!"
+        },
+        {
+            "name": "Monologue",
+            "text": "With the race over, we're about to<n>head home\nwhen Shinko Windy<n>suddenly stops and looks back\nat the<n>racecourse."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hey, Trainer... What didja think of my<n>running\ntoday?",
+            "choice_data_list": [
+                "You were amazing!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...Heh, hehe."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "You know, even I felt something was<n>different than\nusual."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "It must've been that darkness switch<n>thing I've\nbeen doing, 'cause I was<n>able to put all my\nemotions into just<n>running."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "My desire to win, my frustrations, my<n>regrets, and\nmy anger... all of 'em<n>just blended together..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "And then, my urge to bite went poof!",
+            "choice_data_list": [
+                "That's great to hear!",
+                "That's great to hear!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Lemme promise you this—Windy the<n>biter is gone\nfor good!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Heck, there's no time for that when<n>the finish\nline's just sittin' there,<n>waitin' for me to cross it\nfirst!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I've got my ambition to achieve, so<n>I'm gonna\nkeep on chargin' ahead!",
+            "choice_data_list": [
+                "Now you're talking!",
+                "Now you're talking!"
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "She's truly grown stronger—that goes<n>for her\nrunning <i>and</i> her spirit. Having<n>been by her side this\nwhole time, I<n>see it better than anyone else."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Heh-heh! ♪ Hey! Let's chow down<n>on some miso\npork katsu before we<n>head home! Oh, and some\ncrispy fried<n>shrimp sounds good, too!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I gotta build up my energy reaaal high<n>before my\nnext race! ♪"
+        },
+        {
+            "name": "Monologue",
+            "text": "We take in some of the sights around<n>Chukyo\nRacecourse before leaving<n>for the academy. While\nriding on the<n>bullet train, I decide on our next race.",
+            "choice_data_list": [
+                "Let's aim for the February Stakes!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hehehe, so it's back to G1 races,<n>then. Bring it on!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I've heard that the biggest star in dirt<n>racing right\nnow is set to compete in<n>the February Stakes.",
+            "color_text_info_list": [
+                "February Stakes"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Ah, you're talking about the Queen of<n>Dirt, yeah?! I\nheard she's super<n>powerful.",
+            "choice_data_list": [
+                "Exactly! So if you beat her..."
+            ],
+            "color_text_info_list": [
+                "Queen of Dirt"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Then everyone will <i>have</i> to take me<n>seriously!",
+            "choice_data_list": [
+                "I know you're strong enough to beat her!",
+                "I know you're strong enough to beat her!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Of course I am! Wicked Windy fears<n>no opponent!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I'll show 'em a victory so awesome,<n>it's gonna go\ndown in history! Then<n>everyone'll see—"
+        },
+        {
+            "name": "TV",
+            "text": "Moving on to our next story. In an<n>unexpected\ntwist, the Queen of Dirt<n>has pulled out of this year's\nFebruary Stakes despite being the<n>favorite."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hmm? Hey, lackey! Turn up the<n>volume!"
+        },
+        {
+            "name": "TV",
+            "text": "Boy, who'd have thought she'd opt<n>to race\noverseas instead? It puts a<n>real damper on the\nanticipation<n>surrounding the February Stakes."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "N-no way!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "How am I supposed to show off how<n>great I am\nnow?!",
+            "choice_data_list": [
+                "Hmm."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Arghhh! There's gotta be a way.<n>Can't we make it\nsome kinda huge<n>spectacle or something?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Unable to come up with any ideas,<n>we're left with\nnothing to do but<n>prepare for the February Stakes\nregardless. But at just that moment..."
+        },
+        {
+            "name": "???",
+            "text": "Dash, dash, dash! And... transform!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Ally of integrity and good kiddies<n>everywhere!\nJustice Biko, ready for<n>action! ☆"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I've heard that you're entering the<n>February\nStakes, Windy!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "As such, I'm here to tell you<n>something vital—I'll\nalso be entering!",
+            "choice_data_list": [
+                "Huh?!"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "You will?! Wh-what for?"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I'm going to become your rival!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Huh? <i>You're</i> gonna be... <i>my</i> rival?!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "That's right! I've gotten a lot stronger<n>now, so\nlet's compete to see who<n>comes out on top!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "If we both give it our best shot, I'm<n>sure it'll turn\nout to be an amazing<n>race!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Then everyone watching will finally<n>realize how\ngreat you are!",
+            "choice_data_list": [
+                "...!"
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "So let's show them! We'll make<n>them\nacknowledge our strength!"
+        },
+        {
+            "name": "Monologue",
+            "text": "I see the point she wants to make.<n>The top\ncontender may have dropped<n>out of the February\nStakes..."
+        },
+        {
+            "name": "Monologue",
+            "text": "But if Biko Pegasus were to take part<n>instead, it\ncould still be an electrifying<n>contest!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Biko... you..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hm... You're right that my strength<n>will stand out\nmore if I beat a strong<n>foe..."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "But can ya even run on dirt?! Don't<n>go thinkin'\nyou're some hotshot just<n>'cause you're doing\nkinda well on<n>turf!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Hmph. You'd best not underestimate<n>me! A hero\ncan race on any surface!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Just watch! Yaaah!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Haaahhh!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Biko Pegasus bursts down the track<n>right in front of\nus. Her running is<n>exceptional—and not only that,\nshe<n>exhibits power easily rivaling that of a<n>career\ndirt racer.",
+            "choice_data_list": [
+                "Impressive!"
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "<i>Huff, huff...</i> How was that?!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Wh-what the... Since when could you<n>do all that?!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Heh heh! It's all thanks to what you<n>taught me! If\nI'm not satisfied with<n>things as they are, then I just\nhave to<n>strive to be greater."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "...!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "This is the result of all the effort I've<n>put in since\nthat day. It takes time, but<n>by never giving in, I'm\nslowly getting<n>stronger."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I won't let things end in defeat. I'll<n>never give up\non my dream of<n>becoming a hero!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "You don't want things to stay as they<n>are either,\nright?"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "So let's have an epic clash for the<n>ages!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "We could really change things up!<n>And I don't just\nmean the opinions of<n>the spectators or the critics..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I'm talking about the whole world!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "You wanna change the world? Talk<n>about bitin' off\nmore than ya can<n>chew!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I'm dead serious about this. We<n>could really do it!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "By combining our powers, we can flip<n>the world's\nopinion of us on its head!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "... ...Hmph!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I don't remember making you my<n>rival! But anyone\nbrave enough to<n>pick a fight with me is goin' down!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I'mma crush you into pieces and<n>throw 'em all\nover the track! People<n>will fear the name Wicked\nWindy!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "...!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Hehe. ♪ That's what I wanted to<n>hear!"
+        }
+    ]
+}

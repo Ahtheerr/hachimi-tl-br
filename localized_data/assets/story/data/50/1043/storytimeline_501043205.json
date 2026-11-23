@@ -1,0 +1,120 @@
+{
+    "text_block_list": [
+        {
+            "name": "Monologue",
+            "text": "The Teio Sho is about to begin. I hear<n>a number of\npeople in the stands<n>discussing Shinko Windy."
+        },
+        {
+            "name": "Spectator A",
+            "text": "Shinko Windy, huh. She <i>did</i> manage to<n>pull off a win\nin the February Stakes..."
+        },
+        {
+            "name": "Spectator B",
+            "text": "That's 'cause the top contender<n>pulled out. Sure,\nShinko Windy's<n>good, but it's hard to root for her\nknowing she could get <i>bitey</i> at any<n>minute."
+        },
+        {
+            "name": "Spectator A",
+            "text": "Hmm, I wonder... From what I've<n>seen, it seems\nlike she's put that<n>biting incident behind her!"
+        },
+        {
+            "name": "Spectator B",
+            "text": "Old habits die hard, though. She's a<n>sore loser, so I\nbet she has trouble<n>keeping her cool.",
+            "choice_data_list": [
+                "(...Hm.)"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hey, welcome back, Trainer. What's<n>it like out\nthere?",
+            "choice_data_list": [
+                "There's a lot of excitement in the stands."
+            ]
+        },
+        {
+            "name": "Monologue",
+            "text": "I tell her that while there are some<n>differing\nopinions, for the most part,<n>people are seeing her in\na good light."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Which means some of those chumps<n>still think I'm\na menace, huh?",
+            "choice_data_list": [
+                "Uh... Well..."
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Give me a break already. How do I<n>get it through\ntheir thick heads?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I'm a super strong supervillain! But<n>that doesn't\nmake me a cheater!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I've got real talent! And I'm<n>awesome!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Just then, we hear a knock..."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Hey, Windy! I've come to cheer you<n>on! How are\nyou feeling?"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Biko! Came to watch me, didja?"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "That's right—and I saw some of the<n>other dirt\nracers in the stands, too.<n>Looks like everyone's\neager to see<n>what you can do."
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "But enough about that. Did you see<n>today's Sports\nNews?!"
+        },
+        {
+            "name": "Monologue",
+            "text": "She holds her phone towards us. The<n>headline\nreads..."
+        },
+        {
+            "name": "Monologue",
+            "text": "\"A Surprising Redemption?! Could the<n>Biting\nUmamusume Secretly Be<n>Racing's Next Prodigy?! A\nReview of<n>the G1 Dirt Scene in the Year's First\nHalf.\"",
+            "choice_data_list": [
+                "Oooh..."
+            ]
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Headline aside, the article itself is<n>pretty positive. I\nbet you'd really<n>enjoy reading it!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Hm? Well, might give it a look if I'm<n>bored. ♪"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "Hehe. The world's starting to see<n>you in a different\nlight. The winds of<n>change are blowing!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "And that means this is your chance!<n>Make them\nregret having ever<n>doubted you!"
+        },
+        {
+            "name": "Biko Pegasus",
+            "text": "I'm fully carotene charged and ready<n>to cheer you\non!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Already one step ahead of ya! I'm<n>gonna show\n'em all what I can really<n>do."
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I'mma strike fear into their very<n>souls! Their knees\nwill tremble and<n>their teeth will chatter!"
+        },
+        {
+            "name": "Monologue",
+            "text": "Shinko Windy is bursting with<n>motivation as the\nTeio Sho is set to<n>begin!"
+        }
+    ]
+}

@@ -2,163 +2,163 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "And so, I find myself as Sweep<n>Tosho's familiar on\nher quest to learn<n>racing magic. In other words, I\nbecame her trainer."
+            "text": "E assim, acabei me tornando o<n>familiar de Sweep\nTosho em sua<n>jornada para aprender a magia das\ncorridas. Em outras palavras, virei<n>seu Trainer."
         },
         {
             "name": "Sweep Tosho",
-            "text": "Nope. I don't wanna run on wood<n>chips today. Not\nfeeling it.",
+            "text": "Não. Hoje não quero correr na pista<n>de areia. Não\ntô a fim.",
             "choice_data_list": [
-                "U-um, but—"
+                "M-mas, veja bem..."
             ]
         },
         {
             "name": "Sweep Tosho",
-            "text": "If I don't wanna, I don't wanna! Nooo<n>meanssss\nnooooo!"
+            "text": "Se eu não quero, eu não quero! Nããão<n>é nãããão!"
         },
         {
             "name": "Monólogo",
-            "text": "Honestly, the current situation is far<n>from ideal. At\nthis rate, getting Sweep<n>Tosho to make her official\ndebut<n>might prove to be a challenge."
+            "text": "Sinceramente, a situação atual está<n>longe de ser\nideal. Desse jeito, fazer<n>Sweep Tosho estrear\noficialmente<n>nas corridas pode acabar sendo um\nverdadeiro desafio."
         },
         {
             "name": "Monólogo",
-            "text": "Her refusal to listen to me probably<n>comes from a\nlong history of<n>distrusting her teachers and\nmentors.",
+            "text": "Provavelmente, ela se recusa a me<n>ouvir por causa\nde uma longa história<n>de desconfiança em relação\na<n>professores e mentores.",
             "choice_data_list": [
-                "(If only I could get her to trust me a bit more...)"
+                "(Quem me dera conseguir fazer ela confiar um\npouquinho mais em mim...)"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "That said, earning Sweep Tosho's<n>trust is far from\neasy. The days spent<n>testing various methods to no\navail<n>start to take a toll on my sleep<n>schedule."
+            "text": "Dito isso, conquistar a confiança de<n>Sweep Tosho\nestá longe de ser fácil.<n>Os dias tentando vários\nmétodos sem<n>sucesso começam a afetar até meu\nhorário de sono."
         },
         {
             "name": "Monólogo",
-            "text": "One day, I wait hours on end for her<n>to feel inclined\nto train, and yet<n>another day—"
+            "text": "Teve um dia em que esperei horas<n>até ela sentir\nvontade de treinar, e no<n>outro..."
         },
         {
             "name": "Sweep Tosho",
-            "text": "No, no, no! I don't wanna see another<n>track today!"
+            "text": "Não, não e não! Hoje não quero nem<n>olhar pra\noutra pista!"
         },
         {
             "name": "Monólogo",
-            "text": "So instead, I bring Sweep Tosho<n>somewhere new\nfor a change of<n>pace."
+            "text": "Então, para variar um pouco, levo<n>Sweep Tosho a\num lugar diferente."
         },
         {
             "name": "Sweep Tosho",
-            "text": "Hmm, \"Limited-Edition Fresh<n>Honeyade\"? Well... it\nlooks okay, I<n>guess.",
+            "text": "Hmm, \"Meladinha Fresquinha de<n>Edição Limitada\"?\nBom... Parece<n>aceitável, eu acho.",
             "choice_data_list": [
-                "Wanna try one?",
-                "Wanna try one?"
+                "Quer experimentar?",
+                "Quer experimentar?"
             ]
         },
         {
             "name": "Sweep Tosho",
-            "text": "...Hmph, I'll drink it if you insist. But I<n>don't wanna\nline up. Go buy it for me!",
+            "text": "...Hmph, só vou beber porque você<n>está insistindo.\nMas não quero ficar<n>na fila. Vai comprar pra mim!",
             "choice_data_list": [
-                "Yeah, yeah... <i>Yawn.</i>"
+                "Sim, sim... <i>Bocejo.</i>"
             ]
         },
         {
             "name": "Sweep Tosho",
-            "text": "Hey, wait! C'mon familiar, what're<n>you yawning\nlike that for?! It's bad<n>manners!"
+            "text": "Ei, espera aí! Qual é, familiar? Por que<n>está\nbocejando assim?! Que falta de<n>educação!"
         },
         {
             "name": "Monólogo",
-            "text": "I earn myself another scolding for that<n>yawn before\nheading to the back of<n>the line. Maybe this fatigue\nis<n>catching up to me."
+            "text": "Levo mais uma bronca por causa<n>daquele bocejo\nantes de ir para o fim<n>da fila. Talvez o cansaço\nesteja<n>finalmente me alcançando."
         },
         {
             "name": "Monólogo",
-            "text": "The line is impressively<n>long—probably because\nthey're<n>selling limited-edition drinks. Either<n>way, all I\nhave to do is wait it out..."
+            "text": "A fila é impressionantemente longa...\nProvavelmente porque estão<n>vendendo bebidas de\nedição limitada.<n>De qualquer forma, só preciso\nesperar..."
         },
         {
-            "name": "Tall Umamusume",
-            "text": "I'll say it again—five drinks, one for<n>each of my\nfriends!"
+            "name": "Umamusume Alta",
+            "text": "Vou repetir: cinco bebidas, uma para<n>cada uma das\nminhas amigas!"
         },
         {
-            "name": "Store Employee",
-            "text": "M-my apologies. Fresh Honeyade is<n>a\nlimited-edition product, so each<n>customer may only\npurchase up to<n>two drinks at a time..."
+            "name": "Funcionário da Loja",
+            "text": "M-me desculpe. A Meladinha<n>Fresquinha é um\nproduto de edição<n>limitada, então cada cliente só\npode<n>comprar até duas bebidas por vez..."
         },
         {
-            "name": "Strong Umamusume",
-            "text": "I ain't here for yer excuses! The<n>customer's\nalways right! Right?!"
-        },
-        {
-            "name": "Monólogo",
-            "text": "Two high school Umamusume are<n>arguing with the\nstore employee! And<n>things are getting real tense..."
+            "name": "Umamusume Forte",
+            "text": "Não quero saber das suas<n>desculpinhas! O cliente\nsempre tem<n>razão! Não tem?!"
         },
         {
             "name": "Monólogo",
-            "text": "Wait, what's she—"
+            "text": "Duas Umamusume do sêniors estão<n>discutindo\ncom o funcionário da loja!<n>E a situação está\nficando cada vez<n>mais tensa..."
+        },
+        {
+            "name": "Monólogo",
+            "text": "Espera, o que ela tá...?"
         },
         {
             "name": "Sweep Tosho",
-            "text": "You an idiot or something?!"
+            "text": "Você é idiota ou o quê?!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "It's clearly written right here, \"Only<n>two drinks per\nperson\"! These <i>huge</i><n>letters too small for you to\nread? Do<n>you even <i>have</i> eyes?"
+            "text": "Está escrito bem aqui: \"Apenas duas<n>bebidas por\npessoa\"! E em letras<n><i>GIGANTES</i>! São pequenas\ndemais<n>pra você conseguir ler? Você é <i>CEGA</i><n>por\nacaso?!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Also, if you idiots buy them all out,<n>there'll be no\nmore left for me! Try<n>using your head for once, will\nyou?!"
+            "text": "Além disso, se vocês idiotas<n>comprarem tudo, não\nvai sobrar nada<n>pra mim! Que tal usar a cabeça de\nvez<n>em quando?!"
         },
         {
-            "name": "Strong Umamusume",
-            "text": "Huh? The hell's up with this brat?<n>And what's the\nweird hat for?<n>Shaddup and get lost."
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "...<i>Huh?</i>"
+            "name": "Umamusume Forte",
+            "text": "Hã? Que diabos essa pirralha tá<n>fazendo? E que\nchapéu esquisito é<n>esse? Cala a boca e dá o fora."
         },
         {
             "name": "Sweep Tosho",
-            "text": "Weird hat? Grandma gave me this<n>hat—it's proof\nthat I'm a magical girl...<n>And you called it <i>WEIRD?!</i>"
+            "text": "...<i>Hã?</i>"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Thaaat's it, I've had it with you!<n>Let's settle this\nwith a race! I'll show<n>you who should really shut\nup!"
+            "text": "Chapéu esquisito? A vovó me deu<n>esse chapéu... É\na prova de que sou<n>uma garota mágica... E você\nchamou<n>ele de <i>ESQUISITO?!</i>"
         },
         {
-            "name": "Tall Umamusume",
-            "text": "Huh?! You're on, brat!",
+            "name": "Sweep Tosho",
+            "text": "PRONTO, CHEGA! Já cansei de você!<n>Vamos\nresolver isso numa corrida!<n>Vou mostrar quem é\nque deveria calar<n>a boca!"
+        },
+        {
+            "name": "Umamusume Alta",
+            "text": "Hã?! Cai dentro, pirralha!",
             "choice_data_list": [
-                "W-wait a second!"
+                "E-espera um pouco!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I muster up all my courage and step<n>in between\nthem. It's too late to stop<n>this feud, but at least...",
+            "text": "Reúno toda a minha coragem e me<n>coloco entre as\nduas. Já é tarde<n>demais para impedir essa briga,\nmas<n>pelo menos...",
             "choice_data_list": [
-                "At least, have the race somewhere safer!"
+                "Pelo menos, disputem a corrida em algum lugar\nmais seguro!"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "I try to calm down both sides, who<n>look like they're\nabout to sprint off at<n>any moment..."
+            "text": "Tento acalmar os dois lados, que<n>parecem prestes\na sair disparados a<n>qualquer momento..."
         },
         {
             "name": "Monólogo",
-            "text": "Somehow, I manage to borrow the<n>track where\namateur runners hold<n>unofficial races."
+            "text": "De algum jeito, consigo pegar<n>emprestada a pista\nonde corredores<n>amadoras realizam corridas não\noficiais."
         },
         {
             "name": "Monólogo",
-            "text": "To prevent any unwanted fisticuffs, I<n>place myself\nin between Sweep<n>Tosho and the other\nUmamusume<n>before explaining the rules.",
+            "text": "Para evitar qualquer confronto físico<n>indesejado,\nfico entre Sweep Tosho<n>e a outra Umamusume\nantes de<n>explicar as regras.",
             "choice_data_list": [
-                "W-well then, 1,400 meters on turf... Okay?"
+                "B-bem, então... 1.400 metros na grama... Tudo bem?"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Without bothering to respond, the two<n>head towards\nthe starting gate.<n>Before sending off Sweep Tosho,\nI<n>steel myself and tell her...",
+            "text": "Sem nem se darem ao trabalho de<n>responder, as\nduas seguem em<n>direção aos portões de largada.\nAntes<n>de mandar Sweep Tosho para a pista,<n>respiro\nfundo e digo a ela...",
             "choice_data_list": [
-                "If anything happens, I'll jump in and stop them.",
-                "If anything happens, I'll jump in and stop them."
+                "Se acontecer qualquer coisa, vou entrar na pista e\nparar a corrida.",
+                "Se acontecer qualquer coisa, vou entrar na pista e\nparar a corrida."
             ]
         },
         {
             "name": "Sweep Tosho",
-            "text": "Huh? Even if it's in the middle of the<n>race? You\nmight get hurt real bad,<n>y'know? I don't—",
+            "text": "Hã? Mesmo no meio da corrida?<n>Você pode acabar\nse machucando<n>feio, sabia? Eu não...",
             "choice_data_list": [
-                "So just relax, and go show them what you're\nmade of!"
+                "Então relaxe e vá mostrar do que você é capaz!"
             ]
         },
         {
@@ -167,97 +167,97 @@
         },
         {
             "name": "Monólogo",
-            "text": "And then, the race begins."
+            "text": "E então, a corrida começa."
         },
         {
             "name": "Sweep Tosho",
-            "text": "(...What was that all about? Making it<n>sound like I'd\ndefinitely win if nothing<n>strange happens.)"
+            "text": "(...O que foi aquilo? Falou como se eu<n>fosse vencer\ncom certeza, desde que<n>nada estranho\nacontecesse.)"
         },
         {
-            "name": "Tall Umamusume",
-            "text": "Hmph, you're just a brat! A slow<n>one, too! Don't\nmind me, just<n>passin' through!"
+            "name": "Umamusume Alta",
+            "text": "Hmph, você não passa de uma<n>pirralha! E uma\nlenta, ainda por cima!<n>Nem liga pra mim, só tô\npassando!"
         },
         {
-            "name": "Strong Umamusume",
-            "text": "\"I'll show you who should really shut<n>up,\" was it?\nDon't make me laugh!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "(Urghhh, I'd win this even without<n>your help!\nThere's no way I'm losing<n>to a pair of annoying\njerks like these<n>two!)"
+            "name": "Umamusume Forte",
+            "text": "\"Vou mostrar quem é que deveria<n>calar a boca\", foi\nisso? Não me faça<n>rir!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "<i>Pant, pant...</i> I see it—the final stretch!"
+            "text": "(Urrrrgh, eu venceria essa corrida até<n>sem a sua\najuda! Não tem a menor<n>chance de eu perder pra\nduas idiotas<n>irritantes como essas!)"
         },
         {
             "name": "Sweep Tosho",
-            "text": "(I... I gotta win! I'll leave those<n>dimwits in the dust!)"
+            "text": "<i>Ofegante, ofegante...</i> Tô vendo! A reta<n>final!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Because the strongest one here— is<n>meeeee!"
+            "text": "(E-eu preciso vencer! Vou deixar<n>essas duas\nimbecis comendo poeira!)"
         },
         {
-            "name": "Opponents",
-            "text": "What?! N-no waaay!"
+            "name": "Sweep Tosho",
+            "text": "Porque a mais forte aqui... sou<n>euuuuu!"
+        },
+        {
+            "name": "Oponentes",
+            "text": "O quê?! N-não é possível!"
         },
         {
             "name": "Monólogo",
-            "text": "Wooooo!"
+            "text": "Uhuuuul!"
         },
         {
-            "name": "Male Spectator A",
-            "text": "Wow, did you see that just now?!<n>She had a crazy\nburst of speed at the<n>end there!"
+            "name": "Espectador A",
+            "text": "Nossa, vocês viram isso?! Ela teve<n>uma arrancada\nabsurda de<n>velocidade no final!"
         },
         {
-            "name": "Female Spectator A",
-            "text": "Oh my gosh! That was like so, super<n>hype!"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "<i>Huff, puff...</i> Phew..."
+            "name": "Espectador B",
+            "text": "Meu Deus! Aquilo foi incrível demais!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "(Huh? I feel like... really good?)"
+            "text": "<i>Huff, huff...</i> Ufa..."
         },
         {
             "name": "Sweep Tosho",
-            "text": "(Is it because I put those numbskulls<n>in their place?\nNo, it's not just that—)",
+            "text": "(Hã? Estou me sentindo... muito<n>bem?)"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "(Será que é porque coloquei aquelas<n>idiotas no\nlugar delas? Não, não é só<n>isso...)",
             "choice_data_list": [
-                "Good work out there, Sweep."
+                "Bom trabalho lá fora, Sweep."
             ]
         },
         {
             "name": "Monólogo",
-            "text": "After the race, the high schoolers<n>come and\napologize, and then I go<n>right to Sweep—her running\nwas a<n>sight to behold.",
+            "text": "Depois da corrida, as garotas vêm se<n>desculpar, e\nentão vou direto até<n>Sweep. Sua corrida foi algo\nextraordinário de se ver.",
             "choice_data_list": [
-                "It's like I said before, your running was magical."
+                "Como eu disse antes, sua corrida foi mágica."
             ]
         },
         {
             "name": "Sweep Tosho",
-            "text": "Magic..."
+            "text": "Magia..."
         },
         {
             "name": "Sweep Tosho",
-            "text": "(Ah, that reminds me, the first time we<n>met they\nalso...)"
+            "text": "(Ah, isso me lembra... Na primeira vez<n>que nos\nencontramos, ele também...)"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Hey, familiar? Aren't you wobbling a<n>little bit? You\nokay?"
+            "text": "Ei, familiar? Você não está meio<n>tonto? Tá tudo\nbem?"
         },
         {
             "name": "Monólogo",
-            "text": "<i>Thunk.</i>"
+            "text": "<i>Tum.</i>"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Wha—familiar?! Hey! Say something,<n>dummy!\nAnswer meee!"
+            "text": "O-o quê? Familiar?! Ei! Fala alguma<n>coisa, seu\nbobo! Me respondeee!"
         },
         {
             "name": "Monólogo",
-            "text": "When I realize there's no more need<n>to worry, my\npent-up fatigue hits me<n>all at once—and before I\nknow it, my<n>consciousness fades."
+            "text": "Quando percebo que não há mais<n>motivo para\npreocupação, todo o<n>cansaço que estava\nacumulado me<n>atinge de uma vez e, antes que eu\nperceba, minha consciência começa a<n>desaparecer."
         }
     ]
 }

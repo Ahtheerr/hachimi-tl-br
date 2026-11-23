@@ -1,0 +1,31 @@
+{
+    "text_block_list": [
+        {
+            "name": "Shinko Windy",
+            "text": "Nghh... I'm tired...",
+            "choice_data_list": [
+                "Didn't sleep well last night?",
+                "Didn't sleep well last night?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "Nope... I was reading that super<n>popular comic.\nY'know, the real scary<n>one...",
+            "choice_data_list": [
+                "So you were too afraid to get to sleep?"
+            ]
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "D-d-don't be a dummy! I'm not<n>scared of ghosts!"
+        },
+        {
+            "name": "Shinko Windy",
+            "text": "I'm just tired 'cause I stayed up to<n>read the whole\nthing! It was super<n>funny! Hahaha..."
+        },
+        {
+            "name": "Monologue",
+            "text": "Regardless of the reason, Shinko<n>Windy wasn't\nable to sleep and<n>didn't get much rest as a result."
+        }
+    ]
+}

@@ -2,199 +2,199 @@
     "text_block_list": [
         {
             "name": "Monólogo",
-            "text": "Passing by the library, I catch a<n>glimpse of Sweep\nTosho combing the<n>shelves for something."
+            "text": "Ao passar pela biblioteca, vejo<n>Sweep Tosho\nvasculhando as<n>prateleiras em busca de alguma\ncoisa."
         },
         {
             "name": "Sweep Tosho",
-            "text": "I found it! This is definitely it. I knew I<n>saw it the last\ntime I was here!",
+            "text": "Achei! É definitivamente esse! Eu<n>sabia que tinha\nvisto da última vez<n>que estive aqui!",
             "choice_data_list": [
-                "You studying? I'm impressed!",
-                "You studying? I'm impressed!"
+                "Estudando? Estou impressionado!",
+                "Estudando? Estou impressionado!"
             ]
         },
         {
             "name": "Sweep Tosho",
-            "text": "Hmph, Grandma tells me that all the<n>time!"
+            "text": "Hmph, a vovó vive me dizendo isso!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "More importantly, I gotta hurry before<n>she catches\nup!"
+            "text": "Mas isso não importa agora, preciso<n>me apressar\nantes que ela me<n>alcance!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Thorns, o thorns, entwine! ☆"
+            "text": "Espinhos, ó espinhos, enrolem-se! ☆"
         },
         {
-            "name": "Teacher A",
-            "text": "I've finally found you, Sweep Tosho!"
+            "name": "Professora A",
+            "text": "Finalmente encontrei você, Sweep<n>Tosho!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Huh?! What gives?! Why isn't my<n>ensnaring spell\nworking?!",
+            "text": "Hã?! Qual é?! Por que meu feitiço de\naprisionamento não está<n>funcionando?!",
             "choice_data_list": [
-                "Ensnaring spell?"
+                "Feitiço de aprisionamento?"
             ]
         },
         {
-            "name": "Teacher A",
-            "text": "Ah, I see your trainer is with you as<n>well. Let me\nexplain."
+            "name": "Professora A",
+            "text": "Ah, vejo que seu treinador também<n>está aqui.\nDeixe-me explicar."
         },
         {
-            "name": "Teacher A",
-            "text": "Sweep Tosho didn't do her<n>homework, and when I\ntried to get her<n>to attend makeup lessons, she ran\naway."
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Of course I did! Who would want to<n>stay at school\nfor <i>that?!</i> If I don't<n>wanna, I don't wanna!"
+            "name": "Professora A",
+            "text": "Sweep Tosho não fez a lição de casa<n>e, quando\ntentei fazê-la comparecer<n>às aulas de recuperação,\nela fugiu."
         },
         {
             "name": "Sweep Tosho",
-            "text": "Anyways, why isn't my spell<n>working?! I'm sure I\nfollowed all the<n>steps in this book!",
+            "text": "É claro que não fiz! Quem iria querer<n>ficar na escola\npor causa <i>DISSO?!</i> Se<n>eu não quero, eu não quero!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "Enfim, por que meu feitiço não está<n>funcionando?!\nTenho certeza de que<n>segui todos os passos deste\nlivro!",
             "choice_data_list": [
-                "(Wait, so you weren't studying?!)",
-                "(Wait, so you weren't studying?!)"
+                "(Espera, então você não estava estudando?!)",
+                "(Espera, então você não estava estudando?!)"
             ]
         },
         {
-            "name": "Teacher A",
-            "text": "Sweep Tosho, hear me out. I'm not<n>giving you\nhomework so you have<n>more busywork to do."
+            "name": "Professora A",
+            "text": "Sweep Tosho, escute o que tenho a<n>dizer. Não\nestou passando lição de<n>casa só para te dar mais\ntrabalho."
         },
         {
-            "name": "Teacher A",
-            "text": "In your future as a competitor,<n>balancing training\nwith your studies<n>will be very important. That's\nwhy<n>I'm giving you homework now, so<n>you can get\nused to it."
+            "name": "Professora A",
+            "text": "No seu futuro como competidora, será<n>muito\nimportante equilibrar os treinos<n>com os estudos. É\npor isso que estou<n>passando lições agora, para que\nvocê<n>se acostume."
         },
         {
             "name": "Sweep Tosho",
-            "text": "Blah blah blah—who are you to give<n>me orders?! If I\ndon't wanna, I'm not<n>gonna!"
+            "text": "Blá-blá-blá! Quem é você para ficar<n>me dando\nordens?! Se eu não quero,<n>não vou fazer!"
         },
         {
-            "name": "Teacher A",
+            "name": "Professora A",
             "text": "Sweep Tosho!"
         },
         {
             "name": "Monólogo",
-            "text": "Clearly, these two have forgotten to<n>use their inside\nvoices. Sensing the<n>judging stares of those around\nus, I<n>realize it's my time to intervene.",
+            "text": "Está claro que as duas esqueceram<n>de falar baixo.\nSentindo os olhares de<n>reprovação das pessoas ao\nredor,<n>percebo que chegou a hora de<n>intervir.",
             "choice_data_list": [
-                "Sorry for the trouble. Perhaps I could talk to Sweep\nif you don't mind?"
+                "Desculpe pelo transtorno. Talvez eu possa\nconversar com a Sweep, se não se importar?"
             ]
         },
         {
             "name": "Monólogo",
-            "text": "Back in my office, I suggest to Sweep<n>Tosho that\nmaybe doing her<n>homework wouldn't be so bad.\nHeck,<n>it might even be fun!"
+            "text": "De volta ao meu escritório, sugiro a<n>Sweep Tosho\nque talvez fazer a lição<n>de casa não seja tão ruim\nassim. Na<n>verdade, pode até ser divertido!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Homework, schomework—even my<n>familiar's\ngetting on my case now! I<n>thought you were helping\nme by<n>getting that teacher outta my hair!",
+            "text": "Lição de casa, lição de chata... Até<n>meu familiar está\npegando no meu pé<n>agora! Pensei que você estava\nme<n>ajudando ao tirar aquela professora<n>do meu\nencalço!",
             "choice_data_list": [
-                "You can't just <i>not</i> do your homework.",
-                "You can't just <i>not</i> do your homework."
+                "Você não pode simplesmente <i>não</i> fazer sua lição\nde casa.",
+                "Você não pode simplesmente <i>não</i> fazer sua lição\nde casa."
             ]
         },
         {
             "name": "Sweep Tosho",
-            "text": "Then why don't <i>you</i> do it for me,<n>familiar?!",
+            "text": "Então por que <i>VOCÊ</i> não faz por mim,<n>familiar?!",
             "choice_data_list": [
-                "You know I can't do that!"
+                "Você sabe que não posso fazer isso!"
             ]
         },
         {
             "name": "Sweep Tosho",
-            "text": "And why not?! A familiar <i>HAS</i> to<n>listen to their\nmaster, y'know?"
+            "text": "E por que não?! Um familiar <i>TEM</i> que<n>obedecer à\nsua mestra, sabia?"
         },
         {
             "name": "Monólogo",
-            "text": "There's no stopping her once she's<n>throwing a\ntantrum. She's completely<n>honest with her feelings,\nand has no<n>patience for things she isn't<n>interested\nin."
+            "text": "Não há como pará-la quando começa<n>a fazer birra.\nEla é completamente<n>sincera com seus\nsentimentos e não<n>tem paciência para coisas que\nnão<n>lhe interessam."
         },
         {
             "name": "Monólogo",
-            "text": "In a sudden flash of genius, I recall a<n>recent\nmoment when she showed a<n>liking to something."
+            "text": "De repente, tenho uma ideia brilhante<n>e me lembro\nde uma ocasião recente<n>em que ela demonstrou\ngostar de<n>alguma coisa."
         },
         {
             "name": "Sweep Tosho",
-            "text": "I found it! This is definitely it. I knew I<n>saw it the last\ntime I was here!"
+            "text": "Achei! É definitivamente esse! Eu<n>sabia que tinha\nvisto da última vez<n>que estive aqui!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Hey, what're you all quiet for?",
+            "text": "Ei, por que ficou tão quieto?",
             "choice_data_list": [
-                "Why don't you just do your homework with\nmagic?"
+                "Por que você não faz sua lição de casa usando\nmagia?"
             ]
         },
         {
             "name": "Sweep Tosho",
-            "text": "Huh? You mean like writing the<n>answers with\nmagic? Hmm, you<n>might be onto something.",
+            "text": "Hã? Tipo escrever as respostas com<n>magia? Hmm,\nacho que você está<n>tendo uma boa ideia.",
             "choice_data_list": [
-                "I guess that could work, but what about casting a\nspell on yourself?",
-                "I guess that could work, but what about casting a\nspell on yourself?"
+                "Acho que isso poderia funcionar, mas e se você\nlançasse um feitiço em si mesma?",
+                "Acho que isso poderia funcionar, mas e se você\nlançasse um feitiço em si mesma?"
             ]
         },
         {
             "name": "Sweep Tosho",
-            "text": "Casting a spell on myself? Explain,<n>familiar.",
+            "text": "Lançar um feitiço em mim mesma?<n>Explique,\nfamiliar.",
             "choice_data_list": [
-                "You know, like a spell to help you solve problems\nfaster!",
-                "You know, like a spell to help you solve problems\nfaster!"
+                "Sabe, um feitiço para te ajudar a resolver os\nexercícios mais rápido!",
+                "Sabe, um feitiço para te ajudar a resolver os\nexercícios mais rápido!"
             ]
         },
         {
             "name": "Sweep Tosho",
-            "text": "Isn't that just extra steps though? So<n>basically...\nyou want me to cast a<n>speed spell, right?"
+            "text": "Mas isso não seria trabalho extra?<n>Então,\nbasicamente... você quer que<n>eu lance um feitiço de\nvelocidade, né?"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Well... whatever. Sounds kinda fun!<n>Here I go!"
+            "text": "Bom... tanto faz. Parece divertido! Lá<n>vou eu!"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Spell well—excel! Alstroemeria! ☆"
+            "text": "Feitiço perfeito, conhecimento<n>completo!\nAlstroeméria! ☆"
         },
         {
             "name": "Sweep Tosho",
-            "text": "Okay, now for the first problem...<n>Wow, it really is a\npiece of cake now!"
+            "text": "Muito bem, agora vamos ao primeiro<n>exercício...\nUau, ficou fácil demais<n>mesmo!"
         },
         {
             "name": "Monólogo",
-            "text": "As if truly enchanted, Sweep begins<n>to plow\nthrough her homework at an<n>impressive pace."
+            "text": "Como se estivesse realmente<n>encantada, Sweep\ncomeça a devorar<n>sua lição de casa em uma\nvelocidade<n>impressionante."
         },
         {
             "name": "Sweep Tosho",
-            "text": "For this problem... Urgh, I can feel my<n>speed\ndropping! \"Solve like the wind!<n>Alstroemeria! ☆\""
+            "text": "Esse exercício... Urgh, sinto minha<n>velocidade\ndiminuindo! \"Resolva<n>como o vento! Alstroeméria!\n☆\""
         },
         {
             "name": "Sweep Tosho",
-            "text": "Wow, I can't believe I'm already<n>done! Do you see\nnow, familiar? This<n>is the power of Magical Girl\nSweepy!"
+            "text": "Uau, não acredito que já terminei!<n>Está vendo,\nfamiliar? Esse é o poder<n>da Garota Mágica\nSweepy!"
         },
         {
             "name": "Monólogo",
-            "text": "When she makes up her mind to do<n>something, she\nreally does do it better<n>than anyone else.",
+            "text": "Quando decide fazer alguma coisa,<n>ela realmente\nfaz melhor do que<n>qualquer outra pessoa.",
             "choice_data_list": [
-                "Your magic is out of this world!",
-                "Your magic is out of this world!"
+                "Sua mágica é de outro mundo!",
+                "Sua mágica é de outro mundo!"
             ]
         },
         {
             "name": "Sweep Tosho",
-            "text": "Hehe, praise me more! I can't wait to<n>shut that\nteacher up! C'mon, let's go<n>find her—I bet she'll be\nshocked!"
+            "text": "Hehe, me elogie mais! Mal posso<n>esperar para\ncalar a boca daquela<n>professora! Vamos, vamos\nprocurá-la! Aposto que ela vai ficar<n>chocada!"
         },
         {
-            "name": "Teacher A",
-            "text": "A perfect score. Good grief, I knew<n>you could do it if\nyou applied yourself,<n>so please stop running away\nall the<n>time. Also..."
+            "name": "Professora A",
+            "text": "Nota máxima. Francamente, eu sabia<n>que você\nconseguiria se realmente se<n>dedicasse, então, por\nfavor, pare de<n>fugir o tempo todo. Ah, e mais uma\ncoisa..."
         },
         {
-            "name": "Teacher A",
-            "text": "Your trainer helped you, right? Make<n>sure to say\nthank you later, okay?"
-        },
-        {
-            "name": "Sweep Tosho",
-            "text": "Geeeeez! She should've been<n>stunned by my\nmagic—not fawning<n>over my familiar!"
+            "name": "Professora A",
+            "text": "Seu treinador ajudou você, não foi?<n>Não se\nesqueça de agradecer a ele<n>depois, ouviu?"
         },
         {
             "name": "Sweep Tosho",
-            "text": "In any case, with magic on my side,<n>homework is a\nproblem of the past.<n>Goodbye extra lessons, hello\nfreedom!"
+            "text": "Pooooxa! Ela deveria ter ficado<n>impressionada com\na minha magia,<n>não ficar toda encantada com meu\nfamiliar!"
+        },
+        {
+            "name": "Sweep Tosho",
+            "text": "De qualquer forma, com a magia ao<n>meu lado, a\nlição de casa não é mais<n>um problema. Adeus,\naulas de<n>recuperação! Olá, liberdade!"
         },
         {
             "name": "Monólogo",
-            "text": "As she says that, her eyes light up<n>with newfound\nmotivation. When it<n>comes to doing what she loves,\nyou<n>won't find a harder worker than<n>Sweep Tosho."
+            "text": "Ao dizer isso, seus olhos brilham com<n>uma\nmotivação renovada. Quando se<n>trata de fazer o\nque ama, não existe<n>ninguém mais esforçada do\nque<n>Sweep Tosho."
         }
     ]
 }
